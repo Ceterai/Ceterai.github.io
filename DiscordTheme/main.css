@@ -1,0 +1,44 @@
+@import url(https://Ceterai.github.io/DiscordTheme/base.css);
+:root {
+	--ct_0: #ffffff;
+	--ct_1: #cce8ff;
+	--ct_2: #b0e0fc;
+	--ct_3: #60c0fc;
+	--ct_4: #2080f0;
+	--ct_5: #0050c0;
+	--ct_6: #002e68;
+	--ct_7: #001428;
+	--ct_8: #000000;
+
+	--ct_h0: var(--ct_3);
+	--ct_h1: var(--ct_2);
+	--ct_h2: var(--ct_4);
+	--ct_body: var(--ct_4);
+	--ct_accent: var(--ct_6);
+	--ct_link: var(--ct_3);
+	--ct_channel: var(--ct_3);
+	--ct_logo: var(--ct_2);
+	--ct_shadow: rgb(from var(--ct_8) r g b / 0%);
+
+	--ct_alpha_main: rgb(from var(--ct_7) r g b / 15%);
+	--ct_alpha_elevation: rgb(from var(--ct_7) r g b / 30%);
+	--ct_alpha_medium: rgb(from var(--ct_7) r g b / 40%);
+	--ct_alpha_strong: rgb(from var(--ct_7) r g b / 80%);
+	--ct_alpha_body2: rgb(from var(--ct_4) r g b / 20%);
+
+	--channel-text-area-placeholder: var(--ct_5); /* Message Bar Placeholder */
+	--info-warning-foreground: var(--ct_2); /* Mention Line */
+	--background-mentioned: rgb(from var(--ct_2) r g b / 12.5%); /* Mention BG */
+	--bg-overlay-selected: rgb(from var(--ct_5) r g b / 25%); /* Selected Item (Chat) */
+	--bg-overlay-active: rgb(from var(--ct_5) r g b / 50%); /* Hovered Item (Chat) */
+	--background-modifier-selected: rgb(from var(--ct_5) r g b / 25%); /* Selected Item (Chat) */
+	--background-modifier-active: rgb(from var(--ct_5) r g b / 50%); /* Hovered Item (Chat) */
+	--bg-overlay-hover: rgb(from var(--ct_4) r g b / 6%); /* Selected Item (Chat) */
+	--background-modifier-hover: rgb(from var(--ct_4) r g b / 6%); /* Selected Item (Chat) */
+	--background-accent: var(--ct_4);
+	--ct_emoji_accent: rgb(from var(--ct_2) r g b / 25%);
+	--ct_fav_icon: var(--ct_2);
+	--status-warning-background: rgb(from var(--ct_4) r g b / 50%); /* Voice disconnected notice */
+	--status-warning-text: var(--ct_2);
+	--background-modifier-accent: var(--ct_6); /* All Long Dividers */
+}

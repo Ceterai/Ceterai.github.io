@@ -1,0 +1,242 @@
+:root {
+	--ct_font: "Lucida Console", "Courier New";
+	--background: url("https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/img/stardust_moonbeam.png");
+
+    --ct_bg_fit: center/cover;
+    --ct_bd_fit: center/cover;
+    --ct_bg_blur: blur(1px);
+    --ct_bd_blur: blur(1px);
+    --ct_bg_img: var(--background);
+    --ct_bd_img: var(--background);
+
+	--ct_0: #ffffff;
+	--ct_1: #cce8ff;
+	--ct_2: #b0e0fc;
+	--ct_3: #60c0fc;
+	--ct_4: #2080f0;
+	--ct_5: #0050c0;
+	--ct_6: #002e68;
+	--ct_7: #001428;
+	--ct_8: #000000;
+
+	--ct_h0: #60c0fc;
+	--ct_h1: #b0e0fc;
+	--ct_h2: #2080f0;
+	--ct_body: #2080f0;
+	--ct_accent: #002e68;
+	--ct_link: #60c0fc;
+	--ct_channel: #60c0fc;
+	--ct_logo: #b0e0fc;
+	--ct_shadow: #00000000;
+
+	--ct_alpha_main: #00142826; /* 0.15 */
+	--ct_alpha_elevation: #0014284d; /* 0.3 */
+	--ct_alpha_medium: #00142866; /* 0.4 */
+	--ct_alpha_strong: #001428cc; /* 0.8 */
+	--ct_alpha_body2: #2080f033; /* 0.2 */
+
+	--channel-text-area-placeholder: #0050c0; /* Message Bar Placeholder */
+	--info-warning-foreground: #b0e0fc; /* Mention Line */
+	--background-mentioned: #b0e0fc20; /* Mention BG */
+	--bg-overlay-selected: #0050c040; /* Selected Item (Chat) */
+	--bg-overlay-active: #0050c080; /* Hovered Item (Chat) */
+	--background-modifier-selected: #0050c040; /* Selected Item (Chat) */
+	--background-modifier-active: #0050c080; /* Hovered Item (Chat) */
+	--bg-overlay-hover: #2080f010; /* Selected Item (Chat) */
+	--background-modifier-hover: #2080f010; /* Selected Item (Chat) */
+	--background-accent: #2080f0;
+	--ct_emoji_accent: #b0e0fc40;
+	--ct_fav_icon: #b0e0fc;
+	--status-warning-background: #2080f080; /* Voice disconnected notice */
+	--status-warning-text: #b0e0fc;
+	--background-modifier-accent: #002e68; /* All Long Dividers */
+}
+
+.theme-light, .theme-dark {
+	--header-primary: var(--ct_h1);
+	--header-secondary: var(--ct_h2);
+	--text-normal: var(--ct_body);
+	--text-muted: var(--ct_h0);
+	--text-link: var(--ct_link);
+	--channels-default: var(--ct_body);
+	--interactive-normal: var(--ct_3);
+	--interactive-hover: var(--ct_2);
+	--interactive-active: var(--ct_channel);
+	--interactive-muted: var(--ct_5);
+	--elevation-low: 0 1px 5px 0 var(--ct_alpha_elevation);
+	--elevation-high: 0 2px 10px 0 var(--ct_alpha_elevation);
+	--logo-primary: var(--ct_logo);
+
+    --deprecated-card-bg: transparent;
+    --input-background: transparent;
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --background-secondary-alt: transparent;
+    --background-tertiary: #00000033;
+    /* --background-floating: transparent; */
+    --deprecated-text-input-bg: transparent;
+}
+
+/* Main */
+#app-mount
+{ background-color: var(--ct_alpha_main); }
+::-webkit-input-placeholder, body, button, input, select, textarea
+{ font-family: var(--ct_font); }
+::selection,
+.highlight
+{ background: var(--ct_accent); }
+
+#app-mount .elevationLow-2lY09M, #app-mount .elevationLow-126AxN, .lightElevationLow-3_Ybxi, .darkElevationLow-DABD7i {
+	box-shadow: 0 1px 5px 0 var(--ct_alpha_elevation);
+}
+#app-mount .elevationHigh-3A9Xbf, #app-mount .elevationHigh-1PneE4, .lightElevationHigh-3usmGv, .darkElevationHigh-6iWpWi {
+	box-shadow: 0 2px 10px 0 var(--ct_alpha_elevation);
+}
+#app-mount .elevationBorderLow-2qgTRQ, #app-mount .elevationBorderLow-2_BGCd, .lightElevationBorderLow-3APXjz, .darkElevationBorderLow-39dDV7 {
+	box-shadow: 0 0 0 1px var(--ct_alpha_elevation), 0 1px 5px 0 var(--ct_alpha_elevation);
+}
+#app-mount .elevationBorderHigh-2WYJ09, #app-mount .elevationBorderHigh-2_BGCd, .lightElevationBorderHigh-2T98IF, .darkElevationBorderHigh-2U1nXW {
+	box-shadow: 0 0 0 1px var(--ct_alpha_elevation), 0 2px 10px 0 var(--ct_alpha_elevation);
+}
+
+/* BG */
+body::before {
+	content: ""; top: 0; left: 0; right: 0; bottom: 0; position: fixed;
+	background: var(--ct_bg_img) var(--ct_bg_fit); filter: var(--ct_bg_blur);
+}
+#ace_settingsmenu_container,
+.uploadArea-3QgLtW,
+.backdropWithLayer-3_uhz4,
+.backdrop-1wrmKB {
+	background: var(--ct_bd_img) var(--ct_bd_fit) !important; filter: var(--ct_bd_blur);
+	opacity: 1; animation: none;
+}
+.backdropWithLayer-3_uhz4 { z-index: -1; }
+
+/* ScrollBars */
+::-webkit-scrollbar,
+#app-mount ::-webkit-scrollbar {
+	width: 8px;
+	height: 8px;
+}
+#app-mount .scroller-3vODG7::-webkit-scrollbar {
+	width: 6px;
+	height: 6px;
+}
+#app-mount .scroller--qpKGq::-webkit-scrollbar,
+#app-mount .scrollbar-3dvm_9::-webkit-scrollbar,
+#app-mount .scroller-2PSBSf::-webkit-scrollbar {
+	width: 4px;
+	height: 4px;
+}
+::-webkit-scrollbar,
+::-webkit-scrollbar-track,
+::-webkit-scrollbar-track-piece,
+#app-mount ::-webkit-scrollbar,
+#app-mount ::-webkit-scrollbar-track,
+#app-mount ::-webkit-scrollbar-track-piece {
+	border-color: transparent !important;
+	background: transparent !important;
+}
+::-webkit-scrollbar-thumb,
+#app-mount ::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	border: none;
+	background-color: var(--ct_accent) !important;
+}
+.none-2Eo-qx::-webkit-scrollbar-corner,
+.none-2Eo-qx::-webkit-scrollbar-thumb,
+.none-2Eo-qx::-webkit-scrollbar-track,
+.none-2Eo-qx::-webkit-scrollbar {
+	display: none;
+}
+
+#app-mount .inset_ac5d22
+{ background-color: var(--ct_accent); }
+#app-mount .interactive_ac5d22
+{ background-color: var(--ct_alpha_strong); border-color: var(--ct_accent); }
+/* Dark Elements */
+#app-mount .selected_a0, /* Friends - Header Selected Tab */
+#app-mount .pollContainer_b558d0, /* Message Poll */
+#app-mount .popoverReactionHoverBar_e986d9, /* Message Hover Menu */
+#app-mount .resultsGroup_b0286e, /* Search Results */
+#app-mount .popoutContainer_cf58b5, /* Popup Menus - Emoji Source */
+#app-mount .popout_c5b389, /* Popup Menus - Server - More Active Threads Popup */
+#app-mount .scroller_d90b3d, /* Popup Menus */
+#app-mount .scrollableContainer_bdf0de, /* Message Bar - Message Bar */
+#app-mount .button_dd4f85, /* Gift Button - Message Bar */
+#app-mount .tooltip_b6c360, /* Server Name Popups (Tooltips) */
+#app-mount .drawerSizingWrapper_af5dbb, /* Emoji Picker */
+#app-mount .modalRoot_d5bea8, /* Status Changer Popup */
+#app-mount .footer_f9a4c9 /* Status Changer Popup - Footer */
+{ background-color: var(--ct_alpha_strong); }
+#app-mount .votePercentageBar_cf2c85 /* Message Poll Percentage */
+{ background-color: var(--ct_alpha_body2); }
+#app-mount .closedFolderIconWrapper_bc7085, /* Servers - Collapsed Folder */
+#app-mount .guildSeparator_d0c57e, /* Server Divider */
+#app-mount .divider_fc4f04, /* Friends - Header Tab Divider */
+#app-mount .answerInner_cf2c85, /* Message Poll Answer */
+#app-mount .searchAnswer_b0fa94,
+#app-mount .searchFilter_b0fa94 /* Search Filter Presets ("mentiones:", etc.) */
+{ background-color: var(--ct_6); }
+#app-mount .embedWrapper_b558d0 /* Message - Attachment Vertical Line */
+{ border-color: var(--ct_accent) !important; }
+/* GIF Favorite Star SVG */
+#app-mount .gifFavoriteButton_b558d0,
+#app-mount .gifFavoriteButton_c5e128,
+#app-mount .icon_c5e128
+{ color: var(--ct_fav_icon); }
+/* Emoji Picker Highlight */
+#app-mount .emojiItem_fbfedd.emojiItemSelected_fbfedd
+{ background-color: var(--ct_emoji_accent); }
+/* Call Control Buttons */
+#app-mount .centerIcon_ef18ee
+{ color: var(--ct_1); }
+/* Servers - Expanded Folder Icon */
+#app-mount .expandedFolderIconWrapper_bc7085 > svg > path
+{ fill: var(--ct_body); }
+/* Header Icon in Server and Friends */
+#app-mount .iconWrapper_fc4f04 > svg > path
+{ fill: var(--ct_body); }
+#app-mount .addFriend_c2739c
+{ color: var(--ct_6); background-color: var(--ct_4); }
+/* Make server channel icons (#) properly colored */
+#app-mount .containerDefault_f6f816
+{ color: var(--ct_body); }
+#app-mount .modeUnreadImportant_d8bfb3
+{ color: var(--ct_channel); }
+#app-mount .modeMuted_d8bfb3
+{ color: var(--ct_5); }
+#app-mount .modeSelected_d8bfb3
+{ color: var(--ct_channel); }
+#app-mount .link_d8bfb3:not([color]),
+#app-mount .linkTop_d8bfb3:not([color]),
+#app-mount .iconContainer_d8bfb3:not([color]),
+#app-mount .icon_d8bfb3:not([color])
+{ color: inherit; }
+/* On-Off Sliders */
+#app-mount .container_cebd1c:not(.checked_cebd1c)
+{ background-color: var(--ct_accent) !important; }
+#app-mount .container_cebd1c:not(.checked_cebd1c) > svg > rect
+{ fill: var(--ct_1) !important; }
+#app-mount .container_cebd1c:not(.checked_cebd1c) > svg > svg > path
+{ fill: var(--ct_accent) !important; }
+#app-mount .checked_cebd1c
+{ background-color: var(--ct_body) !important; }
+#app-mount .checked_cebd1c > svg > rect
+{ fill: var(--ct_1) !important; }
+#app-mount .checked_cebd1c > svg > svg > path
+{ fill: var(--ct_body) !important; }
+
+#app-mount .name_d8bfb3, /* Channel List - Channel Names */
+#app-mount .repliedTextPlaceholder_f9f2ca, /* Chat - Message - Reply to attachment */
+#app-mount .reactionCount_ec6b19, /* Chat - Message - Reaction Counter */
+#app-mount .messageContent_f9f2ca, /* Chat - Message - Contents */
+#app-mount .grid_b0068a > div, /* Chat - Message - Edit - Text */
+#app-mount .editor_a552a6, /* Chat - Form - Text */
+#app-mount .placeholder_a552a6 /* Chat - Form - Placeholder */
+{ font-size: 80%; line-height: 120%; }
+#app-mount .username_f9f2ca /* Chat - Message - Author */
+{ font-size: 90%; }
+#app-mount .link_d8bfb3 /* Channel List - Channel Padding */
+{ padding: 3px 8px; }
