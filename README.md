@@ -1,8 +1,10 @@
-![ ](https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/img/stardust_moonbeam.png)
+<div align="center">
+    <img src="https://static.planetminecraft.com/files/avatar/2301410_5.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye">
+</div>
 
 <h1 align="center">
 
-<img src="https://avatars.githubusercontent.com/u/61030725?v=4&size=24"> <b>CETERAI's LAIR</b> <img src="https://avatars.githubusercontent.com/u/61030725?v=4&size=24">
+<b>CETERAI's LAIR</b>
 
 </h1>
 
@@ -20,7 +22,7 @@ This is mainly for hosting files needed for other projects.
 
 <a href="https://discord.gg/gGEwZ5vbgr">>>> DISCORD SERVER <<<</a>
 
-<p align="center">
+<p align="center" style="font-size: 80%; opacity: 80%;">
 
 (dev updates, questions, bug reporting, and lots of emojis and stickers! ^^)
 
@@ -28,6 +30,10 @@ This is mainly for hosting files needed for other projects.
 
 </h4>
 
-## Projects
+<h2 align="center">
 
-- [Discord Themes](/DiscordTheme/README.md)
+<b>PROJECTS</b>
+<br><br>
+<a href="/DiscordTheme/">Discord Themes</a>
+
+</h2>
