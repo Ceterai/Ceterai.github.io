@@ -22,13 +22,17 @@
 	font-family: var(--ct_font);
 	background-image: var(--ct_bg);
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	background-size: cover;
 }
 
 .ct_icon {
 	width: "24px";
 	height: "24px";
+	background-color: rgb(from var(--ct_5) r g b / 50%);
+	color: var(--ct_3);
+	padding: 0px 12px;
+	display: inline-block;
+	border-radius: 10px;
 }
 
 .markdown-body h1 {
@@ -59,14 +63,9 @@
 .markdown-body {
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 0;
-	margin-bottom: 0;
     left: 25%;
     width: 50%;
     position: absolute;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
 
 	line-height: 200%;
 	font-size: 80%;
