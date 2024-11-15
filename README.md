@@ -8,9 +8,9 @@
 
 </h1>
 
-<div align="center">
+<div align="center" style="line-height: 200%;">
 <a href="https://linktr.ee/ceterai">>>> LINKTREE <<<</a></div>
-<div align="center">
+<div align="center" style="line-height: 200%;">
 <a href="https://www.buymeacoffee.com/ceterai">>>> SUPPORT ME <<<</a>
 </div>
 <div align="center">
@@ -49,8 +49,10 @@
 
 </h2>
 
+<div id="user-content-toc">
 <ul align="center" style="list-style-type: none; padding: 0; margin: 0;">
 
 <li><a href="/art/">Artwork</a></li>
 
 </ul>
+</div>
