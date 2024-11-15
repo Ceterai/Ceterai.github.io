@@ -3,3 +3,5 @@ tagline: Projects
 description: A home to some interesting projects... and all the stardust.
 image: https://avatars.githubusercontent.com/u/61030725
 logo: https://static.planetminecraft.com/files/avatar/2301410_5.gif
+plugins:
+  - jekyll-seo-tag
