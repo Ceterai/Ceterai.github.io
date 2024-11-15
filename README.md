@@ -1,4 +1,4 @@
-<div style="background-image: url('https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/img/deep_sea_small.gif'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; padding: 16px 16px; width:100%; height:100%; top:0px; left:0px; border-color: #2080f0; border-width: 4px; color: #b0e0fc;" markdown="1">
+<div style="background-image: url('https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/img/deep_sea_small.gif'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; padding: 16px 16px; width:100%; height:100%; top:0px; left:0px; color: #b0e0fc; border: 4px solid #0050c044;" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/img/stardust_moonbeam.png)
 
