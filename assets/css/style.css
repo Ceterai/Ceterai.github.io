@@ -8,12 +8,11 @@
 	--ct_6: #002e68;
 	--ct_7: #001428;
 	--ct_8: #000000;
+
 	background-image: url('https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/img/deep_sea_small.gif');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	color: #b0e0fc;
-	font-family: "Lucida Console", "Courier New";
 }
 
 #ct_lair {
@@ -25,13 +24,14 @@
 	font-family: "Lucida Console", "Courier New";
 }
 
-#ct_lair .ct_header {
+h1 {
 	color: #60c0fc;
 	font-size: 300%;
 	-webkit-text-stroke: 2px #0050c0;
+	text-transform: uppercase;
 }
 
-#ct_lair .ct_container {
+.markdown-body {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 0;
@@ -42,7 +42,11 @@
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
+
 	line-height: 200%;
+	font-size: 80%;
+	color: #b0e0fc;
+	font-family: "Lucida Console", "Courier New";
 }
 
 #ct_lair a:link, #ct_lair a:visited {
