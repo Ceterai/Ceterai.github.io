@@ -27,6 +27,7 @@
 
 </h2>
 
+<div id="user-content-toc">
 <ul align="center" style="list-style-type: none; padding: 0; margin: 0;">
 
 <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2006558650"><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> My Enternia</a></li>
@@ -40,6 +41,7 @@
 <li><a href="https://github.com/Ceterai/AltaSS14Sprites">Space Station 14 Sprites</a></li>
 
 </ul>
+</div>
 
 <h2 align="center">
 
