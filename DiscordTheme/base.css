@@ -50,6 +50,12 @@
 	--status-warning-background: #2080f080; /* Voice disconnected notice */
 	--status-warning-text: #b0e0fc;
 	--background-modifier-accent: #002e68; /* All Long Dividers */
+	--black: var(--ct_alpha_medium);
+	--background-floating: var(--ct_alpha_medium); /* Call - Background */
+	--bg-surface-overlay: var(--ct_alpha_medium); /* Call - Screenshare - Background */
+	--green-360: var(--ct_4);
+	--status-danger-background: #2080f080;
+	--status-danger-text: #b0e0fc;
 }
 
 .theme-light, .theme-dark {
@@ -115,31 +121,27 @@ body::before {
 
 /* ScrollBars */
 ::-webkit-scrollbar,
-#app-mount ::-webkit-scrollbar {
-	width: 8px;
-	height: 8px;
-}
-#app-mount .scroller-3vODG7::-webkit-scrollbar {
-	width: 6px;
-	height: 6px;
-}
+#app-mount ::-webkit-scrollbar
+{ width: 8px; height: 8px; }
+#app-mount .scroller-3vODG7::-webkit-scrollbar
+{ width: 6px; height: 6px; }
 #app-mount .scroller--qpKGq::-webkit-scrollbar,
 #app-mount .scrollbar-3dvm_9::-webkit-scrollbar,
-#app-mount .scroller-2PSBSf::-webkit-scrollbar {
-	width: 4px;
-	height: 4px;
-}
+#app-mount .scroller-2PSBSf::-webkit-scrollbar
+{ width: 4px; height: 4px; }
 ::-webkit-scrollbar,
 ::-webkit-scrollbar-track,
 ::-webkit-scrollbar-track-piece,
 #app-mount ::-webkit-scrollbar,
 #app-mount ::-webkit-scrollbar-track,
-#app-mount ::-webkit-scrollbar-track-piece {
+#app-mount ::-webkit-scrollbar-track-piece
+{
 	border-color: transparent !important;
 	background: transparent !important;
 }
 ::-webkit-scrollbar-thumb,
-#app-mount ::-webkit-scrollbar-thumb {
+#app-mount ::-webkit-scrollbar-thumb
+{
 	border-radius: 10px;
 	border: none;
 	background-color: var(--ct_accent) !important;
@@ -147,9 +149,8 @@ body::before {
 .none-2Eo-qx::-webkit-scrollbar-corner,
 .none-2Eo-qx::-webkit-scrollbar-thumb,
 .none-2Eo-qx::-webkit-scrollbar-track,
-.none-2Eo-qx::-webkit-scrollbar {
-	display: none;
-}
+.none-2Eo-qx::-webkit-scrollbar
+{ display: none; }
 
 #app-mount .inset_ac5d22
 { background-color: var(--ct_accent); }
@@ -240,3 +241,35 @@ body::before {
 { font-size: 90%; }
 #app-mount .link_d8bfb3 /* Channel List - Channel Padding */
 { padding: 3px 8px; }
+#app-mount .linkButton_c91bad:not(.layout_ec8679) /* Chats - Friends / Nitro / Shop */
+{ height: 28px; }
+#app-mount .layout_ec8679 /* Chats - Friend Size */
+{ height: 36px; }
+#app-mount .name_ec8679 /* Chats - Friend Name */
+{ font-size: 90%; }
+#app-mount .subtext_c91bad /* Chats - Friend Status */
+{ font-size: 60%; }
+#app-mount .imageLoading_b000dd, /* Emoji Picker - Emoji Placeholder */
+#app-mount .stickerInspected_a708c4.sticker_a708c4.sticker_de4721,
+#app-mount .sticker_a708c4:after,
+#app-mount .full-motion .sticker_a708c4:after
+{ background: var(--ct_6); border-radius: 8px; }
+#app-mount .primaryDark_ef18ee, /* Call - Control Buttons */
+#app-mount .green_ef18ee /* Call - Incoming Buttons */
+{ background: var(--ct_6); }
+#app-mount .white_ef18ee /* Call - Control Buttons */
+{ background: var(--ct_2); }
+#app-mount .red_ef18ee /* Call - Control Buttons */
+{ background: var(--ct_5); }
+#app-mount .colorable_ef18ee.white_ef18ee .centerIcon_ef18ee /* Call - Control Buttons */
+{ color: var(--ct_7); }
+#app-mount .fullscreenOnMobile_f9a4c9, /* User Profile - Big */
+#app-mount .inner_c69a7b /* User Profile - Small */
+{ background: var(--ct_alpha_strong); }
+#app-mount .fullSize_c69a7b /* User Profile - Big */
+{ background: transparent; }
+#app-mount .activity_b8cc6d, /* User Profile - Small */
+#app-mount .overlay_b9fccc /* User Profile - Big */
+{ background: var(--ct_alpha_body2); }
+#app-mount .lookFilled_dd4f85 /* User Profile - Buttons */
+{ background: var(--ct_5); color: var(--ct_1); }
