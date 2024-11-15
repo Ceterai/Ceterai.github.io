@@ -28,11 +28,6 @@
 .ct_icon {
 	width: "24px";
 	height: "24px";
-	background-color: rgb(from var(--ct_5) r g b / 50%);
-	color: var(--ct_3);
-	padding: 0px 12px;
-	display: inline-block;
-	border-radius: 10px;
 }
 
 .markdown-body h1 {
@@ -90,6 +85,7 @@
 	background-color: rgb(from var(--ct_5) r g b / 50%);
 	color: var(--ct_3);
 	padding: 0px 12px;
+	margin: 6px 6px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
