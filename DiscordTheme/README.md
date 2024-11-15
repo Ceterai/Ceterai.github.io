@@ -1,5 +1,3 @@
-> [Home](/../) > Discord Themes
-
 ## Discord Theme Base
 
 A place for the base files used by my BetterDiscord themes.

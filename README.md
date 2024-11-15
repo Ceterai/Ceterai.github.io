@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/ceterai.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye">
+    <img src="art/ceterai.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye">
 </div>
 
 <h1 align="center">
@@ -34,8 +34,20 @@
 
 </h2>
 
-<ul align="center" style="list-style-type: none; padding: 0; margin: 0;"><li>
+<ul align="center" style="list-style-type: none; padding: 0; margin: 0;">
 
-<a href="/DiscordTheme/">Discord Themes</a>
+<li><a href="/DiscordTheme/">Discord Themes</a></li>
 
-</li></ul>
+</ul>
+
+<h2 align="center">
+
+<b>CREDITS</b>
+
+</h2>
+
+<ul align="center" style="list-style-type: none; padding: 0; margin: 0;">
+
+<li><a href="/art/">Artwork</a></li>
+
+</ul>

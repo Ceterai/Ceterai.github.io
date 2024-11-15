@@ -99,7 +99,7 @@
 
 {% unless is_front_page %}
   {% if page.title == nil %}
-    {% assign title = page.name %}
+    {% assign title = page.url %}
   {% else %}
     {% assign title = page.title %}
   {% endif %}
