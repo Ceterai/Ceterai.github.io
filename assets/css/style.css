@@ -16,9 +16,9 @@
 }
 
 .markdown-body h1 {
-	color: #60c0fc;
+	color: #60c0fc !important;
 	font-size: 300%;
-	-webkit-text-stroke: 2px #0050c0;
+	-webkit-text-stroke: 2px #0050c0 !important;
 	text-transform: uppercase;
 }
 
