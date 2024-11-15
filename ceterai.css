@@ -62,11 +62,12 @@
 	margin-right: auto;
     left: 25%;
     width: 50%;
-    position: relative;
     padding: 24px;
-	vertical-align: middle ;
-	margin-top: auto;
-	margin-bottom: auto;
+    position: absolute;
+	max-height: 500px;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 
 	line-height: 200%;
 	font-size: 80%;
