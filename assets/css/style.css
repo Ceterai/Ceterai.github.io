@@ -1,0 +1,56 @@
+:root {
+	--ct_0: #ffffff;
+	--ct_1: #cce8ff;
+	--ct_2: #b0e0fc;
+	--ct_3: #60c0fc;
+	--ct_4: #2080f0;
+	--ct_5: #0050c0;
+	--ct_6: #002e68;
+	--ct_7: #001428;
+	--ct_8: #000000;
+}
+
+#ct_lair {
+	background-image: url('https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/img/deep_sea_small.gif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #b0e0fc;
+	font-family: "Lucida Console", "Courier New";
+}
+
+#ct_lair .ct_header {
+	color: #60c0fc;
+	font-size: 300%;
+	-webkit-text-stroke: 2px #0050c0;
+}
+
+#ct_lair .ct_container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+    left: 25%;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+	line-height: 200%;
+}
+
+#ct_lair a:link, #ct_lair a:visited {
+	background-color: rgb(from var(--ct_5) r g b / 50%);
+	color: #60c0fc;
+	padding: 0px 12px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 10px;
+}
+  
+#ct_lair a:hover, #ct_lair a:active {
+	background-color: rgb(from var(--ct_7) r g b / 50%);
+	color: #2080f0;
+	border-radius: 10px;
+}
