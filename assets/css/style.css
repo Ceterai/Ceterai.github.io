@@ -8,6 +8,12 @@
 	--ct_6: #002e68;
 	--ct_7: #001428;
 	--ct_8: #000000;
+	background-image: url('https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/img/deep_sea_small.gif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #b0e0fc;
+	font-family: "Lucida Console", "Courier New";
 }
 
 #ct_lair {
