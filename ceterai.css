@@ -65,7 +65,6 @@
     position: absolute;
 	max-height: 500px;
     top: 50%;
-    bottom: 24px;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 
