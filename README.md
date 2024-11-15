@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-![ ](https://avatars.githubusercontent.com/u/61030725?v=4&size=24) **CETERAI's LAIR** ![ ](https://avatars.githubusercontent.com/u/61030725?v=4&size=24)
+<img src="https://avatars.githubusercontent.com/u/61030725?v=4&size=24"> <b>CETERAI's LAIR</b> <img src="https://avatars.githubusercontent.com/u/61030725?v=4&size=24">
 
 </h1>
 
@@ -10,15 +10,15 @@ This is mainly for hosting files needed for other projects.
 
 <h4 align="center">
 
-[>>> LINKTREE <<<](https://linktr.ee/ceterai)
+<a href="https://linktr.ee/ceterai">>>> LINKTREE <<<</a>
 
 </h4><h4 align="center">
 
-[>>> SUPPORT ME <<<](https://www.buymeacoffee.com/ceterai)
+<a href="https://www.buymeacoffee.com/ceterai">>>> SUPPORT ME <<<</a>
 
 </h4><h4 align="center">
 
-[>>> DISCORD SERVER <<<](https://discord.gg/gGEwZ5vbgr)
+<a href="https://discord.gg/gGEwZ5vbgr">>>> DISCORD SERVER <<<</a>
 
 <p align="center">
 
