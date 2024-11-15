@@ -26,6 +26,11 @@
 	background-size: cover;
 }
 
+.ct_icon {
+	width: "24px";
+	height: "24px";
+}
+
 .markdown-body h1 {
 	color: var(--ct_3);
 	font-size: 300%;

@@ -36,7 +36,15 @@
 
 <ul align="center" style="list-style-type: none; padding: 0; margin: 0;">
 
+<li><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2006558650">My Enternia</a></li>
 <li><a href="/DiscordTheme/">Discord Themes</a></li>
+<li><a href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=211820">Starbound Mods</a></li>
+<li><a href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=620">Portal 2 Maps</a></li>
+<li><a href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=597170">Clone Drone Maps</a></li>
+<li><a href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=270010">Time Rifters Maps</a></li>
+<li><a href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=273500">Over 9000 Zombies! Maps</a></li>
+<li><a href="https://github.com/Ceterai/AltaMCSkins">Minecraft Skins</a></li>
+<li><a href="https://github.com/Ceterai/AltaSS14Sprites">Space Station 14 Sprites</a></li>
 
 </ul>
 
