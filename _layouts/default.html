@@ -12,7 +12,9 @@
   <body class="ct_body">
     <div class="container markdown-body">
       <h1>{{ site.title }}</h1>
-      
+      <blockquote>
+        {% include breadcrumbs.html %}
+      </blockquote>
       {{ content }}
     </div>
   </body>

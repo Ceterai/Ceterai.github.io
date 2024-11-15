@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://static.planetminecraft.com/files/avatar/2301410_5.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye">
+    <img src="images/ceterai.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye">
 </div>
 
 <h1 align="center">
@@ -7,8 +7,6 @@
 <b>CETERAI's LAIR</b>
 
 </h1>
-
-This is mainly for hosting files needed for other projects.
 
 <h4 align="center">
 
@@ -33,7 +31,11 @@ This is mainly for hosting files needed for other projects.
 <h2 align="center">
 
 <b>PROJECTS</b>
-<br><br>
-<a href="/DiscordTheme/">Discord Themes</a>
 
 </h2>
+
+<ul align="center" style="list-style-type: none; padding: 0; margin: 0;"><li>
+
+<a href="/DiscordTheme/">Discord Themes</a>
+
+</li></ul>

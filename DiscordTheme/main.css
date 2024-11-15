@@ -1,15 +1,6 @@
 @import url(https://Ceterai.github.io/DiscordTheme/base.css);
+@import url(https://Ceterai.github.io/ceterai.css);
 :root {
-	--ct_0: #ffffff;
-	--ct_1: #cce8ff;
-	--ct_2: #b0e0fc;
-	--ct_3: #60c0fc;
-	--ct_4: #2080f0;
-	--ct_5: #0050c0;
-	--ct_6: #002e68;
-	--ct_7: #001428;
-	--ct_8: #000000;
-
 	--ct_h0: var(--ct_3);
 	--ct_h1: var(--ct_2);
 	--ct_h2: var(--ct_4);
