@@ -22,7 +22,8 @@
 	font-family: var(--ct_font);
 	background-image: var(--ct_bg);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-attachment: fixed;
+	background-size: contain;
 }
 
 .ct_icon {
@@ -85,7 +86,8 @@
 	background-color: rgb(from var(--ct_5) r g b / 50%);
 	color: var(--ct_3);
 	padding: 0px 12px;
-	margin: 6px 6px;
+	margin: 4px 4px;
+	vertical-align: middle;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;

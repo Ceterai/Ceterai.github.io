@@ -8,25 +8,18 @@
 
 </h1>
 
-<h4 align="center">
-
-<a href="https://linktr.ee/ceterai">>>> LINKTREE <<<</a>
-
-</h4><h4 align="center">
-
+<div align="center">
+<a href="https://linktr.ee/ceterai">>>> LINKTREE <<<</a></div>
+<div align="center">
 <a href="https://www.buymeacoffee.com/ceterai">>>> SUPPORT ME <<<</a>
-
-</h4><h4 align="center">
-
+</div>
+<div align="center">
 <a href="https://discord.gg/gGEwZ5vbgr">>>> DISCORD SERVER <<<</a>
-
 <p align="center" style="font-size: 80%; opacity: 80%;">
-
 (dev updates, questions, bug reporting, and lots of emojis and stickers! ^^)
-
 </p>
 
-</h4>
+</div>
 
 <h2 align="center">
 
