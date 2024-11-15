@@ -8,6 +8,7 @@
 	--ct_6: #002e68;
 	--ct_7: #001428;
 	--ct_8: #000000;
+	--ct_avatar: url("https://static.planetminecraft.com/files/avatar/2301410_5.gif");
 
 	background-image: url('https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/img/deep_sea_small.gif');
 	background-repeat: no-repeat;
@@ -85,4 +86,11 @@
 #ct_lair a:hover, #ct_lair a:active {
 	background-color: rgb(from var(--ct_7) r g b / 50%);
 	color: #2080f0;
+}
+
+.ct_avatar {
+	content: var(--ct_avatar) / "CeterEye";
+	border-radius: 40%;
+	width: 128px;
+	height: 128px;
 }
