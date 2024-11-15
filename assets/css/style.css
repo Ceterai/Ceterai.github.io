@@ -15,15 +15,18 @@
 	background-size: cover;
 }
 
-.markdown-body h1,
+.markdown-body h1 {
+	color: #60c0fc;
+	font-size: 300%;
+	-webkit-text-stroke: 2px #0050c0;
+	text-transform: uppercase;
+}
 .markdown-body h1 a:link,
 .markdown-body h1 a:visited,
 .markdown-body h1 a:hover,
 .markdown-body h1 a:active {
 	color: #60c0fc;
-	font-size: 300%;
 	-webkit-text-stroke: 2px #0050c0;
-	text-transform: uppercase;
 }
 
 .markdown-body h2,
