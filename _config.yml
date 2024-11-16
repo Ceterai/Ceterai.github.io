@@ -2,6 +2,7 @@ title: Ceterai's Lair
 tagline: Projects
 description: A home to some interesting projects... and all the stardust.
 author: Ceterai
+repository: Ceterai/Ceterai.github.io
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-include
