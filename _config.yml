@@ -4,3 +4,4 @@ description: A home to some interesting projects... and all the stardust.
 author: Ceterai
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-include
