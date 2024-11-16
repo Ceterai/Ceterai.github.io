@@ -30,7 +30,7 @@
 <div id="user-content-toc">
 <ul align="center" style="list-style-type: none; padding: 0; margin: 0;">
 
-<li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2006558650"><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> My Enternia</a></li>
+<li><a href="/MyEnternia/"><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> My Enternia</a></li>
 <li><a href="/DiscordTheme/">Discord Themes</a></li>
 <li><a href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=211820">Starbound Mods</a></li>
 <li><a href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=620">Portal 2 Maps</a></li>
