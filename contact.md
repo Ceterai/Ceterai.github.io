@@ -1,4 +1,4 @@
-## Contact Me
+# Contact Me
 
 You can find all of my socials in my link tree!
 

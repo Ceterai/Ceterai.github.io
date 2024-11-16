@@ -44,7 +44,7 @@
 {% unless is_front_page %}
   {% assign page = include.page | default: page %}
   {% unless omit_home %}
-    {% capture breadcrumb_text %}{% include breadcrumb_text.html url="/" default="Home" %}{% endcapture %}
+    {% capture breadcrumb_text %}{% include breadcrumb_text.html url="/" default=site.title %}{% endcapture %}
     {% assign breadcrumb_text = breadcrumb_text | split: "🗾" %}
     {% assign breadcrumbs = breadcrumbs | concat: breadcrumb_text %}
   {% endunless %}
