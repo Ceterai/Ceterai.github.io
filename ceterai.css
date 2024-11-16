@@ -64,6 +64,7 @@
     width: 50%;
     position: absolute;
 	max-height: 500px;
+	min-width: 500px;
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
