@@ -91,7 +91,7 @@
 	color: var(--ct_2);
 }
 
-#ct_lair a:link, #ct_lair a:visited {
+.ct_button a:link, .ct_button a:visited {
 	background-color: rgb(from var(--ct_5) r g b / 50%);
 	color: var(--ct_3);
 	padding: 0px 12px;
@@ -103,7 +103,7 @@
 	border-radius: 10px;
 }
 
-#ct_lair a:hover, #ct_lair a:active {
+.ct_button a:hover, .ct_button a:active {
 	background-color: rgb(from var(--ct_7) r g b / 50%);
 	color: var(--ct_4);
 }
