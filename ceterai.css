@@ -60,11 +60,10 @@
 .markdown-body {
 	margin-left: auto;
 	margin-right: auto;
-    left: 25%;
-    width: 50%;
     position: absolute;
+    width: 50%;
+    left: 25%;
 	max-height: 500px;
-	min-width: 200px;
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -72,6 +71,11 @@
 	line-height: 200%;
 	font-size: 80%;
 	color: var(--ct_3);
+}
+
+@media (max-width:500px) .markdown-body {
+    width: 100%;
+    left: 0;
 }
 
 .markdown-body a:link, .markdown-body a:visited {
