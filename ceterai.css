@@ -13,7 +13,7 @@
 	--ct_8: #000000;
 
 	--ct_font: "Lucida Console", "Courier New";
-	--ct_bg: url('https://Ceterai.github.io/art/deep_sea.gif')
+	--ct_bg: url('https://Ceterai.github.io/art/deep_sea.gif');
 }
 
 /* Website CSS */
@@ -61,8 +61,6 @@
     margin-left: auto;
     margin-right: auto;
     position: absolute;
-    width: 50%;
-    left: 25%;
     max-height: 500px;
     top: 50%;
     -ms-transform: translateY(-50%);
@@ -73,10 +71,15 @@
     color: var(--ct_3);
 }
 
-@media (max-width:500px) .markdown-body {
-    width: 100% !important;
-    left: 0px !important;
-}
+@media (min-width:500px) { .markdown-body {
+    width: var(--ct_width, 50%);
+    left: var(--ct_left, 25%);
+} }
+
+@media (max-width:500px) { .markdown-body {
+    width: 90%;
+    left: 5%;
+} }
 
 .markdown-body a:link, .markdown-body a:visited {
 	color: var(--ct_2);
@@ -91,7 +94,7 @@
 	color: var(--ct_2);
 }
 
-.ct_button a:link, .ct_button a:visited {
+a.ct_button:link, a.ct_button:visited {
 	background-color: rgb(from var(--ct_5) r g b / 50%);
 	color: var(--ct_3);
 	padding: 0px 12px;
@@ -103,7 +106,47 @@
 	border-radius: 10px;
 }
 
-.ct_button a:hover, .ct_button a:active {
+a.ct_button:hover, a.ct_button:active {
 	background-color: rgb(from var(--ct_7) r g b / 50%);
 	color: var(--ct_4);
+}
+
+a.ct_card {
+	margin: 5px;
+	width: 200px;
+	height: 150px;
+
+	border: solid;
+	border-width: 2px;
+	border-radius: 16px;
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	transition: 0.3s;
+
+	display: inline-flex;
+	align-items: flex-end;
+	overflow: hidden;
+}
+
+a.ct_card > p {
+	height: 20%;
+	width: 100%;
+	background-color: #2080f099;
+	display: flex;
+	margin-bottom: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+a.ct_card:link, a.ct_card:visited {
+	background-color: transparent;
+	border-color: var(--ct_5);
+}
+
+a.ct_card:hover, a.ct_card:active {
+	opacity: 80%;
+	background-color: rgb(from var(--ct_5) r g b / 80%);
+	border-color: var(--ct_4);
 }

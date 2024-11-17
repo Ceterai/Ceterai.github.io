@@ -7,11 +7,17 @@
     <link href="{{ '/ceterai.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
     <meta property="og:logo" content="https://Ceterai.github.io/art/ceterai.gif">
     <meta property="og:image" content="https://Ceterai.github.io/art/ceterai.png">
+    <style>
+      .markdown-body {
+	      --ct_width: {{ page.width | default: "50%" }};
+	      --ct_left: {{ page.left | default: "25%" }};
+      }
+    </style>
     {% seo %}
   </head>
   <body class="ct_body">
     <div class="container markdown-body">
-      <blockquote style="opacity: 70%;">
+      <blockquote>
         {% include breadcrumbs.html %}
       </blockquote>
       {{ content }}
