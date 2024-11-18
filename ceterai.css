@@ -129,6 +129,7 @@ a.ct_card {
 	display: inline-flex;
 	align-items: flex-end;
 	overflow: hidden;
+	vertical-align: middle;
 }
 
 a.ct_card > p {
