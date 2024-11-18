@@ -117,7 +117,6 @@ a.ct_card {
 	width: 200px;
 	height: 150px;
 
-	border: solid !important;
 	border-width: 2px !important;
 	border-radius: 16px !important;
 
@@ -132,10 +131,10 @@ a.ct_card {
 }
 
 a.ct_card > p {
-	height: 20% !important;
+	height: 30px !important;
 	width: 100% !important;
 	background-color: #2080f099 !important;
-	line-height: 50%;
+	line-height: 75%;
 	display: flex;
 	margin-bottom: 0;
     justify-content: center;
@@ -143,12 +142,13 @@ a.ct_card > p {
 }
 
 a.ct_card:link, a.ct_card:visited {
-	background-color: transparent;
-	border-color: var(--ct_5);
+	background-color: transparent !important;
+	border-color: var(--ct_5) !important;
+	border: solid !important;
 }
 
 a.ct_card:hover, a.ct_card:active {
-	opacity: 80%;
-	background-color: rgb(from var(--ct_5) r g b / 80%);
-	border-color: var(--ct_4);
+	opacity: 80% !important;
+	background-color: rgb(from var(--ct_5) r g b / 80%) !important;
+	border-color: var(--ct_4) !important;
 }
