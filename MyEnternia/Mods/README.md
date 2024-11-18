@@ -1,6 +1,6 @@
 # Mods
 
-![ ](https://raw.githubusercontent.com/Ceterai/Enternia/refs/heads/main/.meta/images/banners/alta_collection.png)
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/refs/heads/main/.meta/images/banners/alta_collection.png" alt="Alta Mods Banner" width="100%">
 
 This simple collection of **My Enternia** and **Alta** related mods is meant to gather all of them in one place, to make it easier to find them.
 
