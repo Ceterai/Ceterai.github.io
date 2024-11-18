@@ -117,14 +117,14 @@ a.ct_card {
 	width: 200px;
 	height: 150px;
 
-	border: solid;
-	border-width: 2px;
-	border-radius: 16px;
+	border: solid !important;
+	border-width: 2px !important;
+	border-radius: 16px !important;
 
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	transition: 0.3s;
+	transition: 0.3s !important;
 
 	display: inline-flex;
 	align-items: flex-end;
@@ -132,9 +132,10 @@ a.ct_card {
 }
 
 a.ct_card > p {
-	height: 20%;
-	width: 100%;
-	background-color: #2080f099;
+	height: 20% !important;
+	width: 100% !important;
+	background-color: #2080f099 !important;
+	line-height: 50%;
 	display: flex;
 	margin-bottom: 0;
     justify-content: center;
