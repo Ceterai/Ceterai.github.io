@@ -14,11 +14,7 @@
 
 	--ct_font: "Lucida Console", "Courier New";
 	--ct_bg: url('https://Ceterai.github.io/art/deep_sea.gif');
-}
 
-/* Website CSS */
-
-.ct_body {
 	font-family: var(--ct_font);
 	background-image: var(--ct_bg);
 	background-repeat: no-repeat;
@@ -26,6 +22,8 @@
 	background-size: cover;
 	background-position: center;
 }
+
+/* Website CSS */
 
 .ct_icon {
 	width: "24px";
@@ -58,6 +56,12 @@
 }
 
 .markdown-body {
+    line-height: 200%;
+    font-size: 80%;
+    color: var(--ct_3);
+}
+
+.ct_body {
     margin-left: auto;
     margin-right: auto;
     position: absolute;
@@ -65,18 +69,14 @@
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-
-    line-height: 200%;
-    font-size: 80%;
-    color: var(--ct_3);
 }
 
-@media (min-width:500px) { .markdown-body {
+@media (min-width:500px) { .ct_body {
     width: var(--ct_width, 50%);
     left: var(--ct_left, 25%);
 } }
 
-@media (max-width:500px) { .markdown-body {
+@media (max-width:500px) { .ct_body {
     width: 90%;
     left: 5%;
 } }

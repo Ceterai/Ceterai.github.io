@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="/art/ceterai.gif">
-    <link href="{{ '/ceterai.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
-    <meta property="og:logo" content="https://Ceterai.github.io/art/ceterai.gif">
-    <meta property="og:image" content="https://Ceterai.github.io/art/ceterai.png">
+    <link rel="icon" href="{{ '/art/ceterai.gif?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/ceterai.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta property="og:logo" content="{{ 'https://Ceterai.github.io/art/ceterai.gif?v=' | append: site.github.build_revision | relative_url }}">
+    <meta property="og:image" content="{{ 'https://Ceterai.github.io/art/ceterai.png?v=' | append: site.github.build_revision | relative_url }}">
     <style>
       .markdown-body {
 	      --ct_width: {{ page.width | default: "50%" }};
@@ -15,8 +15,8 @@
     </style>
     {% seo %}
   </head>
-  <body class="ct_body">
-    <div class="container markdown-body">
+  <body>
+    <div class="container markdown-body ct_body">
       <blockquote>
         {% include breadcrumbs.html %}
       </blockquote>

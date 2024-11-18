@@ -31,13 +31,11 @@
 <details markdown="1">
 <summary align="center">Expand table of contents...</summary>
 
-- [{{ site.title }}](/)
+- [Home](/)
   - [My Enternia](/MyEnternia)
     - [Mods](/MyEnternia/Mods)
     - [Wiki](/MyEnternia/Wiki)
   - [Discord Themes](/DiscordThemes)
-  - [About Me](/about)
-  - [Contact Me](/contact)
 
 </details>
 

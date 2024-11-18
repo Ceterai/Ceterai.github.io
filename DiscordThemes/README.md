@@ -11,7 +11,7 @@ These are source files used as a **base** for the discord themes.
 
 ## Themes
 
-<div>
+<div align="center">
 <a href="CeterEye" class="ct_card" style="background-image: url(https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/art/showcase.png);"><p>CeterEye</p>
 </a>
 </div>
