@@ -35,6 +35,7 @@
 	font-size: 300%;
 	-webkit-text-stroke: 2px var(--ct_5);
 	text-transform: uppercase;
+	text-align: center;
 }
 .markdown-body h1 a:link,
 .markdown-body h1 a:visited,
