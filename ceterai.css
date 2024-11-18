@@ -117,6 +117,7 @@ a.ct_card {
 	width: 200px;
 	height: 150px;
 
+	border-color: var(--ct_5) !important;
 	border-width: 2px !important;
 	border-radius: 16px !important;
 
