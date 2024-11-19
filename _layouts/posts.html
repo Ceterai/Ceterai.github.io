@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="{{ '/art/ceterai.gif?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/ceterai.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta property="og:logo" content="{{ 'https://Ceterai.github.io/art/ceterai.gif?v=' | append: site.github.build_revision | relative_url }}">
+    <meta property="og:image" content="{{ 'https://Ceterai.github.io/art/ceterai.png?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      .ct_body {
+	      --ct_width: {{ page.width | default: "50%" }};
+	      --ct_left: {{ page.left | default: "25%" }};
+      }
+    </style>
+    {% seo %}
+  </head>
+  <body id="ct_ws">
+    <div class="container markdown-body ct_body">
+      <blockquote>
+        {% include breadcrumbs.html %}
+      </blockquote>
+      {{ content }}
+      <div style="min-height: 128px;"></div>
+      <div align="right" style="line-height: 180%; padding-bottom: 16px;">
+          <a href="https://about.me/ceterai">About</a> | <a href="https://linktr.ee/ceterai">Contacts</a> | <a href="https://github.com/Ceterai/Ceterai.github.io">GitHub</a>
+      </div>
+    </div>
+  </body>
+</html>
