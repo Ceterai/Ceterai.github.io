@@ -1,5 +1,5 @@
 ---
-title: Ceterai's Workshop
+title: Workshop
 permalink: Workshop/index.html
 width: 80%
 left: 10%
