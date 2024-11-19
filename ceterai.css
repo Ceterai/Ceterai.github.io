@@ -94,7 +94,7 @@
 }
 
 @media (min-width:500px) { .ct_body_half {
-    width: var(--ct_width, 49.5%);
+    width: 49.5%;
 } }
 
 @media (max-width:500px) { .ct_body_half {
