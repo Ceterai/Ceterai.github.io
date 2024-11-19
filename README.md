@@ -51,12 +51,13 @@
 <li><a class="ct_button" href="MyEnternia"><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> My Enternia</a></li>
 <li><a class="ct_button" href="DiscordThemes">Discord Themes</a></li>
 <li><a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=211820">Starbound Mods</a></li>
-<li><a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=620">Portal 2 Maps</a></li>
-<li><a class="ct_button" href="CDDZ">Clone Drone Maps</a></li>
+<li><a class="ct_button" href="Portal2">Portal 2 Maps</a></li>
+<li><a class="ct_button" href="CDDZ">Clone Drone Maps & Guides</a></li>
 <li><a class="ct_button" href="TimeRifters">Time Rifters Maps</a></li>
 <li><a class="ct_button" href="O9000Z">Over 9000 Zombies! Maps</a></li>
-<li><a class="ct_button" href="https://github.com/Ceterai/AltaMCSkins">Minecraft Skins</a></li>
+<li><a class="ct_button" href="Minecraft">Minecraft Skins & Packs</a></li>
 <li><a class="ct_button" href="https://github.com/Ceterai/AltaSS14Sprites">Space Station 14 Sprites</a></li>
+<li><a class="ct_button" href="GMod">GMod Collections</a></li>
 
 </ul>
 </div>
