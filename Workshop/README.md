@@ -16,7 +16,7 @@ layout: posts
 
 ## [Clone Drone In The Danger Zone](CDDZ)
 
-### [CDDZ Arenas](CDDZ#Arenas)
+### [CDDZ Arenas](CDDZ#arenas)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1792138378" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/787484935179721189/9D22EFEB1750E7A2CA2096EDFFA8AF87678FD4C2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); margin: 5px; width: 200px; height: 100px; background-repeat: no-repeat; background-size: cover; background-position: center; display: inline-flex; align-items: flex-end; overflow: hidden;"><p style="height: 20%; width: 100%; display: flex; margin-bottom: 0; justify-content: center; align-items: center; background-color: #323232;">A long way (easy)</p>
@@ -73,7 +73,7 @@ layout: posts
 </a>
 </div>
 
-### CDDZ Challenges
+### [CDDZ Challenges](CDDZ#challenges)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2283824013" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1674737957422526885/526E5AC65DEB9A7692CAD33B10EE4E6C0821AF31/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); margin: 5px; width: 200px; height: 100px; background-repeat: no-repeat; background-size: cover; background-position: center; display: inline-flex; align-items: flex-end; overflow: hidden;"><p style="height: 20%; width: 100%; display: flex; margin-bottom: 0; justify-content: center; align-items: center; background-color: #323232;">Sky Hights Challenge</p>
@@ -86,14 +86,14 @@ layout: posts
 </a>
 </div>
 
-### CDDZ Collections
+### [CDDZ Collections](CDDZ#collections)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2318339236" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1658978082452886575/1C0F7BC5EC04015D1EDB3FADAEA06F04913EFDED/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 200px;"><p>Parkour Arenas</p></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2283931492" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1658978082447007719/D25F1DF45F421A4D9D5E6EAB6121FD96F118E1E4/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 200px;"><p>Keeps & Castles</p></a>
 </div>
 
-### CDDZ Guides
+### [CDDZ Guides](CDDZ#guides)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2343263707" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1660105753771166174/8C71CF6819C044C93B343986427824243B54FC68/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 200px;"><p>Achievements Tips & Tricks</p></a>
@@ -102,16 +102,16 @@ layout: posts
 
 ## Discord
 
-### Discord Themes
+### [Discord Themes](DiscordThemes)
 
 <div align="center">
 <a href="CeterEye" class="ct_card" style="background-image: url(https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/art/showcase.png);"><p>CeterEye</p>
 </a>
 </div>
 
-## Garry's Mod
+## [Garry's Mod](GMod)
 
-### Collections
+### [Collections](GMod#collections)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=367140289" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1658978082452739049/BE26ABEF93C3C43C85F658F05E6A188CC37931E8/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 200px;"><p>Zombies and stuff</p></a>
@@ -139,9 +139,9 @@ layout: posts
 <a href="https://www.planetminecraft.com/mob-skin/cancer-hermit/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/image/minecraft/mob-skin/2021/200/cancerhermit-14357524_iso_l.png); height: 100px;"><p>Hermit Crab</p></a>
 </div>
 
-## Over 9000 Zombies
+## [Over 9000 Zombies](O9000Z)
 
-### O9000Z Maps
+### [O9000Z Maps](O9000Z#maps)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2116637227" class="ct_card" style="background-image: url(https://steamusercontent-a.akamaihd.net/ugc/1047596953746964811/3516C635BEB762AB4B02857106501CC14CDB1FBE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>Outpost</p></a>
@@ -150,9 +150,9 @@ layout: posts
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2146709533" class="ct_card" style="background-image: url(https://steamusercontent-a.akamaihd.net/ugc/1296423329420618142/FC31353BDB470F2B61D49AFF785E2851E2E60F30/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>Dead Cross</p></a>
 </div>
 
-## Portal 2
+## [Portal 2](Portal2)
 
-### P2 Chambers
+### [P2 Chambers](Portal2#chambers)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2010005679" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/784127947979023554/940B905956161AE69B8A0662949B9B063123FE0B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 100px;"><p>Three Worlds</p></a>
@@ -166,9 +166,9 @@ layout: posts
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=861574182" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/96101992905644712/4987353092041DDCD66C634E68F521257A5FC318/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 100px;"><p>Bust or Blow</p></a>
 </div>
 
-## Time Rifters
+## [Time Rifters](TimeRifters)
 
-### TR Rooms
+### [TR Rooms](TimeRifters#rooms)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=549932356" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/784127034087297073/ABA1193DCE7FC43F3883B79B19F99E28978D47D4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>Parkour Tower</p></a>
@@ -179,7 +179,7 @@ layout: posts
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2009393890" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/784127667454746997/840B82CBC414D0D7B9860B75D8F6670067145683/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>Spiral Tower</p></a>
 </div>
 
-### TR Challenges
+### [TR Challenges](TimeRifters#challenges)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=549938873" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/784127034087314319/565ACA1704907D48908F6FCC2BB1716E206E4F9B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>C.T.'s Parcour Arena</p></a>
