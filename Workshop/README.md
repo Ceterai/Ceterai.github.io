@@ -88,7 +88,7 @@ layout: posts
 
 <div markdown="1">
 
-<div style="display: inline-block; vertical-align: middle; width: 49.5%;" markdown="1">
+<div class="ct_body_half" markdown="1">
 
 ### [CDDZ Collections](CDDZ#collections)
 
@@ -98,7 +98,7 @@ layout: posts
 </div>
 
 </div>
-<div style="display: inline-block; vertical-align: middle; width: 49.5%;" markdown="1">
+<div class="ct_body_half" markdown="1">
 
 ### [CDDZ Guides](CDDZ#guides)
 
@@ -115,7 +115,7 @@ layout: posts
 
 <div markdown="1">
 
-<div style="display: inline-block; vertical-align: middle; width: 49.5%;" markdown="1">
+<div class="ct_body_half" markdown="1">
 
 ### [Discord Themes](DiscordThemes)
 
@@ -125,7 +125,7 @@ layout: posts
 </div>
 
 </div>
-<div style="display: inline-block; vertical-align: middle; width: 49.5%;" markdown="1">
+<div class="ct_body_half" markdown="1">
 
 ### [OGX Themes](OGXMods)
 
@@ -202,6 +202,20 @@ layout: posts
 <a href="https://www.planetminecraft.com/skin/alien-scout-4938900/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/resource_media/preview/d1-13907204-minecraft-skin.jpg); height: 100px;"><p>Alien Scout</p></a>
 <a href="https://www.planetminecraft.com/skin/wrath-ally-soldier/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/resource_media/preview/steve-13855411-minecraft-skin.jpg); height: 100px;"><p>Wrath Ally Soldier</p></a>
 <a href="https://www.planetminecraft.com/mob-skin/cancer-hermit/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/image/minecraft/mob-skin/2021/200/cancerhermit-14357524_iso_l.png); height: 100px;"><p>Hermit Crab</p></a>
+</div>
+
+## [Ambients](Music)
+
+<div align="center">
+<iframe class="ct_card" width="320" height="180"
+src="https://www.youtube.com/embed/hUmIY37Tqik">
+</iframe>
+<iframe class="ct_card" width="320" height="180"
+src="https://www.youtube.com/embed/ST4YxugM2g8">
+</iframe>
+<iframe class="ct_card" width="320" height="180"
+src="https://www.youtube.com/embed/YAItWvKtn_Q">
+</iframe>
 </div>
 
 ## [Garry's Mod](GMod)

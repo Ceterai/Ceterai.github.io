@@ -23,12 +23,9 @@
 	background-position: center;
 }
 
-/* Website CSS */
 
-.ct_icon {
-	width: "24px";
-	height: "24px";
-}
+
+/* Website CSS */
 
 .markdown-body h1 {
 	color: var(--ct_3);
@@ -50,6 +47,73 @@
 .markdown-body h4,
 .markdown-body h5 {
 	color: var(--ct_2);
+}
+
+.markdown-body code {
+    background-color: rgb(from var(--ct_5) r g b / 50%);
+}
+
+.markdown-body a:link, .markdown-body a:visited {
+	color: var(--ct_2);
+	text-decoration: none;
+}
+
+.markdown-body a:hover, .markdown-body a:active {
+	color: var(--ct_4);
+}
+
+.markdown-body {
+    line-height: 200%;
+    font-size: 80%;
+    color: var(--ct_3);
+}
+
+.ct_body {
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    max-height: 500px;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+@media (min-width:500px) { .ct_body {
+    width: var(--ct_width, 50%);
+    left: var(--ct_left, 25%);
+} }
+
+@media (max-width:500px) { .ct_body {
+    width: 90%;
+    left: 5%;
+} }
+
+.ct_body_half {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+@media (min-width:500px) { .ct_body_half {
+    width: var(--ct_width, 49.5%);
+} }
+
+@media (max-width:500px) { .ct_body_half {
+    width: 100%;
+} }
+
+
+
+/* IDs */
+
+#ct_lair {
+	color: var(--ct_2);
+}
+
+#ct_ws .ct_body {
+    max-height: unset;
+    top: unset;
+    -ms-transform: unset;
+    transform: unset;
 }
 
 #ct_ws h2 {
@@ -76,55 +140,18 @@
 	margin: 0 auto;
 }
 
-.markdown-body code {
-    background-color: rgb(from var(--ct_5) r g b / 50%);
+
+
+/* Icon */
+
+.ct_icon {
+	width: "24px";
+	height: "24px";
 }
 
-.markdown-body {
-    line-height: 200%;
-    font-size: 80%;
-    color: var(--ct_3);
-}
 
-.ct_body {
-    margin-left: auto;
-    margin-right: auto;
-    position: absolute;
-    max-height: 500px;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-}
 
-#ct_ws .ct_body {
-    max-height: unset;
-    top: unset;
-    -ms-transform: unset;
-    transform: unset;
-}
-
-@media (min-width:500px) { .ct_body {
-    width: var(--ct_width, 50%);
-    left: var(--ct_left, 25%);
-} }
-
-@media (max-width:500px) { .ct_body {
-    width: 90%;
-    left: 5%;
-} }
-
-.markdown-body a:link, .markdown-body a:visited {
-	color: var(--ct_2);
-	text-decoration: none;
-}
-
-.markdown-body a:hover, .markdown-body a:active {
-	color: var(--ct_4);
-}
-
-#ct_lair {
-	color: var(--ct_2);
-}
+/* Button */
 
 a.ct_button:link, a.ct_button:visited {
 	background-color: rgb(from var(--ct_5) r g b / 50%);
@@ -143,7 +170,11 @@ a.ct_button:hover, a.ct_button:active {
 	color: var(--ct_4);
 }
 
-a.ct_card {
+
+
+/* Card */
+
+a.ct_card, iframe.ct_card {
 	margin: 5px;
 	width: 200px;
 	height: 150px;

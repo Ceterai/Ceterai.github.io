@@ -9,13 +9,13 @@ Just some ambients I made for ![ ](https://raw.githubusercontent.com/Ceterai/Ent
 ## Videos
 
 <div align="center">
-<iframe width="420" height="315"
+<iframe class="ct_card" width="320" height="180"
 src="https://www.youtube.com/embed/hUmIY37Tqik">
 </iframe>
-<iframe width="420" height="315"
+<iframe class="ct_card" width="320" height="180"
 src="https://www.youtube.com/embed/ST4YxugM2g8">
 </iframe>
-<iframe width="420" height="315"
+<iframe class="ct_card" width="320" height="180"
 src="https://www.youtube.com/embed/YAItWvKtn_Q">
 </iframe>
 </div>
