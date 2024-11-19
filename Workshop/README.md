@@ -11,7 +11,7 @@ layout: posts
 # Ceterai's Workshop
 
 <div align="center">
-<a class="ct_button" href="/MyEnternia"><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> My Enternia</a> <a class="ct_button" href="DiscordThemes">Discord Themes</a> <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=211820">Starbound Mods</a> <a class="ct_button" href="Minecraft">Minecraft Skins & Packs</a> <a class="ct_button" href="CDDZ">Clone Drone Maps & Guides</a> <a class="ct_button" href="https://github.com/Ceterai/AltaSS14Sprites">Space Station 14 Sprites</a> <a class="ct_button" href="Portal2">Portal 2 Maps</a> <a class="ct_button" href="TimeRifters">Time Rifters Maps</a> <a class="ct_button" href="O9000Z">Over 9000 Zombies! Maps</a> <a class="ct_button" href="GMod">GMod Collections</a>
+<a class="ct_button" href="/MyEnternia"><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> My Enternia</a> <a class="ct_button" href="DiscordThemes">Discord Themes</a> <a class="ct_button" href="OGXMods">Opera GX Themes</a> <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=211820">Starbound Mods</a> <a class="ct_button" href="Minecraft">Minecraft Skins & Packs</a> <a class="ct_button" href="Minecraft">Warcraft 3 Maps & Icons</a> <a class="ct_button" href="CDDZ">Clone Drone Maps & Guides</a> <a class="ct_button" href="https://github.com/Ceterai/AltaSS14Sprites">Space Station 14 Sprites</a> <a class="ct_button" href="Portal2">Portal 2 Maps</a> <a class="ct_button" href="TimeRifters">Time Rifters Maps</a> <a class="ct_button" href="O9000Z">Over 9000 Zombies! Maps</a> <a class="ct_button" href="GMod">GMod Collections</a>
 </div>
 
 ## [Clone Drone In The Danger Zone](CDDZ)
@@ -86,12 +86,19 @@ layout: posts
 </a>
 </div>
 
+<div markdown="1">
+
+<div style="display: inline-block; vertical-align: middle; width: 49.5%;" markdown="1">
+
 ### [CDDZ Collections](CDDZ#collections)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2318339236" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1658978082452886575/1C0F7BC5EC04015D1EDB3FADAEA06F04913EFDED/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 200px;"><p>Parkour Arenas</p></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2283931492" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1658978082447007719/D25F1DF45F421A4D9D5E6EAB6121FD96F118E1E4/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 200px;"><p>Keeps & Castles</p></a>
 </div>
+
+</div>
+<div style="display: inline-block; vertical-align: middle; width: 49.5%;" markdown="1">
 
 ### [CDDZ Guides](CDDZ#guides)
 
@@ -100,7 +107,15 @@ layout: posts
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2317784840" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1658978082450903754/14EACFF2022CF2658CDAA32CC31D741F9CDB7F4A/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 200px;"><p>Editor Tips & Tricks</p></a>
 </div>
 
+</div>
+
+</div>
+
 ## Themes
+
+<div markdown="1">
+
+<div style="display: inline-block; vertical-align: middle; width: 49.5%;" markdown="1">
 
 ### [Discord Themes](DiscordThemes)
 
@@ -109,11 +124,18 @@ layout: posts
 </a>
 </div>
 
+</div>
+<div style="display: inline-block; vertical-align: middle; width: 49.5%;" markdown="1">
+
 ### [OGX Themes](OGXMods)
 
 <div align="center">
 <a href="OGXMods/StardustOrchid" class="ct_card" style="background-image: url(https://raw.githubusercontent.com/Ceterai/StardustOrchid-OGXM/refs/heads/main/.meta/showcase.jpg);"><p>Stardust Orchid</p>
 </a>
+</div>
+
+</div>
+
 </div>
 
 ## [Warcraft III](Warcraft)
@@ -164,10 +186,10 @@ layout: posts
 
 ## [Minecraft](Minecraft)
 
-### [MC Resource Packs](Minecraft/ResourcePacks)
+### [MC Resource Packs](Minecraft/Packs)
 
 <div align="center">
-<a href="https://www.planetminecraft.com/texture-pack/wrath-resource-pack/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2020/377/13787055-pack_l.webp); height: 200px;"><p>Wrath</p></a>
+<a href="Minecraft/Packs/Wrath" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2020/377/13787055-pack_l.webp); height: 200px;"><p>Wrath</p></a>
 <a href="https://www.planetminecraft.com/texture-pack/hermit-crabs/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/063/14444738-pack_xl.webp); height: 200px;"><p>Hermit Crabs</p></a>
 <a href="https://www.planetminecraft.com/texture-pack/pademia/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2020/736/13719159-image_xl.webp); height: 200px;"><p>Pademia</p></a>
 </div>
