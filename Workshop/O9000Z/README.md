@@ -1,7 +1,7 @@
 # Over 9000 Zombies
 
 <div align="center" style="font-size: 150%;">
-<a class="ct_button" href="https://ceterai.github.io/O9000Z">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=273500">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
+<a class="ct_button" href="https://ceterai.github.io/Workshop/O9000Z">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=273500">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
 My **Time Rifters** challenge **rooms** and **arenas**.

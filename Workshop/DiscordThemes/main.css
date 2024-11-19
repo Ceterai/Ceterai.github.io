@@ -1,5 +1,5 @@
-@import url(https://Ceterai.github.io/DiscordTheme/base.css);
-@import url(https://Ceterai.github.io/ceterai.css);
+@import url(base.css);
+@import url(../../ceterai.css);
 :root {
 	--ct_h0: var(--ct_3);
 	--ct_h1: var(--ct_2);

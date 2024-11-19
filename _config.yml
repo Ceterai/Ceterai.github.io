@@ -3,6 +3,9 @@ tagline: Projects
 description: A home to some interesting projects... and all the stardust.
 author: Ceterai
 repository: Ceterai/Ceterai.github.io
+linktree: https://linktr.ee/ceterai
+about: https://about.me/ceterai
+donate: https://buymeacoffee.com/ceterai
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-include

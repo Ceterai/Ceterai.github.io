@@ -1,7 +1,7 @@
 # Garry's Mod
 
 <div align="center" style="font-size: 150%;">
-<a class="ct_button" href="https://ceterai.github.io/GMod">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?section=collections&appid=4000">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
+<a class="ct_button" href="https://ceterai.github.io/Workshop/GMod">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?section=collections&appid=4000">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
 My **GMod** challenge collections.

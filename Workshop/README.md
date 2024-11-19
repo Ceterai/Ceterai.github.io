@@ -6,15 +6,17 @@ left: 10%
 layout: posts
 ---
 
+<div align="center"><img src="art/ceterai.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye"></div>
+
 # Ceterai's Workshop
 
 <div align="center">
 <a class="ct_button" href="/MyEnternia"><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> My Enternia</a> <a class="ct_button" href="DiscordThemes">Discord Themes</a> <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=211820">Starbound Mods</a> <a class="ct_button" href="Minecraft">Minecraft Skins & Packs</a> <a class="ct_button" href="CDDZ">Clone Drone Maps & Guides</a> <a class="ct_button" href="https://github.com/Ceterai/AltaSS14Sprites">Space Station 14 Sprites</a> <a class="ct_button" href="Portal2">Portal 2 Maps</a> <a class="ct_button" href="TimeRifters">Time Rifters Maps</a> <a class="ct_button" href="O9000Z">Over 9000 Zombies! Maps</a> <a class="ct_button" href="GMod">GMod Collections</a>
 </div>
 
-## Clone Drone In The Danger Zone
+## [Clone Drone In The Danger Zone](CDDZ)
 
-### CDDZ Arenas
+### [CDDZ Arenas](CDDZ#Arenas)
 
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1792138378" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/787484935179721189/9D22EFEB1750E7A2CA2096EDFFA8AF87678FD4C2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); margin: 5px; width: 200px; height: 100px; background-repeat: no-repeat; background-size: cover; background-position: center; display: inline-flex; align-items: flex-end; overflow: hidden;"><p style="height: 20%; width: 100%; display: flex; margin-bottom: 0; justify-content: center; align-items: center; background-color: #323232;">A long way (easy)</p>

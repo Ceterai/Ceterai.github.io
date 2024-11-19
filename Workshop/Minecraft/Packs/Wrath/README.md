@@ -1,6 +1,6 @@
 ---
 title: Wrath
-permalink: Minecraft/Packs/Wrath/index.html
+permalink: Workshop/Minecraft/Packs/Wrath/index.html
 ---
 
 {% remote_include https://raw.githubusercontent.com/Ceterai/wrath-resource-pack/refs/heads/main/README.md %}

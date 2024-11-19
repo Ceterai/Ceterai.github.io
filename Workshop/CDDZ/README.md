@@ -1,6 +1,6 @@
 ---
 title: Clone Drone In The Danger Zone
-permalink: CDDZ/index.html
+permalink: Workshop/CDDZ/index.html
 width: 60%
 left: 20%
 ---

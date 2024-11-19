@@ -1,7 +1,7 @@
 # Portal 2
 
 <div align="center" style="font-size: 150%;">
-<a class="ct_button" href="https://ceterai.github.io/Portal2">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=620">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
+<a class="ct_button" href="https://ceterai.github.io/Workshop/Portal2">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=620">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
 My **Portal 2** chambers.

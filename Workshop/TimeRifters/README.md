@@ -1,7 +1,7 @@
 # Time Rifters
 
 <div align="center" style="font-size: 150%;">
-<a class="ct_button" href="https://ceterai.github.io/TimeRifters">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=270010">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
+<a class="ct_button" href="https://ceterai.github.io/Workshop/TimeRifters">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=270010">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
 My **Time Rifters** challenge **rooms** and **arenas**.
