@@ -6,7 +6,7 @@ left: 10%
 layout: posts
 ---
 
-<div align="center"><img src="art/ceterai.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye"></div>
+<div align="center"><img src="/art/ceterai.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye"></div>
 
 # Ceterai's Workshop
 
