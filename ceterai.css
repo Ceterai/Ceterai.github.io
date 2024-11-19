@@ -90,13 +90,17 @@
     margin-left: auto;
     margin-right: auto;
     position: absolute;
-}
-
-.ct_body:not(#ct_ws) {
     max-height: 500px;
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
+}
+
+#ct_ws .ct_body {
+    max-height: unset;
+    top: unset;
+    -ms-transform: unset;
+    transform: unset;
 }
 
 @media (min-width:500px) { .ct_body {
