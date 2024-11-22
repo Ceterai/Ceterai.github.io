@@ -305,6 +305,7 @@ src="https://www.youtube.com/embed/YAItWvKtn_Q">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2004583516" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/784127365614384168/EF8E9311E5E4F437AA737DE5A2E53B14FCA7AA90/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>Almost 70</p></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2009369409" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/784127667454630993/5C2F7773015354DF57732150AB1CB10F03A1DE3C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>Hollow Monument</p></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2009393890" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/784127667454746997/840B82CBC414D0D7B9860B75D8F6670067145683/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>Spiral Tower</p></a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2135223682" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1258141911094077310/A6063C21A2DEFC70F5DEACF76791DCFD7D63834B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>POV Heart</p></a>
 </div>
 
 ### [TR Challenges](TimeRifters#challenges)

@@ -6,6 +6,7 @@ repository: Ceterai/Ceterai.github.io
 linktree: https://linktr.ee/ceterai
 about: https://about.me/ceterai
 donate: https://buymeacoffee.com/ceterai
+nickname: https://mynickname.com/ceterai
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-include

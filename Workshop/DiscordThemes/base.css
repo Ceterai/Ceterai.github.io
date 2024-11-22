@@ -56,7 +56,11 @@
 	--green-360: var(--ct_4);
 	--status-danger-background: #2080f080;
 	--status-danger-text: #b0e0fc;
+    --bg-mod-faint: rgb(from var(--ct_5) r g b / 30%); /* Tickets Header */
+    --bg-mod-subtle: rgb(from var(--ct_5) r g b / 40%); /* Tickets Header Help */
+    --text-brand: var(--ct_3); /* Blurple text */
 }
+
 
 .theme-light, .theme-dark {
 	--header-primary: var(--ct_h1);
@@ -152,11 +156,19 @@ body::before {
 .none-2Eo-qx::-webkit-scrollbar
 { display: none; }
 
+#app-mount .themed_fc4f04 /* Tickets - Ticket Body */
+{ background: var(--ct_alpha_medium); }
+#app-mount .children_fc4f04:after /* Tickets - Header Divider */
+{
+    width: 1px;
+    background: var(--ct_accent);
+}
 #app-mount .inset_ac5d22
 { background-color: var(--ct_accent); }
 #app-mount .interactive_ac5d22
 { background-color: var(--ct_alpha_strong); border-color: var(--ct_accent); }
 /* Dark Elements */
+#app-mount .container_a6d69a, /* Tickets - Background */
 #app-mount .selected_a0, /* Friends - Header Selected Tab */
 #app-mount .pollContainer_b558d0, /* Message Poll */
 #app-mount .popoverReactionHoverBar_e986d9, /* Message Hover Menu */
