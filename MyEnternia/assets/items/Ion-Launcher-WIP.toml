@@ -1,0 +1,107 @@
+id = "ct_ion_launcher"
+base = "item"
+cat = "rocket_launcher"
+type = "rocketLauncher"
+tags = [ "ionic", "ranged", "rocket_launcher", "rocketlauncher", "rocketlauncher", "weapon",]
+name = "Ion Launcher WIP"
+lore = "This custom-made ion rocket launcher was used to suppress constant avalanches on Iceterion. No one knows how it got here."
+species = "generic"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_ion_launcher.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_ion_launcher.activeitem"
+rdir = "/items/active/weapons/ranged/alta/heavy"
+rpath = "/items/active/weapons/ranged/alta/heavy/ct_ion_launcher.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/heavy"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/heavy/ct_ion_launcher.activeitem"
+link = "[`/items/active/weapons/ranged/alta/heavy/ct_ion_launcher.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/heavy/ct_ion_launcher.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Ion-Launcher-WIP.toml"
+rdir = "/items"
+rpath = "/items/Ion-Launcher-WIP.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ion-Launcher-WIP.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_ion_launcher.png) [Ion Launcher WIP](/MyEnternia/assets/items/Ion-Launcher-WIP.toml)"
+
+[wiki]
+ext = "md"
+name = "Ion-Launcher-WIP.md"
+rdir = "/items/rocket_launcher"
+rpath = "/items/rocket_launcher/Ion-Launcher-WIP.md"
+fdir = "/MyEnternia/Wiki/items/rocket_launcher"
+fpath = "/MyEnternia/Wiki/items/rocket_launcher/Ion-Launcher-WIP.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_ion_launcher.png) [Ion Launcher WIP](/MyEnternia/Wiki/items/rocket_launcher/Ion-Launcher-WIP)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Inzhiva Suppressor"
+lore = "Launches stabilizing Ion Rockets that deal electric damage."
+
+[abilities.primary.stats]
+baseDps = 9
+energyUsage = 36
+fireTime = 1.2
+pressType = "blast"
+holdType = "blast"
+
+[abilities.primary.stats.pressParams]
+type = "ct_ionic_large"
+inaccuracy = 0.0
+
+[abilities.primary.stats.holdParams]
+type = "ct_ionic_large"
+inaccuracy = 0.02
+count = 2
+interval = 0.1
+
+[abilities.primary.stats.pressParams.params]
+timeToLive = 5.0
+
+[abilities.primary.stats.holdParams.params]
+knockback = 15
+timeToLive = 5.0
+
+[abilities.secondary.stats.elementalConfig.electric]

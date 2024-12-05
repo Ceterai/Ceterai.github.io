@@ -1,0 +1,97 @@
+id = "ct_kinetic_shield-upgrade"
+base = "item"
+cat = "shield"
+type = "shield"
+tags = [ "energy", "shield",]
+name = "Energy Blockade"
+lore = "A shield made of pure energy has been enhanced with ^#ffa8e8;stardust^reset;. How much energy is too much energy?"
+long = "Its projecting device is now a sunject to overcharges, but thankfully, due to the proper use of ^#b0e0fc;overlocks^reset;, this energy gets dispersed and adds onto the shield's power level."
+species = "generic"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png)"
+
+[inspect]
+alta = "I like this spin on energy fields. Useful and effective, but I wonder if I can make it change colors..."
+
+[pickup]
+ct_alta_shield_msg = "You're holding an alta shield. My database shows an enhanced set of features, loading a proper description for you. Protection is known to be a prominent topic in alta culture and a big research field as well, so this might be worth checking out."
+
+[cost]
+gold = 2980
+pixels = 1490
+credits = 434
+stardust = 271
+essence = 2640
+
+[element]
+energy = "alternia"
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_kinetic_shield"
+name = "Kinetic Shield"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png) [Kinetic Shield](/MyEnternia/assets/items/Kinetic-Shield.toml)"
+value = 0.1
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_kinetic_shield.activeitem"
+rdir = "/items/active/shields"
+rpath = "/items/active/shields/ct_kinetic_shield.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/shields"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/shields/ct_kinetic_shield.activeitem"
+link = "[`/items/active/shields/ct_kinetic_shield.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/shields/ct_kinetic_shield.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Energy-Blockade.toml"
+rdir = "/items"
+rpath = "/items/Energy-Blockade.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Energy-Blockade.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png) [Energy Blockade](/MyEnternia/assets/items/Energy-Blockade.toml)"
+
+[wiki]
+ext = "md"
+name = "Kinetic-Shield.md"
+rdir = "/items/shield"
+rpath = "/items/shield/Kinetic-Shield.md"
+fdir = "/MyEnternia/Wiki/items/shield"
+fpath = "/MyEnternia/Wiki/items/shield/Kinetic-Shield.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png) [Kinetic Shield](/MyEnternia/Wiki/items/shield/Kinetic-Shield)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Whipshock"
+lore = "Hold to perform an Ionic Whip Hit.\nActivate block fast enough (parry time) to perform a perfect block."
+
+[abilities.passive]
+name = "Kinetic Force"
+lore = "This shield knocks enemies back with great power."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

@@ -1,0 +1,92 @@
+id = "ct_tonna"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "nature", "throwable", "tonnova",]
+name = "Tonna"
+lore = "A ^#c1ebf8;tonnova^reset; fruit. Feels lighter than a coconut. You can throw it at someone or cook it!"
+long = "Botanically speaking, this fruit is a nut. It has an outer semi-hard shell and a detached, soft white inside pulp, full of tonnova milk and nutrients.  \nThe pulp has a soft, slightly sweet taste that turns into a porrige-like taste during cooking. This is why **tonna porriges** are a thing and are quite popular in the ^#b0e0fc;nia cuisine^reset;."
+species = "generic"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png)"
+
+[inspect]
+alta = "Tonna freshes are quite refreshing. Also, they go well with ^#b0e0fc;ometonnas^reset; and tarts, especially ^#b0e0fc;zandarm tart^reset; ones."
+
+[pickup]
+
+[cost]
+gold = 20
+pixels = 10
+credits = 4
+stardust = 2
+essence = 10
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_tonna.thrownitem"
+rdir = "/items/throwables"
+rpath = "/items/throwables/ct_tonna.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_tonna.thrownitem"
+link = "[`/items/throwables/ct_tonna.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_tonna.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Tonna.toml"
+rdir = "/items"
+rpath = "/items/Tonna.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Tonna.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png) [Tonna](/MyEnternia/assets/items/Tonna.toml)"
+
+[wiki]
+ext = "md"
+name = "Tonna.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Tonna.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Tonna.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png) [Tonna](/MyEnternia/Wiki/items/throwable/Tonna)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.md]
+"#### Cooking" = "**Tonna Milk**, just like the nut itself, is slightly sweet and very high on nutrients. However, it might require some preparation and filtering to make sure none of the pulp bits get in.\n\n**Tonna Juice** is what you get if you grind down the pulp, separated from the milk. It contains more saturated sweetness, as well as slight bitterness, and a less tingy texture, as opposed to tonna milk.\n\n**Tonna Fresh** can be prepared by cutting and grinding some parts of the pulp, and mixing them together with milk until a thick layer of foam appears at the surface.\n\n**Tonna Porrige** is a very wide-spread category of tonna-based porriges, all with different mixes and additions. Its more sweet variants are often used in or as desserts. Good examples of that would be ^#b0e0fc;tonnakadas^reset; and ^#b0e0fc;tonna meringues^reset;."
+
+[meta.aliases."Tonna Porrige"]
+anchor = "cooking"
+
+[meta.aliases."Tonna Milk"]
+anchor = "cooking"
+
+[meta.aliases."Tonna Juice"]
+anchor = "cooking"
+
+[meta.aliases."Tonna Fresh"]
+anchor = "cooking"

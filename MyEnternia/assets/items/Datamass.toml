@@ -1,0 +1,82 @@
+id = "ct_datamass"
+base = "item"
+cat = "resource"
+type = "data_source"
+tags = [ "data_source", "data_storage", "datamass", "reagent", "resource",]
+name = "Datamass"
+lore = "A compact encrypted data storage that can be used for storing blueprints, codex info and other data. Right now it's empty."
+long = "A very popular mini-device among ^#b0e0fc;altas^reset;. Apart from being used as data storage, it can also be used as automated databases for other ^#b0e0fc;alta technology^reset;, like AI for ^#b0e0fc;alta robotics^reset;.\n\nLooks and works similarly to human USB Drives, except with integrated data protection measures, like encryption, and small shape differences - datamasses are cylindrical, so you don't have to worry about what side to insert it with, and have unified size regulations to be able to fit in most alta devices."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_datamass.png)"
+
+[inspect]
+alta = "It's small enough and has a keychain ring slot. Very convenient. I can use these almost anywhere, the only problem is to find the right data."
+
+[pickup]
+ct_datamass_msg = "You've found an ^#b0e0fc;alta datamass^reset;. These tiny portable databases tend to contain important encrypted info used by ^#b0e0fc;alta crafting stations^reset; to unlock various blueprints.  \nThese can either be crafted or found in random ^#b0e0fc;alta pods^reset; on ^#20f080;alterash^reset; planets."
+
+[cost]
+gold = 160
+pixels = 80
+credits = 16
+stardust = 10
+essence = 140
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "item"
+name = "ct_datamass.item"
+rdir = "/items/generic/crafting"
+rpath = "/items/generic/crafting/ct_datamass.item"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_datamass.item"
+link = "[`/items/generic/crafting/ct_datamass.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_datamass.item)"
+
+[assets]
+ext = "toml"
+name = "Datamass.toml"
+rdir = "/items"
+rpath = "/items/Datamass.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Datamass.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_datamass.png) [Datamass](/MyEnternia/assets/items/Datamass.toml)"
+
+[wiki]
+ext = "md"
+name = "Datamass.md"
+rdir = "/items/resource"
+rpath = "/items/resource/Datamass.md"
+fdir = "/MyEnternia/Wiki/items/resource"
+fpath = "/MyEnternia/Wiki/items/resource/Datamass.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_datamass.png) [Datamass](/MyEnternia/Wiki/items/resource/Datamass)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Alta Datamass"]
+
+[meta.aliases."Empty Datamass"]

@@ -1,0 +1,81 @@
+id = "ct_naghurta"
+base = "item"
+cat = "weapon"
+type = "uniqueWeapon"
+tags = [ "ranged", "uniqueweapon", "weapon",]
+name = "Naghurta"
+lore = "A mysterious ionthrower, in the middle of nowhere, on ^#8020f0;enterash^reset;... Doesn't feel like we'll find its previous owner."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_naghurta.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_naghurta.activeitem"
+rdir = "/items/active/weapons/ranged/alta/unique"
+rpath = "/items/active/weapons/ranged/alta/unique/ct_naghurta.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/unique"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/unique/ct_naghurta.activeitem"
+link = "[`/items/active/weapons/ranged/alta/unique/ct_naghurta.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/unique/ct_naghurta.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Naghurta.toml"
+rdir = "/items"
+rpath = "/items/Naghurta.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Naghurta.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_naghurta.png) [Naghurta](/MyEnternia/assets/items/Naghurta.toml)"
+
+[wiki]
+ext = "md"
+name = "Naghurta.md"
+rdir = "/items/weapon"
+rpath = "/items/weapon/Naghurta.md"
+fdir = "/MyEnternia/Wiki/items/weapon"
+fpath = "/MyEnternia/Wiki/items/weapon/Naghurta.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_naghurta.png) [Naghurta](/MyEnternia/Wiki/items/weapon/Naghurta)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary.stats]
+baseDps = 10
+energyUsage = 30

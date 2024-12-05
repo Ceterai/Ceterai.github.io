@@ -1,0 +1,77 @@
+id = "ct_alta_artist_shorts"
+base = "item"
+cat = "legs_clothing"
+type = "legwear"
+tags = [ "legs_clothing", "legwear",]
+name = "Artistic Shorts"
+lore = "A small pair of shorts that helps you feel free and alive."
+species = "alta"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/artist_shorts/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 64
+stardust = 40
+essence = 160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "legs"
+name = "ct_alta_artist_shorts.legs"
+rdir = "/items/armors/alta/clothing/artist_shorts"
+rpath = "/items/armors/alta/clothing/artist_shorts/ct_alta_artist_shorts.legs"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/artist_shorts"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/artist_shorts/ct_alta_artist_shorts.legs"
+link = "[`/items/armors/alta/clothing/artist_shorts/ct_alta_artist_shorts.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/artist_shorts/ct_alta_artist_shorts.legs)"
+
+[assets]
+ext = "toml"
+name = "Artistic-Shorts.toml"
+rdir = "/items"
+rpath = "/items/Artistic-Shorts.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Artistic-Shorts.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/artist_shorts/icon.png) [Artistic Shorts](/MyEnternia/assets/items/Artistic-Shorts.toml)"
+
+[wiki]
+ext = "md"
+name = "Artistic-Shorts.md"
+rdir = "/items/legs_clothing"
+rpath = "/items/legs_clothing/Artistic-Shorts.md"
+fdir = "/MyEnternia/Wiki/items/legs_clothing"
+fpath = "/MyEnternia/Wiki/items/legs_clothing/Artistic-Shorts.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/artist_shorts/icon.png) [Artistic Shorts](/MyEnternia/Wiki/items/legs_clothing/Artistic-Shorts)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

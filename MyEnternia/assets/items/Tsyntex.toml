@@ -1,0 +1,109 @@
+id = "ct_tsyntex"
+base = "item"
+cat = "pistol"
+type = "pistol"
+tags = [ "blaster", "ghearun", "gheatsyn", "pistol", "ranged", "weapon",]
+name = "Tsyntex"
+lore = "This gheablaster was named after a scpecial reaction that ^#a7e001;gheatsyn^reset; goes through to become a liquid."
+long = "It's not exactly known whether this was a ^#a7e001;Ghearun^reset; development or a hand-made wonder of ^#ffe364;Faradea^reset; mercs, or perhaps a rare find from an unknown adventurer, but there are no explicit markings on it except for the name on the bottom of the handle."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png)"
+
+[inspect]
+alta = "Let me liquify some annoying drois with this. Or is it liquidate? Liquinade? Yeah, that's it."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_tsyntex.activeitem"
+rdir = "/items/active/weapons/ranged/alta/blaster"
+rpath = "/items/active/weapons/ranged/alta/blaster/ct_tsyntex.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/blaster"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.activeitem"
+link = "[`/items/active/weapons/ranged/alta/blaster/ct_tsyntex.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Tsyntex.toml"
+rdir = "/items"
+rpath = "/items/Tsyntex.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Tsyntex.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png) [Tsyntex](/MyEnternia/assets/items/Tsyntex.toml)"
+
+[wiki]
+ext = "md"
+name = "Tsyntex.md"
+rdir = "/items/pistol"
+rpath = "/items/pistol/Tsyntex.md"
+fdir = "/MyEnternia/Wiki/items/pistol"
+fpath = "/MyEnternia/Wiki/items/pistol/Tsyntex.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png) [Tsyntex](/MyEnternia/Wiki/items/pistol/Tsyntex)"
+
+[upgrades.anvil]
+id = "ct_tsyntex-upgrade"
+name = "Tsyntex Prime"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png) [Tsyntex Prime](/MyEnternia/assets/items/Tsyntex-Prime.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Gheablast"
+lore = "Tsyntex under phosic pressure allows to launch semiauto bursts of impulses on press, and create ^#a7e001;gheatsyn charges^reset; on hold."
+long = "This was proven less effective against rogue or annoying drones, but more so towards unsuspecting poi, who didn't deserve this. Should never be used against altas too."
+
+[abilities.primary.stats]
+baseDps = 4
+energyUsage = 16
+fireTime = 0.1
+pressType = "semi"
+holdType = "blast"
+
+[meta.aliases."Gheatsyn Blaster"]
+
+[meta.aliases.Gheablaster]
+
+[meta.aliases.Gheagast]
+
+[abilities.primary.stats.pressParams]
+type = "ct_impulse_small"
+inaccuracy = 0.04
+
+[abilities.primary.stats.holdParams]
+type = "ct_gheatsyn_charge"
+inaccuracy = 0.01

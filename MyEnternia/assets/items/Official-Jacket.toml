@@ -1,0 +1,77 @@
+id = "ct_alta_official_jacket"
+base = "item"
+cat = "body_clothing"
+type = "chestwear"
+tags = [ "body_clothing", "chestwear",]
+name = "Official Jacket"
+lore = "A top often used by ^#b0e0fc;alta^reset; representatives and officials. A choice of taking responsibility."
+species = "alta"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_jacket/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 64
+stardust = 40
+essence = 160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "chest"
+name = "ct_alta_official_jacket.chest"
+rdir = "/items/armors/alta/clothing/official_jacket"
+rpath = "/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/official_jacket"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest"
+link = "[`/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest)"
+
+[assets]
+ext = "toml"
+name = "Official-Jacket.toml"
+rdir = "/items"
+rpath = "/items/Official-Jacket.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Official-Jacket.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_jacket/icon.png) [Official Jacket](/MyEnternia/assets/items/Official-Jacket.toml)"
+
+[wiki]
+ext = "md"
+name = "Official-Jacket.md"
+rdir = "/items/body_clothing"
+rpath = "/items/body_clothing/Official-Jacket.md"
+fdir = "/MyEnternia/Wiki/items/body_clothing"
+fpath = "/MyEnternia/Wiki/items/body_clothing/Official-Jacket.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_jacket/icon.png) [Official Jacket](/MyEnternia/Wiki/items/body_clothing/Official-Jacket)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

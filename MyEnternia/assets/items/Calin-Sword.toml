@@ -1,0 +1,98 @@
+id = "ct_calin_sword"
+base = "item"
+cat = "shortsword"
+type = "shortsword"
+tags = [ "calin", "crystal", "melee", "shortsword", "sword", "weapon",]
+name = "Calin Sword"
+lore = "^red;WIP^reset;. A sword made out of pure crystals. Seems like it's slowly gathering the energy around it..."
+long = "This sword was hand-made by an alta enthusiast who found a way to harden calin crystals in a way that would allow them to stay sharp and in one piece, while keeping their energy conduction capability."
+species = "generic"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png)"
+
+[inspect]
+alta = "A simple yet sturdy alta creation. I like how it shines with the enrgy bursts from the inside. Maybe this is the so-called **cal-core** mastered to perfection?"
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_calin_sword.activeitem"
+rdir = "/items/active/weapons/melee/alta/light"
+rpath = "/items/active/weapons/melee/alta/light/ct_calin_sword.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_calin_sword.activeitem"
+link = "[`/items/active/weapons/melee/alta/light/ct_calin_sword.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_calin_sword.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Calin-Sword.toml"
+rdir = "/items"
+rpath = "/items/Calin-Sword.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Calin-Sword.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png) [Calin Sword](/MyEnternia/assets/items/Calin-Sword.toml)"
+
+[wiki]
+ext = "md"
+name = "Calin-Sword.md"
+rdir = "/items/shortsword"
+rpath = "/items/shortsword/Calin-Sword.md"
+fdir = "/MyEnternia/Wiki/items/shortsword"
+fpath = "/MyEnternia/Wiki/items/shortsword/Calin-Sword.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png) [Calin Sword](/MyEnternia/Wiki/items/shortsword/Calin-Sword)"
+
+[upgrades.anvil]
+id = "ct_calin_sword-upgrade"
+name = "Crystal Blade"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png) [Crystal Blade](/MyEnternia/assets/items/Crystal-Blade.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Crystal Powers"
+lore = "^red;WIP^reset;. A sequence of 3 light strikes. Hold to perform a ^#b0e0fc;Trail Dash^reset;. Hold in air to ^#b0e0fc;Downstab^reset;.  \nEnters a charged state every 10 seconds, making next 4 hits deal bonus ^#7733aa;electric^reset; damage."
+long = "The indent patterns on the blade help directing the impulses in the right direction during the swing."
+
+[abilities.primary.stats]
+baseDps = 6
+fireTime = 0.625
+
+[meta.aliases."Calin Ist"]
+
+[abilities.primary.stats.damageConfig]
+damageSourceKind = "shortsword"
+timeout = 0.5

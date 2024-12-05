@@ -1,0 +1,79 @@
+id = "ct_alternia_shard"
+base = "item"
+cat = "resource"
+type = "energy_source"
+tags = [ "alternia", "crystal", "energy_source", "reagent", "resource", "shard",]
+name = "Alternia Shard"
+lore = "A crystal shard full of pure ^#2080f0;alternia^reset; energy. ...Somehow it feels important."
+long = "These shards are overflowing with energy. A too high concentration of these can even lead to environments with ^#2080f0;overcharged air^reset;, with ^#0050c0;hevika^reset; being the most prominent example, as well as the entirety of ^#2080f0;esetera depths^reset; and ^#2080f0;esetera caves^reset;."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png)"
+
+[inspect]
+alta = "There's so much energy in it, it's glowing with tiny, tingling sparks! What if I chip a tiny bit and use it as a pretty glowy pin?!"
+
+[pickup]
+
+[cost]
+gold = 120
+pixels = 60
+credits = 16
+stardust = 10
+essence = 110
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "item"
+name = "ct_alternia_shard.item"
+rdir = "/items/generic/crafting"
+rpath = "/items/generic/crafting/ct_alternia_shard.item"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_alternia_shard.item"
+link = "[`/items/generic/crafting/ct_alternia_shard.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_alternia_shard.item)"
+
+[assets]
+ext = "toml"
+name = "Alternia-Shard.toml"
+rdir = "/items"
+rpath = "/items/Alternia-Shard.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Alternia-Shard.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png) [Alternia Shard](/MyEnternia/assets/items/Alternia-Shard.toml)"
+
+[wiki]
+ext = "md"
+name = "Alternia-Shard.md"
+rdir = "/items/resource"
+rpath = "/items/resource/Alternia-Shard.md"
+fdir = "/MyEnternia/Wiki/items/resource"
+fpath = "/MyEnternia/Wiki/items/resource/Alternia-Shard.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png) [Alternia Shard](/MyEnternia/Wiki/items/resource/Alternia-Shard)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

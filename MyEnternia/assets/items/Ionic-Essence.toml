@@ -1,0 +1,85 @@
+id = "ct_ionic_fresh-essence"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "drink", "fresh", "nia_cuisine",]
+name = "Ionic Essence"
+lore = "Very energy-full drink that turned out more fresh than ever. Feels like drinking pure energy!"
+long = "Maybe because it is partially filled with pure energy. This is what a right-polarity chrage will do to a regular ionic fresh."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png)"
+
+[inspect]
+alta = "I wonder if the bubbles in it are electric too."
+
+[pickup]
+
+[cost]
+gold = 880
+pixels = 440
+credits = 88
+stardust = 55
+essence = 770
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_ionic_fresh"
+name = "Ionic Fresh"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png) [Ionic Fresh](/MyEnternia/assets/items/Ionic-Fresh.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_ionic_fresh.consumable"
+rdir = "/items/generic/food/tier1"
+rpath = "/items/generic/food/tier1/ct_ionic_fresh.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_ionic_fresh.consumable"
+link = "[`/items/generic/food/tier1/ct_ionic_fresh.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_ionic_fresh.consumable)"
+
+[assets]
+ext = "toml"
+name = "Ionic-Essence.toml"
+rdir = "/items"
+rpath = "/items/Ionic-Essence.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ionic-Essence.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png) [Ionic Essence](/MyEnternia/assets/items/Ionic-Essence.toml)"
+
+[wiki]
+ext = "md"
+name = "Ionic-Fresh.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Ionic-Fresh.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Ionic-Fresh.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png) [Ionic Fresh](/MyEnternia/Wiki/items/drink/Ionic-Fresh)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Ionic Juice"]

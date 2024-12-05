@@ -1,0 +1,79 @@
+id = "ct_hevikai_stim"
+base = "item"
+cat = "enhancer"
+type = "enhancer"
+tags = [ "enhancer", "hevikai",]
+name = "Hevikai Stim Pack"
+lore = "Develops ^#0050c0;Hevikai^reset; inside of you. Why would you do that? Who knows. Make sure to have a complimenting ^#0050c0;Hevikai Antidote^reset; with you."
+long = "Because of the energy-draining void atmosphere on ^#f02080;enterash prime^reset; planets, these enhancers have found a good use protecting ^#b0e0fc;altas^reset; while there."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png)"
+
+[inspect]
+alta = "I can't believe someone would take this on purpose. But, thanks to it, we're able to travel to enterash prime... I guess it's true that there's medicine in every poison."
+
+[pickup]
+
+[cost]
+gold = 1400
+pixels = 700
+credits = 200
+stardust = 125
+essence = 1300
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_hevikai_stim.consumable"
+rdir = "/items/generic/other"
+rpath = "/items/generic/other/ct_hevikai_stim.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_hevikai_stim.consumable"
+link = "[`/items/generic/other/ct_hevikai_stim.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_hevikai_stim.consumable)"
+
+[assets]
+ext = "toml"
+name = "Hevikai-Stim-Pack.toml"
+rdir = "/items"
+rpath = "/items/Hevikai-Stim-Pack.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Hevikai-Stim-Pack.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png) [Hevikai Stim Pack](/MyEnternia/assets/items/Hevikai-Stim-Pack.toml)"
+
+[wiki]
+ext = "md"
+name = "Hevikai-Stim-Pack.md"
+rdir = "/items/enhancer"
+rpath = "/items/enhancer/Hevikai-Stim-Pack.md"
+fdir = "/MyEnternia/Wiki/items/enhancer"
+fpath = "/MyEnternia/Wiki/items/enhancer/Hevikai-Stim-Pack.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png) [Hevikai Stim Pack](/MyEnternia/Wiki/items/enhancer/Hevikai-Stim-Pack)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,81 @@
+id = "ct_glowstick_ionic"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "glowstick", "ionic", "light", "throwable",]
+name = "Ionic Glowstick"
+lore = "Creates an ^#8020f0;ionic^reset; bioluminescent glow when thrown. Is made from rare crystallic materials."
+long = "While being a simple light, its energy saturation makes its contents a good filler for the alta sphere energy sources."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png)"
+
+[inspect]
+alta = "In the dark, it lures you in with a dreamy glow. Altas often use these in combination with miko ones to create a romantic atmosphere."
+
+[pickup]
+
+[cost]
+gold = 20
+pixels = 10
+credits = 2
+stardust = 1
+essence = 17
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ionic.activeitem"
+rdir = "/items/active/alta/glowsticks"
+rpath = "/items/active/alta/glowsticks/ionic.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/glowsticks"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/glowsticks/ionic.activeitem"
+link = "[`/items/active/alta/glowsticks/ionic.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/glowsticks/ionic.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Ionic-Glowstick.toml"
+rdir = "/items"
+rpath = "/items/Ionic-Glowstick.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ionic-Glowstick.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png) [Ionic Glowstick](/MyEnternia/assets/items/Ionic-Glowstick.toml)"
+
+[wiki]
+ext = "md"
+name = "Ionic-Glowstick.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Ionic-Glowstick.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Ionic-Glowstick.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png) [Ionic Glowstick](/MyEnternia/Wiki/items/throwable/Ionic-Glowstick)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases.Ionica]
+
+[meta.aliases.Enko]

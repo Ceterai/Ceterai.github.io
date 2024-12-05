@@ -1,0 +1,84 @@
+id = "ct_ion_cake"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cake", "cooking", "dessert", "dish", "nia_cuisine",]
+name = "Ion Cake"
+lore = "A bright colored cake most appropriate for parties and special occasions."
+long = "A milk-creamy mixture with a unique taste makes this cake an entirely new thing."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png)"
+
+[inspect]
+alta = "Very good party cake, although no place to write something like \"congradulations\" on it."
+
+[pickup]
+
+[cost]
+gold = 8120
+pixels = 4060
+credits = 1160
+stardust = 725
+essence = 7540
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_ion_cake-love"
+name = "Mira's Love"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png) [Mira's Love](/MyEnternia/assets/items/Mira's-Love.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_ion_cake.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_ion_cake.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_ion_cake.consumable"
+link = "[`/items/generic/food/tier4/ct_ion_cake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_ion_cake.consumable)"
+
+[assets]
+ext = "toml"
+name = "Ion-Cake.toml"
+rdir = "/items"
+rpath = "/items/Ion-Cake.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ion-Cake.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png) [Ion Cake](/MyEnternia/assets/items/Ion-Cake.toml)"
+
+[wiki]
+ext = "md"
+name = "Ion-Cake.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Ion-Cake.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Ion-Cake.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png) [Ion Cake](/MyEnternia/Wiki/items/dish/Ion-Cake)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

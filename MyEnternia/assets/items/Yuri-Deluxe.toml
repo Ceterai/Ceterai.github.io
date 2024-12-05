@@ -1,0 +1,85 @@
+id = "ct_yuri_cocktail-deluxe"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "cocktail", "drink", "love", "yava_cuisine",]
+name = "Yuri Deluxe"
+lore = "You can't describe the emotions that fill you whenever you drink this. What is this?"
+long = "This cocktail is blooming with typical love ingredients often used in certain dishes."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png)"
+
+[inspect]
+alta = "I wish I had a friend I could drink this with..."
+
+[pickup]
+
+[cost]
+gold = 8640
+pixels = 4320
+credits = 1320
+stardust = 825
+essence = 7800
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_yuri_cocktail"
+name = "Yuri Cocktail"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png) [Yuri Cocktail](/MyEnternia/assets/items/Yuri-Cocktail.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_yuri_cocktail.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_yuri_cocktail.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_yuri_cocktail.consumable"
+link = "[`/items/generic/food/tier4/ct_yuri_cocktail.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_yuri_cocktail.consumable)"
+
+[assets]
+ext = "toml"
+name = "Yuri-Deluxe.toml"
+rdir = "/items"
+rpath = "/items/Yuri-Deluxe.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Yuri-Deluxe.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png) [Yuri Deluxe](/MyEnternia/assets/items/Yuri-Deluxe.toml)"
+
+[wiki]
+ext = "md"
+name = "Yuri-Cocktail.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Yuri-Cocktail.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Yuri-Cocktail.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png) [Yuri Cocktail](/MyEnternia/Wiki/items/drink/Yuri-Cocktail)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,90 @@
+id = "ct_ioncore_shield"
+base = "item"
+cat = "shield"
+type = "shield"
+tags = [ "ion_core", "ionic", "shield",]
+name = "Ion Fortress"
+lore = "An impenetrable stand made out of the hardest minerals and stones that can be found in ion planet cores."
+long = "This shield is considered an artifact, but its origins are not entirely known. Although the front decoration gives some clues."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png)"
+
+[inspect]
+alta = "I heard these shields actually belong to the fallen, but I'm not sure how they end up so deep below surface level. Did they have cities underground?"
+
+[pickup]
+ct_alta_shield_msg = "You're holding an alta shield. My database shows an enhanced set of features, loading a proper description for you. Protection is known to be a prominent topic in alta culture and a big research field as well, so this might be worth checking out."
+
+[cost]
+gold = 2880
+pixels = 1440
+credits = 384
+stardust = 240
+essence = 2640
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_ioncore_shield.activeitem"
+rdir = "/items/active/shields"
+rpath = "/items/active/shields/ct_ioncore_shield.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/shields"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/shields/ct_ioncore_shield.activeitem"
+link = "[`/items/active/shields/ct_ioncore_shield.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/shields/ct_ioncore_shield.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Ion-Fortress.toml"
+rdir = "/items"
+rpath = "/items/Ion-Fortress.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ion-Fortress.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png) [Ion Fortress](/MyEnternia/assets/items/Ion-Fortress.toml)"
+
+[wiki]
+ext = "md"
+name = "Ion-Fortress.md"
+rdir = "/items/shield"
+rpath = "/items/shield/Ion-Fortress.md"
+fdir = "/MyEnternia/Wiki/items/shield"
+fpath = "/MyEnternia/Wiki/items/shield/Ion-Fortress.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png) [Ion Fortress](/MyEnternia/Wiki/items/shield/Ion-Fortress)"
+
+[meta]
+
+[upgrades.anvil]
+id = "ct_ioncore_shield-upgrade"
+name = "Ioncore Tower"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png) [Ioncore Tower](/MyEnternia/assets/items/Ioncore-Tower.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Ionic Stand"
+lore = "Hold to lauch a traveling Ionic Wave.\nActivate block fast enough (parry time) to perform a perfect block."
+
+[abilities.primary.stats]

@@ -1,0 +1,77 @@
+id = "ct_arco_helmet"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "arco", "head_armor", "headarmour", "tier5armour",]
+name = "Envirosuit Helmet"
+lore = "Comes as part of the Envirosuit."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 6000
+pixels = 3000
+credits = 800
+stardust = 500
+essence = 5500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_arco_helmet.head"
+rdir = "/items/armors/alta/tier5/arco/helmet"
+rpath = "/items/armors/alta/tier5/arco/helmet/ct_arco_helmet.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/helmet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/helmet/ct_arco_helmet.head"
+link = "[`/items/armors/alta/tier5/arco/helmet/ct_arco_helmet.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/helmet/ct_arco_helmet.head)"
+
+[assets]
+ext = "toml"
+name = "Envirosuit-Helmet.toml"
+rdir = "/items"
+rpath = "/items/Envirosuit-Helmet.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Envirosuit-Helmet.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png) [Envirosuit Helmet](/MyEnternia/assets/items/Envirosuit-Helmet.toml)"
+
+[wiki]
+ext = "md"
+name = "Envirosuit-Helmet.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/Envirosuit-Helmet.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/Envirosuit-Helmet.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png) [Envirosuit Helmet](/MyEnternia/Wiki/items/head_armor/Envirosuit-Helmet)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

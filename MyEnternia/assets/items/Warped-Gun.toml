@@ -1,0 +1,126 @@
+id = "ct_warped_gun"
+base = "item"
+cat = "shotgun"
+type = "shotgun"
+tags = [ "cannon", "ranged", "shotgun", "warped", "weapon",]
+name = "Warped Gun"
+lore = "This cannon is overgrown with ^#9b2d3f;warped^reset; fibres. It has a special section filled with warped venom and luminous juices."
+species = "generic"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+ct_warped_msg = "Beware of the warped items you just accquired. ^#9b2d3f;Warped^reset; is a form of wild growth found mainly on ^#20f080;alterash^reset; planets, that tends to spread uncontrollably and contaminate everything in its path.  \nWarped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_warped_gun.activeitem"
+rdir = "/items/active/weapons/ranged/alta/cannon"
+rpath = "/items/active/weapons/ranged/alta/cannon/ct_warped_gun.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.activeitem"
+link = "[`/items/active/weapons/ranged/alta/cannon/ct_warped_gun.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Warped-Gun.toml"
+rdir = "/items"
+rpath = "/items/Warped-Gun.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Warped-Gun.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png) [Warped Gun](/MyEnternia/assets/items/Warped-Gun.toml)"
+
+[wiki]
+ext = "md"
+name = "Warped-Gun.md"
+rdir = "/items/shotgun"
+rpath = "/items/shotgun/Warped-Gun.md"
+fdir = "/MyEnternia/Wiki/items/shotgun"
+fpath = "/MyEnternia/Wiki/items/shotgun/Warped-Gun.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png) [Warped Gun](/MyEnternia/Wiki/items/shotgun/Warped-Gun)"
+
+[meta]
+
+[upgrades.anvil]
+id = "ct_warped_gun-upgrade"
+name = "Biowarper"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png) [Biowarper](/MyEnternia/assets/items/Biowarper.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Poison Core"
+lore = "Can launch Poison Sweeps on press and Poison Rockets on hold."
+
+[abilities.secondary]
+name = "Venomous Barrage"
+lore = "Able to turn its venom into explosive charges.\nPress - launch an Acid Nade;\nHold - launch a Poison Cloud Nade."
+
+[abilities.primary.stats]
+baseDps = 8
+energyUsage = 32
+fireTime = 0.9
+pressType = "burst"
+holdType = "blast"
+
+[abilities.secondary.stats]
+baseDps = 8
+energyUsage = 36
+fireTime = 0.9
+pressType = "nade"
+holdType = "nade"
+holdTimeMax = 0.55
+
+[abilities.primary.stats.pressParams]
+type = "acidsweep"
+inaccuracy = 0.21
+count = 5
+
+[abilities.primary.stats.holdParams]
+type = "poisonplasmarocket"
+inaccuracy = 0.01
+
+[abilities.secondary.stats.pressParams]
+type = "acidgrenade"
+
+[abilities.secondary.stats.holdParams]
+type = "poisoncloudgrenade"
+
+[abilities.primary.stats.pressParams.params]
+knockback = 5
+timeToLive = 5.0

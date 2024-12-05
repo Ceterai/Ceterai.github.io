@@ -1,0 +1,89 @@
+id = "ct_aya_bee_egg"
+base = "item"
+cat = "monster_egg"
+type = "egg"
+tags = [ "egg", "monster_egg", "spawner", "throwable",]
+name = "Aya Bee Egg"
+lore = "Can be used to spawn a bug called ^#b0e0fc;aya bee^reset;, commonly found around ^#b0e0fc;ayaka^reset; trees."
+long = "These \"eggs\" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner."
+species = "generic"
+level = 2
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_aya_bee_egg.png)"
+
+[inspect]
+alta = "A cute little aya bee, ready to go eat some ripe ayas right from a tree."
+
+[pickup]
+
+[cost]
+gold = 600
+pixels = 300
+credits = 40
+stardust = 25
+essence = 500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_aya_bee_egg.activeitem"
+rdir = "/items/active/alta/spawners/bugs"
+rpath = "/items/active/alta/spawners/bugs/ct_aya_bee_egg.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/bugs"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/bugs/ct_aya_bee_egg.activeitem"
+link = "[`/items/active/alta/spawners/bugs/ct_aya_bee_egg.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/bugs/ct_aya_bee_egg.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Aya-Bee-Egg.toml"
+rdir = "/items"
+rpath = "/items/Aya-Bee-Egg.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Aya-Bee-Egg.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_aya_bee_egg.png) [Aya Bee Egg](/MyEnternia/assets/items/Aya-Bee-Egg.toml)"
+
+[wiki]
+ext = "md"
+name = "Aya-Bee-Egg.md"
+rdir = "/items/monster_egg"
+rpath = "/items/monster_egg/Aya-Bee-Egg.md"
+fdir = "/MyEnternia/Wiki/items/monster_egg"
+fpath = "/MyEnternia/Wiki/items/monster_egg/Aya-Bee-Egg.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_aya_bee_egg.png) [Aya Bee Egg](/MyEnternia/Wiki/items/monster_egg/Aya-Bee-Egg)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.passive]
+name = "Small Bean"
+lore = "This small critter or bug can be caught with a bug net and put in a bottle."
+long = "This will turn them into a collectable item valued by many collectionists, one of which could be yourself."
+
+[stats.spawner]
+entities = [ "ct_aya_bee",]
+
+[abilities.passive.stats]
+
+[stats.spawner.stats.damageTeam]
+team = 1
+type = "passive"

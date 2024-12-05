@@ -1,0 +1,82 @@
+id = "ct_ayaka_loot"
+base = "item"
+cat = "loot"
+type = "container"
+tags = [ "ayaka", "container", "loot",]
+name = "Ayaka Loot Crate"
+lore = "Contains random loot from ^#3587ff;ayaka^reset; forest pods."
+long = "It mostly includes ayaka biproducts, like aya powder and ayaka sap, but can also hold rare finds and aya-based prepared dishes."
+species = "generic"
+level = 1
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png)"
+
+[inspect]
+alta = "A pad full of ayas. I think there's something else inside too..."
+
+[pickup]
+ct_loot_crate_msg = "I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tighly. ^#ff8888;You won't be able to put things back if you open it.^reset;"
+
+[cost]
+gold = 160
+pixels = 80
+credits = 16
+stardust = 10
+essence = 120
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+treasure = "ct_ayaka_loot"
+level = 1
+
+[repo]
+ext = "activeitem"
+name = "ct_ayaka_loot.activeitem"
+rdir = "/items/active/alta/loot/biome"
+rpath = "/items/active/alta/loot/biome/ct_ayaka_loot.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome/ct_ayaka_loot.activeitem"
+link = "[`/items/active/alta/loot/biome/ct_ayaka_loot.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome/ct_ayaka_loot.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Ayaka-Loot-Crate.toml"
+rdir = "/items"
+rpath = "/items/Ayaka-Loot-Crate.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ayaka-Loot-Crate.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png) [Ayaka Loot Crate](/MyEnternia/assets/items/Ayaka-Loot-Crate.toml)"
+
+[wiki]
+ext = "md"
+name = "Ayaka-Loot-Crate.md"
+rdir = "/items/loot"
+rpath = "/items/loot/Ayaka-Loot-Crate.md"
+fdir = "/MyEnternia/Wiki/items/loot"
+fpath = "/MyEnternia/Wiki/items/loot/Ayaka-Loot-Crate.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png) [Ayaka Loot Crate](/MyEnternia/Wiki/items/loot/Ayaka-Loot-Crate)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Ayaka Crate"]

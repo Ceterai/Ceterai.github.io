@@ -1,0 +1,92 @@
+id = "ct_elite_droid"
+base = "item"
+cat = "droid_deployer"
+type = "robotics"
+tags = [ "alta_ship", "capital", "droid", "droid_deployer", "elite", "robotics", "spawner", "throwable",]
+name = "Elite Droid"
+lore = "A mechanical minitank that can stick to surfaces."
+long = "Its prime combatative power compensates for a fairly heavy weight of the droid, meant mostly for relatively smooth surfaces."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png)"
+
+[inspect]
+alta = "They seem pretty sturdy, can I ride this one?"
+
+[pickup]
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 1680
+pixels = 840
+credits = 240
+stardust = 150
+essence = 1560
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "elite.activeitem"
+rdir = "/items/active/alta/spawners/droids"
+rpath = "/items/active/alta/spawners/droids/elite.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/droids"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/droids/elite.activeitem"
+link = "[`/items/active/alta/spawners/droids/elite.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/droids/elite.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Elite-Droid.toml"
+rdir = "/items"
+rpath = "/items/Elite-Droid.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Elite-Droid.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png) [Elite Droid](/MyEnternia/assets/items/Elite-Droid.toml)"
+
+[wiki]
+ext = "md"
+name = "Elite-Droid.md"
+rdir = "/items/droid_deployer"
+rpath = "/items/droid_deployer/Elite-Droid.md"
+fdir = "/MyEnternia/Wiki/items/droid_deployer"
+fpath = "/MyEnternia/Wiki/items/droid_deployer/Elite-Droid.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png) [Elite Droid](/MyEnternia/Wiki/items/droid_deployer/Elite-Droid)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "^#20f080;Elite^reset; Arsenal"
+lore = "Can launch semi-auto bursts of 4 ^#20f080;Pulsings^reset; or charge up a powerful ^#20f080;Proto-Pulsar^reset;. Will charge at enemy and explode on destruction."
+long = "Such arsenal was designed to work under most environmental conditions."
+
+[abilities.passive]
+name = "^#20f080;Elite^reset; Armor"
+lore = "Has status effects: ^#2080f0;Sensitive Electronics^reset;, ^#20f080;Elite Autoshielder^reset;.\nDeals physical damage on touch."
+long = "Heavy armor comes with increased overall mass, as well as higher armor rates."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

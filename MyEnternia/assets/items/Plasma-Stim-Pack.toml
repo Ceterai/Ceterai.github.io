@@ -1,0 +1,79 @@
+id = "ct_plasma_stim"
+base = "item"
+cat = "enhancer"
+type = "enhancer"
+tags = [ "enhancer", "plasma",]
+name = "Plasma Stim Pack"
+lore = "Provides 60s of 20% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#2080f0;Plasma Immunity^reset;.  \n^gray;Starburst Rework: ^reset;^#7733aa;Mild Static^reset;^gray; immunity.^reset;"
+long = "It makes it so your body reacts less when coming in contact with plasma. As a side effects, it feels like you are slightly wet."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png)"
+
+[inspect]
+alta = "A drinkable alnia mixture. I hope I'm not just getting a bunch of plasma in my system."
+
+[pickup]
+
+[cost]
+gold = 960
+pixels = 480
+credits = 128
+stardust = 80
+essence = 880
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_plasma_stim.consumable"
+rdir = "/items/generic/other"
+rpath = "/items/generic/other/ct_plasma_stim.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_plasma_stim.consumable"
+link = "[`/items/generic/other/ct_plasma_stim.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_plasma_stim.consumable)"
+
+[assets]
+ext = "toml"
+name = "Plasma-Stim-Pack.toml"
+rdir = "/items"
+rpath = "/items/Plasma-Stim-Pack.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Plasma-Stim-Pack.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png) [Plasma Stim Pack](/MyEnternia/assets/items/Plasma-Stim-Pack.toml)"
+
+[wiki]
+ext = "md"
+name = "Plasma-Stim-Pack.md"
+rdir = "/items/enhancer"
+rpath = "/items/enhancer/Plasma-Stim-Pack.md"
+fdir = "/MyEnternia/Wiki/items/enhancer"
+fpath = "/MyEnternia/Wiki/items/enhancer/Plasma-Stim-Pack.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png) [Plasma Stim Pack](/MyEnternia/Wiki/items/enhancer/Plasma-Stim-Pack)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

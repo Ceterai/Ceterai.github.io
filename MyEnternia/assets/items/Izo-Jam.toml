@@ -1,0 +1,84 @@
+id = "ct_iso_jam"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dish", "isoslime", "jam", "nia_cuisine",]
+name = "Izo Jam"
+lore = "A great way to prepare nia treats is with a good amount of cold isoslime jam. It's also really useful for making ice cream!"
+long = "It's cooling capabilities make it a great ingredient in almost any cold dish, really."
+species = "alta"
+level = 2
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png)"
+
+[inspect]
+alta = "Slimey, but so sweet and nice, and overall pretty chill."
+
+[pickup]
+
+[cost]
+gold = 780
+pixels = 390
+credits = 52
+stardust = 32
+essence = 650
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_iso_jam-cryo"
+name = "Cryo Jam"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png) [Cryo Jam](/MyEnternia/assets/items/Cryo-Jam.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_iso_jam.consumable"
+rdir = "/items/generic/food/tier1"
+rpath = "/items/generic/food/tier1/ct_iso_jam.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_iso_jam.consumable"
+link = "[`/items/generic/food/tier1/ct_iso_jam.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_iso_jam.consumable)"
+
+[assets]
+ext = "toml"
+name = "Izo-Jam.toml"
+rdir = "/items"
+rpath = "/items/Izo-Jam.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Izo-Jam.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png) [Izo Jam](/MyEnternia/assets/items/Izo-Jam.toml)"
+
+[wiki]
+ext = "md"
+name = "Izo-Jam.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Izo-Jam.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Izo-Jam.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png) [Izo Jam](/MyEnternia/Wiki/items/dish/Izo-Jam)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Ionic Juice"]

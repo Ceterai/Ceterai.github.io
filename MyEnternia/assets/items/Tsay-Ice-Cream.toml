@@ -1,0 +1,84 @@
+id = "ct_tsay_icecream"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dessert", "dish", "ice", "runeva_cuisine", "tsay",]
+name = "Tsay Ice Cream"
+lore = "A sour icecream, how?"
+long = "The answer is simple lots of powdered tsays and ionice. Rare alta powder balls act as rare sweeteners, almost like raisins in a piece of bread."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png)"
+
+[inspect]
+alta = "I like to single out the aya bits and see how much I can eat without them!"
+
+[pickup]
+
+[cost]
+gold = 2200
+pixels = 1100
+credits = 264
+stardust = 165
+essence = 1980
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_tsay_icecream-dessert"
+name = "Iced Tsay Dessert"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png) [Iced Tsay Dessert](/MyEnternia/assets/items/Iced-Tsay-Dessert.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_tsay_icecream.consumable"
+rdir = "/items/generic/food/tier2"
+rpath = "/items/generic/food/tier2/ct_tsay_icecream.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_tsay_icecream.consumable"
+link = "[`/items/generic/food/tier2/ct_tsay_icecream.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_tsay_icecream.consumable)"
+
+[assets]
+ext = "toml"
+name = "Tsay-Ice-Cream.toml"
+rdir = "/items"
+rpath = "/items/Tsay-Ice-Cream.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Tsay-Ice-Cream.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png) [Tsay Ice Cream](/MyEnternia/assets/items/Tsay-Ice-Cream.toml)"
+
+[wiki]
+ext = "md"
+name = "Tsay-Ice-Cream.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Tsay-Ice-Cream.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Tsay-Ice-Cream.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png) [Tsay Ice Cream](/MyEnternia/Wiki/items/dish/Tsay-Ice-Cream)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,102 @@
+id = "ct_gheablade"
+base = "item"
+cat = "axe"
+type = "axe"
+tags = [ "axe", "ghearun", "gheatsyn", "melee", "weapon",]
+name = "Gheablade"
+lore = "^red;WIP^reset;. The blade of this axe is made from layered ^#a7e001;gheatsyn^reset;. There are electronic compensators on the handle made from the same crystals."
+long = "These compensators, or gheafluxers, are meant to engage the energy from cimilar crystals nearby, creating a barely visible resonation, that ultimately accelerates ^#a7e001;tsyntex^reset;."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png)"
+
+[inspect]
+alta = "Seems very handy. Not sure what exact geological purposes this was made for, but is pretty powerful anyway, so I'm not complaining."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_gheablade.activeitem"
+rdir = "/items/active/weapons/melee/alta/light"
+rpath = "/items/active/weapons/melee/alta/light/ct_gheablade.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_gheablade.activeitem"
+link = "[`/items/active/weapons/melee/alta/light/ct_gheablade.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_gheablade.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Gheablade.toml"
+rdir = "/items"
+rpath = "/items/Gheablade.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Gheablade.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png) [Gheablade](/MyEnternia/assets/items/Gheablade.toml)"
+
+[wiki]
+ext = "md"
+name = "Gheablade.md"
+rdir = "/items/axe"
+rpath = "/items/axe/Gheablade.md"
+fdir = "/MyEnternia/Wiki/items/axe"
+fpath = "/MyEnternia/Wiki/items/axe/Gheablade.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png) [Gheablade](/MyEnternia/Wiki/items/axe/Gheablade)"
+
+[upgrades.anvil]
+id = "ct_gheablade-upgrade"
+name = "Gheacleaver"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png) [Gheacleaver](/MyEnternia/assets/items/Gheacleaver.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Gheaflux"
+lore = "^red;WIP^reset;. A sequence of 3 light strikes. Hold to perform a Heavy Slash.\nEnters a charged state every 10 seconds, making next 4 hits deal bonus ^#7733aa;electric^reset; damage."
+long = "Each piece of gheatsyn in proximity starts to slowly resonate with the blade of the tool..."
+
+[abilities.primary.stats]
+fireTime = 0.9
+baseDps = 6
+
+[meta.aliases.Gheaxe]
+
+[abilities.primary.stats.damageConfig]
+knockback = 25
+
+[abilities.primary.stats.damageConfig.itemBonus]
+type = "ct_gheatsyn_shard"
+damageFactor = 0.005
+max = 120

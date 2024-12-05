@@ -1,0 +1,85 @@
+id = "ct_crystalline_crippit_egg"
+base = "item"
+cat = "monster_egg"
+type = "egg"
+tags = [ "egg", "monster_egg", "spawner", "throwable",]
+name = "Crystalline Crippit Egg"
+lore = "Can be used to spawn a creature called ^#b0e0fc;crystalline crippit^reset;."
+long = "These \"eggs\" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner."
+species = "generic"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crystalline_crippit_egg.png)"
+
+[inspect]
+alta = "A brave little crippit is ready to settle in its new crystal home!"
+
+[pickup]
+
+[cost]
+gold = 1240
+pixels = 620
+credits = 164
+stardust = 102
+essence = 1080
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_crystalline_crippit_egg.activeitem"
+rdir = "/items/active/alta/spawners/monsters"
+rpath = "/items/active/alta/spawners/monsters/ct_crystalline_crippit_egg.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/monsters"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/monsters/ct_crystalline_crippit_egg.activeitem"
+link = "[`/items/active/alta/spawners/monsters/ct_crystalline_crippit_egg.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/monsters/ct_crystalline_crippit_egg.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Crystalline-Crippit-Egg.toml"
+rdir = "/items"
+rpath = "/items/Crystalline-Crippit-Egg.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Crystalline-Crippit-Egg.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crystalline_crippit_egg.png) [Crystalline Crippit Egg](/MyEnternia/assets/items/Crystalline-Crippit-Egg.toml)"
+
+[wiki]
+ext = "md"
+name = "Crystalline-Crippit-Egg.md"
+rdir = "/items/monster_egg"
+rpath = "/items/monster_egg/Crystalline-Crippit-Egg.md"
+fdir = "/MyEnternia/Wiki/items/monster_egg"
+fpath = "/MyEnternia/Wiki/items/monster_egg/Crystalline-Crippit-Egg.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crystalline_crippit_egg.png) [Crystalline Crippit Egg](/MyEnternia/Wiki/items/monster_egg/Crystalline-Crippit-Egg)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[stats.spawner]
+entities = [ "ct_crystalline_crippit",]
+
+[stats.spawner.stats.damageTeam]

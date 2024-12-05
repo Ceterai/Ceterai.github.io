@@ -1,0 +1,77 @@
+id = "ct_arco_android_head"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "arco", "head_armor", "headarmour", "robotics", "tier5armour",]
+name = "Enviro Android Head"
+lore = "A head of an advanced android prototype for the ^#f08f20;Enviro Android Set^reset; series."
+species = "alta"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/android_head/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 6200
+pixels = 3100
+credits = 900
+stardust = 562
+essence = 5500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_arco_android_head.head"
+rdir = "/items/armors/alta/tier5/arco/android_head"
+rpath = "/items/armors/alta/tier5/arco/android_head/ct_arco_android_head.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/android_head"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/android_head/ct_arco_android_head.head"
+link = "[`/items/armors/alta/tier5/arco/android_head/ct_arco_android_head.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/android_head/ct_arco_android_head.head)"
+
+[assets]
+ext = "toml"
+name = "Enviro-Android-Head.toml"
+rdir = "/items"
+rpath = "/items/Enviro-Android-Head.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Enviro-Android-Head.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/android_head/icon.png) [Enviro Android Head](/MyEnternia/assets/items/Enviro-Android-Head.toml)"
+
+[wiki]
+ext = "md"
+name = "Enviro-Android-Head.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/Enviro-Android-Head.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/Enviro-Android-Head.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/android_head/icon.png) [Enviro Android Head](/MyEnternia/Wiki/items/head_armor/Enviro-Android-Head)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Enviro Android"]

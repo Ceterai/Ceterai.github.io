@@ -1,0 +1,77 @@
+id = "ct_alta_official_skirt"
+base = "item"
+cat = "legs_clothing"
+type = "legwear"
+tags = [ "legs_clothing", "legwear",]
+name = "Official Skirt"
+lore = "A tidy layered skirt. A symbol of responsibility."
+species = "alta"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_skirt/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 64
+stardust = 40
+essence = 160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "legs"
+name = "ct_alta_official_skirt.legs"
+rdir = "/items/armors/alta/clothing/official_skirt"
+rpath = "/items/armors/alta/clothing/official_skirt/ct_alta_official_skirt.legs"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/official_skirt"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/official_skirt/ct_alta_official_skirt.legs"
+link = "[`/items/armors/alta/clothing/official_skirt/ct_alta_official_skirt.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/official_skirt/ct_alta_official_skirt.legs)"
+
+[assets]
+ext = "toml"
+name = "Official-Skirt.toml"
+rdir = "/items"
+rpath = "/items/Official-Skirt.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Official-Skirt.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_skirt/icon.png) [Official Skirt](/MyEnternia/assets/items/Official-Skirt.toml)"
+
+[wiki]
+ext = "md"
+name = "Official-Skirt.md"
+rdir = "/items/legs_clothing"
+rpath = "/items/legs_clothing/Official-Skirt.md"
+fdir = "/MyEnternia/Wiki/items/legs_clothing"
+fpath = "/MyEnternia/Wiki/items/legs_clothing/Official-Skirt.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_skirt/icon.png) [Official Skirt](/MyEnternia/Wiki/items/legs_clothing/Official-Skirt)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

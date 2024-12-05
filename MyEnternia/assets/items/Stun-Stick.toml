@@ -1,0 +1,105 @@
+id = "ct_alta_stun_stick"
+base = "item"
+cat = "shortsword"
+type = "shortsword"
+tags = [ "calin", "crystal", "melee", "shortsword", "sword", "weapon",]
+name = "Stun Stick"
+lore = "^red;WIP^reset;. A hand-held halter used by ^#b0e0fc;alta^reset; security to prevent unauthorized activity."
+long = "Just like a lot of alta tools, including combat tools, this one is considered to be non-lethal by ^#b0e0fc;alta security protocols^reset;, since it doesn't provide an amount energy to be able to really harm an alta, as well as the vast majority of Io creatures. It's only meant to scare away the target, or stugger it. In worst case scenarios, it will paralize the target, but not kill it.  \nThe exception to this rule are drones, that can take damage from the plasmic charges from the hits."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png)"
+
+[inspect]
+alta = "I feel quite secure with this. Begone, you evil... pois?.. companion drones? ... Do I really need this thing?"
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_alta_stun_stick.activeitem"
+rdir = "/items/active/weapons/melee/alta/light"
+rpath = "/items/active/weapons/melee/alta/light/ct_alta_stun_stick.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.activeitem"
+link = "[`/items/active/weapons/melee/alta/light/ct_alta_stun_stick.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Stun-Stick.toml"
+rdir = "/items"
+rpath = "/items/Stun-Stick.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Stun-Stick.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png) [Stun Stick](/MyEnternia/assets/items/Stun-Stick.toml)"
+
+[wiki]
+ext = "md"
+name = "Stun-Stick.md"
+rdir = "/items/shortsword"
+rpath = "/items/shortsword/Stun-Stick.md"
+fdir = "/MyEnternia/Wiki/items/shortsword"
+fpath = "/MyEnternia/Wiki/items/shortsword/Stun-Stick.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png) [Stun Stick](/MyEnternia/Wiki/items/shortsword/Stun-Stick)"
+
+[upgrades.anvil]
+id = "ct_alta_stun_stick-upgrade"
+name = "Halter Compact"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png) [Halter Compact](/MyEnternia/assets/items/Halter-Compact.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Plasmic Halter"
+lore = "^red;WIP^reset;. A sequence of 3 light stun strikes. Hold to perform a Halter Strike."
+long = "The retractable **springrope** holding the head of the stunstick "
+
+[abilities.primary.stats]
+fireTime = 0.625
+baseDps = 6
+chainDps = 1.0
+crackDps = 7.2
+projectileType = "whipcrackelectric"
+
+[meta.aliases."Halter Stick"]
+
+[abilities.primary.stats.damageConfig]
+statusEffects = []
+damageSourceKind = "electric"
+timeoutGroup = "primary"
+timeout = 0.3
+
+[abilities.primary.stats.projectileConfig]

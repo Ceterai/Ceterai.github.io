@@ -1,0 +1,86 @@
+id = "ct_phospholion"
+base = "item"
+cat = "resource"
+type = "resource"
+tags = [ "armor", "phospholion", "radiation", "reagent", "resource",]
+name = "Phospholion"
+lore = "A sturdy metallic material that turns into a sufficient energy source in reaction to radiation."
+long = "The material is popular with kaiters, since it can act both as a building/armor material (in calm state, after refining) and as an energy source and engine."
+species = "generic"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png)"
+
+[inspect]
+alta = "An unstable material with a lengthy name. Why are we using it again?"
+
+[pickup]
+
+[cost]
+gold = 100
+pixels = 50
+credits = 12
+stardust = 7
+essence = 90
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "item"
+name = "ct_phospholion.item"
+rdir = "/items/generic/crafting"
+rpath = "/items/generic/crafting/ct_phospholion.item"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_phospholion.item"
+link = "[`/items/generic/crafting/ct_phospholion.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_phospholion.item)"
+
+[assets]
+ext = "toml"
+name = "Phospholion.toml"
+rdir = "/items"
+rpath = "/items/Phospholion.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Phospholion.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png) [Phospholion](/MyEnternia/assets/items/Phospholion.toml)"
+
+[wiki]
+ext = "md"
+name = "Phospholion.md"
+rdir = "/items/resource"
+rpath = "/items/resource/Phospholion.md"
+fdir = "/MyEnternia/Wiki/items/resource"
+fpath = "/MyEnternia/Wiki/items/resource/Phospholion.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png) [Phospholion](/MyEnternia/Wiki/items/resource/Phospholion)"
+
+[meta]
+related = "{\"### [[ Biomes ]]\": [\"Phospholion Mines\"], \"### [[ Objects ]]\": {\"#### Natural\": [\"Small Phospholion Deposit\", \"Shiny Phospholion Deposit\", \"Sharp Phospholion Deposit\", \"Irradiated Phosphobulb\", \"Irradiated Small Phosphobulb\", \"Irradiated Phosphobubble\", \"Phospholion Formation\"]}, \"### [[ Items ]]\": {\"#### [[ Weapons ]]\": [\"Phospholiator\", [\"Phosic Cannon \\u2605\"]], \"#### [[ Throwable Items ]]\": [\"Phosphonade\"], \"#### [[ Materials|Generic Items#crafting-materials ]]\": [\"Phospholion Ore\", \"Phosicore\"], \"#### [[ Codexes ]]\": [\"Energy Mines\"], \"#### [[ Loot Items ]]\": [\"Phospholion Loot Crate\"]}}"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.md]
+"#### Origins" = "This light-gray material forms in harsh cold radioactive environments. Because of this, it's able to react with radiation by expanding into a contained energy source."
+"#### Mining" = "Phospholion is by altas in special ^#ceffd7;phospholion mines^reset;, also known as ^#ceffd7;energy mines^reset;. They're often located right under the planetary surface due to perfect conditions for its existance."
+
+[meta.aliases."Phospholion Ore"]

@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "my enternia wiki generator"
+version = "0.1.0"
+description = ""
+authors = ["Ceterai <ceterai@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+toml = "^0.10.2"
+pyjson5 = "^1.6.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

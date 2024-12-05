@@ -1,0 +1,83 @@
+id = "ct_minto_spice"
+base = "item"
+cat = "ingredient"
+type = "cooking"
+tags = [ "cooking", "ingredient",]
+name = "Minto Spice"
+lore = "A mix of spices commonly used in calin cuisine, like the famous ^#b0e0fc;alta^reset; ^#b0e0fc;minto soup^reset;."
+long = "This spice adds a refreshing aftertaste to the food, and tends to react slightly differently to different ingredients, giving variative results from dish to dish."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png)"
+
+[inspect]
+alta = "It doesn't smell like much, but you do feel it once it gets there, sometimes it might not even be that obvious. I know that there are special \"taste-clearing\" variations of this, called maito spice, or **maitorish**."
+
+[pickup]
+
+[cost]
+gold = 80
+pixels = 40
+credits = 8
+stardust = 5
+essence = 70
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "item"
+name = "ct_minto_spice.item"
+rdir = "/items/generic/food/other"
+rpath = "/items/generic/food/other/ct_minto_spice.item"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/ct_minto_spice.item"
+link = "[`/items/generic/food/other/ct_minto_spice.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/ct_minto_spice.item)"
+
+[assets]
+ext = "toml"
+name = "Minto-Spice.toml"
+rdir = "/items"
+rpath = "/items/Minto-Spice.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Minto-Spice.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png) [Minto Spice](/MyEnternia/assets/items/Minto-Spice.toml)"
+
+[wiki]
+ext = "md"
+name = "Minto-Spice.md"
+rdir = "/items/ingredient"
+rpath = "/items/ingredient/Minto-Spice.md"
+fdir = "/MyEnternia/Wiki/items/ingredient"
+fpath = "/MyEnternia/Wiki/items/ingredient/Minto-Spice.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png) [Minto Spice](/MyEnternia/Wiki/items/ingredient/Minto-Spice)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Minty Spice"]
+
+[meta.aliases."Maito Spice"]
+
+[meta.aliases.Maitorish]

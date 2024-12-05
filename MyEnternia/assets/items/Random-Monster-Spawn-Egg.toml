@@ -1,0 +1,78 @@
+id = "ct_monster_spawner"
+base = "item"
+cat = "spawner"
+type = "egg"
+tags = [ "egg", "spawner", "throwable",]
+name = "Random Monster Spawn Egg"
+lore = "Throw it down to release the creature captured inside! Contains a random creature from the My Enternia mod."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/ct_monster_spawner.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 840
+pixels = 420
+credits = 120
+stardust = 75
+essence = 780
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_monster_spawner.activeitem"
+rdir = "/items/active/alta/spawners"
+rpath = "/items/active/alta/spawners/ct_monster_spawner.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/ct_monster_spawner.activeitem"
+link = "[`/items/active/alta/spawners/ct_monster_spawner.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/ct_monster_spawner.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Random-Monster-Spawn-Egg.toml"
+rdir = "/items"
+rpath = "/items/Random-Monster-Spawn-Egg.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Random-Monster-Spawn-Egg.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/ct_monster_spawner.png) [Random Monster Spawn Egg](/MyEnternia/assets/items/Random-Monster-Spawn-Egg.toml)"
+
+[wiki]
+ext = "md"
+name = "Random-Monster-Spawn-Egg.md"
+rdir = "/items/spawner"
+rpath = "/items/spawner/Random-Monster-Spawn-Egg.md"
+fdir = "/MyEnternia/Wiki/items/spawner"
+fpath = "/MyEnternia/Wiki/items/spawner/Random-Monster-Spawn-Egg.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/ct_monster_spawner.png) [Random Monster Spawn Egg](/MyEnternia/Wiki/items/spawner/Random-Monster-Spawn-Egg)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

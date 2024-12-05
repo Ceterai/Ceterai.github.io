@@ -1,0 +1,85 @@
+id = "ct_tsay_cooked-perfect"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dish", "runeva_cuisine", "tsay",]
+name = "Perfectly Cooked Tsay"
+lore = "A well-made meaty assortment. Impressive how this was made only using a few tsays."
+long = "The main sercret to this result is a kada-like preparation, where the skin gets marinaded in the fruit's frying juice as it gets cooked."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png)"
+
+[inspect]
+alta = "It hits differently without the spices, but I like it this way here. Very surprising."
+
+[pickup]
+
+[cost]
+gold = 1200
+pixels = 600
+credits = 120
+stardust = 75
+essence = 1050
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_tsay_cooked"
+name = "Cooked Tsay"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png) [Cooked Tsay](/MyEnternia/assets/items/Cooked-Tsay.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_tsay_cooked.consumable"
+rdir = "/items/generic/food/tier1"
+rpath = "/items/generic/food/tier1/ct_tsay_cooked.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_tsay_cooked.consumable"
+link = "[`/items/generic/food/tier1/ct_tsay_cooked.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_tsay_cooked.consumable)"
+
+[assets]
+ext = "toml"
+name = "Perfectly-Cooked-Tsay.toml"
+rdir = "/items"
+rpath = "/items/Perfectly-Cooked-Tsay.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Perfectly-Cooked-Tsay.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png) [Perfectly Cooked Tsay](/MyEnternia/assets/items/Perfectly-Cooked-Tsay.toml)"
+
+[wiki]
+ext = "md"
+name = "Cooked-Tsay.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Cooked-Tsay.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Cooked-Tsay.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png) [Cooked Tsay](/MyEnternia/Wiki/items/dish/Cooked-Tsay)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

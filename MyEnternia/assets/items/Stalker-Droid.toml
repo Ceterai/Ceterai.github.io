@@ -1,0 +1,92 @@
+id = "ct_alta_stalker_droid"
+base = "item"
+cat = "droid_deployer"
+type = "robotics"
+tags = [ "citadel", "droid", "droid_deployer", "robotics", "spawner", "specops", "throwable",]
+name = "Stalker Droid"
+lore = "This hightech droid has an integrated invisibility tech prototype. Can teleport, slightly giving away its location."
+long = "Many stalker droids are used as a safe surveillance for the research of various wild creatures."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png)"
+
+[inspect]
+alta = "Likes to jumpscare innocent alta researchers trying to do their job. This is how you get grounded as a droid."
+
+[pickup]
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 1720
+pixels = 860
+credits = 260
+stardust = 162
+essence = 1560
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "stalker.activeitem"
+rdir = "/items/active/alta/spawners/droids"
+rpath = "/items/active/alta/spawners/droids/stalker.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/droids"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/droids/stalker.activeitem"
+link = "[`/items/active/alta/spawners/droids/stalker.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/droids/stalker.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Stalker-Droid.toml"
+rdir = "/items"
+rpath = "/items/Stalker-Droid.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Stalker-Droid.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png) [Stalker Droid](/MyEnternia/assets/items/Stalker-Droid.toml)"
+
+[wiki]
+ext = "md"
+name = "Stalker-Droid.md"
+rdir = "/items/droid_deployer"
+rpath = "/items/droid_deployer/Stalker-Droid.md"
+fdir = "/MyEnternia/Wiki/items/droid_deployer"
+fpath = "/MyEnternia/Wiki/items/droid_deployer/Stalker-Droid.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png) [Stalker Droid](/MyEnternia/Wiki/items/droid_deployer/Stalker-Droid)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Silent Hunter"
+lore = "Will launch ^#80f020;poison^reset; charges at targets from the distance. Will explode with ^#7733aa;electric^reset; particles on destruction."
+long = "The launch process of charges is muffled to increase the stealth effect of the machine."
+
+[abilities.passive]
+name = "Camouflager"
+lore = "Has status effects: ^#2080f0;Sensitive Electronics^reset;, Camouflage 50%.\nDeals physical damage on touch."
+long = "While the technology behind this isn't perfect, making these droids completely invisible could have unexpected sideffects for its allies."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

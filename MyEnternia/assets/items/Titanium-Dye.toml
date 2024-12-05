@@ -1,0 +1,79 @@
+id = "ct_titanium_dye"
+base = "item"
+cat = "dye"
+type = "dye"
+tags = [ "dye", "titanium",]
+name = "Titanium Dye"
+lore = "This coloured dye can be applied to a piece of armour or clothing with a right-click."
+long = "This dye imitates the shades of a piece of regular titanium, often used by the Miniknog."
+species = "alta"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/dyes/alta/ct_titanium_dye.png)"
+
+[inspect]
+alta = "I think this is what MKI intruders use to make our tech look like Miniknog's."
+
+[pickup]
+
+[cost]
+gold = 30
+pixels = 15
+credits = 6
+stardust = 3
+essence = 15
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "augment"
+name = "ct_titanium_dye.augment"
+rdir = "/items/generic/dyes/alta"
+rpath = "/items/generic/dyes/alta/ct_titanium_dye.augment"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/dyes/alta"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/dyes/alta/ct_titanium_dye.augment"
+link = "[`/items/generic/dyes/alta/ct_titanium_dye.augment`](https://github.com/Ceterai/Enternia/blob/main/items/generic/dyes/alta/ct_titanium_dye.augment)"
+
+[assets]
+ext = "toml"
+name = "Titanium-Dye.toml"
+rdir = "/items"
+rpath = "/items/Titanium-Dye.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Titanium-Dye.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/dyes/alta/ct_titanium_dye.png) [Titanium Dye](/MyEnternia/assets/items/Titanium-Dye.toml)"
+
+[wiki]
+ext = "md"
+name = "Titanium-Dye.md"
+rdir = "/items/dye"
+rpath = "/items/dye/Titanium-Dye.md"
+fdir = "/MyEnternia/Wiki/items/dye"
+fpath = "/MyEnternia/Wiki/items/dye/Titanium-Dye.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/dyes/alta/ct_titanium_dye.png) [Titanium Dye](/MyEnternia/Wiki/items/dye/Titanium-Dye)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

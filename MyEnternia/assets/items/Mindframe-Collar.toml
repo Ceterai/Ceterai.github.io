@@ -1,0 +1,77 @@
+id = "ct_mindframe_collar"
+base = "item"
+cat = "collar"
+type = "accessory"
+tags = [ "accessory", "ceterai", "collar", "enhancement",]
+name = "Mindframe Collar"
+lore = "A collar that causes your pet to damage nearby enemies with electricity and protects it with a force shield when low on health."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_mindframe_collar.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 11200
+pixels = 5600
+credits = 1600
+stardust = 1000
+essence = 10400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "augment"
+name = "ct_mindframe_collar.augment"
+rdir = "/items/augments/pet"
+rpath = "/items/augments/pet/ct_mindframe_collar.augment"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/augments/pet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/augments/pet/ct_mindframe_collar.augment"
+link = "[`/items/augments/pet/ct_mindframe_collar.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/pet/ct_mindframe_collar.augment)"
+
+[assets]
+ext = "toml"
+name = "Mindframe-Collar.toml"
+rdir = "/items"
+rpath = "/items/Mindframe-Collar.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Mindframe-Collar.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_mindframe_collar.png) [Mindframe Collar](/MyEnternia/assets/items/Mindframe-Collar.toml)"
+
+[wiki]
+ext = "md"
+name = "Mindframe-Collar.md"
+rdir = "/items/collar"
+rpath = "/items/collar/Mindframe-Collar.md"
+fdir = "/MyEnternia/Wiki/items/collar"
+fpath = "/MyEnternia/Wiki/items/collar/Mindframe-Collar.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_mindframe_collar.png) [Mindframe Collar](/MyEnternia/Wiki/items/collar/Mindframe-Collar)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,77 @@
+id = "ct_alta_respiratory_mask"
+base = "item"
+cat = "head_clothing"
+type = "headwear"
+tags = [ "head_clothing", "headwear", "tier0clothing",]
+name = "Respiratory Mask"
+lore = "A simple but effective filtering mask to help you not breath dust."
+species = "alta"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/respiratory_mask/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 64
+stardust = 40
+essence = 160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_alta_respiratory_mask.head"
+rdir = "/items/armors/alta/other/respiratory_mask"
+rpath = "/items/armors/alta/other/respiratory_mask/ct_alta_respiratory_mask.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/respiratory_mask"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/respiratory_mask/ct_alta_respiratory_mask.head"
+link = "[`/items/armors/alta/other/respiratory_mask/ct_alta_respiratory_mask.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/respiratory_mask/ct_alta_respiratory_mask.head)"
+
+[assets]
+ext = "toml"
+name = "Respiratory-Mask.toml"
+rdir = "/items"
+rpath = "/items/Respiratory-Mask.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Respiratory-Mask.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/respiratory_mask/icon.png) [Respiratory Mask](/MyEnternia/assets/items/Respiratory-Mask.toml)"
+
+[wiki]
+ext = "md"
+name = "Respiratory-Mask.md"
+rdir = "/items/head_clothing"
+rpath = "/items/head_clothing/Respiratory-Mask.md"
+fdir = "/MyEnternia/Wiki/items/head_clothing"
+fpath = "/MyEnternia/Wiki/items/head_clothing/Respiratory-Mask.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/respiratory_mask/icon.png) [Respiratory Mask](/MyEnternia/Wiki/items/head_clothing/Respiratory-Mask)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

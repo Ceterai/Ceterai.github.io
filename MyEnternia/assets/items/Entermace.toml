@@ -1,0 +1,91 @@
+id = "ct_entermace"
+base = "item"
+cat = "axe"
+type = "axe"
+tags = [ "axe", "enterash", "enternia", "mace", "melee", "weapon",]
+name = "Entermace"
+lore = "^red;WIP^reset;. A strange weapon covered in rough, dark ^#8020f0;enterash^reset; soil. Is this a golden shine or mystical glow of the void?.."
+long = "Forged from ^#f02080;enterash prime^reset; materials, it might be rare find outside of enterash planets. Still, some alta adventurers in proper gear might find a proper use for this enternia-saturated tool of combat."
+species = "generic"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_entermace.png)"
+
+[inspect]
+alta = "I've never seen an enternia ^#b0e0fc;niaton^reset; before, but I guess this is it. Seems to be much heavier than usual, but I guess this is because of materials."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_entermace.activeitem"
+rdir = "/items/active/weapons/melee/alta/light"
+rpath = "/items/active/weapons/melee/alta/light/ct_entermace.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_entermace.activeitem"
+link = "[`/items/active/weapons/melee/alta/light/ct_entermace.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_entermace.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Entermace.toml"
+rdir = "/items"
+rpath = "/items/Entermace.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Entermace.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_entermace.png) [Entermace](/MyEnternia/assets/items/Entermace.toml)"
+
+[wiki]
+ext = "md"
+name = "Entermace.md"
+rdir = "/items/axe"
+rpath = "/items/axe/Entermace.md"
+fdir = "/MyEnternia/Wiki/items/axe"
+fpath = "/MyEnternia/Wiki/items/axe/Entermace.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_entermace.png) [Entermace](/MyEnternia/Wiki/items/axe/Entermace)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Jinix-AU"
+lore = "^red;WIP^reset;. A sequence of 3 light strikes. Hold to perform a Heavy Slash.\nEnters a charged state every 10 seconds, making next 4 hits deal bonus ^#7733aa;electric^reset; damage."
+long = "Mysterious markings on the handle reference a unique combat system, or rather a less-known variation of it."
+
+[abilities.primary.stats]
+fireTime = 0.9
+baseDps = 6
+
+[abilities.primary.stats.damageConfig]
+knockback = 25

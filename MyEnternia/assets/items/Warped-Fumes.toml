@@ -1,0 +1,82 @@
+id = "ct_warped_glowbomb"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "light", "throwable", "warped",]
+name = "Warped Fumes"
+lore = "For when you need a quick light source."
+long = "These fumes are made with aired ^#9b2d3f;warped honey^reset; for a thich texture and fresh ^#9b2d3f;yonnur^reset; for a bright glowing effect."
+species = "generic"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_glowbomb.png)"
+
+[inspect]
+alta = "A special yonnur mixture that's supposed to illuminate the space around it. Not sure how effective it is."
+
+[pickup]
+ct_warped_msg = "Beware of the warped items you just accquired. ^#9b2d3f;Warped^reset; is a form of wild growth found mainly on ^#20f080;alterash^reset; planets, that tends to spread uncontrollably and contaminate everything in its path.  \nWarped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck."
+
+[cost]
+gold = 20
+pixels = 10
+credits = 2
+stardust = 1
+essence = 17
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_warped_glowbomb.thrownitem"
+rdir = "/items/throwables"
+rpath = "/items/throwables/ct_warped_glowbomb.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_warped_glowbomb.thrownitem"
+link = "[`/items/throwables/ct_warped_glowbomb.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_warped_glowbomb.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Warped-Fumes.toml"
+rdir = "/items"
+rpath = "/items/Warped-Fumes.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Warped-Fumes.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_glowbomb.png) [Warped Fumes](/MyEnternia/assets/items/Warped-Fumes.toml)"
+
+[wiki]
+ext = "md"
+name = "Warped-Fumes.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Warped-Fumes.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Warped-Fumes.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_glowbomb.png) [Warped Fumes](/MyEnternia/Wiki/items/throwable/Warped-Fumes)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Warped Glowbomb"]
+
+[meta.aliases."Yonnur Mixture"]

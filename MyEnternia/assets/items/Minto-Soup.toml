@@ -1,0 +1,90 @@
+id = "ct_minto_soup"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "calin_cuisine", "cooking", "dish", "soup",]
+name = "Minto Soup"
+lore = "A spicy variation on the traditional ^#b0e0fc;alta^reset; soup. Has a chance to turn out a bit too spicy."
+long = "The recipe has lots of variations, including maitai - a very spicy alta soup enjoyed by many altas."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png)"
+
+[inspect]
+alta = "I like the classic variation quite a lot. Very nice balance of taste."
+
+[pickup]
+
+[cost]
+gold = 6720
+pixels = 3360
+credits = 960
+stardust = 600
+essence = 6240
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_minto_soup-maitai"
+name = "Maitai Soup"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png) [Maitai Soup](/MyEnternia/assets/items/Maitai-Soup.toml)"
+value = 0.4
+
+[[upgrades.cooking]]
+id = "ct_minto_soup-perfect"
+name = "Perfect Minto Soup"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png) [Perfect Minto Soup](/MyEnternia/assets/items/Perfect-Minto-Soup.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_minto_soup.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_minto_soup.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_minto_soup.consumable"
+link = "[`/items/generic/food/tier4/ct_minto_soup.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_minto_soup.consumable)"
+
+[assets]
+ext = "toml"
+name = "Minto-Soup.toml"
+rdir = "/items"
+rpath = "/items/Minto-Soup.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Minto-Soup.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png) [Minto Soup](/MyEnternia/assets/items/Minto-Soup.toml)"
+
+[wiki]
+ext = "md"
+name = "Minto-Soup.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Minto-Soup.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Minto-Soup.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png) [Minto Soup](/MyEnternia/Wiki/items/dish/Minto-Soup)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

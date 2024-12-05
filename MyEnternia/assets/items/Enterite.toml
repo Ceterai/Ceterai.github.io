@@ -1,0 +1,79 @@
+id = "ct_enterite"
+base = "item"
+cat = "resource"
+type = "energy_source"
+tags = [ "armor", "energy_source", "enternia", "reagent", "resource",]
+name = "Enterite"
+lore = "A piece of contained ^#8020f0;enternia^reset; energy. You can almost... hear it? ...Somehow it feels important."
+long = "These minerals are able to gather enternia from the air around them, saturating themselves with it. A rock full of dreams and ambitions, waiting for the rest of the puzzle to come in place."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_enterite.png)"
+
+[inspect]
+alta = "It smells of dreams... To be honest... I wouldn't mind to... Take a nap... Too... ..."
+
+[pickup]
+
+[cost]
+gold = 120
+pixels = 60
+credits = 16
+stardust = 10
+essence = 110
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "item"
+name = "ct_enterite.item"
+rdir = "/items/generic/crafting"
+rpath = "/items/generic/crafting/ct_enterite.item"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_enterite.item"
+link = "[`/items/generic/crafting/ct_enterite.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_enterite.item)"
+
+[assets]
+ext = "toml"
+name = "Enterite.toml"
+rdir = "/items"
+rpath = "/items/Enterite.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Enterite.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_enterite.png) [Enterite](/MyEnternia/assets/items/Enterite.toml)"
+
+[wiki]
+ext = "md"
+name = "Enterite.md"
+rdir = "/items/resource"
+rpath = "/items/resource/Enterite.md"
+fdir = "/MyEnternia/Wiki/items/resource"
+fpath = "/MyEnternia/Wiki/items/resource/Enterite.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_enterite.png) [Enterite](/MyEnternia/Wiki/items/resource/Enterite)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

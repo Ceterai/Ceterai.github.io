@@ -1,0 +1,79 @@
+id = "ct_hevikai_antidote"
+base = "item"
+cat = "enhancer"
+type = "enhancer"
+tags = [ "antidote", "enhancer", "hevikai",]
+name = "Hevikai Antidote"
+lore = "Prevents or cures ^#0050c0;Hevikai^reset; by applying a short ^#0050c0;Hevikai Block^reset;.  \nTo prevent ever needing this, try acquiring some ^#2080f0;Plasma Immunity^reset;."
+long = "One of the proudest achievements of ^#0050c0;Hevika Ordis^reset;. The work on a cure started shortly after discovering ^#0050c0;hevika^reset;-related overcharges and the disease.  \nAfter developing it, ^#b0e0fc;alta^reset; researchers realized that these levels of overcharges can be useful in certain environments, which led to the development of a ^#0050c0;Hevikai Stim Pack^reset;."
+species = "alta"
+level = 5
+rarity = 2
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png)"
+
+[inspect]
+alta = "A cure from a very horrifying disease. I can't believe some dreamers and adventurers are actually seeking it. Is there a risk too high for those altas?"
+
+[pickup]
+
+[cost]
+gold = 1220
+pixels = 610
+credits = 192
+stardust = 120
+essence = 1045
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_hevikai_antidote.consumable"
+rdir = "/items/generic/other"
+rpath = "/items/generic/other/ct_hevikai_antidote.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_hevikai_antidote.consumable"
+link = "[`/items/generic/other/ct_hevikai_antidote.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_hevikai_antidote.consumable)"
+
+[assets]
+ext = "toml"
+name = "Hevikai-Antidote.toml"
+rdir = "/items"
+rpath = "/items/Hevikai-Antidote.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Hevikai-Antidote.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png) [Hevikai Antidote](/MyEnternia/assets/items/Hevikai-Antidote.toml)"
+
+[wiki]
+ext = "md"
+name = "Hevikai-Antidote.md"
+rdir = "/items/enhancer"
+rpath = "/items/enhancer/Hevikai-Antidote.md"
+fdir = "/MyEnternia/Wiki/items/enhancer"
+fpath = "/MyEnternia/Wiki/items/enhancer/Hevikai-Antidote.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png) [Hevikai Antidote](/MyEnternia/Wiki/items/enhancer/Hevikai-Antidote)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

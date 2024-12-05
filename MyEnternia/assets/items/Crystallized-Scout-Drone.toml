@@ -1,0 +1,92 @@
+id = "ct_alta_crystal_drone"
+base = "item"
+cat = "drone_deployer"
+type = "robotics"
+tags = [ "drone", "drone_deployer", "robotics", "spawner", "stardust", "staris", "throwable",]
+name = "Crystallized Scout Drone"
+lore = "A damaged ^#b0e0fc;alta^reset; drone, overgrown with ionized crystals."
+long = "A falling star can be noticeably dangerous if you're not careful enough. Or if you're a drone. During a ^#b0e0fc;starfall^reset;."
+species = "alta"
+level = 3
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png)"
+
+[inspect]
+alta = "Poor thing! This silly drei got into quite a predicament... I wonder if those malfunctions are fixable."
+
+[pickup]
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 1000
+pixels = 500
+credits = 116
+stardust = 72
+essence = 840
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "crystal.activeitem"
+rdir = "/items/active/alta/spawners/drones"
+rpath = "/items/active/alta/spawners/drones/crystal.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/crystal.activeitem"
+link = "[`/items/active/alta/spawners/drones/crystal.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/crystal.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Crystallized-Scout-Drone.toml"
+rdir = "/items"
+rpath = "/items/Crystallized-Scout-Drone.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Crystallized-Scout-Drone.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png) [Crystallized Scout Drone](/MyEnternia/assets/items/Crystallized-Scout-Drone.toml)"
+
+[wiki]
+ext = "md"
+name = "Crystallized-Scout-Drone.md"
+rdir = "/items/drone_deployer"
+rpath = "/items/drone_deployer/Crystallized-Scout-Drone.md"
+fdir = "/MyEnternia/Wiki/items/drone_deployer"
+fpath = "/MyEnternia/Wiki/items/drone_deployer/Crystallized-Scout-Drone.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png) [Crystallized Scout Drone](/MyEnternia/Wiki/items/drone_deployer/Crystallized-Scout-Drone)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Crystal-Covered"
+lore = "Will swoop at enemies when in range. Will explode with ^#7733aa;electric^reset; particles on destruction."
+long = "Be careful not to poke your finger on one of the crystals! If you have fingers, that is."
+
+[abilities.passive]
+name = "Defective Drone"
+lore = "Has status effects: ^#2080f0;Sensitive Electronics^reset;, ^#2080f0;Defective^reset;, ^#2080f0;Omniblue Light^reset;.\nDeals ^#20f080;impulse^reset; damage on touch, applying ^#20f080;Pulse Paralysis^reset;."
+long = "Don't stand too close to it or else you might get \"stung\"."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

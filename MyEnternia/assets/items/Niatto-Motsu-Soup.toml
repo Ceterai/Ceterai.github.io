@@ -1,0 +1,84 @@
+id = "ct_niatto_motsu"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dish", "motsu", "nia_cuisine", "soup",]
+name = "Niatto Motsu Soup"
+lore = "A regular herb-based ^#b0e0fc;alta^reset; soup but based on nia ingredients."
+long = "Prepared with a cross-cuisine twist in mind, this motsu still falls under the milk-herb soup and does follow the taste range well too."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png)"
+
+[inspect]
+alta = "A classic nia motsu. I know that there are tons of variations of it, generally called nitsus for short."
+
+[pickup]
+
+[cost]
+gold = 5040
+pixels = 2520
+credits = 672
+stardust = 420
+essence = 4620
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_niatto_motsu-perfect"
+name = "Perfect Niatto Motsu"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png) [Perfect Niatto Motsu](/MyEnternia/assets/items/Perfect-Niatto-Motsu.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_niatto_motsu.consumable"
+rdir = "/items/generic/food/tier3"
+rpath = "/items/generic/food/tier3/ct_niatto_motsu.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_niatto_motsu.consumable"
+link = "[`/items/generic/food/tier3/ct_niatto_motsu.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_niatto_motsu.consumable)"
+
+[assets]
+ext = "toml"
+name = "Niatto-Motsu-Soup.toml"
+rdir = "/items"
+rpath = "/items/Niatto-Motsu-Soup.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Niatto-Motsu-Soup.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png) [Niatto Motsu Soup](/MyEnternia/assets/items/Niatto-Motsu-Soup.toml)"
+
+[wiki]
+ext = "md"
+name = "Niatto-Motsu-Soup.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Niatto-Motsu-Soup.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Niatto-Motsu-Soup.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png) [Niatto Motsu Soup](/MyEnternia/Wiki/items/dish/Niatto-Motsu-Soup)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

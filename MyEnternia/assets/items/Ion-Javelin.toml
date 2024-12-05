@@ -1,0 +1,77 @@
+id = "ct_ion_javelin"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "hunting", "ionic", "throwable",]
+name = "Ion Javelin"
+lore = "An improved and reinforced ^#0050c0;hevika^reset; javelin full of freed alternia and enternia energy. Commonly used by ^#8020f0;dreamers^reset; for hunting."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 280
+pixels = 140
+credits = 40
+stardust = 25
+essence = 260
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_ion_javelin.thrownitem"
+rdir = "/items/throwables"
+rpath = "/items/throwables/ct_ion_javelin.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_ion_javelin.thrownitem"
+link = "[`/items/throwables/ct_ion_javelin.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_ion_javelin.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Ion-Javelin.toml"
+rdir = "/items"
+rpath = "/items/Ion-Javelin.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ion-Javelin.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png) [Ion Javelin](/MyEnternia/assets/items/Ion-Javelin.toml)"
+
+[wiki]
+ext = "md"
+name = "Ion-Javelin.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Ion-Javelin.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Ion-Javelin.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png) [Ion Javelin](/MyEnternia/Wiki/items/throwable/Ion-Javelin)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

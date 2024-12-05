@@ -1,0 +1,80 @@
+id = "ct_eds_armor"
+base = "item"
+cat = "resource"
+type = "resource"
+tags = [ "armor", "compound", "eds", "reagent", "resource",]
+name = "EDS Armor Unit"
+lore = "Dark metal compound plate made out of multiple layers of deffirent materials. ^#f02020;EDS^reset;-approved."
+long = "Unlike ^#299fc5;bion compounds^reset;, the EDS Armor Unit is a composite compound mostly made from different metals. It has a similar shine to it, but is much harder then any ^#299fc5;bionic^reset;.  \nDue to its excellent armor capabilities, this compound is used outside of just EDS technology."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_eds_armor.png)"
+
+[inspect]
+alta = "This compound guarantees protection. One of the better things that came from EDS..."
+
+[pickup]
+ct_eds_msg = "The item you've just picked up seems to have visual EDS markings on it. ^#f02020;EDS^reset; is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  \nUnfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities."
+
+[cost]
+gold = 240
+pixels = 120
+credits = 32
+stardust = 20
+essence = 220
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "item"
+name = "ct_eds_armor.item"
+rdir = "/items/generic/crafting"
+rpath = "/items/generic/crafting/ct_eds_armor.item"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_eds_armor.item"
+link = "[`/items/generic/crafting/ct_eds_armor.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_eds_armor.item)"
+
+[assets]
+ext = "toml"
+name = "EDS-Armor-Unit.toml"
+rdir = "/items"
+rpath = "/items/EDS-Armor-Unit.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/EDS-Armor-Unit.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_eds_armor.png) [EDS Armor Unit](/MyEnternia/assets/items/EDS-Armor-Unit.toml)"
+
+[wiki]
+ext = "md"
+name = "EDS-Armor-Unit.md"
+rdir = "/items/resource"
+rpath = "/items/resource/EDS-Armor-Unit.md"
+fdir = "/MyEnternia/Wiki/items/resource"
+fpath = "/MyEnternia/Wiki/items/resource/EDS-Armor-Unit.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_eds_armor.png) [EDS Armor Unit](/MyEnternia/Wiki/items/resource/EDS-Armor-Unit)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."EDS Armor"]

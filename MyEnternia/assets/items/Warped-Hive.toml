@@ -1,0 +1,84 @@
+id = "ct_warped_hive"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "nature", "throwable", "warped",]
+name = "Warped Hive"
+lore = "A hive of ^#9b2d3f;warped flies^reset;. These tiny poisonous creatures can become quite a threat when a hive is disturbed."
+long = "These hives can be grown like plants. Sometimes they can grow to enormous sizes, forming ^#9b2d3f;warped hive trees^reset;. These kinds of mutations are a natural process for all ^#9b2d3f;warped^reset; forms of life.\n\nThe hive seems is filled with delicious **warped honey**, often used by ^#b0e0fc;altas^reset; for cooking."
+species = "generic"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png)"
+
+[inspect]
+alta = "It's full of poisonous insects. If'll throw it, I better make sure it lands somewhere far away from me."
+
+[pickup]
+ct_warped_msg = "Beware of the warped items you just accquired. ^#9b2d3f;Warped^reset; is a form of wild growth found mainly on ^#20f080;alterash^reset; planets, that tends to spread uncontrollably and contaminate everything in its path.  \nWarped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck."
+
+[cost]
+gold = 40
+pixels = 20
+credits = 4
+stardust = 2
+essence = 35
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_warped_hive.thrownitem"
+rdir = "/items/throwables"
+rpath = "/items/throwables/ct_warped_hive.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_warped_hive.thrownitem"
+link = "[`/items/throwables/ct_warped_hive.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_warped_hive.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Warped-Hive.toml"
+rdir = "/items"
+rpath = "/items/Warped-Hive.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Warped-Hive.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png) [Warped Hive](/MyEnternia/assets/items/Warped-Hive.toml)"
+
+[wiki]
+ext = "md"
+name = "Warped-Hive.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Warped-Hive.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Warped-Hive.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png) [Warped Hive](/MyEnternia/Wiki/items/throwable/Warped-Hive)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.md]
+"#### Cooking" = "**Warped Honey**, that is often extracted from the hive, is a very thick, honey-like substance, that can vary in taste from blend to sweet to slightly sour. Altas usually pick the sweetest and thickest types for cooking and leave the rest for other purposes."
+
+[meta.aliases."Warped Honey"]
+anchor = "cooking"

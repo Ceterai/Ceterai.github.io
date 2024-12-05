@@ -1,0 +1,77 @@
+id = "ct_bishyn_helmet"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "bishyn", "head_armor", "headarmour", "tier5armour",]
+name = "Bishyn Helmet"
+lore = "A helmet powered by poisonous ^#378754;bishyn^reset; crystals."
+species = "alta"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/misc/bishyn/helmet/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 6200
+pixels = 3100
+credits = 900
+stardust = 562
+essence = 5500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_bishyn_helmet.head"
+rdir = "/items/armors/alta/tier5/misc/bishyn/helmet"
+rpath = "/items/armors/alta/tier5/misc/bishyn/helmet/ct_bishyn_helmet.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/misc/bishyn/helmet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/misc/bishyn/helmet/ct_bishyn_helmet.head"
+link = "[`/items/armors/alta/tier5/misc/bishyn/helmet/ct_bishyn_helmet.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/misc/bishyn/helmet/ct_bishyn_helmet.head)"
+
+[assets]
+ext = "toml"
+name = "Bishyn-Helmet.toml"
+rdir = "/items"
+rpath = "/items/Bishyn-Helmet.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Bishyn-Helmet.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/misc/bishyn/helmet/icon.png) [Bishyn Helmet](/MyEnternia/assets/items/Bishyn-Helmet.toml)"
+
+[wiki]
+ext = "md"
+name = "Bishyn-Helmet.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/Bishyn-Helmet.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/Bishyn-Helmet.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/misc/bishyn/helmet/icon.png) [Bishyn Helmet](/MyEnternia/Wiki/items/head_armor/Bishyn-Helmet)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

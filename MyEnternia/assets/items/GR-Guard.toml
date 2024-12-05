@@ -1,0 +1,84 @@
+id = "ct_alta_security_chest-upgrade"
+base = "item"
+cat = "body_armor"
+type = "chestarmour"
+tags = [ "animus", "body_armor", "chestarmour", "tier6armour",]
+name = "GR Guard"
+lore = "A ^#ffa8e8;stardust^reset;-infused piece of armor made from bionix. Label on the inner side reads \"From Kora ❤\"."
+long = "This gift is part of Kora's relics, that she worn or used as the first security guard."
+species = "alta"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 8320
+pixels = 4160
+credits = 1120
+stardust = 700
+essence = 7200
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_alta_security_chest"
+name = "Security Armor"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png) [Security Armor](/MyEnternia/assets/items/Security-Armor.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "chest"
+name = "ct_alta_security_chest.chest"
+rdir = "/items/armors/alta/tier4/security/chest"
+rpath = "/items/armors/alta/tier4/security/chest/ct_alta_security_chest.chest"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/security/chest"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/security/chest/ct_alta_security_chest.chest"
+link = "[`/items/armors/alta/tier4/security/chest/ct_alta_security_chest.chest`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/security/chest/ct_alta_security_chest.chest)"
+
+[assets]
+ext = "toml"
+name = "GR-Guard.toml"
+rdir = "/items"
+rpath = "/items/GR-Guard.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/GR-Guard.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png) [GR Guard](/MyEnternia/assets/items/GR-Guard.toml)"
+
+[wiki]
+ext = "md"
+name = "Security-Armor.md"
+rdir = "/items/body_armor"
+rpath = "/items/body_armor/Security-Armor.md"
+fdir = "/MyEnternia/Wiki/items/body_armor"
+fpath = "/MyEnternia/Wiki/items/body_armor/Security-Armor.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png) [Security Armor](/MyEnternia/Wiki/items/body_armor/Security-Armor)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

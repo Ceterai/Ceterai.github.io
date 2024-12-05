@@ -1,0 +1,77 @@
+id = "ct_arco_augment"
+base = "item"
+cat = "augment"
+type = "data_source"
+tags = [ "arco", "augment", "data_source", "enhancement",]
+name = "Enviro Augment"
+lore = "An EPP module that slightly boosts your ^#f08020;fire^reset; and ^#80f020;poison^reset; resistance by 15%."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_arco_augment.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 16800
+pixels = 8400
+credits = 2240
+stardust = 1400
+essence = 15400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "augment"
+name = "ct_arco_augment.augment"
+rdir = "/items/augments/back"
+rpath = "/items/augments/back/ct_arco_augment.augment"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_arco_augment.augment"
+link = "[`/items/augments/back/ct_arco_augment.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_arco_augment.augment)"
+
+[assets]
+ext = "toml"
+name = "Enviro-Augment.toml"
+rdir = "/items"
+rpath = "/items/Enviro-Augment.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Enviro-Augment.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_arco_augment.png) [Enviro Augment](/MyEnternia/assets/items/Enviro-Augment.toml)"
+
+[wiki]
+ext = "md"
+name = "Enviro-Augment.md"
+rdir = "/items/augment"
+rpath = "/items/augment/Enviro-Augment.md"
+fdir = "/MyEnternia/Wiki/items/augment"
+fpath = "/MyEnternia/Wiki/items/augment/Enviro-Augment.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_arco_augment.png) [Enviro Augment](/MyEnternia/Wiki/items/augment/Enviro-Augment)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

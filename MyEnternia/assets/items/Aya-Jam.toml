@@ -1,0 +1,84 @@
+id = "ct_aya_jam"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "ayaka", "cooking", "dish", "jam", "runeva_cuisine",]
+name = "Aya Jam"
+lore = "Pure jam from baked ayas. Good on pancakes and ^#c1ebf8;ometonnas^reset;."
+long = "It gets pretty tingy depending on the juice and powder ratio, but you can rarely go wrong as long as you stick to popular recipes."
+species = "alta"
+level = 2
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png)"
+
+[inspect]
+alta = "No idea what others think, but it goes very well on ^#c1dfae;caliopa^reset; and even as an ^#b0e0fc;alta charlotte^reset;'s filling."
+
+[pickup]
+
+[cost]
+gold = 840
+pixels = 420
+credits = 56
+stardust = 35
+essence = 700
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_aya_jam-runeva"
+name = "Runeva Jam"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png) [Runeva Jam](/MyEnternia/assets/items/Runeva-Jam.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_aya_jam.consumable"
+rdir = "/items/generic/food/tier1"
+rpath = "/items/generic/food/tier1/ct_aya_jam.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_aya_jam.consumable"
+link = "[`/items/generic/food/tier1/ct_aya_jam.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_aya_jam.consumable)"
+
+[assets]
+ext = "toml"
+name = "Aya-Jam.toml"
+rdir = "/items"
+rpath = "/items/Aya-Jam.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Aya-Jam.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png) [Aya Jam](/MyEnternia/assets/items/Aya-Jam.toml)"
+
+[wiki]
+ext = "md"
+name = "Aya-Jam.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Aya-Jam.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Aya-Jam.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png) [Aya Jam](/MyEnternia/Wiki/items/dish/Aya-Jam)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

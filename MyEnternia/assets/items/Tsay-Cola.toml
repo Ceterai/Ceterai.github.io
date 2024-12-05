@@ -1,0 +1,86 @@
+id = "ct_tsay_cola"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "drink",]
+name = "Tsay-Cola"
+lore = "A lemon in a can? Isn't it just lemonade then?"
+long = "Apart from the similarities, the preparation methods used for tsay-cola allow for great variance, resulting in interesting results like **Bluemix**, **Tsay-Carel Duo** and others."
+species = "alta"
+level = 2
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_tsay_cola.png)"
+
+[inspect]
+alta = "I really like the bluemix ones, although they're not as easy to find in ^#b0e0fc;alta cities^reset;. If this is really how lemons can taste like, then I guess they're pretty neat."
+
+[pickup]
+
+[cost]
+gold = 120
+pixels = 60
+credits = 8
+stardust = 5
+essence = 100
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_tsay_cola-pop"
+name = "Tsay-Pop"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_tsay_cola.png) [Tsay-Pop](/MyEnternia/assets/items/Tsay-Pop.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_tsay_cola.consumable"
+rdir = "/items/generic/food/shop"
+rpath = "/items/generic/food/shop/ct_tsay_cola.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop/ct_tsay_cola.consumable"
+link = "[`/items/generic/food/shop/ct_tsay_cola.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop/ct_tsay_cola.consumable)"
+
+[assets]
+ext = "toml"
+name = "Tsay-Cola.toml"
+rdir = "/items"
+rpath = "/items/Tsay-Cola.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Tsay-Cola.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_tsay_cola.png) [Tsay-Cola](/MyEnternia/assets/items/Tsay-Cola.toml)"
+
+[wiki]
+ext = "md"
+name = "Tsay-Cola.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Tsay-Cola.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Tsay-Cola.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_tsay_cola.png) [Tsay-Cola](/MyEnternia/Wiki/items/drink/Tsay-Cola)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases.Bluemix]
+
+[meta.aliases."Tsay-Carel Duo"]

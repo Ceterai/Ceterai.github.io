@@ -1,0 +1,77 @@
+id = "ct_accumulator_collar"
+base = "item"
+cat = "collar"
+type = "accessory"
+tags = [ "accessory", "collar", "enhancement", "gheatsyn",]
+name = "Accumulator Collar"
+lore = "A collar that makes your pet immune to electric effects and repell enemies with energy waves when attacked. Made from ^#a7e001;gheatsyn^reset;."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 11200
+pixels = 5600
+credits = 1600
+stardust = 1000
+essence = 10400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "augment"
+name = "ct_accumulator_collar.augment"
+rdir = "/items/augments/pet"
+rpath = "/items/augments/pet/ct_accumulator_collar.augment"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/augments/pet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/augments/pet/ct_accumulator_collar.augment"
+link = "[`/items/augments/pet/ct_accumulator_collar.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/pet/ct_accumulator_collar.augment)"
+
+[assets]
+ext = "toml"
+name = "Accumulator-Collar.toml"
+rdir = "/items"
+rpath = "/items/Accumulator-Collar.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Accumulator-Collar.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png) [Accumulator Collar](/MyEnternia/assets/items/Accumulator-Collar.toml)"
+
+[wiki]
+ext = "md"
+name = "Accumulator-Collar.md"
+rdir = "/items/collar"
+rpath = "/items/collar/Accumulator-Collar.md"
+fdir = "/MyEnternia/Wiki/items/collar"
+fpath = "/MyEnternia/Wiki/items/collar/Accumulator-Collar.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png) [Accumulator Collar](/MyEnternia/Wiki/items/collar/Accumulator-Collar)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

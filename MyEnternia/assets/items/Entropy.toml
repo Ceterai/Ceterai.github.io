@@ -1,0 +1,109 @@
+id = "ct_entropy"
+base = "item"
+cat = "shotgun"
+type = "shotgun"
+tags = [ "impulse", "ranged", "shotgun", "weapon",]
+name = "Entropy"
+lore = "This thermoelectric pulsating pressure is all you need to unleash the nuclear power of ^#ffa8e8;stardust^reset; energy."
+long = "Powered by multiple ^#20f080;ceter-spheres^reset;, it gives a powerful output with a relatively low tool weight."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_entropy.png)"
+
+[inspect]
+alta = "I like its name! It sounds a little alien to me, but I guess that's part of the point~"
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_entropy.activeitem"
+rdir = "/items/active/weapons/ranged/alta/rifle"
+rpath = "/items/active/weapons/ranged/alta/rifle/ct_entropy.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_entropy.activeitem"
+link = "[`/items/active/weapons/ranged/alta/rifle/ct_entropy.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_entropy.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Entropy.toml"
+rdir = "/items"
+rpath = "/items/Entropy.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Entropy.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_entropy.png) [Entropy](/MyEnternia/assets/items/Entropy.toml)"
+
+[wiki]
+ext = "md"
+name = "Entropy.md"
+rdir = "/items/shotgun"
+rpath = "/items/shotgun/Entropy.md"
+fdir = "/MyEnternia/Wiki/items/shotgun"
+fpath = "/MyEnternia/Wiki/items/shotgun/Entropy.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_entropy.png) [Entropy](/MyEnternia/Wiki/items/shotgun/Entropy)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Pulsive Halter"
+lore = "Provides full auto cannon bursts of high-velocity ^#20f080;impulses^reset; that are able to pierce through targets."
+
+[abilities.secondary]
+name = "Troposwitch"
+lore = "Troposphere analog as core.\nPress - change attachments: none, laser, flashlight;\nHold - perform an Impulse Discharge."
+
+[abilities.primary.stats]
+baseDps = 9
+energyUsage = 36
+fireTime = 0.5
+pressType = "burst"
+holdTimeMax = 0
+
+[abilities.secondary.stats]
+baseDps = 9
+energyUsage = 40
+fireTime = 0.1
+holdType = "discharge"
+pressAttachments = true
+attachments = [ "none", "flashlight", "stabilizer",]
+
+[abilities.primary.stats.pressParams]
+type = "ct_impulse_medium"
+count = 5
+
+[abilities.secondary.stats.holdParams]
+type = "ct_impulse_wave_blast"

@@ -1,0 +1,85 @@
+id = "ct_assorti-salad"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "ayaka", "cooking", "dish", "runeva_cuisine", "tsay",]
+name = "Aya-Tsay Salad"
+lore = "This dish went beyond a simple assorti and became a full-fledged salad with proper slicing, mixing & dressing."
+long = "With additional length of preparation this gives a much more fulfilling result, while also turning into a functional dish."
+species = "alta"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png)"
+
+[inspect]
+alta = "This would go perfect with a condiment, like a sweet cream or a frinsh."
+
+[pickup]
+
+[cost]
+gold = 3020
+pixels = 1510
+credits = 408
+stardust = 255
+essence = 2610
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_assorti"
+name = "Assorti"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png) [Assorti](/MyEnternia/assets/items/Assorti.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_assorti.consumable"
+rdir = "/items/generic/food/tier2"
+rpath = "/items/generic/food/tier2/ct_assorti.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_assorti.consumable"
+link = "[`/items/generic/food/tier2/ct_assorti.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_assorti.consumable)"
+
+[assets]
+ext = "toml"
+name = "Aya-Tsay-Salad.toml"
+rdir = "/items"
+rpath = "/items/Aya-Tsay-Salad.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Aya-Tsay-Salad.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png) [Aya-Tsay Salad](/MyEnternia/assets/items/Aya-Tsay-Salad.toml)"
+
+[wiki]
+ext = "md"
+name = "Assorti.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Assorti.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Assorti.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png) [Assorti](/MyEnternia/Wiki/items/dish/Assorti)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

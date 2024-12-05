@@ -1,0 +1,85 @@
+id = "ct_yaarizza-extra"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dish", "pizza", "yaara", "yava_cuisine",]
+name = "Yaarizza Extra Toppings Slice"
+lore = "This yaarizza ended up with extra toppings. More deliciousness for you I guess!"
+long = "The recipe itself is not much different from the original, with the only signeficant change being extra generosity."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png)"
+
+[inspect]
+alta = "The flavor and texture are oozing from the sides! Be careful not to get it on your clothes!"
+
+[pickup]
+
+[cost]
+gold = 7000
+pixels = 3500
+credits = 1000
+stardust = 625
+essence = 6500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_yaarizza"
+name = "Yaarizza Slice"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png) [Yaarizza Slice](/MyEnternia/assets/items/Yaarizza-Slice.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_yaarizza.consumable"
+rdir = "/items/generic/food/tier3"
+rpath = "/items/generic/food/tier3/ct_yaarizza.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_yaarizza.consumable"
+link = "[`/items/generic/food/tier3/ct_yaarizza.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_yaarizza.consumable)"
+
+[assets]
+ext = "toml"
+name = "Yaarizza-Extra-Toppings-Slice.toml"
+rdir = "/items"
+rpath = "/items/Yaarizza-Extra-Toppings-Slice.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Yaarizza-Extra-Toppings-Slice.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png) [Yaarizza Extra Toppings Slice](/MyEnternia/assets/items/Yaarizza-Extra-Toppings-Slice.toml)"
+
+[wiki]
+ext = "md"
+name = "Yaarizza-Slice.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Yaarizza-Slice.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Yaarizza-Slice.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png) [Yaarizza Slice](/MyEnternia/Wiki/items/dish/Yaarizza-Slice)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,78 @@
+id = "ct_ceternia_epp"
+base = "item"
+cat = "back_armor"
+type = "enviroProtectionPack"
+tags = [ "back_armor", "ceternia", "enviroprotectionpack", "tier6armour",]
+name = "Ceter-EPP"
+lore = "An EPP with an augment slot. Adds 25% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#20f080;Impulse Immunity^reset;."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_back_armor_msg = "You've got a hold of a level ^#8020f0;6+^reset; alta back armor piece. Aside from providing special effects, these usually have an augment slot, allowing you to enhance them with an augment of your choice."
+
+[cost]
+gold = 4480
+pixels = 2240
+credits = 640
+stardust = 400
+essence = 4160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "back"
+name = "ct_ceternia_epp.back"
+rdir = "/items/armors/alta/tier6/ceternia/epp"
+rpath = "/items/armors/alta/tier6/ceternia/epp/ct_ceternia_epp.back"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ceternia/epp"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ceternia/epp/ct_ceternia_epp.back"
+link = "[`/items/armors/alta/tier6/ceternia/epp/ct_ceternia_epp.back`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ceternia/epp/ct_ceternia_epp.back)"
+
+[assets]
+ext = "toml"
+name = "Ceter-EPP.toml"
+rdir = "/items"
+rpath = "/items/Ceter-EPP.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ceter-EPP.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png) [Ceter-EPP](/MyEnternia/assets/items/Ceter-EPP.toml)"
+
+[wiki]
+ext = "md"
+name = "Ceter-EPP.md"
+rdir = "/items/back_armor"
+rpath = "/items/back_armor/Ceter-EPP.md"
+fdir = "/MyEnternia/Wiki/items/back_armor"
+fpath = "/MyEnternia/Wiki/items/back_armor/Ceter-EPP.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png) [Ceter-EPP](/MyEnternia/Wiki/items/back_armor/Ceter-EPP)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

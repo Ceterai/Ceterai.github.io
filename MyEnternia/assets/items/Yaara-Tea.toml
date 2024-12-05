@@ -1,0 +1,84 @@
+id = "ct_yaara_tea"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "drink", "tea", "yaara", "yava_cuisine",]
+name = "Yaara Tea"
+lore = "This tea is blooming with life."
+long = "A mix of general ^#20f080;yaara roots^reset; with added spices and yaara petal matter. These petals and fibres, if roughly cut, result in a pretty thick tea coloring."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png)"
+
+[inspect]
+alta = "Nice saturation, almost as if you're drinking some sort of hot yaara juice."
+
+[pickup]
+
+[cost]
+gold = 2000
+pixels = 1000
+credits = 240
+stardust = 150
+essence = 1800
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_yaara_tea-ceternia"
+name = "Ceternia Tea"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png) [Ceternia Tea](/MyEnternia/assets/items/Ceternia-Tea.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_yaara_tea.consumable"
+rdir = "/items/generic/food/tier2"
+rpath = "/items/generic/food/tier2/ct_yaara_tea.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_yaara_tea.consumable"
+link = "[`/items/generic/food/tier2/ct_yaara_tea.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_yaara_tea.consumable)"
+
+[assets]
+ext = "toml"
+name = "Yaara-Tea.toml"
+rdir = "/items"
+rpath = "/items/Yaara-Tea.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Yaara-Tea.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png) [Yaara Tea](/MyEnternia/assets/items/Yaara-Tea.toml)"
+
+[wiki]
+ext = "md"
+name = "Yaara-Tea.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Yaara-Tea.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Yaara-Tea.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png) [Yaara Tea](/MyEnternia/Wiki/items/drink/Yaara-Tea)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

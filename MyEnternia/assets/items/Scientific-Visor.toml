@@ -1,0 +1,77 @@
+id = "ct_alta_science_ocular"
+base = "item"
+cat = "head_clothing"
+type = "headwear"
+tags = [ "head_clothing", "headwear", "science", "tier5clothing",]
+name = "Scientific Visor"
+lore = "Developed by Tserera, this device provides visual analysis right to your eyes!"
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/science_ocular/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 1600
+pixels = 800
+credits = 192
+stardust = 120
+essence = 1440
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_alta_science_ocular.head"
+rdir = "/items/armors/alta/other/science_ocular"
+rpath = "/items/armors/alta/other/science_ocular/ct_alta_science_ocular.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/science_ocular"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/science_ocular/ct_alta_science_ocular.head"
+link = "[`/items/armors/alta/other/science_ocular/ct_alta_science_ocular.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/science_ocular/ct_alta_science_ocular.head)"
+
+[assets]
+ext = "toml"
+name = "Scientific-Visor.toml"
+rdir = "/items"
+rpath = "/items/Scientific-Visor.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Scientific-Visor.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/science_ocular/icon.png) [Scientific Visor](/MyEnternia/assets/items/Scientific-Visor.toml)"
+
+[wiki]
+ext = "md"
+name = "Scientific-Visor.md"
+rdir = "/items/head_clothing"
+rpath = "/items/head_clothing/Scientific-Visor.md"
+fdir = "/MyEnternia/Wiki/items/head_clothing"
+fpath = "/MyEnternia/Wiki/items/head_clothing/Scientific-Visor.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/science_ocular/icon.png) [Scientific Visor](/MyEnternia/Wiki/items/head_clothing/Scientific-Visor)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

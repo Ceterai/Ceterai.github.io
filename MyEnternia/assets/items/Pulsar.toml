@@ -1,0 +1,116 @@
+id = "ct_pulsar"
+base = "item"
+cat = "shotgun"
+type = "shotgun"
+tags = [ "cannon", "elite", "impulse", "ranged", "shotgun", "weapon",]
+name = "Pulsar"
+lore = "An ^#20f080;impulse^reset; cannon made for heavy defensive combat. Covers the area in pulse blasts or charges up an Impulse Bomb."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_pulsar.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_pulsar.activeitem"
+rdir = "/items/active/weapons/ranged/alta/cannon"
+rpath = "/items/active/weapons/ranged/alta/cannon/ct_pulsar.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_pulsar.activeitem"
+link = "[`/items/active/weapons/ranged/alta/cannon/ct_pulsar.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_pulsar.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Pulsar.toml"
+rdir = "/items"
+rpath = "/items/Pulsar.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Pulsar.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_pulsar.png) [Pulsar](/MyEnternia/assets/items/Pulsar.toml)"
+
+[wiki]
+ext = "md"
+name = "Pulsar.md"
+rdir = "/items/shotgun"
+rpath = "/items/shotgun/Pulsar.md"
+fdir = "/MyEnternia/Wiki/items/shotgun"
+fpath = "/MyEnternia/Wiki/items/shotgun/Pulsar.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_pulsar.png) [Pulsar](/MyEnternia/Wiki/items/shotgun/Pulsar)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Pulsar Charge"
+lore = "Creates semiauto bursts of ^#20f080;Impulse Charges^reset; using ^#20f080;ceternia^reset; energy."
+
+[abilities.secondary]
+name = "Twin Pulse"
+lore = "Generates syncronized Twin Impulses with different power.\nPress - launch a Twin Impulse;\nHold - shotgun burst of Twin Impulses."
+
+[abilities.primary.stats]
+baseDps = 8
+energyUsage = 32
+fireTime = 0.65
+pressType = "semi"
+holdTimeMin = 0.9
+holdTimeMax = 0.0
+
+[abilities.secondary.stats]
+baseDps = 10
+energyUsage = 40
+fireTime = 0.9
+pressType = "rocket"
+holdType = "burst"
+
+[abilities.primary.stats.pressParams]
+type = "ct_impulse_medium"
+inaccuracy = 0.04
+
+[abilities.secondary.stats.pressParams]
+type = "ct_impulse_large"
+
+[abilities.secondary.stats.holdParams]
+type = "ct_impulse_large"
+inaccuracy = 0.21
+count = 3
+
+[abilities.primary.stats.pressParams.params]
+knockback = 20
+timeToLive = 5.0

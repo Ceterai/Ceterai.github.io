@@ -1,0 +1,92 @@
+id = "ct_alta_sentry_drone"
+base = "item"
+cat = "drone_deployer"
+type = "robotics"
+tags = [ "alta_security", "capital", "city", "drone", "drone_deployer", "robotics", "spawner", "throwable",]
+name = "Sentry Drone"
+lore = "This defensive drone activates its battle functions when under direct threat."
+long = "Its rapid plasmic generator starts to rotate, accelerating, spewing small plasma balls at its target from a relatively long distance."
+species = "alta"
+level = 4
+rarity = 3
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png)"
+
+[inspect]
+alta = "A security drone taken to the max. Anyone would feel safe protected by such a thing."
+
+[pickup]
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 2700
+pixels = 1350
+credits = 438
+stardust = 273
+essence = 2160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "sentry.activeitem"
+rdir = "/items/active/alta/spawners/drones"
+rpath = "/items/active/alta/spawners/drones/sentry.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/sentry.activeitem"
+link = "[`/items/active/alta/spawners/drones/sentry.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/sentry.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Sentry-Drone.toml"
+rdir = "/items"
+rpath = "/items/Sentry-Drone.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Sentry-Drone.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png) [Sentry Drone](/MyEnternia/assets/items/Sentry-Drone.toml)"
+
+[wiki]
+ext = "md"
+name = "Sentry-Drone.md"
+rdir = "/items/drone_deployer"
+rpath = "/items/drone_deployer/Sentry-Drone.md"
+fdir = "/MyEnternia/Wiki/items/drone_deployer"
+fpath = "/MyEnternia/Wiki/items/drone_deployer/Sentry-Drone.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png) [Sentry Drone](/MyEnternia/Wiki/items/drone_deployer/Sentry-Drone)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Sentry"
+lore = "Will perform a long semi-auto attack consisting of 30 accelerated ^#2080f0;Plasma Balls^reset;. Will explode with ^#7733aa;electric^reset; particles on destruction."
+long = "Extreme vigilance is primary to this mechanism's objectives."
+
+[abilities.passive]
+name = "Shielded Drone"
+lore = "Has status effects: ^#2080f0;Sensitive Electronics^reset;, ^#2080f0;Force Field Autoshielder^reset;.\nDeals physical damage on touch."
+long = "While energy shields are common among alta technology, these ones in particular are extra good."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

@@ -1,0 +1,77 @@
+id = "ct_protohelmet"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "head_armor", "headarmour", "protogear", "tier4armour",]
+name = "Protohelmet"
+lore = "An energy-driven full electronic helmet used by some ^#b0e0fc;alta^reset; protoscouts."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 5000
+pixels = 2500
+credits = 600
+stardust = 375
+essence = 4500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_protohelmet.head"
+rdir = "/items/armors/alta/tier4/proto/helmet"
+rpath = "/items/armors/alta/tier4/proto/helmet/ct_protohelmet.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/proto/helmet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/proto/helmet/ct_protohelmet.head"
+link = "[`/items/armors/alta/tier4/proto/helmet/ct_protohelmet.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/proto/helmet/ct_protohelmet.head)"
+
+[assets]
+ext = "toml"
+name = "Protohelmet.toml"
+rdir = "/items"
+rpath = "/items/Protohelmet.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Protohelmet.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png) [Protohelmet](/MyEnternia/assets/items/Protohelmet.toml)"
+
+[wiki]
+ext = "md"
+name = "Protohelmet.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/Protohelmet.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/Protohelmet.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png) [Protohelmet](/MyEnternia/Wiki/items/head_armor/Protohelmet)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

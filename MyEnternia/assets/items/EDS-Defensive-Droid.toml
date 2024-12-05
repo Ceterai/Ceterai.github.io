@@ -1,0 +1,93 @@
+id = "ct_alta_defensive_droid"
+base = "item"
+cat = "droid_deployer"
+type = "robotics"
+tags = [ "citadel", "droid", "droid_deployer", "eds", "robotics", "spawner", "throwable",]
+name = "EDS Defensive Droid"
+lore = "A protective machine that could take on a tank."
+long = "Packed with an arsenal of different energy generators and missile launchers, it's unable to fly and thus has to walk on the ground."
+species = "alta"
+level = 5
+rarity = 2
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png)"
+
+[inspect]
+alta = "These usually guard EDS stations and camps. Mostly just stand around and play lazers with other dreis and drons."
+
+[pickup]
+ct_eds_msg = "The item you've just picked up seems to have visual EDS markings on it. ^#f02020;EDS^reset; is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  \nUnfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities."
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 3080
+pixels = 1540
+credits = 484
+stardust = 302
+essence = 2640
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "defensive.activeitem"
+rdir = "/items/active/alta/spawners/droids"
+rpath = "/items/active/alta/spawners/droids/defensive.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/droids"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/droids/defensive.activeitem"
+link = "[`/items/active/alta/spawners/droids/defensive.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/droids/defensive.activeitem)"
+
+[assets]
+ext = "toml"
+name = "EDS-Defensive-Droid.toml"
+rdir = "/items"
+rpath = "/items/EDS-Defensive-Droid.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/EDS-Defensive-Droid.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png) [EDS Defensive Droid](/MyEnternia/assets/items/EDS-Defensive-Droid.toml)"
+
+[wiki]
+ext = "md"
+name = "EDS-Defensive-Droid.md"
+rdir = "/items/droid_deployer"
+rpath = "/items/droid_deployer/EDS-Defensive-Droid.md"
+fdir = "/MyEnternia/Wiki/items/droid_deployer"
+fpath = "/MyEnternia/Wiki/items/droid_deployer/EDS-Defensive-Droid.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png) [EDS Defensive Droid](/MyEnternia/Wiki/items/droid_deployer/EDS-Defensive-Droid)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "EDS Protector"
+lore = "Has an arsenal of weaponry on itself. Will explode with ^#7733aa;electric^reset; particles on destruction."
+long = "Anything to protect an alta."
+
+[abilities.passive]
+name = "EDS Drone"
+lore = "Has status effects: ^#2080f0;Sensitive Electronics^reset; and ^#b81824;EDS Autoshielder^reset;.\nDeals physical damage on touch."
+long = "Its heavy armored structure was designed and manufactured by EDS."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

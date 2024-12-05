@@ -1,0 +1,83 @@
+id = "ct_altersphere"
+base = "item"
+cat = "resource"
+type = "energy_source"
+tags = [ "alternia", "energy_source", "plasma", "reagent", "resource",]
+name = "Alter-Sphere"
+lore = "Source of natural energy, safe to use for generating pure electricity."
+long = "Spheres like this one often have uses other then an energy source. ^#b0e0fc;Altas^reset; use them as keys in energy locks, as energy concentrators and catalysts.\n\n**Energy Locks** are special security contraptions that can be unlocked by certain energy sources with specific energy types."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_altersphere.png)"
+
+[inspect]
+alta = "A pretty alterfaa, surprizingly heavy for its size. I wish I could use it as a night light, but no - it's classified as \"dangerous technology\". Oh well."
+
+[pickup]
+ct_sphere_msg = "What you just accquired is an alta energy sphere, a powerful energy generator that produces energy of one of three types - ceternia, alternia and enternia. These spheres are powered by crystals and pure energy essence that you can find scattered accross ^#ffa8e8;stardust^reset;-type planets like ^#20f080;alterash^reset;.  \nUse them sparingly as they're generally hard to come by."
+
+[cost]
+gold = 280
+pixels = 140
+credits = 40
+stardust = 25
+essence = 260
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "item"
+name = "ct_altersphere.item"
+rdir = "/items/generic/crafting"
+rpath = "/items/generic/crafting/ct_altersphere.item"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_altersphere.item"
+link = "[`/items/generic/crafting/ct_altersphere.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_altersphere.item)"
+
+[assets]
+ext = "toml"
+name = "Alter-Sphere.toml"
+rdir = "/items"
+rpath = "/items/Alter-Sphere.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Alter-Sphere.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_altersphere.png) [Alter-Sphere](/MyEnternia/assets/items/Alter-Sphere.toml)"
+
+[wiki]
+ext = "md"
+name = "Alter-Sphere.md"
+rdir = "/items/resource"
+rpath = "/items/resource/Alter-Sphere.md"
+fdir = "/MyEnternia/Wiki/items/resource"
+fpath = "/MyEnternia/Wiki/items/resource/Alter-Sphere.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_altersphere.png) [Alter-Sphere](/MyEnternia/Wiki/items/resource/Alter-Sphere)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Energy Lock"]
+icon = "none"
+
+[meta.aliases.Alniafaa]

@@ -1,0 +1,77 @@
+id = "ct_misc_crystal_pillar_hat"
+base = "item"
+cat = "head_clothing"
+type = "headwear"
+tags = [ "crystal", "head_clothing", "headwear", "trophy",]
+name = "Crystal Pillar Hat"
+lore = "A bright blue crystal that you can put on your head."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_crystal_pillar_hat/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 10800
+pixels = 5400
+credits = 1440
+stardust = 900
+essence = 9900
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_misc_crystal_pillar_hat.head"
+rdir = "/items/armors/misc/ct_misc_crystal_pillar_hat"
+rpath = "/items/armors/misc/ct_misc_crystal_pillar_hat/ct_misc_crystal_pillar_hat.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/misc/ct_misc_crystal_pillar_hat"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/misc/ct_misc_crystal_pillar_hat/ct_misc_crystal_pillar_hat.head"
+link = "[`/items/armors/misc/ct_misc_crystal_pillar_hat/ct_misc_crystal_pillar_hat.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/misc/ct_misc_crystal_pillar_hat/ct_misc_crystal_pillar_hat.head)"
+
+[assets]
+ext = "toml"
+name = "Crystal-Pillar-Hat.toml"
+rdir = "/items"
+rpath = "/items/Crystal-Pillar-Hat.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Crystal-Pillar-Hat.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_crystal_pillar_hat/icon.png) [Crystal Pillar Hat](/MyEnternia/assets/items/Crystal-Pillar-Hat.toml)"
+
+[wiki]
+ext = "md"
+name = "Crystal-Pillar-Hat.md"
+rdir = "/items/head_clothing"
+rpath = "/items/head_clothing/Crystal-Pillar-Hat.md"
+fdir = "/MyEnternia/Wiki/items/head_clothing"
+fpath = "/MyEnternia/Wiki/items/head_clothing/Crystal-Pillar-Hat.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_crystal_pillar_hat/icon.png) [Crystal Pillar Hat](/MyEnternia/Wiki/items/head_clothing/Crystal-Pillar-Hat)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

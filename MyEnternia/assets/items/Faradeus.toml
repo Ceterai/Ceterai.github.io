@@ -1,0 +1,101 @@
+id = "ct_faradeus"
+base = "item"
+cat = "smg"
+type = "machinePistol"
+tags = [ "blaster", "faradea", "machinepistol", "plasma", "ranged", "smg", "weapon",]
+name = "Faradeus"
+lore = "A part of a usually dual combo - these machine blasters are often used by ^#ffe364;Faradea^reset; crews."
+long = "Compact yet effective - they are able to rapidly generate small plasmic charges without big reload times."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png)"
+
+[inspect]
+alta = "I can cover my enemies with plasmic fire! How would you like that, night shifts and cold tea?!"
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+ct_faradea_msg = "Seems like the item you just picked up belongs to ^#ffe364;Faradea^reset; - an independant alta mercenary faction. Let's hope you don't find the previous owner of this item."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_faradeus.activeitem"
+rdir = "/items/active/weapons/ranged/alta/blaster"
+rpath = "/items/active/weapons/ranged/alta/blaster/ct_faradeus.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/blaster"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.activeitem"
+link = "[`/items/active/weapons/ranged/alta/blaster/ct_faradeus.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Faradeus.toml"
+rdir = "/items"
+rpath = "/items/Faradeus.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Faradeus.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png) [Faradeus](/MyEnternia/assets/items/Faradeus.toml)"
+
+[wiki]
+ext = "md"
+name = "Faradeus.md"
+rdir = "/items/smg"
+rpath = "/items/smg/Faradeus.md"
+fdir = "/MyEnternia/Wiki/items/smg"
+fpath = "/MyEnternia/Wiki/items/smg/Faradeus.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png) [Faradeus](/MyEnternia/Wiki/items/smg/Faradeus)"
+
+[upgrades.anvil]
+id = "ct_faradeus-upgrade"
+name = "Faradeus Prime"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png) [Faradeus Prime](/MyEnternia/assets/items/Faradeus-Prime.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Mission Clear"
+lore = "Instructions are simple - just hold the trigger until mission is clear! For an experienced ^#ffe364;Faradea^reset; merc this is the only outcome."
+
+[abilities.primary.stats]
+baseDps = 4
+energyUsage = 12
+fireTime = 0.11
+pressType = "blast"
+holdTimeMin = 0.9
+holdTimeMax = 0.0
+
+[meta.aliases."Faradea Gast"]
+
+[abilities.primary.stats.pressParams]
+type = "ct_plasma_small"

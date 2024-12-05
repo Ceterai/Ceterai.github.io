@@ -1,0 +1,102 @@
+id = "ct_ion_collider"
+base = "item"
+cat = "wand"
+type = "wand"
+tags = [ "ionic", "ranged", "wand", "weapon",]
+name = "Ion Collider WIP"
+lore = "This blaster can launch special charges of enchanted energy. Holding LMB will produce even weirder results."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ion_collider.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_ion_collider.activeitem"
+rdir = "/items/active/weapons/ranged/alta/unique"
+rpath = "/items/active/weapons/ranged/alta/unique/ct_ion_collider.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/unique"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/unique/ct_ion_collider.activeitem"
+link = "[`/items/active/weapons/ranged/alta/unique/ct_ion_collider.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/unique/ct_ion_collider.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Ion-Collider-WIP.toml"
+rdir = "/items"
+rpath = "/items/Ion-Collider-WIP.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ion-Collider-WIP.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ion_collider.png) [Ion Collider WIP](/MyEnternia/assets/items/Ion-Collider-WIP.toml)"
+
+[wiki]
+ext = "md"
+name = "Ion-Collider-WIP.md"
+rdir = "/items/wand"
+rpath = "/items/wand/Ion-Collider-WIP.md"
+fdir = "/MyEnternia/Wiki/items/wand"
+fpath = "/MyEnternia/Wiki/items/wand/Ion-Collider-WIP.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ion_collider.png) [Ion Collider WIP](/MyEnternia/Wiki/items/wand/Ion-Collider-WIP)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Wobblenaut"
+lore = "Weird enchanted innards make this weapon shoot bursts or ^#80f0f0;ice^reset; plasma on the button press, and launch weird wobbly ^#80f0f0;ice^reset; spheres on hold."
+
+[abilities.primary.stats]
+baseDps = 4
+energyUsage = 16
+fireTime = 0.2
+pressType = "semi"
+holdType = "blast"
+holdTimeMax = 0.55
+
+[abilities.primary.stats.pressParams]
+type = "blueplasmabullet"
+inaccuracy = 0.04
+
+[abilities.primary.stats.holdParams]
+type = "miniwobbleshot"
+inaccuracy = 0.01
+
+[abilities.primary.stats.pressParams.params]
+damageKind = "iceplasma"
+speed = 60
+timeToLive = 5.0

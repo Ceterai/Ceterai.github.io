@@ -1,0 +1,77 @@
+id = "ct_alta_vr_headset"
+base = "item"
+cat = "head_clothing"
+type = "headwear"
+tags = [ "head_clothing", "headwear", "tier3clothing",]
+name = "VR Headset"
+lore = "A virtual reality headwear."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/vr_headset/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 1280
+pixels = 640
+credits = 128
+stardust = 80
+essence = 1120
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_alta_vr_headset.head"
+rdir = "/items/armors/alta/other/vr_headset"
+rpath = "/items/armors/alta/other/vr_headset/ct_alta_vr_headset.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/vr_headset"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/vr_headset/ct_alta_vr_headset.head"
+link = "[`/items/armors/alta/other/vr_headset/ct_alta_vr_headset.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/vr_headset/ct_alta_vr_headset.head)"
+
+[assets]
+ext = "toml"
+name = "VR-Headset.toml"
+rdir = "/items"
+rpath = "/items/VR-Headset.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/VR-Headset.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/vr_headset/icon.png) [VR Headset](/MyEnternia/assets/items/VR-Headset.toml)"
+
+[wiki]
+ext = "md"
+name = "VR-Headset.md"
+rdir = "/items/head_clothing"
+rpath = "/items/head_clothing/VR-Headset.md"
+fdir = "/MyEnternia/Wiki/items/head_clothing"
+fpath = "/MyEnternia/Wiki/items/head_clothing/VR-Headset.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/vr_headset/icon.png) [VR Headset](/MyEnternia/Wiki/items/head_clothing/VR-Headset)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

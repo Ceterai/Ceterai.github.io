@@ -1,0 +1,77 @@
+id = "ct_alta_toy_runeva_ball"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "throwable",]
+name = "Runeva Ball"
+lore = "It's an inflatable tricolor ball."
+species = "generic"
+level = 1
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 960
+pixels = 480
+credits = 96
+stardust = 60
+essence = 720
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_alta_toy_runeva_ball.thrownitem"
+rdir = "/items/throwables/toys"
+rpath = "/items/throwables/toys/ct_alta_toy_runeva_ball.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/toys"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/toys/ct_alta_toy_runeva_ball.thrownitem"
+link = "[`/items/throwables/toys/ct_alta_toy_runeva_ball.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/toys/ct_alta_toy_runeva_ball.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Runeva-Ball.toml"
+rdir = "/items"
+rpath = "/items/Runeva-Ball.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Runeva-Ball.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png) [Runeva Ball](/MyEnternia/assets/items/Runeva-Ball.toml)"
+
+[wiki]
+ext = "md"
+name = "Runeva-Ball.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Runeva-Ball.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Runeva-Ball.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png) [Runeva Ball](/MyEnternia/Wiki/items/throwable/Runeva-Ball)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

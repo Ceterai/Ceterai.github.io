@@ -1,0 +1,128 @@
+id = "ct_phospholiator"
+base = "item"
+cat = "grenade_launcher"
+type = "grenadeLauncher"
+tags = [ "cannon", "grenade_launcher", "grenadelauncher", "grenadelauncher", "minelauncher", "phospholion", "radiation", "ranged", "weapon",]
+name = "Phospholiator"
+lore = "A ^#ceffd7;phospholion^reset; cannon that forms small radioactive projectiles that deal severe ^#f08020;fire^reset; damage upon contact."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_phospholiator.activeitem"
+rdir = "/items/active/weapons/ranged/alta/cannon"
+rpath = "/items/active/weapons/ranged/alta/cannon/ct_phospholiator.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.activeitem"
+link = "[`/items/active/weapons/ranged/alta/cannon/ct_phospholiator.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Phospholiator.toml"
+rdir = "/items"
+rpath = "/items/Phospholiator.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Phospholiator.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png) [Phospholiator](/MyEnternia/assets/items/Phospholiator.toml)"
+
+[wiki]
+ext = "md"
+name = "Phospholiator.md"
+rdir = "/items/grenade_launcher"
+rpath = "/items/grenade_launcher/Phospholiator.md"
+fdir = "/MyEnternia/Wiki/items/grenade_launcher"
+fpath = "/MyEnternia/Wiki/items/grenade_launcher/Phospholiator.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png) [Phospholiator](/MyEnternia/Wiki/items/grenade_launcher/Phospholiator)"
+
+[meta]
+
+[upgrades.anvil]
+id = "ct_phospholiator-upgrade"
+name = "Phosic Cannon"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png) [Phosic Cannon](/MyEnternia/assets/items/Phosic-Cannon.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Phosiblast"
+lore = "Creates bursts of Phosic Blasts.\nPress - burst with irradiated fireballs;\nHold - burst with Phosic Blasts."
+
+[abilities.secondary]
+name = "Phosic Patronage"
+lore = "This weapon is packed with nades.\nPress - launch a Sticky Firenade;\nHold - burst with Fire Mines."
+
+[abilities.primary.stats]
+baseDps = 8
+energyUsage = 32
+fireTime = 0.9
+pressType = "burst"
+holdType = "burst"
+
+[abilities.secondary.stats]
+baseDps = 8
+energyUsage = 36
+fireTime = 0.9
+pressType = "burst"
+holdType = "burst"
+
+[abilities.primary.stats.pressParams]
+type = "fireplasma"
+inaccuracy = 0.11
+
+[abilities.primary.stats.holdParams]
+type = "firestickygrenade"
+inaccuracy = 0.21
+count = 3
+
+[abilities.secondary.stats.pressParams]
+type = "firestickygrenade"
+inaccuracy = 0.08
+count = 1
+
+[abilities.secondary.stats.holdParams]
+type = "fireproximitymine"
+inaccuracy = 0.21
+count = 3
+
+[abilities.primary.stats.pressParams.params]
+knockback = 20
+timeToLive = 5.0

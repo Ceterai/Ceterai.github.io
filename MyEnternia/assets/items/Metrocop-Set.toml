@@ -1,0 +1,86 @@
+id = "ct_alta_metrocop_set"
+base = "item"
+cat = "set"
+type = "equipment"
+tags = [ "city", "equipment", "set",]
+name = "Metrocop Set"
+lore = "Contains full equipment set of an ^#b0e0fc;alta^reset; metrocop, including a lore codex of this set.\nIs cheaper to craft this way than separately."
+long = "A light set of equipment that provides aerodynamic armor as well as a simple visor as eye protection and sight enhancement."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png)"
+
+[inspect]
+alta = "Some diva's clothes. That could be me, honestly. Also, being able to outrun a fellow varda just to show off is enticing."
+
+[pickup]
+ct_set_msg = "Looks like you have acquired a set of alta equipment. These usually contain a full set of armor with corresponding documentation. Due to being created in bulk, sets are often much cheaper to craft than it is to craft their components separately."
+
+[cost]
+gold = 11200
+pixels = 5600
+credits = 1120
+stardust = 700
+essence = 9800
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+treasure = "ct_alta_metrocop_set"
+level = 3
+
+[repo]
+ext = "activeitem"
+name = "metrocop.activeitem"
+rdir = "/items/active/alta/sets"
+rpath = "/items/active/alta/sets/metrocop.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/sets"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/sets/metrocop.activeitem"
+link = "[`/items/active/alta/sets/metrocop.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/sets/metrocop.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Metrocop-Set.toml"
+rdir = "/items"
+rpath = "/items/Metrocop-Set.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Metrocop-Set.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png) [Metrocop Set](/MyEnternia/assets/items/Metrocop-Set.toml)"
+
+[wiki]
+ext = "md"
+name = "Metrocop-Set.md"
+rdir = "/items/set"
+rpath = "/items/set/Metrocop-Set.md"
+fdir = "/MyEnternia/Wiki/items/set"
+fpath = "/MyEnternia/Wiki/items/set/Metrocop-Set.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png) [Metrocop Set](/MyEnternia/Wiki/items/set/Metrocop-Set)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Alta Metrocop"]
+
+[meta.aliases.Metrocop]
+
+[meta.aliases.Diva]

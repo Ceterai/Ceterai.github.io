@@ -1,0 +1,85 @@
+id = "ct_nia_cocktail-alternia"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "alternia", "cocktail", "drink", "nia_cuisine",]
+name = "Alternia Cocktail"
+lore = "A nice middleground. You could say the same about the taste, but a lot of ^#b0e0fc;altas^reset; like it this way."
+long = "This drink feels surprisingly thick and fulfilling, making sure to spread accross your tongue to engage as much taste buds as possible."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_alternia_cocktail.png)"
+
+[inspect]
+alta = "If you get this option, be sure not to drink it all at once, because what's the point then."
+
+[pickup]
+
+[cost]
+gold = 7000
+pixels = 3500
+credits = 1000
+stardust = 625
+essence = 6500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_nia_cocktail"
+name = "Nia Cocktail"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png) [Nia Cocktail](/MyEnternia/assets/items/Nia-Cocktail.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_nia_cocktail.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_nia_cocktail.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_nia_cocktail.consumable"
+link = "[`/items/generic/food/tier4/ct_nia_cocktail.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_nia_cocktail.consumable)"
+
+[assets]
+ext = "toml"
+name = "Alternia-Cocktail.toml"
+rdir = "/items"
+rpath = "/items/Alternia-Cocktail.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Alternia-Cocktail.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_alternia_cocktail.png) [Alternia Cocktail](/MyEnternia/assets/items/Alternia-Cocktail.toml)"
+
+[wiki]
+ext = "md"
+name = "Nia-Cocktail.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Nia-Cocktail.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Nia-Cocktail.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png) [Nia Cocktail](/MyEnternia/Wiki/items/drink/Nia-Cocktail)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

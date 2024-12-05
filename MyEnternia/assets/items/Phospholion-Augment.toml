@@ -1,0 +1,77 @@
+id = "ct_phospholion_augment"
+base = "item"
+cat = "augment"
+type = "data_source"
+tags = [ "augment", "data_source", "enhancement", "phospholion",]
+name = "Phospholion Augment"
+lore = "This mildly irradiated EPP module gives fire protection and makes you glow."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_phospholion_augment.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 16800
+pixels = 8400
+credits = 2240
+stardust = 1400
+essence = 15400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "augment"
+name = "ct_phospholion_augment.augment"
+rdir = "/items/augments/back"
+rpath = "/items/augments/back/ct_phospholion_augment.augment"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_phospholion_augment.augment"
+link = "[`/items/augments/back/ct_phospholion_augment.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_phospholion_augment.augment)"
+
+[assets]
+ext = "toml"
+name = "Phospholion-Augment.toml"
+rdir = "/items"
+rpath = "/items/Phospholion-Augment.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Phospholion-Augment.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_phospholion_augment.png) [Phospholion Augment](/MyEnternia/assets/items/Phospholion-Augment.toml)"
+
+[wiki]
+ext = "md"
+name = "Phospholion-Augment.md"
+rdir = "/items/augment"
+rpath = "/items/augment/Phospholion-Augment.md"
+fdir = "/MyEnternia/Wiki/items/augment"
+fpath = "/MyEnternia/Wiki/items/augment/Phospholion-Augment.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_phospholion_augment.png) [Phospholion Augment](/MyEnternia/Wiki/items/augment/Phospholion-Augment)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

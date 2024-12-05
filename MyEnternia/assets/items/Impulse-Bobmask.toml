@@ -1,0 +1,79 @@
+id = "ct_impulse_bobfae_head"
+base = "item"
+cat = "head_clothing"
+type = "headwear"
+tags = [ "bobfae", "head_clothing", "headwear", "trophy",]
+name = "Impulse Bobmask"
+lore = "A fairly sturdy mask with a green visor embedded in it. Smells like flowers."
+long = "Just like most trophy cosmetics, this wearable can often be left behind by a creature that looks similar to it."
+species = "generic"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/my_enternia/trophies/impulse_bobfae_head/icon.png)"
+
+[inspect]
+alta = "This mask looks familiar... Is that what impulse bobfaes wear all the time?"
+
+[pickup]
+
+[cost]
+gold = 7200
+pixels = 3600
+credits = 720
+stardust = 450
+essence = 6300
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_impulse_bobfae.head"
+rdir = "/items/armors/my_enternia/trophies/impulse_bobfae_head"
+rpath = "/items/armors/my_enternia/trophies/impulse_bobfae_head/ct_impulse_bobfae.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/my_enternia/trophies/impulse_bobfae_head"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/my_enternia/trophies/impulse_bobfae_head/ct_impulse_bobfae.head"
+link = "[`/items/armors/my_enternia/trophies/impulse_bobfae_head/ct_impulse_bobfae.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/my_enternia/trophies/impulse_bobfae_head/ct_impulse_bobfae.head)"
+
+[assets]
+ext = "toml"
+name = "Impulse-Bobmask.toml"
+rdir = "/items"
+rpath = "/items/Impulse-Bobmask.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Impulse-Bobmask.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/my_enternia/trophies/impulse_bobfae_head/icon.png) [Impulse Bobmask](/MyEnternia/assets/items/Impulse-Bobmask.toml)"
+
+[wiki]
+ext = "md"
+name = "Impulse-Bobmask.md"
+rdir = "/items/head_clothing"
+rpath = "/items/head_clothing/Impulse-Bobmask.md"
+fdir = "/MyEnternia/Wiki/items/head_clothing"
+fpath = "/MyEnternia/Wiki/items/head_clothing/Impulse-Bobmask.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/my_enternia/trophies/impulse_bobfae_head/icon.png) [Impulse Bobmask](/MyEnternia/Wiki/items/head_clothing/Impulse-Bobmask)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,79 @@
+id = "ct_combat_mask_mk2"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "combat", "head_armor", "headarmour", "tier5armour",]
+name = "Combat MKII Mask"
+lore = "An improved version of the ^#10b4ef;Combat Mask^reset; with added armor & energy capabilities."
+long = "It provides a better visor with a broader scope and field of view. Similar models are used in many alta defence-related projects."
+species = "alta"
+level = 5
+rarity = 2
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png)"
+
+[inspect]
+alta = "It's like a huge visor, that takes up all of your face!"
+
+[pickup]
+
+[cost]
+gold = 6400
+pixels = 3200
+credits = 1000
+stardust = 625
+essence = 5500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_combat_mask_mk2.head"
+rdir = "/items/armors/alta/tier5/combat/mask_mk2"
+rpath = "/items/armors/alta/tier5/combat/mask_mk2/ct_combat_mask_mk2.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/combat/mask_mk2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/combat/mask_mk2/ct_combat_mask_mk2.head"
+link = "[`/items/armors/alta/tier5/combat/mask_mk2/ct_combat_mask_mk2.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/combat/mask_mk2/ct_combat_mask_mk2.head)"
+
+[assets]
+ext = "toml"
+name = "Combat-MKII-Mask.toml"
+rdir = "/items"
+rpath = "/items/Combat-MKII-Mask.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Combat-MKII-Mask.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png) [Combat MKII Mask](/MyEnternia/assets/items/Combat-MKII-Mask.toml)"
+
+[wiki]
+ext = "md"
+name = "Combat-MKII-Mask.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/Combat-MKII-Mask.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/Combat-MKII-Mask.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png) [Combat MKII Mask](/MyEnternia/Wiki/items/head_armor/Combat-MKII-Mask)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

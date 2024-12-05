@@ -1,0 +1,82 @@
+id = "ct_alta_capital_android"
+base = "item"
+cat = "android_deployer"
+type = "robotics"
+tags = [ "android", "android_deployer", "robotics", "spawner", "throwable",]
+name = "Imperial Android"
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/capital.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 1680
+pixels = 840
+credits = 240
+stardust = 150
+essence = 1560
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "capital.activeitem"
+rdir = "/items/active/alta/spawners/androids"
+rpath = "/items/active/alta/spawners/androids/capital.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids/capital.activeitem"
+link = "[`/items/active/alta/spawners/androids/capital.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids/capital.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Imperial-Android.toml"
+rdir = "/items"
+rpath = "/items/Imperial-Android.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Imperial-Android.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/capital.png) [Imperial Android](/MyEnternia/assets/items/Imperial-Android.toml)"
+
+[wiki]
+ext = "md"
+name = "Imperial-Android.md"
+rdir = "/items/android_deployer"
+rpath = "/items/android_deployer/Imperial-Android.md"
+fdir = "/MyEnternia/Wiki/items/android_deployer"
+fpath = "/MyEnternia/Wiki/items/android_deployer/Imperial-Android.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/capital.png) [Imperial Android](/MyEnternia/Wiki/items/android_deployer/Imperial-Android)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[stats.spawner]
+entities = [ "ct_alta_capital_android",]
+
+[stats.spawner.stats]
+persistent = false
+
+[stats.spawner.stats.damageTeam]

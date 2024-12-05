@@ -1,0 +1,85 @@
+id = "ct_tonna_meringue-kada"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dessert", "dish", "nia_cuisine", "tonna",]
+name = "Tonnakada Meringue"
+lore = "The softness of this full-on meringue makes it feel like it's melting in your mouth."
+long = "This recipe uses a freshly-made tonnakada as base for its recipe. Therefore, the baked tonna shell is used as pie casing too."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png)"
+
+[inspect]
+alta = "A very cool turn on a regular tonna meringue, that just sounds like a fun idea."
+
+[pickup]
+
+[cost]
+gold = 6720
+pixels = 3360
+credits = 960
+stardust = 600
+essence = 6240
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_tonna_meringue"
+name = "Tonna Meringue"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png) [Tonna Meringue](/MyEnternia/assets/items/Tonna-Meringue.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_tonna_meringue.consumable"
+rdir = "/items/generic/food/tier3"
+rpath = "/items/generic/food/tier3/ct_tonna_meringue.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_tonna_meringue.consumable"
+link = "[`/items/generic/food/tier3/ct_tonna_meringue.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_tonna_meringue.consumable)"
+
+[assets]
+ext = "toml"
+name = "Tonnakada-Meringue.toml"
+rdir = "/items"
+rpath = "/items/Tonnakada-Meringue.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Tonnakada-Meringue.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png) [Tonnakada Meringue](/MyEnternia/assets/items/Tonnakada-Meringue.toml)"
+
+[wiki]
+ext = "md"
+name = "Tonna-Meringue.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Tonna-Meringue.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Tonna-Meringue.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png) [Tonna Meringue](/MyEnternia/Wiki/items/dish/Tonna-Meringue)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

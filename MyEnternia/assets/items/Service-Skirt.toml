@@ -1,0 +1,77 @@
+id = "ct_alta_service_skirt"
+base = "item"
+cat = "legs_clothing"
+type = "legwear"
+tags = [ "legs_clothing", "legwear",]
+name = "Service Skirt"
+lore = "A bottom issue for ^#b0e0fc;alta^reset; servicers who prefer skirts over trousers."
+species = "alta"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_skirt/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 64
+stardust = 40
+essence = 160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "legs"
+name = "ct_alta_service_skirt.legs"
+rdir = "/items/armors/alta/clothing/service_skirt"
+rpath = "/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/service_skirt"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs"
+link = "[`/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs)"
+
+[assets]
+ext = "toml"
+name = "Service-Skirt.toml"
+rdir = "/items"
+rpath = "/items/Service-Skirt.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Service-Skirt.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_skirt/icon.png) [Service Skirt](/MyEnternia/assets/items/Service-Skirt.toml)"
+
+[wiki]
+ext = "md"
+name = "Service-Skirt.md"
+rdir = "/items/legs_clothing"
+rpath = "/items/legs_clothing/Service-Skirt.md"
+fdir = "/MyEnternia/Wiki/items/legs_clothing"
+fpath = "/MyEnternia/Wiki/items/legs_clothing/Service-Skirt.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_skirt/icon.png) [Service Skirt](/MyEnternia/Wiki/items/legs_clothing/Service-Skirt)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

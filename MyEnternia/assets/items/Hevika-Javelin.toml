@@ -1,0 +1,84 @@
+id = "ct_hevika_javelin"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "hevika", "hunting", "ionic", "throwable",]
+name = "Hevika Javelin"
+lore = "A throwing spear made out of ^#0050c0;hevika^reset; crystals. Can be used for hunting or upgraded at an ^#b0e0fc;alta crafting station^reset;."
+long = "**NS-Hev**, or the **Energy Conderblock**, originally meant for converting excessive ^#8020f0;enternia^reset; into kinetic energy. With a proper **hevika charger**, can generate that energy itself for additional power.  \nThis prototype became popular with ^#b0e0fc;dreamers^reset;, which led to development of ^#8020f0;ion javelins^reset;."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 240
+pixels = 120
+credits = 32
+stardust = 20
+essence = 220
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_hevika_javelin.thrownitem"
+rdir = "/items/throwables"
+rpath = "/items/throwables/ct_hevika_javelin.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_hevika_javelin.thrownitem"
+link = "[`/items/throwables/ct_hevika_javelin.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_hevika_javelin.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Hevika-Javelin.toml"
+rdir = "/items"
+rpath = "/items/Hevika-Javelin.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Hevika-Javelin.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png) [Hevika Javelin](/MyEnternia/assets/items/Hevika-Javelin.toml)"
+
+[wiki]
+ext = "md"
+name = "Hevika-Javelin.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Hevika-Javelin.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Hevika-Javelin.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png) [Hevika Javelin](/MyEnternia/Wiki/items/throwable/Hevika-Javelin)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Energy Conderblock"]
+icon = "none"
+
+[meta.aliases."Hevika Charger"]
+icon = "none"
+
+[meta.aliases.NS-Hev]

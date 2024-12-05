@@ -1,0 +1,85 @@
+id = "ct_aya_candy-pop"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "ayaka", "cooking", "dessert", "dish", "runeva_cuisine",]
+name = "Aya Pop"
+lore = "A lolipop with a lil' pop to it. Sour candy is always better than just a candy, right? No? Okay."
+long = "The jam filling in these is still pretty sweet, in contrast to the soury outside."
+species = "alta"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png)"
+
+[inspect]
+alta = "Sometimes I go for these if I get tired of regular ones. Which is rare, but these are pretty good too."
+
+[pickup]
+
+[cost]
+gold = 1880
+pixels = 940
+credits = 256
+stardust = 160
+essence = 1620
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_aya_candy"
+name = "Aya Candy"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png) [Aya Candy](/MyEnternia/assets/items/Aya-Candy.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_aya_candy.consumable"
+rdir = "/items/generic/food/tier2"
+rpath = "/items/generic/food/tier2/ct_aya_candy.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_aya_candy.consumable"
+link = "[`/items/generic/food/tier2/ct_aya_candy.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_aya_candy.consumable)"
+
+[assets]
+ext = "toml"
+name = "Aya-Pop.toml"
+rdir = "/items"
+rpath = "/items/Aya-Pop.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Aya-Pop.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png) [Aya Pop](/MyEnternia/assets/items/Aya-Pop.toml)"
+
+[wiki]
+ext = "md"
+name = "Aya-Candy.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Aya-Candy.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Aya-Candy.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png) [Aya Candy](/MyEnternia/Wiki/items/dish/Aya-Candy)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

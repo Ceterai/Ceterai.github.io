@@ -1,0 +1,96 @@
+id = "ct_crystalline_shield"
+base = "item"
+cat = "shield"
+type = "shield"
+tags = [ "crystal", "crystalline", "shield",]
+name = "Crystalline Shield"
+lore = "A hardened crystal shield. Wearing it makes your energy flow faster, increasing your energy regen slightly."
+long = "It's not entirely known whether these crystal shields are forming naturally, but so far there has been no evidence of alta assistance in the process."
+species = "generic"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png)"
+
+[inspect]
+alta = "This pretty shield is flashing different colors under different angles! It also kinda looks like crystal candy."
+
+[pickup]
+ct_alta_shield_msg = "You're holding an alta shield. My database shows an enhanced set of features, loading a proper description for you. Protection is known to be a prominent topic in alta culture and a big research field as well, so this might be worth checking out."
+
+[cost]
+gold = 2400
+pixels = 1200
+credits = 288
+stardust = 180
+essence = 2160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_crystalline_shield.activeitem"
+rdir = "/items/active/shields"
+rpath = "/items/active/shields/ct_crystalline_shield.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/shields"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/shields/ct_crystalline_shield.activeitem"
+link = "[`/items/active/shields/ct_crystalline_shield.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/shields/ct_crystalline_shield.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Crystalline-Shield.toml"
+rdir = "/items"
+rpath = "/items/Crystalline-Shield.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Crystalline-Shield.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png) [Crystalline Shield](/MyEnternia/assets/items/Crystalline-Shield.toml)"
+
+[wiki]
+ext = "md"
+name = "Crystalline-Shield.md"
+rdir = "/items/shield"
+rpath = "/items/shield/Crystalline-Shield.md"
+fdir = "/MyEnternia/Wiki/items/shield"
+fpath = "/MyEnternia/Wiki/items/shield/Crystalline-Shield.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png) [Crystalline Shield](/MyEnternia/Wiki/items/shield/Crystalline-Shield)"
+
+[meta]
+
+[upgrades.anvil]
+id = "ct_crystalline_shield-upgrade"
+name = "Cave Keeper"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png) [Cave Keeper](/MyEnternia/assets/items/Cave-Keeper.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Power Activation"
+lore = "Provides an ^#2080f0;Energy Generator^reset; status effect when raised.\nActivate block fast enough (parry time) to perform a perfect block."
+
+[abilities.passive]
+name = "Energy Source"
+lore = "Provides an ^#2080f0;Energizer^reset; status effect."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

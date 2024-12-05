@@ -1,0 +1,84 @@
+id = "ct_biomix_icecream"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "alta_cuisine", "cooking", "dessert", "dish", "ice",]
+name = "Biomix Ice Cream"
+lore = "This icecream flavor is a refreshing mix of crystal-, bio- and herb-based ingredients."
+long = "The recipe includes separate mixes from different cuisines, that are then piled on top of each other, resulting in a layered ice cream."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png)"
+
+[inspect]
+alta = "Like it when I can get a little bite of everything, or do it separately to compare the flavors!"
+
+[pickup]
+
+[cost]
+gold = 2200
+pixels = 1100
+credits = 264
+stardust = 165
+essence = 1980
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_biomix_icecream-dessert"
+name = "Biomix Dessert"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png) [Biomix Dessert](/MyEnternia/assets/items/Biomix-Dessert.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_biomix_icecream.consumable"
+rdir = "/items/generic/food/tier2"
+rpath = "/items/generic/food/tier2/ct_biomix_icecream.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_biomix_icecream.consumable"
+link = "[`/items/generic/food/tier2/ct_biomix_icecream.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_biomix_icecream.consumable)"
+
+[assets]
+ext = "toml"
+name = "Biomix-Ice-Cream.toml"
+rdir = "/items"
+rpath = "/items/Biomix-Ice-Cream.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Biomix-Ice-Cream.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png) [Biomix Ice Cream](/MyEnternia/assets/items/Biomix-Ice-Cream.toml)"
+
+[wiki]
+ext = "md"
+name = "Biomix-Ice-Cream.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Biomix-Ice-Cream.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Biomix-Ice-Cream.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png) [Biomix Ice Cream](/MyEnternia/Wiki/items/dish/Biomix-Ice-Cream)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

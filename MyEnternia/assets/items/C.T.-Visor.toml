@@ -1,0 +1,80 @@
+id = "ct_ceterai_helmet"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "ceterai", "head_armor", "headarmour", "tier6armour",]
+name = "C.T. Visor"
+lore = "A C.T. series helmet. Has a built-in 'Omniblue' lightsource. The label on the side reads 'Mark I'. Has built-in ^#b0e0fc;breath protection^reset;."
+long = "This analytical alternia-powered protected headwear is a dream of many ^#b0e0fc;alta researchers^reset;, as there are quite a few comparable alternatives."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png)"
+
+[inspect]
+alta = "Many Project Ceterai associates used to wear this on-field. Now I could be the one utilizing it to the fullest."
+
+[pickup]
+ct_alta_head_armor_msg = "You've got a hold of a level ^#8020f0;6+^reset; alta head armor piece. Among usual protection and a special effect, these usually have an in-built ^#b0e0fc;breath protection^reset;, meaning you no longer have to use a ^#b0e0fc;Breathing EPP^reset; in places where you couldn't breath."
+
+[cost]
+gold = 7000
+pixels = 3500
+credits = 1000
+stardust = 625
+essence = 6500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_ceterai_helmet.head"
+rdir = "/items/armors/alta/tier6/ceterai/helmet"
+rpath = "/items/armors/alta/tier6/ceterai/helmet/ct_ceterai_helmet.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ceterai/helmet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ceterai/helmet/ct_ceterai_helmet.head"
+link = "[`/items/armors/alta/tier6/ceterai/helmet/ct_ceterai_helmet.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ceterai/helmet/ct_ceterai_helmet.head)"
+
+[assets]
+ext = "toml"
+name = "C.T.-Visor.toml"
+rdir = "/items"
+rpath = "/items/C.T.-Visor.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/C.T.-Visor.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png) [C.T. Visor](/MyEnternia/assets/items/C.T.-Visor.toml)"
+
+[wiki]
+ext = "md"
+name = "C.T.-Visor.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/C.T.-Visor.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/C.T.-Visor.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png) [C.T. Visor](/MyEnternia/Wiki/items/head_armor/C.T.-Visor)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

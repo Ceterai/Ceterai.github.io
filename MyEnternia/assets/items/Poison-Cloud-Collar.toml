@@ -1,0 +1,78 @@
+id = "ct_warped_collar"
+base = "item"
+cat = "collar"
+type = "accessory"
+tags = [ "accessory", "collar", "enhancement", "warped",]
+name = "Poison Cloud Collar"
+lore = "A collar that causes your pet to periodically spray poison clouds around it."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_warped_collar.png)"
+
+[inspect]
+
+[pickup]
+ct_warped_msg = "Beware of the warped items you just accquired. ^#9b2d3f;Warped^reset; is a form of wild growth found mainly on ^#20f080;alterash^reset; planets, that tends to spread uncontrollably and contaminate everything in its path.  \nWarped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck."
+
+[cost]
+gold = 9600
+pixels = 4800
+credits = 1280
+stardust = 800
+essence = 8800
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "augment"
+name = "ct_warped_collar.augment"
+rdir = "/items/augments/pet"
+rpath = "/items/augments/pet/ct_warped_collar.augment"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/augments/pet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/augments/pet/ct_warped_collar.augment"
+link = "[`/items/augments/pet/ct_warped_collar.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/pet/ct_warped_collar.augment)"
+
+[assets]
+ext = "toml"
+name = "Poison-Cloud-Collar.toml"
+rdir = "/items"
+rpath = "/items/Poison-Cloud-Collar.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Poison-Cloud-Collar.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_warped_collar.png) [Poison Cloud Collar](/MyEnternia/assets/items/Poison-Cloud-Collar.toml)"
+
+[wiki]
+ext = "md"
+name = "Poison-Cloud-Collar.md"
+rdir = "/items/collar"
+rpath = "/items/collar/Poison-Cloud-Collar.md"
+fdir = "/MyEnternia/Wiki/items/collar"
+fpath = "/MyEnternia/Wiki/items/collar/Poison-Cloud-Collar.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_warped_collar.png) [Poison Cloud Collar](/MyEnternia/Wiki/items/collar/Poison-Cloud-Collar)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

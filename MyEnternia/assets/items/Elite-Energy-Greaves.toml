@@ -1,0 +1,81 @@
+id = "ct_elite_legwear"
+base = "item"
+cat = "legs_armor"
+type = "legarmour"
+tags = [ "elite", "legarmour", "legs_armor", "tier6armour",]
+name = "Elite Energy Greaves"
+lore = "This ceternia-enhanced legwear reduses any falldamage by 75%."
+long = "Made with defence in mind, these greaves are designed to do everything possible to protect the wearer's legs and ensure their survival."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png)"
+
+[inspect]
+alta = "Wearing these feels like you're operating a mini-mech of sorts."
+
+[pickup]
+ct_alta_legs_armor_msg = "You've got a hold of a level ^#8020f0;6+^reset; alta legs armor piece. Among usual protection and a special effect, these usually have in-built proto-enhancers, increasing knockback threshold by 3 and decreasing falldamage by 15%."
+
+[cost]
+gold = 4900
+pixels = 2450
+credits = 700
+stardust = 437
+essence = 4550
+
+[element]
+energy = "alternia"
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "legs"
+name = "ct_elite_legwear.legs"
+rdir = "/items/armors/alta/tier6/elite/legwear"
+rpath = "/items/armors/alta/tier6/elite/legwear/ct_elite_legwear.legs"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/elite/legwear"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/elite/legwear/ct_elite_legwear.legs"
+link = "[`/items/armors/alta/tier6/elite/legwear/ct_elite_legwear.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/elite/legwear/ct_elite_legwear.legs)"
+
+[assets]
+ext = "toml"
+name = "Elite-Energy-Greaves.toml"
+rdir = "/items"
+rpath = "/items/Elite-Energy-Greaves.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Elite-Energy-Greaves.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png) [Elite Energy Greaves](/MyEnternia/assets/items/Elite-Energy-Greaves.toml)"
+
+[wiki]
+ext = "md"
+name = "Elite-Energy-Greaves.md"
+rdir = "/items/legs_armor"
+rpath = "/items/legs_armor/Elite-Energy-Greaves.md"
+fdir = "/MyEnternia/Wiki/items/legs_armor"
+fpath = "/MyEnternia/Wiki/items/legs_armor/Elite-Energy-Greaves.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png) [Elite Energy Greaves](/MyEnternia/Wiki/items/legs_armor/Elite-Energy-Greaves)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

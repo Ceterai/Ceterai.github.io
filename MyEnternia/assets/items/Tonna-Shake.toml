@@ -1,0 +1,84 @@
+id = "ct_tonna_shake"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "drink", "nia_cuisine", "shake", "tonna",]
+name = "Tonna Shake"
+lore = "Milky substance you get from baked ^#c1ebf8;tonnas^reset; turned into a milkshake!"
+long = "A multistep process to achieve a milkshakey goodness in this case differs from a lot of classic alta shakes, as this one includes and additional step of baking the tonna to get proper milk consistency."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png)"
+
+[inspect]
+alta = "If you're into nia cuisine and are at a party, this choice is definitely for you. Don't forget to cover it in some jam! Gheatsyn one will work quite well."
+
+[pickup]
+
+[cost]
+gold = 4800
+pixels = 2400
+credits = 640
+stardust = 400
+essence = 4400
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_tonna_shake-perfect"
+name = "Perfect Tonna Shake"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png) [Perfect Tonna Shake](/MyEnternia/assets/items/Perfect-Tonna-Shake.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_tonna_shake.consumable"
+rdir = "/items/generic/food/tier3"
+rpath = "/items/generic/food/tier3/ct_tonna_shake.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_tonna_shake.consumable"
+link = "[`/items/generic/food/tier3/ct_tonna_shake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_tonna_shake.consumable)"
+
+[assets]
+ext = "toml"
+name = "Tonna-Shake.toml"
+rdir = "/items"
+rpath = "/items/Tonna-Shake.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Tonna-Shake.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png) [Tonna Shake](/MyEnternia/assets/items/Tonna-Shake.toml)"
+
+[wiki]
+ext = "md"
+name = "Tonna-Shake.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Tonna-Shake.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Tonna-Shake.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png) [Tonna Shake](/MyEnternia/Wiki/items/drink/Tonna-Shake)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

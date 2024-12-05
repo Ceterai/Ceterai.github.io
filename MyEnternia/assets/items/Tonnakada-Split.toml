@@ -1,0 +1,85 @@
+id = "ct_tonnakada-split"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dish", "kada", "nia_cuisine", "tonna",]
+name = "Tonnakada Split"
+lore = "A perfectly cooked tonna. These soft milky insides are oozing from the sides!"
+long = "Interesting how extra effort can result in a different taste and an even more enticing presentation."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png)"
+
+[inspect]
+alta = "I think I will need a napkin for this one."
+
+[pickup]
+
+[cost]
+gold = 1520
+pixels = 760
+credits = 152
+stardust = 95
+essence = 1330
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_tonnakada"
+name = "Tonnakada"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png) [Tonnakada](/MyEnternia/assets/items/Tonnakada.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_tonnakada.consumable"
+rdir = "/items/generic/food/tier1"
+rpath = "/items/generic/food/tier1/ct_tonnakada.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_tonnakada.consumable"
+link = "[`/items/generic/food/tier1/ct_tonnakada.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_tonnakada.consumable)"
+
+[assets]
+ext = "toml"
+name = "Tonnakada-Split.toml"
+rdir = "/items"
+rpath = "/items/Tonnakada-Split.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Tonnakada-Split.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png) [Tonnakada Split](/MyEnternia/assets/items/Tonnakada-Split.toml)"
+
+[wiki]
+ext = "md"
+name = "Tonnakada.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Tonnakada.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Tonnakada.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png) [Tonnakada](/MyEnternia/Wiki/items/dish/Tonnakada)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Cooked Tonna"]

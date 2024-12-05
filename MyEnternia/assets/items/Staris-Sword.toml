@@ -1,0 +1,92 @@
+id = "ct_staris_sword"
+base = "item"
+cat = "shortsword"
+type = "shortsword"
+tags = [ "melee", "shortsword", "stardust", "staris", "sword", "weapon",]
+name = "Staris Sword"
+lore = "^red;WIP^reset;. Some say there's nothing more pure than stardust itself... But this tool comes close."
+long = "Since it's made almost entirely out of stardust, it needs to be used with care to avoid unstable states and environments."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_staris_sword.png)"
+
+[inspect]
+alta = "It's so precious! And most likely just as powerful!"
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_staris_sword.activeitem"
+rdir = "/items/active/weapons/melee/alta/light"
+rpath = "/items/active/weapons/melee/alta/light/ct_staris_sword.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_staris_sword.activeitem"
+link = "[`/items/active/weapons/melee/alta/light/ct_staris_sword.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_staris_sword.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Staris-Sword.toml"
+rdir = "/items"
+rpath = "/items/Staris-Sword.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Staris-Sword.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_staris_sword.png) [Staris Sword](/MyEnternia/assets/items/Staris-Sword.toml)"
+
+[wiki]
+ext = "md"
+name = "Staris-Sword.md"
+rdir = "/items/shortsword"
+rpath = "/items/shortsword/Staris-Sword.md"
+fdir = "/MyEnternia/Wiki/items/shortsword"
+fpath = "/MyEnternia/Wiki/items/shortsword/Staris-Sword.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_staris_sword.png) [Staris Sword](/MyEnternia/Wiki/items/shortsword/Staris-Sword)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Uvi-Staa"
+lore = "^red;WIP^reset;. A sequence of 3 light strikes. Hold to perform a Heavy Slash. Each hit is more powerful with ^#ffa8e8;stardust^reset; in your inventory (+0.5%/speck, 120 (+60%) max)."
+long = "The blade shines different from the rest of the sword. Perhaps it's due to different concentrations of specks and energy in them."
+
+[abilities.primary.stats]
+fireTime = 0.625
+baseDps = 7
+
+[meta.aliases."Stardust Sword"]
+
+[abilities.primary.stats.damageConfig]
+damageSourceKind = "shortsword"
+timeout = 0.5

@@ -1,0 +1,84 @@
+id = "ct_aya_baked"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "ayaka", "bakery", "cooking", "dish", "runeva_cuisine",]
+name = "Baked Aya"
+lore = "Crispy on the outside, filled with hot sweet, slightly sour jam. A rare recipe where the same ingredient is used both as dough and as filling."
+long = "Due to relative easiness of preparation, this aya-dough bakery can be often found in local alta bakeries, and often with different filling options."
+species = "alta"
+level = 2
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png)"
+
+[inspect]
+alta = "You can eat this with your hands! At least that's how I do it. Maybe through a napkin, if I want to keep my hands clean."
+
+[pickup]
+
+[cost]
+gold = 480
+pixels = 240
+credits = 32
+stardust = 20
+essence = 400
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_aya_baked-mash"
+name = "Aya Mash"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png) [Aya Mash](/MyEnternia/assets/items/Aya-Mash.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_aya_baked.consumable"
+rdir = "/items/generic/food/tier1"
+rpath = "/items/generic/food/tier1/ct_aya_baked.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_aya_baked.consumable"
+link = "[`/items/generic/food/tier1/ct_aya_baked.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_aya_baked.consumable)"
+
+[assets]
+ext = "toml"
+name = "Baked-Aya.toml"
+rdir = "/items"
+rpath = "/items/Baked-Aya.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Baked-Aya.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png) [Baked Aya](/MyEnternia/assets/items/Baked-Aya.toml)"
+
+[wiki]
+ext = "md"
+name = "Baked-Aya.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Baked-Aya.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Baked-Aya.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png) [Baked Aya](/MyEnternia/Wiki/items/dish/Baked-Aya)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

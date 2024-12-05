@@ -1,0 +1,79 @@
+id = "ct_catalyst"
+base = "item"
+cat = "enhancer"
+type = "enhancer"
+tags = [ "debug", "enhancer",]
+name = "Catalyst"
+lore = "Removes all effects from you. All of them."
+long = "A very powerful enhancer developed in an unknown ^#b0e0fc;alta^reset; lab. It can basically \"reset\" the ^#299fc5;bionic^reset; body of any alta, clearing many processes and stopping non-essential chemical reactions."
+species = "alta"
+level = 6
+rarity = 3
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png)"
+
+[inspect]
+alta = "An incredibly powerful enhancer called situria, or \"the catalyst\". It can completely wipe through your body, as if resetting it to factory settings. I've heard others say you feel almost completely numb for a couple of seconds after taking it... Sounds scary."
+
+[pickup]
+
+[cost]
+gold = 2760
+pixels = 1380
+credits = 480
+stardust = 300
+essence = 2340
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_catalyst.consumable"
+rdir = "/items/generic/other"
+rpath = "/items/generic/other/ct_catalyst.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_catalyst.consumable"
+link = "[`/items/generic/other/ct_catalyst.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_catalyst.consumable)"
+
+[assets]
+ext = "toml"
+name = "Catalyst.toml"
+rdir = "/items"
+rpath = "/items/Catalyst.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Catalyst.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png) [Catalyst](/MyEnternia/assets/items/Catalyst.toml)"
+
+[wiki]
+ext = "md"
+name = "Catalyst.md"
+rdir = "/items/enhancer"
+rpath = "/items/enhancer/Catalyst.md"
+fdir = "/MyEnternia/Wiki/items/enhancer"
+fpath = "/MyEnternia/Wiki/items/enhancer/Catalyst.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png) [Catalyst](/MyEnternia/Wiki/items/enhancer/Catalyst)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases.Situria]

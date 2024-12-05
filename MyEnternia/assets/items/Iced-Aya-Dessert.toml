@@ -1,0 +1,85 @@
+id = "ct_aya_icecream-dessert"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "ayaka", "cooking", "dessert", "dish", "ice", "runeva_cuisine",]
+name = "Iced Aya Dessert"
+lore = "This is not any regular ice cream, this is a full dessert with extra-sweetness!"
+long = "The process of preparation is slightly more complicated, but the presentation does the most difference."
+species = "alta"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png)"
+
+[inspect]
+alta = "While not very different from aya ice cream in flavor, the texture is incredibly pleasant, and you can even bite into it without much problem!"
+
+[pickup]
+
+[cost]
+gold = 2600
+pixels = 1300
+credits = 350
+stardust = 218
+essence = 2250
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_aya_icecream"
+name = "Aya Ice Cream"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png) [Aya Ice Cream](/MyEnternia/assets/items/Aya-Ice-Cream.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_aya_icecream.consumable"
+rdir = "/items/generic/food/tier2"
+rpath = "/items/generic/food/tier2/ct_aya_icecream.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_aya_icecream.consumable"
+link = "[`/items/generic/food/tier2/ct_aya_icecream.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_aya_icecream.consumable)"
+
+[assets]
+ext = "toml"
+name = "Iced-Aya-Dessert.toml"
+rdir = "/items"
+rpath = "/items/Iced-Aya-Dessert.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Iced-Aya-Dessert.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png) [Iced Aya Dessert](/MyEnternia/assets/items/Iced-Aya-Dessert.toml)"
+
+[wiki]
+ext = "md"
+name = "Aya-Ice-Cream.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Aya-Ice-Cream.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Aya-Ice-Cream.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png) [Aya Ice Cream](/MyEnternia/Wiki/items/dish/Aya-Ice-Cream)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

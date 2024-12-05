@@ -1,0 +1,139 @@
+id = "ct_alta_sona_rifle"
+base = "item"
+cat = "ar"
+type = "assaultRifle"
+tags = [ "ar", "assaultrifle", "assaultrifle", "ranged", "sona", "tavriya", "weapon",]
+name = "Sona Rifle SG5"
+lore = "A rifled cryo energy blaster, mostly used by ^#b0e0fc;sona soldiers^reset; operating in ^#e8e8ff;tavriya^reset;."
+long = "Its compact cryogenic core is able to produce energy blasts at different rates, allowing for multiple firemodes."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png)"
+
+[inspect]
+alta = "A very useful thing to have one you when its exceptionally hot outside. Like right now."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_alta_sona_rifle.activeitem"
+rdir = "/items/active/weapons/ranged/alta/rifle"
+rpath = "/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.activeitem"
+link = "[`/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Sona-Rifle-SG5.toml"
+rdir = "/items"
+rpath = "/items/Sona-Rifle-SG5.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Sona-Rifle-SG5.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png) [Sona Rifle SG5](/MyEnternia/assets/items/Sona-Rifle-SG5.toml)"
+
+[wiki]
+ext = "md"
+name = "Sona-Rifle-SG5.md"
+rdir = "/items/ar"
+rpath = "/items/ar/Sona-Rifle-SG5.md"
+fdir = "/MyEnternia/Wiki/items/ar"
+fpath = "/MyEnternia/Wiki/items/ar/Sona-Rifle-SG5.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png) [Sona Rifle SG5](/MyEnternia/Wiki/items/ar/Sona-Rifle-SG5)"
+
+[upgrades.anvil]
+id = "ct_alta_sona_rifle-upgrade"
+name = "Sona Rifle SG5X"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png) [Sona Rifle SG5X](/MyEnternia/assets/items/Sona-Rifle-SG5X.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Cryo Blast"
+lore = "Phosicore of this weapon can produce sona energy.  \nFiremodes: burst, auto, charge."
+long = "Letting it hold on the charge mode will produce a cryoplasma rocket and launch it at a decent speed."
+
+[abilities.secondary]
+name = "Tactical Cryonics"
+lore = "A set of functions for tavriya environments.  \nPress - launch an Ice Cloud Nade;  \nHold - change firemodes."
+long = "Works especially well against targets vulnerable to low temperatures."
+
+[abilities.primary.stats]
+baseDps = 8
+fireTime = 0.15
+energyUsage = 32
+defaultFireType = "burst"
+
+[abilities.secondary.stats]
+baseDps = 8
+energyUsage = 36
+fireTime = 0.5
+pressType = "nade"
+holdFiremodes = true
+fireTypes = [ "auto", "charge", "burst",]
+
+[meta.aliases.SG5]
+
+[abilities.secondary.stats.pressParams]
+type = "icecloudgrenade"
+
+[abilities.primary.stats.fireTypes.auto]
+pressType = "blast"
+holdTimeMax = 0
+
+[abilities.primary.stats.fireTypes.charge]
+pressType = "blast"
+holdType = "rocket"
+
+[abilities.primary.stats.fireTypes.burst]
+pressType = "burst"
+holdTimeMax = 0
+
+[abilities.primary.stats.fireTypes.auto.pressParams]
+type = "iceplasma"
+
+[abilities.primary.stats.fireTypes.charge.pressParams]
+type = "iceplasma"
+
+[abilities.primary.stats.fireTypes.charge.holdParams]
+type = "iceplasmarocket"
+
+[abilities.primary.stats.fireTypes.burst.pressParams]
+type = "iceplasma"
+count = 3
+sound = "primary_hold"
+fireTime = 0.65

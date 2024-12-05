@@ -1,0 +1,79 @@
+id = "ct_glowstick_stardust"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "glowstick", "light", "stardust", "throwable",]
+name = "Stardust Glowstick"
+lore = "Creates a stardust bioluminescent glow when thrown. Is made from rare crystallic materials."
+long = "Not entirely known why combining the stardust ingredients shifts the hue even further to the red, but it seems like the same is happening to starlight..."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/stardust.png)"
+
+[inspect]
+alta = "Ooh, a glowstick miracle!"
+
+[pickup]
+
+[cost]
+gold = 20
+pixels = 10
+credits = 2
+stardust = 1
+essence = 17
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "stardust.activeitem"
+rdir = "/items/active/alta/glowsticks"
+rpath = "/items/active/alta/glowsticks/stardust.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/glowsticks"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/glowsticks/stardust.activeitem"
+link = "[`/items/active/alta/glowsticks/stardust.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/glowsticks/stardust.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Stardust-Glowstick.toml"
+rdir = "/items"
+rpath = "/items/Stardust-Glowstick.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Stardust-Glowstick.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/stardust.png) [Stardust Glowstick](/MyEnternia/assets/items/Stardust-Glowstick.toml)"
+
+[wiki]
+ext = "md"
+name = "Stardust-Glowstick.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Stardust-Glowstick.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Stardust-Glowstick.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/stardust.png) [Stardust Glowstick](/MyEnternia/Wiki/items/throwable/Stardust-Glowstick)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

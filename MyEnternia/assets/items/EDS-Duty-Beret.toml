@@ -1,0 +1,78 @@
+id = "ct_eds_beret"
+base = "item"
+cat = "head_clothing"
+type = "headwear"
+tags = [ "eds", "head_clothing", "headwear", "patriotic", "tier5clothing",]
+name = "EDS Duty Beret"
+lore = "Decorative on-duty ^#b0e0fc;alta^reset; ^#f02020;EDS^reset; headwear."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png)"
+
+[inspect]
+
+[pickup]
+ct_eds_msg = "The item you've just picked up seems to have visual EDS markings on it. ^#f02020;EDS^reset; is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  \nUnfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities."
+
+[cost]
+gold = 1280
+pixels = 640
+credits = 128
+stardust = 80
+essence = 1120
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_eds_beret.head"
+rdir = "/items/armors/alta/other/eds_beret"
+rpath = "/items/armors/alta/other/eds_beret/ct_eds_beret.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/eds_beret"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/eds_beret/ct_eds_beret.head"
+link = "[`/items/armors/alta/other/eds_beret/ct_eds_beret.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/eds_beret/ct_eds_beret.head)"
+
+[assets]
+ext = "toml"
+name = "EDS-Duty-Beret.toml"
+rdir = "/items"
+rpath = "/items/EDS-Duty-Beret.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/EDS-Duty-Beret.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png) [EDS Duty Beret](/MyEnternia/assets/items/EDS-Duty-Beret.toml)"
+
+[wiki]
+ext = "md"
+name = "EDS-Duty-Beret.md"
+rdir = "/items/head_clothing"
+rpath = "/items/head_clothing/EDS-Duty-Beret.md"
+fdir = "/MyEnternia/Wiki/items/head_clothing"
+fpath = "/MyEnternia/Wiki/items/head_clothing/EDS-Duty-Beret.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png) [EDS Duty Beret](/MyEnternia/Wiki/items/head_clothing/EDS-Duty-Beret)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

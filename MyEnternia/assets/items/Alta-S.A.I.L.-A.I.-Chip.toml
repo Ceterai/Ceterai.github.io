@@ -1,0 +1,79 @@
+id = "ct_alta_sail_ai_chip"
+base = "item"
+cat = "ai"
+type = "data_source"
+tags = [ "ai", "data_source",]
+name = "Alta S.A.I.L. A.I. Chip"
+lore = "An alta S.A.I.L. interface chip. ^gray;With Customizable A.I.: Can be installed on S.A.I.L.'s terminal. Visuals only.^reset;"
+long = "This A.I. chip is constructed by interplanetary standards, though its software is purely alta-native, meaning it performs similar to a datamass."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_sail_ai_chip.png)"
+
+[inspect]
+alta = "A ship-specific chip that's meant to be compatible with non-alta ships."
+
+[pickup]
+
+[cost]
+gold = 1080
+pixels = 540
+credits = 144
+stardust = 90
+essence = 990
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "item"
+name = "ct_alta_sail_ai_chip.item"
+rdir = "/items/aichips"
+rpath = "/items/aichips/ct_alta_sail_ai_chip.item"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/aichips"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/aichips/ct_alta_sail_ai_chip.item"
+link = "[`/items/aichips/ct_alta_sail_ai_chip.item`](https://github.com/Ceterai/Enternia/blob/main/items/aichips/ct_alta_sail_ai_chip.item)"
+
+[assets]
+ext = "toml"
+name = "Alta-S.A.I.L.-A.I.-Chip.toml"
+rdir = "/items"
+rpath = "/items/Alta-S.A.I.L.-A.I.-Chip.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Alta-S.A.I.L.-A.I.-Chip.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_sail_ai_chip.png) [Alta S.A.I.L. A.I. Chip](/MyEnternia/assets/items/Alta-S.A.I.L.-A.I.-Chip.toml)"
+
+[wiki]
+ext = "md"
+name = "Alta-S.A.I.L.-A.I.-Chip.md"
+rdir = "/items/ai"
+rpath = "/items/ai/Alta-S.A.I.L.-A.I.-Chip.md"
+fdir = "/MyEnternia/Wiki/items/ai"
+fpath = "/MyEnternia/Wiki/items/ai/Alta-S.A.I.L.-A.I.-Chip.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_sail_ai_chip.png) [Alta S.A.I.L. A.I. Chip](/MyEnternia/Wiki/items/ai/Alta-S.A.I.L.-A.I.-Chip)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

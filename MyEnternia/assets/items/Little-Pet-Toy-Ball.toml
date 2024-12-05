@@ -1,0 +1,77 @@
+id = "ct_alta_toy_pet_ball"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "throwable",]
+name = "Little Pet Toy Ball"
+lore = "I'd bet my pet would love playing with this."
+species = "generic"
+level = 1
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_pet_ball.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 32
+stardust = 20
+essence = 240
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_alta_toy_pet_ball.thrownitem"
+rdir = "/items/throwables/toys"
+rpath = "/items/throwables/toys/ct_alta_toy_pet_ball.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/toys"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/toys/ct_alta_toy_pet_ball.thrownitem"
+link = "[`/items/throwables/toys/ct_alta_toy_pet_ball.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/toys/ct_alta_toy_pet_ball.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Little-Pet-Toy-Ball.toml"
+rdir = "/items"
+rpath = "/items/Little-Pet-Toy-Ball.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Little-Pet-Toy-Ball.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_pet_ball.png) [Little Pet Toy Ball](/MyEnternia/assets/items/Little-Pet-Toy-Ball.toml)"
+
+[wiki]
+ext = "md"
+name = "Little-Pet-Toy-Ball.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Little-Pet-Toy-Ball.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Little-Pet-Toy-Ball.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_pet_ball.png) [Little Pet Toy Ball](/MyEnternia/Wiki/items/throwable/Little-Pet-Toy-Ball)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

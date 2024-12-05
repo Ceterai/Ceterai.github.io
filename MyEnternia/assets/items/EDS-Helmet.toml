@@ -1,0 +1,80 @@
+id = "ct_eds_helmet"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "eds", "head_armor", "headarmour", "tier5armour",]
+name = "EDS Helmet"
+lore = "An advanced headwear upgrade for ^#f02020;EDS^reset; security units."
+long = "This cap-like metal headwear is supplied with a standardized ^#f02020;EDS visor^reset; module in place."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png)"
+
+[inspect]
+alta = "This helmet kinda looks like it has a cap."
+
+[pickup]
+ct_eds_msg = "The item you've just picked up seems to have visual EDS markings on it. ^#f02020;EDS^reset; is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  \nUnfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities."
+
+[cost]
+gold = 6000
+pixels = 3000
+credits = 800
+stardust = 500
+essence = 5500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_eds_helmet.head"
+rdir = "/items/armors/alta/tier5/eds/helmet"
+rpath = "/items/armors/alta/tier5/eds/helmet/ct_eds_helmet.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/eds/helmet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/eds/helmet/ct_eds_helmet.head"
+link = "[`/items/armors/alta/tier5/eds/helmet/ct_eds_helmet.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/eds/helmet/ct_eds_helmet.head)"
+
+[assets]
+ext = "toml"
+name = "EDS-Helmet.toml"
+rdir = "/items"
+rpath = "/items/EDS-Helmet.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/EDS-Helmet.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png) [EDS Helmet](/MyEnternia/assets/items/EDS-Helmet.toml)"
+
+[wiki]
+ext = "md"
+name = "EDS-Helmet.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/EDS-Helmet.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/EDS-Helmet.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png) [EDS Helmet](/MyEnternia/Wiki/items/head_armor/EDS-Helmet)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

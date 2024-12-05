@@ -1,0 +1,85 @@
+id = "ct_lifespring-lifesapling"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dish", "yaara", "yava_cuisine",]
+name = "Lifesapling"
+lore = "The alto koywa merged perfectly with yaara roots, making it even more fulfilling."
+long = "Popular in elin gardens, this dish is used as a general snack newly-born altas can munch on while waiting in their flower beds for a caretaker."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png)"
+
+[inspect]
+alta = "It has a slight tingyness to it that is hard to forget and make it pretty easy to distinquish from other lifespring variations."
+
+[pickup]
+
+[cost]
+gold = 1280
+pixels = 640
+credits = 128
+stardust = 80
+essence = 1120
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_lifespring"
+name = "Lifespring"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png) [Lifespring](/MyEnternia/assets/items/Lifespring.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_lifespring.consumable"
+rdir = "/items/generic/food/tier1"
+rpath = "/items/generic/food/tier1/ct_lifespring.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_lifespring.consumable"
+link = "[`/items/generic/food/tier1/ct_lifespring.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_lifespring.consumable)"
+
+[assets]
+ext = "toml"
+name = "Lifesapling.toml"
+rdir = "/items"
+rpath = "/items/Lifesapling.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Lifesapling.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png) [Lifesapling](/MyEnternia/assets/items/Lifesapling.toml)"
+
+[wiki]
+ext = "md"
+name = "Lifespring.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Lifespring.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Lifespring.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png) [Lifespring](/MyEnternia/Wiki/items/dish/Lifespring)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Yaara Spring"]

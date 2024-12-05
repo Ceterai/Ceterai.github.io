@@ -1,0 +1,85 @@
+id = "ct_crystal_cookies-candy"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "calin_cuisine", "cookies", "cooking", "dessert", "dish",]
+name = "Candy Cookies"
+lore = "A perfect amount of crystals creates a perfect candy-like substance! So are these cookies or candy?"
+long = "Technically speaking, these are candies, since the koywa dough is no longer used in the recipe, but the texture tends to say otherwise, prompting the confusion."
+species = "alta"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png)"
+
+[inspect]
+alta = "I personally believe that these are nuts. They have a shell in form of candy and a seed in for of jam. No, I don't take critisisms of my theory."
+
+[pickup]
+
+[cost]
+gold = 3220
+pixels = 1610
+credits = 432
+stardust = 270
+essence = 2790
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_crystal_cookies"
+name = "Crystal Cookies"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png) [Crystal Cookies](/MyEnternia/assets/items/Crystal-Cookies.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_crystal_cookies.consumable"
+rdir = "/items/generic/food/tier2"
+rpath = "/items/generic/food/tier2/ct_crystal_cookies.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_crystal_cookies.consumable"
+link = "[`/items/generic/food/tier2/ct_crystal_cookies.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_crystal_cookies.consumable)"
+
+[assets]
+ext = "toml"
+name = "Candy-Cookies.toml"
+rdir = "/items"
+rpath = "/items/Candy-Cookies.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Candy-Cookies.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png) [Candy Cookies](/MyEnternia/assets/items/Candy-Cookies.toml)"
+
+[wiki]
+ext = "md"
+name = "Crystal-Cookies.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Crystal-Cookies.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Crystal-Cookies.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png) [Crystal Cookies](/MyEnternia/Wiki/items/dish/Crystal-Cookies)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

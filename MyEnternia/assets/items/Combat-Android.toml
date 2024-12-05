@@ -1,0 +1,82 @@
+id = "ct_combat_android"
+base = "item"
+cat = "android_deployer"
+type = "robotics"
+tags = [ "android", "android_deployer", "combat", "robotics", "spawner", "throwable",]
+name = "Combat Android"
+species = "alta"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/combat.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 1480
+pixels = 740
+credits = 212
+stardust = 132
+essence = 1320
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "combat.activeitem"
+rdir = "/items/active/alta/spawners/androids"
+rpath = "/items/active/alta/spawners/androids/combat.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids/combat.activeitem"
+link = "[`/items/active/alta/spawners/androids/combat.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids/combat.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Combat-Android.toml"
+rdir = "/items"
+rpath = "/items/Combat-Android.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Combat-Android.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/combat.png) [Combat Android](/MyEnternia/assets/items/Combat-Android.toml)"
+
+[wiki]
+ext = "md"
+name = "Combat-Android.md"
+rdir = "/items/android_deployer"
+rpath = "/items/android_deployer/Combat-Android.md"
+fdir = "/MyEnternia/Wiki/items/android_deployer"
+fpath = "/MyEnternia/Wiki/items/android_deployer/Combat-Android.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/combat.png) [Combat Android](/MyEnternia/Wiki/items/android_deployer/Combat-Android)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[stats.spawner]
+entities = [ "ct_combat_android",]
+
+[stats.spawner.stats]
+persistent = false
+
+[stats.spawner.stats.damageTeam]

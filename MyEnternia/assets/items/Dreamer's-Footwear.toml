@@ -1,0 +1,78 @@
+id = "ct_dreamer_legwear"
+base = "item"
+cat = "legs_armor"
+type = "legarmour"
+tags = [ "dreamer", "legarmour", "legs_armor", "tier6armour",]
+name = "Dreamer's Footwear"
+lore = "This energy legwear refills your energy when you loose your health."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/legwear/icon.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_legs_armor_msg = "You've got a hold of a level ^#8020f0;6+^reset; alta legs armor piece. Among usual protection and a special effect, these usually have in-built proto-enhancers, increasing knockback threshold by 3 and decreasing falldamage by 15%."
+
+[cost]
+gold = 4900
+pixels = 2450
+credits = 700
+stardust = 437
+essence = 4550
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "legs"
+name = "ct_dreamer_legwear.legs"
+rdir = "/items/armors/alta/tier6/dreamer/legwear"
+rpath = "/items/armors/alta/tier6/dreamer/legwear/ct_dreamer_legwear.legs"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/dreamer/legwear"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/dreamer/legwear/ct_dreamer_legwear.legs"
+link = "[`/items/armors/alta/tier6/dreamer/legwear/ct_dreamer_legwear.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/dreamer/legwear/ct_dreamer_legwear.legs)"
+
+[assets]
+ext = "toml"
+name = "Dreamer's-Footwear.toml"
+rdir = "/items"
+rpath = "/items/Dreamer's-Footwear.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Dreamer's-Footwear.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/legwear/icon.png) [Dreamer's Footwear](/MyEnternia/assets/items/Dreamer's-Footwear.toml)"
+
+[wiki]
+ext = "md"
+name = "Dreamer's-Footwear.md"
+rdir = "/items/legs_armor"
+rpath = "/items/legs_armor/Dreamer's-Footwear.md"
+fdir = "/MyEnternia/Wiki/items/legs_armor"
+fpath = "/MyEnternia/Wiki/items/legs_armor/Dreamer's-Footwear.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/legwear/icon.png) [Dreamer's Footwear](/MyEnternia/Wiki/items/legs_armor/Dreamer's-Footwear)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

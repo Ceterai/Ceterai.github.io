@@ -1,0 +1,78 @@
+id = "ct_elite_protector"
+base = "item"
+cat = "back_armor"
+type = "enviroProtectionPack"
+tags = [ "back_armor", "elite", "enviroprotectionpack", "tier6armour",]
+name = "Elite Protector"
+lore = "Automatically applies a static shield whenever HP is down to 20%. Provides a life support system. Has an augment slot."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_back_armor_msg = "You've got a hold of a level ^#8020f0;6+^reset; alta back armor piece. Aside from providing special effects, these usually have an augment slot, allowing you to enhance them with an augment of your choice."
+
+[cost]
+gold = 4480
+pixels = 2240
+credits = 640
+stardust = 400
+essence = 4160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "back"
+name = "ct_elite_protector.back"
+rdir = "/items/armors/alta/tier6/elite/protector"
+rpath = "/items/armors/alta/tier6/elite/protector/ct_elite_protector.back"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/elite/protector"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/elite/protector/ct_elite_protector.back"
+link = "[`/items/armors/alta/tier6/elite/protector/ct_elite_protector.back`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/elite/protector/ct_elite_protector.back)"
+
+[assets]
+ext = "toml"
+name = "Elite-Protector.toml"
+rdir = "/items"
+rpath = "/items/Elite-Protector.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Elite-Protector.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png) [Elite Protector](/MyEnternia/assets/items/Elite-Protector.toml)"
+
+[wiki]
+ext = "md"
+name = "Elite-Protector.md"
+rdir = "/items/back_armor"
+rpath = "/items/back_armor/Elite-Protector.md"
+fdir = "/MyEnternia/Wiki/items/back_armor"
+fpath = "/MyEnternia/Wiki/items/back_armor/Elite-Protector.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png) [Elite Protector](/MyEnternia/Wiki/items/back_armor/Elite-Protector)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Elite Alta Protector"]

@@ -1,0 +1,77 @@
+id = "ct_arco_protector"
+base = "item"
+cat = "back_clothing"
+type = "backwear"
+tags = [ "arco", "back_clothing", "backwear", "tier5armour",]
+name = "Enviroprotector"
+lore = "Provides life support and enhanced protection."
+species = "alta"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/protector/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 3960
+pixels = 1980
+credits = 572
+stardust = 357
+essence = 3520
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "back"
+name = "ct_arco_protector.back"
+rdir = "/items/armors/alta/tier5/arco/protector"
+rpath = "/items/armors/alta/tier5/arco/protector/ct_arco_protector.back"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/protector"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/protector/ct_arco_protector.back"
+link = "[`/items/armors/alta/tier5/arco/protector/ct_arco_protector.back`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/protector/ct_arco_protector.back)"
+
+[assets]
+ext = "toml"
+name = "Enviroprotector.toml"
+rdir = "/items"
+rpath = "/items/Enviroprotector.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Enviroprotector.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/protector/icon.png) [Enviroprotector](/MyEnternia/assets/items/Enviroprotector.toml)"
+
+[wiki]
+ext = "md"
+name = "Enviroprotector.md"
+rdir = "/items/back_clothing"
+rpath = "/items/back_clothing/Enviroprotector.md"
+fdir = "/MyEnternia/Wiki/items/back_clothing"
+fpath = "/MyEnternia/Wiki/items/back_clothing/Enviroprotector.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/protector/icon.png) [Enviroprotector](/MyEnternia/Wiki/items/back_clothing/Enviroprotector)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

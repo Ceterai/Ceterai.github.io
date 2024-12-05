@@ -1,0 +1,77 @@
+id = "ct_alta_security_droid_back"
+base = "item"
+cat = "back_clothing"
+type = "backwear"
+tags = [ "alta_security", "back_clothing", "backwear", "robotics", "tier4armour",]
+name = "Security Droid Powermod"
+lore = "A standard protocol power module of an ^#b0e0fc;alta^reset; security droid."
+species = "alta"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 3320
+pixels = 1660
+credits = 444
+stardust = 277
+essence = 2880
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "back"
+name = "ct_alta_security_droid_back.back"
+rdir = "/items/armors/alta/tier4/security/droid_back"
+rpath = "/items/armors/alta/tier4/security/droid_back/ct_alta_security_droid_back.back"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/security/droid_back"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/security/droid_back/ct_alta_security_droid_back.back"
+link = "[`/items/armors/alta/tier4/security/droid_back/ct_alta_security_droid_back.back`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/security/droid_back/ct_alta_security_droid_back.back)"
+
+[assets]
+ext = "toml"
+name = "Security-Droid-Powermod.toml"
+rdir = "/items"
+rpath = "/items/Security-Droid-Powermod.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Security-Droid-Powermod.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png) [Security Droid Powermod](/MyEnternia/assets/items/Security-Droid-Powermod.toml)"
+
+[wiki]
+ext = "md"
+name = "Security-Droid-Powermod.md"
+rdir = "/items/back_clothing"
+rpath = "/items/back_clothing/Security-Droid-Powermod.md"
+fdir = "/MyEnternia/Wiki/items/back_clothing"
+fpath = "/MyEnternia/Wiki/items/back_clothing/Security-Droid-Powermod.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png) [Security Droid Powermod](/MyEnternia/Wiki/items/back_clothing/Security-Droid-Powermod)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

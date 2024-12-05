@@ -1,0 +1,89 @@
+id = "ct_strizychar_egg"
+base = "item"
+cat = "monster_egg"
+type = "egg"
+tags = [ "egg", "monster_egg", "spawner", "throwable",]
+name = "Strizychar Egg"
+lore = "Can be used to spawn a bug called ^#b0e0fc;strizychar^reset;, a koywa-loving horned butterfly with a prolonged body."
+long = "These \"eggs\" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner."
+species = "generic"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_strizychar_egg.png)"
+
+[inspect]
+alta = "Does it use its prolonged body to balance itself out? Very... creative?"
+
+[pickup]
+
+[cost]
+gold = 1000
+pixels = 500
+credits = 120
+stardust = 75
+essence = 900
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_strizychar_egg.activeitem"
+rdir = "/items/active/alta/spawners/bugs"
+rpath = "/items/active/alta/spawners/bugs/ct_strizychar_egg.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/bugs"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/bugs/ct_strizychar_egg.activeitem"
+link = "[`/items/active/alta/spawners/bugs/ct_strizychar_egg.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/bugs/ct_strizychar_egg.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Strizychar-Egg.toml"
+rdir = "/items"
+rpath = "/items/Strizychar-Egg.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Strizychar-Egg.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_strizychar_egg.png) [Strizychar Egg](/MyEnternia/assets/items/Strizychar-Egg.toml)"
+
+[wiki]
+ext = "md"
+name = "Strizychar-Egg.md"
+rdir = "/items/monster_egg"
+rpath = "/items/monster_egg/Strizychar-Egg.md"
+fdir = "/MyEnternia/Wiki/items/monster_egg"
+fpath = "/MyEnternia/Wiki/items/monster_egg/Strizychar-Egg.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_strizychar_egg.png) [Strizychar Egg](/MyEnternia/Wiki/items/monster_egg/Strizychar-Egg)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.passive]
+name = "Small Bean"
+lore = "This small critter or bug can be caught with a bug net and put in a bottle."
+long = "This will turn them into a collectable item valued by many collectionists, one of which could be yourself."
+
+[stats.spawner]
+entities = [ "ct_strizychar",]
+
+[abilities.passive.stats]
+
+[stats.spawner.stats.damageTeam]
+team = 1
+type = "passive"

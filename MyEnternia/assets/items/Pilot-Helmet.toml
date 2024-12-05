@@ -1,0 +1,77 @@
+id = "ct_alta_pilot_helmet"
+base = "item"
+cat = "head_clothing"
+type = "headwear"
+tags = [ "alta_ship", "head_clothing", "headwear", "tier6clothing",]
+name = "Pilot Helmet"
+lore = "Developed by Tserera, this device provides visual analysis right to your eyes!"
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/pilot_helmet/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 2240
+pixels = 1120
+credits = 320
+stardust = 200
+essence = 2080
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_alta_pilot_helmet.head"
+rdir = "/items/armors/alta/other/pilot_helmet"
+rpath = "/items/armors/alta/other/pilot_helmet/ct_alta_pilot_helmet.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/pilot_helmet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/pilot_helmet/ct_alta_pilot_helmet.head"
+link = "[`/items/armors/alta/other/pilot_helmet/ct_alta_pilot_helmet.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/pilot_helmet/ct_alta_pilot_helmet.head)"
+
+[assets]
+ext = "toml"
+name = "Pilot-Helmet.toml"
+rdir = "/items"
+rpath = "/items/Pilot-Helmet.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Pilot-Helmet.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/pilot_helmet/icon.png) [Pilot Helmet](/MyEnternia/assets/items/Pilot-Helmet.toml)"
+
+[wiki]
+ext = "md"
+name = "Pilot-Helmet.md"
+rdir = "/items/head_clothing"
+rpath = "/items/head_clothing/Pilot-Helmet.md"
+fdir = "/MyEnternia/Wiki/items/head_clothing"
+fpath = "/MyEnternia/Wiki/items/head_clothing/Pilot-Helmet.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/pilot_helmet/icon.png) [Pilot Helmet](/MyEnternia/Wiki/items/head_clothing/Pilot-Helmet)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

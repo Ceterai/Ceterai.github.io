@@ -1,0 +1,79 @@
+id = "ct_arco_legwear"
+base = "item"
+cat = "legs_armor"
+type = "legarmour"
+tags = [ "arco", "legarmour", "legs_armor", "tier5armour",]
+name = "Enviroleggings"
+lore = "A great balance between armor and hazard protection."
+long = "These leggings include multiple layers of high quality materials to ensure heat retention, electric isolation and poison blocks."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png)"
+
+[inspect]
+alta = "You could walk through fire in these easily."
+
+[pickup]
+
+[cost]
+gold = 4200
+pixels = 2100
+credits = 560
+stardust = 350
+essence = 3850
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "legs"
+name = "ct_arco_legwear.legs"
+rdir = "/items/armors/alta/tier5/arco/legwear"
+rpath = "/items/armors/alta/tier5/arco/legwear/ct_arco_legwear.legs"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/legwear"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/legwear/ct_arco_legwear.legs"
+link = "[`/items/armors/alta/tier5/arco/legwear/ct_arco_legwear.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/legwear/ct_arco_legwear.legs)"
+
+[assets]
+ext = "toml"
+name = "Enviroleggings.toml"
+rdir = "/items"
+rpath = "/items/Enviroleggings.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Enviroleggings.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png) [Enviroleggings](/MyEnternia/assets/items/Enviroleggings.toml)"
+
+[wiki]
+ext = "md"
+name = "Enviroleggings.md"
+rdir = "/items/legs_armor"
+rpath = "/items/legs_armor/Enviroleggings.md"
+fdir = "/MyEnternia/Wiki/items/legs_armor"
+fpath = "/MyEnternia/Wiki/items/legs_armor/Enviroleggings.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png) [Enviroleggings](/MyEnternia/Wiki/items/legs_armor/Enviroleggings)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,90 @@
+id = "ct_alliana_cake"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cake", "cooking", "dessert", "dish", "runeva_cuisine",]
+name = "Alliana Cake"
+lore = "This delicious cake is named after the first and the biggest ^#b0e0fc;alta^reset; capital and its empress."
+long = "The layers are mostly souffle-based with soft, wet sweet aya dough as foundation."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png)"
+
+[inspect]
+alta = "A deliciousness you would by for something like a love party!"
+
+[pickup]
+
+[cost]
+gold = 8400
+pixels = 4200
+credits = 1200
+stardust = 750
+essence = 7800
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_alliana_cake-orchid"
+name = "Orchid Cake"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png) [Orchid Cake](/MyEnternia/assets/items/Orchid-Cake.toml)"
+value = 0.3
+
+[[upgrades.cooking]]
+id = "ct_alliana_cake-love"
+name = "Alliana's Love"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png) [Alliana's Love](/MyEnternia/assets/items/Alliana's-Love.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_alliana_cake.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_alliana_cake.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_alliana_cake.consumable"
+link = "[`/items/generic/food/tier4/ct_alliana_cake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_alliana_cake.consumable)"
+
+[assets]
+ext = "toml"
+name = "Alliana-Cake.toml"
+rdir = "/items"
+rpath = "/items/Alliana-Cake.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Alliana-Cake.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png) [Alliana Cake](/MyEnternia/assets/items/Alliana-Cake.toml)"
+
+[wiki]
+ext = "md"
+name = "Alliana-Cake.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Alliana-Cake.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Alliana-Cake.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png) [Alliana Cake](/MyEnternia/Wiki/items/dish/Alliana-Cake)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

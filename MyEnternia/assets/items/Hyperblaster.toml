@@ -1,0 +1,89 @@
+id = "ct_pulsecutter-upgrade"
+base = "item"
+cat = "pistol"
+type = "pistol"
+tags = [ "impulse", "pistol", "ranged", "weapon", "wrist",]
+name = "Hyperblaster"
+lore = "This cutting tool has been upgraded to a full-on automatic blaster that uses ^#ffa8e8;stardust^reset; energy for its pulses.\nNow with a laser pointer."
+species = "alta"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_pulsecutter"
+name = "Pulsecutter"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png) [Pulsecutter](/MyEnternia/assets/items/Pulsecutter.toml)"
+value = 0.1
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_pulsecutter.activeitem"
+rdir = "/items/active/weapons/ranged/alta/wrist"
+rpath = "/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/wrist"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.activeitem"
+link = "[`/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Hyperblaster.toml"
+rdir = "/items"
+rpath = "/items/Hyperblaster.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Hyperblaster.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png) [Hyperblaster](/MyEnternia/assets/items/Hyperblaster.toml)"
+
+[wiki]
+ext = "md"
+name = "Pulsecutter.md"
+rdir = "/items/pistol"
+rpath = "/items/pistol/Pulsecutter.md"
+fdir = "/MyEnternia/Wiki/items/pistol"
+fpath = "/MyEnternia/Wiki/items/pistol/Pulsecutter.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png) [Pulsecutter](/MyEnternia/Wiki/items/pistol/Pulsecutter)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Rapid Minicharges"
+lore = "Enhanced pulses with higher damage output."
+
+[abilities.primary.stats]

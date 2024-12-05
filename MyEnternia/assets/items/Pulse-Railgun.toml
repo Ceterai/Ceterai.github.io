@@ -1,0 +1,132 @@
+id = "ct_alta_impulse_rifle_mk2-upgrade"
+base = "item"
+cat = "ar"
+type = "assaultRifle"
+tags = [ "ar", "assaultrifle", "assaultrifle", "impulse", "ranged", "weapon",]
+name = "Pulse Railgun"
+lore = "An already improved ^#20f080;impulse^reset; rifle with additional ^#ffa8e8;stardust^reset; enhancements."
+long = "Powerful rail technology turns piece of work into a tool of electric destruction."
+species = "alta"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png)"
+
+[inspect]
+alta = "A real railgun! Neat!"
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_alta_impulse_rifle_mk2"
+name = "Impulse Rifle NG4-2"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.png) [Impulse Rifle NG4-2](/MyEnternia/assets/items/Impulse-Rifle-NG4-2.toml)"
+value = 0.1
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_alta_impulse_rifle_mk2.activeitem"
+rdir = "/items/active/weapons/ranged/alta/rifle"
+rpath = "/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.activeitem"
+link = "[`/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Pulse-Railgun.toml"
+rdir = "/items"
+rpath = "/items/Pulse-Railgun.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Pulse-Railgun.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png) [Pulse Railgun](/MyEnternia/assets/items/Pulse-Railgun.toml)"
+
+[wiki]
+ext = "md"
+name = "Impulse-Rifle-NG4-2.md"
+rdir = "/items/ar"
+rpath = "/items/ar/Impulse-Rifle-NG4-2.md"
+fdir = "/MyEnternia/Wiki/items/ar"
+fpath = "/MyEnternia/Wiki/items/ar/Impulse-Rifle-NG4-2.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.png) [Impulse Rifle NG4-2](/MyEnternia/Wiki/items/ar/Impulse-Rifle-NG4-2)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Impulse Blast"
+lore = "An improved core allows for optimized energy manipulation.\nFiremodes: charge, semiauto, single."
+
+[abilities.secondary]
+name = "Security Switch Mk2"
+lore = "Adapted tool body offers more options.\nPress - change attachments: none, laser, stabilizer (x1.25 dmg);\nHold - change firemodes."
+
+[abilities.primary.stats]
+baseDps = 8
+energyUsage = 32
+fireTime = 0.8
+
+[abilities.secondary.stats]
+fireTypes = [ "charge", "semi", "single",]
+attachments = [ "none", "laser", "stabilizer",]
+
+[abilities.primary.stats.fireTypes.charge]
+pressType = "blast"
+holdType = "blast"
+
+[abilities.primary.stats.fireTypes.semi]
+pressType = "semi"
+holdTimeMax = 0
+
+[abilities.primary.stats.fireTypes.single]
+pressType = "blast"
+holdTimeMax = 0
+
+[abilities.primary.stats.fireTypes.charge.pressParams]
+type = "ct_impulse_medium"
+inaccuracy = 0.005
+
+[abilities.primary.stats.fireTypes.charge.holdParams]
+type = "ct_impulse_large"
+inaccuracy = 0.005
+
+[abilities.primary.stats.fireTypes.semi.pressParams]
+type = "ct_impulse_medium"
+count = 3
+interval = 0.1
+inaccuracy = 0.005
+
+[abilities.primary.stats.fireTypes.single.pressParams]
+type = "ct_impulse_medium"
+inaccuracy = 0.005

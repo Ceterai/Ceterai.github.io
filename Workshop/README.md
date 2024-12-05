@@ -51,6 +51,7 @@ layout: posts
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2128333589" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/2536171416463294969/3CA6114A773A62FDF8E860DAB014254716F40AEE/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 160px; width: 160px; border-radius: 1px;"></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2124444255" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/2536171416463300133/8443369CC5B6F24C9E9E9AEA7780E0DE1B57F79C/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 160px; width: 160px; border-radius: 1px;"></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2020613420" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/2536171416463291215/9CD4A4ACB9719BD90C81F36A44E9ACD970D360CE/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 160px; width: 160px; border-radius: 1px;"></a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3371660558" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/35560869620872028/92D2A81F11964C063DCD5B6F952CFC8F0B2A99B5/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true); height: 200px; border-radius: 1px;"></a>
 </div>
 
 ## [Clone Drone In The Danger Zone](CDDZ)

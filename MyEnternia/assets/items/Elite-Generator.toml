@@ -1,0 +1,80 @@
+id = "ct_elite_generator"
+base = "item"
+cat = "back_armor"
+type = "enviroProtectionPack"
+tags = [ "back_armor", "elite", "enviroprotectionpack", "patriotic", "tier6armour",]
+name = "Elite Generator"
+lore = "Generates ^#b0e0fc;alta^reset; Imperial Aura, providing the wearer with its benefits. Provides a life support system. Has an augment slot."
+long = "To provide enough energy to power the entire range with its aura, the generator uses multiple energy cores in its blueprint."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png)"
+
+[inspect]
+alta = "I can feel safer under the frotective aura of this thing."
+
+[pickup]
+ct_alta_back_armor_msg = "You've got a hold of a level ^#8020f0;6+^reset; alta back armor piece. Aside from providing special effects, these usually have an augment slot, allowing you to enhance them with an augment of your choice."
+
+[cost]
+gold = 4600
+pixels = 2300
+credits = 700
+stardust = 437
+essence = 4160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "back"
+name = "ct_elite_generator.back"
+rdir = "/items/armors/alta/tier6/elite/generator"
+rpath = "/items/armors/alta/tier6/elite/generator/ct_elite_generator.back"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/elite/generator"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/elite/generator/ct_elite_generator.back"
+link = "[`/items/armors/alta/tier6/elite/generator/ct_elite_generator.back`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/elite/generator/ct_elite_generator.back)"
+
+[assets]
+ext = "toml"
+name = "Elite-Generator.toml"
+rdir = "/items"
+rpath = "/items/Elite-Generator.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Elite-Generator.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png) [Elite Generator](/MyEnternia/assets/items/Elite-Generator.toml)"
+
+[wiki]
+ext = "md"
+name = "Elite-Generator.md"
+rdir = "/items/back_armor"
+rpath = "/items/back_armor/Elite-Generator.md"
+fdir = "/MyEnternia/Wiki/items/back_armor"
+fpath = "/MyEnternia/Wiki/items/back_armor/Elite-Generator.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png) [Elite Generator](/MyEnternia/Wiki/items/back_armor/Elite-Generator)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

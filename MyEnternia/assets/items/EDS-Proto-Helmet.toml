@@ -1,0 +1,78 @@
+id = "ct_eds_proto_helmet"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "eds", "head_armor", "headarmour", "tier5armour",]
+name = "EDS Proto Helmet"
+lore = "A heavy ^#f02020;EDS^reset; headwear with enhanced power, protection and breath protection in exchange for energy."
+species = "alta"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/proto_helmet/icon.png)"
+
+[inspect]
+
+[pickup]
+ct_eds_msg = "The item you've just picked up seems to have visual EDS markings on it. ^#f02020;EDS^reset; is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  \nUnfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities."
+
+[cost]
+gold = 6200
+pixels = 3100
+credits = 900
+stardust = 562
+essence = 5500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_eds_proto_helmet.head"
+rdir = "/items/armors/alta/tier5/eds/proto_helmet"
+rpath = "/items/armors/alta/tier5/eds/proto_helmet/ct_eds_proto_helmet.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/eds/proto_helmet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/eds/proto_helmet/ct_eds_proto_helmet.head"
+link = "[`/items/armors/alta/tier5/eds/proto_helmet/ct_eds_proto_helmet.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/eds/proto_helmet/ct_eds_proto_helmet.head)"
+
+[assets]
+ext = "toml"
+name = "EDS-Proto-Helmet.toml"
+rdir = "/items"
+rpath = "/items/EDS-Proto-Helmet.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/EDS-Proto-Helmet.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/proto_helmet/icon.png) [EDS Proto Helmet](/MyEnternia/assets/items/EDS-Proto-Helmet.toml)"
+
+[wiki]
+ext = "md"
+name = "EDS-Proto-Helmet.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/EDS-Proto-Helmet.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/EDS-Proto-Helmet.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/proto_helmet/icon.png) [EDS Proto Helmet](/MyEnternia/Wiki/items/head_armor/EDS-Proto-Helmet)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

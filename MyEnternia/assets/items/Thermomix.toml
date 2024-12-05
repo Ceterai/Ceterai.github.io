@@ -1,0 +1,79 @@
+id = "ct_thermomix_nade"
+base = "item"
+cat = "throwable"
+type = "nade"
+tags = [ "nade", "throwable",]
+name = "Thermomix"
+lore = "A highly flammable substance made with volatile powder contained in a blast device."
+long = "This nade is classified as harmful by the blast equipment alta CEN, and yet it's made specifically to not be immediately lethal to altas. There are limits to everything, obviously."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png)"
+
+[inspect]
+alta = "A gaush frag that can light things it touches up. Fire is dangerous, so this shouldn't be used unless necessary and authorized for a certain process."
+
+[pickup]
+
+[cost]
+gold = 160
+pixels = 80
+credits = 16
+stardust = 10
+essence = 140
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_thermomix_nade.thrownitem"
+rdir = "/items/throwables"
+rpath = "/items/throwables/ct_thermomix_nade.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_thermomix_nade.thrownitem"
+link = "[`/items/throwables/ct_thermomix_nade.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_thermomix_nade.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Thermomix.toml"
+rdir = "/items"
+rpath = "/items/Thermomix.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Thermomix.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png) [Thermomix](/MyEnternia/assets/items/Thermomix.toml)"
+
+[wiki]
+ext = "md"
+name = "Thermomix.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Thermomix.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Thermomix.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png) [Thermomix](/MyEnternia/Wiki/items/throwable/Thermomix)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

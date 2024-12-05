@@ -1,0 +1,118 @@
+id = "ct_alta_impulse_rifle-upgrade"
+base = "item"
+cat = "ar"
+type = "assaultRifle"
+tags = [ "ar", "assaultrifle", "assaultrifle", "impulse", "ranged", "weapon",]
+name = "Impulse Rifle NG4X"
+lore = "An NG4 with added laser pointer and scope, as well as increased firerate and precision due to the use of ^#ffa8e8;stardust^reset; energy."
+long = "This long-range high-precision energy instrument can generate long-lasting impulses, able to travel without losing height."
+species = "alta"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_2.png)"
+
+[inspect]
+alta = "I don't think I've ever seen this model before. I assume it's custom made."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_alta_impulse_rifle"
+name = "Impulse Rifle NG4"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png) [Impulse Rifle NG4](/MyEnternia/assets/items/Impulse-Rifle-NG4.toml)"
+value = 0.1
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_alta_impulse_rifle.activeitem"
+rdir = "/items/active/weapons/ranged/alta/rifle"
+rpath = "/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.activeitem"
+link = "[`/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Impulse-Rifle-NG4X.toml"
+rdir = "/items"
+rpath = "/items/Impulse-Rifle-NG4X.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Impulse-Rifle-NG4X.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_2.png) [Impulse Rifle NG4X](/MyEnternia/assets/items/Impulse-Rifle-NG4X.toml)"
+
+[wiki]
+ext = "md"
+name = "Impulse-Rifle-NG4.md"
+rdir = "/items/ar"
+rpath = "/items/ar/Impulse-Rifle-NG4.md"
+fdir = "/MyEnternia/Wiki/items/ar"
+fpath = "/MyEnternia/Wiki/items/ar/Impulse-Rifle-NG4.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png) [Impulse Rifle NG4](/MyEnternia/Wiki/items/ar/Impulse-Rifle-NG4)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary.stats]
+baseDps = 6
+fireTime = 0.7
+
+[abilities.secondary.stats]
+attachments = [ "none", "laser", "flashlight",]
+
+[abilities.primary.stats.fireTypes.charge]
+pressType = "blast"
+holdType = "blast"
+holdStart = "charge"
+holdLoop = "charging"
+
+[abilities.primary.stats.fireTypes.semi]
+pressType = "semi"
+holdTimeMax = 0
+
+[abilities.primary.stats.fireTypes.charge.pressParams]
+type = "ct_impulse_medium"
+sound = "primary_press"
+inaccuracy = 0.001
+
+[abilities.primary.stats.fireTypes.charge.holdParams]
+type = "ct_impulse_large"
+sound = "primary_hold"
+inaccuracy = 0.001
+
+[abilities.primary.stats.fireTypes.semi.pressParams]
+type = "ct_impulse_medium"
+count = 2
+interval = 0.1
+inaccuracy = 0.001

@@ -1,0 +1,86 @@
+id = "ct_gheanade-max"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "drink",]
+name = "Gheanade Max"
+lore = "This limited series of Gheanade is extra-full on energy!"
+long = "With higher concentration of ^#c1dfae;carels^reset; extract, special **Gheryuza** formula and overall vitamin count, this drink is presented as an improved 1-up version of the original."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_gheanade.png)"
+
+[inspect]
+alta = "Nice and refreshing. Although I wouldn't drink it from a can. Seems a little impractical."
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 32
+stardust = 20
+essence = 280
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_gheanade"
+name = "Gheanade"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_gheanade.png) [Gheanade](/MyEnternia/assets/items/Gheanade.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_gheanade.consumable"
+rdir = "/items/generic/food/shop"
+rpath = "/items/generic/food/shop/ct_gheanade.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop/ct_gheanade.consumable"
+link = "[`/items/generic/food/shop/ct_gheanade.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop/ct_gheanade.consumable)"
+
+[assets]
+ext = "toml"
+name = "Gheanade-Max.toml"
+rdir = "/items"
+rpath = "/items/Gheanade-Max.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Gheanade-Max.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_gheanade.png) [Gheanade Max](/MyEnternia/assets/items/Gheanade-Max.toml)"
+
+[wiki]
+ext = "md"
+name = "Gheanade.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Gheanade.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Gheanade.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_gheanade.png) [Gheanade](/MyEnternia/Wiki/items/drink/Gheanade)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases.Gheryuza]
+anchor = "item-upgrades"

@@ -1,0 +1,92 @@
+id = "ct_alta_security_drone"
+base = "item"
+cat = "drone_deployer"
+type = "robotics"
+tags = [ "alta_security", "city", "drone", "drone_deployer", "robotics", "spawner", "throwable",]
+name = "Security Drone"
+lore = "An observer drone equipped with suppression tools."
+long = "These security helpers can usually be found assisting a security team or patrolling relatively smal areas."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png)"
+
+[inspect]
+alta = "It likes to ram its targets instead of actually listening to your commands. And sometimes it likes to ram its teammates. For fun. Oh well..."
+
+[pickup]
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 1200
+pixels = 600
+credits = 144
+stardust = 90
+essence = 1080
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "security.activeitem"
+rdir = "/items/active/alta/spawners/drones"
+rpath = "/items/active/alta/spawners/drones/security.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/security.activeitem"
+link = "[`/items/active/alta/spawners/drones/security.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/security.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Security-Drone.toml"
+rdir = "/items"
+rpath = "/items/Security-Drone.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Security-Drone.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png) [Security Drone](/MyEnternia/assets/items/Security-Drone.toml)"
+
+[wiki]
+ext = "md"
+name = "Security-Drone.md"
+rdir = "/items/drone_deployer"
+rpath = "/items/drone_deployer/Security-Drone.md"
+fdir = "/MyEnternia/Wiki/items/drone_deployer"
+fpath = "/MyEnternia/Wiki/items/drone_deployer/Security-Drone.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png) [Security Drone](/MyEnternia/Wiki/items/drone_deployer/Security-Drone)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Unarmed"
+lore = "Will swoop at enemies when in range. Will explode with ^#7733aa;electric^reset; particles on destruction."
+long = "Having no energy accelerators allows this machine to be much lighter in weight."
+
+[abilities.passive]
+name = "Protected Drone"
+lore = "Has status effects: ^#2080f0;Sensitive Electronics^reset;, ^#2080f0;Autoprotector^reset;.\nDeals physical damage on touch."
+long = "Has medium armor mostly made from titanium, and thus might appear slightly bulkier in size."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

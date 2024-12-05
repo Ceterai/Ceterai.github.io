@@ -1,0 +1,82 @@
+id = "ct_astera_loot"
+base = "item"
+cat = "loot"
+type = "container"
+tags = [ "astera", "container", "loot",]
+name = "Astera Loot Crate"
+lore = "Contains random loot from ^#ffa8e8;iorash^reset; asteroids and ^#6f6c66;astera^reset; pods."
+long = "Blessed by the stars and tears of astera, this pad is packed with astera alta devices and rarely ^#6f6c66;spacedrifter^reset; equipment."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png)"
+
+[inspect]
+alta = "I heard these are packed by ^#60c0fc;arknights^reset; as safety measures for ^#6f6c66;astera scouts^reset;. Both ^#ffe8e8;eva^reset; and ^#6f6c66;astera^reset; are filled with stardust, so I can only imagine what treasure lies inside..."
+
+[pickup]
+ct_loot_crate_msg = "I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tighly. ^#ff8888;You won't be able to put things back if you open it.^reset;"
+
+[cost]
+gold = 480
+pixels = 240
+credits = 64
+stardust = 40
+essence = 440
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+treasure = "ct_astera_loot"
+level = 5
+
+[repo]
+ext = "activeitem"
+name = "ct_astera_loot.activeitem"
+rdir = "/items/active/alta/loot/biome"
+rpath = "/items/active/alta/loot/biome/ct_astera_loot.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome/ct_astera_loot.activeitem"
+link = "[`/items/active/alta/loot/biome/ct_astera_loot.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome/ct_astera_loot.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Astera-Loot-Crate.toml"
+rdir = "/items"
+rpath = "/items/Astera-Loot-Crate.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Astera-Loot-Crate.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png) [Astera Loot Crate](/MyEnternia/assets/items/Astera-Loot-Crate.toml)"
+
+[wiki]
+ext = "md"
+name = "Astera-Loot-Crate.md"
+rdir = "/items/loot"
+rpath = "/items/loot/Astera-Loot-Crate.md"
+fdir = "/MyEnternia/Wiki/items/loot"
+fpath = "/MyEnternia/Wiki/items/loot/Astera-Loot-Crate.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png) [Astera Loot Crate](/MyEnternia/Wiki/items/loot/Astera-Loot-Crate)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Astera Crate"]

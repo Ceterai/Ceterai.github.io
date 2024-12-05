@@ -1,0 +1,78 @@
+id = "ct_eds_aimbot_augment"
+base = "item"
+cat = "augment"
+type = "data_source"
+tags = [ "augment", "data_source", "eds", "enhancement",]
+name = "EDS Aimbot Augment"
+lore = "An EPP module that slightly boosts your physical and electric protection."
+species = "alta"
+level = 5
+rarity = 2
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png)"
+
+[inspect]
+
+[pickup]
+ct_eds_msg = "The item you've just picked up seems to have visual EDS markings on it. ^#f02020;EDS^reset; is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  \nUnfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities."
+
+[cost]
+gold = 17920
+pixels = 8960
+credits = 2800
+stardust = 1750
+essence = 15400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "augment"
+name = "ct_eds_aimbot_augment.augment"
+rdir = "/items/augments/back"
+rpath = "/items/augments/back/ct_eds_aimbot_augment.augment"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_eds_aimbot_augment.augment"
+link = "[`/items/augments/back/ct_eds_aimbot_augment.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_eds_aimbot_augment.augment)"
+
+[assets]
+ext = "toml"
+name = "EDS-Aimbot-Augment.toml"
+rdir = "/items"
+rpath = "/items/EDS-Aimbot-Augment.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/EDS-Aimbot-Augment.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png) [EDS Aimbot Augment](/MyEnternia/assets/items/EDS-Aimbot-Augment.toml)"
+
+[wiki]
+ext = "md"
+name = "EDS-Aimbot-Augment.md"
+rdir = "/items/augment"
+rpath = "/items/augment/EDS-Aimbot-Augment.md"
+fdir = "/MyEnternia/Wiki/items/augment"
+fpath = "/MyEnternia/Wiki/items/augment/EDS-Aimbot-Augment.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png) [EDS Aimbot Augment](/MyEnternia/Wiki/items/augment/EDS-Aimbot-Augment)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

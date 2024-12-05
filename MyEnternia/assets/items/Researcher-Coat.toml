@@ -1,0 +1,79 @@
+id = "ct_alta_researcher_coat"
+base = "item"
+cat = "body_clothing"
+type = "chestwear"
+tags = [ "body_clothing", "chestwear", "pelizhar", "science", "tier5clothing",]
+name = "Researcher Coat"
+lore = "An advanced alta researcher's coat with proper lab safety measures. Designed by Pelizhar."
+long = "Just like other pieces of alta laboratory attire, this one provides full body coverage with optional gloves to complete the set."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png)"
+
+[inspect]
+alta = "A nice middleground between official-ness and practicality."
+
+[pickup]
+
+[cost]
+gold = 1920
+pixels = 960
+credits = 256
+stardust = 160
+essence = 1760
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "chest"
+name = "ct_alta_researcher_coat.chest"
+rdir = "/items/armors/alta/clothing/researcher_coat"
+rpath = "/items/armors/alta/clothing/researcher_coat/ct_alta_researcher_coat.chest"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/researcher_coat"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/researcher_coat/ct_alta_researcher_coat.chest"
+link = "[`/items/armors/alta/clothing/researcher_coat/ct_alta_researcher_coat.chest`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/researcher_coat/ct_alta_researcher_coat.chest)"
+
+[assets]
+ext = "toml"
+name = "Researcher-Coat.toml"
+rdir = "/items"
+rpath = "/items/Researcher-Coat.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Researcher-Coat.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png) [Researcher Coat](/MyEnternia/assets/items/Researcher-Coat.toml)"
+
+[wiki]
+ext = "md"
+name = "Researcher-Coat.md"
+rdir = "/items/body_clothing"
+rpath = "/items/body_clothing/Researcher-Coat.md"
+fdir = "/MyEnternia/Wiki/items/body_clothing"
+fpath = "/MyEnternia/Wiki/items/body_clothing/Researcher-Coat.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png) [Researcher Coat](/MyEnternia/Wiki/items/body_clothing/Researcher-Coat)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

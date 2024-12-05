@@ -1,0 +1,95 @@
+id = "ct_magmataur_x"
+base = "item"
+cat = "rocket_launcher"
+type = "rocketLauncher"
+tags = [ "ranged", "rocket_launcher", "rocketlauncher", "rocketlauncher", "weapon", "wrist",]
+name = "Magmataur X"
+lore = "This tiny wrist rocket launcher holds the power equal to that of a whole magmataur, hence the name. These impenetrable lava giants can rarely be found on enterash prime."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_magmataur_x.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_magmataur_x.activeitem"
+rdir = "/items/active/weapons/ranged/alta/wrist"
+rpath = "/items/active/weapons/ranged/alta/wrist/ct_magmataur_x.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/wrist"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/wrist/ct_magmataur_x.activeitem"
+link = "[`/items/active/weapons/ranged/alta/wrist/ct_magmataur_x.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/wrist/ct_magmataur_x.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Magmataur-X.toml"
+rdir = "/items"
+rpath = "/items/Magmataur-X.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Magmataur-X.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_magmataur_x.png) [Magmataur X](/MyEnternia/assets/items/Magmataur-X.toml)"
+
+[wiki]
+ext = "md"
+name = "Magmataur-X.md"
+rdir = "/items/rocket_launcher"
+rpath = "/items/rocket_launcher/Magmataur-X.md"
+fdir = "/MyEnternia/Wiki/items/rocket_launcher"
+fpath = "/MyEnternia/Wiki/items/rocket_launcher/Magmataur-X.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_magmataur_x.png) [Magmataur X](/MyEnternia/Wiki/items/rocket_launcher/Magmataur-X)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Magmablast"
+lore = "Instead of storing rockets, this tool generates and launches actual fireballs instead."
+
+[abilities.primary.stats]
+baseDps = 4
+energyUsage = 16
+fireTime = 0.8
+pressType = "rocket"
+holdType = "rocket"
+holdTimeMax = 0.9
+
+[abilities.primary.stats.pressParams]
+type = "fireguidedrocket"
+
+[abilities.primary.stats.holdParams]
+type = "fireplasmarocket"

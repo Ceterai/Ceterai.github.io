@@ -1,0 +1,89 @@
+id = "ct_alto_zych_egg"
+base = "item"
+cat = "monster_egg"
+type = "egg"
+tags = [ "egg", "monster_egg", "spawner", "throwable",]
+name = "Alto Zych Egg"
+lore = "Can be used to spawn a bug called ^#b0e0fc;alto zych^reset;, or simply \"blue bug\" in alkey."
+long = "These \"eggs\" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner."
+species = "generic"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_alto_zych_egg.png)"
+
+[inspect]
+alta = "It shimmers so beautifully in my hand! Does that mean that it likes me?! Oaaa~"
+
+[pickup]
+
+[cost]
+gold = 1000
+pixels = 500
+credits = 120
+stardust = 75
+essence = 900
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_alto_zych_egg.activeitem"
+rdir = "/items/active/alta/spawners/bugs"
+rpath = "/items/active/alta/spawners/bugs/ct_alto_zych_egg.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/bugs"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/bugs/ct_alto_zych_egg.activeitem"
+link = "[`/items/active/alta/spawners/bugs/ct_alto_zych_egg.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/bugs/ct_alto_zych_egg.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Alto-Zych-Egg.toml"
+rdir = "/items"
+rpath = "/items/Alto-Zych-Egg.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Alto-Zych-Egg.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_alto_zych_egg.png) [Alto Zych Egg](/MyEnternia/assets/items/Alto-Zych-Egg.toml)"
+
+[wiki]
+ext = "md"
+name = "Alto-Zych-Egg.md"
+rdir = "/items/monster_egg"
+rpath = "/items/monster_egg/Alto-Zych-Egg.md"
+fdir = "/MyEnternia/Wiki/items/monster_egg"
+fpath = "/MyEnternia/Wiki/items/monster_egg/Alto-Zych-Egg.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_alto_zych_egg.png) [Alto Zych Egg](/MyEnternia/Wiki/items/monster_egg/Alto-Zych-Egg)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.passive]
+name = "Small Bean"
+lore = "This small critter or bug can be caught with a bug net and put in a bottle."
+long = "This will turn them into a collectable item valued by many collectionists, one of which could be yourself."
+
+[stats.spawner]
+entities = [ "ct_alto_zych",]
+
+[abilities.passive.stats]
+
+[stats.spawner.stats.damageTeam]
+team = 1
+type = "passive"

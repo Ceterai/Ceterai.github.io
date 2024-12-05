@@ -1,0 +1,77 @@
+id = "ct_alta_industrial_collar"
+base = "item"
+cat = "head_clothing"
+type = "headwear"
+tags = [ "head_clothing", "headwear", "industrial", "tier5clothing",]
+name = "Industrial Collar"
+lore = "This collar provides health monitoring and a way of communication. Designed for any industrial environments."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/industrial_collar/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 1920
+pixels = 960
+credits = 256
+stardust = 160
+essence = 1760
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_alta_industrial_collar.head"
+rdir = "/items/armors/alta/other/industrial_collar"
+rpath = "/items/armors/alta/other/industrial_collar/ct_alta_industrial_collar.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/industrial_collar"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/industrial_collar/ct_alta_industrial_collar.head"
+link = "[`/items/armors/alta/other/industrial_collar/ct_alta_industrial_collar.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/industrial_collar/ct_alta_industrial_collar.head)"
+
+[assets]
+ext = "toml"
+name = "Industrial-Collar.toml"
+rdir = "/items"
+rpath = "/items/Industrial-Collar.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Industrial-Collar.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/industrial_collar/icon.png) [Industrial Collar](/MyEnternia/assets/items/Industrial-Collar.toml)"
+
+[wiki]
+ext = "md"
+name = "Industrial-Collar.md"
+rdir = "/items/head_clothing"
+rpath = "/items/head_clothing/Industrial-Collar.md"
+fdir = "/MyEnternia/Wiki/items/head_clothing"
+fpath = "/MyEnternia/Wiki/items/head_clothing/Industrial-Collar.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/industrial_collar/icon.png) [Industrial Collar](/MyEnternia/Wiki/items/head_clothing/Industrial-Collar)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

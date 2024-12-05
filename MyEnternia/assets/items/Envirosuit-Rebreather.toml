@@ -1,0 +1,77 @@
+id = "ct_arco_rebreather"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "arco", "head_armor", "headarmour", "tier5armour",]
+name = "Envirosuit Rebreather"
+lore = "Has an extended view as well as clearer vision and additional breath protection."
+species = "alta"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 6200
+pixels = 3100
+credits = 900
+stardust = 562
+essence = 5500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_arco_rebreather.head"
+rdir = "/items/armors/alta/tier5/arco/rebreather"
+rpath = "/items/armors/alta/tier5/arco/rebreather/ct_arco_rebreather.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/rebreather"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/rebreather/ct_arco_rebreather.head"
+link = "[`/items/armors/alta/tier5/arco/rebreather/ct_arco_rebreather.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/arco/rebreather/ct_arco_rebreather.head)"
+
+[assets]
+ext = "toml"
+name = "Envirosuit-Rebreather.toml"
+rdir = "/items"
+rpath = "/items/Envirosuit-Rebreather.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Envirosuit-Rebreather.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png) [Envirosuit Rebreather](/MyEnternia/assets/items/Envirosuit-Rebreather.toml)"
+
+[wiki]
+ext = "md"
+name = "Envirosuit-Rebreather.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/Envirosuit-Rebreather.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/Envirosuit-Rebreather.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png) [Envirosuit Rebreather](/MyEnternia/Wiki/items/head_armor/Envirosuit-Rebreather)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

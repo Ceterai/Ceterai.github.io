@@ -1,0 +1,79 @@
+id = "ct_glowstick_gheatsyn"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "equipment", "gheatsyn", "glowstick", "light", "throwable",]
+name = "Gheatsyn Glowstick"
+lore = "Creates a gheatsyn bioluminescent glow when thrown. Is made from rare crystallic materials."
+long = "Glowsticks of this color are pretty easy to produce - you just need to put some gheatsyn into correct state."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/gheatsyn.png)"
+
+[inspect]
+alta = "The color of Ghearun and their machines."
+
+[pickup]
+
+[cost]
+gold = 20
+pixels = 10
+credits = 2
+stardust = 1
+essence = 17
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "gheatsyn.activeitem"
+rdir = "/items/active/alta/glowsticks"
+rpath = "/items/active/alta/glowsticks/gheatsyn.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/glowsticks"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/glowsticks/gheatsyn.activeitem"
+link = "[`/items/active/alta/glowsticks/gheatsyn.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/glowsticks/gheatsyn.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Gheatsyn-Glowstick.toml"
+rdir = "/items"
+rpath = "/items/Gheatsyn-Glowstick.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Gheatsyn-Glowstick.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/gheatsyn.png) [Gheatsyn Glowstick](/MyEnternia/assets/items/Gheatsyn-Glowstick.toml)"
+
+[wiki]
+ext = "md"
+name = "Gheatsyn-Glowstick.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Gheatsyn-Glowstick.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Gheatsyn-Glowstick.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/gheatsyn.png) [Gheatsyn Glowstick](/MyEnternia/Wiki/items/throwable/Gheatsyn-Glowstick)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

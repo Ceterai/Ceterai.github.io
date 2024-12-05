@@ -1,0 +1,86 @@
+id = "ct_alta_scout_mask-upgrade"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "head_armor", "headarmour", "protea", "tier6armour",]
+name = "Protea's Mask"
+lore = "A mask worn by Protea - a staris ^#b0e0fc;alta^reset; scout known for her vigilance and agility. Hairs on the back are made of ^#ffa8e8;stardust^reset;."
+long = "This brings the gathered energy levels to a maximum, powering the whole protosystem almost instantly."
+species = "alta"
+level = 3
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png)"
+
+[inspect]
+alta = "Very stylish. But also, those pretty tails are quite important to the whole proto system."
+
+[pickup]
+ct_alta_head_armor_msg = "You've got a hold of a level ^#8020f0;6+^reset; alta head armor piece. Among usual protection and a special effect, these usually have an in-built ^#b0e0fc;breath protection^reset;, meaning you no longer have to use a ^#b0e0fc;Breathing EPP^reset; in places where you couldn't breath."
+
+[cost]
+gold = 4200
+pixels = 2100
+credits = 500
+stardust = 312
+essence = 3500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_alta_scout_mask"
+name = "Protomask"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png) [Protomask](/MyEnternia/assets/items/Protomask.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_alta_scout_mask.head"
+rdir = "/items/armors/alta/tier3/scout/mask"
+rpath = "/items/armors/alta/tier3/scout/mask/ct_alta_scout_mask.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier3/scout/mask"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier3/scout/mask/ct_alta_scout_mask.head"
+link = "[`/items/armors/alta/tier3/scout/mask/ct_alta_scout_mask.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier3/scout/mask/ct_alta_scout_mask.head)"
+
+[assets]
+ext = "toml"
+name = "Protea's-Mask.toml"
+rdir = "/items"
+rpath = "/items/Protea's-Mask.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Protea's-Mask.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png) [Protea's Mask](/MyEnternia/assets/items/Protea's-Mask.toml)"
+
+[wiki]
+ext = "md"
+name = "Protomask.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/Protomask.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/Protomask.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png) [Protomask](/MyEnternia/Wiki/items/head_armor/Protomask)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases]

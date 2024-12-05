@@ -1,0 +1,79 @@
+id = "ct_impulse_stim"
+base = "item"
+cat = "enhancer"
+type = "enhancer"
+tags = [ "enhancer", "impulse",]
+name = "Impulse Stim Pack"
+lore = "Provides 60s of 25% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#20f080;Impulse Immunity^reset;."
+long = "Taking this enhancer gives you an immediate boost that wears off almost instantly, leaving you adapted to similar impulse types for awhile."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png)"
+
+[inspect]
+alta = "A refular enhancer with cenia. Feels like a quick rush that keeps you charged for a bit."
+
+[pickup]
+
+[cost]
+gold = 960
+pixels = 480
+credits = 128
+stardust = 80
+essence = 880
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_impulse_stim.consumable"
+rdir = "/items/generic/other"
+rpath = "/items/generic/other/ct_impulse_stim.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_impulse_stim.consumable"
+link = "[`/items/generic/other/ct_impulse_stim.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_impulse_stim.consumable)"
+
+[assets]
+ext = "toml"
+name = "Impulse-Stim-Pack.toml"
+rdir = "/items"
+rpath = "/items/Impulse-Stim-Pack.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Impulse-Stim-Pack.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png) [Impulse Stim Pack](/MyEnternia/assets/items/Impulse-Stim-Pack.toml)"
+
+[wiki]
+ext = "md"
+name = "Impulse-Stim-Pack.md"
+rdir = "/items/enhancer"
+rpath = "/items/enhancer/Impulse-Stim-Pack.md"
+fdir = "/MyEnternia/Wiki/items/enhancer"
+fpath = "/MyEnternia/Wiki/items/enhancer/Impulse-Stim-Pack.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png) [Impulse Stim Pack](/MyEnternia/Wiki/items/enhancer/Impulse-Stim-Pack)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

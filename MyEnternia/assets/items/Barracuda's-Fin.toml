@@ -1,0 +1,154 @@
+id = "ct_barracuda_fin"
+base = "item"
+cat = "broadsword"
+type = "broadsword"
+tags = [ "barracuda", "broadsword", "fin", "fish", "flooded", "koywa", "melee", "predatory", "sea", "staris ghura", "sword", "undead", "weapon",]
+name = "Barracuda's Fin"
+lore = "All what's left from a mysterious beast. If it's this big, who knows what a giant this was..."
+long = "**Staris Ghura**, or the **Barracuda**, is a smaller subspecies of a powerful moster species of **Megasharks**, known by altas as **Kaghurao**. Cudas can get small enough to be able to live in ^#497c64;alterash riversides^reset; and ^#497c64;flooded alterash caves^reset;, but such a sight is still pretty rare, therefore finding a trophy like this is quite an accomplisment.\n\nBarracudas' fins are pretty powerful and surprisingly easy to swing, and the sturdy bone spikes are hard enough to dent some metals."
+species = "generic"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png)"
+
+[inspect]
+alta = "I can use this as a sword. Or a surfing board! But I guess I should take care of the smell first..."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_barracuda_fin.activeitem"
+rdir = "/items/active/weapons/melee/alta/heavy"
+rpath = "/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.activeitem"
+link = "[`/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Barracuda's-Fin.toml"
+rdir = "/items"
+rpath = "/items/Barracuda's-Fin.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Barracuda's-Fin.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png) [Barracuda's Fin](/MyEnternia/assets/items/Barracuda's-Fin.toml)"
+
+[wiki]
+ext = "md"
+name = "Barracuda's-Fin.md"
+rdir = "/items/broadsword"
+rpath = "/items/broadsword/Barracuda's-Fin.md"
+fdir = "/MyEnternia/Wiki/items/broadsword"
+fpath = "/MyEnternia/Wiki/items/broadsword/Barracuda's-Fin.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png) [Barracuda's Fin](/MyEnternia/Wiki/items/broadsword/Barracuda's-Fin)"
+
+[upgrades.anvil]
+id = "ct_barracuda_fin-upgrade"
+name = "Barracuda's Cry"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png) [Barracuda's Cry](/MyEnternia/assets/items/Barracuda's-Cry.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Jaw Strike"
+lore = "A sequence of 3 heavy strikes. Hold to perform a ^gray;Fang Discharge^reset;."
+long = "The fin is pretty heavy, so any of this might take some additional effort."
+
+[abilities.secondary]
+name = "Finspin"
+lore = "Hold to perform a Spin Slash."
+long = "The inertia makes it much easier to execute then regular attacks."
+
+[abilities.primary.stats]
+baseDps = 12
+fireTime = 0.9
+energyUsage = 32
+holdTimeMax = 0.35
+
+[abilities.secondary.stats]
+
+[meta.aliases."Staris Ghura"]
+icon = "none"
+
+[meta.aliases.Barracuda]
+icon = "none"
+
+[meta.aliases.Megashark]
+icon = "none"
+
+[meta.aliases.Kaghurao]
+icon = "none"
+
+[meta.aliases."Cuda Pillarbone"]
+icon = "none"
+
+[meta.aliases."Cuda Spike"]
+icon = "none"
+
+[abilities.primary.stats.holdParams]
+cooldownTime = 0.8
+energyFactor = 1.0
+
+[abilities.primary.stats.damageConfig]
+statusEffects = []
+baseDamage = 22.5
+knockback = 40
+damageSourceKind = "broadsword"
+knockbackMode = "facing"
+timeout = 0.5
+
+[abilities.primary.stats.pressParams]
+comboSpeedFactor = 0.7
+edgeTriggerGrace = 0.25
+
+[abilities.primary.stats.downstabParams]
+cooldownTime = 0.5
+energyFactor = 0.2
+holdAirControl = 60
+stabVelocity = -5
+bounceYVelocity = 35
+
+[abilities.primary.stats.pressParams.flash]
+time = 0.15
+directives = "fade=FFFFFFFF=0.15"
+
+[abilities.primary.stats.downstabParams.damageConfig]
+damageFactor = 0.5
+damageSourceKind = "spear"
+statusEffects = []
+knockback = [ 0, -35,]
+timeout = 0.2
+timeoutGroup = "primary"

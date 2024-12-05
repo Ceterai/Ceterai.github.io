@@ -1,0 +1,77 @@
+id = "ct_alta_respiratory_mask_colorful"
+base = "item"
+cat = "head_clothing"
+type = "headwear"
+tags = [ "head_clothing", "headwear", "tier1clothing",]
+name = "Colored Respiratory Mask"
+lore = "A simple but effective filtering mask. Now in colors!"
+species = "alta"
+level = 1
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/respiratory_mask_colorful/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 640
+pixels = 320
+credits = 64
+stardust = 40
+essence = 480
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_alta_respiratory_mask_colorful.head"
+rdir = "/items/armors/alta/other/respiratory_mask_colorful"
+rpath = "/items/armors/alta/other/respiratory_mask_colorful/ct_alta_respiratory_mask_colorful.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/respiratory_mask_colorful"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/respiratory_mask_colorful/ct_alta_respiratory_mask_colorful.head"
+link = "[`/items/armors/alta/other/respiratory_mask_colorful/ct_alta_respiratory_mask_colorful.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/other/respiratory_mask_colorful/ct_alta_respiratory_mask_colorful.head)"
+
+[assets]
+ext = "toml"
+name = "Colored-Respiratory-Mask.toml"
+rdir = "/items"
+rpath = "/items/Colored-Respiratory-Mask.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Colored-Respiratory-Mask.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/respiratory_mask_colorful/icon.png) [Colored Respiratory Mask](/MyEnternia/assets/items/Colored-Respiratory-Mask.toml)"
+
+[wiki]
+ext = "md"
+name = "Colored-Respiratory-Mask.md"
+rdir = "/items/head_clothing"
+rpath = "/items/head_clothing/Colored-Respiratory-Mask.md"
+fdir = "/MyEnternia/Wiki/items/head_clothing"
+fpath = "/MyEnternia/Wiki/items/head_clothing/Colored-Respiratory-Mask.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/respiratory_mask_colorful/icon.png) [Colored Respiratory Mask](/MyEnternia/Wiki/items/head_clothing/Colored-Respiratory-Mask)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

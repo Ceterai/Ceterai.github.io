@@ -1,0 +1,79 @@
+id = "ct_combat_mask"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "combat", "head_armor", "headarmour", "tier5armour",]
+name = "Combat Mask"
+lore = "An ^#b0e0fc;alta^reset; army helmet-like mask, covering face and profile completely."
+long = "Designed to provide additional visual context and protect vital parts of the head when facing an enemy."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png)"
+
+[inspect]
+alta = "Very comfortable to wear actually, even if you're not in combat."
+
+[pickup]
+
+[cost]
+gold = 6000
+pixels = 3000
+credits = 800
+stardust = 500
+essence = 5500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_combat_mask.head"
+rdir = "/items/armors/alta/tier5/combat/mask"
+rpath = "/items/armors/alta/tier5/combat/mask/ct_combat_mask.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/combat/mask"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/combat/mask/ct_combat_mask.head"
+link = "[`/items/armors/alta/tier5/combat/mask/ct_combat_mask.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier5/combat/mask/ct_combat_mask.head)"
+
+[assets]
+ext = "toml"
+name = "Combat-Mask.toml"
+rdir = "/items"
+rpath = "/items/Combat-Mask.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Combat-Mask.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png) [Combat Mask](/MyEnternia/assets/items/Combat-Mask.toml)"
+
+[wiki]
+ext = "md"
+name = "Combat-Mask.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/Combat-Mask.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/Combat-Mask.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png) [Combat Mask](/MyEnternia/Wiki/items/head_armor/Combat-Mask)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

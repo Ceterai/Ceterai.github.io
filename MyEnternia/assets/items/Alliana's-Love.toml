@@ -1,0 +1,85 @@
+id = "ct_alliana_cake-love"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cake", "cooking", "dessert", "dish", "runeva_cuisine",]
+name = "Alliana's Love"
+lore = "The empress loves and cares for you! Though this cake can't express it fully, this time it got very close."
+long = "This recipe is incredibly hard to replicate, with only few being able to create it perfectly. After all, feelings are a presonal thing, that you can't just take and copy."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png)"
+
+[inspect]
+alta = "A piece of culinary poetry, that's very hard to decypher."
+
+[pickup]
+
+[cost]
+gold = 11520
+pixels = 5760
+credits = 1760
+stardust = 1100
+essence = 10400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_alliana_cake"
+name = "Alliana Cake"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png) [Alliana Cake](/MyEnternia/assets/items/Alliana-Cake.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_alliana_cake.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_alliana_cake.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_alliana_cake.consumable"
+link = "[`/items/generic/food/tier4/ct_alliana_cake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_alliana_cake.consumable)"
+
+[assets]
+ext = "toml"
+name = "Alliana's-Love.toml"
+rdir = "/items"
+rpath = "/items/Alliana's-Love.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Alliana's-Love.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png) [Alliana's Love](/MyEnternia/assets/items/Alliana's-Love.toml)"
+
+[wiki]
+ext = "md"
+name = "Alliana-Cake.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Alliana-Cake.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Alliana-Cake.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png) [Alliana Cake](/MyEnternia/Wiki/items/dish/Alliana-Cake)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

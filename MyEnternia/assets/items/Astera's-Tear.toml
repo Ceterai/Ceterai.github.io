@@ -1,0 +1,86 @@
+id = "ct_astera_tear"
+base = "item"
+cat = "throwable"
+type = "equipment"
+tags = [ "astera", "equipment", "hunting", "throwable",]
+name = "Astera's Tear"
+lore = "A launchable spear made out of ^#ffa8e8;stardust^reset; asteroids. ^#6f6c66;Astera^reset;'s gift."
+long = "Originally a navigation & fixation device developed by Astera researchers to be able to grab objects and hold certain constructions pressed against asteroids, with the removal of a **connector** between the ^#6f6c66;astera spear^reset; and the launcher, astera's tear became an efficient combat tool used by **astera scouts**.\n\n**Spear Launchers** that go along with the spears are charge devices that create a kinetic ^#20f080;impulse^reset;, blasting the ^#6f6c66;astera spear^reset; forwards."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_astera_tear.png)"
+
+[inspect]
+alta = "This is a stardust-charged astera fixator. Wondering how else I can put it to use. Some say that ^#6f6c66;spacedrifters^reset; often use them in combat..."
+
+[pickup]
+
+[cost]
+gold = 280
+pixels = 140
+credits = 40
+stardust = 25
+essence = 260
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_astera_tear.thrownitem"
+rdir = "/items/throwables"
+rpath = "/items/throwables/ct_astera_tear.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_astera_tear.thrownitem"
+link = "[`/items/throwables/ct_astera_tear.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_astera_tear.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Astera's-Tear.toml"
+rdir = "/items"
+rpath = "/items/Astera's-Tear.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Astera's-Tear.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_astera_tear.png) [Astera's Tear](/MyEnternia/assets/items/Astera's-Tear.toml)"
+
+[wiki]
+ext = "md"
+name = "Astera's-Tear.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Astera's-Tear.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Astera's-Tear.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_astera_tear.png) [Astera's Tear](/MyEnternia/Wiki/items/throwable/Astera's-Tear)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Astera Scout"]
+icon = "none"
+
+[meta.aliases."Spear Launcher"]
+icon = "none"
+
+[meta.aliases."Astera Scava"]
+icon = "none"

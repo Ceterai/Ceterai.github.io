@@ -1,0 +1,77 @@
+id = "ct_dreamer_chest"
+base = "item"
+cat = "body_armor"
+type = "chestarmour"
+tags = [ "body_armor", "chestarmour", "dreamer", "tier6armour",]
+name = "Dreamer's Plating"
+lore = "Will protect you with ^#8020f0;ionic^reset; bursts whenever you receive damage."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 11200
+pixels = 5600
+credits = 1600
+stardust = 1000
+essence = 10400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "chest"
+name = "ct_dreamer_chest.chest"
+rdir = "/items/armors/alta/tier6/dreamer/chest"
+rpath = "/items/armors/alta/tier6/dreamer/chest/ct_dreamer_chest.chest"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/dreamer/chest"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/dreamer/chest/ct_dreamer_chest.chest"
+link = "[`/items/armors/alta/tier6/dreamer/chest/ct_dreamer_chest.chest`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/dreamer/chest/ct_dreamer_chest.chest)"
+
+[assets]
+ext = "toml"
+name = "Dreamer's-Plating.toml"
+rdir = "/items"
+rpath = "/items/Dreamer's-Plating.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Dreamer's-Plating.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png) [Dreamer's Plating](/MyEnternia/assets/items/Dreamer's-Plating.toml)"
+
+[wiki]
+ext = "md"
+name = "Dreamer's-Plating.md"
+rdir = "/items/body_armor"
+rpath = "/items/body_armor/Dreamer's-Plating.md"
+fdir = "/MyEnternia/Wiki/items/body_armor"
+fpath = "/MyEnternia/Wiki/items/body_armor/Dreamer's-Plating.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png) [Dreamer's Plating](/MyEnternia/Wiki/items/body_armor/Dreamer's-Plating)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

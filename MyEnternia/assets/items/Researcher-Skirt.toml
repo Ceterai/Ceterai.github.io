@@ -1,0 +1,77 @@
+id = "ct_alta_researcher_skirt"
+base = "item"
+cat = "legs_clothing"
+type = "legwear"
+tags = [ "legs_clothing", "legwear", "pelizhar", "science", "tier5clothing",]
+name = "Researcher Skirt"
+lore = "An official A.R.C.O. researcher's legwear. Compiled by designers from Pelizhar."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 1920
+pixels = 960
+credits = 256
+stardust = 160
+essence = 1760
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "legs"
+name = "ct_alta_researcher_skirt.legs"
+rdir = "/items/armors/alta/clothing/researcher_skirt"
+rpath = "/items/armors/alta/clothing/researcher_skirt/ct_alta_researcher_skirt.legs"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/researcher_skirt"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/researcher_skirt/ct_alta_researcher_skirt.legs"
+link = "[`/items/armors/alta/clothing/researcher_skirt/ct_alta_researcher_skirt.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/researcher_skirt/ct_alta_researcher_skirt.legs)"
+
+[assets]
+ext = "toml"
+name = "Researcher-Skirt.toml"
+rdir = "/items"
+rpath = "/items/Researcher-Skirt.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Researcher-Skirt.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png) [Researcher Skirt](/MyEnternia/assets/items/Researcher-Skirt.toml)"
+
+[wiki]
+ext = "md"
+name = "Researcher-Skirt.md"
+rdir = "/items/legs_clothing"
+rpath = "/items/legs_clothing/Researcher-Skirt.md"
+fdir = "/MyEnternia/Wiki/items/legs_clothing"
+fpath = "/MyEnternia/Wiki/items/legs_clothing/Researcher-Skirt.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png) [Researcher Skirt](/MyEnternia/Wiki/items/legs_clothing/Researcher-Skirt)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,92 @@
+id = "ct_alta_companion_drone"
+base = "item"
+cat = "drone_deployer"
+type = "robotics"
+tags = [ "drone", "drone_deployer", "portal", "robotics", "spawner", "throwable",]
+name = "Companion Drone"
+lore = "This drone is now your personal companion! Treat it with care and support."
+long = "It reminds you of something, but you can't quite put your finger on it..."
+species = "alta"
+level = 4
+rarity = 2
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png)"
+
+[inspect]
+alta = "I like this nice visor shape, as well as these friendly colors! ❤ Can I keep it? Pleeease!.."
+
+[pickup]
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 1280
+pixels = 640
+credits = 184
+stardust = 115
+essence = 1080
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "companion.activeitem"
+rdir = "/items/active/alta/spawners/drones"
+rpath = "/items/active/alta/spawners/drones/companion.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/companion.activeitem"
+link = "[`/items/active/alta/spawners/drones/companion.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/companion.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Companion-Drone.toml"
+rdir = "/items"
+rpath = "/items/Companion-Drone.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Companion-Drone.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png) [Companion Drone](/MyEnternia/assets/items/Companion-Drone.toml)"
+
+[wiki]
+ext = "md"
+name = "Companion-Drone.md"
+rdir = "/items/drone_deployer"
+rpath = "/items/drone_deployer/Companion-Drone.md"
+fdir = "/MyEnternia/Wiki/items/drone_deployer"
+fpath = "/MyEnternia/Wiki/items/drone_deployer/Companion-Drone.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png) [Companion Drone](/MyEnternia/Wiki/items/drone_deployer/Companion-Drone)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Likes Cake (fool)"
+lore = "Will swoop at enemies when in range. Will explode with ^#7733aa;electric^reset; particles on destruction."
+long = "All smart drones know for sure that cake is a lie, but this one isn't convinced."
+
+[abilities.passive]
+name = "Scouting Drone"
+lore = "Has status effects: ^#2080f0;Sensitive Electronics^reset;, ^#2080f0;Autoanalyzer^reset;, ^#2080f0;Omniblue Vision^reset;.\nDeals physical damage on touch."
+long = "This set of functions is often attributed to scouting drones, as well as personal drones, although not as often."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

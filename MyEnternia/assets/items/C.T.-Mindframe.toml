@@ -1,0 +1,78 @@
+id = "ct_ceterai_mindframe"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "ceterai", "head_armor", "headarmour", "tier6armour",]
+name = "C.T. Mindframe"
+lore = "A misterious device, that you can put on your head. What is its purpose? The label on the side reads 'Mark II'. Has built-in ^#b0e0fc;breath protection^reset;."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_head_armor_msg = "You've got a hold of a level ^#8020f0;6+^reset; alta head armor piece. Among usual protection and a special effect, these usually have an in-built ^#b0e0fc;breath protection^reset;, meaning you no longer have to use a ^#b0e0fc;Breathing EPP^reset; in places where you couldn't breath."
+
+[cost]
+gold = 7200
+pixels = 3600
+credits = 1100
+stardust = 687
+essence = 6500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_ceterai_mindframe.head"
+rdir = "/items/armors/alta/tier6/ceterai/mindframe"
+rpath = "/items/armors/alta/tier6/ceterai/mindframe/ct_ceterai_mindframe.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ceterai/mindframe"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ceterai/mindframe/ct_ceterai_mindframe.head"
+link = "[`/items/armors/alta/tier6/ceterai/mindframe/ct_ceterai_mindframe.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ceterai/mindframe/ct_ceterai_mindframe.head)"
+
+[assets]
+ext = "toml"
+name = "C.T.-Mindframe.toml"
+rdir = "/items"
+rpath = "/items/C.T.-Mindframe.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/C.T.-Mindframe.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png) [C.T. Mindframe](/MyEnternia/assets/items/C.T.-Mindframe.toml)"
+
+[wiki]
+ext = "md"
+name = "C.T.-Mindframe.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/C.T.-Mindframe.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/C.T.-Mindframe.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png) [C.T. Mindframe](/MyEnternia/Wiki/items/head_armor/C.T.-Mindframe)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

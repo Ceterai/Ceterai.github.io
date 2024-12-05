@@ -1,0 +1,83 @@
+id = "ct_haven_loot"
+base = "item"
+cat = "loot"
+type = "container"
+tags = [ "container", "haven", "loot",]
+name = "Haven Loot Crate"
+lore = "Contains random loot from alterash ^#80f020;haven^reset; biome chests."
+long = "The casings has Low Toxicity markings all over it, and an additional safety switch to make sure that the create can't be opened on accident."
+species = "generic"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png)"
+
+[inspect]
+alta = "I better not touch this without permissions. I know these are not as toxic as ^#3baf2f;aric pads^reset;, but better be safe than sorry."
+
+[pickup]
+ct_haven_msg = "The item you just got seems to have come for alterash ^#80f020;haven^reset; - flowery areas on ^#20f080;alterash^reset; planets that tend to have higher levels of toxicity than surrounding nature. Although it equals to toxicity levels on most green planets, it's not a usual sight here, so I would reccomend being careful."
+ct_loot_crate_msg = "I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tighly. ^#ff8888;You won't be able to put things back if you open it.^reset;"
+
+[cost]
+gold = 320
+pixels = 160
+credits = 32
+stardust = 20
+essence = 280
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+treasure = "ct_haven_loot"
+level = 3
+
+[repo]
+ext = "activeitem"
+name = "ct_haven_loot.activeitem"
+rdir = "/items/active/alta/loot/biome"
+rpath = "/items/active/alta/loot/biome/ct_haven_loot.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome/ct_haven_loot.activeitem"
+link = "[`/items/active/alta/loot/biome/ct_haven_loot.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome/ct_haven_loot.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Haven-Loot-Crate.toml"
+rdir = "/items"
+rpath = "/items/Haven-Loot-Crate.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Haven-Loot-Crate.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png) [Haven Loot Crate](/MyEnternia/assets/items/Haven-Loot-Crate.toml)"
+
+[wiki]
+ext = "md"
+name = "Haven-Loot-Crate.md"
+rdir = "/items/loot"
+rpath = "/items/loot/Haven-Loot-Crate.md"
+fdir = "/MyEnternia/Wiki/items/loot"
+fpath = "/MyEnternia/Wiki/items/loot/Haven-Loot-Crate.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png) [Haven Loot Crate](/MyEnternia/Wiki/items/loot/Haven-Loot-Crate)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Haven Crate"]

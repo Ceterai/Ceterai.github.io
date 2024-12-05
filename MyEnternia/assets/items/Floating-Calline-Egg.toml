@@ -1,0 +1,96 @@
+id = "ct_floating_calline_egg"
+base = "item"
+cat = "monster_egg"
+type = "egg"
+tags = [ "egg", "monster_egg", "spawner", "throwable",]
+name = "Floating Calline Egg"
+lore = "Can be used to spawn an elemental called ^#b0e0fc;floating calline^reset;, or simply a crystalline elemental."
+long = "These \"eggs\" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner."
+species = "generic"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_floating_calline_egg.png)"
+
+[inspect]
+alta = "It glows in the dark slightly... More, than usual charged crystals..."
+
+[pickup]
+
+[cost]
+gold = 1040
+pixels = 520
+credits = 140
+stardust = 87
+essence = 900
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_floating_calline_egg.activeitem"
+rdir = "/items/active/alta/spawners/critters"
+rpath = "/items/active/alta/spawners/critters/ct_floating_calline_egg.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/critters"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/critters/ct_floating_calline_egg.activeitem"
+link = "[`/items/active/alta/spawners/critters/ct_floating_calline_egg.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/critters/ct_floating_calline_egg.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Floating-Calline-Egg.toml"
+rdir = "/items"
+rpath = "/items/Floating-Calline-Egg.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Floating-Calline-Egg.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_floating_calline_egg.png) [Floating Calline Egg](/MyEnternia/assets/items/Floating-Calline-Egg.toml)"
+
+[wiki]
+ext = "md"
+name = "Floating-Calline-Egg.md"
+rdir = "/items/monster_egg"
+rpath = "/items/monster_egg/Floating-Calline-Egg.md"
+fdir = "/MyEnternia/Wiki/items/monster_egg"
+fpath = "/MyEnternia/Wiki/items/monster_egg/Floating-Calline-Egg.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_floating_calline_egg.png) [Floating Calline Egg](/MyEnternia/Wiki/items/monster_egg/Floating-Calline-Egg)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Critter"
+lore = "Critters can be ^gray;relocated^reset; with a ^gray;relocator^reset;, and some of them ^gray;drop resources^reset; when hunted down with a ^gray;bow^reset;."
+long = "Look if the critter's shell or outer layer has grow a crystal or bionic matter on it, and remove it carefully to not damage the critter."
+
+[abilities.passive]
+name = "Glowing Elemental"
+lore = "Elementals can be caught with a bugnet and thrown again to act as a glowstick!"
+long = "The shape of the elemental doesn't change, but be careful while throwing it."
+
+[stats.spawner]
+entities = [ "ct_floating_calline",]
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]
+
+[stats.spawner.stats.damageTeam]
+team = 1
+type = "passive"

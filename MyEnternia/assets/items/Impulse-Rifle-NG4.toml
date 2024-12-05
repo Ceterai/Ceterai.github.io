@@ -1,0 +1,129 @@
+id = "ct_alta_impulse_rifle"
+base = "item"
+cat = "ar"
+type = "assaultRifle"
+tags = [ "ar", "assaultrifle", "assaultrifle", "impulse", "ranged", "weapon",]
+name = "Impulse Rifle NG4"
+lore = "A rifled ceternia impulse blaster, mostly used by ^#b0e0fc;alta^reset; security to suppress threats. Relatively harmless."
+long = "This long-range high-precision energy instrument can generate long-lasting impulses, able to travel without losing height."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png)"
+
+[inspect]
+alta = "What a classic. You can see a lot of these held by vardas guarding ^#b0e0fc;alta cities^reset;."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_alta_impulse_rifle.activeitem"
+rdir = "/items/active/weapons/ranged/alta/rifle"
+rpath = "/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.activeitem"
+link = "[`/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Impulse-Rifle-NG4.toml"
+rdir = "/items"
+rpath = "/items/Impulse-Rifle-NG4.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Impulse-Rifle-NG4.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png) [Impulse Rifle NG4](/MyEnternia/assets/items/Impulse-Rifle-NG4.toml)"
+
+[wiki]
+ext = "md"
+name = "Impulse-Rifle-NG4.md"
+rdir = "/items/ar"
+rpath = "/items/ar/Impulse-Rifle-NG4.md"
+fdir = "/MyEnternia/Wiki/items/ar"
+fpath = "/MyEnternia/Wiki/items/ar/Impulse-Rifle-NG4.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png) [Impulse Rifle NG4](/MyEnternia/Wiki/items/ar/Impulse-Rifle-NG4)"
+
+[meta]
+
+[upgrades.anvil]
+id = "ct_alta_impulse_rifle-upgrade"
+name = "Impulse Rifle NG4X"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png) [Impulse Rifle NG4X](/MyEnternia/assets/items/Impulse-Rifle-NG4X.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Impulse Blast"
+lore = "A standard ^#20f080;impulse^reset; blast with high precision.\nFiremodes: charge, semiauto."
+
+[abilities.secondary]
+name = "Security Switch"
+lore = "All a security unit needs with a rifle.\nPress - change attachments: none, flashlight;\nHold - change firemodes."
+
+[abilities.primary.stats]
+baseDps = 8
+energyUsage = 32
+fireTime = 0.8
+defaultFireType = "charge"
+
+[abilities.secondary.stats]
+fireTypes = [ "charge", "semi",]
+attachments = [ "none", "flashlight",]
+
+[abilities.primary.stats.fireTypes.charge]
+pressType = "blast"
+holdType = "blast"
+holdStart = "charge"
+holdLoop = "charging"
+
+[abilities.primary.stats.fireTypes.semi]
+pressType = "semi"
+holdTimeMax = 0
+
+[abilities.primary.stats.fireTypes.charge.pressParams]
+type = "ct_impulse_medium"
+sound = "primary_press"
+inaccuracy = 0.005
+
+[abilities.primary.stats.fireTypes.charge.holdParams]
+type = "ct_impulse_large"
+sound = "primary_hold"
+inaccuracy = 0.005
+
+[abilities.primary.stats.fireTypes.semi.pressParams]
+type = "ct_impulse_medium"
+count = 2
+interval = 0.1
+inaccuracy = 0.005

@@ -1,0 +1,77 @@
+id = "ct_alta_social_top"
+base = "item"
+cat = "body_clothing"
+type = "chestwear"
+tags = [ "body_clothing", "chestwear",]
+name = "Social Worker Top"
+lore = "A top usually worn by the most altruistic ^#b0e0fc;altas^reset;."
+species = "alta"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/social_top/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 64
+stardust = 40
+essence = 160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "chest"
+name = "ct_alta_social_top.chest"
+rdir = "/items/armors/alta/clothing/social_top"
+rpath = "/items/armors/alta/clothing/social_top/ct_alta_social_top.chest"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/social_top"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/social_top/ct_alta_social_top.chest"
+link = "[`/items/armors/alta/clothing/social_top/ct_alta_social_top.chest`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/social_top/ct_alta_social_top.chest)"
+
+[assets]
+ext = "toml"
+name = "Social-Worker-Top.toml"
+rdir = "/items"
+rpath = "/items/Social-Worker-Top.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Social-Worker-Top.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/social_top/icon.png) [Social Worker Top](/MyEnternia/assets/items/Social-Worker-Top.toml)"
+
+[wiki]
+ext = "md"
+name = "Social-Worker-Top.md"
+rdir = "/items/body_clothing"
+rpath = "/items/body_clothing/Social-Worker-Top.md"
+fdir = "/MyEnternia/Wiki/items/body_clothing"
+fpath = "/MyEnternia/Wiki/items/body_clothing/Social-Worker-Top.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/social_top/icon.png) [Social Worker Top](/MyEnternia/Wiki/items/body_clothing/Social-Worker-Top)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

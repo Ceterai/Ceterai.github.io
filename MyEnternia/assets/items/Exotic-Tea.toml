@@ -1,0 +1,85 @@
+id = "ct_vermont_tea-exotic"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "drink", "runeva_cuisine", "tea",]
+name = "Exotic Tea"
+lore = "This definitely tastes weird. Good weird, I think you're onto something."
+long = "The original vermont tea mix with significant modifications. It's secret lies in switching up spices with aya powder, and using less soury ingredients."
+species = "alta"
+level = 4
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png)"
+
+[inspect]
+alta = "It's really hard to describe the flavor other than a sweet and milky vermont tea. I feel like I've unlocked a new color palette."
+
+[pickup]
+
+[cost]
+gold = 2400
+pixels = 1200
+credits = 326
+stardust = 203
+essence = 2070
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_vermont_tea"
+name = "Vermont Tea"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png) [Vermont Tea](/MyEnternia/assets/items/Vermont-Tea.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_vermont_tea.consumable"
+rdir = "/items/generic/food/tier2"
+rpath = "/items/generic/food/tier2/ct_vermont_tea.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_vermont_tea.consumable"
+link = "[`/items/generic/food/tier2/ct_vermont_tea.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_vermont_tea.consumable)"
+
+[assets]
+ext = "toml"
+name = "Exotic-Tea.toml"
+rdir = "/items"
+rpath = "/items/Exotic-Tea.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Exotic-Tea.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png) [Exotic Tea](/MyEnternia/assets/items/Exotic-Tea.toml)"
+
+[wiki]
+ext = "md"
+name = "Vermont-Tea.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Vermont-Tea.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Vermont-Tea.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png) [Vermont Tea](/MyEnternia/Wiki/items/drink/Vermont-Tea)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

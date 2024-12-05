@@ -1,0 +1,77 @@
+id = "ct_alta_light_shirt"
+base = "item"
+cat = "body_clothing"
+type = "chestwear"
+tags = [ "body_clothing", "chestwear",]
+name = "Light Shirt"
+lore = "A simple casual shirt worn by many altas. It smells of home and peace."
+species = "alta"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 64
+stardust = 40
+essence = 160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "chest"
+name = "ct_alta_light_shirt.chest"
+rdir = "/items/armors/alta/clothing/light_shirt"
+rpath = "/items/armors/alta/clothing/light_shirt/ct_alta_light_shirt.chest"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/light_shirt"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/light_shirt/ct_alta_light_shirt.chest"
+link = "[`/items/armors/alta/clothing/light_shirt/ct_alta_light_shirt.chest`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/light_shirt/ct_alta_light_shirt.chest)"
+
+[assets]
+ext = "toml"
+name = "Light-Shirt.toml"
+rdir = "/items"
+rpath = "/items/Light-Shirt.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Light-Shirt.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png) [Light Shirt](/MyEnternia/assets/items/Light-Shirt.toml)"
+
+[wiki]
+ext = "md"
+name = "Light-Shirt.md"
+rdir = "/items/body_clothing"
+rpath = "/items/body_clothing/Light-Shirt.md"
+fdir = "/MyEnternia/Wiki/items/body_clothing"
+fpath = "/MyEnternia/Wiki/items/body_clothing/Light-Shirt.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png) [Light Shirt](/MyEnternia/Wiki/items/body_clothing/Light-Shirt)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

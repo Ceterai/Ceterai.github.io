@@ -1,0 +1,114 @@
+id = "ct_eds_one"
+base = "item"
+cat = "sniper"
+type = "sniperRifle"
+tags = [ "eds", "impulse", "ionic", "ranged", "sniper", "sniperrifle", "sniperrifle", "weapon",]
+name = "EDS-One"
+lore = "A reinforced ^#8020f0;ionic^reset; sniper rifle designed to eliminate large targets on relatively long distances. A proud achievement of ^#f02020;EDS^reset;."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_eds_one.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+ct_eds_msg = "The item you've just picked up seems to have visual EDS markings on it. ^#f02020;EDS^reset; is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  \nUnfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_eds_one.activeitem"
+rdir = "/items/active/weapons/ranged/alta/heavy"
+rpath = "/items/active/weapons/ranged/alta/heavy/ct_eds_one.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/heavy"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/heavy/ct_eds_one.activeitem"
+link = "[`/items/active/weapons/ranged/alta/heavy/ct_eds_one.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/heavy/ct_eds_one.activeitem)"
+
+[assets]
+ext = "toml"
+name = "EDS-One.toml"
+rdir = "/items"
+rpath = "/items/EDS-One.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/EDS-One.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_eds_one.png) [EDS-One](/MyEnternia/assets/items/EDS-One.toml)"
+
+[wiki]
+ext = "md"
+name = "EDS-One.md"
+rdir = "/items/sniper"
+rpath = "/items/sniper/EDS-One.md"
+fdir = "/MyEnternia/Wiki/items/sniper"
+fpath = "/MyEnternia/Wiki/items/sniper/EDS-One.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_eds_one.png) [EDS-One](/MyEnternia/Wiki/items/sniper/EDS-One)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "One-Blast Snipe"
+lore = "Easy, frequent silenced shots are the main advantage.\nFiremodes: single, semiauto."
+
+[abilities.secondary]
+name = "Elerune Tactics"
+lore = "Tools tuned for tactical operations.\nPress - change attachments: none, laser, stabilizer (x1.25 dmg);\nHold - change firemodes."
+
+[abilities.primary.stats]
+baseDps = 10
+energyUsage = 36
+fireTime = 1.2
+defaultFireType = "single"
+
+[abilities.secondary.stats]
+fireTypes = [ "single", "semi",]
+attachments = [ "none", "laser", "stabilizer",]
+
+[abilities.primary.stats.fireTypes.single]
+pressType = "snipe"
+holdTimeMax = 0
+
+[abilities.primary.stats.fireTypes.semi]
+pressType = "semi"
+holdTimeMax = 0
+
+[abilities.primary.stats.fireTypes.single.pressParams]
+type = "ct_ionic_medium"
+inaccuracy = 0.0
+
+[abilities.primary.stats.fireTypes.semi.pressParams]
+type = "ct_ionic_medium"
+count = 3
+interval = 0.1
+inaccuracy = 0.005

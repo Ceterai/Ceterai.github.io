@@ -1,0 +1,82 @@
+id = "ct_enchanted_loot"
+base = "item"
+cat = "loot"
+type = "container"
+tags = [ "container", "enchanted", "loot", "viona",]
+name = "Enchanted Loot Crate"
+lore = "Contains random loot from ^#8080f0;enchanted meadow^reset; chests."
+long = "Better be cautious, since the create is full of items contaminated with unstable ^#8080f0;vionia^reset;."
+species = "generic"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png)"
+
+[inspect]
+alta = "This pad \"reeks\" of viona, and the smell is amazing. It's so inviting! I'll open it just a tad, just to do a little peek..."
+
+[pickup]
+ct_loot_crate_msg = "I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tighly. ^#ff8888;You won't be able to put things back if you open it.^reset;"
+
+[cost]
+gold = 320
+pixels = 160
+credits = 32
+stardust = 20
+essence = 280
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+treasure = "ct_enchanted_loot"
+level = 3
+
+[repo]
+ext = "activeitem"
+name = "ct_enchanted_loot.activeitem"
+rdir = "/items/active/alta/loot/biome"
+rpath = "/items/active/alta/loot/biome/ct_enchanted_loot.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome/ct_enchanted_loot.activeitem"
+link = "[`/items/active/alta/loot/biome/ct_enchanted_loot.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/loot/biome/ct_enchanted_loot.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Enchanted-Loot-Crate.toml"
+rdir = "/items"
+rpath = "/items/Enchanted-Loot-Crate.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Enchanted-Loot-Crate.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png) [Enchanted Loot Crate](/MyEnternia/assets/items/Enchanted-Loot-Crate.toml)"
+
+[wiki]
+ext = "md"
+name = "Enchanted-Loot-Crate.md"
+rdir = "/items/loot"
+rpath = "/items/loot/Enchanted-Loot-Crate.md"
+fdir = "/MyEnternia/Wiki/items/loot"
+fpath = "/MyEnternia/Wiki/items/loot/Enchanted-Loot-Crate.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png) [Enchanted Loot Crate](/MyEnternia/Wiki/items/loot/Enchanted-Loot-Crate)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Enchanted Crate"]

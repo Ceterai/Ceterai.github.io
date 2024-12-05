@@ -1,0 +1,113 @@
+id = "ct_bishyn_spear"
+base = "item"
+cat = "spear"
+type = "spear"
+tags = [ "bishyn", "crystal", "melee", "spear", "weapon",]
+name = "Bishyn Spear"
+lore = "^red;WIP^reset;. Be careful - the blade of this spear is made out of poisonous crystals."
+long = "In the hands of a professional, it can become both very useful and quite versatile. Made by ^#378754;bishyn^reset; enthusiasts, it has a couple of unfinished features that could unravel its true potential."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png)"
+
+[inspect]
+alta = "The handle is so smooth, yet it grips quite nicely too, that's very cool! Not a lot of uses to it though. I know that these are sometimes used to manually carve different weaker crystals, like gheatsyn, but I don't think I plan on doing anything like that."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_bishyn_spear.activeitem"
+rdir = "/items/active/weapons/melee/alta/spear"
+rpath = "/items/active/weapons/melee/alta/spear/ct_bishyn_spear.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/spear"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.activeitem"
+link = "[`/items/active/weapons/melee/alta/spear/ct_bishyn_spear.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Bishyn-Spear.toml"
+rdir = "/items"
+rpath = "/items/Bishyn-Spear.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Bishyn-Spear.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png) [Bishyn Spear](/MyEnternia/assets/items/Bishyn-Spear.toml)"
+
+[wiki]
+ext = "md"
+name = "Bishyn-Spear.md"
+rdir = "/items/spear"
+rpath = "/items/spear/Bishyn-Spear.md"
+fdir = "/MyEnternia/Wiki/items/spear"
+fpath = "/MyEnternia/Wiki/items/spear/Bishyn-Spear.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png) [Bishyn Spear](/MyEnternia/Wiki/items/spear/Bishyn-Spear)"
+
+[upgrades.anvil]
+id = "ct_bishyn_spear-upgrade"
+name = "Razhus Az'Ar"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png) [Razhus Az'Ar](/MyEnternia/assets/items/Razhus-Az'Ar.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Bishyn Blade"
+lore = "^red;WIP^reset;. A sequence of 3 light strikes. Hold to perform a Hold Strike.\nEnters a charged state every 10 seconds, making next 4 hits deal bonus ^#80f020;poison^reset; damage."
+long = "The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are ^#76c7e4;diamonds^reset; and ^#0050c0;hevika^reset; crystals."
+
+[abilities.secondary]
+name = "Spearing"
+lore = "Hold to perform a rocket spear ability."
+long = "This technology is part of the design, however not without flaws. It requires an energy source to function, but has poor compatability with usual alta tech."
+
+[abilities.primary.stats]
+fireTime = 0.6
+baseDps = 12
+holdDamageMultiplier = 0.1
+
+[abilities.secondary.stats]
+
+[meta.aliases."Crystal Cutter"]
+
+[abilities.primary.stats.damageConfig]
+damageSourceKind = "<elementalType>spear"
+statusEffects = []
+knockbackMode = "aim"
+knockback = 10
+timeoutGroup = "primary"
+
+[abilities.primary.stats.holdDamageConfig]
+timeoutGroup = "hold"
+timeout = 0.5

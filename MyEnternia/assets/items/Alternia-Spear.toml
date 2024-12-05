@@ -1,0 +1,119 @@
+id = "ctspear"
+base = "item"
+cat = "spear"
+type = "spear"
+tags = [ "melee", "spear", "weapon",]
+name = "Alternia Spear"
+lore = "Made of pure starsteel, it bursts with electricity."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "alternia_spear.activeitem"
+rdir = "/items/active/weapons/other/asirai"
+rpath = "/items/active/weapons/other/asirai/alternia_spear.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/other/asirai"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/other/asirai/alternia_spear.activeitem"
+link = "[`/items/active/weapons/other/asirai/alternia_spear.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/other/asirai/alternia_spear.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Alternia-Spear.toml"
+rdir = "/items"
+rpath = "/items/Alternia-Spear.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Alternia-Spear.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png) [Alternia Spear](/MyEnternia/assets/items/Alternia-Spear.toml)"
+
+[wiki]
+ext = "md"
+name = "Alternia-Spear.md"
+rdir = "/items/spear"
+rpath = "/items/spear/Alternia-Spear.md"
+fdir = "/MyEnternia/Wiki/items/spear"
+fpath = "/MyEnternia/Wiki/items/spear/Alternia-Spear.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png) [Alternia Spear](/MyEnternia/Wiki/items/spear/Alternia-Spear)"
+
+[meta]
+
+[upgrades.anvil]
+id = "ctspear-upgrade"
+name = "Enternia Halberd"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png) [Enternia Halberd](/MyEnternia/assets/items/Enternia-Halberd.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Stab'n'Dash"
+
+[abilities.secondary]
+name = "Energy Seeker"
+
+[abilities.primary.stats]
+power = 4
+swooshOffsetRegions = [ [ 3.0, -0.5, 4.5, 5.0,], [ 1.5, -1.0, 5.5, 1.0,], [ 3.0, -0.5, 4.5, 5.0,], [ 0.75, 0.0, 6.25, 5.0,],]
+projectileCount = 0
+[[abilities.primary.stats.stepDamageConfig]]
+baseDamageFactor = 1.35
+knockback = 5
+statusEffects = []
+
+[[abilities.primary.stats.stepDamageConfig]]
+baseDamageFactor = 1.1
+knockback = -5
+statusEffects = []
+
+[[abilities.primary.stats.stepDamageConfig]]
+baseDamageFactor = 1.55
+knockback = 0
+statusEffects = []
+
+[[abilities.primary.stats.stepDamageConfig]]
+baseDamageFactor = 2.2
+knockback = 15
+statusEffects = [ "paralysis",]
+
+[abilities.secondary.stats]
+power = 4
+
+[abilities.secondary.stats.damageConfig]
+statusEffects = []

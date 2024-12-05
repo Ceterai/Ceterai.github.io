@@ -1,0 +1,100 @@
+id = "ct_celeste"
+base = "item"
+cat = "broadsword"
+type = "broadsword"
+tags = [ "broadsword", "celestia", "melee", "stardust", "staris", "sword", "weapon",]
+name = "Celeste"
+lore = "The blade of this sword is made out of ^#ffa8e8;stardust^reset; essence. It is surprisingly easy to handle."
+long = "Seemingly forged by the stars, it makes you feel like you have a purpose, like you are needed. Its overwhelming power fills you with determination."
+species = "alta"
+level = 6
+rarity = 3
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_celeste.png)"
+
+[inspect]
+alta = "Just holding it makes me want to protect others. As a child of stars, I accept this Io gift. I hope I can make it worth."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_celeste.activeitem"
+rdir = "/items/active/weapons/melee/alta/heavy"
+rpath = "/items/active/weapons/melee/alta/heavy/ct_celeste.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy/ct_celeste.activeitem"
+link = "[`/items/active/weapons/melee/alta/heavy/ct_celeste.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy/ct_celeste.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Celeste.toml"
+rdir = "/items"
+rpath = "/items/Celeste.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Celeste.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_celeste.png) [Celeste](/MyEnternia/assets/items/Celeste.toml)"
+
+[wiki]
+ext = "md"
+name = "Celeste.md"
+rdir = "/items/broadsword"
+rpath = "/items/broadsword/Celeste.md"
+fdir = "/MyEnternia/Wiki/items/broadsword"
+fpath = "/MyEnternia/Wiki/items/broadsword/Celeste.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_celeste.png) [Celeste](/MyEnternia/Wiki/items/broadsword/Celeste)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Celestial Strike"
+lore = "^red;WIP^reset;. A combo of 6 strikes. Hold in air to ^#b0e0fc;Downstab^reset;. Each hit is more powerful with ^#ffa8e8;stardust^reset; in your inventory (+0.5%/speck, 120 (+60%) max)."
+long = "It feels its connection to the sword, as it feels its connection to Io herself. This is a celestial level of power."
+
+[abilities.secondary]
+name = "Celestia's Nova"
+lore = "Creates a charged nova sphere that strikes nearby enemies."
+long = "Is this how new stardust is born?"
+
+[abilities.primary.stats]
+baseDps = 16
+fireTime = 0.7
+
+[abilities.secondary.stats]
+
+[meta.aliases."Staris Chin"]
+
+[abilities.primary.stats.damageConfig.itemBonus]
+type = "ct_stardust"
+damageFactor = 0.005
+max = 120

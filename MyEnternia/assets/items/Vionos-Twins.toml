@@ -1,0 +1,133 @@
+id = "ct_enchanted_twins"
+base = "item"
+cat = "broadsword"
+type = "broadsword"
+tags = [ "broadsword", "enchanted", "melee", "sword", "twinblade", "viona", "weapon",]
+name = "Vionos Twins"
+lore = "Someone did the seemingly impossible - used anomaly energy to create a tool. You can sense slight magnetic pulls coming from it."
+long = "This dangerous yet powerful combo doesn't seem to go well with usual alta safety protocols. Still, it might be pretty enticing to some."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png)"
+
+[inspect]
+alta = "This seems a bit hazardous. I should probably consult with a coordinator first, just in case. Viona anomalies can be pretty dangerous."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_enchanted_twins.activeitem"
+rdir = "/items/active/weapons/melee/alta/heavy"
+rpath = "/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.activeitem"
+link = "[`/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Vionos-Twins.toml"
+rdir = "/items"
+rpath = "/items/Vionos-Twins.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Vionos-Twins.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png) [Vionos Twins](/MyEnternia/assets/items/Vionos-Twins.toml)"
+
+[wiki]
+ext = "md"
+name = "Vionos-Twins.md"
+rdir = "/items/broadsword"
+rpath = "/items/broadsword/Vionos-Twins.md"
+fdir = "/MyEnternia/Wiki/items/broadsword"
+fpath = "/MyEnternia/Wiki/items/broadsword/Vionos-Twins.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png) [Vionos Twins](/MyEnternia/Wiki/items/broadsword/Vionos-Twins)"
+
+[upgrades.anvil]
+id = "ct_enchanted_twins-upgrade"
+name = "Bi-Blade"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png) [Bi-Blade](/MyEnternia/assets/items/Bi-Blade.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Viona Resonation"
+lore = "A sequence of 3 heavy strikes. Hold to perform a ^#b0e0fc;Blade Charge^reset;. Hold in air to ^#b0e0fc;Downstab^reset;."
+long = "The special resonation creates slight energy vibrations between the twins, providing additional power to each hit."
+
+[abilities.secondary]
+name = "Resonation"
+lore = "Raises an ice pillar in front of you."
+long = "The impact from this special attack quickly dissipates, as not all viona combinations are able to exist for extended periods of time."
+
+[meta.md]
+"#### Miazma" = "A small viona anomaly of certain types, that can often be recognized by crimson-colored wavy optical distortions in the air. These areas can change in sizes, and can be dangerous without proper protection."
+
+[abilities.primary.stats]
+baseDps = 12
+fireTime = 0.83
+energyUsage = 32
+
+[abilities.secondary.stats]
+
+[meta.aliases."Vionos Ist"]
+
+[meta.aliases.Miazma]
+anchor = "miazma"
+
+[abilities.primary.stats.holdParams]
+chargeBorder = "FF33FF88"
+
+[abilities.primary.stats.damageConfig]
+statusEffects = []
+baseDamage = 22.5
+knockback = 40
+damageSourceKind = "broadsword"
+knockbackMode = "facing"
+timeout = 0.5
+
+[abilities.primary.stats.holdParams.damageConfig]
+damageSourceKind = "icebroadsword"
+statusEffects = [ "frostslow",]
+
+[abilities.primary.stats.holdParams.damageConfig.ranged]
+type = "smallicecloud"
+count = 3
+inaccuracy = 1.57
+offset = [ 5.0, -0.85,]
+sound = "ice"
+
+[abilities.primary.stats.holdParams.damageConfig.ranged.params]
+speed = 10

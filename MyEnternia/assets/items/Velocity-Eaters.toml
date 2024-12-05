@@ -1,0 +1,85 @@
+id = "ct_alta_scout_velocity_eaters"
+base = "item"
+cat = "legs_armor"
+type = "legarmour"
+tags = [ "legarmour", "legs_armor", "protogear", "tier3armour",]
+name = "Velocity Eaters"
+lore = "These trousers boost your jump and disperse your velocity when landing, reducing fall damage. Perfect for scouting missions."
+long = "They are powered by the special protosystem that replaces usual energy cells with an energy circulation mechanic that flows troughout the whole costume."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png)"
+
+[inspect]
+alta = "I can jump so much higher in these! Like a real scava!"
+
+[pickup]
+
+[cost]
+gold = 2800
+pixels = 1400
+credits = 280
+stardust = 175
+essence = 2450
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "legs"
+name = "ct_alta_scout_velocity_eaters.legs"
+rdir = "/items/armors/alta/tier3/scout/velocity_eaters"
+rpath = "/items/armors/alta/tier3/scout/velocity_eaters/ct_alta_scout_velocity_eaters.legs"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier3/scout/velocity_eaters"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier3/scout/velocity_eaters/ct_alta_scout_velocity_eaters.legs"
+link = "[`/items/armors/alta/tier3/scout/velocity_eaters/ct_alta_scout_velocity_eaters.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier3/scout/velocity_eaters/ct_alta_scout_velocity_eaters.legs)"
+
+[assets]
+ext = "toml"
+name = "Velocity-Eaters.toml"
+rdir = "/items"
+rpath = "/items/Velocity-Eaters.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Velocity-Eaters.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png) [Velocity Eaters](/MyEnternia/assets/items/Velocity-Eaters.toml)"
+
+[wiki]
+ext = "md"
+name = "Velocity-Eaters.md"
+rdir = "/items/legs_armor"
+rpath = "/items/legs_armor/Velocity-Eaters.md"
+fdir = "/MyEnternia/Wiki/items/legs_armor"
+fpath = "/MyEnternia/Wiki/items/legs_armor/Velocity-Eaters.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png) [Velocity Eaters](/MyEnternia/Wiki/items/legs_armor/Velocity-Eaters)"
+
+[upgrades.anvil]
+id = "ct_alta_scout_velocity_eaters-upgrade"
+name = "Protea's Vectors"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png) [Protea's Vectors](/MyEnternia/assets/items/Protea's-Vectors.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases.Protopads]

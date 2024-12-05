@@ -1,0 +1,82 @@
+id = "ct_alta_android"
+base = "item"
+cat = "android_deployer"
+type = "robotics"
+tags = [ "android", "android_deployer", "robotics", "spawner", "throwable",]
+name = "Android"
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 960
+pixels = 480
+credits = 96
+stardust = 60
+essence = 840
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "alta.activeitem"
+rdir = "/items/active/alta/spawners/androids"
+rpath = "/items/active/alta/spawners/androids/alta.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids/alta.activeitem"
+link = "[`/items/active/alta/spawners/androids/alta.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids/alta.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Android.toml"
+rdir = "/items"
+rpath = "/items/Android.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Android.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png) [Android](/MyEnternia/assets/items/Android.toml)"
+
+[wiki]
+ext = "md"
+name = "Android.md"
+rdir = "/items/android_deployer"
+rpath = "/items/android_deployer/Android.md"
+fdir = "/MyEnternia/Wiki/items/android_deployer"
+fpath = "/MyEnternia/Wiki/items/android_deployer/Android.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png) [Android](/MyEnternia/Wiki/items/android_deployer/Android)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[stats.spawner]
+entities = [ "ct_alta_android",]
+
+[stats.spawner.stats]
+persistent = false
+
+[stats.spawner.stats.damageTeam]

@@ -1,0 +1,131 @@
+id = "ct_bishyn_gun"
+base = "item"
+cat = "shotgun"
+type = "shotgun"
+tags = [ "bishyn", "cannon", "crystal", "minelauncher", "ranged", "shotgun", "weapon",]
+name = "Bishyn Gun"
+lore = "A multishot crystal blaster filled with poisonous shards."
+species = "alta"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_bishyn_gun.activeitem"
+rdir = "/items/active/weapons/ranged/alta/cannon"
+rpath = "/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.activeitem"
+link = "[`/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Bishyn-Gun.toml"
+rdir = "/items"
+rpath = "/items/Bishyn-Gun.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Bishyn-Gun.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png) [Bishyn Gun](/MyEnternia/assets/items/Bishyn-Gun.toml)"
+
+[wiki]
+ext = "md"
+name = "Bishyn-Gun.md"
+rdir = "/items/shotgun"
+rpath = "/items/shotgun/Bishyn-Gun.md"
+fdir = "/MyEnternia/Wiki/items/shotgun"
+fpath = "/MyEnternia/Wiki/items/shotgun/Bishyn-Gun.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png) [Bishyn Gun](/MyEnternia/Wiki/items/shotgun/Bishyn-Gun)"
+
+[meta]
+
+[upgrades.anvil]
+id = "ct_bishyn_gun-upgrade"
+name = "Bishyn Cannon"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png) [Bishyn Cannon](/MyEnternia/assets/items/Bishyn-Cannon.toml)"
+value = 0.1
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Bishyn Barrage"
+lore = "^#378754;Bishyn^reset; crystals are poisonous - they deal physical damage while applying special effects. Press to burst with shards, hold for a shard discharge."
+
+[abilities.secondary]
+name = "Bishyn Discharge"
+lore = "A powerful poisonous discharge - press for a shotgun-like burst of poison, hold to launch a proximity mine."
+
+[abilities.primary.stats]
+baseDps = 8
+energyUsage = 32
+fireTime = 0.9
+pressType = "burst"
+holdType = "clouds"
+
+[abilities.secondary.stats]
+baseDps = 8
+energyUsage = 36
+fireTime = 0.9
+pressType = "burst"
+holdType = "blast"
+
+[abilities.primary.stats.pressParams]
+type = "ct_bishyn_shard"
+inaccuracy = 0.18
+
+[abilities.primary.stats.holdParams]
+type = "ct_bishyn_shard"
+inaccuracy = 1.81
+count = 12
+
+[abilities.secondary.stats.pressParams]
+type = "acidsweep"
+inaccuracy = 0.11
+count = 3
+
+[abilities.secondary.stats.holdParams]
+type = "poisonproximitymine"
+inaccuracy = 0.01
+
+[abilities.primary.stats.pressParams.params]
+knockback = 20
+timeToLive = 5.0
+
+[abilities.secondary.stats.pressParams.params]
+knockback = 20
+timeToLive = 5.0

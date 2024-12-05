@@ -1,0 +1,85 @@
+id = "ct_special_mimosa-lenn"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dish", "runeva_cuisine", "salad",]
+name = "Lenn's Mimosa"
+lore = "A very special mimosa that tastes exactly like that one time! That one time..."
+long = "This very special recipe variation was created for a very special person."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png)"
+
+[inspect]
+alta = "As far as I know, dishes like mohitavas and mimosas were brought to us by time drifters. I guess that's why it's named like that..."
+
+[pickup]
+
+[cost]
+gold = 11520
+pixels = 5760
+credits = 1760
+stardust = 1100
+essence = 10400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_special_mimosa"
+name = "Special Mimosa"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png) [Special Mimosa](/MyEnternia/assets/items/Special-Mimosa.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_special_mimosa.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_special_mimosa.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_special_mimosa.consumable"
+link = "[`/items/generic/food/tier4/ct_special_mimosa.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_special_mimosa.consumable)"
+
+[assets]
+ext = "toml"
+name = "Lenn's-Mimosa.toml"
+rdir = "/items"
+rpath = "/items/Lenn's-Mimosa.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Lenn's-Mimosa.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png) [Lenn's Mimosa](/MyEnternia/assets/items/Lenn's-Mimosa.toml)"
+
+[wiki]
+ext = "md"
+name = "Special-Mimosa.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Special-Mimosa.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Special-Mimosa.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png) [Special Mimosa](/MyEnternia/Wiki/items/dish/Special-Mimosa)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

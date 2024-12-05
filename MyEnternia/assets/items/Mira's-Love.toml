@@ -1,0 +1,85 @@
+id = "ct_ion_cake-love"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cake", "cooking", "dessert", "dish", "nia_cuisine",]
+name = "Mira's Love"
+lore = "This well-made ion cake is beyond all praises! Surely it deserves the Al'deron's commander name next to it."
+long = "Every bit is calculated and planned, all measurements are exact, including your reaction and what side of the cake you'll start with."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png)"
+
+[inspect]
+alta = "This cake is screaming \"Mira\" with its sheer existance. Love her, and this cake accordingly."
+
+[pickup]
+
+[cost]
+gold = 11240
+pixels = 5620
+credits = 1720
+stardust = 1075
+essence = 10140
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_ion_cake"
+name = "Ion Cake"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png) [Ion Cake](/MyEnternia/assets/items/Ion-Cake.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_ion_cake.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_ion_cake.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_ion_cake.consumable"
+link = "[`/items/generic/food/tier4/ct_ion_cake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_ion_cake.consumable)"
+
+[assets]
+ext = "toml"
+name = "Mira's-Love.toml"
+rdir = "/items"
+rpath = "/items/Mira's-Love.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Mira's-Love.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png) [Mira's Love](/MyEnternia/assets/items/Mira's-Love.toml)"
+
+[wiki]
+ext = "md"
+name = "Ion-Cake.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Ion-Cake.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Ion-Cake.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png) [Ion Cake](/MyEnternia/Wiki/items/dish/Ion-Cake)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

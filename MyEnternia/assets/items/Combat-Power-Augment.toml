@@ -1,0 +1,77 @@
+id = "ct_combat_power_augment"
+base = "item"
+cat = "augment"
+type = "data_source"
+tags = [ "augment", "combat", "data_source", "enhancement",]
+name = "Combat Power Augment"
+lore = "An EPP module that slightly boosts your power and overall mobility."
+species = "alta"
+level = 5
+rarity = 2
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 17920
+pixels = 8960
+credits = 2800
+stardust = 1750
+essence = 15400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "augment"
+name = "ct_combat_power_augment.augment"
+rdir = "/items/augments/back"
+rpath = "/items/augments/back/ct_combat_power_augment.augment"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_combat_power_augment.augment"
+link = "[`/items/augments/back/ct_combat_power_augment.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_combat_power_augment.augment)"
+
+[assets]
+ext = "toml"
+name = "Combat-Power-Augment.toml"
+rdir = "/items"
+rpath = "/items/Combat-Power-Augment.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Combat-Power-Augment.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png) [Combat Power Augment](/MyEnternia/assets/items/Combat-Power-Augment.toml)"
+
+[wiki]
+ext = "md"
+name = "Combat-Power-Augment.md"
+rdir = "/items/augment"
+rpath = "/items/augment/Combat-Power-Augment.md"
+fdir = "/MyEnternia/Wiki/items/augment"
+fpath = "/MyEnternia/Wiki/items/augment/Combat-Power-Augment.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png) [Combat Power Augment](/MyEnternia/Wiki/items/augment/Combat-Power-Augment)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

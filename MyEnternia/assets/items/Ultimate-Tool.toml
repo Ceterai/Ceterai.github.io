@@ -1,0 +1,92 @@
+id = "ct_alta_multi_tool-upgrade"
+base = "item"
+cat = "shortsword"
+type = "shortsword"
+tags = [ "calin", "crystal", "melee", "shortsword", "sword", "weapon",]
+name = "Ultimate Tool"
+lore = "A perfect multi-tool enhanced with ^#ffa8e8;stardust^reset;. Now we're talking!"
+long = "This seemingly already useful thing just got more useful somehow. And still, only a few of altas could find or create such a thing due to it not being able to be manufactured."
+species = "alta"
+level = 3
+rarity = 1
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png)"
+
+[inspect]
+alta = "I feel like every alta I know that goes outside the city has this. I mean, wouldn't mind having one myself, so yeah."
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_alta_multi_tool"
+name = "Multi-Tool"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png) [Multi-Tool](/MyEnternia/assets/items/Multi-Tool.toml)"
+value = 0.1
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_alta_multi_tool.activeitem"
+rdir = "/items/active/weapons/melee/alta/light"
+rpath = "/items/active/weapons/melee/alta/light/ct_alta_multi_tool.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.activeitem"
+link = "[`/items/active/weapons/melee/alta/light/ct_alta_multi_tool.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Ultimate-Tool.toml"
+rdir = "/items"
+rpath = "/items/Ultimate-Tool.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ultimate-Tool.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png) [Ultimate Tool](/MyEnternia/assets/items/Ultimate-Tool.toml)"
+
+[wiki]
+ext = "md"
+name = "Multi-Tool.md"
+rdir = "/items/shortsword"
+rpath = "/items/shortsword/Multi-Tool.md"
+fdir = "/MyEnternia/Wiki/items/shortsword"
+fpath = "/MyEnternia/Wiki/items/shortsword/Multi-Tool.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png) [Multi-Tool](/MyEnternia/Wiki/items/shortsword/Multi-Tool)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Enhanced Toolset"
+lore = "Launch for a further grapple blade (broken). Hold to enter a faster mining state."
+long = "This one got enhanced with extra switches and was re-weighted to make each swing much easier to perform, resulting in faster mining times."
+
+[abilities.primary.stats]
+
+[meta.aliases."Multi Stick"]

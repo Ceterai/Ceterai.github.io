@@ -1,0 +1,86 @@
+id = "ct_alta_scout_set"
+base = "item"
+cat = "set"
+type = "equipment"
+tags = [ "alta_scout", "equipment", "set",]
+name = "Scout Set"
+lore = "Contains full equipment set of an ^#b0e0fc;alta^reset; scout, including a lore codex of this set.\nIs cheaper to craft this way than separately."
+long = "Proper enhancement set to greatly improve one's mobility, while providing some protection and boosting energy to account for different scouting actions, like moving, scanning and using proto-tech."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png)"
+
+[inspect]
+alta = "Scava's clothes! I can wear them, to feel like I'm a real scava!! With a protospear!!!"
+
+[pickup]
+ct_set_msg = "Looks like you have acquired a set of alta equipment. These usually contain a full set of armor with corresponding documentation. Due to being created in bulk, sets are often much cheaper to craft than it is to craft their components separately."
+
+[cost]
+gold = 12800
+pixels = 6400
+credits = 1280
+stardust = 800
+essence = 11200
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+treasure = "ct_alta_scout_set"
+level = 3
+
+[repo]
+ext = "activeitem"
+name = "scout.activeitem"
+rdir = "/items/active/alta/sets"
+rpath = "/items/active/alta/sets/scout.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/sets"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/sets/scout.activeitem"
+link = "[`/items/active/alta/sets/scout.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/sets/scout.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Scout-Set.toml"
+rdir = "/items"
+rpath = "/items/Scout-Set.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Scout-Set.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png) [Scout Set](/MyEnternia/assets/items/Scout-Set.toml)"
+
+[wiki]
+ext = "md"
+name = "Scout-Set.md"
+rdir = "/items/set"
+rpath = "/items/set/Scout-Set.md"
+fdir = "/MyEnternia/Wiki/items/set"
+fpath = "/MyEnternia/Wiki/items/set/Scout-Set.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png) [Scout Set](/MyEnternia/Wiki/items/set/Scout-Set)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Alta Scout"]
+
+[meta.aliases.Scout]
+
+[meta.aliases.Scava]

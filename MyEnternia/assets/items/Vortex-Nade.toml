@@ -1,0 +1,79 @@
+id = "ct_vortex_nade"
+base = "item"
+cat = "throwable"
+type = "nade"
+tags = [ "nade", "throwable", "viona", "vortex",]
+name = "Vortex Nade"
+lore = "A grenade that creates a localised vortex field that slows and damages enemies. Covered with signature ^#ffe364;Faradea^reset; stripes."
+long = "It utilizes particular types of ^#8080f0;vionia^reset; to create a point of immediate energy conflict."
+species = "alta"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png)"
+
+[inspect]
+alta = "A faradea frag. I think these are using ^#8080f0;viona^reset; anomalies as a damage tactic. Very creative."
+
+[pickup]
+
+[cost]
+gold = 240
+pixels = 120
+credits = 32
+stardust = 20
+essence = 220
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_vortex_nade.thrownitem"
+rdir = "/items/throwables"
+rpath = "/items/throwables/ct_vortex_nade.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_vortex_nade.thrownitem"
+link = "[`/items/throwables/ct_vortex_nade.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_vortex_nade.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Vortex-Nade.toml"
+rdir = "/items"
+rpath = "/items/Vortex-Nade.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Vortex-Nade.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png) [Vortex Nade](/MyEnternia/assets/items/Vortex-Nade.toml)"
+
+[wiki]
+ext = "md"
+name = "Vortex-Nade.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Vortex-Nade.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Vortex-Nade.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png) [Vortex Nade](/MyEnternia/Wiki/items/throwable/Vortex-Nade)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

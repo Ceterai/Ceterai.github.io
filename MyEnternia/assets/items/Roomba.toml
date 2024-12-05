@@ -1,0 +1,99 @@
+id = "ct_alta_roomba"
+base = "item"
+cat = "droid_deployer"
+type = "robotics"
+tags = [ "droid", "droid_deployer", "robotics", "spawner", "throwable",]
+name = "Roomba"
+lore = "Can be used to deploy a persistent alta roomba helper droid."
+long = "Alta roombas are simple cleaning robots, used in many alta facilities, often as companions for alta cleaners and alta waiters."
+species = "alta"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/roomba.png)"
+
+[inspect]
+alta = "So cute! I want to get out of its way as quickly as possible!"
+
+[pickup]
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 1600
+pixels = 800
+credits = 160
+stardust = 100
+essence = 1400
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = false
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "roomba.activeitem"
+rdir = "/items/active/alta/spawners/helpers"
+rpath = "/items/active/alta/spawners/helpers/roomba.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/helpers"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/helpers/roomba.activeitem"
+link = "[`/items/active/alta/spawners/helpers/roomba.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/helpers/roomba.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Roomba.toml"
+rdir = "/items"
+rpath = "/items/Roomba.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Roomba.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/roomba.png) [Roomba](/MyEnternia/assets/items/Roomba.toml)"
+
+[wiki]
+ext = "md"
+name = "Roomba.md"
+rdir = "/items/droid_deployer"
+rpath = "/items/droid_deployer/Roomba.md"
+fdir = "/MyEnternia/Wiki/items/droid_deployer"
+fpath = "/MyEnternia/Wiki/items/droid_deployer/Roomba.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/roomba.png) [Roomba](/MyEnternia/Wiki/items/droid_deployer/Roomba)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Friendly Helper"
+lore = "This small robotic helper was designed to help altas in their daily work, and thus isn't a threat.  \nCan be relocated with a Relocator."
+
+[abilities.passive]
+name = "Persistent"
+lore = "Whenever you leave, it will wait for you to come back! ^gray;(Doesn't despawn.)^reset;"
+
+[stats.spawner]
+entities = [ "ct_alta_roomba",]
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]
+
+[stats.spawner.stats]
+persistent = true
+
+[stats.spawner.stats.damageTeam]

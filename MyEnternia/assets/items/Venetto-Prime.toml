@@ -1,0 +1,85 @@
+id = "ct_haruplavu_venetto-prime"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dish", "meal", "runeva_cuisine",]
+name = "Venetto Prime"
+lore = "A well-made haruplavu that somehow tastes very different from the original. Still incredibly tasty."
+long = "A chef's hand made this dish irreversibly unique."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png)"
+
+[inspect]
+alta = "A nice touch on a classic haruplavu."
+
+[pickup]
+
+[cost]
+gold = 9640
+pixels = 4820
+credits = 1470
+stardust = 918
+essence = 8710
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_haruplavu_venetto"
+name = "Haruplavu Venetto"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png) [Haruplavu Venetto](/MyEnternia/assets/items/Haruplavu-Venetto.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_haruplavu_venetto.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_haruplavu_venetto.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_haruplavu_venetto.consumable"
+link = "[`/items/generic/food/tier4/ct_haruplavu_venetto.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_haruplavu_venetto.consumable)"
+
+[assets]
+ext = "toml"
+name = "Venetto-Prime.toml"
+rdir = "/items"
+rpath = "/items/Venetto-Prime.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Venetto-Prime.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png) [Venetto Prime](/MyEnternia/assets/items/Venetto-Prime.toml)"
+
+[wiki]
+ext = "md"
+name = "Haruplavu-Venetto.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Haruplavu-Venetto.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Haruplavu-Venetto.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png) [Haruplavu Venetto](/MyEnternia/Wiki/items/dish/Haruplavu-Venetto)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

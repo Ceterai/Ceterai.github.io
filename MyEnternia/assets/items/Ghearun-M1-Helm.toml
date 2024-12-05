@@ -1,0 +1,80 @@
+id = "ct_ghearun_helmet"
+base = "item"
+cat = "head_armor"
+type = "headarmour"
+tags = [ "ghearun", "head_armor", "headarmour", "tier6armour",]
+name = "Ghearun M1 Helm"
+lore = "A full helmet with additional visors. ^#a7e001;Ghearun^reset; suits are often worn by certain ^#b0e0fc;alta^reset; research groups. Runs on ^#a7e001;gheatsyn^reset;. Has built-in ^#b0e0fc;breath protection^reset;."
+long = "The helmet itself provides enhanced vision in dimly lit and highly toxic and foggy environments, and has an in-built emergency protection system in case of depressurization."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/helmet/icon.png)"
+
+[inspect]
+alta = "Those three glowing circles are the multi-state visor of the helmet. I heard it can change polarities and types of vision and even blends them together. Neat."
+
+[pickup]
+ct_alta_head_armor_msg = "You've got a hold of a level ^#8020f0;6+^reset; alta head armor piece. Among usual protection and a special effect, these usually have an in-built ^#b0e0fc;breath protection^reset;, meaning you no longer have to use a ^#b0e0fc;Breathing EPP^reset; in places where you couldn't breath."
+
+[cost]
+gold = 7000
+pixels = 3500
+credits = 1000
+stardust = 625
+essence = 6500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "head"
+name = "ct_ghearun_helmet.head"
+rdir = "/items/armors/alta/tier6/ghearun/helmet"
+rpath = "/items/armors/alta/tier6/ghearun/helmet/ct_ghearun_helmet.head"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ghearun/helmet"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ghearun/helmet/ct_ghearun_helmet.head"
+link = "[`/items/armors/alta/tier6/ghearun/helmet/ct_ghearun_helmet.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/ghearun/helmet/ct_ghearun_helmet.head)"
+
+[assets]
+ext = "toml"
+name = "Ghearun-M1-Helm.toml"
+rdir = "/items"
+rpath = "/items/Ghearun-M1-Helm.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ghearun-M1-Helm.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/helmet/icon.png) [Ghearun M1 Helm](/MyEnternia/assets/items/Ghearun-M1-Helm.toml)"
+
+[wiki]
+ext = "md"
+name = "Ghearun-M1-Helm.md"
+rdir = "/items/head_armor"
+rpath = "/items/head_armor/Ghearun-M1-Helm.md"
+fdir = "/MyEnternia/Wiki/items/head_armor"
+fpath = "/MyEnternia/Wiki/items/head_armor/Ghearun-M1-Helm.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/helmet/icon.png) [Ghearun M1 Helm](/MyEnternia/Wiki/items/head_armor/Ghearun-M1-Helm)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

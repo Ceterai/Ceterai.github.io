@@ -1,0 +1,84 @@
+id = "ct_yaarings"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cooking", "dish", "snack", "yaara", "yava_cuisine",]
+name = "Yaarings"
+lore = "Neat crunchy snacks made from throroughly baked yaara eyes."
+long = "The plant part of the fruit gets completely removed, and its peel is separated to cook the inside only to be wrapped back up in the now fried peel."
+species = "alta"
+level = 2
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png)"
+
+[inspect]
+alta = "A nice thing to buy in a pack to share with your friends!"
+
+[pickup]
+
+[cost]
+gold = 660
+pixels = 330
+credits = 44
+stardust = 27
+essence = 550
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_yaarings-hot"
+name = "Hot Yaarings"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png) [Hot Yaarings](/MyEnternia/assets/items/Hot-Yaarings.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_yaarings.consumable"
+rdir = "/items/generic/food/tier1"
+rpath = "/items/generic/food/tier1/ct_yaarings.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_yaarings.consumable"
+link = "[`/items/generic/food/tier1/ct_yaarings.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_yaarings.consumable)"
+
+[assets]
+ext = "toml"
+name = "Yaarings.toml"
+rdir = "/items"
+rpath = "/items/Yaarings.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Yaarings.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png) [Yaarings](/MyEnternia/assets/items/Yaarings.toml)"
+
+[wiki]
+ext = "md"
+name = "Yaarings.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Yaarings.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Yaarings.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png) [Yaarings](/MyEnternia/Wiki/items/dish/Yaarings)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

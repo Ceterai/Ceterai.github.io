@@ -1,0 +1,93 @@
+id = "ct_ionic_drone"
+base = "item"
+cat = "drone_deployer"
+type = "robotics"
+tags = [ "drone", "drone_deployer", "ionic", "robotics", "spawner", "throwable",]
+name = "Ionic Drone"
+lore = "An advanced armored drone filled with enternia energy. Has ranged attacks and spreads ionized clouds."
+long = "This model is a direct upgrade to a once commonplace alta battle drone."
+species = "alta"
+level = 5
+rarity = 2
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png)"
+
+[inspect]
+alta = "Enternia power unleashed!"
+
+[pickup]
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 1520
+pixels = 760
+credits = 232
+stardust = 145
+essence = 1320
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ionic.activeitem"
+rdir = "/items/active/alta/spawners/drones"
+rpath = "/items/active/alta/spawners/drones/ionic.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/ionic.activeitem"
+link = "[`/items/active/alta/spawners/drones/ionic.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/ionic.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Ionic-Drone.toml"
+rdir = "/items"
+rpath = "/items/Ionic-Drone.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ionic-Drone.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png) [Ionic Drone](/MyEnternia/assets/items/Ionic-Drone.toml)"
+
+[wiki]
+ext = "md"
+name = "Ionic-Drone.md"
+rdir = "/items/drone_deployer"
+rpath = "/items/drone_deployer/Ionic-Drone.md"
+fdir = "/MyEnternia/Wiki/items/drone_deployer"
+fpath = "/MyEnternia/Wiki/items/drone_deployer/Ionic-Drone.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png) [Ionic Drone](/MyEnternia/Wiki/items/drone_deployer/Ionic-Drone)"
+
+[meta]
+images = [ "images/tooltips/ct_ionic_drone.png", "images/tooltips/ct_battle_drone.png",]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Ion Discharger"
+lore = "Can fire a rapid semi-auto ion burst of 6 ^#8020f0;Ions^reset;. Periodically disperses ^#7733aa;electric^reset; clouds around it. Will explode with ^#7733aa;electric^reset; particles on destruction."
+long = "Ion discharges can be very dangerous to other types of machinery, since they jumble the elecricity in its wiring, but not for this one."
+
+[abilities.passive]
+name = "Supercharged Drone"
+lore = "Has status effects: ^#2080f0;Sensitive Electronics^reset;, ^#2080f0;Mind Field^reset;, ^#8020f0;Ionic Clouds^reset;.\nDeals ^#8020f0;ionic^reset; damage on touch, applying ^#8020f0;Ionic Shock^reset;."
+long = "Warning: very high voltage!"
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

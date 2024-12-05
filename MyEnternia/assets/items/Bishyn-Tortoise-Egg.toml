@@ -1,0 +1,89 @@
+id = "ct_bishyn_tortoise_egg"
+base = "item"
+cat = "monster_egg"
+type = "egg"
+tags = [ "egg", "monster_egg", "spawner", "throwable",]
+name = "Bishyn Tortoise Egg"
+lore = "Can be used to spawn a critter called ^#b0e0fc;bishyn tortoise^reset;."
+long = "These \"eggs\" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner."
+species = "generic"
+level = 5
+rarity = 0
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_bishyn_tortoise_egg.png)"
+
+[inspect]
+alta = "Its shell is very smooth and pretty."
+
+[pickup]
+
+[cost]
+gold = 1200
+pixels = 600
+credits = 160
+stardust = 100
+essence = 1100
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_bishyn_tortoise_egg.activeitem"
+rdir = "/items/active/alta/spawners/critters"
+rpath = "/items/active/alta/spawners/critters/ct_bishyn_tortoise_egg.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/critters"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/critters/ct_bishyn_tortoise_egg.activeitem"
+link = "[`/items/active/alta/spawners/critters/ct_bishyn_tortoise_egg.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/critters/ct_bishyn_tortoise_egg.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Bishyn-Tortoise-Egg.toml"
+rdir = "/items"
+rpath = "/items/Bishyn-Tortoise-Egg.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Bishyn-Tortoise-Egg.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_bishyn_tortoise_egg.png) [Bishyn Tortoise Egg](/MyEnternia/assets/items/Bishyn-Tortoise-Egg.toml)"
+
+[wiki]
+ext = "md"
+name = "Bishyn-Tortoise-Egg.md"
+rdir = "/items/monster_egg"
+rpath = "/items/monster_egg/Bishyn-Tortoise-Egg.md"
+fdir = "/MyEnternia/Wiki/items/monster_egg"
+fpath = "/MyEnternia/Wiki/items/monster_egg/Bishyn-Tortoise-Egg.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_bishyn_tortoise_egg.png) [Bishyn Tortoise Egg](/MyEnternia/Wiki/items/monster_egg/Bishyn-Tortoise-Egg)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Critter"
+lore = "Critters can be ^gray;relocated^reset; with a ^gray;relocator^reset;, and some of them ^gray;drop resources^reset; when hunted down with a ^gray;bow^reset;."
+long = "Look if the critter's shell or outer layer has grow a crystal or bionic matter on it, and remove it carefully to not damage the critter."
+
+[stats.spawner]
+entities = [ "ct_bishyn_tortoise",]
+
+[abilities.primary.stats]
+
+[stats.spawner.stats.damageTeam]
+team = 1
+type = "passive"

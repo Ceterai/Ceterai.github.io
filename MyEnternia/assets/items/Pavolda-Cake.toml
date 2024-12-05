@@ -1,0 +1,84 @@
+id = "ct_pavolda_cake"
+base = "item"
+cat = "dish"
+type = "cooking"
+tags = [ "cake", "calin_cuisine", "cooking", "dessert", "dish",]
+name = "Pavolda Cake"
+lore = "A crystally cake with a strange name. Most ^#b0e0fc;altas^reset; love it anyway."
+long = "While the origin of the name is related to the mix of crystals used in its recipe, referring to the name of the taste, the ingredients themself are a combination of crystal plants, aya dough and some additional sweet spices and frosting."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png)"
+
+[inspect]
+alta = "The frosting is my favorite part! Also the candy balls on the sides. And the cream filling. And the jam. All of it is good."
+
+[pickup]
+
+[cost]
+gold = 7840
+pixels = 3920
+credits = 1120
+stardust = 700
+essence = 7280
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_pavolda_cake-love"
+name = "Celestia's Love"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png) [Celestia's Love](/MyEnternia/assets/items/Celestia's-Love.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_pavolda_cake.consumable"
+rdir = "/items/generic/food/tier4"
+rpath = "/items/generic/food/tier4/ct_pavolda_cake.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_pavolda_cake.consumable"
+link = "[`/items/generic/food/tier4/ct_pavolda_cake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_pavolda_cake.consumable)"
+
+[assets]
+ext = "toml"
+name = "Pavolda-Cake.toml"
+rdir = "/items"
+rpath = "/items/Pavolda-Cake.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Pavolda-Cake.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png) [Pavolda Cake](/MyEnternia/assets/items/Pavolda-Cake.toml)"
+
+[wiki]
+ext = "md"
+name = "Pavolda-Cake.md"
+rdir = "/items/dish"
+rpath = "/items/dish/Pavolda-Cake.md"
+fdir = "/MyEnternia/Wiki/items/dish"
+fpath = "/MyEnternia/Wiki/items/dish/Pavolda-Cake.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png) [Pavolda Cake](/MyEnternia/Wiki/items/dish/Pavolda-Cake)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

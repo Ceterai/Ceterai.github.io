@@ -1,0 +1,84 @@
+id = "ct_miko_tea"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "drink", "love", "tea", "yava_cuisine",]
+name = "Miko Tea"
+lore = "A carefully crafted mixture of rare herbs brewed with passion. A perfect drink to make for a loved one."
+long = "This yava mix is often considered a personal gesture in a light-hearted environment and is usually prepared in a single cup, then poured into separate glasses for serving."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png)"
+
+[inspect]
+alta = "If you're too afraid to hug someone, or maybe they're just not in the mood, this is a great alternative to that!"
+
+[pickup]
+
+[cost]
+gold = 2000
+pixels = 1000
+credits = 240
+stardust = 150
+essence = 1800
+
+[element]
+
+[upgrades]
+[[upgrades.cooking]]
+id = "ct_miko_tea-yae"
+name = "Yae Tea"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png) [Yae Tea](/MyEnternia/assets/items/Yae-Tea.toml)"
+value = 0.1
+
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_miko_tea.consumable"
+rdir = "/items/generic/food/tier2"
+rpath = "/items/generic/food/tier2/ct_miko_tea.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_miko_tea.consumable"
+link = "[`/items/generic/food/tier2/ct_miko_tea.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_miko_tea.consumable)"
+
+[assets]
+ext = "toml"
+name = "Miko-Tea.toml"
+rdir = "/items"
+rpath = "/items/Miko-Tea.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Miko-Tea.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png) [Miko Tea](/MyEnternia/assets/items/Miko-Tea.toml)"
+
+[wiki]
+ext = "md"
+name = "Miko-Tea.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Miko-Tea.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Miko-Tea.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png) [Miko Tea](/MyEnternia/Wiki/items/drink/Miko-Tea)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,85 @@
+id = "ct_tonna_shake-perfect"
+base = "item"
+cat = "drink"
+type = "drink"
+tags = [ "drink", "nia_cuisine", "shake", "tonna",]
+name = "Perfect Tonna Shake"
+lore = "A tonna milkshake made with the best baked tonnas around!"
+long = "This shake has turned out really well. Experimenting does pay back pretty nicely sometimes."
+species = "alta"
+level = 6
+rarity = 0
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png)"
+
+[inspect]
+alta = "It's extra-good! Yum..."
+
+[pickup]
+
+[cost]
+gold = 7000
+pixels = 3500
+credits = 1000
+stardust = 625
+essence = 6500
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_tonna_shake"
+name = "Tonna Shake"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png) [Tonna Shake](/MyEnternia/assets/items/Tonna-Shake.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_tonna_shake.consumable"
+rdir = "/items/generic/food/tier3"
+rpath = "/items/generic/food/tier3/ct_tonna_shake.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_tonna_shake.consumable"
+link = "[`/items/generic/food/tier3/ct_tonna_shake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_tonna_shake.consumable)"
+
+[assets]
+ext = "toml"
+name = "Perfect-Tonna-Shake.toml"
+rdir = "/items"
+rpath = "/items/Perfect-Tonna-Shake.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Perfect-Tonna-Shake.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png) [Perfect Tonna Shake](/MyEnternia/assets/items/Perfect-Tonna-Shake.toml)"
+
+[wiki]
+ext = "md"
+name = "Tonna-Shake.md"
+rdir = "/items/drink"
+rpath = "/items/drink/Tonna-Shake.md"
+fdir = "/MyEnternia/Wiki/items/drink"
+fpath = "/MyEnternia/Wiki/items/drink/Tonna-Shake.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png) [Tonna Shake](/MyEnternia/Wiki/items/drink/Tonna-Shake)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

@@ -1,0 +1,93 @@
+id = "ct_lava_drone"
+base = "item"
+cat = "droid_deployer"
+type = "robotics"
+tags = [ "droid", "droid_deployer", "fire", "lava", "robotics", "spawner", "throwable",]
+name = "Lava Drone"
+lore = "This drone likes to swim in lava. Made out of a highly resistant material."
+long = "Based on the once infamous R200 model, for what it lacks in attacking power it compensates in protection."
+species = "alta"
+level = 6
+rarity = 2
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png)"
+
+[inspect]
+alta = "Its armor can withstand actual lava!"
+
+[pickup]
+ct_robot_spawner_msg = "Seems like you've accquired an ^#b0e0fc;Alta Robotic^reset;, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back."
+
+[cost]
+gold = 1760
+pixels = 880
+credits = 280
+stardust = 175
+essence = 1560
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "lava.activeitem"
+rdir = "/items/active/alta/spawners/drones"
+rpath = "/items/active/alta/spawners/drones/lava.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/lava.activeitem"
+link = "[`/items/active/alta/spawners/drones/lava.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/lava.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Lava-Drone.toml"
+rdir = "/items"
+rpath = "/items/Lava-Drone.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Lava-Drone.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png) [Lava Drone](/MyEnternia/assets/items/Lava-Drone.toml)"
+
+[wiki]
+ext = "md"
+name = "Lava-Drone.md"
+rdir = "/items/droid_deployer"
+rpath = "/items/droid_deployer/Lava-Drone.md"
+fdir = "/MyEnternia/Wiki/items/droid_deployer"
+fpath = "/MyEnternia/Wiki/items/droid_deployer/Lava-Drone.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png) [Lava Drone](/MyEnternia/Wiki/items/droid_deployer/Lava-Drone)"
+
+[meta]
+images = [ "images/tooltips/ct_lava_drone.png", "images/tooltips/ct_defensive_drone_old.png",]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Fire Cannon"
+lore = "Can charge up a powerful ^#f08020;fire^reset; rocket. Periodically disperses ^#f08020;fire^reset; clouds around it. Will explode with ^#f08020;fire^reset; particles on destruction."
+long = "Using the heat from outside environment, it can generate according charges with a set of properly configured ^#b0e0fc;phosicores^reset;."
+
+[abilities.passive]
+name = "Magma-Robot"
+lore = "Has status effects: ^#2080f0;Sensitive Electronics^reset;.\nDeals ^#f08020;fire^reset; damage on touch, applying ^#f08020;Burning^reset;."
+long = "Due to used materials and airtight design, it's almost completely resistant to lava."
+
+[abilities.primary.stats]
+
+[abilities.passive.stats]

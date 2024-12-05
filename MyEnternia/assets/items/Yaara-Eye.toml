@@ -1,0 +1,79 @@
+id = "ct_yaara_eye"
+base = "item"
+cat = "food"
+type = "cooking"
+tags = [ "cooking", "food", "yaara",]
+name = "Yaara Eye"
+lore = "This juicy fruit-like sphere is actually part of a flower. Can be used for cooking, but is fermenting very quickly."
+long = "The texture is a bit similar to the pulp of a [lychee](https://en.wikipedia.org/wiki/Lychee) fruit."
+species = "generic"
+level = 3
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 1
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png)"
+
+[inspect]
+alta = "These are delicious! Especially as yaarings, very good and exciting!"
+
+[pickup]
+
+[cost]
+gold = 120
+pixels = 60
+credits = 12
+stardust = 7
+essence = 105
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_yaara_eye.consumable"
+rdir = "/items/generic/produce"
+rpath = "/items/generic/produce/ct_yaara_eye.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/produce"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/produce/ct_yaara_eye.consumable"
+link = "[`/items/generic/produce/ct_yaara_eye.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/produce/ct_yaara_eye.consumable)"
+
+[assets]
+ext = "toml"
+name = "Yaara-Eye.toml"
+rdir = "/items"
+rpath = "/items/Yaara-Eye.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Yaara-Eye.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png) [Yaara Eye](/MyEnternia/assets/items/Yaara-Eye.toml)"
+
+[wiki]
+ext = "md"
+name = "Yaara-Eye.md"
+rdir = "/items/food"
+rpath = "/items/food/Yaara-Eye.md"
+fdir = "/MyEnternia/Wiki/items/food"
+fpath = "/MyEnternia/Wiki/items/food/Yaara-Eye.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png) [Yaara Eye](/MyEnternia/Wiki/items/food/Yaara-Eye)"
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[meta.aliases."Yaara Lychee"]

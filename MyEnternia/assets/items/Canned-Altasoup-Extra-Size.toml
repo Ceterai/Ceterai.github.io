@@ -1,0 +1,85 @@
+id = "ct_alta_soup_canned-extra"
+base = "item"
+cat = "food"
+type = "cooking"
+tags = [ "cooking", "food",]
+name = "Canned Altasoup Extra Size"
+lore = "This extra size can contains 50% more tastiness!"
+long = "Hopefully the core balance is there as well."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_soup_canned.png)"
+
+[inspect]
+alta = "Obviously I prefer it kitchen-made, but this is perfect for long space travels and any other adventures."
+
+[pickup]
+
+[cost]
+gold = 2600
+pixels = 1300
+credits = 312
+stardust = 195
+essence = 2340
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_alta_soup_canned"
+name = "Canned Altasoup"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_soup_canned.png) [Canned Altasoup](/MyEnternia/assets/items/Canned-Altasoup.toml)"
+value = 0.1
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "consumable"
+name = "ct_alta_soup_canned.consumable"
+rdir = "/items/generic/food/shop"
+rpath = "/items/generic/food/shop/ct_alta_soup_canned.consumable"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop/ct_alta_soup_canned.consumable"
+link = "[`/items/generic/food/shop/ct_alta_soup_canned.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop/ct_alta_soup_canned.consumable)"
+
+[assets]
+ext = "toml"
+name = "Canned-Altasoup-Extra-Size.toml"
+rdir = "/items"
+rpath = "/items/Canned-Altasoup-Extra-Size.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Canned-Altasoup-Extra-Size.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_soup_canned.png) [Canned Altasoup Extra Size](/MyEnternia/assets/items/Canned-Altasoup-Extra-Size.toml)"
+
+[wiki]
+ext = "md"
+name = "Canned-Altasoup.md"
+rdir = "/items/food"
+rpath = "/items/food/Canned-Altasoup.md"
+fdir = "/MyEnternia/Wiki/items/food"
+fpath = "/MyEnternia/Wiki/items/food/Canned-Altasoup.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_soup_canned.png) [Canned Altasoup](/MyEnternia/Wiki/items/food/Canned-Altasoup)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

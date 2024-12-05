@@ -1,0 +1,118 @@
+id = "ct_ion_reaper"
+base = "item"
+cat = "shotgun"
+type = "shotgun"
+tags = [ "cannon", "dreamer", "grenadelauncher", "ionic", "ranged", "shotgun", "weapon",]
+name = "Ion Reaper"
+lore = "A true dreamer's weapon, a creation of chaos. A powerful electric blaster that launches double ricocheting ^#8020f0;ionic^reset; projectiles."
+species = "alta"
+level = 6
+rarity = 1
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_ion_reaper.activeitem"
+rdir = "/items/active/weapons/ranged/alta/cannon"
+rpath = "/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.activeitem"
+link = "[`/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Ion-Reaper.toml"
+rdir = "/items"
+rpath = "/items/Ion-Reaper.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Ion-Reaper.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.png) [Ion Reaper](/MyEnternia/assets/items/Ion-Reaper.toml)"
+
+[wiki]
+ext = "md"
+name = "Ion-Reaper.md"
+rdir = "/items/shotgun"
+rpath = "/items/shotgun/Ion-Reaper.md"
+fdir = "/MyEnternia/Wiki/items/shotgun"
+fpath = "/MyEnternia/Wiki/items/shotgun/Ion-Reaper.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.png) [Ion Reaper](/MyEnternia/Wiki/items/shotgun/Ion-Reaper)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Ionic Barrage"
+lore = "Covers the target in ^#8020f0;ionic^reset; strikes.\nPress - a shotgun burst of Paired ^#8020f0;Ionic Charges^reset;;\nHold - charges an electric Ion Rocket."
+
+[abilities.secondary]
+name = "Ion Discharge"
+lore = "Has an inbuilt ion discharger.\nPress - energy discarge in form of 3 ^#8020f0;Ion Blasts^reset;;\nHold - launch an ^#8020f0;Ion Nade^reset;."
+
+[abilities.primary.stats]
+baseDps = 9
+energyUsage = 36
+fireTime = 0.45
+pressType = "burst"
+holdType = "rocket"
+
+[abilities.secondary.stats]
+baseDps = 9
+energyUsage = 40
+fireTime = 0.9
+pressType = "discharge"
+holdType = "nade"
+holdTimeMax = 0.55
+
+[abilities.primary.stats.pressParams]
+type = "ct_ionic_medium"
+inaccuracy = 0.6
+count = 2
+
+[abilities.primary.stats.holdParams]
+type = "ct_ionic_large"
+
+[abilities.secondary.stats.pressParams]
+type = "ct_ionic_blast"
+
+[abilities.secondary.stats.holdParams]
+type = "ct_ionic_nade_charge"
+
+[abilities.primary.stats.pressParams.params]
+knockback = 10
+timeToLive = 5.0

@@ -1,0 +1,79 @@
+id = "ct_bishyn_nade"
+base = "item"
+cat = "throwable"
+type = "nade"
+tags = [ "bishyn", "nade", "throwable",]
+name = "Bishyn Nade"
+lore = "A poison crystal shrapnel blast device. 2 in 1."
+long = "A powerful discharge forces the crystal core to erupt, launching in different directions. This pressure-based self-eruption, or ^#378754;bishyn discharge^reset;, is what makes this device so useful in more than just combat."
+species = "alta"
+level = 4
+rarity = 0
+rarity_sb = "Uncommon"
+tier = 2
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_bishyn_nade.png)"
+
+[inspect]
+alta = "If you open it without triggering, you can use the crystal for other purposes and fill the casing with something else! For example, with pretty rivershells."
+
+[pickup]
+
+[cost]
+gold = 200
+pixels = 100
+credits = 24
+stardust = 15
+essence = 180
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "thrownitem"
+name = "ct_bishyn_nade.thrownitem"
+rdir = "/items/throwables"
+rpath = "/items/throwables/ct_bishyn_nade.thrownitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/throwables"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_bishyn_nade.thrownitem"
+link = "[`/items/throwables/ct_bishyn_nade.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/throwables/ct_bishyn_nade.thrownitem)"
+
+[assets]
+ext = "toml"
+name = "Bishyn-Nade.toml"
+rdir = "/items"
+rpath = "/items/Bishyn-Nade.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Bishyn-Nade.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_bishyn_nade.png) [Bishyn Nade](/MyEnternia/assets/items/Bishyn-Nade.toml)"
+
+[wiki]
+ext = "md"
+name = "Bishyn-Nade.md"
+rdir = "/items/throwable"
+rpath = "/items/throwable/Bishyn-Nade.md"
+fdir = "/MyEnternia/Wiki/items/throwable"
+fpath = "/MyEnternia/Wiki/items/throwable/Bishyn-Nade.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_bishyn_nade.png) [Bishyn Nade](/MyEnternia/Wiki/items/throwable/Bishyn-Nade)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

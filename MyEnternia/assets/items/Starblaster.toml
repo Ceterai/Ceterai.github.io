@@ -1,0 +1,102 @@
+id = "ct_meteoblaster-upgrade"
+base = "item"
+cat = "grenade_launcher"
+type = "grenadeLauncher"
+tags = [ "astera", "grenade_launcher", "grenadelauncher", "grenadelauncher", "ionic", "ranged", "weapon",]
+name = "Starblaster"
+lore = "This meteoblaster was enhanced with ^#ffa8e8;stardust^reset;. It's now able to launch Starshards instead of meteorite shards."
+species = "generic"
+level = 5
+rarity = 1
+rarity_sb = "Rare"
+tier = 3
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png)"
+
+[inspect]
+
+[pickup]
+ct_alta_weapon_msg = "You've just picked up an alta weapon, or an \"energy tool\", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description."
+
+[cost]
+gold = 0
+pixels = 0
+credits = 0
+stardust = 0
+essence = 0
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[parent]
+id = "ct_meteoblaster"
+name = "Meteoblaster WIP"
+toml = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png) [Meteoblaster WIP](/MyEnternia/assets/items/Meteoblaster-WIP.toml)"
+value = 0.1
+
+[stats]
+handedness = true
+
+[loot]
+
+[repo]
+ext = "activeitem"
+name = "ct_meteoblaster.activeitem"
+rdir = "/items/active/weapons/ranged/alta/heavy"
+rpath = "/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.activeitem"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/heavy"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.activeitem"
+link = "[`/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.activeitem)"
+
+[assets]
+ext = "toml"
+name = "Starblaster.toml"
+rdir = "/items"
+rpath = "/items/Starblaster.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Starblaster.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png) [Starblaster](/MyEnternia/assets/items/Starblaster.toml)"
+
+[wiki]
+ext = "md"
+name = "Meteoblaster-WIP.md"
+rdir = "/items/grenade_launcher"
+rpath = "/items/grenade_launcher/Meteoblaster-WIP.md"
+fdir = "/MyEnternia/Wiki/items/grenade_launcher"
+fpath = "/MyEnternia/Wiki/items/grenade_launcher/Meteoblaster-WIP.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png) [Meteoblaster WIP](/MyEnternia/Wiki/items/grenade_launcher/Meteoblaster-WIP)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
+
+[abilities.primary]
+name = "Meteoblast"
+lore = "Launches powerful meteorite shards called ^#6f6c66;Astera^reset;'s Shards."
+
+[abilities.primary.stats]
+fireTime = 1.0
+baseDps = 9
+energyUsage = 32
+inaccuracy = 0.12
+projectileCount = 1
+fireType = "auto"
+projectileType = "rocketshell"
+
+[abilities.primary.stats.projectileParameters]
+knockback = 40
+
+[abilities.secondary.stats.elementalConfig.electric]
+projectileType = "exmachinarocket"

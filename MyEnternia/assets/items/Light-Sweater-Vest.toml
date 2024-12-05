@@ -1,0 +1,77 @@
+id = "ct_alta_light_sweater"
+base = "item"
+cat = "body_clothing"
+type = "chestwear"
+tags = [ "body_clothing", "chestwear",]
+name = "Light Sweater Vest"
+lore = "A cozy goodness that will make any ^#b0e0fc;alta^reset; feel at home."
+species = "alta"
+level = 0
+rarity = 0
+rarity_sb = "Common"
+tier = 0
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 320
+pixels = 160
+credits = 64
+stardust = 40
+essence = 160
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "chest"
+name = "ct_alta_light_sweater.chest"
+rdir = "/items/armors/alta/clothing/light_sweater"
+rpath = "/items/armors/alta/clothing/light_sweater/ct_alta_light_sweater.chest"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/light_sweater"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/light_sweater/ct_alta_light_sweater.chest"
+link = "[`/items/armors/alta/clothing/light_sweater/ct_alta_light_sweater.chest`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/light_sweater/ct_alta_light_sweater.chest)"
+
+[assets]
+ext = "toml"
+name = "Light-Sweater-Vest.toml"
+rdir = "/items"
+rpath = "/items/Light-Sweater-Vest.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Light-Sweater-Vest.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png) [Light Sweater Vest](/MyEnternia/assets/items/Light-Sweater-Vest.toml)"
+
+[wiki]
+ext = "md"
+name = "Light-Sweater-Vest.md"
+rdir = "/items/body_clothing"
+rpath = "/items/body_clothing/Light-Sweater-Vest.md"
+fdir = "/MyEnternia/Wiki/items/body_clothing"
+fpath = "/MyEnternia/Wiki/items/body_clothing/Light-Sweater-Vest.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png) [Light Sweater Vest](/MyEnternia/Wiki/items/body_clothing/Light-Sweater-Vest)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0

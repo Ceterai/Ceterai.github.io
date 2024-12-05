@@ -1,0 +1,77 @@
+id = "ct_dreamer_augment"
+base = "item"
+cat = "augment"
+type = "data_source"
+tags = [ "augment", "data_source", "dreamer", "enhancement",]
+name = "Dreamer's Augment"
+lore = "An EPP module that adds ^#8020f0;Ionic Clouds^reset; and ^#2080f0;Autoprotection^reset;."
+species = "alta"
+level = 6
+rarity = 2
+rarity_sb = "Legendary"
+tier = 4
+scanner = []
+effects = []
+icon = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_dreamer_augment.png)"
+
+[inspect]
+
+[pickup]
+
+[cost]
+gold = 20720
+pixels = 10360
+credits = 3360
+stardust = 2100
+essence = 18200
+
+[element]
+
+[upgrades]
+cooking = []
+[[upgrades.random]]
+id = ""
+name = ""
+link = ""
+chance = 0
+
+[abilities]
+
+[stats]
+
+[loot]
+
+[repo]
+ext = "augment"
+name = "ct_dreamer_augment.augment"
+rdir = "/items/augments/back"
+rpath = "/items/augments/back/ct_dreamer_augment.augment"
+fdir = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back"
+fpath = "https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_dreamer_augment.augment"
+link = "[`/items/augments/back/ct_dreamer_augment.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_dreamer_augment.augment)"
+
+[assets]
+ext = "toml"
+name = "Dreamer's-Augment.toml"
+rdir = "/items"
+rpath = "/items/Dreamer's-Augment.toml"
+fdir = "/MyEnternia/assets/items"
+fpath = "/MyEnternia/assets/items/Dreamer's-Augment.toml"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_dreamer_augment.png) [Dreamer's Augment](/MyEnternia/assets/items/Dreamer's-Augment.toml)"
+
+[wiki]
+ext = "md"
+name = "Dreamer's-Augment.md"
+rdir = "/items/augment"
+rpath = "/items/augment/Dreamer's-Augment.md"
+fdir = "/MyEnternia/Wiki/items/augment"
+fpath = "/MyEnternia/Wiki/items/augment/Dreamer's-Augment.md"
+link = "![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_dreamer_augment.png) [Dreamer's Augment](/MyEnternia/Wiki/items/augment/Dreamer's-Augment)"
+
+[meta]
+
+[upgrades.station]
+id = ""
+name = ""
+link = ""
+cost = 0
