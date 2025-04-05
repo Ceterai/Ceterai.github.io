@@ -1,4 +1,4 @@
-<div align="center"><img src="art/ceterai.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye"></div>
+<div align="center"><img src="art/ceterai_220.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye"></div>
 
 <h1 align="center"><b>CETERAI's VOID</b></h1>
 
@@ -9,7 +9,7 @@
 <h2 align="center"><b>PROJECTS</b></h2>
 
 <div align="center" style="font-size: 150%;">
-<a class="ct_button" href="Workshop"><b><img class="ct_icon" src="art/ceterai.gif" style="border-radius: 40%;" width="16px" height="16px" alt="CeterEye"> WORKSHOP</b></a><br><a class="ct_button" href="MyEnternia"><b><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> MY ENTERNIA</b></a>
+<a class="ct_button" href="Workshop"><b><img class="ct_icon" src="art/ceterai_16.gif" style="border-radius: 40%;" width="16px" height="16px" alt="CeterEye"> WORKSHOP</b></a><br><a class="ct_button" href="MyEnternia"><b><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" width="16px" height="16px" alt="Alterash"> MY ENTERNIA</b></a>
 </div>
 
 <h2 align="center"><b>NAVIGATION</b></h2>

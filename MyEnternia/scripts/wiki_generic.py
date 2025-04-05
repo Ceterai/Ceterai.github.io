@@ -39,6 +39,7 @@ class Page():
         rarity = db.RARITIES[self.get('rarity_sb')] if self.get('rarity_sb') else 'a'
         level = MD.LEVEL.format(self.get('level')) if self.get('level') else ''
         header = (
+            md.h1(self.get('name')),
             md.nm(MD.PARENTS + ', '.join([md.replace(i, self.lib.names) for i in self.meta('parents', [])]), self.meta('parents')),
             md.nm(md.icon(self.meta('banner'))),
             md.nm((

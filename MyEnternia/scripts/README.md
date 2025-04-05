@@ -1,3 +1,5 @@
+# My Enternia Wiki Generator
+
 This folder contains scripts used to generate this wiki based on files from the mod.
 
 ## Usage

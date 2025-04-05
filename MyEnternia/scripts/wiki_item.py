@@ -1,132 +1,149 @@
-import wiki
+import json
+import toml
+from pathlib import Path
+
+import config
 import resources as rs
 import md
 import db
+import load
+import wiki_generic
 
 
 class MD:
     PARENTS = '> Main pages: '
     BREAKS = '\nThis object **doesn\'t drop itself** when broken.  \n'
-    PARENTS = '> Main pages: '
-    PARENTS = '> Main pages: '
-    PARENTS = '> Main pages: '
+    HANDED = '2-handed '
+    LEVEL = ' lvl.{}'
+    SOLD = 'Can be sold for *{}* {}.'
     PARENTS = '> Main pages: '
 
+class Page(wiki_generic.Page):
+    def __init__(self, path, lib: rs.Library):
+        self.raw = toml.load(path)
+        self.lib = lib
 
-def get_body(wp: wiki.Page, lib: rs.Library, cat: str) -> str:
-    if wp.md:
-        wp.body = md.enrich(wp.md, lib.names)
-        return wp.body
-    wp.body = get_headline(wp, cat, lib)
-    if wp.banner: wp.body = md.n(wp.banner) + wp.body
-    if wp.parents: wp.body = md.n(MD.PARENTS + ', '.join([md.replace(i, lib.names) for i in wp.parents])) + wp.body
-    if (shield := [wp.get('baseShieldHealth', 0), wp.get('minActiveTime', 0.0), wp.get('cooldownTime', 0.0), wp.get('knockback', 0)])[0]:
-        wp.body = wp.body + f'\nShield parameters:\n\n- health: {shield[0]}\n- min time: {shield[1]}\n- cooldown: {shield[2]}\n- knockback: {shield[3]}\n'
-    wp.body = wp.body + get_stats(wp.raw, lib, (
-        {'blockingStat': {}, 'defaultDuration': {'metric': 's'}, 'effectConfig': {'name': 'Effect parameters'}},  # Effect params
-        {'statusEffects': {}},
-    ))
-    wp.body = wp.body + get_abils_desc(wp, lib, '### ')  # Abilities
-    if craftable(wp.ext) and wp.upgrades:  # Upgrades
-        wp.body = wp.body + '\n### Item Variants\n\n' + '\n'.join([get_headline(obj, cat, lib, wp) + get_abils_desc(obj, lib, '#### Upgraded ') for obj in wp.upgrades])
-    if craftable(wp.ext):  # Crafting
-        if (bps := lib.bps.find_recipes_of_obj(wp.uid)) + (uses := lib.bps.find_recipes_that_use_obj(wp.uid)):
-            wp.body = wp.body + f'\n### Crafting\n'
-            if bps:
+        self.header = self.get_header()
+        self.header = self.get_body()
+        self.footer = self.get_footer()
+        Path(config.ROOT_TARGET + self.get('wiki').get('fdir')).mkdir(parents=True, exist_ok=True)
+        load.dump(self.header+self.footer, '', config.ROOT_TARGET + self.get('wiki').get('fpath'))
+
+    def get(self, attr: str, default = None):
+        return self.raw.get(attr, default)
+
+    def meta(self, attr: str, default = None):
+        return self.get('meta', {}).get(attr, default)
+
+    def stats(self, attr: str, default = None):
+        return self.get('stats', {}).get(attr, default)
+
+    def get_body(self) -> str:
+        shield = [
+            self.stats.get('baseShieldHealth', 0),
+            self.stats.get('minActiveTime', 0.0),
+            self.stats.get('cooldownTime', 0.0),
+            self.stats.get('knockback', 0),
+        ]
+        wp.body = wp.body + get_abils_desc(wp, lib, '### ')  # Abilities
+        if craftable(wp.ext) and wp.upgrades:  # Upgrades
+            wp.body = wp.body + '\n### Item Variants\n\n' + '\n'.join([get_headline(obj, cat, lib, wp) + get_abils_desc(obj, lib, '#### Upgraded ') for obj in wp.upgrades])
+        if craftable(wp.ext):  # Crafting
+            if (bps := lib.bps.find_recipes_of_obj(wp.uid)) + (uses := lib.bps.find_recipes_that_use_obj(wp.uid)):
+                wp.body = wp.body + f'\n### Crafting\n'
+                if bps:
+                    body = []
+                    for bp in bps:
+                        body.append(md.ln(', '.join(bp.sources) + f' (takes {bp.dur}s, outputs {wp.icon} {wp.name}{nw(bp.n)}):')
+                        + ''.join([find_list_item(obj.uid, lib.obj, n=obj.n, prefix='  ') for obj in bp.input]))
+                    wp.body = wp.body + get_expand(''.join(set(body)), 'Can be crafted:', len(set(body)), 3)
+                if uses:
+                    body = ''.join(get_item_list(tuple(use.uid for use in uses), lib.obj, prefix=''))
+                    wp.body = wp.body + get_expand(body, 'Can be used to craft:', len(uses))
+            if lbps := wp.get('learnBlueprintsOnPickup', []):
+                body = ''.join(get_item_list(lbps, lib.obj, prefix=''))
+                wp.body = wp.body + get_expand(body, 'Unlocks following blueprints/recipes on pickup:', len(lbps), 10)
+            if bps := lib.bps.find_admin_recipes_of_obj(wp.uid):
                 body = []
                 for bp in bps:
-                    body.append(md.ln(', '.join(bp.sources) + f' (takes {bp.dur}s, outputs {wp.icon} {wp.name}{nw(bp.n)}):')
-                    + ''.join([find_list_item(obj.uid, lib.obj, n=obj.n, prefix='  ') for obj in bp.input]))
-                wp.body = wp.body + get_expand(''.join(set(body)), 'Can be crafted:', len(set(body)), 3)
-            if uses:
-                body = ''.join(get_item_list(tuple(use.uid for use in uses), lib.obj, prefix=''))
-                wp.body = wp.body + get_expand(body, 'Can be used to craft:', len(uses))
-        if lbps := wp.get('learnBlueprintsOnPickup', []):
-            body = ''.join(get_item_list(lbps, lib.obj, prefix=''))
-            wp.body = wp.body + get_expand(body, 'Unlocks following blueprints/recipes on pickup:', len(lbps), 10)
-        if bps := lib.bps.find_admin_recipes_of_obj(wp.uid):
-            body = []
-            for bp in bps:
-                body.extend([md.ln(source) for source in bp.sources_admin])
-            wp.body = wp.body + get_expand(''.join(set(body)), 'Can be accquired in cheat/creative crafting tables:', len(set(body)), 0)
-    if lootable(wp.ext):  # Loot
-        lts = {**lib.loot.find_loot_of_obj(wp.loot_uids), **lib.loot.find_obj_loot_of_obj(wp.raw)}
-        loot_sources = get_loot_sources(wp.uid, lib)
-        if lts or wp.chest or loot_sources:
-            wp.body = wp.body + f'\n### Loot\n'
-            if lts or wp.chest:
-                body = ''.join([f'\nContains following **{name}** loot:\n\n' + get_loot_list(lib.loot, lib.obj, lts[name]) for name in lts])
-                for chest in wp.chest:
-                    body = body + f'\nContains following `{chest}` treasure:\n\n'
-                    for l in wp.chest[chest]:
-                        body = body + f'- for planet level **{l}+**:\n'
-                        for pool in wp.chest[chest][l]:
-                            body = body + f'  - loot pool `{pool}`:\n' + get_loot_list(lib.loot, lib.obj, lib.loot.find_loot_of_obj({l: pool})[l], '    ')
-                wp.body = wp.body + get_expand(body, 'Full list of possible loot:', 0, 0)
-            if loot_sources:
-                wp.body = wp.body + get_expand(''.join(loot_sources), 'Can be found as loot in:', len(loot_sources))
-    if found := get_biomes(wp.bid, lib):
-        wp.body = wp.body + '\n### Found In Biomes\n' + get_expand(''.join(found), 'Can be found in following biomes:', len(found))
-    # Other
-    wp.body = wp.body + f'\n### Technical Information\n\n'
-    if craftable(wp.ext): wp.body = wp.body + f'Tags: `{"` `".join(wp.tags)}`  \n'
-    if wp.level: wp.body = wp.body + f'Level: {wp.level}  \n'
-    if race := wp.get('race'): wp.body = wp.body + f'Race: {md.item(race.title(), db.RACES[race]) if race in db.RACES else race.title()}  \n'
-    if wp.loot_uids: wp.body = wp.body + f'Loot table ID(s): `{"` `".join(wp.loot_uids.values())}`  \n'
-    wp.body = wp.body + f'In-game ID: `{wp.uid}`  \n'
-    wp.body = wp.body + f'File path (GitHub link): [`{wp.file_path}`]({wp.file_link})  \n'
-    if wp.trivia: wp.body = wp.body + '\n### Trivia\n\n' + ';\n'.join(['- ' + md.enrich(t, lib.names) for t in wp.trivia]) + '.\n'
-    if wp.wiki.get('related') or wp.wiki.get('images'):
-        wp.body = wp.body + '\n---\n'
-    if rel := wp.wiki.get('related', {}):
-        wp.body = wp.body + '\n## Related Resources\n'
-        for item in rel:
-            wp.body = wp.body + f'\n{item}\n' + (get_related(i,lib) if type(i:=rel[item])==list else ''.join(tuple(f'\n{i2}\n{get_related(i[i2],lib)}' for i2 in i)))
-    if imgs := wp.wiki.get('images', []):
-        wp.body = wp.body + '\n## Related Images\n\n' + ' '.join([md.icon(img) for img in imgs]) + '\n'
-    wp.body = wp.body.replace('\n\n\n\n', '\n\n').replace('\n  \n', '\n\n').replace('\n\n\n', '\n\n').replace(': \n', ':\n')
-    return wp.body
+                    body.extend([md.ln(source) for source in bp.sources_admin])
+                wp.body = wp.body + get_expand(''.join(set(body)), 'Can be accquired in cheat/creative crafting tables:', len(set(body)), 0)
+        if lootable(wp.ext):  # Loot
+            lts = {**lib.loot.find_loot_of_obj(wp.loot_uids), **lib.loot.find_obj_loot_of_obj(wp.raw)}
+            loot_sources = get_loot_sources(wp.uid, lib)
+            if lts or wp.chest or loot_sources:
+                wp.body = wp.body + f'\n### Loot\n'
+                if lts or wp.chest:
+                    body = ''.join([f'\nContains following **{name}** loot:\n\n' + get_loot_list(lib.loot, lib.obj, lts[name]) for name in lts])
+                    for chest in wp.chest:
+                        body = body + f'\nContains following `{chest}` treasure:\n\n'
+                        for l in wp.chest[chest]:
+                            body = body + f'- for planet level **{l}+**:\n'
+                            for pool in wp.chest[chest][l]:
+                                body = body + f'  - loot pool `{pool}`:\n' + get_loot_list(lib.loot, lib.obj, lib.loot.find_loot_of_obj({l: pool})[l], '    ')
+                    wp.body = wp.body + get_expand(body, 'Full list of possible loot:', 0, 0)
+                if loot_sources:
+                    wp.body = wp.body + get_expand(''.join(loot_sources), 'Can be found as loot in:', len(loot_sources))
+        if found := get_biomes(wp.bid, lib):
+            wp.body = wp.body + '\n### Found In Biomes\n' + get_expand(''.join(found), 'Can be found in following biomes:', len(found))
+        body = (
+            md.nm('Shield parameters:', shield[0]),
+            md.nm(md.l((
+                md.param('health', shield[0]),
+                md.param('min time', shield[1]),
+                md.param('cooldown', shield[2]),
+                md.param('knockback', shield[3]),
+            )), shield[0]),
+            md.nm(get_stats(self.raw.get('stats', {}), lib, (
+                {'statusEffects': {}},
+            ))),
+            md.nm(get_abils_desc(wp, lib, '### ')),
+            md.nm(),
+            md.nm(),
+            md.nm(),
+            md.nm(),
+            md.nm(),
+        )
 
-def get_headline(wp: wiki.Page, cat: str, lib: rs.Library, parent_wp: wiki.Page = None) -> str:
-    element = db.ELEMENTS[e] + ' ' if (e := wp.element) else ''
-    hand = '' if (h := wp.get('twoHanded')) is None else ('2-handed ' if h else '1-handed ')
-    rarity = db.RARITIES[wp.rarity] if wp.rarity else 'a'
-    level = f' lvl.{wp.level}' if wp.level else ''
-    headline = f'{wp.icon} **{wp.name}** is {rarity}{level} {hand}{element}{cat}.  \n'
-    price = f'Can be sold for *{int(wp.price/5)}* {db.link("pixels", *db.WIKI_LINKS["money"][1:])}.  \n' if wp.price else ''
-    mds = ''.join(tuple(f'\n{h}\n\n{md.enrich(wp.cmd[h], lib.names)}\n' for h in wp.cmd)) if wp.cmd and (not parent_wp or parent_wp.cmd != wp.cmd) else ''
-    return f'{headline}{price}{md.enrich(wp.desc, lib.names)}{get_races(wp, lib, parent_wp)}{mds}{get_pickup(wp, lib, parent_wp)}'
 
-def get_abils_desc(wp: wiki.Page, lib: rs.Library, prefix: str = '##### ', def_desc: str = 'This ability has no description.  \n'):
-    body = ''
-    for abil in wp.abils:
-        name = f'**{name}**: ' if (name := wp.abils[abil].get('name')) else ''
-        body = body + f'\n{prefix}{abil.title()} Ability\n\n{name}{md.enrich(wiki.get_desc(wp.abils[abil]), lib.names) or def_desc}'
-    return body
+
+
+
+        header = (
+            md.h1(self.get('name')),
+            md.nm(MD.PARENTS + ', '.join([md.replace(i, self.lib.names) for i in self.meta('parents', [])]), self.meta('parents')),
+            md.nm(md.icon(self.meta('banner'))),
+            md.nm((
+                f'{self.get('icon')} **{self.get('name')}** is {rarity}{level} {hand}{element}{self.get('cat')}.',
+                MD.SOLD.format(int(self.get('cost', {}).get('pixels')/5), db.link("pixels", *db.WIKI_LINKS["money"][1:])) if self.get('cost', {}).get('pixels') else '',
+                md.enrich(self.get('lore'), self.lib.names),
+                md.enrich(self.get('long'), self.lib.names),
+            )),
+            ''.join(tuple(f'{md.nm(h)}{md.nm(md.enrich(self.meta('md')[h], self.lib.names))}' for h in self.meta('md'))) if self.meta('md') and (not self.get('parent')) else '',
+        )
+        return ''.join(body)
+
+    def get_abils_desc(wp: wiki.Page, lib: rs.Library, prefix: str = '##### ', def_desc: str = 'This ability has no description.  \n'):
+        body = ''
+        for abil in wp.abils:
+            name = f'**{name}**: ' if (name := wp.abils[abil].get('name')) else ''
+            body = body + f'\n{prefix}{abil.title()} Ability\n\n{name}{md.enrich(wiki.get_desc(wp.abils[abil]), lib.names) or def_desc}'
+        return body
 
 def get_related(l, lib: rs.Library):
     return '\n' + ''.join(tuple((md_any(i, lib.full) if type(i) == str else ''.join(tuple('  ' + md_any(j, lib.full) for j in i))) for i in l))
 
-def get_races(wp: wiki.Page, lib: rs.Library, original_wp: wiki.Page = None):
-    obj: dict[str] = wp.raw.copy()
-    if races := [(k1, k2) for k1, k2 in [(key.replace('Description', ''), obj[key]) for key in obj if 'Description' in key] if k1 in db.RACES]:
-        body = get_expand(''.join(f'- {md.item(k1.title(), db.RACES[k1])}: {md.enrich(k2, lib.names)}\n' for k1, k2 in races), 'Race descriptions:', len(races))
-        if not original_wp or get_races(original_wp, lib) != body:
-            return body
-    return ''
-
-def get_pickup(wp: wiki.Page, lib: rs.Library, original_wp: wiki.Page = None):
-    if msgs := wp.pickup:
-        body = get_expand(''.join(md_any(m, {**lib.uids, **lib.names}, True, True, lib.radios) for m in msgs), 'Pickup Messages:', len(msgs), 0)
-        if not original_wp:
-            return body
-    return ''
-
 def md_any(s, sources: dict, *args, **kwargs):
     return md.ln(md.replace(s, sources, *args, **kwargs))
 
-def nw(n: int = None, w: str = None, p=' '):
-    return (f'{p}x*{n}*' if n else '') + (f' (weight: {w})' if w else '')
+def lootable(ext):
+    return ext not in ('projectile', 'biome', 'statuseffect', 'weather', 'bush', 'grass')
+
+
+
+lib = rs.Library()
+for item_path in load.filepaths_in_dirs(load.dirs(('items',), config.ROOT_TARGET + config.ROOT_TARGET_TOML)):
+    Page(item_path, lib)
 
 def get_list_item(uid: str, obj: wiki.Page = None, n: int = None, w: str = None, prefix='  '):
     return prefix + md.ln((obj.link if obj else (db.link(*(db.WIKI_LINKS[uid])) if uid in db.WIKI_LINKS else md.qs(uid))) + nw(n, w))
@@ -213,9 +230,3 @@ def get_expand(body: str, head: str, n: int, min_n=5):
 
 def empty(val, non_empty: bool):
     return bool(val) if non_empty else (val != None)
-
-def lootable(ext):
-    return ext not in ('projectile', 'biome', 'statuseffect', 'weather', 'bush', 'grass')
-
-def craftable(ext):
-    return lootable(ext) and ext not in ('monstertype', 'modularstem', 'modularfoliage')

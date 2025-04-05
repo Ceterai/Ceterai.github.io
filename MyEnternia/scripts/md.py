@@ -61,6 +61,9 @@ def li(s: str) -> str:
 def ln(s: str) -> str:
     return f'{li(s)}\n'
 
+def l(lst: list) -> str:
+    return ''.join([ln(s) for s in lst])
+
 def many(s: str) -> str:
     return '' if not s else (s + 'es' if s[-1] == 's' or s[-1] == 'h' else (s[:-1] + 'ies' if s[-1] == 'y' else s + 's'))
 
