@@ -7,6 +7,10 @@ linktree: https://linktr.ee/ceterai
 about: https://about.me/ceterai
 donate: https://buymeacoffee.com/ceterai
 nickname: https://mynickname.com/ceterai
+url: https://ceterai.github.io
+webmaster_verifications:
+  google: MLRzyH5xcfU9s_l8YbW2TxZXfu9br3B9BL9AQk-oJCY
+  bing: 00F4331C69FE389E55DA99741D7A80E4
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-include
