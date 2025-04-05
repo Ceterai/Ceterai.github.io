@@ -9,13 +9,13 @@ Just some ambients I made for ![ ](https://raw.githubusercontent.com/Ceterai/Ent
 ## Videos
 
 <div align="center">
-<iframe class="ct_card" width="320" height="180"
+<iframe class="ct_card" width="320" height="180" title="Ambient: Ceterai - Orchid's Tears | A Little Star on YouTube"
 src="https://www.youtube.com/embed/hUmIY37Tqik">
 </iframe>
-<iframe class="ct_card" width="320" height="180"
+<iframe class="ct_card" width="320" height="180" title="Ambient: Ceterai - Mira | A Little Star on YouTube"
 src="https://www.youtube.com/embed/ST4YxugM2g8">
 </iframe>
-<iframe class="ct_card" width="320" height="180"
+<iframe class="ct_card" width="320" height="180" title="Ambient: Ceterai - Verest | A Little Star on YouTube"
 src="https://www.youtube.com/embed/YAItWvKtn_Q">
 </iframe>
 </div>
