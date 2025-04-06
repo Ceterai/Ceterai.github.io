@@ -15,7 +15,6 @@
 	--ct_font: "Lucida Console", "Courier New";
 
 	font-family: var(--ct_font);
-    background-color: var(--ct_8);
 }
 
 
@@ -69,6 +68,7 @@
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
+    background-color: var(--ct_8);
 }
 
 .ct_body {
