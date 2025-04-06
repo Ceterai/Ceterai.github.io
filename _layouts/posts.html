@@ -22,7 +22,7 @@
     
         function handleIntersection(entries) {
           entries.map((entry) => {
-            const bg = window.getComputedStyle(entry).getPropertyValue('--ct_bg');
+            const bg = window.getComputedStyle(entry.target).getPropertyValue('--ct_bg');
             alert("The value of --ct_bg is: " + bg);
             if (entry.isIntersecting) {
               if (bg != null) {
