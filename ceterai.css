@@ -15,7 +15,6 @@
 	--ct_font: "Lucida Console", "Courier New";
 
 	font-family: var(--ct_font);
-    background-color: var(--ct_6);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -70,6 +69,7 @@
 .ct_bg {
 	--ct_bg: url('https://Ceterai.github.io/art/deep_sea.gif');
 	background-repeat: no-repeat;
+    background-color: var(--ct_6);
 }
 
 .ct_body {
