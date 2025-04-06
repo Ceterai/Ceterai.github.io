@@ -174,7 +174,7 @@ a.ct_button:hover, a.ct_button:active {
 
 /* Card */
 
-a.ct_card, iframe.ct_card {
+a.ct_card, iframe.ct_card, div.ct_card {
 	margin: 5px;
 	width: 200px;
 	height: 150px;

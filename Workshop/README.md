@@ -247,15 +247,15 @@ layout: posts
 ## [Ambients](Music)
 
 <div align="center">
-<iframe class="ct_card" width="320" height="180" title="Ambient: Ceterai - Orchid's Tears | A Little Star on YouTube"
-src="https://www.youtube.com/embed/hUmIY37Tqik">
-</iframe>
-<iframe class="ct_card" width="320" height="180" title="Ambient: Ceterai - Mira | A Little Star on YouTube"
-src="https://www.youtube.com/embed/ST4YxugM2g8">
-</iframe>
-<iframe class="ct_card" width="320" height="180" title="Ambient: Ceterai - Verest | A Little Star on YouTube"
-src="https://www.youtube.com/embed/YAItWvKtn_Q">
-</iframe>
+<div class="ct_card" width="320" height="180">
+<lite-youtube videoid="hUmIY37Tqik">Ambient: Ceterai - Orchid's Tears | A Little Star on YouTube</lite-youtube>
+</div>
+<div class="ct_card" width="320" height="180">
+<lite-youtube videoid="ST4YxugM2g8">Ambient: Ceterai - Mira | A Little Star on YouTube</lite-youtube>
+</div>
+<div class="ct_card" width="320" height="180">
+<lite-youtube videoid="YAItWvKtn_Q">Ambient: Ceterai - Verest | A Little Star on YouTube</lite-youtube>
+</div>
 </div>
 
 ## [Garry's Mod](GMod)
