@@ -16,7 +16,6 @@
 	--ct_bg: url('https://Ceterai.github.io/art/deep_sea.gif');
 
 	font-family: var(--ct_font);
-	background-image: var(--ct_bg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -66,6 +65,10 @@
     line-height: 200%;
     font-size: 80%;
     color: var(--ct_3);
+}
+
+.ct_bg {
+	background-repeat: no-repeat;
 }
 
 .ct_body {

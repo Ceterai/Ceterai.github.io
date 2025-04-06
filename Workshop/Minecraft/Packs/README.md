@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.planetminecraft.com/texture-pack/wrath-resource-pack/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2020/377/13787055-pack_l.webp); height: 200px;"><p>Wrath</p></a>
-<a href="https://www.planetminecraft.com/texture-pack/hermit-crabs/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/063/14444738-pack_xl.webp); height: 200px;"><p>Hermit Crabs</p></a>
-<a href="https://www.planetminecraft.com/texture-pack/pademia/" class="ct_card" style="background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2020/736/13719159-image_xl.webp); height: 200px;"><p>Pademia</p></a>
+<a href="https://www.planetminecraft.com/texture-pack/wrath-resource-pack/" class="ct_card" data-bgimage="https://static.planetminecraft.com/files/image/minecraft/texture-pack/2020/377/13787055-pack_l.webp" style="height: 200px;"><p>Wrath</p></a>
+<a href="https://www.planetminecraft.com/texture-pack/hermit-crabs/" class="ct_card" data-bgimage="https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/063/14444738-pack_xl.webp" style="height: 200px;"><p>Hermit Crabs</p></a>
+<a href="https://www.planetminecraft.com/texture-pack/pademia/" class="ct_card" data-bgimage="https://static.planetminecraft.com/files/image/minecraft/texture-pack/2020/736/13719159-image_xl.webp" style="height: 200px;"><p>Pademia</p></a>
 </div>

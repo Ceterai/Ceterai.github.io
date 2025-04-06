@@ -10,8 +10,39 @@
         <meta property="og:image" content="{{ 'https://Ceterai.github.io/art/ceterai.png?v=' | append: site.github.build_revision | relative_url }}">
         <meta name = "pinterest" content = "nopin" description = "Sorry, you can't save from my website!" />
         {% seo title=false %}
+        <script>
+        if ('IntersectionObserver' in window) {
+          document.addEventListener("DOMContentLoaded", function() {
+        
+            function handleIntersection(entries) {
+              entries.map((entry) => {
+                if (entry.isIntersecting) {
+                  if (entry.target.style.getPropertyValue('--ct_bg')) {
+                    entry.target.style.backgroundImage = entry.target.style.getPropertyValue('--ct_bg')
+                  } else {
+                    entry.target.style.backgroundImage = "url('"+entry.target.dataset.bgimage+"')";
+                  }
+                  observer.unobserve(entry.target);
+                }
+              });
+            }
+        
+            const headers = document.querySelectorAll('.ct_card, .ct_bg');
+            const observer = new IntersectionObserver(
+              handleIntersection,
+              { rootMargin: "100px" }
+            );
+            headers.forEach(header => observer.observe(header));
+          });
+        } else {
+          const headers = document.querySelectorAll('.ct_card');
+          headers.forEach(header => {
+            header.style.backgroundImage = "url('"+header.dataset.bgimage+"')";
+          });
+        }
+        </script>
     </head>
-    <body id="ct_lair">
+    <body id="ct_lair" class="ct_bg">
         <div class="container markdown-body ct_body" style="font-size: 100%;">
             {{ content }}
             {% include footer.html %}

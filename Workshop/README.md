@@ -314,31 +314,3 @@ layout: posts
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=549938873" class="ct_card" data-bgimage="https://steamuserimages-a.akamaihd.net/ugc/784127034087314319/565ACA1704907D48908F6FCC2BB1716E206E4F9B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="height: 200px;"><p>C.T.'s Parcour Arena</p></a>
 </div>
-
-<script>
-if ('IntersectionObserver' in window) {
-  document.addEventListener("DOMContentLoaded", function() {
-
-    function handleIntersection(entries) {
-      entries.map((entry) => {
-        if (entry.isIntersecting) {
-          entry.target.style.backgroundImage = "url('"+entry.target.dataset.bgimage+"')";
-          observer.unobserve(entry.target);
-        }
-      });
-    }
-
-    const headers = document.querySelectorAll('.ct_card');
-    const observer = new IntersectionObserver(
-      handleIntersection,
-      { rootMargin: "100px" }
-    );
-    headers.forEach(header => observer.observe(header));
-  });
-} else {
-  const headers = document.querySelectorAll('.ct_card');
-  headers.forEach(header => {
-    header.style.backgroundImage = "url('"+header.dataset.bgimage+"')";
-  });
-}
-</script>
