@@ -6,12 +6,12 @@ left: 10%
 layout: posts
 ---
 
-<div align="center"><img src="/art/ceterai.gif" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye"></div>
+<div align="center"><img src="/art/ceterai.gif" loading="lazy" style="border-radius: 40%;" width="128px" height="128px" alt="CeterEye"></div>
 
 # Ceterai's Workshop
 
 <div align="center">
-<a class="ct_button" href="/MyEnternia"><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="Alterash"> My Enternia</a> <a class="ct_button" href="DiscordThemes">Discord Themes</a> <a class="ct_button" href="OGXMods">Opera GX Themes</a> <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=211820">Starbound Mods</a> <a class="ct_button" href="Minecraft">Minecraft Skins & Packs</a> <a class="ct_button" href="Minecraft">Warcraft 3 Maps & Icons</a> <a class="ct_button" href="CDDZ">Clone Drone Maps & Guides</a> <a class="ct_button" href="https://github.com/Ceterai/AltaSS14Sprites">Space Station 14 Sprites</a> <a class="ct_button" href="Portal2">Portal 2 Maps</a> <a class="ct_button" href="TimeRifters">Time Rifters Maps</a> <a class="ct_button" href="O9000Z">Over 9000 Zombies! Maps</a> <a class="ct_button" href="GMod">GMod Collections</a>
+<a class="ct_button" href="/MyEnternia"><img class="ct_icon" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" loading="lazy" alt="Alterash"> My Enternia</a> <a class="ct_button" href="DiscordThemes">Discord Themes</a> <a class="ct_button" href="OGXMods">Opera GX Themes</a> <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=211820">Starbound Mods</a> <a class="ct_button" href="Minecraft">Minecraft Skins & Packs</a> <a class="ct_button" href="Minecraft">Warcraft 3 Maps & Icons</a> <a class="ct_button" href="CDDZ">Clone Drone Maps & Guides</a> <a class="ct_button" href="https://github.com/Ceterai/AltaSS14Sprites">Space Station 14 Sprites</a> <a class="ct_button" href="Portal2">Portal 2 Maps</a> <a class="ct_button" href="TimeRifters">Time Rifters Maps</a> <a class="ct_button" href="O9000Z">Over 9000 Zombies! Maps</a> <a class="ct_button" href="GMod">GMod Collections</a>
 </div>
 
 ## [Starbound](Starbound)
@@ -59,7 +59,7 @@ layout: posts
 ### [CDDZ Arenas](CDDZ#arenas)
 
 <div align="center">
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1792138378" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/787484935179721189/9D22EFEB1750E7A2CA2096EDFFA8AF87678FD4C2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); margin: 5px; width: 180px; height: 100px; background-repeat: no-repeat; background-size: cover; background-position: center; display: inline-flex; align-items: flex-end; overflow: hidden;"><p style="height: 20%; width: 100%; display: flex; margin-bottom: 0; justify-content: center; align-items: center; background-color: #323232;">A long way (easy)</p>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1792138378" class="ct_card" style="margin: 5px; width: 180px; height: 100px; background-repeat: no-repeat; background-size: cover; background-position: center; display: inline-flex; align-items: flex-end; overflow: hidden;" data-bgimage="https://steamuserimages-a.akamaihd.net/ugc/787484935179721189/9D22EFEB1750E7A2CA2096EDFFA8AF87678FD4C2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"><p style="height: 20%; width: 100%; display: flex; margin-bottom: 0; justify-content: center; align-items: center; background-color: #323232;">A long way (easy)</p>
 </a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1794011468" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/787484160768410956/5BEF285E056A7692876536BD2E58F2E70E6A4915/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); margin: 5px; width: 180px; height: 100px; background-repeat: no-repeat; background-size: cover; background-position: center; display: inline-flex; align-items: flex-end; overflow: hidden;"><p style="height: 20%; width: 100%; display: flex; margin-bottom: 0; justify-content: center; align-items: center; background-color: #323232;">Lava Arena (22500 difficulty)</p>
 </a>
@@ -314,3 +314,31 @@ layout: posts
 <div align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=549938873" class="ct_card" style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/784127034087314319/565ACA1704907D48908F6FCC2BB1716E206E4F9B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); height: 200px;"><p>C.T.'s Parcour Arena</p></a>
 </div>
+
+<script>
+if ('IntersectionObserver' in window) {
+  document.addEventListener("DOMContentLoaded", function() {
+
+    function handleIntersection(entries) {
+      entries.map((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.style.backgroundImage = "url('"+entry.target.dataset.bgimage+"')";
+          observer.unobserve(entry.target);
+        }
+      });
+    }
+
+    const headers = document.querySelectorAll('.ct_card');
+    const observer = new IntersectionObserver(
+      handleIntersection,
+      { rootMargin: "100px" }
+    );
+    headers.forEach(header => observer.observe(header));
+  });
+} else {
+  const headers = document.querySelectorAll('.ct_card');
+  headers.forEach(header => {
+    header.style.backgroundImage = "url('"+header.dataset.bgimage+"')";
+  });
+}
+</script>
