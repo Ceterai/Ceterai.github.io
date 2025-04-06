@@ -24,10 +24,11 @@
           entries.map((entry) => {
             const bg = window.getComputedStyle(entry.target).getPropertyValue('--ct_bg');
             if (entry.isIntersecting) {
-              if (bg != null) {
-                entry.target.style.backgroundImage = bg
-              } else {
+              if (entry.target.dataset.bgimage != null) {
                 entry.target.style.backgroundImage = "url('"+entry.target.dataset.bgimage+"')";
+              } else {
+                entry.target.style.backgroundImage = bg;
+                entry.target.style.backgroundColor = null;
               }
               observer.unobserve(entry.target);
             }
