@@ -20,11 +20,11 @@
     if ('IntersectionObserver' in window) {
       document.addEventListener("DOMContentLoaded", function() {
     
-        function handleIntersection(entries) {
+        function handleIntersection(entries, bg) {
           entries.map((entry) => {
             if (entry.isIntersecting) {
-              if (entry.target.style.getPropertyValue('--ct_bg')) {
-                entry.target.style.backgroundImage = entry.target.style.getPropertyValue('--ct_bg')
+              if (bg) {
+                entry.target.style.backgroundImage = bg
               } else {
                 entry.target.style.backgroundImage = "url('"+entry.target.dataset.bgimage+"')";
               }
@@ -34,11 +34,12 @@
         }
     
         const headers = document.querySelectorAll('.ct_card, .ct_bg');
+        const bg = getComputedStyle(headers).getPropertyValue('--ct_bg');
         const observer = new IntersectionObserver(
           handleIntersection,
           { rootMargin: "100px" }
         );
-        headers.forEach(header => observer.observe(header));
+        headers.forEach(header => observer.observe(header, bg));
       });
     } else {
       const headers = document.querySelectorAll('.ct_card');
