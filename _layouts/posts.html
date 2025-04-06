@@ -23,7 +23,7 @@
         function handleIntersection(entries, bg) {
           entries.map((entry) => {
             if (entry.isIntersecting) {
-              if (bg) {
+              if (bg != null) {
                 entry.target.style.backgroundImage = bg
               } else {
                 entry.target.style.backgroundImage = "url('"+entry.target.dataset.bgimage+"')";
@@ -35,6 +35,7 @@
     
         const headers = document.querySelectorAll('.ct_card, .ct_bg');
         const bg = getComputedStyle(headers).getPropertyValue('--ct_bg');
+        alert("The value of --ct_bg is: " + bg);
         const observer = new IntersectionObserver(
           handleIntersection,
           { rootMargin: "100px" }
