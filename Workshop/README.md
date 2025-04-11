@@ -1,5 +1,7 @@
 ---
 title: Workshop
+tagline: Workshop Projects
+description: A small place in the void to host various interesting things I made for fun. Hope you can find something that you will enjoy!
 permalink: Workshop/index.html
 width: 80%
 left: 10%
