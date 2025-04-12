@@ -4,7 +4,7 @@
 <a class="ct_button" href="https://ceterai.github.io/Workshop/Minecraft">WEBSITE</a> | <a class="ct_button" href="https://www.planetminecraft.com/member/ceterai/submissions/texture-packs/">PLANET MINECRAFT</a> | <a class="ct_button" href="https://legacy.curseforge.com/members/ceterai/projects">CURSEFORGE</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
-## [Resource Packs](ResourcePacks)
+## [Resource Packs](Packs)
 
 <div align="center">
 <a href="https://www.planetminecraft.com/texture-pack/wrath-resource-pack/" class="ct_card" data-bgimage="https://static.planetminecraft.com/files/image/minecraft/texture-pack/2020/377/13787055-pack_l.webp" style="height: 200px;"><p>Wrath</p></a>

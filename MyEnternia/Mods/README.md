@@ -17,7 +17,7 @@ Some mods that add stuff related to altas/ME.
 
 A lot of these mods are compatability/support mods, meant to make the main mod work with some other mods out there.
 
-- [My Enternia Enhanced Storage Patch](/MyEnterniaEnhancedStoragePatch)
+- [My Enternia Enhanced Storage Patch](MyEnterniaEnhancedStoragePatch)
 - [My Enternia Mystic Mirror Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3305148641)
 - [Alta FU Patch+](https://steamcommunity.com/sharedfiles/filedetails/?id=3048977458)
 
