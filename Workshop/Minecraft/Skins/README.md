@@ -1,7 +1,7 @@
 ---
-title: Resource Packs
+title: Skins
 description: Various default size Minecraft player skins made by Ceterai. You can visit each mod on its Planet Minecraft page to download or apply it. Hope you enjoy!
-permalink: Workshop/Minecraft/Packs/index.html
+permalink: Workshop/Minecraft/Skins/index.html
 ---
 
 # Skins
