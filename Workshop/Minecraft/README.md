@@ -4,6 +4,8 @@
 <a class="ct_button" href="https://ceterai.github.io/Workshop/Minecraft">WEBSITE</a> | <a class="ct_button" href="https://www.planetminecraft.com/member/ceterai/submissions/texture-packs/">PLANET MINECRAFT</a> | <a class="ct_button" href="https://legacy.curseforge.com/members/ceterai/projects">CURSEFORGE</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
+Some MC resource packs and simple skins made for fun. No skins/packs are hosted on this site, so use links to navigate to their pages on Planet Minecraft, Curse Forge or GitHub to get them.
+
 ## [Resource Packs](Packs)
 
 <div align="center">

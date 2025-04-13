@@ -6,7 +6,7 @@ permalink: Workshop/OGXMods/index.html
 
 # Opera GX Themes
 
-A place for my Opera GX theme mods.
+This folder page is for hosting any CSS and other styling content used by Opera GX themes and their pages.
 
 ## Themes
 

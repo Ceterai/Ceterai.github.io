@@ -4,6 +4,8 @@
 <a class="ct_button" href="https://ceterai.github.io/Workshop/Minecraft/Skins">WEBSITE</a> | <a class="ct_button" href="https://www.planetminecraft.com/member/ceterai/submissions/skins/">PLANET MINECRAFT</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
+Some MC skins made for fun. None are hosted on this site, so use links to navigate to their pages on Planet Minecraft, Curse Forge or GitHub to get them.
+
 <div align="center">
 <a href="https://www.planetminecraft.com/skin/aerogel-guy/" class="ct_card" data-bgimage="https://static.planetminecraft.com/files/resource_media/preview/aerogelguy-14466498-e1491-minecraft-skin.jpg" style="height: 100px;"><p>Aerogel Guy</p></a>
 <a href="https://www.planetminecraft.com/skin/alien-scout-4938900/" class="ct_card" data-bgimage="https://static.planetminecraft.com/files/resource_media/preview/d1-13907204-minecraft-skin.jpg" style="height: 100px;"><p>Alien Scout</p></a>
