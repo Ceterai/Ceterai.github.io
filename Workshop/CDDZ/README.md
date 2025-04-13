@@ -1,5 +1,6 @@
 ---
 title: Clone Drone In The Danger Zone
+description: Various arenas and challenges made by Ceterai for the Clone Drone In The Danger Zone game, available in Steam Workshop with a few themed collections. Enjoy!
 permalink: Workshop/CDDZ/index.html
 width: 60%
 left: 20%

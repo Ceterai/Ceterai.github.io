@@ -1,5 +1,6 @@
 ---
 title: Wrath
+description: A gray futuristic metal Quake-styled 16x resource pack for Minecraft. It was partially inspired by games like Quake II, Doom 3 and similar. Hope you enjoy!
 permalink: Workshop/Minecraft/Packs/Wrath/index.html
 ---
 

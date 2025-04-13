@@ -1,3 +1,9 @@
+---
+title: Resource Packs
+description: Mostly unfinished or small Minecraft resource packs made by Ceterai. You can visit each mod on its Planet Minecraft, Curse Forge of GitHub page to download it.
+permalink: Workshop/Minecraft/Packs/index.html
+---
+
 # Resource Packs
 
 <div align="center" style="font-size: 150%;">
