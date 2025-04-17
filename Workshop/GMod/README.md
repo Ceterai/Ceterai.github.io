@@ -1,10 +1,17 @@
+---
+title: Ceterai's GMod Collections
+crumb: Garry's Mod
+description: A bunch of Garry's Mod themed addon collections I made for fun. Yo can find them on Steam Workshop if you wish to subscribe to any items featured in them.
+permalink: Workshop/GMod/index.html
+---
+
 # Garry's Mod
 
 <div align="center" style="font-size: 150%;">
 <a class="ct_button" href="https://ceterai.github.io/Workshop/GMod">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?section=collections&appid=4000">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
-My **GMod** challenge collections.
+My **GMod** addon collections. Definitely do check out what other neat things people have made for the game by simply going to Steam Workshop!
 
 ## Collections
 
@@ -17,3 +24,7 @@ My **GMod** challenge collections.
 ## Installation
 
 To install any of these, subscribe to them on their respective Steam Workshop pages.
+
+## About The Game
+
+**Garry's Mod** is an iconic mod turned standalone source-based sandbox game, released back in 2006 and popular to this day due to its endless fun potential. You can get the game on [Steam](https://store.steampowered.com/app/4000/Garrys_Mod/) and visit its addon library for pretty much anything you want.
