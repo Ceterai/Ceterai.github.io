@@ -1,4 +1,9 @@
-# Mods
+---
+title: My Enternia Mods
+crumb: Mods
+description: A collection of different customization/enhancement addons for Starbound that I and other people made to install on top of My Enternia. Hope you enjoy!
+permalink: MyEnternia/Mods/index.html
+---
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/refs/heads/main/.meta/images/banners/alta_collection.png" alt="Alta Mods Banner" width="100%">
 
@@ -33,7 +38,7 @@ Did you know that this mod has a simplified chinese translation?~
 
 - [绮宇梦纪简中补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=3180091750)
 
-### S.A.I.L.
+### S.A.I.L
 
 Mods that alter default alta S.A.I.L. appearance. Can be used together with the Customizable A.I. chips!
 

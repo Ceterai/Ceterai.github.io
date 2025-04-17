@@ -11,7 +11,7 @@
         {% assign page_url = pg.url | remove: '/index.html' %}
         {% assign crumb_url2 = crumb_url | append: '/' %}
         {% if page_url == crumb_url or page_url == crumb_url2 %}
-          {% assign crumb_title = pg.title %}
+          {% assign crumb_title = pg.crumb | default: pg.title %}
           {% break %}
         {% endif %}
       {% endfor %}

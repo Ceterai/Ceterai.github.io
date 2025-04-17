@@ -1,3 +1,9 @@
+---
+title: Warcraft III
+description: Just a place for my WC3 64x in-game button and item icons, as well as several playable maps I made for the game, all found on HIVE Workshop. Hope you enjoy!
+permalink: Workshop/Warcraft/index.html
+---
+
 # Warcraft III
 
 <div align="center" style="font-size: 150%;">

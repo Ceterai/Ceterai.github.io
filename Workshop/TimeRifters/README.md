@@ -1,10 +1,20 @@
+---
+title: Time Rifters
+description: Just a place for my Time Rifters arenas, because why not. The only way to install them is to subscribe to them on the Steam Workshop. Hope you enjoy!
+permalink: Workshop/TimeRifters/index.html
+---
+
 # Time Rifters
 
 <div align="center" style="font-size: 150%;">
 <a class="ct_button" href="https://ceterai.github.io/Workshop/TimeRifters">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=270010">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
-My **Time Rifters** challenge **rooms** and **arenas**.
+Just a place for my **Time Rifters** challenge **rooms** and **arenas**, because why not. Simple things for a simple yet a great game.
+
+Read the room descriptions for easy routes or simple tips.
+
+Time Rifters Steam Workshop contains thousands of these, so I recommend checking them out as well!~
 
 ## Rooms
 
@@ -27,3 +37,15 @@ My **Time Rifters** challenge **rooms** and **arenas**.
 ## Installation
 
 To install any of these, subscribe to them on their respective Steam Workshop pages.
+
+## About The Game
+
+Time Rifters is (as far as I know) a unique FPS game, where you have to clear timed levels full of "enemies" (simple colored cubes that just... exist), while cooperating... with yourself.
+
+You get 4 attempts to clear a room, each time as a new "teammate" of yours. The game is very fun and challenging (and beautiful!), and you can get it on [Steam](https://store.steampowered.com/app/270010/Time_Rifters/).
+
+### Trivia
+
+- If you're wondering how many enemies are in each original official TR room, there's a helpful dev screenshot to showcase that - it also shows, how much gold you can get: [Time Rifters Arena Data](https://imgur.com/aYK4XrK) ([source](https://steamcommunity.com/app/270010/discussions/0/359543951719890639/)).
+- The **Parkour Tower** room can be cleared in about 10 jumps, but I only recommend attempting it if you have the **Acid** upgrade installed on your weapon - this way you can reach the enemy, attack them once, and then quickly move on to other rooms.
+- The text in the **Checkpoint** room means "Checkpoint Tower", but also has another meaning related to [My Enternia](/MyEnternia/), similar to **C.T.'s Parcour Arena**.
