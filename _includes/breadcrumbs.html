@@ -3,7 +3,8 @@
   <a href="/">{{ site.title }}</a>
   {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}
-      / {{ page.title }}
+      {% assign crumb_title = page.crumb | default: page.title %}
+      / {{ crumb_title }}
     {% else %}
       {% assign crumb_url = crumb_url | default: '' | append: '/' %}
       {% assign crumb_url = crumb_url | append: crumb %}

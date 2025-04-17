@@ -1,3 +1,10 @@
+---
+title: Ceterai's Minecraft Stuff
+crumb: Minecraft
+description: A small place for my silly MC player skins and resource packs, as well as other related stuff. You can get any of these by clicking on the items in the list.
+permalink: Workshop/Minecraft/index.html
+---
+
 # Minecraft
 
 <div align="center" style="font-size: 150%;">

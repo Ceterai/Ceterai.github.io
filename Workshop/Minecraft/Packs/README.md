@@ -1,10 +1,11 @@
 ---
-title: Resource Packs
+title: Ceterai's MC Resource Packs
+crumb: Packs
 description: Mostly unfinished or small Minecraft resource packs made by Ceterai. You can visit each mod on its Planet Minecraft, Curse Forge of GitHub page to download it.
 permalink: Workshop/Minecraft/Packs/index.html
 ---
 
-# Resource Packs
+# Minecraft Resource Packs
 
 <div align="center" style="font-size: 150%;">
 <a class="ct_button" href="https://ceterai.github.io/Workshop/Minecraft/Packs">WEBSITE</a> | <a class="ct_button" href="https://www.planetminecraft.com/member/ceterai/submissions/texture-packs/">PLANET MINECRAFT</a> | <a class="ct_button" href="https://legacy.curseforge.com/members/ceterai/projects">CURSEFORGE</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>

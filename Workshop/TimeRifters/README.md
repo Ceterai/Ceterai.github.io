@@ -40,7 +40,7 @@ To install any of these, subscribe to them on their respective Steam Workshop pa
 
 ## About The Game
 
-Time Rifters is (as far as I know) a unique FPS game, where you have to clear timed levels full of "enemies" (simple colored cubes that just... exist), while cooperating... with yourself.
+**Time Rifters** is (as far as I know) a unique FPS game, where you have to clear timed levels full of "enemies" (simple colored cubes that just... exist), while cooperating... with **yourself**.
 
 You get 4 attempts to clear a room, each time as a new "teammate" of yours. The game is very fun and challenging (and beautiful!), and you can get it on [Steam](https://store.steampowered.com/app/270010/Time_Rifters/).
 

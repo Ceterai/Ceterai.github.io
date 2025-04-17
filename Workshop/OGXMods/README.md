@@ -1,5 +1,6 @@
 ---
-title: Opera GX Themes
+title: Ceterai's Opera GX Themes
+crumb: Opera GX Themes
 description: A place for CSS style files and projects for customizing Opera GX experience with in-build GX Create modding.
 permalink: Workshop/OGXMods/index.html
 ---

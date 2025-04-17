@@ -1,10 +1,21 @@
+---
+title: Ceterai's Portal 2 Chambers
+crumb: Portal 2
+description: Just a small place for my Portal 2 chambers, because why not. The only way to install them is to subscribe to them on the Steam Workshop. Hope you enjoy!
+permalink: Workshop/Portal2/index.html
+---
+
 # Portal 2
 
 <div align="center" style="font-size: 150%;">
 <a class="ct_button" href="https://ceterai.github.io/Workshop/Portal2">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=620">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
-My **Portal 2** chambers.
+Just a place for my **Portal 2** mini chambers, because why not. Hopefully some interesting and short challenging maps that can be completed in under 5 minutes.
+
+Read the chamber descriptions for easy routes or simple tips.
+
+Portal 2 Steam Workshop contains thousands of these, so I recommend checking them out as well!~
 
 ## Chambers
 
@@ -23,3 +34,12 @@ My **Portal 2** chambers.
 ## Installation
 
 To install any of these, subscribe to them on their respective Steam Workshop pages.
+
+## About The Game
+
+Portal 2 is an iconic puzzle-based first person game made by Valve, providing both singleplayer and coop challenges out of the box and through workshop. The game comes with great story, atmosphere, humor and visuals, and you can get it on [Steam](https://store.steampowered.com/app/620/Portal_2/).
+
+### Trivia
+
+- **Three by Three** is actually 7х10, if you don't count the non-cubical spaces added by the game afterwards, like start and end areas.
+- The **Tight Spaces** map is intentionally made to be messy and abandoned - the main challenge here is to find a way out, rather than solve a puzzle.

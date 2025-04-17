@@ -59,3 +59,12 @@ These icons on HIVE: [Ceterai's Icons](https://www.hiveworkshop.com/repositories
 <a href="https://www.hiveworkshop.com/threads/horde-themed-items.312322/" class="ct_card" data-bgimage="https://www.hiveworkshop.com/data/ratory-images/152/152464-1ac6bb5d1b4157906f4f14b6a4b4cf79_tn.jpg" style="width: 64px; height: 64px; border-radius: 1px;"></a>
 <a href="https://www.hiveworkshop.com/threads/roc-catapult.311674/" class="ct_card" data-bgimage="https://www.hiveworkshop.com/data/ratory-images/274/274096-a89415876030d3c8fd452642a9f884a5.gif" style="width: 64px; height: 64px; border-radius: 1px;"></a>
 </div>
+
+## About The Game
+
+**Warcraft 3: Reign Of Chaos** and **Warcraft 3: The Frozen Throne** is a fantasy RTS classic made by **Blizzard** back in 2002. It stays popular to this day, thanks to its powerful **World Editor** and the community that grew around minigames and melee maps made in it. You can buy the **Reforged** version of it on its [official website](https://warcraft3.blizzard.com).
+
+### Trivia
+
+- After Reforged came out, all icon sizes increased from 64p to 256p, meaning the custom icons made for the classic version (SD) will look out of place if you're playing on maps made for Reforged.
+- Most of my icons were drawn direct-size, meaning that 64 pixels is their original scale, making it difficult (though possible) to turn them into HD ones.

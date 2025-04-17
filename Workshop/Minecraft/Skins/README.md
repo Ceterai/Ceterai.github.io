@@ -1,10 +1,11 @@
 ---
-title: Skins
+title: Ceterai's MC Skins
+crumb: Skins
 description: Various default size Minecraft player skins made by Ceterai. You can visit each mod on its Planet Minecraft page to download or apply it. Hope you enjoy!
 permalink: Workshop/Minecraft/Skins/index.html
 ---
 
-# Skins
+# Minecraft Skins
 
 <div align="center" style="font-size: 150%;">
 <a class="ct_button" href="https://ceterai.github.io/Workshop/Minecraft/Skins">WEBSITE</a> | <a class="ct_button" href="https://www.planetminecraft.com/member/ceterai/submissions/skins/">PLANET MINECRAFT</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>

@@ -1,3 +1,10 @@
+---
+title: My Enternia OSTs
+crumb: Ambient Themes
+description: A bunch of ambients I made for the My Enternia mod for Starbound. You can listen to them on YouTube, and I'd appreciate a like if you happen to enjoy them :)
+permalink: Workshop/O9000Z/index.html
+---
+
 # Ambient Themes
 
 <div align="center" style="font-size: 150%;">

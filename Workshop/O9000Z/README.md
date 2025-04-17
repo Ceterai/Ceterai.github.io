@@ -1,10 +1,17 @@
+---
+title: Ceterai's Over 9000 Zombies Maps
+crumb: Over 9000 Zombies
+description: My O9000Z! maps that I made for fun. All can be installed from Steam Workshop, where you can find many more excellent maps by other users. Hope you enjoy!
+permalink: Workshop/O9000Z/index.html
+---
+
 # Over 9000 Zombies
 
 <div align="center" style="font-size: 150%;">
 <a class="ct_button" href="https://ceterai.github.io/Workshop/O9000Z">WEBSITE</a> | <a class="ct_button" href="https://steamcommunity.com/id/ceterai/myworkshopfiles/?appid=273500">STEAM</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
-My **Time Rifters** challenge **rooms** and **arenas**.
+Several playable maps to try in the game - if you want to find more maps, search for them on Steam Workshop and choose from hundreds of maps made by **O9000Z** players!
 
 ## Maps
 
@@ -18,3 +25,12 @@ My **Time Rifters** challenge **rooms** and **arenas**.
 ## Installation
 
 To install any of these, subscribe to them on their respective Steam Workshop pages.
+
+## About The Game
+
+Over 9000 Zombies! is a fun and simple top-down pixelated zombie shooter to spend some time on when you want some quick zombie action. You can get in on [Steam](https://store.steampowered.com/app/273500/Over_9000_Zombies/) and by a 2-pack if you want to play it with a friend (which I strongly recommend).
+
+### Trivia
+
+- While **Dead Cross** seems like an invincible fortress, able to provide you with a manageable stream of enemies, throughout the run zombies slowly chip away at its walls. After roughly half an hour of the game, the walls will mostly disappear, leaving you on an open space among hoards of zombies...
+- The **Miner Village** is by far the most difficult of these, having few place to hold your ground in from the very start.

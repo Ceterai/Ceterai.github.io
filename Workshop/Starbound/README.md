@@ -1,3 +1,10 @@
+---
+title: Ceterai's Starbound Modding
+crumb: Starbound
+description: A small place where I've gathered most of my Starbound modding guides, as well as some mods made by me to show those guides in action~ Hope you enjoy!
+permalink: Workshop/Starbound/index.html
+---
+
 # Starbound
 
 <div align="center" style="font-size: 150%;">
