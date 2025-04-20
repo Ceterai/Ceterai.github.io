@@ -38,9 +38,3 @@
   - [Artwork Credits](https://ceterai.github.io/art)
 
 </details>
-
-<h2 align="center"><b>CREDITS</b></h2>
-
-<div align="center">
-<a class="ct_button" href="/art/">Artwork</a>
-</div>
