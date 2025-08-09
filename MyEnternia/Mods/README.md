@@ -6,6 +6,7 @@ permalink: MyEnternia/Mods/index.html
 ---
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/refs/heads/main/.meta/images/banners/alta_collection.png" alt="Alta Mods Banner" width="100%">
+<h1 style="font-size: 0;">My Enternia Addons and Mods - Steam Workshop Collection</h1>
 
 This simple collection of **My Enternia** and **Alta** related mods is meant to gather all of them in one place, to make it easier to find them.
 
