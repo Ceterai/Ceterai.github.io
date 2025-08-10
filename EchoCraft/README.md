@@ -5,6 +5,7 @@ description: Фабрик-Криейт Ванилла+ сервер Майнкр
 permalink: EchoCraft/index.html
 width: 80%
 left: 10%
+layout: echo
 ---
 
 <div align="center"><img src="./art/logo.png" width="128px" height="128px" alt="EchoCraft"></div>
@@ -13,7 +14,7 @@ left: 10%
 
 Майнкрафт Create сервер для игроков Корвакс Эхо из СС14, а также их друзей!
 
-<iframe src="https://discord.com/widget?id=1391423406578340033&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+Заходи на дискорд сервер, заполняй антеку, устанавливай сборку и играй!
 
 ## Поддержка
 
@@ -24,3 +25,5 @@ left: 10%
 Бонусы за поддержку можно посмотреть по этой же ссылке.
 
 **Спасибо вам!**~
+
+<div align="center"><iframe src="https://discord.com/widget?id=1391423406578340033&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div>
