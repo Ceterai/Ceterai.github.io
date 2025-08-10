@@ -8,7 +8,7 @@
 	--ct_3: #9fe450;
 	--ct_4: #efa119;
 	--ct_5: #263137;
-	--ct_6: #002e68;
+	--ct_6: #8ac249;
 	--ct_7: #001428;
 	--ct_8: #000000;
 }
@@ -22,8 +22,16 @@
     background-color: var(--ct_8);
 }
 
+.ct_button {
+    color: var(--ct_3);
+}
+
 .markdown-body {
     line-height: 200%;
     font-size: 100%;
-    color: var(--ct_3);
+    color: var(--ct_6);
+}
+
+#ct_ws h1 {
+	color: var(--ct_3);
 }
