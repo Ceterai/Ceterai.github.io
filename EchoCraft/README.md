@@ -12,9 +12,13 @@ layout: echo
 
 <h1 align="center"><b>ЭхоКрафт</b></h1>
 
+<div align="center" style="font-size: 120%;">
+<a class="ct_button" href="https://discord.gg/gGEwZ5vbgr" title="Официальный сервер ЭхоКрафта!">ДИСКОРД</a> | <a class="ct_button" href="https://patreon.com/LieMee?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">ПАТРЕОН</a>
+</div>
+
 Майнкрафт Create сервер для игроков Корвакс Эхо из СС14, а также их друзей!
 
-Заходи на дискорд сервер, заполняй антеку, устанавливай сборку и играй!
+Хочешь присоединиться? Заходи на дискорд сервер, заполняй антеку, устанавливай сборку и играй!
 
 ## Поддержка
 
