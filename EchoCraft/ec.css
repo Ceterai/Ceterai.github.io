@@ -12,3 +12,12 @@
 	--ct_7: #001428;
 	--ct_8: #000000;
 }
+
+.ct_bg {
+	--ct_bg: url('https://Ceterai.github.io/EchoCraft/art/bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+    background-color: var(--ct_8);
+}
