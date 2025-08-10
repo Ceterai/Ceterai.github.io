@@ -18,16 +18,6 @@ layout: echo
 
 Майнкрафт Create сервер для игроков Корвакс Эхо из СС14, а также их друзей!
 
-Хочешь присоединиться? Заходи на дискорд сервер, заполняй антеку, устанавливай сборку и играй!
+[Хочешь присоединиться?](https://discord.gg/gGEwZ5vbgr) Заходи на дискорд сервер, заполняй анкету, устанавливай сборку и играй!
 
-## Поддержка
-
-Хостинг сервера не бесплатный, и на его содержание, улучшение и поддержку нужно время и усилия.
-
-Если вы хотите поддержать нас финансово, вы можете сделать это тут: [**LieMee on Patreon**](https://patreon.com/LieMee?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
-
-Бонусы за поддержку можно посмотреть по этой же ссылке.
-
-**Спасибо вам!**~
-
-<div align="center"><iframe src="https://discord.com/widget?id=1391423406578340033&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div>
+## Будем Ждать
