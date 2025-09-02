@@ -1,0 +1,40 @@
+# Alta Lab Server
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" height=16px width="auto" /> **Alta Lab Server** is an uncommon decorative object.
+
+It looks like a server. I wonder what kind of games could be hosted on that.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: A protected server. The waterproof bionid seal keeps it working even in rough conditions.
+- Apex: A secure server. Inaccessible.
+- Avian: There are many blinking lights.
+- Floran: Box of lights makes clicky ssound.
+- Glitch: Ashamed. A server protected by security even I can not bypass.
+- Human: It looks like a data server. No way we're getting anything from this.
+- Hylotl: This server would contain enough data to fill a thousand Hylotl libraries.
+- Novakid: This piece of technology stores information.
+
+</details>
+
+## Parameters
+
+- Health: 2.0
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
+- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
+- [Alta Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaMiner)
+
+## Technical Information
+
+- In-game ID: `ct_alta_lab_server`
+- Power: `2.5`
+- Rarity: `Uncommon`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/objects/alta/lab/server/ct_alta_lab_server.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/lab/server/ct_alta_lab_server.object)

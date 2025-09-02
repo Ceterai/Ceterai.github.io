@@ -10,3 +10,10 @@ left: 10%
 # My Enternia Wiki
 
 This page is work-in-progress.
+
+Navigation:
+
+- [Items](Items)
+- [Effects](Effects)
+- [Tenants](Tenants)
+- [Tags](Tags)

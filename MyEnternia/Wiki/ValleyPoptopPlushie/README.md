@@ -1,0 +1,26 @@
+# Valley Poptop Plushie ★
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_valley_poptop_plush.png" alt="Valley Poptop Plushie ★ icon" loading="lazy" height=16px width="auto" /> **Valley Poptop Plushie ★** is a rare toy.
+
+A big poptop plushie in pastel colors.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: With this plushie, I can finally feel taller than a poptop! Those creatures are huge...
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Artist](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist)
+- [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
+
+## Technical Information
+
+- In-game ID: `ct_valley_poptop_plush`
+- Power: `3.3`
+- Rarity: `Rare`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- File: [`/objects/alta/special/plushies/ct_valley_poptop_plush.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plushies/ct_valley_poptop_plush.object)

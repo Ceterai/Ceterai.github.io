@@ -1,0 +1,39 @@
+# Alta Icer
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" height=16px width="auto" /> **Alta Icer** is an uncommon crafting station.
+
+A piece of alta kitchen technology for making punches. Not those kinds of punches. Drinkable ones.  
+The technology is quite complicated, and isn't very common among altas. However - still a must-have in a professional kitchen.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: Oa-a-a...~ An icer full of ice cream...
+- Apex: This machine produces different iced cream tastes.
+- Avian: I like the smell of this.
+- Floran: A sssnow ssnack machine.
+- Glitch: Neutral. An ice cream machine.
+- Human: Some tasty icecream.
+- Hylotl: A cooking fridge full of differently-flavored snowcones.
+- Novakid: Don't mind if I do!
+
+</details>
+
+## Parameters
+
+- Health: 2.0
+
+## Crafting
+
+Used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height=16px width="auto" /> [Alta Cakery](https://ceterai.github.io/MyEnternia/Wiki/AltaCakery)
+
+## Technical Information
+
+- In-game ID: `ct_alta_icer`
+- Power: `2.5`
+- Rarity: `Uncommon`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cafe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cafe), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/objects/alta/cooking/icer/ct_alta_icer.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/cooking/icer/ct_alta_icer.object)

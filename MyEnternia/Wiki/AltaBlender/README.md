@@ -1,0 +1,36 @@
+# Alta Blender
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height=16px width="auto" /> **Alta Blender** is a rare crafting station.
+
+A piece of alta kitchen technology for making milkshakes. Additional whipping machine included.  
+Ironically, alta shakers are used for making cocktails, while alta blenders are used for milkshakes.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: An airy, whipped milky goodness is just what I need!
+- Apex: This machine produces different milkshakes.
+- Avian: I like the smell of this.
+- Floran: A smelly drinksss machine.
+- Glitch: Neutral. A milkshake machine.
+- Human: Some tasty milkshakes.
+- Hylotl: A fairly complicated milkshake machine.
+- Novakid: Don't mind if I do!
+
+</details>
+
+## Crafting
+
+Used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height=16px width="auto" /> [Alta Cakery](https://ceterai.github.io/MyEnternia/Wiki/AltaCakery)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" height=16px width="auto" /> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
+
+## Technical Information
+
+- In-game ID: `ct_alta_blender`
+- Power: `3.0`
+- Rarity: `Rare`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cafe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cafe), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- File: [`/objects/alta/cooking/blender/ct_alta_blender.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/cooking/blender/ct_alta_blender.object)

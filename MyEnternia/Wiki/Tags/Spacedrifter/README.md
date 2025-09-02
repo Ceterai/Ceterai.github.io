@@ -1,0 +1,13 @@
+# Spacedrifter Tag
+
+The tag `spacedrifter-tag` contains 1 total entries.
+
+## Objects
+
+## Tenants
+
+## Items
+
+Following items have this item tag:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_spacedrifter_shield.png" alt="Spacedrifter Shield icon" loading="lazy" height=16px width="auto" /> [Spacedrifter Shield](https://ceterai.github.io/MyEnternia/Wiki/SpacedrifterShield)

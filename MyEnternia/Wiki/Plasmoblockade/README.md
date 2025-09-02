@@ -1,0 +1,21 @@
+# Plasmoblockade
+
+Adds 20% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#2080f0;Plasma Immunity^reset;.  
+With ^#7733aa;Starburst Rework^reset; - adds immunity to ^#7733aa;Mild Static^reset;.
+
+Applied by following items:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" height=16px width="auto" /> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png" alt="Plasma Stim Pack icon" loading="lazy" height=16px width="auto" /> [Plasma Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/PlasmaStimPack)
+
+## Parameters
+
+- Default Duration: 5s
+- Effect parameters: 
+
+- Electric Resistance: 0.2- Plasma Status Immunity: `True`- Electric Status Immunity: `True`- Pf Mild Biome Lightning Immunity: `True`
+
+## Technical Information
+
+- In-game ID: `ct_plasma_block`
+- File: [`/stats/effects/ct_plasma_block.statuseffect`](https://github.com/Ceterai/Enternia/blob/main/stats/effects/ct_plasma_block.statuseffect)

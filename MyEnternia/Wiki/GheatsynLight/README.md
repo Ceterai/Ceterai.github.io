@@ -1,0 +1,38 @@
+# Gheatsyn Light
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/light/icon.png" alt="Gheatsyn Light icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Light** is an uncommon light source.
+
+A glowing [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) light.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: A basic ceiling light. The only difference is that it's fully incased because of liquid gheatsyn crystals.
+- Apex: A very practical light source.
+- Avian: A comfy radiant green light.
+- Floran: Floran presss switch. A green light shinesss.
+- Glitch: Rapturous. A cozy gentle green light.
+- Human: A fine lantern.
+- Hylotl: A little green lamp emits soft gentle light.
+- Novakid: A green ceiling lamp.
+
+</details>
+
+## Sources
+
+Found naturally in containers:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
+
+Can be obtained from special items:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
+
+## Technical Information
+
+- In-game ID: `ct_gheatsyn_light`
+- Power: `2.5`
+- Rarity: `Uncommon`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/objects/biome/alterash_prime/gheatsyn/decorative/light/ct_gheatsyn_light.object`](https://github.com/Ceterai/Enternia/blob/main/objects/biome/alterash_prime/gheatsyn/decorative/light/ct_gheatsyn_light.object)

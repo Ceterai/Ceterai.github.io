@@ -1,0 +1,20 @@
+# Combat Power Augment ★★
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png" alt="Combat Power Augment ★★ icon" loading="lazy" height=16px width="auto" /> **Combat Power Augment ★★** is a rare epp augment.
+
+An EPP module that slightly boosts your power and overall mobility.
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
+## Technical Information
+
+- In-game ID: `ct_combat_power_augment`
+- Power: `3.6`
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- File: [`/items/augments/back/ct_combat_power_augment.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_combat_power_augment.augment)

@@ -1,0 +1,19 @@
+# A.R.C.O. Emblem
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" height=16px width="auto" /> **A.R.C.O. Emblem** is a common decorative object.
+
+A holographic logo of a research organization called A.R.C.O..
+
+## Ingame
+
+Species descriptions:
+
+- Alta: Seeing this usually means I'm in an environmental lab.
+
+## Technical Information
+
+- In-game ID: `ct_arco_emblem`
+- Power: `1.0`
+- Rarity: `Common`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arco`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arco), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`emblem`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Emblem), [`holographic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holographic), [`patriotic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Patriotic)
+- File: [`/objects/alta/special/emblems/arco/ct_arco_emblem.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/emblems/arco/ct_arco_emblem.object)

@@ -1,0 +1,16 @@
+# Alta Oceanologist
+
+This alta researcher is most interested in studying aquatic environments - oceans, rivers and lakes.
+
+## Parameters
+
+- Category: themed_science
+- Possible species: alta
+- Colony tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light) (1), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door) (1), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) (8), [`ocean`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ocean) (18)
+
+## Technical Information
+
+- In-game ID: `ct_aqua_tenant`
+- NPC type: ct_alta_oceanologist
+- Priority: 7
+- File: [`/tenants/alta/researchers/themed/aqua.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/themed/aqua.tenant)

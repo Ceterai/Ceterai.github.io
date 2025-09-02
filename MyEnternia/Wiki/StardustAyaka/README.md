@@ -1,0 +1,44 @@
+# Stardust Ayaka
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" height=16px width="auto" /> **Stardust Ayaka** is an uncommon tree sapling.
+
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height=16px width="auto" /> [crystal ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka) has overgrown with [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) saturated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: This chamber contains a sapling of a staris ayaka. What color will it be?
+- Apex: I can plant this to grow a tree.
+- Avian: I can grow a tree by planting this sapling.
+- Floran: Floran plant cute sssapling, grow big bad evil tree!
+- Glitch: Wonder. Planting this sapling allows me to grow life.
+- Human: This sapling will grow into a tree.
+- Hylotl: Such wondrous life, springing forth from the tiniest shoot. Sigh.
+- Novakid: It'll grow into a big tree if I plant it.
+
+</details>
+
+## Parameters
+
+- Health: 1.5  
+- Stem/Stipe: `ct_ayaka_crystal_stem`
+- Foliage/Cap: `ct_ayaka_prime_leaves`
+
+## Crafting
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height=16px width="auto" /> [Blossoming Ayaka](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka)
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height=16px width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
+
+## Technical Information
+
+- In-game ID: `ct_ayaka_stardust_tree`
+- Power: `2.5`
+- Rarity: `Uncommon`
+- Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`staris`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Staris), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.object`](https://github.com/Ceterai/Enternia/blob/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.object)

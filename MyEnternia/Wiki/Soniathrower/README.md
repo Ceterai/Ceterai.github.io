@@ -1,0 +1,39 @@
+# Soniathrower
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" height=16px width="auto" /> **Soniathrower** is a rare one-handed cryogenic unique weapon.
+
+This cooling tool is usually used for firefighting and supercharging specific environments. It's able to withstand all the cold due to its <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height=16px width="auto" /> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) case.
+
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" height=16px width="auto" /> [Sonia's Breath ★](https://ceterai.github.io/MyEnternia/Wiki/Sonia'sBreath) at the Weapon Upgrade Anvil.
+
+## Ingame
+
+Radiomessages on pickup:
+
+- You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
+
+## Sources
+
+Found naturally in containers:
+
+- `techchest`
+- `techchest2`
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
+
+Can be obtained from special items:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+
+## Technical Information
+
+- In-game ID: `ct_soniathrower`
+- Power: `3.0`
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)
+- File: [`/items/active/weapons/ranged/alta/wrist/ct_soniathrower.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.activeitem)

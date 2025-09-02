@@ -1,0 +1,42 @@
+# Alta Plate
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate/icon.png" alt="Alta Plate icon" loading="lazy" height=16px width="auto" /> **Alta Plate** is a common decorative object.
+
+A simple dining plate made out of hardened <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height=16px width="auto" /> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood). Can be used in cooking.  
+Easy to clean, eco-friendly and doesn't cause issues in microwaves and dishwashers. Neat.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: A cool little plate, very clean. Looking at it makes me a little hungry...
+- Apex: A little clay plate.
+- Avian: A dish on which food is served.
+- Floran: Plate needss food. Floran hungry.
+- Glitch: Humbled. A simple clay plate.
+- Human: A very simple pottery plate.
+- Hylotl: A rounded clay plate.
+- Novakid: Small clay plate.
+
+</details>
+
+## Crafting
+
+<details><summary>Used to craft: (Expand 6 items)</summary>
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/dishes/icon.png" alt="Alta Dishes icon" loading="lazy" height=16px width="auto" /> [Alta Dishes](https://ceterai.github.io/MyEnternia/Wiki/AltaDishes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kadamaker/icon.png" alt="Alta Kadamaker icon" loading="lazy" height=16px width="auto" /> [Alta Kadamaker](https://ceterai.github.io/MyEnternia/Wiki/AltaKadamaker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/microwave/icon.png" alt="Alta Microwave Oven icon" loading="lazy" height=16px width="auto" /> [Alta Microwave Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaMicrowaveOven)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/mixer/icon.png" alt="Alta Mixer icon" loading="lazy" height=16px width="auto" /> [Alta Mixer](https://ceterai.github.io/MyEnternia/Wiki/AltaMixer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate_stack/icon.png" alt="Alta Plate Stack icon" loading="lazy" height=16px width="auto" /> [Alta Plate Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaPlateStack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/slicer/icon.png" alt="Alta Slicer icon" loading="lazy" height=16px width="auto" /> [Alta Slicer](https://ceterai.github.io/MyEnternia/Wiki/AltaSlicer)
+
+</details>
+
+## Technical Information
+
+- In-game ID: `ct_alta_plate`
+- Power: `1.0`
+- Rarity: `Common`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking)
+- File: [`/objects/alta/cooking/plate/ct_alta_plate.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/cooking/plate/ct_alta_plate.object)

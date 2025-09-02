@@ -1,0 +1,43 @@
+# Crystalline Sword
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" height=16px width="auto" /> **Crystalline Sword** is a rare two-handed broadsword.
+
+The blade of this sword is made out of crystalline cave crystals. A bit rough around the edges, but still quite powerful.  
+With no alta markings on it's [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) handle, its electro-crystallic conduction capabilities are very much Io-like.
+
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" height=16px width="auto" /> [Crystal Razor ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalRazor) at the Weapon Upgrade Anvil.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: Doesn't seem to be a registered alta product. Maybe it's a semi-fresh prototype of sorts. Judging by its looks, that seems highly probable.
+
+Radiomessages on pickup:
+
+- You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
+
+## Sources
+
+Found naturally in containers:
+
+- `crystalchest`
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
+
+Can be obtained from special items:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+
+## Technical Information
+
+- In-game ID: `ct_crystalline_sword`
+- Power: `3.0`
+- Rarity: `Rare`
+- Tags: [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- File: [`/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.activeitem)

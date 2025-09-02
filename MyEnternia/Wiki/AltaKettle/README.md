@@ -1,0 +1,36 @@
+# Alta Kettle
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kettle/icon.png" alt="Alta Kettle icon" loading="lazy" height=16px width="auto" /> **Alta Kettle** is an uncommon crafting station.
+
+An electric alta kettle, meant primarily for boiling and purifying water, as well as making tea.  
+This simple, yet useful kitchen appliance is quite popular among altas.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: I could bo for a cup of tea right about now...
+- Apex: This machine produces different hot liquids.
+- Avian: I like the smell of this.
+- Floran: A smelly drinksss machine.
+- Glitch: Neutral. A punch machine.
+- Human: Some tasty tea.
+- Hylotl: A hot, pleasant drink.
+- Novakid: Don't mind if I do!
+
+</details>
+
+## Crafting
+
+Used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height=16px width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height=16px width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
+
+## Technical Information
+
+- In-game ID: `ct_alta_kettle`
+- Power: `2.5`
+- Rarity: `Uncommon`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cafe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cafe), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/objects/alta/cooking/kettle/ct_alta_kettle.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/cooking/kettle/ct_alta_kettle.object)

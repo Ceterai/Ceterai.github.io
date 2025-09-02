@@ -1,0 +1,41 @@
+# Haven Pouches
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Haven Pouches icon" loading="lazy" height=16px width="auto" /> **Haven Pouches** is a common dish.
+
+Roasted and de-toxicated flower bits of different [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) flowers. Sometimes can be used as a substitute for cooked tsays.  
+In actuality the process of de-toxication happens while and because of proper roasting, which leads to a proper crisp and pleasant taste.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: This is pretty exotic by nature, but is quite common at the same time since some gardeners have a well-contained haven flowery on hand.
+
+Radiomessages on pickup:
+
+- The item you just got seems to have come for alterash haven - flowery areas on alterash planets that tend to have higher levels of toxicity than surrounding nature. Although it equals to toxicity levels on most green planets, it's not a usual sight here, so I would recommend being careful.
+
+## Parameters
+
+- Food Value: 15
+- Blocking Effects: `wellfed`
+
+Other variants:
+
+- `ct_tsay_cooked-haven-perfect`
+
+## Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" height=16px width="auto" /> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height=16px width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
+
+## Technical Information
+
+- In-game ID: `ct_tsay_cooked-haven`
+- Power: `1.5`
+- Rarity: `Common`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`haven`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
+- File: [`/items/generic/food/tier1/ct_tsay_cooked.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_tsay_cooked.consumable)

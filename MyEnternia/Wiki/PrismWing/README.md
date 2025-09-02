@@ -1,0 +1,30 @@
+# Prism Wing
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/prism_wing/icon.png" alt="Prism Wing icon" loading="lazy" height=16px width="auto" /> **Prism Wing** is an uncommon bug.
+
+An attached note reads, "This beautiful bug might look like a crystal shard from afar, though it is quite soft to the touch."
+
+## Ingame
+
+Species descriptions:
+
+- Alta: Seems like it's just crawling around the jar, instead of flying...
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
+
+Obtained by capturing creatures with any **bugnet**:
+
+- `ct_prism_wing`
+
+## Technical Information
+
+- In-game ID: `ct_prism_wing_af`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Tags: [`bug`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bug), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Colony tags: [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/objects/alta/special/bugs/prism_wing/ct_prism_wing.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/bugs/prism_wing/ct_prism_wing.object)

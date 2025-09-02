@@ -1,0 +1,48 @@
+# EDS Claymore
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore.png" alt="EDS Claymore icon" loading="lazy" height=16px width="auto" /> **EDS Claymore** is a rare two-handed broadsword.
+
+**WIP** A massive defensive tool created by [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds). Perfect for close combat.  
+This bastion of EDS defence is a basic combat tool usually carried by EDS mechs or by EDS [arkanas](https://ceterai.github.io/MyEnternia/Wiki/arkanas).
+
+_Elerune CDR_ is an integrated blast system, an inherent part of an EDS Claymore, and provides blaster-like abilities to the tool, making it addtionally effective in middle-range combat too.
+
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore_2.png" alt="EDS Cannonsword ★ icon" loading="lazy" height=16px width="auto" /> [EDS Cannonsword ★](https://ceterai.github.io/MyEnternia/Wiki/EDSCannonsword) at the Weapon Upgrade Anvil.
+
+## Ingame
+
+Radiomessages on pickup:
+
+- You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
+- The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
+Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
+
+## Crafting
+
+Used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore.png" alt="EDS Claymore icon" loading="lazy" height=16px width="auto" /> [EDS Claymore](https://ceterai.github.io/MyEnternia/Wiki/EDSClaymore)
+
+## Sources
+
+Found naturally in containers:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
+Can be obtained from special items:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+
+## Technical Information
+
+- In-game ID: `ct_eds_claymore`
+- Power: `3.0`
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- File: [`/items/active/weapons/melee/alta/heavy/ct_eds_claymore.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore.activeitem)

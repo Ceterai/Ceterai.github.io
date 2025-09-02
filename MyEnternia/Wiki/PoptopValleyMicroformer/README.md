@@ -1,0 +1,25 @@
+# Poptop Valley Microformer ★
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/valley/icon.png" alt="Poptop Valley Microformer ★ icon" loading="lazy" height=16px width="auto" /> **Poptop Valley Microformer ★** is a legendary terraformer.
+
+Transforms an area of a planet into a poptop valley. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
+[Poptop Valley](https://ceterai.github.io/MyEnternia/Wiki/PoptopValley) is a vast rose-colored valley full of blossoming ayakas. As the name suggests, this area is mainly populated by poptops.  
+A rare lone crop called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" height=16px width="auto" /> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) can be found here, hidden among the blossoming ayaka bushes.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: As the name suggests, these valleys have a lot of poptops in them. For some reason.
+
+## Parameters
+
+- Health: 24
+
+## Technical Information
+
+- In-game ID: `ct_alterash_valley_tf`
+- Power: `4.4`
+- Rarity: `Legendary`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
+- File: [`/objects/alta/special/terraformers/biome/alterash/valley/ct_alterash_valley.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/terraformers/biome/alterash/valley/ct_alterash_valley.object)

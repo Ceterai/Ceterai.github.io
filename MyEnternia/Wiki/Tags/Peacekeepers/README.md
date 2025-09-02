@@ -1,0 +1,13 @@
+# Peacekeepers Tag
+
+The tag `peacekeepers-tag` contains 1 total entries.
+
+## Objects
+
+## Tenants
+
+## Items
+
+Following items have this item tag:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" height=16px width="auto" /> [Neo Blaster](https://ceterai.github.io/MyEnternia/Wiki/NeoBlaster)

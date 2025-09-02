@@ -1,0 +1,45 @@
+# Shady Bishyn Crystal
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal4/icon.png" alt="Shady Bishyn Crystal icon" loading="lazy" height=16px width="auto" /> **Shady Bishyn Crystal** is an uncommon poisonous breakable object.
+
+A crystal deposit. Seems a bit shady. Looks much bigger compared to other [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) deposits.  
+It takes quite some time for a bishyn crystal to grow to its regular size margins, so deposits like these can somewhat be considered ancient, or at least very-very old.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: Bishyn crystals are poisonous. Better be careful.
+- Apex: Crystals are quite beautiful.
+- Avian: A bunch of shiny crystals.
+- Floran: Shiny, pointy rocksss.
+- Glitch: Impatient. Crystals are unpleasant when underfoot.
+- Human: Ooh, pretty.
+- Hylotl: This crystal reminds me of frozen coral.
+- Novakid: A sparklin' crystal.
+
+</details>
+
+## Parameters
+
+- Health: 6
+
+This object **doesn't drop itself** when broken.
+
+## Sources
+
+Found naturally in containers:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
+
+Can be obtained from special items:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
+
+## Technical Information
+
+- In-game ID: `ct_poison_crystal4`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Colony tags: [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/objects/biome/alterash_prime/bishyn/ct_poison_crystal4/ct_poison_crystal4.object`](https://github.com/Ceterai/Enternia/blob/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal4/ct_poison_crystal4.object)

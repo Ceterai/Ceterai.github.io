@@ -1,0 +1,31 @@
+# Alter-EPP
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" height=16px width="auto" /> **Alter-EPP** is a legendary epp item.
+
+An EPP with an augment slot. Adds 20% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity).  
+_Starburst Rework: _[Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic)_ immunity._
+
+## Ingame
+
+Radiomessages on pickup:
+
+- You've got a hold of a level 6+ alta back armor piece. Aside from providing special effects, these usually have an augment slot, allowing you to enhance them with an augment of your choice.
+
+## Parameters
+
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="Plasmoblockade icon" loading="lazy" height=16px width="auto" /> [Plasmoblockade](https://ceterai.github.io/MyEnternia/Wiki/Plasmoblockade)
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
+## Technical Information
+
+- In-game ID: `ct_alternia_epp`
+- Power: `1.0`
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)
+- File: [`/items/armors/alta/tier6/alternia/epp/ct_alternia_epp.back`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/alternia/epp/ct_alternia_epp.back)

@@ -1,0 +1,38 @@
+# Potted Blossom Plant
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" height=16px width="auto" /> **Potted Blossom Plant** is an uncommon decorative object.
+
+A decorative plant in a big titanium vase.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: Some nice ayaka saplings to bring life to any space! The vase is a complicated device that keeps it alive.
+- Apex: This plant seems to grow from a special alta eco pod. An expected level of care towards nature.
+- Avian: A pretty plant that gets all the things it needs from that big pot!
+- Floran: A plant in lotsss of metal. Very protected.
+- Glitch: Unsure. The pot for this plant seems to be bigger than the plant itself.
+- Human: Reminds me of waiting rooms.
+- Hylotl: A complicated titanium pod with a pretty plant growing inside it.
+- Novakid: Some complicated alta tech, all just to make a plant grow, huh.
+
+</details>
+
+## Parameters
+
+- Health: 2.0
+
+## Crafting
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
+
+## Technical Information
+
+- In-game ID: `ct_alta_plant_blossom`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`capital`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Capital), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`plant_pod`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantPod), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/objects/alta/special/plants/pods/blossom/ct_alta_plant_blossom.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plants/pods/blossom/ct_alta_plant_blossom.object)

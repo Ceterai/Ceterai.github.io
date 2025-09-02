@@ -1,0 +1,35 @@
+# Alta Conserver
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" height=16px width="auto" /> **Alta Conserver** is an uncommon crafting station.
+
+A piece of alta kitchen technology for making condiments, like jam, marmalade, extracts, sap, honey, etc.  
+A simplified version of an alta saturator, that focuses on thickening and fermenting ingredients into a nice jam mixture.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: A conserver! I can thicken myself some jam in here!
+- Apex: This machine produces different condiments.
+- Avian: I like the smell of this.
+- Floran: A sssmelly ssap machine.
+- Glitch: Neutral. A marmalade machine.
+- Human: Some tasty jam.
+- Hylotl: A device for making various fillings.
+- Novakid: Don't mind if I do!
+
+</details>
+
+## Crafting
+
+Used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/saturator/icon.png" alt="Alta Saturator icon" loading="lazy" height=16px width="auto" /> [Alta Saturator](https://ceterai.github.io/MyEnternia/Wiki/AltaSaturator)
+
+## Technical Information
+
+- In-game ID: `ct_alta_conserver`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/objects/alta/cooking/conserver/ct_alta_conserver.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/cooking/conserver/ct_alta_conserver.object)

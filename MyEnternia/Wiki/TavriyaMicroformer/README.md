@@ -1,0 +1,25 @@
+# Tavriya Microformer ★★
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/tavriya/icon.png" alt="Tavriya Microformer ★★ icon" loading="lazy" height=16px width="auto" /> **Tavriya Microformer ★★** is a legendary terraformer.
+
+Transforms an area of a planet into a snowy alterash prime land. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
+[Tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya) are plains and canyons full of ice and snow covering otherwise barren [moonrock](https://ceterai.github.io/MyEnternia/Wiki/moonrock) base layer. Under the surface, you might find rare [isostratums](https://ceterai.github.io/MyEnternia/Wiki/isostratums) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" height=16px width="auto" /> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) formations.  
+The climate here is usually colder than on the rest of the planet, and contains higher levels of ionization.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: Snow, ice and frozen energy... Yet, it has its own charm to tavriya that can only be felt, not understood. Still, it's pretty chill out here, a perfect environment for kaiters, so always better to avoid if possible.
+
+## Parameters
+
+- Health: 24
+
+## Technical Information
+
+- In-game ID: `ct_tavriya_tf`
+- Power: `4.8`
+- Rarity: `Legendary`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
+- File: [`/objects/alta/special/terraformers/biome/alterash_prime/tavriya/ct_tavriya.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/terraformers/biome/alterash_prime/tavriya/ct_tavriya.object)

@@ -1,0 +1,35 @@
+# Alta Plate Stack
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate_stack/icon.png" alt="Alta Plate Stack icon" loading="lazy" height=16px width="auto" /> **Alta Plate Stack** is a common decorative object.
+
+A tidy stack of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate/icon.png" alt="Alta Plate icon" loading="lazy" height=16px width="auto" /> [alta plates](https://ceterai.github.io/MyEnternia/Wiki/AltaPlate). If you want, you can stack more on top. Or put something on it.  
+An ergonomic way to stack this kind of plates. Very useful if you have a lot of them and don't know where to put them.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: This stack of plates gives this place a strong kitchen vibe.
+- Apex: A little clay plate.
+- Avian: A dish on which food is served.
+- Floran: Plate needss food. Floran hungry.
+- Glitch: Humbled. A simple clay plate.
+- Human: A very simple pottery plate.
+- Hylotl: A rounded clay plate.
+- Novakid: Small clay plate.
+
+</details>
+
+## Crafting
+
+Used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height=16px width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
+
+## Technical Information
+
+- In-game ID: `ct_alta_plate_stack`
+- Power: `1.5`
+- Rarity: `Common`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking)
+- File: [`/objects/alta/cooking/plate_stack/ct_alta_plate_stack.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/cooking/plate_stack/ct_alta_plate_stack.object)

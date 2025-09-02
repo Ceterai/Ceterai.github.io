@@ -1,0 +1,20 @@
+# Impulse Augment ★
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_impulse_augment.png" alt="Impulse Augment ★ icon" loading="lazy" height=16px width="auto" /> **Impulse Augment ★** is a rare epp augment.
+
+An EPP module that makes you periodically burst with ionic clouds.
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
+## Technical Information
+
+- In-game ID: `ct_impulse_augment`
+- Power: `3.3`
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`impulse`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- File: [`/items/augments/back/ct_impulse_augment.augment`](https://github.com/Ceterai/Enternia/blob/main/items/augments/back/ct_impulse_augment.augment)

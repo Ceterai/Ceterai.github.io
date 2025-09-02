@@ -1,0 +1,17 @@
+# Kodorric Tag
+
+The tag `kodorric-tag` contains 5 total entries.
+
+## Objects
+
+Following objects have this colony tag:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric1.png" alt="Thin Kodorric Shroom icon" loading="lazy" height=16px width="auto" /> [Thin Kodorric Shroom](https://ceterai.github.io/MyEnternia/Wiki/ThinKodorricShroom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric2.png" alt="Kodorric Shroom icon" loading="lazy" height=16px width="auto" /> [Kodorric Shroom](https://ceterai.github.io/MyEnternia/Wiki/KodorricShroom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric3.png" alt="Tiny Kodorric Shroom icon" loading="lazy" height=16px width="auto" /> [Tiny Kodorric Shroom](https://ceterai.github.io/MyEnternia/Wiki/TinyKodorricShroom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric4.png" alt="Gloopy Kodorric Shroom icon" loading="lazy" height=16px width="auto" /> [Gloopy Kodorric Shroom](https://ceterai.github.io/MyEnternia/Wiki/GloopyKodorricShroom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric5.png" alt="Bushy Kodorric Shroom icon" loading="lazy" height=16px width="auto" /> [Bushy Kodorric Shroom](https://ceterai.github.io/MyEnternia/Wiki/BushyKodorricShroom)
+
+## Tenants
+
+## Items

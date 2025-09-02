@@ -1,0 +1,34 @@
+# Perfect Staris Soup ★
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Perfect Staris Soup ★ icon" loading="lazy" height=16px width="auto" /> **Perfect Staris Soup ★** is a legendary dish.
+
+A dish of the fallen! What are these feelings inside of you? Have you ever felt them before?  
+A perfectly followed recipe that led to a perfectly cooked meal. Nothing else to add here, really.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: Something you would expect from a perfectly cooked dish.
+
+## Parameters
+
+- Food Value: 65
+- Blocking Effects: `wellfed`
+- Effects: 
+
+- Effect: `maxenergyscalingboostfood`- Duration: 315, 
+
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/determined.png:1" alt="Determined icon" loading="lazy" height=16px width="auto" /> [Determined](https://ceterai.github.io/MyEnternia/Wiki/Determined)- Duration: 270
+
+Other variants:
+
+- `ct_staris_soup-perfect-perfect`
+
+## Technical Information
+
+- In-game ID: `ct_staris_soup-perfect`
+- Power: `3.85`
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)
+- File: [`/items/generic/food/tier4/ct_staris_soup.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_staris_soup.consumable)

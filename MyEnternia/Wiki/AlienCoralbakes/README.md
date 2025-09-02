@@ -1,0 +1,37 @@
+# Alien Coralbakes
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" height=16px width="auto" /> **Alien Coralbakes** is an uncommon dish.
+
+A cold-served baked alien coral with edible insides and recepticles, but unedible blue shell that also serves as a container for the dish. Useful.  
+Corals are quite uncommon to come by on alterash planets, so this dish is often considered a delicacy.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: Hard to put it on the scale, I'm not very used to seafood in general.
+
+## Parameters
+
+- Food Value: 24
+- Blocking Effects: `wellfed`
+
+Other variants:
+
+- `ct_tsay_cooked-alien-perfect`
+
+## Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" height=16px width="auto" /> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height=16px width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
+
+## Technical Information
+
+- In-game ID: `ct_tsay_cooked-alien`
+- Power: `2.5`
+- Rarity: `Uncommon`
+- Tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/items/generic/food/tier1/ct_tsay_cooked.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_tsay_cooked.consumable)

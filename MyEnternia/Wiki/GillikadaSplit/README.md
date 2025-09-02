@@ -1,0 +1,39 @@
+# Gillikada Split
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" height=16px width="auto" /> **Gillikada Split** is an uncommon dish.
+
+This perfectly crafted gillikada has a thin, satisfying crust covering its gentle mash. Very fulfilling.  
+The crust can be achieved in many ways, but is often made by covering the outside in an even layer of mashed gil seeds and some cooking oil.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: Not sure if I prefer this or the regular version. Both are pretty neat.
+
+## Parameters
+
+- Food Value: 24
+- Blocking Effects: `wellfed`
+- Effects: 
+
+- Effect: `runboostfood`- Duration: 60
+
+Other variants:
+
+- `ct_gillikada-split-split`
+
+## Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" height=16px width="auto" /> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height=16px width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
+
+## Technical Information
+
+- In-game ID: `ct_gillikada-split`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`kada`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Kada), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/items/generic/food/tier1/ct_gillikada.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_gillikada.consumable)

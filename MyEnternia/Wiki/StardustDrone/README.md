@@ -1,0 +1,26 @@
+# Stardust Drone
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Stardust Drone icon" loading="lazy" height=16px width="auto" /> **Stardust Drone** is an uncommon throwable item.
+
+Small armored [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) drone. Usually nests inside larger drones.  
+These compact flying robots are not that much smaller than a rebular alta drone, but enough to be able to fit in much smaller spaces.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: So small, so cute~ ❤
+
+Radiomessages on pickup:
+
+- The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
+Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
+- Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
+
+## Technical Information
+
+- In-game ID: `ct_alta_mini_drone-staris`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/items/active/alta/spawners/drones/mini.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/mini.activeitem)

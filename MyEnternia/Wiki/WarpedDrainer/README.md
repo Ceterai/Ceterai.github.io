@@ -1,0 +1,42 @@
+# Warped Drainer
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/drainer/icon.png" alt="Warped Drainer icon" loading="lazy" height=16px width="auto" /> **Warped Drainer** is an uncommon wiring component.
+
+This mechanism made out of weird plants sucks in liquids around it. Looks like a hungry plant monster.
+
+## Ingame
+
+<details><summary>Species descriptions: (Expand 8 items)</summary>
+
+- Alta: This warped drainer utilizes some plants' sensory abilities and predatory nature to absorb certain liquids.
+- Apex: An unpleasant sight.
+- Avian: What an ugly creature.
+- Floran: Warpy hole plant sssuck water! But also poissson. Floran could use thisss.
+- Glitch: Disgusted. A deformed... something.
+- Human: An odd living creature.
+- Hylotl: Seems like this creature sucks liquids around it for some reason.
+- Novakid: This thing is lookin' really bizarre.
+
+</details>
+
+## Sources
+
+Found naturally in containers:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
+
+Can be bought from merchants:
+
+- [Warped Merchant](https://ceterai.github.io/MyEnternia/Wiki/WarpedMerchant)
+
+Can be obtained from special items:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height=16px width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
+
+## Technical Information
+
+- In-game ID: `ct_warped_drainer`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Colony tags: [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), [`wired`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wired)
+- File: [`/objects/biome/alterash/warped/decorative/drainer/ct_warped_drainer.object`](https://github.com/Ceterai/Enternia/blob/main/objects/biome/alterash/warped/decorative/drainer/ct_warped_drainer.object)
