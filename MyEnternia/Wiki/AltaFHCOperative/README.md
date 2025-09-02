@@ -11,6 +11,6 @@ This alta is a former member of the First Human Contact initiative. After protec
 ## Technical Information
 
 - In-game ID: `ct_alta_contact_tenant`
-- NPC type: ct_alta_contact
-- Priority: 14
+- NPC type: `ct_alta_contact`
+- Priority: `14`
 - File: [`/tenants/alta/themed/human/contact.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/human/contact.tenant)

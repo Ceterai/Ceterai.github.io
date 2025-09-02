@@ -6,7 +6,7 @@ Tall, pink reed flower.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 7 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 7 items)</summary>
 
 - Apex: Reeds.
 - Avian: Just reeds.
@@ -28,7 +28,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/miko/icon.png" alt="Potted Miko Koywa Flower icon" loading="lazy" height=16px width="auto" /> [Potted Miko Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedMikoKoywaFlower)
 
-<details><summary>Used to craft: (Expand 21 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 21 items)</summary>
 
 - `browndye`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" height=16px width="auto" /> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
@@ -58,7 +58,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 

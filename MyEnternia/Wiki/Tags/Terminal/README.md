@@ -4,7 +4,7 @@ The tag `terminal-tag` contains 10 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Lab Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal)

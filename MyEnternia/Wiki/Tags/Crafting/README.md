@@ -4,7 +4,7 @@ The tag `crafting-tag` contains 20 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 20 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 20 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/aquarium/icon.png" alt="Alta Aquarium icon" loading="lazy" height=16px width="auto" /> [Alta Aquarium](https://ceterai.github.io/MyEnternia/Wiki/AltaAquarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/architect_station/icon.png" alt="Alta Architect Station icon" loading="lazy" height=16px width="auto" /> [Alta Architect Station](https://ceterai.github.io/MyEnternia/Wiki/AltaArchitectStation)

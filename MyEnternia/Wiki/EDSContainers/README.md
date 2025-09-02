@@ -6,7 +6,7 @@ An [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) crate containing ca
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Some EDS shipping containers. Probably armor and security tech.
 - Apex: A mysterious cargo crate.

@@ -8,7 +8,7 @@ The tag `ghearun-tag` contains 13 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Ghearun Researcher Coat icon" loading="lazy" height=16px width="auto" /> [Ghearun Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/GhearunResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Ghearun Researcher Skirt icon" loading="lazy" height=16px width="auto" /> [Ghearun Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/GhearunResearcherSkirt)

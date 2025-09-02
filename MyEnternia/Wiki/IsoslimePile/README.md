@@ -6,7 +6,7 @@ A glob of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/item
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I could get a biosample from this! Or maybe even a cryonic extract, if I'm lucky.
 - Apex: A slime deposit. It appears to be dripping.

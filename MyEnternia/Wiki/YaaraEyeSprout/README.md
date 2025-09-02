@@ -41,7 +41,7 @@ Can be bought from merchants:
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 
-<details><summary>Can be harvested from: (Expand 7 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" height=16px width="auto" /> [Wild Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraEyeSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Boosted Yaavi Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaviSapling)

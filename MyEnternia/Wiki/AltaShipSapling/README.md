@@ -7,7 +7,7 @@ _Can be placed on moonstone. Can grow into alien trees, flesh strands, dark rock
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A ship eco chamber for growing plants or crystal plants with highly specific conditions.
 - Apex: I can plant this to grow a tree.
@@ -48,7 +48,7 @@ Can be bought from merchants:
 
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

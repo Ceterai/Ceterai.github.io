@@ -1,7 +1,7 @@
 # Electroblockade
 
-Adds 15% ^#7733aa;electric resistance^reset; and ^#7733aa;Electric Immunity^reset;.  
-With ^#7733aa;Starburst Rework^reset; - adds immunity to ^#7733aa;Mild Static^reset;.
+Adds 15% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) and [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).  
+With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRework) - adds immunity to [Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic).
 
 Applied by following items:
 

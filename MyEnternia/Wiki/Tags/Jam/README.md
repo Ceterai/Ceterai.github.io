@@ -8,7 +8,7 @@ The tag `jam-tag` contains 9 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 9 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" height=16px width="auto" /> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Virma Honey icon" loading="lazy" height=16px width="auto" /> [Virma Honey](https://ceterai.github.io/MyEnternia/Wiki/VirmaHoney)

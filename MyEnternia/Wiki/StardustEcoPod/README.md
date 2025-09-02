@@ -7,7 +7,7 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A stardust eco chamber for growing plants or crystal plants with highly specific conditions.
 - Apex: I can plant this to grow a tree.
@@ -31,7 +31,7 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" height=16px width="auto" /> [Alta Thermoponics ★★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics)
 
-<details><summary>Unlocks blueprints for: (Expand 7 items)</summary>
+<details markdown="1"><summary>Unlocks blueprints for: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/void.png" alt="Alta Omniponics icon" loading="lazy" height=16px width="auto" /> [Alta Omniponics](https://ceterai.github.io/MyEnternia/Wiki/AltaOmniponics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height=16px width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)

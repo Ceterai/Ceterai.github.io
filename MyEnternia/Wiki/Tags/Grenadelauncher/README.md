@@ -8,7 +8,7 @@ The tag `grenadelauncher-tag` contains 6 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.png" alt="Ion Reaper ★ icon" loading="lazy" height=16px width="auto" /> [Ion Reaper ★](https://ceterai.github.io/MyEnternia/Wiki/IonReaper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" height=16px width="auto" /> [Meteoblaster WIP](https://ceterai.github.io/MyEnternia/Wiki/MeteoblasterWIP)

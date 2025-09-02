@@ -6,7 +6,7 @@ A simplistic round table made out of titanium. Only 3 blocks wide.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A simple, yet sturdy table with minimal details. It's easy to clean and will last for a very long time.
 - Apex: A decent table.

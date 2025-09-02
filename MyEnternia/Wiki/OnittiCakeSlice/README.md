@@ -7,7 +7,7 @@ Yava alta cuisine. A delicious layered cake with yaara flower topping. There's a
 ## Parameters
 
 - Food Value: 70
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxenergyscalingboostfood`- Duration: 495

@@ -30,7 +30,7 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height=16px width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
 - `outpostshippingcontainer`
 
-<details><summary>Can be bought from merchants: (Expand 12 items)</summary>
+<details markdown="1"><summary>Can be bought from merchants: (Expand 12 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
@@ -47,7 +47,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

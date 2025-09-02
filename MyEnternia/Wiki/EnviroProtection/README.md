@@ -1,6 +1,6 @@
 # Enviro Protection
 
-Increases your ^#f08020;fire^reset; and ^#80f020;poison^reset; resistance by 15%.
+Increases your [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) resistance by 15%.
 
 Applied by following items:
 

@@ -19,7 +19,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Citadels ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)

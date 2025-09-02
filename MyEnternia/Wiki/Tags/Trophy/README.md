@@ -4,7 +4,7 @@ The tag `trophy-tag` contains 17 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_alta_trophy.png" alt="Alta Trophy ★ icon" loading="lazy" height=16px width="auto" /> [Alta Trophy ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_anglure_lamp.png" alt="Anglure's Lamp ★ icon" loading="lazy" height=16px width="auto" /> [Anglure's Lamp ★](https://ceterai.github.io/MyEnternia/Wiki/Anglure'sLamp)

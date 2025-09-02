@@ -11,6 +11,6 @@ An aspiring alta artist pursuing her hobby. Would you like to support her?
 ## Technical Information
 
 - In-game ID: `ct_alta_artist_tenant`
-- NPC type: ct_alta_artist
-- Priority: 4
+- NPC type: `ct_alta_artist`
+- Priority: `4`
 - File: [`/tenants/alta/merchants/artist.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/artist.tenant)

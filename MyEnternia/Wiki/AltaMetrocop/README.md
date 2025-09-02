@@ -11,6 +11,6 @@ An alta analog of human police, equipped to easily traverse the city on her legs
 ## Technical Information
 
 - In-game ID: `ct_alta_metrocop_tenant`
-- NPC type: ct_alta_metrocop
-- Priority: 8
+- NPC type: `ct_alta_metrocop`
+- Priority: `8`
 - File: [`/tenants/alta/guards/tier3/metrocop.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier3/metrocop.tenant)

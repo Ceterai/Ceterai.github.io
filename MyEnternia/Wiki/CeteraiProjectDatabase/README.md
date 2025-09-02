@@ -26,7 +26,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ceterai Project Database icon" loading="lazy" height=16px width="auto" /> [Ceterai Project Database](https://ceterai.github.io/MyEnternia/Wiki/CeteraiProjectDatabase)
 
-<details><summary>Used to craft: (Expand 13 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 13 items)</summary>
 
 - `ct_alta_constructor4`
 - `ct_alta_crafting_station10`
@@ -53,7 +53,7 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height=16px width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
 - `outpostshippingcontainer`
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

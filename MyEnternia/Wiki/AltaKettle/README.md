@@ -7,7 +7,7 @@ This simple, yet useful kitchen appliance is quite popular among altas.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I could bo for a cup of tea right about now...
 - Apex: This machine produces different hot liquids.

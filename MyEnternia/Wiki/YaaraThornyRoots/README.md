@@ -7,7 +7,7 @@ Those crystals grow naturally from the root endings, although this process is a 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Yaara is a ceternia plant, but an overflow of alternia energy makes it grow crystals like this.
 - Apex: So many sharp crystals. The electric buzzing is most frightening.

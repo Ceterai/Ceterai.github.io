@@ -6,7 +6,7 @@ A small [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) terminal
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A regular terminal in bishyn style. Anything is better than a console.
 - Apex: An easy-to-use control panel.

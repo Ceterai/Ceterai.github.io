@@ -8,6 +8,6 @@
 ## Technical Information
 
 - In-game ID: `ct_yaara_keeper_tenant`
-- NPC type: floranhuntinggrounds
-- Priority: 4
+- NPC type: `floranhuntinggrounds`
+- Priority: `4`
 - File: [`/tenants/floran/ct_yaara_keeper.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/floran/ct_yaara_keeper.tenant)

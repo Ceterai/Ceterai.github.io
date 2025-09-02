@@ -4,7 +4,7 @@ The tag `alta_lab-tag` contains 47 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 30 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 30 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" height=16px width="auto" /> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/barrier/icon.png" alt="Alta Lab Barrier icon" loading="lazy" height=16px width="auto" /> [Alta Lab Barrier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBarrier)
@@ -50,7 +50,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Engineer Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EngineerDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" height=16px width="auto" /> [Alta Labs](https://ceterai.github.io/MyEnternia/Wiki/AltaLabs)

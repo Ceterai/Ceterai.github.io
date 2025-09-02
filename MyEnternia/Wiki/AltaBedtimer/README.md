@@ -11,6 +11,6 @@ An alta on a sleepover! Why isn't she sleeping?
 ## Technical Information
 
 - In-game ID: `ct_alta_bed_tenant`
-- NPC type: ct_alta_bed_girl
-- Priority: 14
+- NPC type: `ct_alta_bed_girl`
+- Priority: `14`
 - File: [`/tenants/alta/themed/tropical/bed.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/tropical/bed.tenant)

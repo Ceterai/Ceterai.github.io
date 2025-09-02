@@ -14,11 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 50
-- Blocking Effects: `wellfed`
-
-Other variants:
-
-- `ctcannedfood-extra-extra`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Technical Information
 

@@ -6,7 +6,7 @@ Broken [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) display.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: In order to get a proper image, this monitor needs to be properly configured first. It's not.
 - Apex: This screen is broken.

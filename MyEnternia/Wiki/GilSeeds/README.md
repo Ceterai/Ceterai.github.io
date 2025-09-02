@@ -6,7 +6,7 @@ A natural source of salt, wow.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Gil is great for salty meals! Wouldn't mind having one right now.
 - Apex: Tastes like a tomato with spices.
@@ -30,7 +30,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/sapling/icon.png" alt="Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/GilSapling)
 
-<details><summary>Used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/other/seed.png" alt="Alta Seed Pack icon" loading="lazy" height=16px width="auto" /> [Alta Seed Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" height=16px width="auto" /> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer)
@@ -48,7 +48,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought in shops:
 
@@ -68,7 +68,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Wild Gil Seeds icon" loading="lazy" height=16px width="auto" /> [Wild Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/WildGilSeeds)
 
-<details><summary>Can be harvested from: (Expand 18 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)

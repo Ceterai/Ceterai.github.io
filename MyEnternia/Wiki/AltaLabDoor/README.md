@@ -6,7 +6,7 @@ A simple bion door with crystals instead of glass.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A basic see-through door to cancel out all the noises on the other side!
 - Apex: This door is rather secure.

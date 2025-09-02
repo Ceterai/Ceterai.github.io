@@ -6,7 +6,7 @@ An elegant stylish table. Raised dull edges with light strips prevent any accide
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Calin style is popular in big cities with party places and video game lounges.
 - Apex: This table looks really luxuriously.

@@ -7,7 +7,7 @@ This tree consists of a special type of wood often used in decorative furniture 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This eco pod contains a sapling of sofara.
 - Apex: I can plant this to grow a tree.

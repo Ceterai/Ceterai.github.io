@@ -6,7 +6,7 @@ A sleek chair that almost looks like it's levitating. The back and top part are 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: You will find chairs like these in clubs and other places dedicated to entertainment and relaxation.
 - Apex: An enormously stylish chair.

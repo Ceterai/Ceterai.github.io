@@ -11,6 +11,6 @@ An EDS member responsible for most non-field EDS activity.
 ## Technical Information
 
 - In-game ID: `ct_eds_officer_tenant`
-- NPC type: ct_eds_officer
-- Priority: 4
+- NPC type: `ct_eds_officer`
+- Priority: `4`
 - File: [`/tenants/alta/service/eds.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/service/eds.tenant)

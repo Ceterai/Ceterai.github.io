@@ -6,7 +6,7 @@ A horizontal crystal doorway. Similar to calin gateways, the crystal plays the m
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Not many places that use calin style have the need for hatches, yet they still prove themselves useful.
 - Apex: A hatch with a crystal in it.

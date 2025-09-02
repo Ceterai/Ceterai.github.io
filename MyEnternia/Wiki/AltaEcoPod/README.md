@@ -7,7 +7,7 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Eco pods like this one are used to safely grow trees on alterash planets, mainly ayakas.
 - Apex: I can plant this to grow a tree.
@@ -36,7 +36,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Alta Hydroponics ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Hydroponics ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
 
-<details><summary>Used to craft: (Expand 17 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 17 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/pod/icon.png" alt="Aya Eco Pod icon" loading="lazy" height=16px width="auto" /> [Aya Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AyaEcoPod)

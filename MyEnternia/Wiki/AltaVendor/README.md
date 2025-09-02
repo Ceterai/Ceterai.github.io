@@ -7,7 +7,7 @@ These can often be found in alta cities as a hygenic no-contact method of buying
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Oa, a vendor! I can get some drinks and snacks here~
 - Apex: This vending machine sells drinks and snacks.

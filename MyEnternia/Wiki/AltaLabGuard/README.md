@@ -11,6 +11,6 @@ An alta security unit protecting general alta laboratories and their personnel.
 ## Technical Information
 
 - In-game ID: `ct_alta_lab_guard_tenant`
-- NPC type: ct_alta_lab_security
-- Priority: 6
+- NPC type: `ct_alta_lab_security`
+- Priority: `6`
 - File: [`/tenants/alta/guards/tier5/lab.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier5/lab.tenant)

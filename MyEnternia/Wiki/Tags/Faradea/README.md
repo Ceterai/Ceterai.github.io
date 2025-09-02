@@ -20,7 +20,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="Faradea Shield icon" loading="lazy" height=16px width="auto" /> [Faradea Shield](https://ceterai.github.io/MyEnternia/Wiki/FaradeaShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height=16px width="auto" /> [Brawl Of Legends Poster](https://ceterai.github.io/MyEnternia/Wiki/BrawlOfLegendsPoster)

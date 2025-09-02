@@ -11,6 +11,6 @@ A professional alta dancer. Can be often seen in clubs and dancing events. Likes
 ## Technical Information
 
 - In-game ID: `ct_alta_dancer_tenant`
-- NPC type: ct_alta_dancer
-- Priority: 4
+- NPC type: `ct_alta_dancer`
+- Priority: `4`
 - File: [`/tenants/alta/dancer.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/dancer.tenant)

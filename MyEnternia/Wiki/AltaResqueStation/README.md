@@ -7,7 +7,7 @@ Can create folded seams and protects the operator from the needle.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I can make cloth and clothing here.
 - Apex: Some sort of an alta mainframe. Might contain useful information.

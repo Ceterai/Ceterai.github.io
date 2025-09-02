@@ -7,7 +7,7 @@ Even though this is technically a glass, the word "cup" was chosen by altas to n
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A neat little handless crystal cup, for when you want to go for a cup of tea.
 - Apex: A little wooden cup.

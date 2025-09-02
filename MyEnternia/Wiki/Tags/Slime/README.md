@@ -4,7 +4,7 @@ The tag `slime-tag` contains 11 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime1/icon.png" alt="Isoslime Puddle icon" loading="lazy" height=16px width="auto" /> [Isoslime Puddle](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePuddle)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime2/icon.png" alt="Isoslime Pile icon" loading="lazy" height=16px width="auto" /> [Isoslime Pile](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePile)

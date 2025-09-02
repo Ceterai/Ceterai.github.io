@@ -6,7 +6,7 @@ A green [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) cons
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Ah, a terminal. Hopefully it has connection to some databases. ...Or not. Oh well.
 - Apex: A great easy-to-use terminal.

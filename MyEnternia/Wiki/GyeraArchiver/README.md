@@ -11,6 +11,6 @@ This alta researcher is part of Iora Gyera Ordis, focusing on preserving plant, 
 ## Technical Information
 
 - In-game ID: `ct_gyera_archiver_tenant`
-- NPC type: ct_gyera_archiver
-- Priority: 9
+- NPC type: `ct_gyera_archiver`
+- Priority: `9`
 - File: [`/tenants/alta/merchants/gyera.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/gyera.tenant)

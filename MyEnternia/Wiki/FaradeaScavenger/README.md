@@ -11,6 +11,6 @@ A highly experienced faradea merc, used to field combat and difficult adventures
 ## Technical Information
 
 - In-game ID: `ct_faradea_scavenger_tenant`
-- NPC type: ct_faradea_scavenger
-- Priority: 8
+- NPC type: `ct_faradea_scavenger`
+- Priority: `8`
 - File: [`/tenants/alta/guards/tier6/faradea.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier6/faradea.tenant)

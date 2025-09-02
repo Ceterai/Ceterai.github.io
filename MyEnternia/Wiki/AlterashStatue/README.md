@@ -7,7 +7,7 @@ While the label doesn't explicitly mention it, this model specifically is made t
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Home sweet home... On a pedestal!
 - Apex: A statue on what looks to be a titanium platform. This work is impressive.

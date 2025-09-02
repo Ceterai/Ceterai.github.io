@@ -6,7 +6,7 @@ A one-way titanium teleporter. Oddly enough, this doesn't feel like [alta](https
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A city teleporter, this one is not alta tech, so I'm not sure of how it works.
 - Apex: This ancient teleporter no longer appears to function.

@@ -11,6 +11,6 @@ A security representative responsible for most non-field security work.
 ## Technical Information
 
 - In-game ID: `ct_alta_security_officer_tenant`
-- NPC type: ct_alta_security_officer
-- Priority: 4
+- NPC type: `ct_alta_security_officer`
+- Priority: `4`
 - File: [`/tenants/alta/service/security.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/service/security.tenant)

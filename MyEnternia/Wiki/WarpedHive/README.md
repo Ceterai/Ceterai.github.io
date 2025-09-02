@@ -20,7 +20,7 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 11 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 11 items)</summary>
 
 - `ct_alta_crafting_station5`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/yonnur.png" alt="Yonnur Glowstick icon" loading="lazy" height=16px width="auto" /> [Yonnur Glowstick](https://ceterai.github.io/MyEnternia/Wiki/YonnurGlowstick)
@@ -32,7 +32,7 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" height=16px width="auto" /> [Warped Gun](https://ceterai.github.io/MyEnternia/Wiki/WarpedGun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" height=16px width="auto" /> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/warped/icon.png" alt="Warped Sample icon" loading="lazy" height=16px width="auto" /> [Warped Sample](https://ceterai.github.io/MyEnternia/Wiki/WarpedSample)
-- `glowfibre`
+- <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height=14px width=15px /> [Glow Fibre](https://starbounder.org/Glow_Fibre)
 
 </details>
 
@@ -50,7 +50,7 @@ Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height=16px width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
 
-<details><summary>Can be harvested from: (Expand 8 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" height=16px width="auto" /> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)

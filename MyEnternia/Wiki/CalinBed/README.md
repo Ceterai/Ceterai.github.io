@@ -6,7 +6,7 @@ A beautiful bed with crystals on the corners. Well-balanced and light.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Although not as rich on energy, calin crystals look nice and are often used as lounge and party decor.
 - Apex: A pretty charming bed.

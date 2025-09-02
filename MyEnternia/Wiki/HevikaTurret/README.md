@@ -6,7 +6,7 @@ An automated security turret powered by hevika crystals.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A protective peace of technology designed to keep alta labs safe.
 - Apex: It's an automated sentry gun.

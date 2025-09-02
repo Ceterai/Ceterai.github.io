@@ -11,6 +11,6 @@ A cafe worker that can serve non-alcoholic drinks.
 ## Technical Information
 
 - In-game ID: `ct_alta_bartender_tenant`
-- NPC type: ct_alta_bartender
-- Priority: 5
+- NPC type: `ct_alta_bartender`
+- Priority: `5`
 - File: [`/tenants/alta/merchants/bartender.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/bartender.tenant)

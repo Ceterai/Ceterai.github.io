@@ -7,7 +7,7 @@ Can be used for capturing plant critters for collection and to have them as pets
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An empty flower pot... Or is something just hiding somewhere inside?~
 - Apex: A decent aquarium.
@@ -37,7 +37,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/red/icon.png" alt="Potted Red Flower icon" loading="lazy" height=16px width="auto" /> [Potted Red Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedRedFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yellow/icon.png" alt="Potted Yellow Flower icon" loading="lazy" height=16px width="auto" /> [Potted Yellow Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedYellowFlower)
 
-<details><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height=16px width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/tall/icon.png" alt="Alta Tall Flower Pot icon" loading="lazy" height=16px width="auto" /> [Alta Tall Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaTallFlowerPot)
@@ -52,7 +52,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought in shops:
 

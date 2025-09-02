@@ -4,7 +4,7 @@ The tag `flower-tag` contains 17 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" height=16px width="auto" /> [Potted Alto Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedAltoKoywaFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/blue/icon.png" alt="Potted Blue Flower icon" loading="lazy" height=16px width="auto" /> [Potted Blue Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedBlueFlower)

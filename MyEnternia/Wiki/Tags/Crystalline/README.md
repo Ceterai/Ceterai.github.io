@@ -4,7 +4,7 @@ The tag `crystalline-tag` contains 19 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/pod/icon.png" alt="Carel Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Carel Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CarelEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/boosted/icon.png" alt="Boosted Diamond Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedDiamondSapling)
@@ -26,7 +26,7 @@ The tag `crystalline-tag` contains 19 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystalline Jam icon" loading="lazy" height=16px width="auto" /> [Crystalline Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystallineJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)

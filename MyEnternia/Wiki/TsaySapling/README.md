@@ -6,7 +6,7 @@ A proper sapling that takes less space and has increased and more consistent spe
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Tsay is probably the most vibrant tasting fruit out there.
 - Apex: Tastes like a tomato with spices.

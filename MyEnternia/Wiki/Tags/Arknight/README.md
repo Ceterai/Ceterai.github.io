@@ -13,7 +13,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Arknight's Handbook icon" loading="lazy" height=16px width="auto" /> [Arknight's Handbook](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sHandbook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" height=16px width="auto" /> [Arknight's Shield](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sShield)

@@ -4,7 +4,7 @@ The tag `light-tag` contains 205 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 35 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 35 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" height=16px width="auto" /> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/light/icon.png" alt="Alta Lab Light icon" loading="lazy" height=16px width="auto" /> [Alta Lab Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLabLight)
@@ -46,7 +46,7 @@ The tag `light-tag` contains 205 total entries.
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 154 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 154 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)
@@ -207,7 +207,7 @@ The tag `light-tag` contains 205 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 16 items)</summary>
 
 - `ct_back_mimic-warped_glowtail`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Repelling Stim Pack ★ icon" loading="lazy" height=16px width="auto" /> [Repelling Stim Pack ★](https://ceterai.github.io/MyEnternia/Wiki/RepellingStimPack)

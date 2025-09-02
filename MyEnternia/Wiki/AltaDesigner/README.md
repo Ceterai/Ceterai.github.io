@@ -11,6 +11,6 @@ An aspiring alta designer with some creative, well, designs right with her.
 ## Technical Information
 
 - In-game ID: `ct_alta_designer_tenant`
-- NPC type: ct_alta_designer
-- Priority: 4
+- NPC type: `ct_alta_designer`
+- Priority: `4`
 - File: [`/tenants/alta/merchants/designer.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/designer.tenant)

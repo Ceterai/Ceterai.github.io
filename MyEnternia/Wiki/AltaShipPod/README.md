@@ -7,7 +7,7 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A high-tech containment pod with isolated environment. Used in alta ships for extra-special equipment.
 - Apex: A pod chest. What's inside?

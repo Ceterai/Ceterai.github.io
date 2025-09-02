@@ -6,7 +6,7 @@ A decorative plant in a big titanium vase.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Some nice <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_icon.png" alt="Yaara Flower icon" loading="lazy" height=16px width="auto" /> [yaara flowers](https://ceterai.github.io/MyEnternia/Wiki/YaaraFlower) to bring life to any space! The vase is a complicated device that keeps it alive.
 - Apex: This plant seems to grow from a special alta eco pod. An expected level of care towards nature.

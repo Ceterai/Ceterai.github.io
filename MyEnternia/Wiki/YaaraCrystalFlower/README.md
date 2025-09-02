@@ -6,7 +6,7 @@ A not-sunflower lamp covered in crystals. Looks like they grow right from the pl
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This lamp flower is covered in calin crystals. Altas may have influenced the growth here to some extent.
 - Apex: This is a delightful idea for a lamp.

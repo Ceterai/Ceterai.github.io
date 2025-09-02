@@ -14,7 +14,7 @@ _WARNING_: Do not, under any circumstances, excavate the satellites in order to 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: The Cagorta-1 incident is a great telltale of caution, something Hevika or Neiteru could learn from greatly...
 - Apex: Another planet, another alta disaster. Can't believe they could infiltrate the Miniknog with this level of misfortune.

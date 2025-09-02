@@ -7,7 +7,7 @@ Aside from general convenience, these certified models come with cleaning kits a
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Alta microwaves are usually smaller in size than most other models, since we need smaller food protions.
 - Apex: A type of oven.

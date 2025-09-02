@@ -7,7 +7,7 @@ These can often be found in specialized stores and complexes.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This vendor has tillers and other botanical tools for sale!
 - Apex: This vending machine sells foraging equipment.
@@ -30,7 +30,7 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be obtained from special items:
 

@@ -17,7 +17,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 14 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 14 items)</summary>
 
 - `ct_alta_crafting_station7`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_iso_ball.png" alt="Izo Ball icon" loading="lazy" height=16px width="auto" /> [Izo Ball](https://ceterai.github.io/MyEnternia/Wiki/IzoBall)
@@ -31,8 +31,8 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" height=16px width="auto" /> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" height=16px width="auto" /> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" height=16px width="auto" /> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings)
-- `greenslime`
-- `staticcell`
+- <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" height=14px width=10px /> [Slime Blob](https://starbounder.org/Slime_Blob)
+- <img src="https://starbounder.org/mediawiki/images/6/6a/Static_Cell.png" alt="Static Cell icon" loading="lazy" height=14px width=9px /> [Static Cell](https://starbounder.org/Static_Cell)
 
 </details>
 
@@ -40,7 +40,7 @@ Species descriptions:
 
 Found naturally in containers:
 
-- `slimehide`
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Drops from defeated creatures:
 
@@ -65,7 +65,7 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_blob/icon.png" alt="Isoblob icon" loading="lazy" height=16px width="auto" /> [Isoblob](https://ceterai.github.io/MyEnternia/Wiki/Isoblob)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_spawner/icon.png" alt="Isospawner icon" loading="lazy" height=16px width="auto" /> [Isospawner](https://ceterai.github.io/MyEnternia/Wiki/Isospawner)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)

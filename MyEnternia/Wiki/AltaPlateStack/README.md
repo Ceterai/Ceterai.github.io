@@ -7,7 +7,7 @@ An ergonomic way to stack this kind of plates. Very useful if you have a lot of 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This stack of plates gives this place a strong kitchen vibe.
 - Apex: A little clay plate.

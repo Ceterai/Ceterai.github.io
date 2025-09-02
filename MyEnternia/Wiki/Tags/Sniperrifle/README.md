@@ -8,7 +8,7 @@ The tag `sniperrifle-tag` contains 6 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_eds_one.png" alt="EDS-One ★ icon" loading="lazy" height=16px width="auto" /> [EDS-One ★](https://ceterai.github.io/MyEnternia/Wiki/EDS-One)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_faradea_scavenger.png" alt="FD Scavenger ★ icon" loading="lazy" height=16px width="auto" /> [FD Scavenger ★](https://ceterai.github.io/MyEnternia/Wiki/FDScavenger)

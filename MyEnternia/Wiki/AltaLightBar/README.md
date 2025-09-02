@@ -7,7 +7,7 @@ Most basic alta furniture is designed to be simple, lightweight, and, most impor
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A basic ceiling light, you can find these in most alta buildings.
 - Apex: A light fixture made from metal.

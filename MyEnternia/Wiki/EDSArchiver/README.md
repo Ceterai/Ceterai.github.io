@@ -11,6 +11,6 @@ This alta researcher is part of EDS, focusing on protective technology and high-
 ## Technical Information
 
 - In-game ID: `ct_eds_archiver_tenant`
-- NPC type: ct_eds_archiver
-- Priority: 7
+- NPC type: `ct_eds_archiver`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/trade/eds.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/trade/eds.tenant)

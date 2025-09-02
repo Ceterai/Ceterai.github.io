@@ -14,14 +14,10 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 15
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/steaming.png:1" alt="Lustful icon" loading="lazy" height=16px width="auto" /> [Lustful](https://ceterai.github.io/MyEnternia/Wiki/Lustful)- Duration: 300
-
-Other variants:
-
-- `ct_miko_tea-yae-yae`
 
 ## Crafting
 

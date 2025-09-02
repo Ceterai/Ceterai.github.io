@@ -1,6 +1,6 @@
 # Ionic Shock
 
-Repeatedly damages you with ^#8020f0;ionic^reset; electricity. Having ^#8020f0;Ionic Immunity^reset; blocks the effect, ^#7733aa;Electric Immunity^reset; minimizes the damage, ^#0050c0;Hevikai^reset; increases the damage.
+Repeatedly damages you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) electricity. Having [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity) blocks the effect, [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" height=16px width="auto" /> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.
 
 Applied by following items:
 
@@ -14,9 +14,9 @@ Applied by following items:
 - Default Duration: 2.5s
 - Effect parameters: 
 
-- Interval: 1.4- Jump Distance: 8- Health Percentage: 0.04- Damage Clamp Range: 2, 8- Damage Kind: `ct_ionic`- Animation: 
+- Interval: 1.4- Jump Distance: 8- Health Percentage: 0.04- Damage Clamp Range: 2, 8- Damage Kind: <img src="/damage/ct_ionic.png" alt="Ionic icon" loading="lazy" height=16px width=16px /> [Ionic](Enternia#damage)- Animation: 
 
-  - Directives: `fade=5000c0=0.25`  - Particles: `sparks_dense`  - Lights: `dim`- Semi Immunity: `electricStatusImmunity`- Vulnerability: `hevikai`
+  - Directives: `fade=5000c0=0.25`  - Particles: `sparks_dense`  - Lights: `dim`- Semi Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" height=16px width=16px /> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)- Vulnerability: `hevikai`
 
 ## Technical Information
 

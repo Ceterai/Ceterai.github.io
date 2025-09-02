@@ -6,7 +6,7 @@ A vine door that slightly glows in the dark. The bulb in the middle seems to be 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A warped door with a small gloworb. All those tiny little blue dots are settled warped flies.
 - Apex: A dreadful living door.

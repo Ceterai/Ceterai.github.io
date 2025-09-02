@@ -6,7 +6,7 @@ A healing station made by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Ah, a checkpoint! I can rest here.
 - Apex: Devices like these look out of place in the middle of nowhere.

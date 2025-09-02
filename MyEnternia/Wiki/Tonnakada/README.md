@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxenergyscalingboostfood`- Duration: 60
@@ -35,7 +35,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height=16px width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" height=16px width="auto" /> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna)
 
-<details><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
 - `ct_food_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Ion Risotto icon" loading="lazy" height=16px width="auto" /> [Ion Risotto](https://ceterai.github.io/MyEnternia/Wiki/IonRisotto)
@@ -50,8 +50,8 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `techchest`
-- `techchest2`
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Can be bought from merchants:
 

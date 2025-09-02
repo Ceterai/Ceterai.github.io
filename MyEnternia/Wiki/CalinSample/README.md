@@ -6,7 +6,7 @@ A crystal sample. The stand is powered by the crystal itself. An exhibit of ente
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Despite holding probably the least energy among all types of crystals, it's still enough to power the stand.
 - Apex: A crystal sample.

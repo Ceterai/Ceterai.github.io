@@ -7,7 +7,7 @@ Similar to regular hive stalks, this one was adapted to grow on alterash planets
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This eco pod contains a sapling of an ionic hive stalk.
 - Apex: I can plant this to grow a tree.

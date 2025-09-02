@@ -11,6 +11,6 @@ This alta researcher is most interested in studying biological environments - ce
 ## Technical Information
 
 - In-game ID: `ct_bio_tenant`
-- NPC type: ct_alta_biologist
-- Priority: 7
+- NPC type: `ct_alta_biologist`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/themed/bio.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/themed/bio.tenant)

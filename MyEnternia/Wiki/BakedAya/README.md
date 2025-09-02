@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 
 Other variants:
 
@@ -30,7 +30,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 
-<details><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
 - `ct_food_mimic`
@@ -45,7 +45,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `alienchest`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be bought from merchants:
 

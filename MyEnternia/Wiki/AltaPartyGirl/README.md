@@ -11,6 +11,6 @@ This alta likes to party a lot, and also help others organize their own parties 
 ## Technical Information
 
 - In-game ID: `ct_alta_party_tenant`
-- NPC type: ct_alta_party
-- Priority: 4
+- NPC type: `ct_alta_party`
+- Priority: `4`
 - File: [`/tenants/alta/merchants/party.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/party.tenant)

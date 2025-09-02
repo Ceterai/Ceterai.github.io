@@ -33,7 +33,7 @@ Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height=16px width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
-<details><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)

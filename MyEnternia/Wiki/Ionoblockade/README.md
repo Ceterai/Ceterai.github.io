@@ -1,7 +1,7 @@
 # Ionoblockade
 
-Adds 18% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#8020f0;Ionic Immunity^reset;.  
-With ^#7733aa;Starburst Rework^reset; - adds immunity to ^#7733aa;Mild Static^reset; and ^reset;^#7733aa;Deadly Static^reset;.
+Adds 18% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity).  
+With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRework) - adds immunity to [Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic) and [Deadly Static](https://ceterai.github.io/MyEnternia/Wiki/DeadlyStatic).
 
 Applied by following items:
 

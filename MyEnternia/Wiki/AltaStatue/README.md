@@ -7,7 +7,7 @@ The alta in researcher's field suit is holding the alta emblem - a circle with a
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Looking at the monument to all of us and the progress we've made fills me with determination.
 - Apex: An alta monument. Mady by altas. For altas. Interesting.

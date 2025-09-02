@@ -7,7 +7,7 @@ You can usually find it placed in the middle of a cafe table to provide cover fo
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A basic cafe umbrella.
 - Apex: A big umbrella on a metal pole.

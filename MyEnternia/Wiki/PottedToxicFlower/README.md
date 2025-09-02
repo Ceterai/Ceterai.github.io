@@ -6,7 +6,7 @@ A decorative plant in a big altan vase-like pod.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A plant this big requires a special plant pod to keep it alive and well~
 - Apex: This plant seems to grow from a special alta eco pod. An expected level of care towards nature.

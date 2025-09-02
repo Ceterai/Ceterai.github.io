@@ -8,7 +8,7 @@ The tag `fresh-tag` contains 10 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" height=16px width="auto" /> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" height=16px width="auto" /> [Aya Essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence)

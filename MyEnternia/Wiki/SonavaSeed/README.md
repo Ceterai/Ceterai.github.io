@@ -23,7 +23,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/sapling/icon.png" alt="Sonava Sapling icon" loading="lazy" height=16px width="auto" /> [Sonava Sapling](https://ceterai.github.io/MyEnternia/Wiki/SonavaSapling)
 
-<details><summary>Used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" height=16px width="auto" /> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height=16px width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
@@ -41,7 +41,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Wild Sonava Seed icon" loading="lazy" height=16px width="auto" /> [Wild Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/WildSonavaSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/boosted/icon.png" alt="Boosted Sonava Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Sonava Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedSonavaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)

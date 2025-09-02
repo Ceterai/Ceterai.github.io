@@ -6,7 +6,7 @@ Pure crystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/m
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: If only I could find a way to extract stardust from this...
 - Apex: A well-made light source.

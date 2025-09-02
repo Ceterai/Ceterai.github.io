@@ -7,7 +7,7 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A lab eco chamber for growing giant non-plants like aric shrooms and tonnovas.
 - Apex: I can plant this to grow a tree.
@@ -36,7 +36,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/tray/icon.png" alt="Alta Hydroponic Tray icon" loading="lazy" height=16px width="auto" /> [Alta Hydroponic Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponicTray)
 
-<details><summary>Used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)

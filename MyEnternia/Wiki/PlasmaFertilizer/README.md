@@ -12,7 +12,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height=16px width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/sapling/icon.png" alt="Ceternia Sapling icon" loading="lazy" height=16px width="auto" /> [Ceternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSapling)

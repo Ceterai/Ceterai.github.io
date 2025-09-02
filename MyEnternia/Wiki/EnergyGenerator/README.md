@@ -2,7 +2,7 @@
 
 Constantly replenishes your energy by 2% each second.
 
-<details><summary>Applied by following items: (Expand 7 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/energy_mask/icon.png" alt="Energy Mask icon" loading="lazy" height=16px width="auto" /> [Energy Mask](https://ceterai.github.io/MyEnternia/Wiki/EnergyMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/pilot_helmet/icon.png" alt="Pilot Helmet icon" loading="lazy" height=16px width="auto" /> [Pilot Helmet](https://ceterai.github.io/MyEnternia/Wiki/PilotHelmet)

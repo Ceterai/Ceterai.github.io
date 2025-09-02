@@ -18,11 +18,11 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- `moondust`
-- `moonrock`
-- `moonstone`
+- <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" height=10px width=10px /> [Moondust](https://starbounder.org/Moondust)
+- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" height=10px width=10px /> [Moonrock](https://starbounder.org/Moonrock)
+- <img src="https://starbounder.org/mediawiki/images/b/b6/Moonstone.png" alt="Moonstone icon" loading="lazy" height=10px width=10px /> [Moonstone](https://starbounder.org/Moonstone)
 
-<details><summary>Used to craft: (Expand 25 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 25 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height=16px width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" height=16px width="auto" /> [Potted Alto Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedAltoKoywaFlower)
@@ -56,7 +56,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought in shops:
 

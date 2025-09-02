@@ -1,6 +1,6 @@
 # Autorepeller
 
-Launches an ^#20f080;impulse^reset; wave around you whenever you're hit.
+Launches an [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) wave around you whenever you're hit.
 
 Applied by following items:
 

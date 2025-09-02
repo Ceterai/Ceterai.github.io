@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `runboostfood`- Duration: 60
@@ -46,7 +46,7 @@ Used to craft:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 

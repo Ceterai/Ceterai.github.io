@@ -11,6 +11,6 @@ An EDS official responsible for organizing operations from their command center.
 ## Technical Information
 
 - In-game ID: `ct_eds_official_tenant`
-- NPC type: ct_eds_commander
-- Priority: 10
+- NPC type: `ct_eds_commander`
+- Priority: `10`
 - File: [`/tenants/alta/official/eds.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/official/eds.tenant)

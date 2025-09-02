@@ -6,7 +6,7 @@ A bulb of irradiated <img src="https://raw.githubusercontent.com/Ceterai/Enterni
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This phospholion deposit collected too much radiation. Better be careful.
 - Apex: This seems lie it's about to burst, better be careful.

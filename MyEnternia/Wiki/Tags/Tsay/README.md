@@ -4,7 +4,7 @@ The tag `tsay-tag` contains 23 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 9 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/tsay/icon.png" alt="Potted Tsay icon" loading="lazy" height=16px width="auto" /> [Potted Tsay](https://ceterai.github.io/MyEnternia/Wiki/PottedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
@@ -22,7 +22,7 @@ The tag `tsay-tag` contains 23 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" height=16px width="auto" /> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad)

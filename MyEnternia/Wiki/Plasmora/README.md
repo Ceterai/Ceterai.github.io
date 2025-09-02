@@ -21,8 +21,8 @@ Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height=16px width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
 - `outpostshippingcontainer`
-- `techchest`
-- `techchest2`
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Can be bought from merchants:
 
@@ -30,7 +30,7 @@ Can be bought from merchants:
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
 
-<details><summary>Can be obtained from special items: (Expand 8 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

@@ -12,7 +12,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 35 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 35 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" height=16px width="auto" /> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/snowgun.png" alt="Snowball Shooter icon" loading="lazy" height=16px width="auto" /> [Snowball Shooter](https://ceterai.github.io/MyEnternia/Wiki/SnowballShooter)

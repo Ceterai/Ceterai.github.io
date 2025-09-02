@@ -7,7 +7,7 @@ Ironically, alta shakers are used for making cocktails, while alta blenders are 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An airy, whipped milky goodness is just what I need!
 - Apex: This machine produces different milkshakes.

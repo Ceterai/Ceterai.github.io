@@ -6,7 +6,7 @@ An [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) ripe with f
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A fruitful ayaka sapling! When it's fully grown, I can gather some tasty ayas from it.
 - Apex: I can plant this to grow a tree.
@@ -43,7 +43,7 @@ Used to craft:
 
 Found naturally in containers:
 
-- `alienchest`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be obtained from special items:
 

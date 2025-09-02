@@ -14,16 +14,12 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 27
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `biomeradiationImmunity`- Duration: 300, 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" height=16px width="auto" /> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned)- Duration: 10
-
-Other variants:
-
-- `ct_natal_punch-gum-deluxe`
 
 ## Crafting
 

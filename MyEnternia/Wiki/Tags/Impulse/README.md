@@ -8,7 +8,7 @@ The tag `impulse-tag` contains 18 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 18 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png" alt="Impulse Rifle NG4 icon" loading="lazy" height=16px width="auto" /> [Impulse Rifle NG4](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_2.png" alt="Impulse Rifle NG4X ★ icon" loading="lazy" height=16px width="auto" /> [Impulse Rifle NG4X ★](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4X)

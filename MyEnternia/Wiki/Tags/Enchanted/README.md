@@ -13,7 +13,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" height=16px width="auto" /> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" height=16px width="auto" /> [Enchanted Pulser ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedPulser)

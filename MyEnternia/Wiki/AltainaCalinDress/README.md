@@ -11,6 +11,6 @@ An alta in a beautiful calin-themed dress.
 ## Technical Information
 
 - In-game ID: `ct_alta_calin_tenant`
-- NPC type: ct_alta
-- Priority: 3
+- NPC type: `ct_alta`
+- Priority: `3`
 - File: [`/tenants/alta/calin.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/calin.tenant)

@@ -6,7 +6,7 @@ Get rewards for deprecated or lost items from Enternia mod.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 7 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 7 items)</summary>
 
 - Apex: I can create equipment to use for wiring here.
 - Avian: It's a workstation for crafting equipment to use for wiring.

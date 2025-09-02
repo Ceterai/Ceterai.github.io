@@ -6,7 +6,7 @@ A big glob of dripping sap, trapped in some growing roots.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: All this ionic sap has collected from those ayaka roots around it.
 - Apex: A resin deposit. It appears to be dripping.

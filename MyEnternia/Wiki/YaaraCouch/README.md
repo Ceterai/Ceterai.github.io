@@ -6,7 +6,7 @@ A couch made of plant fibre hide and large vines. Would a floran hurt a plant?
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A couch made by some alta-like sentient plants that live in yaara growth. We call them Yaara Keepers.
 - Apex: A sofa decorated with plants on its sides.

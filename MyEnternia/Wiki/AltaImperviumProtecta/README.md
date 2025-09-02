@@ -11,6 +11,6 @@ An alta protecta in impervium armor.
 ## Technical Information
 
 - In-game ID: `ct_alta_tier10_tenant`
-- NPC type: ct_alta_impervium_girl
-- Priority: 9
+- NPC type: `ct_alta_impervium_girl`
+- Priority: `9`
 - File: [`/tenants/alta/tiered/tier10.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/tiered/tier10.tenant)

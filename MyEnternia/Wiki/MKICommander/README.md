@@ -11,6 +11,6 @@ This alta is wearing an apex commander uniform to infiltrate Miniknog. While the
 ## Technical Information
 
 - In-game ID: `ct_mki_commander_tenant`
-- NPC type: ct_mki_commander
-- Priority: 9
+- NPC type: `ct_mki_commander`
+- Priority: `9`
 - File: [`/tenants/alta/themed/miniknog/commander.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/miniknog/commander.tenant)

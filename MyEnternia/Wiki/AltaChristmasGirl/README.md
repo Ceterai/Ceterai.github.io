@@ -11,6 +11,6 @@ An alta dressed up in human festive clothes giving out presents. While the cultu
 ## Technical Information
 
 - In-game ID: `ct_alta_christmas_tenant`
-- NPC type: ct_alta_christmas_girl
-- Priority: 12
+- NPC type: `ct_alta_christmas_girl`
+- Priority: `12`
 - File: [`/tenants/alta/themed/holiday/christmas.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/holiday/christmas.tenant)

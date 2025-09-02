@@ -6,7 +6,7 @@ A simple serving of an alta pie. Can be picked up right away to take a closer lo
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Oa-a, a pie! I wonder which one it is~
 - Apex: A likely sweet pie in a bowl. Should I take it?

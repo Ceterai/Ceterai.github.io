@@ -4,7 +4,7 @@ The tag `sea-tag` contains 28 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 22 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 22 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)

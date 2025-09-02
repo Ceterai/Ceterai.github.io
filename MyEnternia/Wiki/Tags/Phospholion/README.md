@@ -4,7 +4,7 @@ The tag `phospholion-tag` contains 16 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 9 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/phosnail/icon.png" alt="Phosnail icon" loading="lazy" height=16px width="auto" /> [Phosnail](https://ceterai.github.io/MyEnternia/Wiki/Phosnail)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phosphobulbs/icon.png" alt="Irradiated Phosphobulb icon" loading="lazy" height=16px width="auto" /> [Irradiated Phosphobulb](https://ceterai.github.io/MyEnternia/Wiki/IrradiatedPhosphobulb)
@@ -22,7 +22,7 @@ The tag `phospholion-tag` contains 16 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" height=16px width="auto" /> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png" alt="Phospholiator icon" loading="lazy" height=16px width="auto" /> [Phospholiator](https://ceterai.github.io/MyEnternia/Wiki/Phospholiator)

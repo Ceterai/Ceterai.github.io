@@ -6,7 +6,7 @@ A plant bedroll covered with a blanket and some growth. The small light over the
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A pretty overgrown yaara bed mat with a cute night light for bed readers. Not an elin flower, but still cozy.
 - Apex: A soft plant bed.

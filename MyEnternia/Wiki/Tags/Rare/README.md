@@ -4,7 +4,7 @@ The tag `rare-tag` contains 493 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 152 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 152 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height=16px width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
@@ -173,7 +173,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 336 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 336 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" height=16px width="auto" /> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Berry Cake ★★ icon" loading="lazy" height=16px width="auto" /> [Berry Cake ★★](https://ceterai.github.io/MyEnternia/Wiki/BerryCake)

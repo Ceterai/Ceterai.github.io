@@ -11,6 +11,6 @@ An alta fully equipped to explore the furthest ends of different planets.
 ## Technical Information
 
 - In-game ID: `ct_alta_explorer_tenant`
-- NPC type: ct_alta_explorer
-- Priority: 14
+- NPC type: `ct_alta_explorer`
+- Priority: `14`
 - File: [`/tenants/alta/themed/travel/explorer.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/travel/explorer.tenant)

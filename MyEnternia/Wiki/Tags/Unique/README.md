@@ -4,7 +4,7 @@ The tag `unique-tag` contains 16 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 16 items)</summary>
 
 - `ct_obj_mimic-altolight`
 - `ct_obj_mimic-collect_trophy1`

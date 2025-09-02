@@ -6,7 +6,7 @@ Accepts Liquid Erchius as fuel for the [alta](https://ceterai.github.io/MyEntern
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A piece of acquired tech. Lets you power up the ship using erchius fuel.
 - Apex: The FTL drive fuel hatch. Converts fuel into freedom.

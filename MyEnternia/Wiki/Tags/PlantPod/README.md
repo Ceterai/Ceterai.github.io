@@ -4,7 +4,7 @@ The tag `plant_pod-tag` contains 16 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/eco/icon.png" alt="Alta Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/lab/icon.png" alt="Alta Lab Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alta Lab Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabEcoPod)

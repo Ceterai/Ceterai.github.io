@@ -1,6 +1,6 @@
 # Force Field Autoshielder
 
-Applies ^#2080f0;Force Shield^reset; to you when your health is lower than 25%.
+Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_force_shield.png" alt="Force Shield icon" loading="lazy" height=16px width="auto" /> [Force Shield](https://ceterai.github.io/MyEnternia/Wiki/ForceShield) to you when your health is lower than 25%.
 
 Applied by following items:
 

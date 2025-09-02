@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `lightaugment1`- Duration: 60, 
@@ -39,7 +39,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Crystal Ice Cream icon" loading="lazy" height=16px width="auto" /> [Crystal Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/CrystalIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheatsyn Tea icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Tea](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTea)
 
-<details><summary>Used to craft: (Expand 13 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" height=16px width="auto" /> [Aya Candy](https://ceterai.github.io/MyEnternia/Wiki/AyaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" height=16px width="auto" /> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea)

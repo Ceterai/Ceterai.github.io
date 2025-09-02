@@ -7,7 +7,7 @@ Similar to the inner workings of the alta icer, this cooking station requires so
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Ah, cakes. Do I want to spend the next couple of hours in bliss?
 - Apex: This machine contains various party cakes.

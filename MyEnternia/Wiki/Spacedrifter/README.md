@@ -11,6 +11,6 @@ WIP. An alta traveler, roaming the space and taking on cosmic adventures.
 ## Technical Information
 
 - In-game ID: `ct_spacedrifter_tenant`
-- NPC type: ct_spacedrifter
-- Priority: 9
+- NPC type: `ct_spacedrifter`
+- Priority: `9`
 - File: [`/tenants/alta/guards/tier7/spacedrifter.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier7/spacedrifter.tenant)

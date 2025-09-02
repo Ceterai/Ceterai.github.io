@@ -11,6 +11,6 @@ An alta security unit protecting vital infrastructure, commonly found in alta ci
 ## Technical Information
 
 - In-game ID: `ct_alta_security_tenant`
-- NPC type: ct_alta_security
-- Priority: 5
+- NPC type: `ct_alta_security`
+- Priority: `5`
 - File: [`/tenants/alta/guards/tier4/security.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier4/security.tenant)

@@ -8,7 +8,7 @@ The tag `bow-tag` contains 7 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bow/icon.png" alt="Alta Bow icon" loading="lazy" height=16px width="auto" /> [Alta Bow](https://ceterai.github.io/MyEnternia/Wiki/AltaBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/celestial_bow/icon.png" alt="Celestial Bow icon" loading="lazy" height=16px width="auto" /> [Celestial Bow](https://ceterai.github.io/MyEnternia/Wiki/CelestialBow)

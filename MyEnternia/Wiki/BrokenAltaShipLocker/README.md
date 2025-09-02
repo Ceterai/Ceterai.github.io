@@ -6,7 +6,7 @@ A locker. Store some stuff, why don't you?
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A broken storage system designed for a ship.
 - Apex: A broken storage system.

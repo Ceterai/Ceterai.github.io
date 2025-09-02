@@ -16,7 +16,7 @@ Can be bought from merchants:
 
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
 
-<details><summary>Drops from defeated creatures: (Expand 11 items)</summary>
+<details markdown="1"><summary>Drops from defeated creatures: (Expand 11 items)</summary>
 
 - `ct_calin_crippit`
 - `ct_crippit`
@@ -32,7 +32,7 @@ Can be bought from merchants:
 
 </details>
 
-<details><summary>Drops from creatures defeated with any **bow**: (Expand 11 items)</summary>
+<details markdown="1"><summary>Drops from creatures defeated with any **bow**: (Expand 11 items)</summary>
 
 - `ct_calin_crippit`
 - `ct_crippit`

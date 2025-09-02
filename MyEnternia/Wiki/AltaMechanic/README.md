@@ -11,6 +11,6 @@ Alta robotics and heavy machinery expert, that can also sell you a couple of spa
 ## Technical Information
 
 - In-game ID: `ct_alta_mechanic_tenant`
-- NPC type: ct_alta_mechanic
-- Priority: 4
+- NPC type: `ct_alta_mechanic`
+- Priority: `4`
 - File: [`/tenants/alta/tech/mechanic.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/tech/mechanic.tenant)

@@ -6,7 +6,7 @@ A proper sapling that takes less space and has increased and more consistent spe
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Gil is great for salty meals! Wouldn't mind having one right now.
 - Apex: Tastes like a tomato with spices.

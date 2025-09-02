@@ -6,7 +6,7 @@ A [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) crystal.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A fine sample, useful for experiments and as an artsy display. The sample is charged so it doesn't turn into a liquid.
 - Apex: A really massive gheatsyn crystal sample.

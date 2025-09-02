@@ -6,7 +6,7 @@ A pretty blue terminal. The calin is used both as a stand and autonomous energy 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A neat and stylish terminal, the best way to provide user interface in public places.
 - Apex: This control panel looks really great.

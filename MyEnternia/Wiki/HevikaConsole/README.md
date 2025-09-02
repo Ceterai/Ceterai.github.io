@@ -6,7 +6,7 @@ A titanium control console with a reinforced stand. The crystals at the bottom s
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A console with alternia crystals. Although consoles are considered outdated technology, this one seems to function well enough.
 - Apex: I'm curious, is this console powered via those crystals?

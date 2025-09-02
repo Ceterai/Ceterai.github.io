@@ -6,7 +6,7 @@ A weirdly shaped crystal lamp.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A regular stacked indoors lamppost. This furniture style is often used for offices by some factions.
 - Apex: I wonder what source this crystal lamp uses.

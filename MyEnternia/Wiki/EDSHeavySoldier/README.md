@@ -11,6 +11,6 @@ This heavily equipped EDS soldier is meant to protect highest security EDS objec
 ## Technical Information
 
 - In-game ID: `ct_eds_heavy_tenant`
-- NPC type: ct_eds_heavy
-- Priority: 8
+- NPC type: `ct_eds_heavy`
+- Priority: `8`
 - File: [`/tenants/alta/guards/tier6/eds.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier6/eds.tenant)

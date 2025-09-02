@@ -6,7 +6,7 @@ A console on a crystal rack.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A console with an uncharged crystal as a stand. I'd prefer a terminal instead, much easier to interact with.
 - Apex: This sure comes handy.

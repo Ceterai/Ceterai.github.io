@@ -18,7 +18,7 @@ Blueprint unlocked by obtaining:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/sapling/icon.png" alt="Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/GilSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/sapling/icon.png" alt="Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/TsaySapling)
 
-<details><summary>Used to craft: (Expand 24 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 24 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height=16px width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)

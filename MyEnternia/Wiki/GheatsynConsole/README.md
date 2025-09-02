@@ -6,7 +6,7 @@ A console floating on a [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tag
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A regular console that uses gheatsyn crystals as support. To be honest, I'm more of a terminal fan.
 - Apex: Some useful floating console.

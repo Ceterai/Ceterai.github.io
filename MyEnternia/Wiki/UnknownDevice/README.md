@@ -6,7 +6,7 @@ An unknown device. It feels like something is missing. Code on the back reads 'C
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: ... Blocked. No cell, too.
 - Apex: Unknown technology. Better be careful with it.

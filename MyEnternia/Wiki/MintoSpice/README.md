@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 17 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 17 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crunchy Pie icon" loading="lazy" height=16px width="auto" /> [Crunchy Pie](https://ceterai.github.io/MyEnternia/Wiki/CrunchyPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crystal Pie icon" loading="lazy" height=16px width="auto" /> [Crystal Pie](https://ceterai.github.io/MyEnternia/Wiki/CrystalPie)
@@ -39,7 +39,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height=16px width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
 
-<details><summary>Used to craft: (Expand 17 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 17 items)</summary>
 
 - `2kbpotage`
 - `carrotsoup`

@@ -6,7 +6,7 @@ A material dispensing pod.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 6 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 6 items)</summary>
 
 - Apex: This pod dispenses materials for crafting.
 - Avian: Free crafting materials. Nice.

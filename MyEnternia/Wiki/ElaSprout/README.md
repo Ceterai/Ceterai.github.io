@@ -25,7 +25,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/sapling/icon.png" alt="Ela Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Ela Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/ElaSapling)
 
-<details><summary>Used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Azura Seed icon" loading="lazy" height=16px width="auto" /> [Azura Seed](https://ceterai.github.io/MyEnternia/Wiki/AzuraSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" height=16px width="auto" /> [Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSprout)
@@ -47,7 +47,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Wild Ela Sprout icon" loading="lazy" height=16px width="auto" /> [Wild Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildElaSprout)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/boosted/icon.png" alt="Boosted Ela Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Ela Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedElaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Ela Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoElaSapling)

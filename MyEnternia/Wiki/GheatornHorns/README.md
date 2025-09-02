@@ -6,7 +6,7 @@ Found in esetera on some alterash prime planets, [gheatsyn](https://ceterai.gith
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This rock can be destroyed to extract some gheatsyn, though the preferable way is to slowly catch the drops.
 - Apex: A stone that chimes when I get close to it.

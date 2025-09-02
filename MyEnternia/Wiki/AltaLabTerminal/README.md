@@ -6,7 +6,7 @@ A holographic terminal on a metal stand.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A lab terminal on a slim bion stand. I can use this to control something.
 - Apex: This console offers a large degree of control.

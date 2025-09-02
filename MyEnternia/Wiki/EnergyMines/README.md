@@ -25,7 +25,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `miningchest`
+- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height=12px width=18px /> [Mining Chest](https://starbounder.org/Mining_Chest)
 
 Given as rent by tenants:
 

@@ -11,6 +11,6 @@ A generic Faradea merc alta. Has different equipment based on threat level.
 ## Technical Information
 
 - In-game ID: `ct_faradea_guard_tenant`
-- NPC type: ct_faradea_guard
-- Priority: 5
+- NPC type: `ct_faradea_guard`
+- Priority: `5`
 - File: [`/tenants/alta/guards/faradea.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/faradea.tenant)

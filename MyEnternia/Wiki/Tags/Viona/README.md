@@ -4,7 +4,7 @@ The tag `viona-tag` contains 19 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height=16px width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVionoraSapling)
@@ -25,7 +25,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Sunset Heart icon" loading="lazy" height=16px width="auto" /> [Sunset Heart](https://ceterai.github.io/MyEnternia/Wiki/SunsetHeart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Enchanted Datamass icon" loading="lazy" height=16px width="auto" /> [Enchanted Datamass](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass)

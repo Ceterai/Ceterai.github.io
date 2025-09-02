@@ -11,6 +11,6 @@ This alta researcher is most interested in studying hot environments - magma, la
 ## Technical Information
 
 - In-game ID: `ct_pyro_tenant`
-- NPC type: ct_alta_vulcanologist
-- Priority: 7
+- NPC type: `ct_alta_vulcanologist`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/themed/pyro.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/themed/pyro.tenant)

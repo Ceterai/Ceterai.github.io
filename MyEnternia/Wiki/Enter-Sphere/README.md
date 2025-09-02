@@ -22,7 +22,7 @@ Use them sparingly as they're generally hard to come by.
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 65 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 65 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Citadel Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CitadelPod)
 - `ct_alta_constructor4`
@@ -99,7 +99,7 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" height=16px width="auto" /> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
 - `outpostshippingcontainer`
 
-<details><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)
@@ -137,7 +137,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Can be obtained from special items: (Expand 7 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

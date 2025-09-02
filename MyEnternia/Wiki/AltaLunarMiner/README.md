@@ -11,6 +11,6 @@ An alta helping humans mine erchius. While the uniform is not native to altas, s
 ## Technical Information
 
 - In-game ID: `ct_alta_lunar_tenant`
-- NPC type: ct_alta_lunar
-- Priority: 14
+- NPC type: `ct_alta_lunar`
+- Priority: `14`
 - File: [`/tenants/alta/themed/human/lunar.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/human/lunar.tenant)

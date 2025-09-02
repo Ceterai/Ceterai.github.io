@@ -7,7 +7,7 @@ Widely used in alta security bases for quick and authorized access during emerge
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An energy tool holder, often used by vardas and other security altas.
 - Apex: I wonder if there are any secrets inside...

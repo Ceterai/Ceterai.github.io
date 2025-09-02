@@ -11,6 +11,6 @@ This alta researcher is most interested in studying aric environments - mushroom
 ## Technical Information
 
 - In-game ID: `ct_aric_tenant`
-- NPC type: ct_alta_aricologist
-- Priority: 7
+- NPC type: `ct_alta_aricologist`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/themed/aric.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/themed/aric.tenant)

@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 35
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxhealthscalingboostfood`- Duration: 180, 
@@ -29,7 +29,7 @@ Other variants:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height=16px width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheatsyn Tea icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Tea](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTea)

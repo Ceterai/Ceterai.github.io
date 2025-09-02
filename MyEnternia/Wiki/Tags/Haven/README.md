@@ -4,7 +4,7 @@ The tag `haven-tag` contains 22 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
@@ -25,7 +25,7 @@ The tag `haven-tag` contains 22 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword.png" alt="Flowersword icon" loading="lazy" height=16px width="auto" /> [Flowersword](https://ceterai.github.io/MyEnternia/Wiki/Flowersword)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword_2.png" alt="Haven Clover ★ icon" loading="lazy" height=16px width="auto" /> [Haven Clover ★](https://ceterai.github.io/MyEnternia/Wiki/HavenClover)

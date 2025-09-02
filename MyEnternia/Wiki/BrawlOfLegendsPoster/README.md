@@ -32,7 +32,7 @@ Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 
-<details><summary>Given as rent by tenants: (Expand 9 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 9 items)</summary>
 
 - [Alta in a Calin Dress](https://ceterai.github.io/MyEnternia/Wiki/AltainaCalinDress)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)

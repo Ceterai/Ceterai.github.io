@@ -6,7 +6,7 @@ A [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) light.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An office wall light made out of bishyn crystals. Makes the light cold yet comfortably bright.
 - Apex: A green crystal light for a wall.

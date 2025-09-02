@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 70
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxenergyscalingboostfood`- Duration: 495
@@ -25,7 +25,7 @@ Other variants:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 7 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Hive Curry icon" loading="lazy" height=16px width="auto" /> [Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/HiveCurry)

@@ -4,7 +4,7 @@ The tag `dream-tag` contains 7 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/boosted/icon.png" alt="Boosted Dreamer Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Dreamer Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedDreamerSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)

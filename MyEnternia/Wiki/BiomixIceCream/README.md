@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `thorns`- Duration: 75, 
@@ -27,7 +27,7 @@ Other variants:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 13 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height=16px width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" height=16px width="auto" /> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh)

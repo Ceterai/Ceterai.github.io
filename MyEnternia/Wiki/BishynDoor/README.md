@@ -6,7 +6,7 @@ A solid [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) door.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A good use for the biggest bishyn formations. Sturdy and efficient, and no longer poisonous.
 - Apex: A strange looking door.

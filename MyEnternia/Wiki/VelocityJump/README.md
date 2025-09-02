@@ -2,7 +2,7 @@
 
 Increases jump height and decreases fall damage by 50%.
 
-<details><summary>Applied by following items: (Expand 12 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" height=16px width="auto" /> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Berry Cake ★★ icon" loading="lazy" height=16px width="auto" /> [Berry Cake ★★](https://ceterai.github.io/MyEnternia/Wiki/BerryCake)

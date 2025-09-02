@@ -11,6 +11,6 @@ An alta protecta in diamond armor.
 ## Technical Information
 
 - In-game ID: `ct_alta_tier9_tenant`
-- NPC type: ct_alta_diamond_girl
-- Priority: 9
+- NPC type: `ct_alta_diamond_girl`
+- Priority: `9`
 - File: [`/tenants/alta/tiered/tier9.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/tiered/tier9.tenant)

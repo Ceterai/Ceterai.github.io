@@ -4,7 +4,7 @@ The tag `stardust-tag` contains 37 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 17 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 17 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" height=16px width="auto" /> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" height=16px width="auto" /> [Alta Stardust Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaStardustBed)
@@ -35,7 +35,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 18 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 18 items)</summary>
 
 - `ct_aid_mimic-bandade_pretty`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)

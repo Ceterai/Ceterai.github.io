@@ -6,7 +6,7 @@ A vine table with some glowing stuff inside. Unexpectedly smooth at the top.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A table from yaara vines and some calin crystals. Probably made by Yaara Keepers.
 - Apex: Something shines inside of those vines. Be careful.

@@ -11,6 +11,6 @@ This alta is part of a special interspecies team of space explorers. While the u
 ## Technical Information
 
 - In-game ID: `ct_alta_retro_tenant`
-- NPC type: ct_alta_retro
-- Priority: 14
+- NPC type: `ct_alta_retro`
+- Priority: `14`
 - File: [`/tenants/alta/themed/retro/retro.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/retro/retro.tenant)

@@ -6,7 +6,7 @@ A patch of tall grass. Be sure to check for critters!
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 7 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 7 items)</summary>
 
 - Apex: Tall grass. It rustles gently in the breeze.
 - Avian: Tall, feathery grass.
@@ -29,7 +29,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" height=16px width="auto" /> [Potted Koywa](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa_tall/icon.png" alt="Potted Koywa Bush icon" loading="lazy" height=16px width="auto" /> [Potted Koywa Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywaBush)
 
-<details><summary>Used to craft: (Expand 11 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" height=16px width="auto" /> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm)
@@ -41,7 +41,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/thin/icon.png" alt="Verriskoywa Thin Grass icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Thin Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaThinGrass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="Verriskoywa Bushy Grass icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Bushy Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaBushyGrass)
 - `reed`
-- `silkfibre`
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" height=14px width=15px /> [Silk Fibre](https://starbounder.org/Silk_Fibre)
 
 </details>
 
@@ -49,13 +49,13 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" height=16px width="auto" /> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
 
-<details><summary>Drops from destroyed obstacles: (Expand 10 items)</summary>
+<details markdown="1"><summary>Drops from destroyed obstacles: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto_twin/icon.png" alt="Verriskoywa Twin Alto Flower icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Twin Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinAltoFlower)
@@ -70,7 +70,7 @@ Can be obtained from special items:
 
 </details>
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVerriskoywaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVerriskoywaSapling)

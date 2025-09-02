@@ -4,7 +4,7 @@ The tag `storage-tag` contains 52 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 37 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 37 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/bin/icon.png" alt="Alta Bin icon" loading="lazy" height=16px width="auto" /> [Alta Bin](https://ceterai.github.io/MyEnternia/Wiki/AltaBin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/cabinet/icon.png" alt="Alta Cabinet icon" loading="lazy" height=16px width="auto" /> [Alta Cabinet](https://ceterai.github.io/MyEnternia/Wiki/AltaCabinet)
@@ -48,7 +48,7 @@ The tag `storage-tag` contains 52 total entries.
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 15 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 15 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)

@@ -4,7 +4,7 @@ The tag `coral-tag` contains 6 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)

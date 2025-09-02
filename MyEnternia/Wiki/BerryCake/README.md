@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 80
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height=16px width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)- Duration: 405, 
@@ -22,11 +22,6 @@ Species descriptions:
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" height=16px width="auto" /> [Static Shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield)- Duration: 120, 
 
 - Effect: `invulnerable`- Duration: 5
-
-Other variants:
-
-- `ct_alliana_cake-berry-orchid`
-- `ct_alliana_cake-berry-love`
 
 ## Technical Information
 

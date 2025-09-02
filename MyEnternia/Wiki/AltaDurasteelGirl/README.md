@@ -11,6 +11,6 @@ This alta is cosplaying as a durasteel warrior. Probably.
 ## Technical Information
 
 - In-game ID: `ct_alta_tier4_tenant`
-- NPC type: ct_alta_durasteel_girl
-- Priority: 9
+- NPC type: `ct_alta_durasteel_girl`
+- Priority: `9`
 - File: [`/tenants/alta/tiered/tier4.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/tiered/tier4.tenant)

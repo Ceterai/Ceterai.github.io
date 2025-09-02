@@ -6,7 +6,7 @@ A simple serving of an alta dessert. Can be picked up right away to take a close
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Oa-a, a dessert! I wonder which one it is~
 - Apex: A likely sweet dessert in a bowl. Should I take it?

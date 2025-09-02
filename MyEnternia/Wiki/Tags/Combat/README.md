@@ -4,7 +4,7 @@ The tag `combat-tag` contains 60 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 11 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" height=16px width="auto" /> [Alta Drone Station](https://ceterai.github.io/MyEnternia/Wiki/AltaDroneStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/combat/pod/icon.png" alt="Combat Pod ★ icon" loading="lazy" height=16px width="auto" /> [Combat Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CombatPod)
@@ -22,7 +22,7 @@ The tag `combat-tag` contains 60 total entries.
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 34 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 34 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Imperial Guard](https://ceterai.github.io/MyEnternia/Wiki/ImperialGuard)
@@ -63,7 +63,7 @@ The tag `combat-tag` contains 60 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 15 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 15 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_arco_shielder.png" alt="Enviro Shielder ★ icon" loading="lazy" height=16px width="auto" /> [Enviro Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/EnviroShielder)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Combat Protocol Datamass icon" loading="lazy" height=16px width="auto" /> [Combat Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/CombatProtocolDatamass)

@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 30
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/happy.png:1" alt="In Love icon" loading="lazy" height=16px width="auto" /> [In Love](https://ceterai.github.io/MyEnternia/Wiki/InLove)- Duration: 270, 
@@ -24,10 +24,6 @@ Species descriptions:
 - Effect: `slowlove`- Duration: 270, 
 
 - Effect: `invulnerable`- Duration: 5
-
-Other variants:
-
-- `ct_yuri_cocktail-deluxe-deluxe`
 
 ## Technical Information
 

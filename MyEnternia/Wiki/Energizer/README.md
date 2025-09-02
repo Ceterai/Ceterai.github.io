@@ -2,7 +2,7 @@
 
 Constantly replenishes your energy by 0.5% each second.
 
-<details><summary>Applied by following items: (Expand 11 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/science_pack/icon.png" alt="Scientific Backpack icon" loading="lazy" height=16px width="auto" /> [Scientific Backpack](https://ceterai.github.io/MyEnternia/Wiki/ScientificBackpack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/captain_helmet/icon.png" alt="Security Captain's Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Security Captain's Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptain'sHelmet)

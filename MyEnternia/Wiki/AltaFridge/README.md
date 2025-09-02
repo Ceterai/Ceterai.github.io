@@ -7,7 +7,7 @@ The technology behind such appliances is pretty simple, as it runs on cryonic ex
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Oa-a... Wait, why did I come here?..
 - Apex: A fridge. Let's hope there's food inside.

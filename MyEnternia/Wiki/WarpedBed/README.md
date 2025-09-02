@@ -6,7 +6,7 @@ A plant bed with tentacle-like vines and different colorful glowing bulbs of ran
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A bed made from warped growth. Such growth is hard to manage and contain, which is why it looks so chaotic.
 - Apex: This bed looks disgustingly.

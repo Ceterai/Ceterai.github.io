@@ -2,7 +2,7 @@
 
 Decreases your electric and poison resistance by 15%.
 
-<details><summary>Applied by following items: (Expand 8 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" height=16px width="auto" /> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Stuffed Crust Slice icon" loading="lazy" height=16px width="auto" /> [Caliopa Stuffed Crust Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaStuffedCrustSlice)

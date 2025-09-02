@@ -8,7 +8,7 @@ The tag `wrist-tag` contains 12 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng.png" alt="EDS MNG icon" loading="lazy" height=16px width="auto" /> [EDS MNG](https://ceterai.github.io/MyEnternia/Wiki/EDSMNG)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng_2.png" alt="Double Point MNG ★ icon" loading="lazy" height=16px width="auto" /> [Double Point MNG ★](https://ceterai.github.io/MyEnternia/Wiki/DoublePointMNG)

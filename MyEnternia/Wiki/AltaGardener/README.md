@@ -11,6 +11,6 @@ An alta gardener taking care of her garden. She's ready to share her goods with 
 ## Technical Information
 
 - In-game ID: `ct_alta_garden_tenant`
-- NPC type: ct_alta_gardener
-- Priority: 6
+- NPC type: `ct_alta_gardener`
+- Priority: `6`
 - File: [`/tenants/alta/merchants/garden.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/garden.tenant)

@@ -6,7 +6,7 @@ A wall mounted titanium monitor. Doesn't really show anything. May need configur
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This monitor only accepts encrypted alta signals and should be configured, but I don't have access.
 - Apex: A monitor. It shows only a couple of lines, nothing more.

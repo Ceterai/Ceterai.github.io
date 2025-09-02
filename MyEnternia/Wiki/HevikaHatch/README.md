@@ -6,7 +6,7 @@ A horizontal hatch doorway with multiple reinforced layers, providing additional
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: These hatches are often used as protection doorways in elevator shafts in underground alta labs.
 - Apex: This door looks bulky, but indeed it gives a proper protection for everything on the other side.

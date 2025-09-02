@@ -14,9 +14,9 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 124 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 124 items)</summary>
 
-- `crystallamp`
+- <img src="https://starbounder.org/mediawiki/images/0/0b/Crystal_Lamp.png" alt="Crystal Lamp icon" loading="lazy" height=12px width=8px /> [Crystal Lamp](https://starbounder.org/Crystal_Lamp)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/and.png:default.1" alt="Alta Logic - AND icon" loading="lazy" height=16px width="auto" /> [Alta Logic - AND](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-AND)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/clock.png:default.1" alt="Alta Logic - Clock icon" loading="lazy" height=16px width="auto" /> [Alta Logic - Clock](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Clock)
@@ -150,7 +150,7 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" height=16px width="auto" /> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
 - `outpostshippingcontainer`
 
-<details><summary>Can be bought from merchants: (Expand 12 items)</summary>
+<details markdown="1"><summary>Can be bought from merchants: (Expand 12 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
@@ -167,7 +167,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)
@@ -205,7 +205,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Drops from defeated creatures: (Expand 17 items)</summary>
+<details markdown="1"><summary>Drops from defeated creatures: (Expand 17 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)
@@ -227,7 +227,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Drops from creatures defeated with any **bow**: (Expand 18 items)</summary>
+<details markdown="1"><summary>Drops from creatures defeated with any **bow**: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)
@@ -250,7 +250,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Can be obtained from special items: (Expand 7 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

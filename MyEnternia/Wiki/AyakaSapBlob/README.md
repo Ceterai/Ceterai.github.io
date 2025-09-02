@@ -6,7 +6,7 @@ A big sap bubble. Sap sticks together, forming round blobs like this one.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A bunch of ionic ferment, also known as ayaka sap. Quite a lot of it.
 - Apex: A resin deposit. It appears to be dripping.
@@ -27,7 +27,7 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- `alienchest`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be obtained from special items:
 

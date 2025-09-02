@@ -17,10 +17,6 @@ Species descriptions:
 
 - Effect: `maxenergyscalingboostfood`- Duration: 60
 
-Other variants:
-
-- `ctayasoda-zero-zero`
-
 ## Technical Information
 
 - In-game ID: `ctayasoda-zero`

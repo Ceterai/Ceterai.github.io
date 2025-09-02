@@ -6,7 +6,7 @@ A blue metal shelf with dim light strips powered by a calin crystal.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A regular shelf you would often see in alta stores, markets and storages.
 - Apex: It's a wall shelf.

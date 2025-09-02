@@ -30,7 +30,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/rincer/icon.png" alt="Alta Rincer ★ icon" loading="lazy" height=16px width="auto" /> [Alta Rincer ★](https://ceterai.github.io/MyEnternia/Wiki/AltaRincer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_crimson_grass_seeds.png" alt="Crimson Grass Seeds icon" loading="lazy" height=16px width="auto" /> [Crimson Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/CrimsonGrassSeeds)
 
-<details><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/compact/icon.png" alt="Alta Compa-Sprinkler ★ icon" loading="lazy" height=16px width="auto" /> [Alta Compa-Sprinkler ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCompa-Sprinkler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height=16px width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)

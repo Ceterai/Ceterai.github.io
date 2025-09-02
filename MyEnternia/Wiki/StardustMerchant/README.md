@@ -11,6 +11,6 @@ This alta sells lots of stardust-enchanted things.
 ## Technical Information
 
 - In-game ID: `ct_stardust_merchant_tenant`
-- NPC type: ct_stardust_merchant
-- Priority: 7
+- NPC type: `ct_stardust_merchant`
+- Priority: `7`
 - File: [`/tenants/alta/biome/stardust.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/biome/stardust.tenant)

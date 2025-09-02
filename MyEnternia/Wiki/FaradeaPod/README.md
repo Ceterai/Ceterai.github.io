@@ -7,7 +7,7 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Looks like a Faradea pod. Probably has all kinds of things in there.
 - Apex: A pod chest. What's inside?

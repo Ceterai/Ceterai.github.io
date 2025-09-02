@@ -11,6 +11,6 @@ A regular alta traveller on a regular camping trip.
 ## Technical Information
 
 - In-game ID: `ct_alta_traveller_tenant`
-- NPC type: ct_alta_traveller
-- Priority: 14
+- NPC type: `ct_alta_traveller`
+- Priority: `14`
 - File: [`/tenants/alta/themed/travel/traveller.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/travel/traveller.tenant)

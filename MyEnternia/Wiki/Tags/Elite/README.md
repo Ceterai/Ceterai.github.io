@@ -12,7 +12,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 18 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" height=16px width="auto" /> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/elite.png" alt="Elite Android ★ icon" loading="lazy" height=16px width="auto" /> [Elite Android ★](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid)

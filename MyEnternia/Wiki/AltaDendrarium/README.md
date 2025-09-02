@@ -7,7 +7,7 @@ The station provides a self-contained library of farming and gardening materials
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A dendrarium for growing and experimenting with flowers, crops, grass, trees, and even some crystals! Very handy.
 - Apex: A botanical research table. Seems like I can make farming equipment here.

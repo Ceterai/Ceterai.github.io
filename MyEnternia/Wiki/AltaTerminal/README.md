@@ -6,7 +6,7 @@ A holographic console-like device, used to operate nearby devices.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A general interface for some nearby device. These are a staple when it comes to security and stability.
 - Apex: This console offers a large degree of control.

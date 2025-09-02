@@ -29,7 +29,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- `crystalchest`
+- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height=10.5px width=12px /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
 
 Can be bought from merchants:

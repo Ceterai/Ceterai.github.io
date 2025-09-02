@@ -11,6 +11,6 @@ An alta army member with universal equipment.
 ## Technical Information
 
 - In-game ID: `ct_combat_tenant`
-- NPC type: ct_combat_soldier
-- Priority: 6
+- NPC type: `ct_combat_soldier`
+- Priority: `6`
 - File: [`/tenants/alta/guards/tier5/combat.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier5/combat.tenant)

@@ -6,7 +6,7 @@ A simple serving of an alta soup. Can be picked up right away to take a closer l
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Oa-a, a soup! I wonder which one it is~
 - Apex: A likely sweet soup in a bowl. Should I take it?

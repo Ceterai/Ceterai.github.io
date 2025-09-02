@@ -6,7 +6,7 @@ A dark metal pod chest.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: The mechanism and looks are similar to regular alta pods, except with encrusted calin crystals.
 - Apex: A chest. What's inside? Food? Any valuables?

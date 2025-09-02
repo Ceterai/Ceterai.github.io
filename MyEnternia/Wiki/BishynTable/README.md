@@ -6,7 +6,7 @@ A [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) table.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: The crystals at the bottom are functionally useless, except maybe as a mini shelf.
 - Apex: An elegant crystal table.

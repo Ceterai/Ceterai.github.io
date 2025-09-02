@@ -6,7 +6,7 @@ Warped plant with hive growing atop of it.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: It's best not to disturb it too much when it ripens...
 - Apex: Some strange insects swarm in this hive.
@@ -57,7 +57,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Wild Warped Hive Seed icon" loading="lazy" height=16px width="auto" /> [Wild Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WildWarpedHiveSeed)
 
-<details><summary>Can be harvested from: (Expand 8 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" height=16px width="auto" /> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)

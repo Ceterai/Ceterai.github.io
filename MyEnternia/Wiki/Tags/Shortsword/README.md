@@ -8,7 +8,7 @@ The tag `shortsword-tag` contains 14 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_baton.png" alt="Alta Baton icon" loading="lazy" height=16px width="auto" /> [Alta Baton](https://ceterai.github.io/MyEnternia/Wiki/AltaBaton)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" height=16px width="auto" /> [Multi-Tool](https://ceterai.github.io/MyEnternia/Wiki/Multi-Tool)

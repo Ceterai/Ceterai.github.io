@@ -21,7 +21,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sapling/icon.png" alt="Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/AyaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height=16px width="auto" /> [Young Ayaka](https://ceterai.github.io/MyEnternia/Wiki/YoungAyaka)
 
-<details><summary>Used to craft: (Expand 8 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/boosted/icon.png" alt="Boosted Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedAyaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)

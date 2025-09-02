@@ -18,7 +18,7 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- `beakseedseed`
+- <img src="https://starbounder.org/mediawiki/images/c/c6/Beakseed_Crop.png" alt="Beakseed Seed icon" loading="lazy" height=12.25px width=6px /> [Beakseed Seed](https://starbounder.org/Beakseed_Seed)
 
 ## Technical Information
 

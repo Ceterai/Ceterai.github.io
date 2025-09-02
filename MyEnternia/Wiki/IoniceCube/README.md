@@ -20,7 +20,7 @@ Blueprint unlocked by obtaining:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" height=16px width="auto" /> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izopoi Honey icon" loading="lazy" height=16px width="auto" /> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
 
-<details><summary>Used to craft: (Expand 32 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 32 items)</summary>
 
 - `automatoshake`
 - `avesmingoicecream`
@@ -61,7 +61,7 @@ Blueprint unlocked by obtaining:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 

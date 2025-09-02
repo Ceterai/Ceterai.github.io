@@ -4,7 +4,7 @@ The tag `hevika-tag` contains 23 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" height=16px width="auto" /> [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/bed/icon.png" alt="Hevika Bed icon" loading="lazy" height=16px width="auto" /> [Hevika Bed](https://ceterai.github.io/MyEnternia/Wiki/HevikaBed)
@@ -31,7 +31,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Hevika Researcher Coat icon" loading="lazy" height=16px width="auto" /> [Hevika Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/HevikaResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Hevika Researcher Skirt icon" loading="lazy" height=16px width="auto" /> [Hevika Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/HevikaResearcherSkirt)

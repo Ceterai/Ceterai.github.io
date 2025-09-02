@@ -11,6 +11,6 @@ This alta is the final result of the MiniKnog Infiltration project. While the un
 ## Technical Information
 
 - In-game ID: `ct_mki_intruder_tenant`
-- NPC type: ct_mki_intruder
-- Priority: 14
+- NPC type: `ct_mki_intruder`
+- Priority: `14`
 - File: [`/tenants/alta/themed/miniknog/intruder.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/miniknog/intruder.tenant)

@@ -11,6 +11,6 @@ Regular alta dressed up in casual attire - simple, easy to put on and maintain c
 ## Technical Information
 
 - In-game ID: `ct_alta_tenant`
-- NPC type: ct_alta
-- Priority: 2
+- NPC type: `ct_alta`
+- Priority: `2`
 - File: [`/tenants/alta.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta.tenant)

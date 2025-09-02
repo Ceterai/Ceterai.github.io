@@ -37,7 +37,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Wild Ionic Seed icon" loading="lazy" height=16px width="auto" /> [Wild Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIonicSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)

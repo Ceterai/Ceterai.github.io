@@ -11,6 +11,6 @@ An alta dancer under neon spotlights creating a vibrant show.
 ## Technical Information
 
 - In-game ID: `ct_alta_neon_tenant`
-- NPC type: ct_alta_neon_dancer
-- Priority: 9
+- NPC type: `ct_alta_neon_dancer`
+- Priority: `9`
 - File: [`/tenants/alta/themed/colors/neon.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/colors/neon.tenant)

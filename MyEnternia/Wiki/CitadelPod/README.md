@@ -6,7 +6,7 @@ A highly reinforced airtight pod that can be used as a chest.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This pod looks like it's used by citadel protectors.
 - Apex: A pod chest. What's inside?

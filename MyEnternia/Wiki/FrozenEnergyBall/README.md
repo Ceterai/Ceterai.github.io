@@ -6,7 +6,7 @@ This ball of lightning got frozen. How is that even possible? ([Alta](https://ce
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: There are so many ionic discharges happening in the atmosphere that some of them freeze the moment they turn into plasma.
 - Apex: Crystals are quite beautiful.
@@ -25,7 +25,7 @@ This ball of lightning got frozen. How is that even possible? ([Alta](https://ce
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 11 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 11 items)</summary>
 
 - `ct_alta_crafting_station7`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" height=16px width="auto" /> [Arknight's Shield](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sShield)
@@ -36,8 +36,8 @@ This ball of lightning got frozen. How is that even possible? ([Alta](https://ce
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_protolaris.png" alt="Ikai Protolaris ★ icon" loading="lazy" height=16px width="auto" /> [Ikai Protolaris ★](https://ceterai.github.io/MyEnternia/Wiki/IkaiProtolaris)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_spacedrifter_shield.png" alt="Spacedrifter Shield icon" loading="lazy" height=16px width="auto" /> [Spacedrifter Shield](https://ceterai.github.io/MyEnternia/Wiki/SpacedrifterShield)
 - `ct_tool_mimic`
-- `energyjavelin`
-- `staticcell`
+- <img src="https://starbounder.org/mediawiki/images/9/92/Energy_Javelin.png" alt="Energy Javelin icon" loading="lazy" height=3px width=27px /> [Energy Javelin](https://starbounder.org/Energy_Javelin)
+- <img src="https://starbounder.org/mediawiki/images/6/6a/Static_Cell.png" alt="Static Cell icon" loading="lazy" height=14px width=9px /> [Static Cell](https://starbounder.org/Static_Cell)
 
 </details>
 

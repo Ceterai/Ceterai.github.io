@@ -6,7 +6,7 @@ A simple serving of an alta cocktail. Can be picked up right away to take a clos
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Oa-a, a cocktail! I wonder which one it is~
 - Apex: A likely sweet cocktail in a bowl. Should I take it?

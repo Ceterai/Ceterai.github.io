@@ -14,16 +14,12 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 30
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `lowgrav`- Duration: 180, 
 
 - Effect: `maxenergyscalingboostfood`- Duration: 180
-
-Other variants:
-
-- `ct_mohitava_cocktail-deluxe-deluxe`
 
 ## Technical Information
 

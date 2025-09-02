@@ -7,7 +7,7 @@ Requires alta robotics AI to function in an autonomous way.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Neat, now nobody has to water plants themselves!.. As if you wouldn't want to...
 - Apex: A sprinkler. Quite a clever way to water crops.

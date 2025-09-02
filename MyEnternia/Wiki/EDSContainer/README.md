@@ -6,7 +6,7 @@ A small [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) cargo crate. N
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A shipping EDS container. Highly reinforced to withstand the harshest environments.
 - Apex: A mysterious cargo crate.

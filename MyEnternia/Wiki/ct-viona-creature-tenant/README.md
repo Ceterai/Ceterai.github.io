@@ -8,6 +8,6 @@
 ## Technical Information
 
 - In-game ID: `ct_viona_creature_tenant`
-- NPC type: ct_viona_creature
-- Priority: 4
+- NPC type: `ct_viona_creature`
+- Priority: `4`
 - File: [`/tenants/other/ct_viona_creature.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/other/ct_viona_creature.tenant)

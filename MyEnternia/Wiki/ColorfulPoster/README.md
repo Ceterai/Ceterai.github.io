@@ -27,7 +27,7 @@ Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height=16px width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
-<details><summary>Given as rent by tenants: (Expand 10 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 10 items)</summary>
 
 - [Alta in a Calin Dress](https://ceterai.github.io/MyEnternia/Wiki/AltainaCalinDress)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)

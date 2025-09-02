@@ -6,7 +6,7 @@ A small sap bulb hanging from the ceiling.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A bulb of ionic sap. I can gather it for cooking.
 - Apex: A resin deposit. It appears to be dripping.

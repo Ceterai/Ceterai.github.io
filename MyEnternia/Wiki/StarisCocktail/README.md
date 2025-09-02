@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 30
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `lowgrav`- Duration: 180, 
@@ -22,13 +22,6 @@ Species descriptions:
 - Effect: `maxenergyscalingboostfood`- Duration: 180, 
 
 - Effect: `maxhealthscalingboostfood`- Duration: 180
-
-Other variants:
-
-- `ct_nia_cocktail-stardust-ceternia`
-- `ct_nia_cocktail-stardust-alternia`
-- `ct_nia_cocktail-stardust-enternia`
-- `ct_nia_cocktail-stardust-stardust`
 
 ## Technical Information
 

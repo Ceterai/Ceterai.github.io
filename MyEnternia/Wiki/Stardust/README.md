@@ -18,7 +18,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" height=16px width="auto" /> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 
-<details><summary>Used to craft: (Expand 150 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 150 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" height=16px width="auto" /> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" height=16px width="auto" /> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
@@ -169,7 +169,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yonnur/icon.png" alt="Yonnur Sample icon" loading="lazy" height=16px width="auto" /> [Yonnur Sample](https://ceterai.github.io/MyEnternia/Wiki/YonnurSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" height=16px width="auto" /> [Alternia Spear](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSpear)
 - `dyeremover`
-- `prisiliteore`
+- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" height=10px width=10px /> [Prism Shard](https://starbounder.org/Prism_Shard)
 
 </details>
 

@@ -14,7 +14,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Engineer Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EngineerDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Thermo Thrusters ★ icon" loading="lazy" height=16px width="auto" /> [Thermo Thrusters ★](https://ceterai.github.io/MyEnternia/Wiki/ThermoThrusters)

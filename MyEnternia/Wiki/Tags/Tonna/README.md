@@ -12,7 +12,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 15 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 15 items)</summary>
 
 - `ct_food_mimic-boiled_tonna`
 - `ct_food_mimic-pizzionna_slice`

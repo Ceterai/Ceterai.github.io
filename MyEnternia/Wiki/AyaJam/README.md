@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 25
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `jumpboostfood`- Duration: 45
@@ -37,7 +37,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" height=16px width="auto" /> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" height=16px width="auto" /> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
 
-<details><summary>Used to craft: (Expand 8 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" height=16px width="auto" /> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height=16px width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)

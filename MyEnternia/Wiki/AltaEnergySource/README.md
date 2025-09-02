@@ -7,7 +7,7 @@ G12 marking of the model refers to the general energy source capability (and siz
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This device generates alternia energy from a crystal. Very useful.
 - Apex: A structure of unknown purpose.

@@ -7,7 +7,7 @@ These were created to trap small creatures in place, as well as rogue or hostile
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A part of a halterfence. It's electrified, better to not touch it.
 - Apex: An alta defensive structure used to trap vehicles and creatures.

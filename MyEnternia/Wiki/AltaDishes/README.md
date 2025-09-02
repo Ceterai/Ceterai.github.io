@@ -7,7 +7,7 @@ A great way cor a cafe to demostrate that they are ready for customers is to dis
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: When's the dinner?
 - Apex: A little clay plate.

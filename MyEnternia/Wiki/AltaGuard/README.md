@@ -11,6 +11,6 @@ A generic protector alta. Has different equipment based on threat level.
 ## Technical Information
 
 - In-game ID: `ct_alta_guard_tenant`
-- NPC type: ct_alta_guard
-- Priority: 3
+- NPC type: `ct_alta_guard`
+- Priority: `3`
 - File: [`/tenants/alta/guards/guard.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/guard.tenant)

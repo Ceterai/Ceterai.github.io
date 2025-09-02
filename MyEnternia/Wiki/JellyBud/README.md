@@ -23,7 +23,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/sapling/icon.png" alt="Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/JellySapling)
 
-<details><summary>Used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)

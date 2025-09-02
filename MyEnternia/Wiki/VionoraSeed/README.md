@@ -41,7 +41,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Wild Vionora Seed icon" loading="lazy" height=16px width="auto" /> [Wild Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/WildVionoraSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVionoraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)

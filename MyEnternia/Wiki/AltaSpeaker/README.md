@@ -7,7 +7,7 @@ Most basic alta furniture is designed to be simple, lightweight, and, most impor
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A speaker! Hope I can make it loud enough for a party!
 - Apex: Back home these radios are used mostly for Miniknog announcements. For a while the resistance managed to run a pirate radio station.

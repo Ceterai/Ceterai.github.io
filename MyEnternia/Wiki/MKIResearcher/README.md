@@ -11,6 +11,6 @@ This alta is part of the MiniKnog Infiltration research group that studies Minik
 ## Technical Information
 
 - In-game ID: `ct_mki_researcher_tenant`
-- NPC type: ct_mki_researcher
-- Priority: 12
+- NPC type: `ct_mki_researcher`
+- Priority: `12`
 - File: [`/tenants/alta/themed/miniknog/researcher.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/miniknog/researcher.tenant)

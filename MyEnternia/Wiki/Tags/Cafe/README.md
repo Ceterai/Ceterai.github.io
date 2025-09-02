@@ -4,7 +4,7 @@ The tag `cafe-tag` contains 35 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 35 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 35 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height=16px width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/chair/icon.png" alt="Alta Cafe Chair icon" loading="lazy" height=16px width="auto" /> [Alta Cafe Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaCafeChair)

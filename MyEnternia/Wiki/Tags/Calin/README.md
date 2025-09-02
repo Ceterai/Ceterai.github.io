@@ -4,7 +4,7 @@ The tag `calin-tag` contains 36 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 19 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 19 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/bed/icon.png" alt="Calin Bed icon" loading="lazy" height=16px width="auto" /> [Calin Bed](https://ceterai.github.io/MyEnternia/Wiki/CalinBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Calin Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCalinSapling)
@@ -36,7 +36,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" height=16px width="auto" /> [Multi-Tool](https://ceterai.github.io/MyEnternia/Wiki/Multi-Tool)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" height=16px width="auto" /> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool)

@@ -11,6 +11,6 @@ An alta astronaut helping human miners. While the uniform is not native to altas
 ## Technical Information
 
 - In-game ID: `ct_alta_lunar_guard_tenant`
-- NPC type: ct_alta_lunar_guard
-- Priority: 14
+- NPC type: `ct_alta_lunar_guard`
+- Priority: `14`
 - File: [`/tenants/alta/themed/human/astronaut.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/human/astronaut.tenant)

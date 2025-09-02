@@ -8,7 +8,7 @@ The tag `droid-tag` contains 12 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate.png" alt="EDS Frigate Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EDSFrigateDrone)

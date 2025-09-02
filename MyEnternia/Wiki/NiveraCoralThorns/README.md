@@ -7,7 +7,7 @@ These [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), thorny <i
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Nivera thorns do have something in common with corals, not just the shape.
 - Apex: Sharp. I'd better avoid them.

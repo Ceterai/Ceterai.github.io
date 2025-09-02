@@ -33,9 +33,9 @@ Used to craft:
 
 Found naturally in containers:
 
-- `alienchest`
-- `giantflowerchest`
-- `rainbowchest`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height=12px width=12px /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
 
 Can be bought from merchants:
 

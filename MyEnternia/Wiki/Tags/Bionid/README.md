@@ -4,7 +4,7 @@ The tag `bionid-tag` contains 23 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bion/icon.png" alt="Bion Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Bion Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/BionSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bionid/icon.png" alt="Bionid Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Bionid Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/BionidSample)
@@ -25,7 +25,7 @@ The tag `bionid-tag` contains 23 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 11 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height=16px width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Complicated Nature of Bion icon" loading="lazy" height=16px width="auto" /> [Complicated Nature of Bion](https://ceterai.github.io/MyEnternia/Wiki/ComplicatedNatureofBion)

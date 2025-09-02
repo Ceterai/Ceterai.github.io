@@ -11,6 +11,6 @@ This alta researcher is part of general alta research labs, focusing on general 
 ## Technical Information
 
 - In-game ID: `ct_alta_lab_tenant`
-- NPC type: ct_alta_lab_researcher
-- Priority: 7
+- NPC type: `ct_alta_lab_researcher`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/lab/lab.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/lab/lab.tenant)

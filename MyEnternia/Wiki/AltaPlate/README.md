@@ -7,7 +7,7 @@ Easy to clean, eco-friendly and doesn't cause issues in microwaves and dishwashe
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A cool little plate, very clean. Looking at it makes me a little hungry...
 - Apex: A little clay plate.
@@ -22,7 +22,7 @@ Easy to clean, eco-friendly and doesn't cause issues in microwaves and dishwashe
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/dishes/icon.png" alt="Alta Dishes icon" loading="lazy" height=16px width="auto" /> [Alta Dishes](https://ceterai.github.io/MyEnternia/Wiki/AltaDishes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kadamaker/icon.png" alt="Alta Kadamaker icon" loading="lazy" height=16px width="auto" /> [Alta Kadamaker](https://ceterai.github.io/MyEnternia/Wiki/AltaKadamaker)

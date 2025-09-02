@@ -6,7 +6,7 @@ A floating [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) p
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I'll be honest with you, I have no idea how they made it float. Perhaps there's some special component inside.
 - Apex: A platform on the gheatsyn pillar.

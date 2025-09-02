@@ -11,6 +11,6 @@ An alta visiting a riverside resort. Often in sunglasses or a beautiful sunny ha
 ## Technical Information
 
 - In-game ID: `ct_alta_sea_tenant`
-- NPC type: ct_alta_resort_girl
-- Priority: 14
+- NPC type: `ct_alta_resort_girl`
+- Priority: `14`
 - File: [`/tenants/alta/themed/tropical/sea.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/tropical/sea.tenant)

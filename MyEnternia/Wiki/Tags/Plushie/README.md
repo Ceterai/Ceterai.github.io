@@ -4,7 +4,7 @@ The tag `plushie-tag` contains 9 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 9 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_astral_narfin_plush.png" alt="Narfin Plushie icon" loading="lazy" height=16px width="auto" /> [Narfin Plushie](https://ceterai.github.io/MyEnternia/Wiki/NarfinPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_aya_virma_plush.png" alt="Aya Virma Plushie icon" loading="lazy" height=16px width="auto" /> [Aya Virma Plushie](https://ceterai.github.io/MyEnternia/Wiki/AyaVirmaPlushie)

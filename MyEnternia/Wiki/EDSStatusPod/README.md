@@ -6,7 +6,7 @@ An armored status pod with red paint and markings that read '[EDS](https://ceter
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An EDS status pod. I'll take my chances.
 - Apex: A status pod. Will I be lucky?

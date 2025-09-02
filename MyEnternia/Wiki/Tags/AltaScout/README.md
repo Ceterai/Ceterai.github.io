@@ -4,7 +4,7 @@ The tag `alta_scout-tag` contains 17 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" height=16px width="auto" /> [Alta Drone Station](https://ceterai.github.io/MyEnternia/Wiki/AltaDroneStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" height=16px width="auto" /> [Alta Energy Source](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergySource)
@@ -25,7 +25,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)

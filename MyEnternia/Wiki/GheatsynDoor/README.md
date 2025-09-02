@@ -6,7 +6,7 @@ A plain [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) glas
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Liquifying and re-crystallizing gheatsyn allows to create sturdy, yet thin and still mostly transparent crystal panels. Neat.
 - Apex: This is a glass door.

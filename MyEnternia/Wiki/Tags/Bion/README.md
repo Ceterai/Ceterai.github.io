@@ -8,7 +8,7 @@ The tag `bion-tag` contains 8 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
 
 - `ct_aid_mimic-bandade_bion`
 - `ct_aid_mimic-bandade_bion_2`

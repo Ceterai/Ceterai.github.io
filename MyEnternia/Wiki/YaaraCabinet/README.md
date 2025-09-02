@@ -6,7 +6,7 @@ The cabinet made of plant fibre stretched between four large vines.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This furniture is mainly made by a sentient plant-based species that often live in yaara caves and valleys.
 - Apex: A big cabinet. Looks like it was made from some plants.

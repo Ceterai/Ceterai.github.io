@@ -7,7 +7,7 @@ These devices are often used during resque missions to send out groups of drones
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A scout drone dispenser. Harmful enough.
 - Apex: What's that moving inside...?

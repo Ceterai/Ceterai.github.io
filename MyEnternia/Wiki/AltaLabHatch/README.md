@@ -6,7 +6,7 @@ A protective 1x5 airtight bionid door. **Can be placed both vertically and horiz
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Airtight blast door, used mainly in alta labs.
 - Apex: This door is entirely secure.

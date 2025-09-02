@@ -6,7 +6,7 @@ A pile of blue <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Freshly fallen ripe ayas from nearby ayakas. Even a smashed aya is a nice source of aya powder.
 - Apex: A small mound of fruits. How am I meant to store this?
@@ -27,7 +27,7 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- `alienchest`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be obtained from special items:
 

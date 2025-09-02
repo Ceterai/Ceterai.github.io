@@ -11,6 +11,6 @@ This merchant sells lots yaara-related things.
 ## Technical Information
 
 - In-game ID: `ct_yaara_merchant_tenant`
-- NPC type: ct_yaara_merchant
-- Priority: 7
+- NPC type: `ct_yaara_merchant`
+- Priority: `7`
 - File: [`/tenants/alta/biome/yaara.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/biome/yaara.tenant)

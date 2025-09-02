@@ -4,7 +4,7 @@ The tag `floran-tag` contains 15 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/bed/icon.png" alt="Yaara Bed icon" loading="lazy" height=16px width="auto" /> [Yaara Bed](https://ceterai.github.io/MyEnternia/Wiki/YaaraBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/cabinet/icon.png" alt="Yaara Cabinet icon" loading="lazy" height=16px width="auto" /> [Yaara Cabinet](https://ceterai.github.io/MyEnternia/Wiki/YaaraCabinet)
@@ -25,7 +25,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - `ct_body_mimic-yaara_keeper`
 - `ct_head_mimic-yaara_keeper`

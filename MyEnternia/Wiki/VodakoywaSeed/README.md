@@ -41,7 +41,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Wild Vodakoywa Seed icon" loading="lazy" height=16px width="auto" /> [Wild Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/WildVodakoywaSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVodakoywaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)

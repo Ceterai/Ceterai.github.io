@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 59 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 59 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" height=16px width="auto" /> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
@@ -95,7 +95,7 @@ Drops from creatures defeated with any **bow**:
 - `ct_impulse_crawler`
 - `ct_miazmur`
 
-<details><summary>Can be obtained from special items: (Expand 7 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

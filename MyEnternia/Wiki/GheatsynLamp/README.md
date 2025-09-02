@@ -6,7 +6,7 @@ A green glowing [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheats
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A regular crystal-based lightsource. Gheatsyn here is fully incased, since it liqufies when discharged.
 - Apex: A gheatsyn lamp.

@@ -14,15 +14,10 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 65
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxenergyscalingboostfood`- Duration: 315
-
-Other variants:
-
-- `ct_minto_soup-perfect-maitai`
-- `ct_minto_soup-perfect-perfect`
 
 ## Technical Information
 

@@ -6,7 +6,7 @@ Warped plant with hive growing atop of it.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I can gather the hive without harming warped flies inside of it!
 - Apex: Some strange insects swarm in this hive.

@@ -11,6 +11,6 @@ An alta security unit commanding other units in her squad.
 ## Technical Information
 
 - In-game ID: `ct_alta_security_captain_tenant`
-- NPC type: ct_alta_security_captain
-- Priority: 6
+- NPC type: `ct_alta_security_captain`
+- Priority: `6`
 - File: [`/tenants/alta/guards/tier4/security_captain.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier4/security_captain.tenant)

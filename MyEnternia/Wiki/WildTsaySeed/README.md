@@ -6,7 +6,7 @@ Grows bitter-sour tsay fruits that when cooked properly can taste like meat.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I wonder if wild tsays taste differently from farmed ones. Welp, perhaps it's time to find out!
 - Apex: If I cook this fruit, it'll taste like chicken.

@@ -6,7 +6,7 @@ A spherical natural growth with some space inside.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Fun fact: these things are alive. They slowly gather stuff around them, that's why sometimes there's loot inside.
 - Apex: A pretty vile yet colorful chest.

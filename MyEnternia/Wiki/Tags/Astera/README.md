@@ -15,7 +15,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 9 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Astera Industries icon" loading="lazy" height=16px width="auto" /> [Astera Industries](https://ceterai.github.io/MyEnternia/Wiki/AsteraIndustries)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_astera_augment.png" alt="Astera Augment icon" loading="lazy" height=16px width="auto" /> [Astera Augment](https://ceterai.github.io/MyEnternia/Wiki/AsteraAugment)

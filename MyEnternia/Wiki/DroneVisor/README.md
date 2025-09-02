@@ -16,7 +16,7 @@ Can be bought from merchants:
 
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
 
-<details><summary>Drops from defeated creatures: (Expand 8 items)</summary>
+<details markdown="1"><summary>Drops from defeated creatures: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 </details>
 
-<details><summary>Drops from creatures defeated with any **bow**: (Expand 8 items)</summary>
+<details markdown="1"><summary>Drops from creatures defeated with any **bow**: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)

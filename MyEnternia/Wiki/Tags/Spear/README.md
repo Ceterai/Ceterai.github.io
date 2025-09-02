@@ -8,7 +8,7 @@ The tag `spear-tag` contains 12 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/asirai.png" alt="Asirai ★★ icon" loading="lazy" height=16px width="auto" /> [Asirai ★★](https://ceterai.github.io/MyEnternia/Wiki/Asirai)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" height=16px width="auto" /> [Bishyn Spear](https://ceterai.github.io/MyEnternia/Wiki/BishynSpear)

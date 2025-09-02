@@ -6,7 +6,7 @@ Cultivation further improves speed and stability of growth, but also of ripening
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Tsay is probably the most vibrant tasting fruit out there.
 - Apex: Tastes like a tomato with spices.

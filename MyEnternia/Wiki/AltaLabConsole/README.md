@@ -6,7 +6,7 @@ A control console.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Although considered an outdated tech by altas, these consoles can still be found in some labs.
 - Apex: A control console for some unknown thing.

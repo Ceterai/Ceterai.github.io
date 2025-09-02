@@ -4,7 +4,7 @@ The tag `poison-tag` contains 37 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Young Thorns icon" loading="lazy" height=16px width="auto" /> [Nivera Young Thorns](https://ceterai.github.io/MyEnternia/Wiki/NiveraYoungThorns)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Rose Thorns icon" loading="lazy" height=16px width="auto" /> [Nivera Rose Thorns](https://ceterai.github.io/MyEnternia/Wiki/NiveraRoseThorns)
@@ -21,7 +21,7 @@ The tag `poison-tag` contains 37 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 29 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 29 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" height=16px width="auto" /> [Stalker Droid ★](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" height=16px width="auto" /> [Ararang](https://ceterai.github.io/MyEnternia/Wiki/Ararang)

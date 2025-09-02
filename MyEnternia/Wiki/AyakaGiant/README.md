@@ -6,7 +6,7 @@ A very rare type of [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayaka
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A chamber containing a pretty powerful sapling - it will grow into a gigantic ayaka.
 - Apex: I can plant this to grow a tree.

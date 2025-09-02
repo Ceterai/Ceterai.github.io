@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" height=16px width="auto" /> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" height=16px width="auto" /> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer)
@@ -28,7 +28,7 @@ Radiomessages on pickup:
 
 </details>
 
-<details><summary>Unlocks blueprints for: (Expand 7 items)</summary>
+<details markdown="1"><summary>Unlocks blueprints for: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Guide ★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" height=16px width="auto" /> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)

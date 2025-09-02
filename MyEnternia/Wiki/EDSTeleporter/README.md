@@ -6,7 +6,7 @@ A personal [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) teleporter,
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A piece of acquired tech with EDS markings on it. Lets you beam in and out pretty quickly.
 - Apex: A personal teleporter. A functional but fun piece of equipment.

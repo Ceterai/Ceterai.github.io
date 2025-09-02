@@ -1,6 +1,6 @@
 # Mind Field
 
-Repeatedly damages enemies around you with ^#8020f0;Ions^reset;, slowing them down. Damage is dependant on your max energy.
+Repeatedly damages enemies around you with [Ions](https://ceterai.github.io/MyEnternia/Wiki/Ions), slowing them down. Damage is dependant on your max energy.
 
 Applied by following items:
 

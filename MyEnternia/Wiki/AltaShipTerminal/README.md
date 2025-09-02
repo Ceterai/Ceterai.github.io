@@ -6,7 +6,7 @@ A reinforced terminal. Seems like it'll keep working under any conditions.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This terminal was made to work even in worst environments. It even has its own backup energy source.
 - Apex: This console offers a large degree of control.

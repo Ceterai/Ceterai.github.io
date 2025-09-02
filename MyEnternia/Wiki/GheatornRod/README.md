@@ -6,7 +6,7 @@ These [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) format
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: What's left from a gheatsyn crystal growing inside of moonrock. I can break it to harvest some gheatsyn.
 - Apex: A stone that chimes when I get close to it.

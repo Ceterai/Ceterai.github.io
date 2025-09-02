@@ -7,7 +7,7 @@ Can be used for capturing plant critters for collection and to have them as pets
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An empty flower pot... Or is something just hiding somewhere inside?~
 - Apex: A decent aquarium.

@@ -6,7 +6,7 @@ A compact button-like sensor screen that activates for 5s when pressed. Very tin
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A simple touch screen. Useful for security doors due to its temporary activation.
 - Apex: A button. Its function is unknown. Only one way to find out.

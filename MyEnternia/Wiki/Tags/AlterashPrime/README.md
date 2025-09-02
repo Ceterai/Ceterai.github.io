@@ -4,7 +4,7 @@ The tag `alterash_prime-tag` contains 79 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 79 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 79 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic1.png" alt="Giant Agaranic Shroom icon" loading="lazy" height=16px width="auto" /> [Giant Agaranic Shroom](https://ceterai.github.io/MyEnternia/Wiki/GiantAgaranicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic2.png" alt="Smug Agaranic Shroom icon" loading="lazy" height=16px width="auto" /> [Smug Agaranic Shroom](https://ceterai.github.io/MyEnternia/Wiki/SmugAgaranicShroom)

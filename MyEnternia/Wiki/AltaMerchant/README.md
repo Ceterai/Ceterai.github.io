@@ -11,6 +11,6 @@ This versatile alta trader has quite a lot of various goods for sale.
 ## Technical Information
 
 - In-game ID: `ct_alta_merchant_tenant`
-- NPC type: ct_alta_merchant
-- Priority: 4
+- NPC type: `ct_alta_merchant`
+- Priority: `4`
 - File: [`/tenants/alta/service/merchant.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/service/merchant.tenant)

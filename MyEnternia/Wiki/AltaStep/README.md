@@ -7,7 +7,7 @@ Although quite small in size, it's convenient enough and doesn't take a lot of p
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A typical hidden step. Used for poi traps, mostly. Very satisfying to press, if you ask me.
 - Apex: A button. Its function is unknown. Only one way to find out.

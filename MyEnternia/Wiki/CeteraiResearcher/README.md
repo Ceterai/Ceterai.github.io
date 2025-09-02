@@ -11,6 +11,6 @@ This alta researcher is part of the Ceterai Project, focusing on studying stardu
 ## Technical Information
 
 - In-game ID: `ct_ceterai_tenant`
-- NPC type: ct_ceterai_researcher
-- Priority: 7
+- NPC type: `ct_ceterai_researcher`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/lab/ceterai.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/lab/ceterai.tenant)

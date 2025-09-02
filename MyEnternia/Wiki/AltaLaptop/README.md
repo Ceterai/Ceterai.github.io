@@ -7,7 +7,7 @@ Most basic alta furniture is designed to be simple, lightweight, and, most impor
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A basic laptop, probably with C.T.O.S. installed. I wonder if it has any games on it.
 - Apex: This is a really powerful computer. Apex civilians don't have access to computers.

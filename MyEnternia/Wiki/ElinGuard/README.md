@@ -11,6 +11,6 @@ An alta security unit guarding the Elin Gardens from intruders.
 ## Technical Information
 
 - In-game ID: `ct_elin_guard_tenant`
-- NPC type: ct_elin_guard
-- Priority: 4
+- NPC type: `ct_elin_guard`
+- Priority: `4`
 - File: [`/tenants/alta/guards/tier4/elin.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier4/elin.tenant)

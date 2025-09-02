@@ -15,14 +15,14 @@ Species descriptions:
 
 Found naturally in containers:
 
-- `crystalchest`
+- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height=10.5px width=12px /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
 
 Can be bought from merchants:
 
 - [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 
-<details><summary>Given as rent by tenants: (Expand 9 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 9 items)</summary>
 
 - [Alta in a Calin Dress](https://ceterai.github.io/MyEnternia/Wiki/AltainaCalinDress)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)

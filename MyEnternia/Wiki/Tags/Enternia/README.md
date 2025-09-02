@@ -4,7 +4,7 @@ The tag `enternia-tag` contains 15 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enhancedmoonrock/icon.png" alt="Enhanced Moonrock icon" loading="lazy" height=16px width="auto" /> [Enhanced Moonrock](https://ceterai.github.io/MyEnternia/Wiki/EnhancedMoonrock)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enterite_sample/icon.png" alt="Enterite Sample icon" loading="lazy" height=16px width="auto" /> [Enterite Sample](https://ceterai.github.io/MyEnternia/Wiki/EnteriteSample)
@@ -20,7 +20,7 @@ The tag `enternia-tag` contains 15 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR "Animus" ★ icon" loading="lazy" height=16px width="auto" /> [GR "Animus" ★](https://ceterai.github.io/MyEnternia/Wiki/GRAnimus)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_dream_eater.png" alt="Dream Eater icon" loading="lazy" height=16px width="auto" /> [Dream Eater](https://ceterai.github.io/MyEnternia/Wiki/DreamEater)

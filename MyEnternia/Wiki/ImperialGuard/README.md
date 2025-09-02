@@ -11,6 +11,6 @@ This heavily equipped alta guard is meant to protect alta capitals.
 ## Technical Information
 
 - In-game ID: `ct_alta_capital_guard_tenant`
-- NPC type: ct_alta_capital_guard
-- Priority: 8
+- NPC type: `ct_alta_capital_guard`
+- Priority: `8`
 - File: [`/tenants/alta/guards/tier6/capital.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier6/capital.tenant)

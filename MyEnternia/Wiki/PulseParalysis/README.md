@@ -1,6 +1,6 @@
 # Pulse Paralysis
 
-Stuns you for 1.15 seconds. Having ^#7733aa;Electric Immunity^reset; or ^#20f080;Impulse Immunity^reset; blocks the effect.
+Stuns you for 1.15 seconds. Having [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) or [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity) blocks the effect.
 
 ## Parameters
 
@@ -10,7 +10,7 @@ Stuns you for 1.15 seconds. Having ^#7733aa;Electric Immunity^reset; or ^#20f080
 
 - Animation: 
 
-  - Particles: `sparks`- Mini Immunity: `electricStatusImmunity`
+  - Particles: `sparks`- Mini Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" height=16px width=16px /> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
 
 ## Technical Information
 

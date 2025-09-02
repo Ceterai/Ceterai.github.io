@@ -11,6 +11,6 @@ Likely just an alta cosplaying floran hunters as her fascination. Likely...
 ## Technical Information
 
 - In-game ID: `ct_alta_huntress_tenant`
-- NPC type: ct_alta_huntress
-- Priority: 15
+- NPC type: `ct_alta_huntress`
+- Priority: `15`
 - File: [`/tenants/alta/themed/cosplay/huntress.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/cosplay/huntress.tenant)

@@ -14,17 +14,12 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 100
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `runboostfood`- Duration: 500, 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height=16px width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)- Duration: 500
-
-Other variants:
-
-- `ct_alliana_cake-orchid-orchid`
-- `ct_alliana_cake-orchid-love`
 
 ## Technical Information
 

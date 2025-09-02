@@ -2,7 +2,7 @@
 
 Creates a slight beam of special blue light in front of you. Acts as a head lamp.
 
-<details><summary>Applied by following items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" height=16px width="auto" /> [Protomask](https://ceterai.github.io/MyEnternia/Wiki/Protomask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_head/icon.png" alt="Security Droid Head ★ icon" loading="lazy" height=16px width="auto" /> [Security Droid Head ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidHead)

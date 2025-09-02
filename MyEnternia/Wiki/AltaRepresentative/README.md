@@ -11,6 +11,6 @@ An alta official representing a capital city.
 ## Technical Information
 
 - In-game ID: `ct_alta_capital_official_tenant`
-- NPC type: ct_alta_representative
-- Priority: 10
+- NPC type: `ct_alta_representative`
+- Priority: `10`
 - File: [`/tenants/alta/official/capital.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/official/capital.tenant)

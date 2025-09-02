@@ -26,13 +26,13 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 
 - [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
 
-<details><summary>Given as rent by tenants: (Expand 9 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 9 items)</summary>
 
 - [Alta in a Calin Dress](https://ceterai.github.io/MyEnternia/Wiki/AltainaCalinDress)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)

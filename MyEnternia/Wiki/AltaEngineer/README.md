@@ -11,6 +11,6 @@ Alta electronics and light machinery expert, that can also sell you a couple of 
 ## Technical Information
 
 - In-game ID: `ct_alta_engineer_tenant`
-- NPC type: ct_alta_engineer
-- Priority: 6
+- NPC type: `ct_alta_engineer`
+- Priority: `6`
 - File: [`/tenants/alta/tech/engineer.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/tech/engineer.tenant)

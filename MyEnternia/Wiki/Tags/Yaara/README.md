@@ -4,7 +4,7 @@ The tag `yaara-tag` contains 73 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 38 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 38 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height=16px width="auto" /> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/hunter_flower/icon.png" alt="Potted Hunter Flower icon" loading="lazy" height=16px width="auto" /> [Potted Hunter Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedHunterFlower)
@@ -57,7 +57,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Yaara Mash icon" loading="lazy" height=16px width="auto" /> [Yaara Mash](https://ceterai.github.io/MyEnternia/Wiki/YaaraMash)
 - `ct_body_mimic-yaara`

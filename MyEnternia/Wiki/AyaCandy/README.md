@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 10
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `jumpboostfood`- Duration: 125
@@ -25,7 +25,7 @@ Other variants:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height=16px width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
@@ -47,7 +47,7 @@ Can be bought from merchants:
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
-<details><summary>Given as rent by tenants: (Expand 9 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 9 items)</summary>
 
 - [Alta in a Calin Dress](https://ceterai.github.io/MyEnternia/Wiki/AltainaCalinDress)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)

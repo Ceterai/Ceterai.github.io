@@ -27,7 +27,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height=16px width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" height=16px width="auto" /> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)
 
-<details><summary>Used to craft: (Expand 16 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Astera Industries icon" loading="lazy" height=16px width="auto" /> [Astera Industries](https://ceterai.github.io/MyEnternia/Wiki/AsteraIndustries)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height=16px width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)

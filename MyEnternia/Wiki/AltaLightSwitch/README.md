@@ -6,7 +6,7 @@ A compact switch that can be flipped on or off. Very tiny.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A typical light switch. For, you know, switching on the lights.
 - Apex: A switch. It activates something.

@@ -20,7 +20,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="A.R.C.O. Researcher Coat icon" loading="lazy" height=16px width="auto" /> [A.R.C.O. Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.ResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="A.R.C.O. Researcher Skirt icon" loading="lazy" height=16px width="auto" /> [A.R.C.O. Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.ResearcherSkirt)

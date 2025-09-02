@@ -8,7 +8,7 @@ The tag `augment-tag` contains 22 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 22 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 22 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_alternia_augment.png" alt="Alternia Augment ★★ icon" loading="lazy" height=16px width="auto" /> [Alternia Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_arco_augment.png" alt="Enviro Augment icon" loading="lazy" height=16px width="auto" /> [Enviro Augment](https://ceterai.github.io/MyEnternia/Wiki/EnviroAugment)

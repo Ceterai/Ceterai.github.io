@@ -28,7 +28,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- `rainbowchest`
+- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height=12px width=12px /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
 
 Can be bought from merchants:
 

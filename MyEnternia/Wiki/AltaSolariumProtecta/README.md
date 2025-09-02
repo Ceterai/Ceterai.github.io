@@ -11,6 +11,6 @@ An alta protecta in solarium armor.
 ## Technical Information
 
 - In-game ID: `ct_alta_tier8_tenant`
-- NPC type: ct_alta_solarium_girl
-- Priority: 9
+- NPC type: `ct_alta_solarium_girl`
+- Priority: `9`
 - File: [`/tenants/alta/tiered/tier8.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/tiered/tier8.tenant)

@@ -7,7 +7,7 @@ Runeva alta cuisine. A special version of mimosa salad made of the finest alta f
 ## Parameters
 
 - Food Value: 75
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxhealthscalingboostfood`- Duration: 675

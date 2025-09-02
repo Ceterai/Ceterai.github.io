@@ -11,6 +11,6 @@ An alta in a vibrant neon suit about to dance a vibrant neon dance.
 ## Technical Information
 
 - In-game ID: `ct_alta_vibrant_tenant`
-- NPC type: ct_alta_vibrant_dancer
-- Priority: 10
+- NPC type: `ct_alta_vibrant_dancer`
+- Priority: `10`
 - File: [`/tenants/alta/themed/colors/vibrant.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/colors/vibrant.tenant)

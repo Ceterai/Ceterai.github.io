@@ -11,6 +11,6 @@ This alta is archiving the outcomes of MiniKnog Infiltration research and can sh
 ## Technical Information
 
 - In-game ID: `ct_mki_archiver_tenant`
-- NPC type: ct_mki_archiver
-- Priority: 14
+- NPC type: `ct_mki_archiver`
+- Priority: `14`
 - File: [`/tenants/alta/themed/miniknog/archiver.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/miniknog/archiver.tenant)

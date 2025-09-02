@@ -6,7 +6,7 @@ A simple titanium chair with minimal details and a sturdy stand.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Not the most comfortable, but quite spacey and sturdy.
 - Apex: A pretty comfortable chair. I'm happy with it.

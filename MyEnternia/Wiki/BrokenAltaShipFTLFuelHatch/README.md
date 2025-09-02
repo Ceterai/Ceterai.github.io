@@ -6,7 +6,7 @@ A broken FTL fuel hatch for some [alta](https://ceterai.github.io/MyEnternia/Wik
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A broken piece of acquired tech. Lets you power up the ship using erchius fuel.
 - Apex: Converts fuel into freedom.

@@ -6,7 +6,7 @@ A simple chair with inlaid [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Similar to other calin chairs, this one is not that comfortable, even if made from gheatsyn.
 - Apex: An ordinary gheatsyn chair.

@@ -23,7 +23,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/sapling/icon.png" alt="Yaara Sapling icon" loading="lazy" height=16px width="auto" /> [Yaara Sapling](https://ceterai.github.io/MyEnternia/Wiki/YaaraSapling)
 
-<details><summary>Used to craft: (Expand 8 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Azura Seed icon" loading="lazy" height=16px width="auto" /> [Azura Seed](https://ceterai.github.io/MyEnternia/Wiki/AzuraSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/icon.png" alt="Ceternia Seed icon" loading="lazy" height=16px width="auto" /> [Ceternia Seed](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSeed)
@@ -48,7 +48,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Wild Yaara Seed icon" loading="lazy" height=16px width="auto" /> [Wild Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Wild Yaara Seed icon" loading="lazy" height=16px width="auto" /> [Wild Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Yaara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaraSapling)

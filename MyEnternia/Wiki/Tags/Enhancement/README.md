@@ -8,7 +8,7 @@ The tag `enhancement-tag` contains 28 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 28 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 28 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" height=16px width="auto" /> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_alternia_augment.png" alt="Alternia Augment ★★ icon" loading="lazy" height=16px width="auto" /> [Alternia Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaAugment)

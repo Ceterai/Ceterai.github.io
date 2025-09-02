@@ -6,7 +6,7 @@ A door made from interlocking vines.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: These doors are somehow made by Yaara Keepers, not entirely sure how they work.
 - Apex: I suppose that was made by some Floran.

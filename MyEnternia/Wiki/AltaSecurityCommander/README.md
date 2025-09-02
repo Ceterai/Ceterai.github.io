@@ -11,6 +11,6 @@ A security official responsible for organizing operations from their command cen
 ## Technical Information
 
 - In-game ID: `ct_alta_security_official_tenant`
-- NPC type: ct_alta_security_commander
-- Priority: 10
+- NPC type: `ct_alta_security_commander`
+- Priority: `10`
 - File: [`/tenants/alta/official/security.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/official/security.tenant)

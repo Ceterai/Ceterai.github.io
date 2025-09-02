@@ -11,6 +11,6 @@ A generic EDS protector alta. Has different equipment based on threat level.
 ## Technical Information
 
 - In-game ID: `ct_eds_guard_tenant`
-- NPC type: ct_eds_guard
-- Priority: 5
+- NPC type: `ct_eds_guard`
+- Priority: `5`
 - File: [`/tenants/alta/guards/eds.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/eds.tenant)

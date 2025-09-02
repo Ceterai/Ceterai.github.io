@@ -11,6 +11,6 @@ A tier 2 alta robotic, android type. Protects alta cities and secure objects.
 ## Technical Information
 
 - In-game ID: `ct_alta_security_android_tenant`
-- NPC type: ct_alta_security_android
-- Priority: 5
+- NPC type: `ct_alta_security_android`
+- Priority: `5`
 - File: [`/tenants/alta/androids/security.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/androids/security.tenant)

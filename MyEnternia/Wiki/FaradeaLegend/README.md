@@ -11,6 +11,6 @@ WIP. A true faradea merc, legendary for their deeds.
 ## Technical Information
 
 - In-game ID: `ct_faradea_legend_tenant`
-- NPC type: ct_faradea_legend
-- Priority: 9
+- NPC type: `ct_faradea_legend`
+- Priority: `9`
 - File: [`/tenants/alta/guards/tier7/faradea.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier7/faradea.tenant)

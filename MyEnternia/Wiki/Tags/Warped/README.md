@@ -4,7 +4,7 @@ The tag `warped-tag` contains 48 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 28 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 28 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_purple_icon.png" alt="Alta Lab Capsule With Yonnur icon" loading="lazy" height=16px width="auto" /> [Alta Lab Capsule With Yonnur](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithYonnur)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" height=16px width="auto" /> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera)
@@ -45,7 +45,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 19 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 19 items)</summary>
 
 - `ct_back_mimic-warped_glowtail`
 - `ct_food_mimic-graa_venetto`

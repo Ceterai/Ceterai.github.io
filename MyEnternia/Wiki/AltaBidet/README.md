@@ -7,7 +7,7 @@ Due to how alta biology works, this is one of the more convenient restroom desig
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Thankfully I don't need to go right now.
 - Apex: Do... I sit on this or...?

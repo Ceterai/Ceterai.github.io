@@ -11,6 +11,6 @@ Likely just an alta cosplaying avian pirates as her fascination. Likely...
 ## Technical Information
 
 - In-game ID: `ct_alta_pirate_tenant`
-- NPC type: ct_alta_pirate
-- Priority: 15
+- NPC type: `ct_alta_pirate`
+- Priority: `15`
 - File: [`/tenants/alta/themed/cosplay/pirate.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/cosplay/pirate.tenant)

@@ -4,7 +4,7 @@ The tag `koywa-tag` contains 45 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 28 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 28 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" height=16px width="auto" /> [Potted Alto Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedAltoKoywaFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height=16px width="auto" /> [Potted Faro Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedFaroKoywaFlower)
@@ -47,7 +47,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" height=16px width="auto" /> [Barracuda's Fin](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sFin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" height=16px width="auto" /> [Barracuda's Cry ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sCry)

@@ -11,6 +11,6 @@ An alta that frequents various outposts. Often has protectorate-related insignia
 ## Technical Information
 
 - In-game ID: `ct_alta_outpost_tenant`
-- NPC type: ct_alta_outpost_visitor
-- Priority: 9
+- NPC type: `ct_alta_outpost_visitor`
+- Priority: `9`
 - File: [`/tenants/alta/themed/human/outpost.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/human/outpost.tenant)

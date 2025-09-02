@@ -14,7 +14,7 @@ Following objects have this colony tag:
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 10 items)</summary>
 
 - [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)
 - [Imperial Android](https://ceterai.github.io/MyEnternia/Wiki/ImperialAndroid)
@@ -31,7 +31,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 63 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 63 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height=16px width="auto" /> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/capital.png" alt="Imperial Android icon" loading="lazy" height=16px width="auto" /> [Imperial Android](https://ceterai.github.io/MyEnternia/Wiki/ImperialAndroid)

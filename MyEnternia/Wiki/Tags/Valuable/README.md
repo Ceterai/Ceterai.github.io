@@ -4,7 +4,7 @@ The tag `valuable-tag` contains 71 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 66 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 66 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" height=16px width="auto" /> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)

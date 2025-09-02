@@ -8,7 +8,7 @@ The tag `tier6armour-tag` contains 38 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 38 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 38 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" height=16px width="auto" /> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protea's Mask ★ icon" loading="lazy" height=16px width="auto" /> [Protea's Mask ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sMask)

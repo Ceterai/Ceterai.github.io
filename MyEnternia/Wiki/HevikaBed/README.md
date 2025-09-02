@@ -6,7 +6,7 @@ A titanium bedding on a reinforced stand with <img src="https://raw.githubuserco
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Beds like this one can often be found in labs and tech clinics. It has life support tech, hence the power source.
 - Apex: A pretty crystal bed, solid and very comfy.

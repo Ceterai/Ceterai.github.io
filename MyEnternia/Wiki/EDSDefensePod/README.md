@@ -6,7 +6,7 @@ An advanced version of the [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A defensive EDS pod. This one is mainly a combat device, better not touch it.
 - Apex: A status pod. Will I be lucky?

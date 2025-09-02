@@ -6,7 +6,7 @@ A greenish mushroom.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A giant agaranic. Probably full of biosamples.
 - Apex: It's cuter than the Agarans.

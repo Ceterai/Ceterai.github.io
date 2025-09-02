@@ -4,7 +4,7 @@ The tag `misc-tag` contains 32 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/teleporter/icon.png" alt="Alta Lab Teleporter icon" loading="lazy" height=16px width="auto" /> [Alta Lab Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTeleporter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/stand/icon.png" alt="Alta Security Stand icon" loading="lazy" height=16px width="auto" /> [Alta Security Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityStand)

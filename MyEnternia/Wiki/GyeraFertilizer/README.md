@@ -12,7 +12,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 8 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height=16px width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/eco/icon.png" alt="Eco Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoAyaSapling)
@@ -29,7 +29,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height=16px width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details><summary>Used to craft: (Expand 18 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/aya/icon.png" alt="Potted Aya icon" loading="lazy" height=16px width="auto" /> [Potted Aya](https://ceterai.github.io/MyEnternia/Wiki/PottedAya)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/pod/icon.png" alt="Aya Eco Pod icon" loading="lazy" height=16px width="auto" /> [Aya Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AyaEcoPod)
@@ -56,7 +56,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought in shops:
 

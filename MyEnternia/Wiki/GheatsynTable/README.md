@@ -6,7 +6,7 @@ A [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) crystal ta
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A metal table with gheatsyn crystals as a stand.
 - Apex: A table made from gheatsyn crystal.

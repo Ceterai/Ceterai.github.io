@@ -12,7 +12,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 11 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon.png" alt="Alta Drill icon" loading="lazy" height=16px width="auto" /> [Alta Drill](https://ceterai.github.io/MyEnternia/Wiki/AltaDrill)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" height=16px width="auto" /> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX)

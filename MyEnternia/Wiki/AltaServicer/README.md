@@ -11,6 +11,6 @@ A service worker that can provide you with neat essentials.
 ## Technical Information
 
 - In-game ID: `ct_alta_service_tenant`
-- NPC type: ct_alta_servicer
-- Priority: 8
+- NPC type: `ct_alta_servicer`
+- Priority: `8`
 - File: [`/tenants/alta/service/service.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/service/service.tenant)

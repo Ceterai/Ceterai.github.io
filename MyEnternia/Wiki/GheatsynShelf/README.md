@@ -6,7 +6,7 @@ A [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) shelf used
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A mini shelf, that can be used as a walking platform. Gheatsyn here is purely decorative.
 - Apex: It's a wall shelf.

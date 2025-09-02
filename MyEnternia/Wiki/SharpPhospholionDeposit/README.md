@@ -6,7 +6,7 @@ This moonrock formation is full of some metal shards.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This deposit of phospholion is quite big. Takes longer to mine aswell though.
 - Apex: A deposit of some sort of metallic material.

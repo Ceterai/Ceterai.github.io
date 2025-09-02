@@ -6,7 +6,7 @@ A table made from a giant flower. Or probably a giant flower that looks like a t
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An almost natural-looking table, with the stand made from nivera vines, and the top from purple vein matter.
 - Apex: A large flower in form of a table. Or a table made of some living flower.

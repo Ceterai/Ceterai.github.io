@@ -6,7 +6,7 @@ Red smoke billows from this point.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This is a natural source of red smoke. Unlike warped fumes, this kind is pretty harmless.
 - Apex: Smoke seems to be coming from somewhere nearby.

@@ -4,7 +4,7 @@ The tag `commerce-tag` contains 42 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 18 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height=16px width="auto" /> [Alta Cakery](https://ceterai.github.io/MyEnternia/Wiki/AltaCakery)
@@ -29,7 +29,7 @@ The tag `commerce-tag` contains 42 total entries.
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 24 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 24 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)

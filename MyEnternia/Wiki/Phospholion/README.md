@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 21 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 21 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" height=16px width="auto" /> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phosphobulbs/icon.png" alt="Irradiated Phosphobulb icon" loading="lazy" height=16px width="auto" /> [Irradiated Phosphobulb](https://ceterai.github.io/MyEnternia/Wiki/IrradiatedPhosphobulb)
@@ -29,13 +29,13 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/phospholion/icon.png" alt="Phospholion Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Phospholion Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/PhospholionSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_phosphonade.png" alt="Phosphonade icon" loading="lazy" height=16px width="auto" /> [Phosphonade](https://ceterai.github.io/MyEnternia/Wiki/Phosphonade)
 - `greydye`
-- `hivebed`
-- `hivechair`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Hive_Bed.png" alt="Hive Bed icon" loading="lazy" height=5.5px width=18.5px /> [Hive Bed](https://starbounder.org/Hive_Bed)
+- <img src="https://starbounder.org/mediawiki/images/2/2d/Hive_Chair.png" alt="Hive Chair icon" loading="lazy" height=7.5px width=11.25px /> [Hive Chair](https://starbounder.org/Hive_Chair)
 - `hivechest`
-- `hivedoor`
-- `hivelamp`
-- `hivetable`
-- `tungstenore`
+- <img src="https://starbounder.org/mediawiki/images/f/f0/Hive_Door.png" alt="Hive Door icon" loading="lazy" height=15px width=4.5px /> [Hive Door](https://starbounder.org/Hive_Door)
+- <img src="https://starbounder.org/mediawiki/images/e/e0/Hive_Lamp.png" alt="Hive Lamp icon" loading="lazy" height=10.5px width=5.25px /> [Hive Lamp](https://starbounder.org/Hive_Lamp)
+- <img src="https://starbounder.org/mediawiki/images/1/14/Hive_Table.png" alt="Hive Table icon" loading="lazy" height=6px width=15px /> [Hive Table](https://starbounder.org/Hive_Table)
+- <img src="https://starbounder.org/mediawiki/images/6/6f/Tungsten_Ore.png" alt="Tungsten Ore icon" loading="lazy" height=9px width=10px /> [Tungsten Ore](https://starbounder.org/Tungsten_Ore)
 
 </details>
 
@@ -43,7 +43,7 @@ Species descriptions:
 
 Found naturally in containers:
 
-- `miningchest`
+- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height=12px width=18px /> [Mining Chest](https://starbounder.org/Mining_Chest)
 
 Drops from defeated creatures:
 
@@ -53,7 +53,7 @@ Drops from defeated creatures:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/ghearun.png" alt="Ghearun Droid ★★★ icon" loading="lazy" height=16px width="auto" /> [Ghearun Droid ★★★](https://ceterai.github.io/MyEnternia/Wiki/GhearunDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png" alt="Lava Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Lava Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/LavaDrone)
 
-<details><summary>Drops from creatures defeated with any **bow**: (Expand 6 items)</summary>
+<details markdown="1"><summary>Drops from creatures defeated with any **bow**: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" height=16px width="auto" /> [Stalker Droid ★](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png" alt="Elite Droid icon" loading="lazy" height=16px width="auto" /> [Elite Droid](https://ceterai.github.io/MyEnternia/Wiki/EliteDroid)

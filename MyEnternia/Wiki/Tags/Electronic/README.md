@@ -4,7 +4,7 @@ The tag `electronic-tag` contains 48 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 42 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 42 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/hand_dryer/icon.png" alt="Alta Hand Dryer icon" loading="lazy" height=16px width="auto" /> [Alta Hand Dryer](https://ceterai.github.io/MyEnternia/Wiki/AltaHandDryer)

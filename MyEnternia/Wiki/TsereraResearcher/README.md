@@ -11,6 +11,6 @@ This alta researcher is part of Tserera, focusing on common alta tech.
 ## Technical Information
 
 - In-game ID: `ct_tserera_tenant`
-- NPC type: ct_alta_researcher
-- Priority: 7
+- NPC type: `ct_alta_researcher`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/lab/tserera.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/lab/tserera.tenant)

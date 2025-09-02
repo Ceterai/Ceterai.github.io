@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 12
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxhealthboost20`- Duration: 60, 
@@ -46,14 +46,14 @@ Used to craft:
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
-- `slimehide`
-- `toxicchest`
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be bought from merchants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
 
-<details><summary>Given as rent by tenants: (Expand 10 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 10 items)</summary>
 
 - [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)

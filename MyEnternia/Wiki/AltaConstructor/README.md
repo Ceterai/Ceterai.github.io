@@ -6,7 +6,7 @@ For [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) decorations, fur
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This crafting station contains blueprints for certain alta decorations and small structures.
 - Apex: A workbench, presumably for general works with titanium and crystal matters.

@@ -11,6 +11,6 @@ This alta is wearing an apex officer uniform to infiltrate Miniknog. While the u
 ## Technical Information
 
 - In-game ID: `ct_mki_officer_tenant`
-- NPC type: ct_mki_officer
-- Priority: 9
+- NPC type: `ct_mki_officer`
+- Priority: `9`
 - File: [`/tenants/alta/themed/miniknog/officer.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/miniknog/officer.tenant)

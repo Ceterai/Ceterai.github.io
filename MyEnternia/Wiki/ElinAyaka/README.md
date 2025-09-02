@@ -6,7 +6,7 @@ A special variation of [ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/a
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This eco chamber contains a very rare ayaka from Elin's birth gardens. I better treat it with care
 - Apex: I can plant this to grow a tree.

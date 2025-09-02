@@ -38,7 +38,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Wild Tonna Tuber icon" loading="lazy" height=16px width="auto" /> [Wild Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/WildTonnaTuber)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/boosted/icon.png" alt="Boosted Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTonnaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)

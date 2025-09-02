@@ -4,7 +4,7 @@ The tag `eds-tag` contains 74 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 22 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 22 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/container/icon.png" alt="EDS Container icon" loading="lazy" height=16px width="auto" /> [EDS Container](https://ceterai.github.io/MyEnternia/Wiki/EDSContainer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/containers/icon.png" alt="EDS Containers icon" loading="lazy" height=16px width="auto" /> [EDS Containers](https://ceterai.github.io/MyEnternia/Wiki/EDSContainers)
@@ -33,7 +33,7 @@ The tag `eds-tag` contains 74 total entries.
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 8 items)</summary>
 
 - [EDS Android](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
@@ -48,7 +48,7 @@ The tag `eds-tag` contains 74 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 44 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 44 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/defensive.png" alt="EDS Defensive Drone ★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Drone ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDrone)

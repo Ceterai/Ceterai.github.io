@@ -4,7 +4,7 @@ The tag `food_display-tag` contains 12 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cocktail/icon.png" alt="Alta Cocktail Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cocktail Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCocktailServing)

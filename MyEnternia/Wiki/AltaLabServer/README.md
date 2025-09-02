@@ -6,7 +6,7 @@ It looks like a server. I wonder what kind of games could be hosted on that.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A protected server. The waterproof bionid seal keeps it working even in rough conditions.
 - Apex: A secure server. Inaccessible.

@@ -32,7 +32,7 @@ Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height=16px width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
-<details><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)

@@ -12,7 +12,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height=16px width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/sapling/icon.png" alt="Cotton Sapling icon" loading="lazy" height=16px width="auto" /> [Cotton Sapling](https://ceterai.github.io/MyEnternia/Wiki/CottonSapling)
@@ -30,7 +30,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height=16px width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details><summary>Used to craft: (Expand 13 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)

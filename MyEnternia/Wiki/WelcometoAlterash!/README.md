@@ -24,7 +24,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="Welcome to Alterash! icon" loading="lazy" height=16px width="auto" /> [Welcome to Alterash!](https://ceterai.github.io/MyEnternia/Wiki/WelcometoAlterash!)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" height=16px width="auto" /> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia)
 
-<details><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Unika Offices Initiative icon" loading="lazy" height=16px width="auto" /> [Unika Offices Initiative](https://ceterai.github.io/MyEnternia/Wiki/UnikaOfficesInitiative)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" height=16px width="auto" /> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)

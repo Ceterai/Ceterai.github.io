@@ -6,7 +6,7 @@ A glowing [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) li
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A basic ceiling light. The only difference is that it's fully incased because of liquid gheatsyn crystals.
 - Apex: A very practical light source.

@@ -7,7 +7,7 @@ Any alta has at least a pack of these, usually given out by the city administrat
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Ah, a pack of freshly-washed skirts. What an amazing smell.
 - Apex: A set of tidy-packed skirts. The size is a bit too small.

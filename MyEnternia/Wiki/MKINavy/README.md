@@ -11,6 +11,6 @@ This alta is wearing an apex navy uniform to infiltrate Miniknog. While the unif
 ## Technical Information
 
 - In-game ID: `ct_mki_navy_tenant`
-- NPC type: ct_mki_navy
-- Priority: 12
+- NPC type: `ct_mki_navy`
+- Priority: `12`
 - File: [`/tenants/alta/themed/miniknog/navy.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/miniknog/navy.tenant)

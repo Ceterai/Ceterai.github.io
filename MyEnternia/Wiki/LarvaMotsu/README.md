@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 35
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxhealthscalingboostfood`- Duration: 180, 
@@ -22,10 +22,6 @@ Species descriptions:
 - Effect: `maxenergyscalingboostfood`- Duration: 180, 
 
 - Effect: `lightaugment2`- Duration: 180
-
-Other variants:
-
-- `ct_rimar_motsu-hive-perfect`
 
 ## Crafting
 

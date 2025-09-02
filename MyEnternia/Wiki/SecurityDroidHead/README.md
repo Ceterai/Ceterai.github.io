@@ -21,7 +21,7 @@ Can be bought from merchants:
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 
-<details><summary>Drops from defeated creatures: (Expand 6 items)</summary>
+<details markdown="1"><summary>Drops from defeated creatures: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)

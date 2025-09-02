@@ -8,7 +8,7 @@ The tag `fossilbrush-tag` contains 6 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/brush/icon.png" alt="Alta Brush icon" loading="lazy" height=16px width="auto" /> [Alta Brush](https://ceterai.github.io/MyEnternia/Wiki/AltaBrush)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/cleaner/icon.png" alt="Alta Cleaner icon" loading="lazy" height=16px width="auto" /> [Alta Cleaner](https://ceterai.github.io/MyEnternia/Wiki/AltaCleaner)

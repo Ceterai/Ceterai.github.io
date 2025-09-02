@@ -4,7 +4,7 @@ The tag `essential-tag` contains 16 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" height=16px width="auto" /> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" height=16px width="auto" /> [Alta Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaLennStatue)

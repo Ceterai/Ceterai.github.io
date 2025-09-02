@@ -6,7 +6,7 @@ This variation of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An eco chamber with a crystallic hyolic in it.
 - Apex: I can plant this to grow a tree.
@@ -29,7 +29,7 @@ This variation of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia
 
 Found naturally in containers:
 
-- `toxicchest`
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be obtained from special items:
 

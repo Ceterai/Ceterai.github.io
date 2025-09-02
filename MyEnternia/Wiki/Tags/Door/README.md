@@ -4,7 +4,7 @@ The tag `door-tag` contains 177 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 23 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 23 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/door/icon.png" alt="Alta Door icon" loading="lazy" height=16px width="auto" /> [Alta Door](https://ceterai.github.io/MyEnternia/Wiki/AltaDoor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/gateway/icon.png" alt="Alta Gateway icon" loading="lazy" height=16px width="auto" /> [Alta Gateway](https://ceterai.github.io/MyEnternia/Wiki/AltaGateway)
@@ -34,7 +34,7 @@ The tag `door-tag` contains 177 total entries.
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 154 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 154 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)

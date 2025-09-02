@@ -6,7 +6,7 @@ A glob of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/item
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This tiny blob of isoslime hasn't fermented yet. I don't think it contains anything useful.
 - Apex: A putrid mound of slime. How am I meant to store this?
@@ -27,7 +27,7 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- `slimehide`
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Can be obtained from special items:
 

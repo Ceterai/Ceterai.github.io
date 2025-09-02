@@ -6,7 +6,7 @@ A seemingly upside-down container powered by the <img src="https://raw.githubuse
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A reverse-pod powered by alternia crystals. Useful for loading hazardous objects.
 - Apex: They really made a mistake when constructed this chest upside down...

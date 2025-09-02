@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 11 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height=16px width="auto" /> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/roomba.png" alt="Roomba icon" loading="lazy" height=16px width="auto" /> [Roomba](https://ceterai.github.io/MyEnternia/Wiki/Roomba)
@@ -36,7 +36,7 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height=16px width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
 - `outpostshippingcontainer`
 
-<details><summary>Can be bought from merchants: (Expand 14 items)</summary>
+<details markdown="1"><summary>Can be bought from merchants: (Expand 14 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
@@ -55,7 +55,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

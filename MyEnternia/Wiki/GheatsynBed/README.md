@@ -6,7 +6,7 @@ A sturdy bed with a shiny [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/T
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A metal bed with a giant gheatsyn crystal as a base. It's quite high up, so the ladder helps a lot.
 - Apex: A gheatsyn bed with a simple little ladder.

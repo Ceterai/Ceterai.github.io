@@ -8,7 +8,7 @@ The tag `datamass-tag` contains 30 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 30 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 30 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height=16px width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Alta Hydroponics ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Hydroponics ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics)

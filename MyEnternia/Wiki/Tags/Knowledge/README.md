@@ -4,7 +4,7 @@ The tag `knowledge-tag` contains 12 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/laptop/icon.png" alt="Alta Laptop icon" loading="lazy" height=16px width="auto" /> [Alta Laptop](https://ceterai.github.io/MyEnternia/Wiki/AltaLaptop)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/monitor/icon.png" alt="Alta Monitor icon" loading="lazy" height=16px width="auto" /> [Alta Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaMonitor)

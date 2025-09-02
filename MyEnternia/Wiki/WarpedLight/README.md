@@ -6,7 +6,7 @@ An organic biolight, that softly flickers in the dark.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A glowing bulb, another form of warped growth. This one can be used as a wall light.
 - Apex: A wall light, previously a part of a living being.

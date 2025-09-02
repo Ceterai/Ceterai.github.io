@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 14 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 14 items)</summary>
 
 - `blackdye`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
@@ -43,7 +43,7 @@ Drops from creatures defeated with any **bow**:
 
 - `ct_ion_tortoise`
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

@@ -6,7 +6,7 @@ This sapling comes with enhanced mutations that allow much faster ripening.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Tsay is probably the most vibrant tasting fruit out there.
 - Apex: Tastes like a tomato with spices.

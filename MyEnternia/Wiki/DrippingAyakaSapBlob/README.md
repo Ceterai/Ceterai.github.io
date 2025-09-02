@@ -6,7 +6,7 @@ A glob of dripping sap that got stuck in the ceiling.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A blob of ionic sap. I could gather it for cooking, or even crafting.
 - Apex: A resin deposit. It appears to be dripping.

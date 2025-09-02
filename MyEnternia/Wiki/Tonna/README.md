@@ -18,7 +18,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" height=16px width="auto" /> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
 
-<details><summary>Used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
 
 - `ct_alta_crafting_station8`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height=16px width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
@@ -28,7 +28,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" height=16px width="auto" /> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" height=16px width="auto" /> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" height=16px width="auto" /> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
-- `milk`
+- <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" height=15px width=8px /> [Milk](https://starbounder.org/Milk)
 
 </details>
 
@@ -36,8 +36,8 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `techchest`
-- `techchest2`
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Can be bought from merchants:
 
@@ -54,7 +54,7 @@ Drops from big plants:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" height=16px width="auto" /> [Tonnova Tree](https://ceterai.github.io/MyEnternia/Wiki/TonnovaTree)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" height=16px width="auto" /> [Wide Tonnova](https://ceterai.github.io/MyEnternia/Wiki/WideTonnova)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/boosted/icon.png" alt="Boosted Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTonnaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)

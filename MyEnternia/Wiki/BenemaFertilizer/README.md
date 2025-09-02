@@ -24,7 +24,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height=16px width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details><summary>Used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height=16px width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)

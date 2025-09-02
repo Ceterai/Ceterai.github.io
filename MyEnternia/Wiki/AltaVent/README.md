@@ -7,7 +7,7 @@ Do tue the variety of its uses, you can often find it in all sorts of places, ev
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A vent. Great for circulation of gasses and liquids. A must-have, especially in the underground levels.
 - Apex: This is designed to ventilate the air, and also drain water away.

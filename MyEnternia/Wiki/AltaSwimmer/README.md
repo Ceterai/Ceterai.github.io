@@ -11,6 +11,6 @@ Just an alta at the beach - swimsuits, snorkels, party stuff.
 ## Technical Information
 
 - In-game ID: `ct_alta_oasis_tenant`
-- NPC type: ct_alta_beach_girl
-- Priority: 14
+- NPC type: `ct_alta_beach_girl`
+- Priority: `14`
 - File: [`/tenants/alta/themed/tropical/oasis.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/tropical/oasis.tenant)

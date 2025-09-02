@@ -11,6 +11,6 @@ This alta researcher is most interested in studying aquatic environments - ocean
 ## Technical Information
 
 - In-game ID: `ct_aqua_tenant`
-- NPC type: ct_alta_oceanologist
-- Priority: 7
+- NPC type: `ct_alta_oceanologist`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/themed/aqua.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/themed/aqua.tenant)

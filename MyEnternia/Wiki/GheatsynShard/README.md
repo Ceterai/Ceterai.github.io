@@ -17,7 +17,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" height=16px width="auto" /> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam)
 
-<details><summary>Used to craft: (Expand 50 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 50 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" height=16px width="auto" /> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.png" alt="Impulse Rifle NG4-2 icon" loading="lazy" height=16px width="auto" /> [Impulse Rifle NG4-2](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4-2)
@@ -64,11 +64,11 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_glowbomb.png" alt="Warped Fumes icon" loading="lazy" height=16px width="auto" /> [Warped Fumes](https://ceterai.github.io/MyEnternia/Wiki/WarpedFumes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" height=16px width="auto" /> [Warped Hive](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height=16px width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot)
-- `energyjavelin`
-- `glowfibre`
-- `javelin`
-- `throwingspear`
-- `venomsample`
+- <img src="https://starbounder.org/mediawiki/images/9/92/Energy_Javelin.png" alt="Energy Javelin icon" loading="lazy" height=3px width=27px /> [Energy Javelin](https://starbounder.org/Energy_Javelin)
+- <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height=14px width=15px /> [Glow Fibre](https://starbounder.org/Glow_Fibre)
+- <img src="https://starbounder.org/mediawiki/images/1/1d/Javelin.png" alt="Javelin icon" loading="lazy" height=3px width=27px /> [Javelin](https://starbounder.org/Javelin)
+- <img src="https://starbounder.org/mediawiki/images/1/19/Iron_Hunting_Spear.png" alt="Iron Hunting Spear icon" loading="lazy" height=5px width=16px /> [Iron Hunting Spear](https://starbounder.org/Iron_Hunting_Spear)
+- <img src="https://starbounder.org/mediawiki/images/3/3d/Venom_Sample.png" alt="Venom Sample icon" loading="lazy" height=13px width=12px /> [Venom Sample](https://starbounder.org/Venom_Sample)
 
 </details>
 
@@ -98,7 +98,7 @@ Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
 
-<details><summary>Drops from destroyed obstacles: (Expand 8 items)</summary>
+<details markdown="1"><summary>Drops from destroyed obstacles: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_arc/icon.png" alt="Gheatorn Arc icon" loading="lazy" height=16px width="auto" /> [Gheatorn Arc](https://ceterai.github.io/MyEnternia/Wiki/GheatornArc)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_eye/icon.png" alt="Gheatorn Eye icon" loading="lazy" height=16px width="auto" /> [Gheatorn Eye](https://ceterai.github.io/MyEnternia/Wiki/GheatornEye)
@@ -111,7 +111,7 @@ Can be obtained from special items:
 
 </details>
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/boosted/icon.png" alt="Boosted Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGheatsynSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)

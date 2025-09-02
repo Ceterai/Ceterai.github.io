@@ -8,7 +8,7 @@ The tag `armor-tag` contains 7 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altan.png" alt="Altan Compound icon" loading="lazy" height=16px width="auto" /> [Altan Compound](https://ceterai.github.io/MyEnternia/Wiki/AltanCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height=16px width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)

@@ -7,7 +7,7 @@ These are rarely used by security outposts, mainly as slime traps and formal sec
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A security spike. These can sting quite a bit, better to not touch them when they're active.
 - Apex: Electric traps. I'd better not touch.

@@ -6,7 +6,7 @@ An advanced reinforced [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An EDS lamp. Bright yellow light on a tall post can be seen from afar. Helpful.
 - Apex: Tall and thin, provides high area of visibility.

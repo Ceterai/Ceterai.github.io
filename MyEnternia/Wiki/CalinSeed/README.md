@@ -41,7 +41,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Wild Calin Seed icon" loading="lazy" height=16px width="auto" /> [Wild Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/WildCalinSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Calin Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCalinSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/eco/icon.png" alt="Eco Calin Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Calin Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCalinSapling)

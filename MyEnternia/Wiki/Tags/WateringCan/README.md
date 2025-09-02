@@ -8,7 +8,7 @@ The tag `watering_can-tag` contains 6 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/bucket/icon.png" alt="Alta Bucket icon" loading="lazy" height=16px width="auto" /> [Alta Bucket](https://ceterai.github.io/MyEnternia/Wiki/AltaBucket)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/watering_can/icon.png" alt="Alta Watering Can icon" loading="lazy" height=16px width="auto" /> [Alta Watering Can](https://ceterai.github.io/MyEnternia/Wiki/AltaWateringCan)

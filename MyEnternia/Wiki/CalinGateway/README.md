@@ -6,7 +6,7 @@ The massive calin inside is used both as a protection layer and as an energy sou
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: The main reason entertainment places use gates like these is to ensure safety and autonomy in case of emergencies.
 - Apex: This door has a crystal mounted inside of it.

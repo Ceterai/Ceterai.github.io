@@ -6,7 +6,7 @@ This natural metallic formation can be used in crafting to get the <img src="htt
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I can use this phospholion formation at a crafting station to extract all of its phospholion.
 - Apex: A deposit of some sort of metallic material.
@@ -29,7 +29,7 @@ Used to craft:
 
 Found naturally in containers:
 
-- `miningchest`
+- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height=12px width=18px /> [Mining Chest](https://starbounder.org/Mining_Chest)
 
 Can be obtained from special items:
 

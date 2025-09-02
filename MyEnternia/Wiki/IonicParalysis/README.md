@@ -1,6 +1,6 @@
 # Ionic Paralysis
 
-Stuns you for 2.75 seconds. Adds ^#2080f0;EMI Jam^reset; if you don't have ^#7733aa;Electric Immunity^reset;.
+Stuns you for 2.75 seconds. Adds [EMI Jam](https://ceterai.github.io/MyEnternia/Wiki/EMIJam) if you don't have [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).
 
 ## Parameters
 
@@ -10,7 +10,7 @@ Stuns you for 2.75 seconds. Adds ^#2080f0;EMI Jam^reset; if you don't have ^#773
 
 - Animation: 
 
-  - Particles: `sparks`, `ember`  - Lights: `min`- Emi: `True`- Mini Immunity: `electricStatusImmunity`- Vulnerability: `hevikai`
+  - Particles: `sparks`, `ember`  - Lights: `min`- Emi: `True`- Mini Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" height=16px width=16px /> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)- Vulnerability: `hevikai`
 
 ## Technical Information
 

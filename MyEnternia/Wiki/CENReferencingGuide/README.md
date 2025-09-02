@@ -21,7 +21,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height=16px width="auto" /> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
 
-<details><summary>Used to craft: (Expand 10 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height=16px width="auto" /> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height=16px width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
@@ -38,7 +38,7 @@ Unlocks blueprints for:
 
 ## Sources
 
-<details><summary>Found naturally in containers: (Expand 6 items)</summary>
+<details markdown="1"><summary>Found naturally in containers: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height=16px width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height=16px width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
@@ -54,7 +54,7 @@ Can be bought from merchants:
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
-<details><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)
@@ -92,7 +92,7 @@ Can be bought from merchants:
 
 </details>
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

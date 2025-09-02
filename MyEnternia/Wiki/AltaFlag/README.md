@@ -7,7 +7,7 @@ Most basic alta furniture is designed to be simple, lightweight, and, most impor
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I can use this flag's locator module as a teleportation waypoint.
 - Apex: An Alta flag. I can use this as a waypoint for teleportation.

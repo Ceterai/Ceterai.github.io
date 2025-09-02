@@ -6,7 +6,7 @@ Used to craft basic alta armor and upgrade to a beacon.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This station allows to upgrade equipment using gheatsyn shards.
 - Apex: A workbench, presumably for general works with titanium and crystal matters.

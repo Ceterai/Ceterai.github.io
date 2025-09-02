@@ -20,7 +20,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" height=16px width="auto" /> [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics)
 
-<details><summary>Used to craft: (Expand 35 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 35 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/pod/icon.png" alt="Alternia Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Alternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/boosted/icon.png" alt="Boosted Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedAyaSapling)

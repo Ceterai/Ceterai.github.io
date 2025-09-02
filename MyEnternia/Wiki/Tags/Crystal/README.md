@@ -4,7 +4,7 @@ The tag `crystal-tag` contains 98 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 65 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 65 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" height=16px width="auto" /> [Alternia Crystal](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/bed/icon.png" alt="Bishyn Bed icon" loading="lazy" height=16px width="auto" /> [Bishyn Bed](https://ceterai.github.io/MyEnternia/Wiki/BishynBed)
@@ -82,7 +82,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" height=16px width="auto" /> [Multi-Tool](https://ceterai.github.io/MyEnternia/Wiki/Multi-Tool)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" height=16px width="auto" /> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool)

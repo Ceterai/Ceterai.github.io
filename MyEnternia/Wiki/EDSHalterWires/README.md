@@ -7,7 +7,7 @@ These were created to trap small creatures in place, as well as rogue or hostile
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Some electrified halter wires.
 - Apex: Wires from an alta 'halter'. It's electrified, better be careful.

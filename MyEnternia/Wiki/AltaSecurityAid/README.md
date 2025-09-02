@@ -6,7 +6,7 @@ An emergency aid station that dispences various medicine. Needs time to recharge
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A first aid stand! I can get some medicine here, if it's recharged.
 - Apex: Tastes like a tomato with spices.

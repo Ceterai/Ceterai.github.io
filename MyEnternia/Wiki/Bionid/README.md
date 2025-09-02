@@ -18,7 +18,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 13 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 13 items)</summary>
 
 - `ct_aid_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height=16px width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
@@ -40,8 +40,8 @@ Species descriptions:
 
 Found naturally in containers:
 
-- `techchest`
-- `techchest2`
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Given as rent by tenants:
 

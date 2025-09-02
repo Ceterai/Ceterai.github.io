@@ -6,7 +6,7 @@ A locker with crystal sliding doors.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Since the bishyn decor is popular among some alta factions, they often use the style for secure storage spaces.
 - Apex: A metal locker with crystal doors.

@@ -14,16 +14,12 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 30
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" height=16px width="auto" /> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals)- Duration: 300, 
 
 - Effect: `maxhealthboost20`- Duration: 300
-
-Other variants:
-
-- `ct_heecho_punch-alien-extra`
 
 ## Crafting
 

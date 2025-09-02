@@ -2,7 +2,7 @@
 
 Adds 10% electric resistance and 2 defense.
 
-<details><summary>Applied by following items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" height=16px width="auto" /> [EDS Armored Greaves](https://ceterai.github.io/MyEnternia/Wiki/EDSArmoredGreaves)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="Thermoleggings ★ icon" loading="lazy" height=16px width="auto" /> [Thermoleggings ★](https://ceterai.github.io/MyEnternia/Wiki/Thermoleggings)

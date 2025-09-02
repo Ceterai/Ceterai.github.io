@@ -14,7 +14,7 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- `crystalplantseed`
+- <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" height=14px width=15px /> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed)
 
 ## Technical Information
 

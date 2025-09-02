@@ -7,7 +7,7 @@ Often found at security check points, as well as most general secured places in 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Just a security camera. I can wave to say hi to the varda watching me, and to wish her a nice day!
 - Apex: A surveillance camera. Better not do anything stupid.

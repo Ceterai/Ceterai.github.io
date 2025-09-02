@@ -7,7 +7,7 @@ These pots can often be found in most alta households, although they are also us
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: It's time to cook something amazing!
 - Apex: A little metal pot.

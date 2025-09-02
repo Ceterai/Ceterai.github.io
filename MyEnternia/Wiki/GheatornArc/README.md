@@ -6,7 +6,7 @@ A green glowing rock formation in a shape of an arc. It's a result of a slow [gh
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: When rocks form gheatsyn on the inside, it continues growing slowly forcing the rock to burst or expand, resulting in gheatorn.
 - Apex: A stone that chimes when I get close to it.

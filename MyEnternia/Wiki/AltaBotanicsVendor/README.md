@@ -7,7 +7,7 @@ These can often be found in specialized stores and complexes.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This vendor has tillers and other botanical tools for sale!
 - Apex: This vending machine sells foraging equipment.

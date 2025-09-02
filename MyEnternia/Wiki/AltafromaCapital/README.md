@@ -11,6 +11,6 @@ Regular alta dressed up in casual attire in alta capital-themed colors.
 ## Technical Information
 
 - In-game ID: `ct_alta_capital_tenant`
-- NPC type: ct_alta
-- Priority: 4
+- NPC type: `ct_alta`
+- Priority: `4`
 - File: [`/tenants/alta/capital.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/capital.tenant)

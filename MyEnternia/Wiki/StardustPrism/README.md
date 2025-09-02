@@ -6,7 +6,7 @@ This prism is packed with uncrystallized <img src="https://raw.githubusercontent
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: That large prism in the middle contains pure stardust. I can just break it to get it.
 - Apex: Light is refracted as it passes through this prism.

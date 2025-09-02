@@ -14,14 +14,10 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 45
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height=16px width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage)- Duration: 255
-
-Other variants:
-
-- `ct_aya_gil_pie-runeva-runeva`
 
 ## Crafting
 

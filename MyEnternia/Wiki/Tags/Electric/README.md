@@ -4,7 +4,7 @@ The tag `electric-tag` contains 117 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/barrier/icon.png" alt="Alta Lab Barrier icon" loading="lazy" height=16px width="auto" /> [Alta Lab Barrier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBarrier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/barrier/icon.png" alt="Alta Security Barrier icon" loading="lazy" height=16px width="auto" /> [Alta Security Barrier](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityBarrier)
@@ -31,7 +31,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 102 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 102 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" height=16px width="auto" /> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)

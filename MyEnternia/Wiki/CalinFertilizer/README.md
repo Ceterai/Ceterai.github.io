@@ -12,7 +12,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height=16px width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/sapling/icon.png" alt="Alternia Sapling icon" loading="lazy" height=16px width="auto" /> [Alternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSapling)
@@ -27,7 +27,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height=16px width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details><summary>Used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/sapling/icon.png" alt="Alternia Sapling icon" loading="lazy" height=16px width="auto" /> [Alternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Calin Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CalinEcoPod)

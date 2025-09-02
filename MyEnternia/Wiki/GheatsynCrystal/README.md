@@ -6,7 +6,7 @@ A smashable [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A refined gheatsyn crystal. They can be used in a variety of fields, from cooking to crafting, popular for its unique specs.
 - Apex: I must smash this crystal!
@@ -25,7 +25,7 @@ This object **doesn't drop itself** when broken.
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 30 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 30 items)</summary>
 
 - `ct_alta_crafting_station8`
 - `ct_alta_emergency_bench2`

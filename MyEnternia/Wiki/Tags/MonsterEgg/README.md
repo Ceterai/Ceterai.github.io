@@ -8,7 +8,7 @@ The tag `monster_egg-tag` contains 83 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 83 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 83 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_jelly_egg.png" alt="Alta Jelly Egg icon" loading="lazy" height=16px width="auto" /> [Alta Jelly Egg](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_scab_egg.png" alt="Alta Scab Egg icon" loading="lazy" height=16px width="auto" /> [Alta Scab Egg](https://ceterai.github.io/MyEnternia/Wiki/AltaScabEgg)

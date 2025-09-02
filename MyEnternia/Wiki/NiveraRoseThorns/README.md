@@ -7,7 +7,7 @@ These [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), thorny <i
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A premature nivera bush. You can tell that by the color of the vines. Still very dangerous.
 - Apex: Sharp. I'd better avoid them.

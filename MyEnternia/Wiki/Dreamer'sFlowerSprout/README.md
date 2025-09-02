@@ -36,7 +36,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Wild Dreamer's Flower Sprout icon" loading="lazy" height=16px width="auto" /> [Wild Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildDreamer'sFlowerSprout)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/boosted/icon.png" alt="Boosted Dreamer Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Dreamer Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedDreamerSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)

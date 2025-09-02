@@ -8,7 +8,7 @@ The tag `blaster-tag` contains 15 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 15 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 15 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" height=16px width="auto" /> [Alta Flare Blaster](https://ceterai.github.io/MyEnternia/Wiki/AltaFlareBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_grass_blaster.png" alt="Alta Grass Blaster ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Grass Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaGrassBlaster)

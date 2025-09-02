@@ -11,6 +11,6 @@ This alta is a part of the MiniKnog Infiltration project. While the uniform is n
 ## Technical Information
 
 - In-game ID: `ct_mki_infiltrator_tenant`
-- NPC type: ct_mki_infiltrator
-- Priority: 14
+- NPC type: `ct_mki_infiltrator`
+- Priority: `14`
 - File: [`/tenants/alta/themed/miniknog/infiltrator.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/miniknog/infiltrator.tenant)

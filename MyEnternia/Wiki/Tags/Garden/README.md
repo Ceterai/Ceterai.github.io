@@ -4,7 +4,7 @@ The tag `garden-tag` contains 67 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 64 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 64 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/bench/icon.png" alt="Alta Bench icon" loading="lazy" height=16px width="auto" /> [Alta Bench](https://ceterai.github.io/MyEnternia/Wiki/AltaBench)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)

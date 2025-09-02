@@ -1,8 +1,8 @@
 # Autoanalyzer
 
-Analyzes enemies around you, applying ^#2080f0;Analyzed^reset; to them.
+Analyzes enemies around you, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_analyzed.png" alt="Analyzed icon" loading="lazy" height=16px width="auto" /> [Analyzed](https://ceterai.github.io/MyEnternia/Wiki/Analyzed) to them.
 
-<details><summary>Applied by following items: (Expand 11 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/pilot_helmet/icon.png" alt="Pilot Helmet icon" loading="lazy" height=16px width="auto" /> [Pilot Helmet](https://ceterai.github.io/MyEnternia/Wiki/PilotHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/science_ocular/icon.png" alt="Scientific Visor icon" loading="lazy" height=16px width="auto" /> [Scientific Visor](https://ceterai.github.io/MyEnternia/Wiki/ScientificVisor)

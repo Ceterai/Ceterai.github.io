@@ -11,6 +11,6 @@ An alta working with papers. While the uniform is not native to altas, she wears
 ## Technical Information
 
 - In-game ID: `ct_alta_office_tenant`
-- NPC type: ct_alta_office
-- Priority: 14
+- NPC type: `ct_alta_office`
+- Priority: `14`
 - File: [`/tenants/alta/themed/human/office.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/human/office.tenant)

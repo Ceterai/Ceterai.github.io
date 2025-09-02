@@ -6,7 +6,7 @@ A plain [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) hori
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A very useful hatch that uses unique gheatsyn abilities as a locking mechanism.
 - Apex: A green hatch.

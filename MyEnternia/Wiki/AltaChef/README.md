@@ -11,6 +11,6 @@ A professional alta chef. Can cook pretty much anything.
 ## Technical Information
 
 - In-game ID: `ct_alta_chef_tenant`
-- NPC type: ct_alta_chef
-- Priority: 4
+- NPC type: `ct_alta_chef`
+- Priority: `4`
 - File: [`/tenants/alta/merchants/chef.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/chef.tenant)

@@ -41,7 +41,7 @@ Can be bought from merchants:
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
 
-<details><summary>Can be obtained from special items: (Expand 9 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

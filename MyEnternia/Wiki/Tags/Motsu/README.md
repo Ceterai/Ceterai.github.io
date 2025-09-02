@@ -8,7 +8,7 @@ The tag `motsu-tag` contains 10 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 10 items)</summary>
 
 - `ct_food_mimic-blue_blend_motsu`
 - `ct_food_mimic-motsu_original`

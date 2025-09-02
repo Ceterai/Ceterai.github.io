@@ -6,7 +6,7 @@ A simple titanium 1x5 hatch. **Can be placed both vertically and horizontally.**
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A slim any-dimensional city gateway. Quite sturdy.
 - Apex: Hatch designs like this are common on ships.

@@ -4,7 +4,7 @@ The tag `alta_ship-tag` contains 35 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 25 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 25 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Alta Ship S.A.I.L icon" loading="lazy" height=16px width="auto" /> [Alta Ship S.A.I.L](https://ceterai.github.io/MyEnternia/Wiki/AltaShipS.A.I.L)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Broken Alta Ship S.A.I.L icon" loading="lazy" height=16px width="auto" /> [Broken Alta Ship S.A.I.L](https://ceterai.github.io/MyEnternia/Wiki/BrokenAltaShipS.A.I.L)
@@ -44,7 +44,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/oxygen_mask/icon.png" alt="Oxygen Mask icon" loading="lazy" height=16px width="auto" /> [Oxygen Mask](https://ceterai.github.io/MyEnternia/Wiki/OxygenMask)

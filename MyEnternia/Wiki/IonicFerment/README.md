@@ -25,10 +25,10 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height=16px width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" height=16px width="auto" /> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube)
 
-<details><summary>Used to craft: (Expand 64 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 64 items)</summary>
 
 - `alienfruitjam`
-- `alienwoodsap`
+- <img src="https://starbounder.org/mediawiki/images/9/95/Alien_Wood_Sap.png" alt="Alien Wood Sap icon" loading="lazy" height=14px width=10px /> [Alien Wood Sap](https://starbounder.org/Alien_Wood_Sap)
 - `beakseedjam`
 - `ct_aid_mimic`
 - `ct_alta_crafting_station2`
@@ -78,17 +78,17 @@ Unlocks blueprints for:
 - `floweryhead`
 - `flowerylegs`
 - `kiwijam`
-- `money`
-- `moondust`
-- `moonrock`
-- `moonstone`
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" height=16px width=12px /> [Pixel](https://starbounder.org/Pixel)
+- <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" height=10px width=10px /> [Moondust](https://starbounder.org/Moondust)
+- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" height=10px width=10px /> [Moonrock](https://starbounder.org/Moonrock)
+- <img src="https://starbounder.org/mediawiki/images/b/b6/Moonstone.png" alt="Moonstone icon" loading="lazy" height=10px width=10px /> [Moonstone](https://starbounder.org/Moonstone)
 - `neonmelonjam`
 - `pearlpeajam`
 - `pineapplejam`
-- `purpledye`
+- <img src="https://starbounder.org/mediawiki/images/9/99/Purple_Dye.png" alt="Purple Dye icon" loading="lazy" height=12px width=8px /> [Purple Dye](https://starbounder.org/Purple_Dye)
 - `pussplumjam`
-- `silk`
-- `silkfibre`
+- <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" height=14px width=14px /> [Silk](https://starbounder.org/Silk)
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" height=14px width=15px /> [Silk Fibre](https://starbounder.org/Silk_Fibre)
 - `toxictopjam`
 - `wartweedjam`
 
@@ -98,7 +98,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `alienchest`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height=16px width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
 Can be obtained from special items:
@@ -106,7 +106,7 @@ Can be obtained from special items:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" height=16px width="auto" /> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
 
-<details><summary>Drops from big plants: (Expand 13 items)</summary>
+<details markdown="1"><summary>Drops from big plants: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height=16px width="auto" /> [Blossoming Ayaka](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka)
@@ -132,7 +132,7 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling2/icon.png" alt="Dripping Ayaka Sap Blob icon" loading="lazy" height=16px width="auto" /> [Dripping Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/DrippingAyakaSapBlob)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling3/icon.png" alt="Hanging Ayaka Sap Blob icon" loading="lazy" height=16px width="auto" /> [Hanging Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/HangingAyakaSapBlob)
 
-<details><summary>Can be harvested from: (Expand 125 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 125 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)

@@ -4,7 +4,7 @@ The tag `farming-tag` contains 210 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 200 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 200 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/compact/icon.png" alt="Alta Compa-Sprinkler ★ icon" loading="lazy" height=16px width="auto" /> [Alta Compa-Sprinkler ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCompa-Sprinkler)
@@ -218,7 +218,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height=16px width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height=16px width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)

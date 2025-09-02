@@ -7,7 +7,7 @@ It takes quite some time for a bishyn crystal to grow to its regular size margin
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Bishyn crystals are poisonous. Better be careful.
 - Apex: Crystals are quite beautiful.

@@ -11,6 +11,6 @@ An alta security unit protecting according field researchers and other A.R.C.O. 
 ## Technical Information
 
 - In-game ID: `ct_arco_security_tenant`
-- NPC type: ct_arco_security
-- Priority: 7
+- NPC type: `ct_arco_security`
+- Priority: `7`
 - File: [`/tenants/alta/guards/tier5/arco.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier5/arco.tenant)

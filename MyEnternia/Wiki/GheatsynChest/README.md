@@ -6,7 +6,7 @@ A simple dark [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This blast resistant storage unit uses crystals as a lock mechanism. Electrifiyng gheatsyn forces it to liquify, unlocking it.
 - Apex: A gheatsyn chest.

@@ -13,7 +13,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 29 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 29 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" height=16px width="auto" /> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_alta_testing_ball.png" alt="Gyrocore icon" loading="lazy" height=16px width="auto" /> [Gyrocore](https://ceterai.github.io/MyEnternia/Wiki/Gyrocore)

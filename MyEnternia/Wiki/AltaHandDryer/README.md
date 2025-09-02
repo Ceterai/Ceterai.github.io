@@ -7,7 +7,7 @@ Made put of titanium, it sits firmly on the wall.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I would need to moisturize my hands first with something.
 - Apex: A hand dryer. I wonder if it works on dense Apex hair.

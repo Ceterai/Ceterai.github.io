@@ -7,7 +7,7 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This pod looks like it's used by some elite alta forces, like mothership guards or even capital security.
 - Apex: A pod chest. What's inside?

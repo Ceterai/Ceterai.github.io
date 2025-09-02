@@ -6,7 +6,7 @@ A clubdecks for a party.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Not surprizing to see a club deck made in the calin style, keeping a crystal decor theme.
 - Apex: Not my music style, but it's not bad.

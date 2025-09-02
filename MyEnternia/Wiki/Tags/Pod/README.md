@@ -4,7 +4,7 @@ The tag `pod-tag` contains 13 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Citadel Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CitadelPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height=16px width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)

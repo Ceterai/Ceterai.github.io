@@ -4,7 +4,7 @@ The tag `bishyn-tag` contains 28 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 17 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 17 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png" alt="Alta Constructor icon" loading="lazy" height=16px width="auto" /> [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/bed/icon.png" alt="Bishyn Bed icon" loading="lazy" height=16px width="auto" /> [Bishyn Bed](https://ceterai.github.io/MyEnternia/Wiki/BishynBed)
@@ -30,7 +30,7 @@ The tag `bishyn-tag` contains 28 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 11 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Unika Offices Initiative icon" loading="lazy" height=16px width="auto" /> [Unika Offices Initiative](https://ceterai.github.io/MyEnternia/Wiki/UnikaOfficesInitiative)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_bishyn_augment.png" alt="Bishyn Augment ★ icon" loading="lazy" height=16px width="auto" /> [Bishyn Augment ★](https://ceterai.github.io/MyEnternia/Wiki/BishynAugment)

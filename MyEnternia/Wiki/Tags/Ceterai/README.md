@@ -4,7 +4,7 @@ The tag `ceterai-tag` contains 27 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" height=16px width="auto" /> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/backdoor/icon.png" alt="Unknown Device icon" loading="lazy" height=16px width="auto" /> [Unknown Device](https://ceterai.github.io/MyEnternia/Wiki/UnknownDevice)
@@ -25,7 +25,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 18 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="C.T. Researcher Coat icon" loading="lazy" height=16px width="auto" /> [C.T. Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/C.T.ResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="C.T. Researcher Skirt icon" loading="lazy" height=16px width="auto" /> [C.T. Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/C.T.ResearcherSkirt)

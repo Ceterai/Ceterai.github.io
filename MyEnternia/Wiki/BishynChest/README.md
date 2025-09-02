@@ -6,7 +6,7 @@ A scary looking crystal chest.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Probably the most compact peace of bishyn furniture. Holds quite a lot for its size aswell.
 - Apex: Yeah, a poisonous chest... Really?

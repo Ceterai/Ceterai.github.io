@@ -4,7 +4,7 @@ The tag `gil-tag` contains 19 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 9 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/gil/icon.png" alt="Potted Gil icon" loading="lazy" height=16px width="auto" /> [Potted Gil](https://ceterai.github.io/MyEnternia/Wiki/PottedGil)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/boosted/icon.png" alt="Boosted Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGilSapling)
@@ -22,7 +22,7 @@ The tag `gil-tag` contains 19 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" height=16px width="auto" /> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Ciranga Pie ★ icon" loading="lazy" height=16px width="auto" /> [Ciranga Pie ★](https://ceterai.github.io/MyEnternia/Wiki/CirangaPie)

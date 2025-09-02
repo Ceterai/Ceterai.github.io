@@ -6,7 +6,7 @@ A glowing orb. It looks like there's room to store things inside.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Yaara orbs are hollow on the inside, and if found in the wild you might just find something inside.
 - Apex: This round plant emits a blueish glow. I think I can see something inside.

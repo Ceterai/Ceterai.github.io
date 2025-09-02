@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 10 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/security.png" alt="Security Android icon" loading="lazy" height=16px width="auto" /> [Security Android](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_head/icon.png" alt="Security Droid Head ★ icon" loading="lazy" height=16px width="auto" /> [Security Droid Head ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidHead)

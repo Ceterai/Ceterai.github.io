@@ -2,7 +2,7 @@
 
 Creates a strong beam of blue light in front of you as well as slightly lights up the area.
 
-<details><summary>Applied by following items: (Expand 10 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/energy_mask/icon.png" alt="Energy Mask icon" loading="lazy" height=16px width="auto" /> [Energy Mask](https://ceterai.github.io/MyEnternia/Wiki/EnergyMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/science_pack/icon.png" alt="Scientific Backpack icon" loading="lazy" height=16px width="auto" /> [Scientific Backpack](https://ceterai.github.io/MyEnternia/Wiki/ScientificBackpack)

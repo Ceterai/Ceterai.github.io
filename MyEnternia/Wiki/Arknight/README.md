@@ -11,6 +11,6 @@ An order keeper from the sky above, ready to assist any alta in trouble.
 ## Technical Information
 
 - In-game ID: `ct_arknight_tenant`
-- NPC type: ct_arknight
-- Priority: 7
+- NPC type: `ct_arknight`
+- Priority: `7`
 - File: [`/tenants/alta/guards/tier5/arknight.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier5/arknight.tenant)

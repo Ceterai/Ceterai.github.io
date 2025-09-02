@@ -12,7 +12,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 11 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bow/icon.png" alt="Alta Bow icon" loading="lazy" height=16px width="auto" /> [Alta Bow](https://ceterai.github.io/MyEnternia/Wiki/AltaBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/blaster/icon.png" alt="Bubble Blaster icon" loading="lazy" height=16px width="auto" /> [Bubble Blaster](https://ceterai.github.io/MyEnternia/Wiki/BubbleBlaster)

@@ -6,7 +6,7 @@ These bulb-like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/mai
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This ecochamber is meant to produce a bulbous yaara node full of yaara eyes. Nice.
 - Apex: I can plant this to grow a tree.

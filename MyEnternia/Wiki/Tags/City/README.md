@@ -4,7 +4,7 @@ The tag `city-tag` contains 47 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/bench/icon.png" alt="Alta Bench icon" loading="lazy" height=16px width="auto" /> [Alta Bench](https://ceterai.github.io/MyEnternia/Wiki/AltaBench)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
@@ -51,7 +51,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" height=16px width="auto" /> [Alta Cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)

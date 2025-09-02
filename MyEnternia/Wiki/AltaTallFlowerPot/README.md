@@ -7,7 +7,7 @@ Can be used for capturing plant critters for collection and to have them as pets
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An empty flower pot... Or is something just hiding somewhere inside?~
 - Apex: A decent aquarium.
@@ -34,7 +34,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/alta/icon.png" alt="Alta Flower Pot icon" loading="lazy" height=16px width="auto" /> [Alta Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerPot)
 
-<details><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height=16px width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" height=16px width="auto" /> [Potted Alto Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedAltoKoywaFlower)

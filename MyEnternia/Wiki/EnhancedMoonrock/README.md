@@ -6,7 +6,7 @@ This moonrock formation seems suspicious.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A bunch of moonrock filled with enternia dream gas.
 - Apex: A fascinating rock formation! Seems like a great place to rest nearby...

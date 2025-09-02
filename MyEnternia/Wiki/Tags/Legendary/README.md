@@ -4,7 +4,7 @@ The tag `legendary-tag` contains 593 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 183 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 183 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/aquarium/icon.png" alt="Alta Aquarium icon" loading="lazy" height=16px width="auto" /> [Alta Aquarium](https://ceterai.github.io/MyEnternia/Wiki/AltaAquarium)
@@ -202,7 +202,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 407 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 407 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" height=16px width="auto" /> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" height=16px width="auto" /> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)

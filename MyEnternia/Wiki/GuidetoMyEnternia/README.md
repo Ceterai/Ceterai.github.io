@@ -23,7 +23,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" height=16px width="auto" /> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia)
 
-<details><summary>Used to craft: (Expand 36 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 36 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" height=16px width="auto" /> [Alta Capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Citadels ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels)

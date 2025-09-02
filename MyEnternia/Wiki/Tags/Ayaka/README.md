@@ -4,7 +4,7 @@ The tag `ayaka-tag` contains 72 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" height=16px width="auto" /> [Potted Blossom Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedBlossomPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/aya/icon.png" alt="Potted Aya icon" loading="lazy" height=16px width="auto" /> [Potted Aya](https://ceterai.github.io/MyEnternia/Wiki/PottedAya)
@@ -45,7 +45,7 @@ The tag `ayaka-tag` contains 72 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 40 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 40 items)</summary>
 
 - `ct_aid_mimic-bandade`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)

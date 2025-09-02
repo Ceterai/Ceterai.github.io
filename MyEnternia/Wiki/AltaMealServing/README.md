@@ -6,7 +6,7 @@ A simple serving of an alta meal. Can be picked up right away to take a closer l
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Oa-a, a meal! I wonder which one it is~
 - Apex: A likely sweet meal in a bowl. Should I take it?

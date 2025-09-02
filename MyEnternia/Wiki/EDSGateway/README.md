@@ -6,7 +6,7 @@ A reinforced vertical hatch with dark red lines all over it. A powerful blast do
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A reinforced gateway constructed by EDS.
 - Apex: This door is solid and airtight.

@@ -6,7 +6,7 @@ This moonrock formation contains some sort of material.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A deposit of phospholion untouched by radiation. Better mine it now before it can turn into a phosphobulb.
 - Apex: A deposit of some sort of metallic material.

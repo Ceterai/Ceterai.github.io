@@ -7,7 +7,7 @@ Often found in alta bakeries as part of the kitchen assortment, adding many deli
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An oven! For pizza! I'll take one with stuffed crust please.
 - Apex: A regular oven, the inside seems like it is meant for baking pizza.

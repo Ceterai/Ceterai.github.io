@@ -8,7 +8,7 @@ The tag `pistol-tag` contains 12 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" height=16px width="auto" /> [Alta Flare Blaster](https://ceterai.github.io/MyEnternia/Wiki/AltaFlareBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="Scout Emergencer icon" loading="lazy" height=16px width="auto" /> [Scout Emergencer](https://ceterai.github.io/MyEnternia/Wiki/ScoutEmergencer)

@@ -23,7 +23,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/sapling/icon.png" alt="Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/GheatsynSapling)
 
-<details><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/icon.png" alt="Alternia Seed icon" loading="lazy" height=16px width="auto" /> [Alternia Seed](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height=16px width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)

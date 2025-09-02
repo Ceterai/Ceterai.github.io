@@ -6,7 +6,7 @@ A compact button that activates for 0.4s when pressed. Very tiny.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A simple wall button. For when you need to activate things temporarily, or call an elevator.
 - Apex: A button. Its function is unknown. Only one way to find out.

@@ -7,7 +7,7 @@ These form naturally in highly crystallic environments and tend to grow in patch
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Bishyn crystals are poisonous. Better be careful.
 - Apex: Crystals are quite beautiful.

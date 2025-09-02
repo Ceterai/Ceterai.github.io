@@ -4,7 +4,7 @@ The tag `tonnova-tag` contains 11 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/boosted/icon.png" alt="Boosted Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTonnaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)

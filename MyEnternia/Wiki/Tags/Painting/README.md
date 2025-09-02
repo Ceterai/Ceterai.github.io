@@ -4,7 +4,7 @@ The tag `painting-tag` contains 12 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_abstract_art.png" alt="Enchanted Sunset icon" loading="lazy" height=16px width="auto" /> [Enchanted Sunset](https://ceterai.github.io/MyEnternia/Wiki/EnchantedSunset)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_art.png" alt="Alta Format icon" loading="lazy" height=16px width="auto" /> [Alta Format](https://ceterai.github.io/MyEnternia/Wiki/AltaFormat)

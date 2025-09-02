@@ -8,7 +8,7 @@ The tag `collar-tag` contains 6 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" height=16px width="auto" /> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_aric_collar.png" alt="Toxic Spores Collar ★★ icon" loading="lazy" height=16px width="auto" /> [Toxic Spores Collar ★★](https://ceterai.github.io/MyEnternia/Wiki/ToxicSporesCollar)

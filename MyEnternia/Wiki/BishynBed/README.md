@@ -6,7 +6,7 @@ A stunningly clean bed on a crystal base.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: In actuality refined bishyn is harmless, so sleeping on a bed like this one shouldn't cause any issues.
 - Apex: I refuse to sleep here. These crystals are poisonous.

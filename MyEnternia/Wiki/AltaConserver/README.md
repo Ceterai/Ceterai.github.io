@@ -7,7 +7,7 @@ A simplified version of an alta saturator, that focuses on thickening and fermen
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A conserver! I can thicken myself some jam in here!
 - Apex: This machine produces different condiments.

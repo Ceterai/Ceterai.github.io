@@ -7,7 +7,7 @@ This compact and simple model can act as a thermos if no cooling matter is provi
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A cooling thermos for that sweet iced tea goodness!
 - Apex: A cooler. Let's hope there's food inside.

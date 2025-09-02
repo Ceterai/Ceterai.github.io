@@ -11,6 +11,6 @@ This alta official is responsible for running an alta capital from its citadel. 
 ## Technical Information
 
 - In-game ID: `ct_alta_citadel_official_tenant`
-- NPC type: ct_alta_administrator
-- Priority: 10
+- NPC type: `ct_alta_administrator`
+- Priority: `10`
 - File: [`/tenants/alta/official/citadel.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/official/citadel.tenant)

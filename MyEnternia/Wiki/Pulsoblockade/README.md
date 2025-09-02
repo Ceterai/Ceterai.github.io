@@ -1,6 +1,6 @@
 # Pulsoblockade
 
-Adds 25% ^#7733aa;electric resistance^reset;, ^#7733aa;Electric Immunity^reset; and ^#20f080;Impulse Immunity^reset;.
+Adds 25% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity).
 
 Applied by following items:
 

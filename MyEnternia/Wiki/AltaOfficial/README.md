@@ -11,6 +11,6 @@ An alta official with various responsibilities in a small infrastructure.
 ## Technical Information
 
 - In-game ID: `ct_alta_official_tenant`
-- NPC type: ct_alta_official
-- Priority: 9
+- NPC type: `ct_alta_official`
+- Priority: `9`
 - File: [`/tenants/alta/official/official.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/official/official.tenant)

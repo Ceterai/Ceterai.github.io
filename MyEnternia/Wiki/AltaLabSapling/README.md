@@ -7,7 +7,7 @@ _Can be placed on moonstone. Can grow into tonnova trees, hive tentacles or aric
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A lab eco chamber for growing giant non-plants like aric shrooms and tonnovas.
 - Apex: I can plant this to grow a tree.
@@ -30,7 +30,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_hive_tree.png" alt="Ionic Hive Stalk icon" loading="lazy" height=16px width="auto" /> [Ionic Hive Stalk](https://ceterai.github.io/MyEnternia/Wiki/IonicHiveStalk)
 
-<details><summary>Used to craft: (Expand 16 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" height=16px width="auto" /> [Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb_spots.png" alt="Spotful Akollic Shroom icon" loading="lazy" height=16px width="auto" /> [Spotful Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/SpotfulAkollicShroom)
@@ -62,7 +62,7 @@ Can be bought from merchants:
 
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

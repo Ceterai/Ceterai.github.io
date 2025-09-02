@@ -6,7 +6,7 @@ These [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) "trees" are 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A yaara node will grow from this eco chamber. Wonderful!
 - Apex: I can plant this to grow a tree.

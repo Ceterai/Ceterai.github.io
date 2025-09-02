@@ -4,7 +4,7 @@ The tag `enterash-tag` contains 24 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 23 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 23 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/boosted/icon.png" alt="Boosted Azura Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Azura Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedAzuraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/eco/icon.png" alt="Eco Azura Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Azura Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoAzuraSapling)

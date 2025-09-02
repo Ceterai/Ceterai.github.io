@@ -7,7 +7,7 @@ This special drone dispatcher is merely a surface interface, connected to a dron
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This is a reinforced EDS drone dispencer. Should be very careful around it.
 - Apex: What's that moving inside...?

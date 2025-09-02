@@ -17,7 +17,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" height=16px width="auto" /> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" height=16px width="auto" /> [Gyera Blaster](https://ceterai.github.io/MyEnternia/Wiki/GyeraBlaster)

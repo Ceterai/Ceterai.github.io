@@ -6,7 +6,7 @@ A glowing hevika lamp on a reinforced stand. The crystal energy is enough to pro
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This powerful lamp produces light by creating a plasma sphere from pure energy. Neat.
 - Apex: This lamp was created in a very strange shape.

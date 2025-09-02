@@ -7,7 +7,7 @@ These mysterious yet beautiful flower crowns hold a lot of concentrated ceternia
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This is one of the hearts of the surrounding yaara. I can gather <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height=16px width="auto" /> [yaara roots](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" height=16px width="auto" /> [ceternia cores](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) from it.
 - Apex: A big flower with sharp vines around it. Better not to touch them.

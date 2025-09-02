@@ -6,7 +6,7 @@ Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A broken piece of acquired tech. Lets you talk to an AI assistant.
 - Apex: When it's working, I can talk to SAIL through this console.

@@ -11,6 +11,6 @@ This alta researcher is part of Neiteru, most likely Neiteru-1, focusing on high
 ## Technical Information
 
 - In-game ID: `ct_neiteru_archiver_tenant`
-- NPC type: ct_neiteru_archiver
-- Priority: 7
+- NPC type: `ct_neiteru_archiver`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/trade/neiteru.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/trade/neiteru.tenant)

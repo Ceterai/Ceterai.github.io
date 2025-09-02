@@ -22,7 +22,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" height=16px width="auto" /> [Faacain Sapling](https://ceterai.github.io/MyEnternia/Wiki/FaacainSapling)
 
-<details><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height=16px width="auto" /> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/boosted/icon.png" alt="Boosted Faacain Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Faacain Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedFaacainSapling)

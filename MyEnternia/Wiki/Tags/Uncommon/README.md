@@ -4,7 +4,7 @@ The tag `uncommon-tag` contains 679 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 272 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 272 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" height=16px width="auto" /> [Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb_spots.png" alt="Spotful Akollic Shroom icon" loading="lazy" height=16px width="auto" /> [Spotful Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/SpotfulAkollicShroom)
@@ -285,7 +285,7 @@ The tag `uncommon-tag` contains 679 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 407 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 407 items)</summary>
 
 - `ct_aid_mimic-bandade_bion`
 - `ct_aid_mimic-bandade_bion_2`

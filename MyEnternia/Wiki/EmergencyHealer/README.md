@@ -1,8 +1,8 @@
 # Emergency Healer
 
-Applies ^#2080f0;Emergency Heal^reset; to you when your health is lower than 20%.
+Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support.png" alt="Emergency Heal icon" loading="lazy" height=16px width="auto" /> [Emergency Heal](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHeal) to you when your health is lower than 20%.
 
-<details><summary>Applied by following items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" height=16px width="auto" /> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Combat Uniform icon" loading="lazy" height=16px width="auto" /> [Combat Uniform](https://ceterai.github.io/MyEnternia/Wiki/CombatUniform)

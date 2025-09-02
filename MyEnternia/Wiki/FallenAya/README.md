@@ -6,7 +6,7 @@ A fallen fruit from a nearby <img src="https://raw.githubusercontent.com/Ceterai
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Ayakas usually grow pretty tall, especially the fruitful ones, but usually ayas survive a fall that high.
 - Apex: A fruit. Not sure if I can eat it.
@@ -27,7 +27,7 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- `alienchest`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be obtained from special items:
 

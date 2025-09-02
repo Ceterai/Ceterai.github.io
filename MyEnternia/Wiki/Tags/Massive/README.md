@@ -4,7 +4,7 @@ The tag `massive-tag` contains 6 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pyramid/icon.png" alt="Alta Pyramid icon" loading="lazy" height=16px width="auto" /> [Alta Pyramid](https://ceterai.github.io/MyEnternia/Wiki/AltaPyramid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container_large/icon.png" alt="Alta Ship Container G3 icon" loading="lazy" height=16px width="auto" /> [Alta Ship Container G3](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainerG3)

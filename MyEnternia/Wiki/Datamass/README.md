@@ -20,7 +20,7 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 105 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 105 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_ai_chip.png" alt="Alta Basic A.I. Chip icon" loading="lazy" height=16px width="auto" /> [Alta Basic A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaBasicA.I.Chip)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height=16px width="auto" /> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
@@ -137,7 +137,7 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height=16px width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
 - `outpostshippingcontainer`
 
-<details><summary>Given as rent by tenants: (Expand 43 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 43 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
@@ -185,7 +185,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

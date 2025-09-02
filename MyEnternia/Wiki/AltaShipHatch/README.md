@@ -6,7 +6,7 @@ A hatch suitable for a spaceship.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A reinforced ship airtight gateway. Very sturdy.
 - Apex: Hatch designs like this are common on ships.

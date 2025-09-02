@@ -6,7 +6,7 @@ A nice, spacious, wall-mounted storage solution.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A storage option for alta ships.
 - Apex: A locker made from metal.

@@ -7,7 +7,7 @@ Those crystals grow naturally from the root endings, although this process is a 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: To some extent it's altas fault that these yaara roots are like this. Excessive alternia energy is to blame.
 - Apex: I don't really beleive in unicorns, but this bunch of thorns remind me of one.

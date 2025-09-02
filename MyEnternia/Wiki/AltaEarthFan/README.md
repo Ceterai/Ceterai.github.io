@@ -11,6 +11,6 @@ An alta in human clothes. Some might not spot the difference.
 ## Technical Information
 
 - In-game ID: `ct_alta_earth_tenant`
-- NPC type: ct_alta_earth
-- Priority: 14
+- NPC type: `ct_alta_earth`
+- Priority: `14`
 - File: [`/tenants/alta/themed/human/earth.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/human/earth.tenant)

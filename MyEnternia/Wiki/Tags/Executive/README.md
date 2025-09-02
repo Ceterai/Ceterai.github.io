@@ -6,7 +6,7 @@ The tag `executive-tag` contains 6 total entries.
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 6 items)</summary>
 
 - [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)

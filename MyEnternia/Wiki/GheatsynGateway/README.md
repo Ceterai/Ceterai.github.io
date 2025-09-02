@@ -6,7 +6,7 @@ An exceedingly firm [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gh
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This gateway has an emergency airtight mode, like most alta gateways do, except here it works by liquifying inner geatchyn panels
 - Apex: This gateway is way too secure.

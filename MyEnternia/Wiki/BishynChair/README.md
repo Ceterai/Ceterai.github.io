@@ -6,7 +6,7 @@ A short [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) chair. [
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: These sleek wide chairs are iconic to the space-hungry bishyn architecture style.
 - Apex: A short chair inlaid with poisonous crystal. I won't sit here.

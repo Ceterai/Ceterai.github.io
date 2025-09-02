@@ -8,7 +8,7 @@ The tag `upgradeableWeapon-tag` contains 161 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 161 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 161 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon.png" alt="Alta Flashlight icon" loading="lazy" height=16px width="auto" /> [Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/AltaFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon_upg.png" alt="Enhanced Flashlight ★ icon" loading="lazy" height=16px width="auto" /> [Enhanced Flashlight ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedFlashlight)

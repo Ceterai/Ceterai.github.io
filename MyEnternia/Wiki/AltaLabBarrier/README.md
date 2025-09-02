@@ -7,7 +7,7 @@ This simple, yet effective alta version of a tesla gate can consume quite a lot 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Technically you could pass through this barrier... but I wouldn't recommend.
 - Apex: This current forms a shield to keep things from passing through.

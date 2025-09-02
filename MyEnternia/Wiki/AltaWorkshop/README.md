@@ -7,7 +7,7 @@ While it acts a simple design bench, there are helping sections that are used to
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A general station for making other working stations.
 - Apex: A workbench, presumably for general works with titanium and crystal matters.

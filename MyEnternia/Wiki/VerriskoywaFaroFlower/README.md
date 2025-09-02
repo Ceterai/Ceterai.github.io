@@ -6,7 +6,7 @@ Tall, yellow reed flower.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 7 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 7 items)</summary>
 
 - Apex: Reeds.
 - Avian: Just reeds.
@@ -28,7 +28,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height=16px width="auto" /> [Potted Faro Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedFaroKoywaFlower)
 
-<details><summary>Used to craft: (Expand 12 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 12 items)</summary>
 
 - `browndye`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height=16px width="auto" /> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
@@ -49,7 +49,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `giantflowerchest`
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 

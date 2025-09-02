@@ -6,7 +6,7 @@ A decorative wall light made out of a crystal. Small sparks shine around it from
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Actually a very neat peace of technology - autonomous and safe, while comfortably bright!
 - Apex: This light fills the room with atmosphere of peace.

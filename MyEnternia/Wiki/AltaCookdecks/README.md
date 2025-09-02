@@ -7,7 +7,7 @@ The technology is quite complicated, and isn't very common among altas. However 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Time to cook some tasty goodness!
 - Apex: A cooking table.

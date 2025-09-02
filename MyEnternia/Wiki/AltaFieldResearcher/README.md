@@ -11,6 +11,6 @@ This alta researcher is performing her independent research in order to advance 
 ## Technical Information
 
 - In-game ID: `ct_alta_field_researcher_tenant`
-- NPC type: ct_alta_field_researcher
-- Priority: 7
+- NPC type: `ct_alta_field_researcher`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/field/alta.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/field/alta.tenant)

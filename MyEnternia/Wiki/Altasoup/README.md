@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 50
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxhealthscalingboostfood`- Duration: 270
@@ -25,7 +25,7 @@ Other variants:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height=16px width="auto" /> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" height=16px width="auto" /> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)

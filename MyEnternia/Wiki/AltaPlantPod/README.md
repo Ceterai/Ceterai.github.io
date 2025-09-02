@@ -7,7 +7,7 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Some nice koywa leaves to bring life to any space! The vase is a complicated device that keeps it alive.
 - Apex: This plant seems to grow from a special alta eco chamber. An expected level of care towards nature.
@@ -38,7 +38,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height=16px width="auto" /> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/coral/icon.png" alt="Potted Coral Plant icon" loading="lazy" height=16px width="auto" /> [Potted Coral Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedCoralPlant)
 
-<details><summary>Used to craft: (Expand 8 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" height=16px width="auto" /> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alien/icon.png" alt="Potted Alien Plant icon" loading="lazy" height=16px width="auto" /> [Potted Alien Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAlienPlant)

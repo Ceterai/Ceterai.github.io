@@ -6,7 +6,7 @@ A glowing calin lamp. The mix of lights and shadows reminds of water light refle
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A supercharged calin used as a lamp. These crystals do have broad usage after all.
 - Apex: A lamp made from a blue crystal.

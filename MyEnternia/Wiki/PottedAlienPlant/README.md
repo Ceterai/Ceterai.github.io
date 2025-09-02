@@ -6,7 +6,7 @@ A decorative plant in a big titanium vase.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Some nice alien flowers to bring life to any space! The vase is a complicated device that keeps it alive.
 - Apex: This plant seems to grow from a special alta eco pod. An expected level of care towards nature.

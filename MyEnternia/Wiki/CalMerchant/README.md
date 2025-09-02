@@ -11,6 +11,6 @@ This alta sells lots of crystals, crystalline and crystallic objects.
 ## Technical Information
 
 - In-game ID: `ct_calline_merchant_tenant`
-- NPC type: ct_calline_merchant
-- Priority: 7
+- NPC type: `ct_calline_merchant`
+- Priority: `7`
 - File: [`/tenants/alta/biome/calline.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/biome/calline.tenant)

@@ -4,7 +4,7 @@ The tag `sample-tag` contains 16 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/alternia/icon.png" alt="Alternia Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Alternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bion/icon.png" alt="Bion Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Bion Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/BionSample)

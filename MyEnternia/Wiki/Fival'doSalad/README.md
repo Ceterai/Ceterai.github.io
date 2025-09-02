@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 45
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `runboostfood`- Duration: 210, 
@@ -29,7 +29,7 @@ Other variants:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height=16px width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
@@ -56,7 +56,7 @@ Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 
-<details><summary>Given as rent by tenants: (Expand 10 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 10 items)</summary>
 
 - [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)

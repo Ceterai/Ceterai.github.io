@@ -7,7 +7,7 @@ Most basic alta furniture is designed to be simple, lightweight, and, most impor
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A simple, yet sturdy micro-table with minimal details. It's easy to clean and will last for a very long time.
 - Apex: A decent table.

@@ -11,6 +11,6 @@ A tier 1 alta robotic, android type. Performs general preset tasks.
 ## Technical Information
 
 - In-game ID: `ct_alta_android_tenant`
-- NPC type: ct_alta_android
-- Priority: 5
+- NPC type: `ct_alta_android`
+- Priority: `5`
 - File: [`/tenants/alta/androids/alta.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/androids/alta.tenant)

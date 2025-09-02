@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `energyregen`- Duration: 45
@@ -35,7 +35,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" height=16px width="auto" /> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" height=16px width="auto" /> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
 
-<details><summary>Used to craft: (Expand 13 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" height=16px width="auto" /> [Aya Candy](https://ceterai.github.io/MyEnternia/Wiki/AyaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
@@ -57,7 +57,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `slimehide`
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Can be bought from merchants:
 

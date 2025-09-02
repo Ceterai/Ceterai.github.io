@@ -33,7 +33,7 @@ Can be bought from merchants:
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 
-<details><summary>Can be harvested from: (Expand 9 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/boosted/icon.png" alt="Boosted Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedAyaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)

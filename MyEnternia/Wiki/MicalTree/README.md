@@ -7,7 +7,7 @@ This tree consists of a special type of wood often used in decorative furniture 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This eco pod contains a sapling of sofara.
 - Apex: I can plant this to grow a tree.
@@ -23,7 +23,7 @@ This tree consists of a special type of wood often used in decorative furniture 
 ## Parameters
 
 - Health: 7.5  
-- Stem/Stipe: `geode`
+- Stem/Stipe: <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Geode icon" loading="lazy" height=11px width=12px /> [Geode](https://starbounder.org/Geode)
 - Foliage/Cap: `geodefoliage`
 
 ## Crafting

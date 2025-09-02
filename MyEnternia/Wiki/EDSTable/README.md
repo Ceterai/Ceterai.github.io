@@ -6,7 +6,7 @@ A dark armored metal table with a red label on the back. It says '[EDS](https://
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An armored EDS table. Maximum protection - even for the simplest things, huh.
 - Apex: An armored table. Seems to be powered.

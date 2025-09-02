@@ -7,7 +7,7 @@ Those crystals grow naturally from the root endings, although this process is a 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: These yaara roots are overflowing with alternia, hense the blueish tint and ionized crystals.
 - Apex: Are those spikes... crystals? Never thought a plant could grow ones.

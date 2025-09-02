@@ -7,7 +7,7 @@ Those crystals grow naturally from the root endings, although this process is a 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: These protective measures are arguably good for yaara, especially with nearby warped forests.
 - Apex: Snaky sharp vines. They look deadly.

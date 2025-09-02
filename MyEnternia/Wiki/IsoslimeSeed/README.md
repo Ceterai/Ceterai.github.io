@@ -24,7 +24,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" height=16px width="auto" /> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 
-<details><summary>Used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" height=16px width="auto" /> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
@@ -42,7 +42,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" height=16px width="auto" /> [Wild Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIsoslimeSeed)
 
-<details><summary>Can be harvested from: (Expand 8 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)

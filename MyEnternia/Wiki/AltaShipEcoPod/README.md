@@ -7,7 +7,7 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A ship eco chamber for growing plants or crystal plants with highly specific conditions.
 - Apex: I can plant this to grow a tree.
@@ -36,7 +36,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" height=16px width="auto" /> [Alta Thermoponics ★★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics)
 
-<details><summary>Used to craft: (Expand 8 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)

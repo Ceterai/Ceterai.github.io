@@ -6,7 +6,7 @@ A glob of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/item
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A large isoslime deposit. Could contain a biosample or some fresh cryonic.
 - Apex: A putrid mound of slime. How am I meant to store this?

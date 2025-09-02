@@ -11,6 +11,6 @@ This alta is wearing an apex specialist uniform to infiltrate Miniknog. While th
 ## Technical Information
 
 - In-game ID: `ct_mki_specialist_tenant`
-- NPC type: ct_mki_specialist
-- Priority: 12
+- NPC type: `ct_mki_specialist`
+- Priority: `12`
 - File: [`/tenants/alta/themed/miniknog/specialist.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/miniknog/specialist.tenant)

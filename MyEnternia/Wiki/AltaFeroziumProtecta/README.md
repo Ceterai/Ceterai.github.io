@@ -11,6 +11,6 @@ An alta protecta in ferozium armor.
 ## Technical Information
 
 - In-game ID: `ct_alta_tier6_tenant`
-- NPC type: ct_alta_ferozium_girl
-- Priority: 9
+- NPC type: `ct_alta_ferozium_girl`
+- Priority: `9`
 - File: [`/tenants/alta/tiered/tier6.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/tiered/tier6.tenant)

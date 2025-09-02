@@ -6,7 +6,7 @@ A vile bubble of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/ma
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A giant isoslime blob. Things tend to get stuck in isoslime, resulting in pods like this one. I wonder what's inside.
 - Apex: A putrid mound of slime. How am I meant to store this?
@@ -29,7 +29,7 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- `slimehide`
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Can be obtained from special items:
 

@@ -11,6 +11,6 @@ A professional koywa dancer in a koywa skirt, likely performing a koywa dance.
 ## Technical Information
 
 - In-game ID: `ct_alta_koywa_tenant`
-- NPC type: ct_alta_koywa_dancer
-- Priority: 3
+- NPC type: `ct_alta_koywa_dancer`
+- Priority: `3`
 - File: [`/tenants/alta/themed/tropical/koywa.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/tropical/koywa.tenant)

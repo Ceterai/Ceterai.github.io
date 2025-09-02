@@ -11,6 +11,6 @@ This alta is a heavy fan of gaming and various types of entertainment.
 ## Technical Information
 
 - In-game ID: `ct_alta_gamer_tenant`
-- NPC type: ct_alta_gamer
-- Priority: 3
+- NPC type: `ct_alta_gamer`
+- Priority: `3`
 - File: [`/tenants/alta/gamer.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/gamer.tenant)

@@ -6,7 +6,7 @@ A flower that functions as a lamp. Like a sunflower, but not.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A natural yaara lamp flower. Yaara Keepers use it as natural light source.
 - Apex: This is a delightful idea for a lamp.

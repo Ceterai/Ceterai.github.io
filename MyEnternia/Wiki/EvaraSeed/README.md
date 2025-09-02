@@ -24,7 +24,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/sapling/icon.png" alt="Evara Sapling icon" loading="lazy" height=16px width="auto" /> [Evara Sapling](https://ceterai.github.io/MyEnternia/Wiki/EvaraSapling)
 
-<details><summary>Used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
 
 - `cottonseed`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height=16px width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
@@ -44,7 +44,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Wild Evara Seed icon" loading="lazy" height=16px width="auto" /> [Wild Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/WildEvaraSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/eco/icon.png" alt="Eco Evara Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Evara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoEvaraSapling)

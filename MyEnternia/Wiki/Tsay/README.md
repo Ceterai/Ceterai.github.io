@@ -19,7 +19,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" height=16px width="auto" /> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/sapling/icon.png" alt="Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/TsaySapling)
 
-<details><summary>Used to craft: (Expand 10 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png" alt="Runeva Ball icon" loading="lazy" height=16px width="auto" /> [Runeva Ball](https://ceterai.github.io/MyEnternia/Wiki/RunevaBall)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
@@ -30,7 +30,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" height=16px width="auto" /> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height=16px width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height=16px width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
-- `greendye`
+- <img src="https://starbounder.org/mediawiki/images/b/be/Green_Dye.png" alt="Green Dye icon" loading="lazy" height=12px width=8px /> [Green Dye](https://starbounder.org/Green_Dye)
 
 </details>
 
@@ -46,7 +46,7 @@ Can be obtained from special items:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Elin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ElinLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
-<details><summary>Can be harvested from: (Expand 10 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedJellySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/sapling/icon.png" alt="Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/JellySapling)

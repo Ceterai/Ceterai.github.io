@@ -6,7 +6,7 @@ A patch of tall grass. Be sure to check for critters!
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 7 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 7 items)</summary>
 
 - Apex: Tall grass. It rustles gently in the breeze.
 - Avian: Tall, feathery grass.

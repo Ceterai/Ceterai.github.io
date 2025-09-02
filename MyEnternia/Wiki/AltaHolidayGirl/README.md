@@ -11,6 +11,6 @@ An alta dressed up in human festive clothes. While the culture is not native to 
 ## Technical Information
 
 - In-game ID: `ct_alta_holiday_tenant`
-- NPC type: ct_alta_holiday_girl
-- Priority: 5
+- NPC type: `ct_alta_holiday_girl`
+- Priority: `5`
 - File: [`/tenants/alta/themed/holiday/holiday.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/holiday/holiday.tenant)

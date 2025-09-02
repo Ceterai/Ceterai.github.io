@@ -6,7 +6,7 @@ A smooth [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) hatch.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Unlike a gateway, this hatch uses lots of small bishyn crystals to act as way blockers.
 - Apex: Don't get distracted while coming through.

@@ -11,6 +11,6 @@ This alta is cosplaying as a titanium warrior. Probably.
 ## Technical Information
 
 - In-game ID: `ct_alta_tier3_tenant`
-- NPC type: ct_alta_titanium_girl
-- Priority: 9
+- NPC type: `ct_alta_titanium_girl`
+- Priority: `9`
 - File: [`/tenants/alta/tiered/tier3.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/tiered/tier3.tenant)

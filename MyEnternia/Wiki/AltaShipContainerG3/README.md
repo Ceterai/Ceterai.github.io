@@ -6,7 +6,7 @@ A shipping container. Probably doesn't contain a ship.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A shipping cargo container. Highly reinforced to withstand the harshest environments.
 - Apex: A large container.

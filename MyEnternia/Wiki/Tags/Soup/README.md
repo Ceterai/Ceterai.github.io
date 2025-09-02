@@ -8,7 +8,7 @@ The tag `soup-tag` contains 14 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" height=16px width="auto" /> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Perfect Altasoup ★ icon" loading="lazy" height=16px width="auto" /> [Perfect Altasoup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectAltasoup)

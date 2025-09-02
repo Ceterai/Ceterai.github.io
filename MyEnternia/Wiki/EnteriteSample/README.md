@@ -6,7 +6,7 @@ This moonrock formation seems pretty. Pretty suspicious.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A big enterite sample! This stuff can be dangerous in this quantity.
 - Apex: A fascinating rock formation! Seems like a great place to rest nearby...

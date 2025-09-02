@@ -11,6 +11,6 @@ This alta is a dreamer. Not that kind of dreamer - this one is a powerful indepe
 ## Technical Information
 
 - In-game ID: `ct_dreamer_tenant`
-- NPC type: ct_dreamer
-- Priority: 9
+- NPC type: `ct_dreamer`
+- Priority: `9`
 - File: [`/tenants/alta/guards/tier6/dreamer.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier6/dreamer.tenant)

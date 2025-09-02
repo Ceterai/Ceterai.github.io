@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 40
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height=16px width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage)- Duration: 255
@@ -45,7 +45,7 @@ Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 
-<details><summary>Given as rent by tenants: (Expand 10 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 10 items)</summary>
 
 - [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)

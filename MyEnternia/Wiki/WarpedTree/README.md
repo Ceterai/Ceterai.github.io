@@ -7,7 +7,7 @@ In nature, it's unknown whether this tree was ever "un-warped" or grew after are
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This eco pod contains a sapling of a warped tree.
 - Apex: I can plant this to grow a tree.

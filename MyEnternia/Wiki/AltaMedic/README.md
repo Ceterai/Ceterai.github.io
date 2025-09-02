@@ -11,6 +11,6 @@ An alta ready to assist other altas in need, anywhere and anytime.
 ## Technical Information
 
 - In-game ID: `ct_alta_medic_tenant`
-- NPC type: ct_alta_medic
-- Priority: 6
+- NPC type: `ct_alta_medic`
+- Priority: `6`
 - File: [`/tenants/alta/guards/tier3/medic.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier3/medic.tenant)

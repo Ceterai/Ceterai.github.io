@@ -7,7 +7,7 @@ While the overall concept seems pretty simple, it's pretty resource-heavy to mak
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I wouldn't mind enjoying a nice motsu right about now.
 - Apex: A typical kitchen stove. Useful for cooking mains and sides.

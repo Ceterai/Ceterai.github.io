@@ -6,7 +6,7 @@ A mostly titanium chair with reinforced stand and a soft segmented back for comf
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Hevika chairs are designed for maximum mobility, allowing the seated to take any pose without falling over.
 - Apex: A fine chair with a high, smooth back which you can lower to the horizontal position.

@@ -19,7 +19,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 112 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 112 items)</summary>
 
 - `ct_alta_crafting_station8`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
@@ -132,7 +132,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_tsentarish.png" alt="Tsentarish ★ WIP icon" loading="lazy" height=16px width="auto" /> [Tsentarish ★ WIP](https://ceterai.github.io/MyEnternia/Wiki/TsentarishWIP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" height=16px width="auto" /> [Tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_vitershai.png" alt="Viter-Shai ★ icon" loading="lazy" height=16px width="auto" /> [Viter-Shai ★](https://ceterai.github.io/MyEnternia/Wiki/Viter-Shai)
-- `energyjavelin`
+- <img src="https://starbounder.org/mediawiki/images/9/92/Energy_Javelin.png" alt="Energy Javelin icon" loading="lazy" height=3px width=27px /> [Energy Javelin](https://starbounder.org/Energy_Javelin)
 
 </details>
 
@@ -152,7 +152,7 @@ Drops from defeated creatures:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" height=16px width="auto" /> [EDS Droid ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/ghearun.png" alt="Ghearun Droid ★★★ icon" loading="lazy" height=16px width="auto" /> [Ghearun Droid ★★★](https://ceterai.github.io/MyEnternia/Wiki/GhearunDroid)
 
-<details><summary>Drops from creatures defeated with any **bow**: (Expand 10 items)</summary>
+<details markdown="1"><summary>Drops from creatures defeated with any **bow**: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/defensive.png" alt="EDS Defensive Drone ★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Drone ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDrone)
@@ -167,7 +167,7 @@ Drops from defeated creatures:
 
 </details>
 
-<details><summary>Can be obtained from special items: (Expand 8 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

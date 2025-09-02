@@ -11,6 +11,6 @@ This alta is part of the interplanetary peacekeeper organization. While the unif
 ## Technical Information
 
 - In-game ID: `ct_alta_peacekeeper_tenant`
-- NPC type: ct_alta_peacekeeper
-- Priority: 9
+- NPC type: `ct_alta_peacekeeper`
+- Priority: `9`
 - File: [`/tenants/alta/themed/order/peacekeeper.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/order/peacekeeper.tenant)

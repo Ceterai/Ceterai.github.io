@@ -11,6 +11,6 @@ A shipment manager able to manipulate various shipments.
 ## Technical Information
 
 - In-game ID: `ct_alta_cargo_tenant`
-- NPC type: ct_alta_cargo
-- Priority: 5
+- NPC type: `ct_alta_cargo`
+- Priority: `5`
 - File: [`/tenants/alta/service/cargo.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/service/cargo.tenant)

@@ -6,7 +6,7 @@ A basic alta crystal-based light component used in most lamps, lights and indica
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A crystal LED. Used in most light sources.
 - Apex: A light fixture made from metal.
@@ -21,7 +21,7 @@ A basic alta crystal-based light component used in most lamps, lights and indica
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 12 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" height=16px width="auto" /> [Alta Conserver](https://ceterai.github.io/MyEnternia/Wiki/AltaConserver)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fermenter/icon.png" alt="Alta Fermenter icon" loading="lazy" height=16px width="auto" /> [Alta Fermenter](https://ceterai.github.io/MyEnternia/Wiki/AltaFermenter)

@@ -26,9 +26,9 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" height=16px width="auto" /> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" height=16px width="auto" /> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder)
 
-<details><summary>Used to craft: (Expand 17 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 17 items)</summary>
 
-- `bluedye`
+- <img src="https://starbounder.org/mediawiki/images/c/c9/Blue_Dye.png" alt="Blue Dye icon" loading="lazy" height=12px width=8px /> [Blue Dye](https://starbounder.org/Blue_Dye)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png" alt="Runeva Ball icon" loading="lazy" height=16px width="auto" /> [Runeva Ball](https://ceterai.github.io/MyEnternia/Wiki/RunevaBall)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height=16px width="auto" /> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
@@ -52,7 +52,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `alienchest`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be bought from merchants:
 
@@ -74,7 +74,7 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_fallen/icon.png" alt="Fallen Aya icon" loading="lazy" height=16px width="auto" /> [Fallen Aya](https://ceterai.github.io/MyEnternia/Wiki/FallenAya)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="Aya Pile icon" loading="lazy" height=16px width="auto" /> [Aya Pile](https://ceterai.github.io/MyEnternia/Wiki/AyaPile)
 
-<details><summary>Can be harvested from: (Expand 9 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/boosted/icon.png" alt="Boosted Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedAyaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)

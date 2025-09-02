@@ -11,6 +11,6 @@ WIP. A true alta protector, following the call of stardust.
 ## Technical Information
 
 - In-game ID: `ct_stardust_scout_tenant`
-- NPC type: ct_stardust_scout
-- Priority: 9
+- NPC type: `ct_stardust_scout`
+- Priority: `9`
 - File: [`/tenants/alta/guards/tier7/stardust.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier7/stardust.tenant)

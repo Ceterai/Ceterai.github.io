@@ -11,6 +11,6 @@ This heavily equipped alta guard is meant to protect high security objects, like
 ## Technical Information
 
 - In-game ID: `ct_elite_tenant`
-- NPC type: ct_elite_guard
-- Priority: 7
+- NPC type: `ct_elite_guard`
+- Priority: `7`
 - File: [`/tenants/alta/guards/tier6/elite.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier6/elite.tenant)

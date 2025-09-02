@@ -8,7 +8,7 @@ The tag `yava_cuisine-tag` contains 45 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 45 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 45 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Yaara Mash icon" loading="lazy" height=16px width="auto" /> [Yaara Mash](https://ceterai.github.io/MyEnternia/Wiki/YaaraMash)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" height=16px width="auto" /> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh)

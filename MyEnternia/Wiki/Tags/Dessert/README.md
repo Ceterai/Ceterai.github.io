@@ -8,7 +8,7 @@ The tag `dessert-tag` contains 45 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 45 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 45 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" height=16px width="auto" /> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Berry Cake ★★ icon" loading="lazy" height=16px width="auto" /> [Berry Cake ★★](https://ceterai.github.io/MyEnternia/Wiki/BerryCake)

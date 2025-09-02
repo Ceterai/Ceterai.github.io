@@ -12,7 +12,7 @@ Electric, Enternia and Void status immunity. +20% electric resistance. Made by C
 
 - Stat: `voidStatusImmunity`- Amount: 1.0, 
 
-- Stat: `electricStatusImmunity`- Amount: 1.0, 
+- Stat: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" height=16px width=16px /> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)- Amount: 1.0, 
 
 - Stat: `electricResistance`- Amount: 0.2
 

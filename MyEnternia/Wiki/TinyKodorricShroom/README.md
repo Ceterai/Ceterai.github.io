@@ -6,7 +6,7 @@ A toxic glowing oshroom.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This kodorric is so tiny!
 - Apex: This is a gently lit oshroom.

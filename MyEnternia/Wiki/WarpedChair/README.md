@@ -6,7 +6,7 @@ A chair made from spiked nivera vines with a seat made from purple warped vein m
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Usually nivera spikes are sharp and filled with poison, but not this time I guess.
 - Apex: A chair made of vines. With spikes. Do you still want to sit?

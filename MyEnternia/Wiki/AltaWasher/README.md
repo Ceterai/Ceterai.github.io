@@ -7,7 +7,7 @@ Its design is quite similar to most washing machines, and is quite careful with 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Thankfully I don't need to wash anything right now.
 - Apex: This looks like a small washing machine.

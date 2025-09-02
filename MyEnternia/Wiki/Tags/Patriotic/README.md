@@ -4,7 +4,7 @@ The tag `patriotic-tag` contains 21 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/alta/body.png" alt="Alta Emblem icon" loading="lazy" height=16px width="auto" /> [Alta Emblem](https://ceterai.github.io/MyEnternia/Wiki/AltaEmblem)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/flag/icon.png" alt="Alta Flag icon" loading="lazy" height=16px width="auto" /> [Alta Flag](https://ceterai.github.io/MyEnternia/Wiki/AltaFlag)

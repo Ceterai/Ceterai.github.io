@@ -16,7 +16,7 @@ Can be bought from merchants:
 
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
 
-<details><summary>Drops from defeated creatures: (Expand 6 items)</summary>
+<details markdown="1"><summary>Drops from defeated creatures: (Expand 6 items)</summary>
 
 - `ct_aric_sporgus`
 - `ct_ionic_orbide`
@@ -27,7 +27,7 @@ Can be bought from merchants:
 
 </details>
 
-<details><summary>Drops from creatures defeated with any **bow**: (Expand 6 items)</summary>
+<details markdown="1"><summary>Drops from creatures defeated with any **bow**: (Expand 6 items)</summary>
 
 - `ct_aric_sporgus`
 - `ct_ionic_orbide`

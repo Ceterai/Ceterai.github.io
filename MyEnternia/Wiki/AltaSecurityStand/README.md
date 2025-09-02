@@ -6,7 +6,7 @@ This strange device dispences a <img src="https://raw.githubusercontent.com/Cete
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A mobile security station that dispenses security drones.
 - Apex: What's that moving inside...?

@@ -6,7 +6,7 @@ A small 1x2 bionid hatch.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A protective hatch, used mainly in alta labs.
 - Apex: This door is entirely secure.

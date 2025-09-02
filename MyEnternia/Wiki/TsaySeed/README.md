@@ -6,7 +6,7 @@ Grows bitter-sour tsay fruits that when cooked properly can taste like meat.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Tsay is probably the most vibrant tasting fruit out there.
 - Apex: If I cook this fruit, it'll taste like chicken.
@@ -29,7 +29,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/sapling/icon.png" alt="Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/TsaySapling)
 
-<details><summary>Used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/other/seed.png" alt="Alta Seed Pack icon" loading="lazy" height=16px width="auto" /> [Alta Seed Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height=16px width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
@@ -69,7 +69,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Wild Tsay Seed icon" loading="lazy" height=16px width="auto" /> [Wild Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/WildTsaySeed)
 
-<details><summary>Can be harvested from: (Expand 13 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedJellySapling)

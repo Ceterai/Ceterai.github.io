@@ -11,6 +11,6 @@ This alta was one of the students back at protectorate. While the uniform is not
 ## Technical Information
 
 - In-game ID: `ct_alta_protectorate_tenant`
-- NPC type: ct_alta_protectorate
-- Priority: 9
+- NPC type: `ct_alta_protectorate`
+- Priority: `9`
 - File: [`/tenants/alta/themed/order/protectorate.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/order/protectorate.tenant)

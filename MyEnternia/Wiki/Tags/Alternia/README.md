@@ -4,7 +4,7 @@ The tag `alternia-tag` contains 17 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" height=16px width="auto" /> [Alternia Crystal](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/pod/icon.png" alt="Alternia Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Alternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaEcoPod)
@@ -27,7 +27,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_alternia_augment.png" alt="Alternia Augment ★★ icon" loading="lazy" height=16px width="auto" /> [Alternia Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" height=16px width="auto" /> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP)

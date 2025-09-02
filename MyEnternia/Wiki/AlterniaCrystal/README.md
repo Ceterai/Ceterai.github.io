@@ -7,7 +7,7 @@ At its core, this crystal is filled with plasma, while usually safe to outside t
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A crystal full of alternia energy. So powerful! I can break it to get some fully-charged alternia shards.
 - Apex: Crystals are quite beautiful.

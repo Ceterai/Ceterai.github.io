@@ -6,7 +6,7 @@ A natural circle-like rock formation with [gheatsyn](https://ceterai.github.io/M
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Seems like this gheatorn growth is yet to fully burst. For now it almost looks like an eye.
 - Apex: A stone that chimes when I get close to it.

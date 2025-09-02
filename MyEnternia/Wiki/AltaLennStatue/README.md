@@ -7,7 +7,7 @@ The shimmering static 3D image showcases what seems to be a being from another r
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A statue dedicated to Lenn, one of the Time Drifters, who decided to help.
 - Apex: A hologram dedicated to science. An alta structure.

@@ -4,7 +4,7 @@ The tag `core-tag` contains 8 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/boosted/icon.png" alt="Boosted Faacain Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Faacain Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedFaacainSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Faacain Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoFaacainSapling)

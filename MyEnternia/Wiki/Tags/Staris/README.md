@@ -15,7 +15,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_astralis.png" alt="Astralis ★★ icon" loading="lazy" height=16px width="auto" /> [Astralis ★★](https://ceterai.github.io/MyEnternia/Wiki/Astralis)

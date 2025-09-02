@@ -36,7 +36,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" height=16px width="auto" /> [Wild Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/WildBlossomSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)

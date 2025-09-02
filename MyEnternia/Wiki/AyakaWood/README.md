@@ -24,7 +24,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height=16px width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
 - `paper`
 
-<details><summary>Used to craft: (Expand 111 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 111 items)</summary>
 
 - `ct_aid_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_abstract_art.png" alt="Enchanted Sunset icon" loading="lazy" height=16px width="auto" /> [Enchanted Sunset](https://ceterai.github.io/MyEnternia/Wiki/EnchantedSunset)
@@ -130,13 +130,13 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_thick_grass_seeds.png" alt="Thick Grass Seeds icon" loading="lazy" height=16px width="auto" /> [Thick Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/ThickGrassSeeds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_warped_grass_seeds.png" alt="Warped Grass Seeds icon" loading="lazy" height=16px width="auto" /> [Warped Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/WarpedGrassSeeds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_yaara_art.png" alt="Among The Grove icon" loading="lazy" height=16px width="auto" /> [Among The Grove](https://ceterai.github.io/MyEnternia/Wiki/AmongTheGrove)
-- `logblock`
-- `money`
-- `moondust`
+- <img src="https://starbounder.org/mediawiki/images/d/d8/Wooden_Log.png" alt="Wooden Log icon" loading="lazy" height=9px width=16px /> [Wooden Log](https://starbounder.org/Wooden_Log)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" height=16px width=12px /> [Pixel](https://starbounder.org/Pixel)
+- <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" height=10px width=10px /> [Moondust](https://starbounder.org/Moondust)
 - `paper`
-- `silkfibre`
-- `syringe`
-- `whitedye`
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" height=14px width=15px /> [Silk Fibre](https://starbounder.org/Silk_Fibre)
+- <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" height=15px width=7px /> [Medical Syringe](https://starbounder.org/Medical_Syringe)
+- <img src="https://starbounder.org/mediawiki/images/9/91/White_Dye.png" alt="White Dye icon" loading="lazy" height=12px width=8px /> [White Dye](https://starbounder.org/White_Dye)
 
 </details>
 
@@ -144,13 +144,13 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `alienchest`
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 
-<details><summary>Drops from big plants: (Expand 13 items)</summary>
+<details markdown="1"><summary>Drops from big plants: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height=16px width="auto" /> [Blossoming Ayaka](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka)

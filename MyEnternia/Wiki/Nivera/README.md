@@ -7,7 +7,7 @@ While some of the species are able to bloom with bright pink flowers, rare speci
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This eco pod contains a sapling of a nivera tree.
 - Apex: I can plant this to grow a tree.

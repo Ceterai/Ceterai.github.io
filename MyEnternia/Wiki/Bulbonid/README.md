@@ -6,7 +6,7 @@ A tall biocrystallic growth with brightly-lit <img src="https://raw.githubuserco
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This plant is growing bionid formations that glow with the energy it provides.
 - Apex: It's some kind of a natural light.
@@ -29,8 +29,8 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- `techchest`
-- `techchest2`
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Can be obtained from special items:
 

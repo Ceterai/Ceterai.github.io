@@ -11,6 +11,6 @@ An alta soldier prepared for cold environments.
 ## Technical Information
 
 - In-game ID: `ct_sona_tenant`
-- NPC type: ct_sona_soldier
-- Priority: 9
+- NPC type: `ct_sona_soldier`
+- Priority: `9`
 - File: [`/tenants/alta/guards/tier5/sona.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier5/sona.tenant)

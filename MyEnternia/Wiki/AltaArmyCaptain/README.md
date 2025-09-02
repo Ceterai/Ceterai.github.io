@@ -11,6 +11,6 @@ This alta commands combat operations executed by regular alta army.
 ## Technical Information
 
 - In-game ID: `ct_combat_captain_tenant`
-- NPC type: ct_combat_captain
-- Priority: 9
+- NPC type: `ct_combat_captain`
+- Priority: `9`
 - File: [`/tenants/alta/guards/tier6/combat.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier6/combat.tenant)

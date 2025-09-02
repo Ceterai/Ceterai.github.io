@@ -7,7 +7,7 @@ Altas actively keep their cities clean, volunteering for social work and helping
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Neat, a recycler! I need to sort things first though.
 - Apex: Garbage day!

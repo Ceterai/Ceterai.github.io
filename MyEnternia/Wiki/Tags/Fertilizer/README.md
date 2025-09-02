@@ -8,7 +8,7 @@ The tag `fertilizer-tag` contains 10 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" height=16px width="auto" /> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer)

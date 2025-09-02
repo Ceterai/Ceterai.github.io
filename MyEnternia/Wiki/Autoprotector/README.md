@@ -1,6 +1,6 @@
 # Autoprotector
 
-Applies ^#2080f0;Autoprotection^reset; to you when your health is lower than 30%.
+Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" height=16px width="auto" /> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection) to you when your health is lower than 30%.
 
 Applied by following items:
 

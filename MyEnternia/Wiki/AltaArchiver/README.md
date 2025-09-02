@@ -11,6 +11,6 @@ This alta researcher is performing her independent research in order to advance 
 ## Technical Information
 
 - In-game ID: `ct_alta_archiver_tenant`
-- NPC type: ct_alta_archiver
-- Priority: 7
+- NPC type: `ct_alta_archiver`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/trade/alta.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/trade/alta.tenant)

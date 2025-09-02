@@ -8,7 +8,7 @@ The tag `fruit-tag` contains 13 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 13 items)</summary>
 
 - `ct_food_mimic-alta_pear`
 - `ct_food_mimic-alunika`

@@ -6,7 +6,7 @@ A [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) sample. The st
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Like other cal samples, this one is able to power its own stand. Also, not a natural bishyn shape.
 - Apex: Yes, it's a sample. Yes, it's poisonous. Yes, I won't touch it. No way I would.

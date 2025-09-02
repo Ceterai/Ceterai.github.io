@@ -7,7 +7,7 @@ All <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/al
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A neatly designed terminal with additional segments for visual elements. Powered by alternia.
 - Apex: A terminal on a white reinforced stand.

@@ -6,7 +6,7 @@ A beautiful crystal bed. Like a flower bed, but spiky.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A well-maintained crystal garden with titanium bedding.
 - Apex: A well-tended flowerbed. One of the few Apex pleasures.

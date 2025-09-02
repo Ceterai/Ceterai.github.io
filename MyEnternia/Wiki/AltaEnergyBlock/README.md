@@ -7,7 +7,7 @@ G4 marking of the model refers to the general energy source capability (and size
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This device generates alternia energy from a crystal. Very useful.
 - Apex: A structure of unknown purpose.
@@ -22,7 +22,7 @@ G4 marking of the model refers to the general energy source capability (and size
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 8 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height=16px width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" height=16px width="auto" /> [Alta Drone Station](https://ceterai.github.io/MyEnternia/Wiki/AltaDroneStation)

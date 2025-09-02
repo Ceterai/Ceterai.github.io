@@ -4,7 +4,7 @@ The tag `wired-tag` contains 39 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 39 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 39 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/and.png:default.1" alt="Alta Logic - AND icon" loading="lazy" height=16px width="auto" /> [Alta Logic - AND](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-AND)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" height=16px width="auto" /> [Alta Button](https://ceterai.github.io/MyEnternia/Wiki/AltaButton)

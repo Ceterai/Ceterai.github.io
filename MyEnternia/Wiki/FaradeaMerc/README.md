@@ -11,6 +11,6 @@ A freedom-loving alta on a bounty. Or a treasure hunt. Or a contract. Or just pa
 ## Technical Information
 
 - In-game ID: `ct_faradea_merc_tenant`
-- NPC type: ct_faradea_merc
-- Priority: 7
+- NPC type: `ct_faradea_merc`
+- Priority: `7`
 - File: [`/tenants/alta/guards/tier5/faradea.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier5/faradea.tenant)

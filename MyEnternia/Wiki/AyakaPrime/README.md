@@ -6,7 +6,7 @@ A variation of an [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatr
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This sapling chamber is designed to grow a well-saturated ayaka.
 - Apex: I can plant this to grow a tree.

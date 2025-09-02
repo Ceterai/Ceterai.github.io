@@ -11,6 +11,6 @@ An alta in an easily recognizable high-vis resque uniform. In her free time, she
 ## Technical Information
 
 - In-game ID: `ct_alta_resque_tenant`
-- NPC type: ct_alta_resque
-- Priority: 9
+- NPC type: `ct_alta_resque`
+- Priority: `9`
 - File: [`/tenants/alta/tech/resque.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/tech/resque.tenant)

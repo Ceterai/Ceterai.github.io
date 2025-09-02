@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 55
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `runboostfood`- Duration: 210, 
@@ -22,10 +22,6 @@ Species descriptions:
 - Effect: `jumpboostfood`- Duration: 210, 
 
 - Effect: `maxhealthscalingboostfood`- Duration: 210
-
-Other variants:
-
-- `ct_fivaldo_salad-banquet-banquet`
 
 ## Crafting
 

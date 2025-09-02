@@ -6,7 +6,7 @@ A militaristic protected terminal owned by [EDS](https://ceterai.github.io/MyEnt
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A typical EDS terminal. Has a special set of encryptions.
 - Apex: This console offers a large degree of control.

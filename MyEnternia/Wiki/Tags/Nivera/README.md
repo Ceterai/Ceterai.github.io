@@ -4,7 +4,7 @@ The tag `nivera-tag` contains 8 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" height=16px width="auto" /> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_geyser/icon.png" alt="Nivera-Overgrown Geyser icon" loading="lazy" height=16px width="auto" /> [Nivera-Overgrown Geyser](https://ceterai.github.io/MyEnternia/Wiki/Nivera-OvergrownGeyser)

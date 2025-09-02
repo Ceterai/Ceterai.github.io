@@ -8,7 +8,7 @@ The tag `nia_cuisine-tag` contains 41 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 41 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 41 items)</summary>
 
 - `ct_food_mimic-boiled_tonna`
 - `ct_food_mimic-estria_love`

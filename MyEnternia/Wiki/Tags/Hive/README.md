@@ -4,7 +4,7 @@ The tag `hive-tag` contains 10 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/boosted/icon.png" alt="Boosted Hive Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedHiveSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/eco/icon.png" alt="Eco Hive Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHiveSapling)

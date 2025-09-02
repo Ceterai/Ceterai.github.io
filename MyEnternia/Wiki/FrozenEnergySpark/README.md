@@ -6,7 +6,7 @@ This ball of lightning got frozen. How is that even possible?
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A frozen plasma charge. A lot of these can form in cold ionic environments.
 - Apex: Crystals are quite beautiful.

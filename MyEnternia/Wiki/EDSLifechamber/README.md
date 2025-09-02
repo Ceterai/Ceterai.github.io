@@ -6,7 +6,7 @@ A special [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) healing stat
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An EDS version of Tserera healing stations, the ones used mainly in labs. This one's a real deal.
 - Apex: Devices like these look out of place in the middle of nowhere.

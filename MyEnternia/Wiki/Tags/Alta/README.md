@@ -4,7 +4,7 @@ The tag `alta-tag` contains 1271 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 412 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 412 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_abstract_art.png" alt="Enchanted Sunset icon" loading="lazy" height=16px width="auto" /> [Enchanted Sunset](https://ceterai.github.io/MyEnternia/Wiki/EnchantedSunset)
@@ -423,7 +423,7 @@ The tag `alta-tag` contains 1271 total entries.
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 127 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 127 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)
@@ -557,7 +557,7 @@ The tag `alta-tag` contains 1271 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 732 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 732 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" height=16px width="auto" /> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
 - `ct_aid_mimic-bandade`

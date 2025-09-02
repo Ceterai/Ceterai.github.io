@@ -18,7 +18,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" height=16px width="auto" /> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height=16px width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
 
-<details><summary>Used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
 
 - `ct_food_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" height=16px width="auto" /> [Impulse Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ImpulseStimPack)
@@ -55,7 +55,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_bulb/icon.png" alt="Yaara Bulb icon" loading="lazy" height=16px width="auto" /> [Yaara Bulb](https://ceterai.github.io/MyEnternia/Wiki/YaaraBulb)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" height=16px width="auto" /> [Wild Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraEyeSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Boosted Yaavi Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaviSapling)

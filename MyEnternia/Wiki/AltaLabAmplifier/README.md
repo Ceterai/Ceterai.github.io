@@ -6,7 +6,7 @@ A complex device on a small stand. What is it for?
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: These amplifiers are often parts of huge constructions, like esetera labs, mothership, or even terraformers...
 - Apex: A crystal sample on the white stand.
@@ -25,7 +25,7 @@ A complex device on a small stand. What is it for?
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 22 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 22 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/enchanted/icon.png" alt="Enchanted Meadows Microformer ★ icon" loading="lazy" height=16px width="auto" /> [Enchanted Meadows Microformer ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadowsMicroformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/forest/icon.png" alt="Ayaka Forest Microformer icon" loading="lazy" height=16px width="auto" /> [Ayaka Forest Microformer](https://ceterai.github.io/MyEnternia/Wiki/AyakaForestMicroformer)

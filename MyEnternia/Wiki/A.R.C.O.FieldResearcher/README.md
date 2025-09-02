@@ -11,6 +11,6 @@ This alta researcher is part of Arc Ordis, focusing on environmental studies and
 ## Technical Information
 
 - In-game ID: `ct_arco_field_tenant`
-- NPC type: ct_arco_field_researcher
-- Priority: 7
+- NPC type: `ct_arco_field_researcher`
+- Priority: `7`
 - File: [`/tenants/alta/researchers/field/arco.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/researchers/field/arco.tenant)

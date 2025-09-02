@@ -26,14 +26,14 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- `toxicchest`
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be bought from merchants:
 
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 
-<details><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)

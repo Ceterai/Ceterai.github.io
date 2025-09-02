@@ -8,7 +8,7 @@ The tag `protogear-tag` contains 6 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Scout's Lightwear icon" loading="lazy" height=16px width="auto" /> [Scout's Lightwear](https://ceterai.github.io/MyEnternia/Wiki/Scout'sLightwear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" height=16px width="auto" /> [Protomask](https://ceterai.github.io/MyEnternia/Wiki/Protomask)

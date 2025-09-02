@@ -8,7 +8,7 @@ This ball bounces when thrown.
 
 Found naturally in containers:
 
-- `slimehide`
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Can be bought from merchants:
 

@@ -6,7 +6,7 @@ A chest-like growth with a natural compartment perfectly fit for some loot.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Warped chests are actually a bulbous growth called 'niishu'. It can slowly warp, or digest, stuff inside it.
 - Apex: It's not just a chest, it's an organic creature.

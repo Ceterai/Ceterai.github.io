@@ -11,6 +11,6 @@ A highly versatile scouting unit able to traverse difficult landscape with excep
 ## Technical Information
 
 - In-game ID: `ct_alta_scout_tenant`
-- NPC type: ct_alta_scout
-- Priority: 5
+- NPC type: `ct_alta_scout`
+- Priority: `5`
 - File: [`/tenants/alta/guards/tier3/scout.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier3/scout.tenant)

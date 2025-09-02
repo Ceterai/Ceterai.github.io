@@ -11,6 +11,6 @@ This alta researcher is part of Iora Gyera Ordis, researching plants, farming, c
 ## Technical Information
 
 - In-game ID: `ct_alta_botanist_tenant`
-- NPC type: ct_alta_botanist
-- Priority: 12
+- NPC type: `ct_alta_botanist`
+- Priority: `12`
 - File: [`/tenants/alta/merchants/botanics.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/botanics.tenant)

@@ -6,7 +6,7 @@ A [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) tank.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Gheatsyn crystals can liquify or crystallize when charged depending on the charge polarity. The one in this tank does the former.
 - Apex: A capsule filled with gheatsyn.

@@ -4,7 +4,7 @@ The tag `toxic-tag` contains 14 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 11 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_coroplic_mutant.png" alt="Coroplic Shroom icon" loading="lazy" height=16px width="auto" /> [Coroplic Shroom](https://ceterai.github.io/MyEnternia/Wiki/CoroplicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_coroplic_mutant_giant.png" alt="Giant Coroplic Shroom icon" loading="lazy" height=16px width="auto" /> [Giant Coroplic Shroom](https://ceterai.github.io/MyEnternia/Wiki/GiantCoroplicShroom)

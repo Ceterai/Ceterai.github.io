@@ -17,10 +17,6 @@ Species descriptions:
 
 - Effect: `swimboostcola`- Duration: 120
 
-Other variants:
-
-- `cttsaycola-pop-pop`
-
 ## Technical Information
 
 - In-game ID: `cttsaycola-pop`

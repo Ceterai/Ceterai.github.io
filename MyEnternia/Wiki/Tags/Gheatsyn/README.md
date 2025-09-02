@@ -4,7 +4,7 @@ The tag `gheatsyn-tag` contains 52 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 33 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 33 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bench/icon1.png" alt="Alta Emergency Bench icon" loading="lazy" height=16px width="auto" /> [Alta Emergency Bench](https://ceterai.github.io/MyEnternia/Wiki/AltaEmergencyBench)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png" alt="Alta Upgrade Station icon" loading="lazy" height=16px width="auto" /> [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation)
@@ -52,7 +52,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" height=16px width="auto" /> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Stuffed Crust Slice icon" loading="lazy" height=16px width="auto" /> [Caliopa Stuffed Crust Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaStuffedCrustSlice)

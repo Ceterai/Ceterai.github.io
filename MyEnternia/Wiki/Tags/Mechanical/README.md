@@ -4,7 +4,7 @@ The tag `mechanical-tag` contains 33 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Citadel Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CitadelPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/gateway/icon.png" alt="Alta Gateway icon" loading="lazy" height=16px width="auto" /> [Alta Gateway](https://ceterai.github.io/MyEnternia/Wiki/AltaGateway)

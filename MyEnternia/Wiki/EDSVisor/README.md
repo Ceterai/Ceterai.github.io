@@ -27,7 +27,7 @@ Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
-<details><summary>Can be bought from merchants: (Expand 12 items)</summary>
+<details markdown="1"><summary>Can be bought from merchants: (Expand 12 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)

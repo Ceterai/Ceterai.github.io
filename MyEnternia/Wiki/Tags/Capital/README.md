@@ -23,7 +23,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" height=16px width="auto" /> [Alta Capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Sentry Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/SentryDrone)

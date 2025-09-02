@@ -6,7 +6,7 @@ A vile pile of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: That's an isoslime spawner! Better be careful.
 - Apex: A putrid mound of slime. How am I meant to store this?

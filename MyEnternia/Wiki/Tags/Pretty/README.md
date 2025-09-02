@@ -4,7 +4,7 @@ The tag `pretty-tag` contains 106 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 96 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 96 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_abstract_art.png" alt="Enchanted Sunset icon" loading="lazy" height=16px width="auto" /> [Enchanted Sunset](https://ceterai.github.io/MyEnternia/Wiki/EnchantedSunset)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" height=16px width="auto" /> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
@@ -114,7 +114,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
 
 - `ct_body_mimic-calin_dress`
 - `ct_head_mimic-earhood`

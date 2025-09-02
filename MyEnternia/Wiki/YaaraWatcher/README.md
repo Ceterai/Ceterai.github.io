@@ -6,7 +6,7 @@ A seemingly sentient plant-based contraption that detects movement in big area a
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This watcher is supposedly semi-sentient. Yaara Keepers often use it as a defence mechanism.
 - Apex: Be on alert, this thing is watching our movements.

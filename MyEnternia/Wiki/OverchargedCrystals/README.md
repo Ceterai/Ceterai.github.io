@@ -1,8 +1,8 @@
 # Overcharged Crystals
 
-Repeatedly damages enemies around you with rapid ^#20f080;Pulsings^reset;.
+Repeatedly damages enemies around you with rapid [Pulsings](https://ceterai.github.io/MyEnternia/Wiki/Pulsings).
 
-<details><summary>Applied by following items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height=16px width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Exotic Punch icon" loading="lazy" height=16px width="auto" /> [Exotic Punch](https://ceterai.github.io/MyEnternia/Wiki/ExoticPunch)

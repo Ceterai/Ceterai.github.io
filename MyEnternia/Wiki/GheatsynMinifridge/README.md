@@ -6,7 +6,7 @@ A minifridge that seems to be running on crystal energy from [gheatsyn](https://
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This minifridge uses charged gheatchyn crystals as a subcoolant and discharged ones as a battery. Creative and useful.
 - Apex: A compact fridge. It seems like it is fueled by crystals.

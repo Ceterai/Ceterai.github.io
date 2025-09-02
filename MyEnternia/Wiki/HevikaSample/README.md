@@ -6,7 +6,7 @@ A hevika sample. The stand is powered by the crystal itself. An exhibit of knowl
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Charged crystals filled with pure alternia energy are divided into hevikal and altecal, this one is the former.
 - Apex: A crystal sample on the white stand.
@@ -21,7 +21,7 @@ A hevika sample. The stand is powered by the crystal itself. An exhibit of knowl
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 21 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 21 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/enchanted/icon.png" alt="Enchanted Meadows Microformer ★ icon" loading="lazy" height=16px width="auto" /> [Enchanted Meadows Microformer ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadowsMicroformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/forest/icon.png" alt="Ayaka Forest Microformer icon" loading="lazy" height=16px width="auto" /> [Ayaka Forest Microformer](https://ceterai.github.io/MyEnternia/Wiki/AyakaForestMicroformer)

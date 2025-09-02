@@ -11,6 +11,6 @@ A profficient collectioner with a stash of rare items. Care to have a look?
 ## Technical Information
 
 - In-game ID: `ct_alta_collectioner_tenant`
-- NPC type: ct_alta_collectioner
-- Priority: 14
+- NPC type: `ct_alta_collectioner`
+- Priority: `14`
 - File: [`/tenants/alta/merchants/collectioner.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/collectioner.tenant)

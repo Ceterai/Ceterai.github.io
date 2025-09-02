@@ -6,7 +6,7 @@ This mechanism made out of weird plants sucks in liquids around it. Looks like a
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This warped drainer utilizes some plants' sensory abilities and predatory nature to absorb certain liquids.
 - Apex: An unpleasant sight.

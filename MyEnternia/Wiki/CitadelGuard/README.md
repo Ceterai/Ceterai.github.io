@@ -11,6 +11,6 @@ WIP. These guards are granted the most efficient equipment Alliana has to offer 
 ## Technical Information
 
 - In-game ID: `ct_citadel_guard_tenant`
-- NPC type: ct_stardust_scout
-- Priority: 9
+- NPC type: `ct_stardust_scout`
+- Priority: `9`
 - File: [`/tenants/alta/guards/tier7/citadel.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier7/citadel.tenant)

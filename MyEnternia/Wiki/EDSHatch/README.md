@@ -6,7 +6,7 @@ A reinforced [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) blast hat
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This hatch must lead somewhere. Probably to and EDS base.
 - Apex: Hatch designs like this are common on ships.

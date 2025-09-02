@@ -8,7 +8,7 @@ The tag `bug-tag` contains 16 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/alto_zych/icon.png" alt="Alto Zych icon" loading="lazy" height=16px width="auto" /> [Alto Zych](https://ceterai.github.io/MyEnternia/Wiki/AltoZych)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" height=16px width="auto" /> [Aya Bee](https://ceterai.github.io/MyEnternia/Wiki/AyaBee)

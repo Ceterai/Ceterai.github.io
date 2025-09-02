@@ -6,7 +6,7 @@ A very suspicious-looking [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I can see a tiny mooplic in this eco chamber. Not for long!
 - Apex: I can plant this to grow a tree.
@@ -29,7 +29,7 @@ A very suspicious-looking [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/
 
 Found naturally in containers:
 
-- `toxicchest`
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be obtained from special items:
 

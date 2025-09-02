@@ -6,7 +6,7 @@ A holographic console-like device on a sturdy titanium base. Can be used to oper
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A protected interface that most likely controls some nearby security devices.
 - Apex: This console offers a large degree of control.

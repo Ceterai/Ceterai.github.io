@@ -4,7 +4,7 @@ The tag `cooking-tag` contains 43 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 41 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 41 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height=16px width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)

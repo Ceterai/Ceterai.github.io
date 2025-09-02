@@ -6,7 +6,7 @@ The Captain sits here to fly the ship.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This chair has ship navigation interface integrated. I can control the ship from here.
 - Apex: Ahh... Sweet freedom. I can use the ship's navigator from this chair.

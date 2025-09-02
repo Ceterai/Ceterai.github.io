@@ -11,6 +11,6 @@ This alta is guarding a special interspecies team of space explorers. While the 
 ## Technical Information
 
 - In-game ID: `ct_alta_retro_guard_tenant`
-- NPC type: ct_alta_brigadier
-- Priority: 15
+- NPC type: `ct_alta_brigadier`
+- Priority: `15`
 - File: [`/tenants/alta/themed/retro/guard.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/retro/guard.tenant)

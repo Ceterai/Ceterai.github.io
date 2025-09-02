@@ -11,6 +11,6 @@ An alta farmer taking care of her greenhouse. She's ready to share her goods wit
 ## Technical Information
 
 - In-game ID: `ct_alta_farm_tenant`
-- NPC type: ct_alta_farmer
-- Priority: 6
+- NPC type: `ct_alta_farmer`
+- Priority: `6`
 - File: [`/tenants/alta/merchants/farm.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/merchants/farm.tenant)

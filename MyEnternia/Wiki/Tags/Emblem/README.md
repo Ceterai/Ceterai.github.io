@@ -4,7 +4,7 @@ The tag `emblem-tag` contains 8 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/alta/body.png" alt="Alta Emblem icon" loading="lazy" height=16px width="auto" /> [Alta Emblem](https://ceterai.github.io/MyEnternia/Wiki/AltaEmblem)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" height=16px width="auto" /> [A.R.C.O. Emblem](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Emblem)

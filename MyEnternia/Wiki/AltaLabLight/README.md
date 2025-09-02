@@ -6,7 +6,7 @@ A compact bion ceiling light on simplistic holders. **Can be placed on the groun
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A basic ceiling light, you can find these in most alta labs.
 - Apex: A light fixture made from metal.

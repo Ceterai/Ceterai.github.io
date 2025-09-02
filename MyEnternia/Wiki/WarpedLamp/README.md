@@ -6,7 +6,7 @@ Some red vines with glowing bits entangled into a lamp-like form. Are they alive
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This growth is called 'nioxu'. It's a wine-like plant, similar to nivera, except harmless and pretty.
 - Apex: A plant with glowing elements.

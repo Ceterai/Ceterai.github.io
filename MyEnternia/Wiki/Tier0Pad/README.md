@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Sources
 
-<details><summary>Given as rent by tenants: (Expand 31 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 31 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)

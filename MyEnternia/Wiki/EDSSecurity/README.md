@@ -11,6 +11,6 @@ An EDS member with standard protective equipment.
 ## Technical Information
 
 - In-game ID: `ct_eds_security_tenant`
-- NPC type: ct_eds_security
-- Priority: 7
+- NPC type: `ct_eds_security`
+- Priority: `7`
 - File: [`/tenants/alta/guards/tier5/eds.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/guards/tier5/eds.tenant)

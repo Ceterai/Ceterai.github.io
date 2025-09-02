@@ -7,7 +7,7 @@ A bit bulky in size, it was made to be like this to make sure any fruits and oth
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Ao, how does one make freshes again?
 - Apex: This machine produces different sweet liquids.

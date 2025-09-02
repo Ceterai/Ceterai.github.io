@@ -14,16 +14,12 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 10
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/confused.png:1" alt="Curious icon" loading="lazy" height=16px width="auto" /> [Curious](https://ceterai.github.io/MyEnternia/Wiki/Curious)- Duration: 240, 
 
 - Effect: `lightaugment2`- Duration: 240
-
-Other variants:
-
-- `ct_gheatsyn_tea-alien-gheamont`
 
 ## Crafting
 

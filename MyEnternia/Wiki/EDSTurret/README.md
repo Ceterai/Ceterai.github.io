@@ -6,7 +6,7 @@ An armored automated security turret. Seems like anyone could become its target.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: An EDS turret. Has some blind spots, but pretty effective in general.
 - Apex: Always ready to fire.

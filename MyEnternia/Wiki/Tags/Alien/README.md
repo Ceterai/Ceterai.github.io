@@ -4,7 +4,7 @@ The tag `alien-tag` contains 21 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 18 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/boosted/icon.png" alt="Boosted Azura Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Azura Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedAzuraSapling)

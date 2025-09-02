@@ -8,7 +8,7 @@ The tag `cutter-tag` contains 7 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon.png" alt="Alta Lumber Cutter icon" loading="lazy" height=16px width="auto" /> [Alta Lumber Cutter](https://ceterai.github.io/MyEnternia/Wiki/AltaLumberCutter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon_upg.png" alt="Ultrafast Cutter ★ icon" loading="lazy" height=16px width="auto" /> [Ultrafast Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/UltrafastCutter)

@@ -6,7 +6,7 @@ A simple serving of an alta salad. Can be picked up right away to take a closer 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Oa-a, a salad! I wonder which one it is~
 - Apex: A likely sweet salad in a bowl. Should I take it?

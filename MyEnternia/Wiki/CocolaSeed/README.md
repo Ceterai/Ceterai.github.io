@@ -43,7 +43,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Wild Cocola Seed icon" loading="lazy" height=16px width="auto" /> [Wild Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/WildCocolaSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/boosted/icon.png" alt="Boosted Cocola Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Cocola Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCocolaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling)

@@ -8,7 +8,7 @@ The tag `shotgun-tag` contains 12 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png" alt="Bishyn Gun icon" loading="lazy" height=16px width="auto" /> [Bishyn Gun](https://ceterai.github.io/MyEnternia/Wiki/BishynGun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun_2.png" alt="Bishyn Cannon ★ icon" loading="lazy" height=16px width="auto" /> [Bishyn Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/BishynCannon)

@@ -15,7 +15,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 234 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 234 items)</summary>
 
 - `ct_aid_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" height=16px width="auto" /> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
@@ -250,7 +250,7 @@ Species descriptions:
 - `flowerychest`
 - `floweryhead`
 - `flowerylegs`
-- `nanowrap`
+- <img src="https://starbounder.org/mediawiki/images/7/7c/Nanowrap_Bandage.png" alt="Nanowrap Bandage icon" loading="lazy" height=10px width=16px /> [Nanowrap Bandage](https://starbounder.org/Nanowrap_Bandage)
 
 </details>
 
@@ -262,7 +262,7 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 - `outpostshippingcontainer`
 
-<details><summary>Drops from defeated creatures: (Expand 9 items)</summary>
+<details markdown="1"><summary>Drops from defeated creatures: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Engineer Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EngineerDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/spider.png" alt="Spider Droid icon" loading="lazy" height=16px width="auto" /> [Spider Droid](https://ceterai.github.io/MyEnternia/Wiki/SpiderDroid)
@@ -276,7 +276,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Drops from creatures defeated with any **bow**: (Expand 10 items)</summary>
+<details markdown="1"><summary>Drops from creatures defeated with any **bow**: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Engineer Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EngineerDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" height=16px width="auto" /> [Minidrone](https://ceterai.github.io/MyEnternia/Wiki/Minidrone)
@@ -291,7 +291,7 @@ Found naturally in containers:
 
 </details>
 
-<details><summary>Can be obtained from special items: (Expand 8 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

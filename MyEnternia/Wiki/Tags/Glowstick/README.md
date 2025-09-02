@@ -8,7 +8,7 @@ The tag `glowstick-tag` contains 11 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 11 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/bionid.png" alt="Bionid Glowstick icon" loading="lazy" height=16px width="auto" /> [Bionid Glowstick](https://ceterai.github.io/MyEnternia/Wiki/BionidGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/calline.png" alt="Calline Glowstick icon" loading="lazy" height=16px width="auto" /> [Calline Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CallineGlowstick)

@@ -18,7 +18,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height=16px width="auto" /> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" height=16px width="auto" /> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
 
-<details><summary>Used to craft: (Expand 58 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 58 items)</summary>
 
 - `ct_alta_crafting_station4`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png" alt="Impulse Rifle NG4 icon" loading="lazy" height=16px width="auto" /> [Impulse Rifle NG4](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4)
@@ -76,8 +76,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="Yaara Snaky Roots icon" loading="lazy" height=16px width="auto" /> [Yaara Snaky Roots](https://ceterai.github.io/MyEnternia/Wiki/YaaraSnakyRoots)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" height=16px width="auto" /> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/watcher/icon.png" alt="Yaara Watcher icon" loading="lazy" height=16px width="auto" /> [Yaara Watcher](https://ceterai.github.io/MyEnternia/Wiki/YaaraWatcher)
-- `livingroot`
-- `plantfibre`
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Living_Root.png" alt="Living Root icon" loading="lazy" height=13px width=14px /> [Living Root](https://starbounder.org/Living_Root)
+- <img src="https://starbounder.org/mediawiki/images/4/4f/Plant_Fibre.png" alt="Plant Fibre icon" loading="lazy" height=15px width=14px /> [Plant Fibre](https://starbounder.org/Plant_Fibre)
 
 </details>
 
@@ -108,7 +108,7 @@ Drops from big plants:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" height=16px width="auto" /> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height=16px width="auto" /> [Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode)
 
-<details><summary>Drops from destroyed obstacles: (Expand 6 items)</summary>
+<details markdown="1"><summary>Drops from destroyed obstacles: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_bulb/icon.png" alt="Yaara Bulb icon" loading="lazy" height=16px width="auto" /> [Yaara Bulb](https://ceterai.github.io/MyEnternia/Wiki/YaaraBulb)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_heart/icon.png" alt="Yaara Heart icon" loading="lazy" height=16px width="auto" /> [Yaara Heart](https://ceterai.github.io/MyEnternia/Wiki/YaaraHeart)
@@ -119,7 +119,7 @@ Drops from big plants:
 
 </details>
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Wild Yaara Seed icon" loading="lazy" height=16px width="auto" /> [Wild Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Yaara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaraSapling)

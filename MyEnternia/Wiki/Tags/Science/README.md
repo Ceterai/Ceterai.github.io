@@ -4,7 +4,7 @@ The tag `science-tag` contains 34 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" height=16px width="auto" /> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)
@@ -18,7 +18,7 @@ The tag `science-tag` contains 34 total entries.
 
 ## Tenants
 
-<details><summary>Following tenants require this colony tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 6 items)</summary>
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
@@ -31,7 +31,7 @@ The tag `science-tag` contains 34 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 21 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 21 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/halogen_pack/icon.png" alt="Altered Halogen Pack icon" loading="lazy" height=16px width="auto" /> [Altered Halogen Pack](https://ceterai.github.io/MyEnternia/Wiki/AlteredHalogenPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Researcher Coat icon" loading="lazy" height=16px width="auto" /> [Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/ResearcherCoat)

@@ -2,7 +2,7 @@
 
 Constantly heals you by 1% each second.
 
-<details><summary>Applied by following items: (Expand 13 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" height=16px width="auto" /> [Life Support Pack](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Alta Lab Guard Pack icon" loading="lazy" height=16px width="auto" /> [Alta Lab Guard Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuardPack)

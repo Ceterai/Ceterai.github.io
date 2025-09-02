@@ -6,7 +6,7 @@ A titanium table with crystals and a reinforced stand. Spacey and functional.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Usually hevika crystals can be dangerous and are kept away and discharged, or are powering something.
 - Apex: A one-legged table with hanging down crystals.

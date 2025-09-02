@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Crafting
 
-<details><summary>Unlocks blueprints for: (Expand 16 items)</summary>
+<details markdown="1"><summary>Unlocks blueprints for: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" height=16px width="auto" /> [Aya Candy](https://ceterai.github.io/MyEnternia/Wiki/AyaCandy)
@@ -50,7 +50,7 @@ Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

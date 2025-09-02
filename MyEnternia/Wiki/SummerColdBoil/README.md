@@ -14,16 +14,12 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 30
-- Blocking Effects: `wellfed`
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/jumpboost.png" alt="Velocity Boost icon" loading="lazy" height=16px width="auto" /> [Velocity Boost](https://ceterai.github.io/MyEnternia/Wiki/VelocityBoost)- Duration: 180, 
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" height=16px width="auto" /> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)- Duration: 180
-
-Other variants:
-
-- `ct_gil_tsay_stew-boil-gharus`
 
 ## Crafting
 

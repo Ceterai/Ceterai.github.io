@@ -37,7 +37,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Wild Hive Seed icon" loading="lazy" height=16px width="auto" /> [Wild Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WildHiveSeed)
 
-<details><summary>Can be harvested from: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/boosted/icon.png" alt="Boosted Hive Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedHiveSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/eco/icon.png" alt="Eco Hive Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHiveSapling)

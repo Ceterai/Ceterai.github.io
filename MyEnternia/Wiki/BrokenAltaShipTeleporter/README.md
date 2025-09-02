@@ -6,7 +6,7 @@ A massive teleportation portal, connects to bookmarked locations. Currently brok
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A broken piece of acquired tech. Lets you beam in and out pretty quickly.
 - Apex: The ship's teleporter. I need to power it up.

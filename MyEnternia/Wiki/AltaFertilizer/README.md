@@ -12,7 +12,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Blueprint unlocked by obtaining: (Expand 32 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/icon.png" alt="Alternia Seed icon" loading="lazy" height=16px width="auto" /> [Alternia Seed](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSeed)
@@ -53,7 +53,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 
-<details><summary>Used to craft: (Expand 26 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 26 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height=16px width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/eco/icon.png" alt="Eco Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoAyaSapling)

@@ -4,7 +4,7 @@ The tag `common-tag` contains 328 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 192 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 192 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic1.png" alt="Giant Agaranic Shroom icon" loading="lazy" height=16px width="auto" /> [Giant Agaranic Shroom](https://ceterai.github.io/MyEnternia/Wiki/GiantAgaranicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic2.png" alt="Smug Agaranic Shroom icon" loading="lazy" height=16px width="auto" /> [Smug Agaranic Shroom](https://ceterai.github.io/MyEnternia/Wiki/SmugAgaranicShroom)
@@ -205,7 +205,7 @@ The tag `common-tag` contains 328 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 136 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 136 items)</summary>
 
 - `ct_aid_mimic-bandade`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/backpack/icon.png" alt="Tidy Backpack icon" loading="lazy" height=16px width="auto" /> [Tidy Backpack](https://ceterai.github.io/MyEnternia/Wiki/TidyBackpack)

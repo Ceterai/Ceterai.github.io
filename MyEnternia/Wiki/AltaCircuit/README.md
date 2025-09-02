@@ -6,7 +6,7 @@ A basic alta crystal-based tech component used in most electronics. Can be place
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A simple circuit fragment used in most alta technology.
 - Apex: A logical circuit board.
@@ -21,7 +21,7 @@ A basic alta crystal-based tech component used in most electronics. Can be place
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 24 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 24 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height=16px width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" height=16px width="auto" /> [Alta Button](https://ceterai.github.io/MyEnternia/Wiki/AltaButton)

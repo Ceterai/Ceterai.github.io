@@ -6,7 +6,7 @@ A natural source of salt, wow.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A wild gil plant! I should harvest it to get some gils.
 - Apex: Tastes like a tomato with spices.

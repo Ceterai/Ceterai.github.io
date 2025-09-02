@@ -8,7 +8,7 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Eco chambers like this one are used to safely grow trees on alterash planets, mainly ayakas.
 - Apex: I can plant this to grow a tree.
@@ -31,7 +31,7 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/eco/icon.png" alt="Alta Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod)
 
-<details><summary>Used to craft: (Expand 18 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height=16px width="auto" /> [Blossoming Ayaka](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crimson_tree.png" alt="Crimson Ayaka icon" loading="lazy" height=16px width="auto" /> [Crimson Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrimsonAyaka)
@@ -68,7 +68,7 @@ Can be bought from merchants:
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 
-<details><summary>Can be obtained from special items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

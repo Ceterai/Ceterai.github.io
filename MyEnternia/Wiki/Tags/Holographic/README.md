@@ -4,7 +4,7 @@ The tag `holographic-tag` contains 20 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 20 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 20 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/alta/body.png" alt="Alta Emblem icon" loading="lazy" height=16px width="auto" /> [Alta Emblem](https://ceterai.github.io/MyEnternia/Wiki/AltaEmblem)

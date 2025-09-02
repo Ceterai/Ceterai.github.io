@@ -1,6 +1,6 @@
 # Hevikai Block
 
-Prevents or cures existing ^#0050c0;Hevikai^reset;.
+Prevents or cures existing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" height=16px width="auto" /> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai).
 
 Applied by following items:
 

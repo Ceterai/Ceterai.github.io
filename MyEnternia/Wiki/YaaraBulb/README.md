@@ -6,7 +6,7 @@ A natural biolight source in form of a tiny bulb that looks like a flower.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This flower's light is fueled by the surrounding yaara. After all, it's all a one big plant.
 - Apex: Perhaps this plant contains a bioluminescent substance.

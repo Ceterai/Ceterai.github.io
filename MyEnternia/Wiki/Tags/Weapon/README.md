@@ -8,7 +8,7 @@ The tag `weapon-tag` contains 144 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 144 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 144 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" height=16px width="auto" /> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_baton.png" alt="Alta Baton icon" loading="lazy" height=16px width="auto" /> [Alta Baton](https://ceterai.github.io/MyEnternia/Wiki/AltaBaton)

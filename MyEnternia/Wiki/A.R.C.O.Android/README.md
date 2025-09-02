@@ -11,6 +11,6 @@ A tier 3 alta robotic, android type. Assists during A.R.C.O. research.
 ## Technical Information
 
 - In-game ID: `ct_arco_android_tenant`
-- NPC type: ct_arco_android
-- Priority: 5
+- NPC type: `ct_arco_android`
+- Priority: `5`
 - File: [`/tenants/alta/androids/arco.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/androids/arco.tenant)

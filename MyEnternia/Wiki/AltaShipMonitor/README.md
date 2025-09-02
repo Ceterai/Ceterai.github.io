@@ -6,7 +6,7 @@ A small monitor. But what does it display?
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A small monitor that only accepts encrypted connections. Airtight so can work in any environment.
 - Apex: I can't read this.

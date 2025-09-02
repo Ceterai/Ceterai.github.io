@@ -6,7 +6,7 @@ A massive teleportation portal, connects to bookmarked locations. Since when do 
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A piece of acquired tech. Lets you beam in and out pretty quickly.
 - Apex: The ship's teleporter. Teleporting feels like riding a rollercoaster at the speed of light.

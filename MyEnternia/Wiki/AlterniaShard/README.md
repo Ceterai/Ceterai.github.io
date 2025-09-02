@@ -13,14 +13,14 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 57 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 57 items)</summary>
 
-- `crystal`
-- `crystalbed`
-- `crystalchair`
-- `crystalchest`
-- `crystallamp`
-- `crystaltable`
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height=16px width=12px /> [Crystal](https://starbounder.org/Crystal)
+- <img src="https://starbounder.org/mediawiki/images/a/a6/Crystal_Bed.png" alt="Crystal Bed icon" loading="lazy" height=9px width=18px /> [Crystal Bed](https://starbounder.org/Crystal_Bed)
+- <img src="https://starbounder.org/mediawiki/images/1/10/Crystal_Chair.png" alt="Crystal Chair icon" loading="lazy" height=9px width=6px /> [Crystal Chair](https://starbounder.org/Crystal_Chair)
+- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height=10.5px width=12px /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
+- <img src="https://starbounder.org/mediawiki/images/0/0b/Crystal_Lamp.png" alt="Crystal Lamp icon" loading="lazy" height=12px width=8px /> [Crystal Lamp](https://starbounder.org/Crystal_Lamp)
+- <img src="https://starbounder.org/mediawiki/images/4/48/CrystalTable.png" alt="Crystal Table icon" loading="lazy" height=6px width=15px /> [Crystal Table](https://starbounder.org/Crystal_Table)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Guide ★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
 - `ct_alta_crafting_station9`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" height=16px width="auto" /> [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter)
@@ -93,7 +93,7 @@ Drops from creatures defeated with any **bow**:
 - `ct_hevika_scab`
 - `ct_plasma_nibbler`
 
-<details><summary>Can be obtained from special items: (Expand 7 items)</summary>
+<details markdown="1"><summary>Can be obtained from special items: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)

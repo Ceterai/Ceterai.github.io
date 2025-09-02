@@ -6,7 +6,7 @@ A small geyser wrapped in growing nivera vines.
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 7 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 7 items)</summary>
 
 - Alta: A natural geyser filled with wapred fumes. Or at least was. Not it's just overgrown with nivera.
 - Apex: This small geyser doesn't seem to be active.

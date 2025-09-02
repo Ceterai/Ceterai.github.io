@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Crafting
 
-<details><summary>Used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/console/icon.png" alt="Hevika Console icon" loading="lazy" height=16px width="auto" /> [Hevika Console](https://ceterai.github.io/MyEnternia/Wiki/HevikaConsole)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/hatch/icon.png" alt="Hevika Hatch icon" loading="lazy" height=16px width="auto" /> [Hevika Hatch](https://ceterai.github.io/MyEnternia/Wiki/HevikaHatch)

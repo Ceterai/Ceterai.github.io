@@ -8,7 +8,7 @@ The tag `calin_cuisine-tag` contains 36 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 36 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 36 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" height=16px width="auto" /> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Ayabaycalin Tea icon" loading="lazy" height=16px width="auto" /> [Ayabaycalin Tea](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinTea)

@@ -6,7 +6,7 @@ An [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) on its blos
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A beautiful blossoming ayaka will grow from this sapling! Amazing!
 - Apex: I can plant this to grow a tree.

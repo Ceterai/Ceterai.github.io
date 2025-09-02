@@ -1,13 +1,13 @@
 # Plasma Bursts
 
-Periodically burst with ^#2080f0;pure plasma^reset;.
+Periodically burst with [pure plasma](https://ceterai.github.io/MyEnternia/Wiki/pureplasma).
 
 ## Parameters
 
 - Default Duration: 60s
 - Effect parameters: 
 
-- Range: 3- Type: `ct_plasma`- Damage Multiplier: 1- Cooldown: 4.0
+- Range: 3- Type: <img src="/damage/ct_plasma.png" alt="Plasma icon" loading="lazy" height=16px width=16px /> [Plasma](Alternia#damage)- Damage Multiplier: 1- Cooldown: 4.0
 
 ## Technical Information
 

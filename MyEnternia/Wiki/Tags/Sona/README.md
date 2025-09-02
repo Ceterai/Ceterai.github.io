@@ -4,7 +4,7 @@ The tag `sona-tag` contains 18 total entries.
 
 ## Objects
 
-<details><summary>Following objects have this colony tag: (Expand 6 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/boosted/icon.png" alt="Boosted Sonava Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Sonava Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedSonavaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
@@ -19,7 +19,7 @@ The tag `sona-tag` contains 18 total entries.
 
 ## Items
 
-<details><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png" alt="Sona Rifle SG5 icon" loading="lazy" height=16px width="auto" /> [Sona Rifle SG5](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle_2.png" alt="Sona Rifle SG5X ★ icon" loading="lazy" height=16px width="auto" /> [Sona Rifle SG5X ★](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5X)

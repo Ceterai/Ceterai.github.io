@@ -6,7 +6,7 @@ This [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) has overg
 
 ## Ingame
 
-<details><summary>Species descriptions: (Expand 8 items)</summary>
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This chamber contains a sapling of a crystal-filled ayaka. Doesn't look like it has crystals on it right now though.
 - Apex: I can plant this to grow a tree.
