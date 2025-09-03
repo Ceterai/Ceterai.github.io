@@ -1,6 +1,6 @@
 # Antorash Tag
 
-The tag `antorash-tag` contains 2 total entries.
+The tag `antorash` contains 2 total entries.
 
 ## Objects
 

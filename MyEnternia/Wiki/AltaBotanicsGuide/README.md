@@ -23,16 +23,16 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height=16px width="auto" /> [Young Ayaka](https://ceterai.github.io/MyEnternia/Wiki/YoungAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" height=16px width="auto" /> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_lush_grass_seeds.png" alt="Lush Grass Seeds icon" loading="lazy" height=16px width="auto" /> [Lush Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/LushGrassSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height=16px width="auto" /> [Young Ayaka](https://ceterai.github.io/MyEnternia/Wiki/YoungAyaka)
 
 ## Sources
 
 Can be bought from merchants:
 
-- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
 ## Technical Information
 

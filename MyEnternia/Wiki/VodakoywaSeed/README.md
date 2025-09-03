@@ -10,6 +10,10 @@ Species descriptions:
 
 - Alta: Vodakoywa plants are pretty rare to find on the riversides, among all other koywa plants.
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Crafting
 
 Blueprint unlocked by obtaining:
@@ -24,8 +28,8 @@ Unlocks blueprints for:
 
 Used to craft:
 
-- `cottonseed`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVodakoywaSapling)
+- <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" height=12px width=5.875px /> [Cotton Seed](https://starbounder.org/Cotton_Seed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/pod/icon.png" alt="Vodakoywa Eco Pod icon" loading="lazy" height=16px width="auto" /> [Vodakoywa Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/sapling/icon.png" alt="Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSapling)
@@ -34,8 +38,8 @@ Used to craft:
 
 Can be bought from merchants:
 
-- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Gyera Archiver](https://ceterai.github.io/MyEnternia/Wiki/GyeraArchiver)
+- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
 Drops from destroyed obstacles:
 

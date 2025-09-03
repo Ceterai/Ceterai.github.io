@@ -18,8 +18,8 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" height=16px width="auto" /> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" height=16px width="auto" /> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
 
 Used to craft:
 

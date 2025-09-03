@@ -27,18 +27,18 @@ Other variants:
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 12 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height=16px width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height=16px width="auto" /> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Alta Pear icon" loading="lazy" height=16px width="auto" /> [Baked Alta Pear](https://ceterai.github.io/MyEnternia/Wiki/BakedAltaPear)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Aya Mash icon" loading="lazy" height=16px width="auto" /> [Aya Mash](https://ceterai.github.io/MyEnternia/Wiki/AyaMash)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Xenopod icon" loading="lazy" height=16px width="auto" /> [Baked Xenopod](https://ceterai.github.io/MyEnternia/Wiki/BakedXenopod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Yaara Mash icon" loading="lazy" height=16px width="auto" /> [Yaara Mash](https://ceterai.github.io/MyEnternia/Wiki/YaaraMash)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" height=16px width="auto" /> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" height=16px width="auto" /> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height=16px width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Aya Mash icon" loading="lazy" height=16px width="auto" /> [Aya Mash](https://ceterai.github.io/MyEnternia/Wiki/AyaMash)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Alta Pear icon" loading="lazy" height=16px width="auto" /> [Baked Alta Pear](https://ceterai.github.io/MyEnternia/Wiki/BakedAltaPear)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height=16px width="auto" /> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Xenopod icon" loading="lazy" height=16px width="auto" /> [Baked Xenopod](https://ceterai.github.io/MyEnternia/Wiki/BakedXenopod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" height=16px width="auto" /> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Haven Pouches icon" loading="lazy" height=16px width="auto" /> [Haven Pouches](https://ceterai.github.io/MyEnternia/Wiki/HavenPouches)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Violas icon" loading="lazy" height=16px width="auto" /> [Violas](https://ceterai.github.io/MyEnternia/Wiki/Violas)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Perfectly Cooked Tsay icon" loading="lazy" height=16px width="auto" /> [Perfectly Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/PerfectlyCookedTsay)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Violas icon" loading="lazy" height=16px width="auto" /> [Violas](https://ceterai.github.io/MyEnternia/Wiki/Violas)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Yaara Mash icon" loading="lazy" height=16px width="auto" /> [Yaara Mash](https://ceterai.github.io/MyEnternia/Wiki/YaaraMash)
 
 </details>
 
@@ -61,16 +61,16 @@ Can be bought from merchants:
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 10 items)</summary>
 
-- [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)
-- [Alta Executive](https://ceterai.github.io/MyEnternia/Wiki/AltaExecutive)
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
+- [Alta Executive](https://ceterai.github.io/MyEnternia/Wiki/AltaExecutive)
 - [Alta Official](https://ceterai.github.io/MyEnternia/Wiki/AltaOfficial)
 - [Alta Princess](https://ceterai.github.io/MyEnternia/Wiki/AltaPrincess)
-- [Alta Security Officer](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityOfficer)
+- [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Security Commander](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCommander)
-- [EDS Officer](https://ceterai.github.io/MyEnternia/Wiki/EDSOfficer)
+- [Alta Security Officer](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityOfficer)
 - [EDS Commander](https://ceterai.github.io/MyEnternia/Wiki/EDSCommander)
+- [EDS Officer](https://ceterai.github.io/MyEnternia/Wiki/EDSOfficer)
 
 </details>
 

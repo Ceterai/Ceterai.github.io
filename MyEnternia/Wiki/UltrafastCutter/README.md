@@ -12,6 +12,12 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon.png" alt="Altan Watercan icon" loading="lazy" height=16px width="auto" /> [Altan Watercan](https://ceterai.github.io/MyEnternia/Wiki/AltanWatercan)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_lumber_cutter-upgrade`

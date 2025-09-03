@@ -30,14 +30,14 @@ Other variants:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height=16px width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Ayabaycalin Tea icon" loading="lazy" height=16px width="auto" /> [Ayabaycalin Tea](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Calin Chip Cookies icon" loading="lazy" height=16px width="auto" /> [Calin Chip Cookies](https://ceterai.github.io/MyEnternia/Wiki/CalinChipCookies)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" height=16px width="auto" /> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Ayabaycalin Tea icon" loading="lazy" height=16px width="auto" /> [Ayabaycalin Tea](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Carel Tea icon" loading="lazy" height=16px width="auto" /> [Carel Tea](https://ceterai.github.io/MyEnternia/Wiki/CarelTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Thick Calio Tea ★ icon" loading="lazy" height=16px width="auto" /> [Thick Calio Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ThickCalioTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" height=16px width="auto" /> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Calin Chip Cookies icon" loading="lazy" height=16px width="auto" /> [Calin Chip Cookies](https://ceterai.github.io/MyEnternia/Wiki/CalinChipCookies)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" height=16px width="auto" /> [Candy Cookies ★](https://ceterai.github.io/MyEnternia/Wiki/CandyCookies)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Carel Tea icon" loading="lazy" height=16px width="auto" /> [Carel Tea](https://ceterai.github.io/MyEnternia/Wiki/CarelTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" height=16px width="auto" /> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Thick Calio Tea ★ icon" loading="lazy" height=16px width="auto" /> [Thick Calio Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ThickCalioTea)
 
 </details>
 
@@ -56,8 +56,8 @@ Given as rent by tenants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
-- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 
 ## Technical Information
 

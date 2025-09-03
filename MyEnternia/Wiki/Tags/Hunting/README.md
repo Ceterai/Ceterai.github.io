@@ -1,6 +1,6 @@
 # Hunting Tag
 
-The tag `hunting-tag` contains 3 total entries.
+The tag `hunting` contains 3 total entries.
 
 ## Objects
 

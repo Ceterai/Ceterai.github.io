@@ -1,6 +1,6 @@
 # Data Storage Tag
 
-The tag `data_storage-tag` contains 1 total entries.
+The tag `data_storage` contains 1 total entries.
 
 ## Objects
 

@@ -30,13 +30,13 @@ Other variants:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height=16px width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" height=16px width="auto" /> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Essence icon" loading="lazy" height=16px width="auto" /> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" height=16px width="auto" /> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" height=16px width="auto" /> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" height=16px width="auto" /> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Essence icon" loading="lazy" height=16px width="auto" /> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" height=16px width="auto" /> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" height=16px width="auto" /> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izopoi Honey icon" loading="lazy" height=16px width="auto" /> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" height=16px width="auto" /> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh)
 
 </details>
 
@@ -58,8 +58,8 @@ Given as rent by tenants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
-- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 
 Drops from destroyed obstacles:
 

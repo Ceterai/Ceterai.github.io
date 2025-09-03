@@ -1,6 +1,6 @@
 # Snack Tag
 
-The tag `snack-tag` contains 4 total entries.
+The tag `snack` contains 4 total entries.
 
 ## Objects
 
@@ -10,7 +10,7 @@ The tag `snack-tag` contains 4 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" height=16px width="auto" /> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Alien Pearls icon" loading="lazy" height=16px width="auto" /> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Hot Yaarings icon" loading="lazy" height=16px width="auto" /> [Hot Yaarings](https://ceterai.github.io/MyEnternia/Wiki/HotYaarings)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Poivani icon" loading="lazy" height=16px width="auto" /> [Poivani](https://ceterai.github.io/MyEnternia/Wiki/Poivani)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" height=16px width="auto" /> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings)

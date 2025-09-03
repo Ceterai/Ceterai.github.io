@@ -1,6 +1,6 @@
 # Armor Tag
 
-The tag `armor-tag` contains 7 total entries.
+The tag `armor` contains 7 total entries.
 
 ## Objects
 

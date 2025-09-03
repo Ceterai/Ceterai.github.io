@@ -23,10 +23,10 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" height=16px width="auto" /> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" height=16px width="auto" /> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" height=16px width="auto" /> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" height=16px width="auto" /> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/gyera/icon.png" alt="Gyera Sprinkler icon" loading="lazy" height=16px width="auto" /> [Gyera Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/GyeraSprinkler)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" height=16px width="auto" /> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan)
 
 Used to craft:
 

@@ -28,9 +28,9 @@ Other variants:
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height=16px width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Caretaker's Ometonna ★ icon" loading="lazy" height=16px width="auto" /> [Caretaker's Ometonna ★](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sOmetonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" height=16px width="auto" /> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Caretaker's Ometonna ★ icon" loading="lazy" height=16px width="auto" /> [Caretaker's Ometonna ★](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sOmetonna)
 
 Unlocks blueprints for:
 
@@ -48,8 +48,8 @@ Given as rent by tenants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
-- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 
 Drops from destroyed obstacles:
 

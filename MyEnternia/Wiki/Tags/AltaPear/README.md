@@ -1,6 +1,6 @@
 # Alta Pear Tag
 
-The tag `alta_pear-tag` contains 1 total entries.
+The tag `alta_pear` contains 1 total entries.
 
 ## Objects
 

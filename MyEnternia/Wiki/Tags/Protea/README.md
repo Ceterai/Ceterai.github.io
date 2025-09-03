@@ -1,6 +1,6 @@
 # Protea Tag
 
-The tag `protea-tag` contains 3 total entries.
+The tag `protea` contains 3 total entries.
 
 ## Objects
 

@@ -20,16 +20,16 @@ Species descriptions:
 
 <details markdown="1"><summary>Used to craft: (Expand 13 items)</summary>
 
-- `ct_aid_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height=16px width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_bionid_augment.png" alt="Bionid Augment icon" loading="lazy" height=16px width="auto" /> [Bionid Augment](https://ceterai.github.io/MyEnternia/Wiki/BionidAugment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/bionid.png" alt="Bionid Glowstick icon" loading="lazy" height=16px width="auto" /> [Bionid Glowstick](https://ceterai.github.io/MyEnternia/Wiki/BionidGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bionid/icon.png" alt="Bionid Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Bionid Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/BionidSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" height=16px width="auto" /> [Bulbonid](https://ceterai.github.io/MyEnternia/Wiki/Bulbonid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/bionid.png" alt="Bionid Glowstick icon" loading="lazy" height=16px width="auto" /> [Bionid Glowstick](https://ceterai.github.io/MyEnternia/Wiki/BionidGlowstick)
+- `ct_aid_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height=16px width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" height=16px width="auto" /> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height=16px width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_spiral_tree.png" alt="Tonnova Spiral icon" loading="lazy" height=16px width="auto" /> [Tonnova Spiral](https://ceterai.github.io/MyEnternia/Wiki/TonnovaSpiral)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" height=16px width="auto" /> [Tonnova Tree](https://ceterai.github.io/MyEnternia/Wiki/TonnovaTree)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" height=16px width="auto" /> [Wide Tonnova](https://ceterai.github.io/MyEnternia/Wiki/WideTonnova)

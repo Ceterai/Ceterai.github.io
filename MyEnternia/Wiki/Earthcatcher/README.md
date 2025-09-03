@@ -12,6 +12,12 @@ Radiomessages on pickup:
 
 - The item you just got seems to have come for alterash haven - flowery areas on alterash planets that tend to have higher levels of toxicity than surrounding nature. Although it equals to toxicity levels on most green planets, it's not a usual sight here, so I would recommend being careful.
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
 ## Technical Information
 
 - In-game ID: `ct_haven_tiller-upgrade`

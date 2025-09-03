@@ -1,6 +1,6 @@
 # Spice Tag
 
-The tag `spice-tag` contains 2 total entries.
+The tag `spice` contains 2 total entries.
 
 ## Objects
 

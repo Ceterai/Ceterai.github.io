@@ -1,6 +1,6 @@
 # Crafting Tag
 
-The tag `crafting-tag` contains 20 total entries.
+The tag `crafting` contains 20 total entries.
 
 ## Objects
 

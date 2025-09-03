@@ -8,6 +8,25 @@ A light version of the original EDS visor.
 
 - Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height=16px width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision)
 
+## Sources
+
+<details markdown="1"><summary>Can be bought from merchants: (Expand 12 items)</summary>
+
+- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
+- [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
+- [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
+- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
+- [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
+- [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
+- [Hevika Archiver](https://ceterai.github.io/MyEnternia/Wiki/HevikaArchiver)
+- [MKI Archiver](https://ceterai.github.io/MyEnternia/Wiki/MKIArchiver)
+- [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
+- [Tserera Archiver](https://ceterai.github.io/MyEnternia/Wiki/TsereraArchiver)
+
+</details>
+
 ## Technical Information
 
 - In-game ID: `ct_eds_visor-light`

@@ -57,6 +57,11 @@ Can be bought from merchants:
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaMiner)
 
+Given as rent by tenants:
+
+- [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)
+- [Dreamer Android](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_circuit`

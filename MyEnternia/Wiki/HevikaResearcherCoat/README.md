@@ -11,6 +11,12 @@ Species descriptions:
 
 - Alta: A nice middleground between official-ness and practicality.
 
+## Sources
+
+Can be bought from merchants:
+
+- [Hevika Archiver](https://ceterai.github.io/MyEnternia/Wiki/HevikaArchiver)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_researcher_coat-hevika`

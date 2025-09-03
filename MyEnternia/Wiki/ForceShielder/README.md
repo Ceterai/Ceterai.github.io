@@ -22,10 +22,10 @@ Species descriptions:
 Used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height=16px width="auto" /> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" height=16px width="auto" /> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png" alt="Protohelmet icon" loading="lazy" height=16px width="auto" /> [Protohelmet](https://ceterai.github.io/MyEnternia/Wiki/Protohelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height=16px width="auto" /> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" height=16px width="auto" /> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
 
 ## Sources
 

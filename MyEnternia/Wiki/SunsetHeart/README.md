@@ -21,6 +21,13 @@ Radiomessages on pickup:
 
 - Stat: `breathProtection`- Amount: 1.0
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
 ## Technical Information
 
 - In-game ID: `ct_dreamer_helmet-viona`

@@ -33,8 +33,8 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" height=16px width="auto" /> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" height=16px width="auto" /> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" height=16px width="auto" /> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber)
 
 ## Sources
 

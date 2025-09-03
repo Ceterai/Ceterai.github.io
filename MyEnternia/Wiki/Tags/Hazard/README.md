@@ -1,6 +1,6 @@
 # Hazard Tag
 
-The tag `hazard-tag` contains 4 total entries.
+The tag `hazard` contains 4 total entries.
 
 ## Objects
 

@@ -15,6 +15,13 @@ Species descriptions:
 
 - Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" height=16px width="auto" /> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
 ## Technical Information
 
 - In-game ID: `ct_eds_chest-koywa`

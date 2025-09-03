@@ -31,6 +31,16 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height=16px width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Staris Soup icon" loading="lazy" height=16px width="auto" /> [Staris Soup](https://ceterai.github.io/MyEnternia/Wiki/StarisSoup)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height=16px width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
+
 ## Technical Information
 
 - In-game ID: `ct_rimar_motsu-perfect`

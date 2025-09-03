@@ -1,6 +1,6 @@
 # Vionos Tag
 
-The tag `vionos-tag` contains 2 total entries.
+The tag `vionos` contains 2 total entries.
 
 ## Objects
 

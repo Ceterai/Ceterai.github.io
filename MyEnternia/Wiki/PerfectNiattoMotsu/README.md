@@ -29,6 +29,16 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height=16px width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" height=16px width="auto" /> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height=16px width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
+
 ## Technical Information
 
 - In-game ID: `ct_niatto_motsu-perfect`

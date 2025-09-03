@@ -4,6 +4,12 @@
 
 An EPP module that slightly boosts your power and movement speed.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Sources
 
 Can be bought from merchants:

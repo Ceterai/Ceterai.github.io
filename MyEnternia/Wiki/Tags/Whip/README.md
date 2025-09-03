@@ -1,6 +1,6 @@
 # Whip Tag
 
-The tag `whip-tag` contains 1 total entries.
+The tag `whip` contains 1 total entries.
 
 ## Objects
 
@@ -10,4 +10,4 @@ The tag `whip-tag` contains 1 total entries.
 
 Following items have this item tag:
 
-- `ct_tool_mimic-alter_whip`
+- [Alter-Lighting ★★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Lighting)

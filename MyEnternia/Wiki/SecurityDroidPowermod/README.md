@@ -30,12 +30,12 @@ Drops from defeated creatures:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/elin.png" alt="Elin Drone ★ icon" loading="lazy" height=16px width="auto" /> [Elin Drone ★](https://ceterai.github.io/MyEnternia/Wiki/ElinDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/trans.png" alt="Orchid Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Orchid Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/OrchidDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" height=16px width="auto" /> [Security Drone](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Sentry Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/SentryDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" height=16px width="auto" /> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/trans.png" alt="Orchid Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Orchid Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/OrchidDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/elin.png" alt="Elin Drone ★ icon" loading="lazy" height=16px width="auto" /> [Elin Drone ★](https://ceterai.github.io/MyEnternia/Wiki/ElinDrone)
 
 </details>
 

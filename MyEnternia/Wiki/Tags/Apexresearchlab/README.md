@@ -1,6 +1,6 @@
 # Apexresearchlab Tag
 
-The tag `apexresearchlab-tag` contains 4 total entries.
+The tag `apexresearchlab` contains 4 total entries.
 
 ## Objects
 

@@ -1,6 +1,6 @@
 # Io Tag
 
-The tag `io-tag` contains 1 total entries.
+The tag `io` contains 1 total entries.
 
 ## Objects
 

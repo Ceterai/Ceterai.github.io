@@ -32,10 +32,10 @@ Other variants:
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height=16px width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height=16px width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Calming Tea ★ icon" loading="lazy" height=16px width="auto" /> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Crimson Plant Tea ★ icon" loading="lazy" height=16px width="auto" /> [Crimson Plant Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CrimsonPlantTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height=16px width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 
 Unlocks blueprints for:
 
@@ -53,8 +53,8 @@ Given as rent by tenants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
-- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 
 ## Technical Information
 

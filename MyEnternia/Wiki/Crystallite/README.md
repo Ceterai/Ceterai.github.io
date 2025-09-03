@@ -22,6 +22,14 @@ Radiomessages on pickup:
 - Cooldown: 0.45s
 - Knockback: 10
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Cal Merchant](https://ceterai.github.io/MyEnternia/Wiki/CalMerchant)
+
 ## Technical Information
 
 - In-game ID: `ct_calin_shield-amethyst`

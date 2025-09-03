@@ -1,6 +1,6 @@
 # GR "Animus" ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR "Animus" ★ icon" loading="lazy" height=16px width="auto" /> **GR "Animus" ★** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR Animus ★ icon" loading="lazy" height=16px width="auto" /> **GR "Animus" ★** is a legendary head item.
 
 A high-tech enternia artifact that hides unknown power. And your face with it.  
 Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
@@ -23,6 +23,13 @@ Radiomessages on pickup:
 - Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height=16px width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer), 
 
 - Stat: `breathProtection`- Amount: 1.0
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 
 ## Technical Information
 

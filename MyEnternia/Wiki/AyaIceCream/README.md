@@ -28,11 +28,11 @@ Other variants:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height=16px width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" height=16px width="auto" /> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Virma Honey icon" loading="lazy" height=16px width="auto" /> [Virma Honey](https://ceterai.github.io/MyEnternia/Wiki/VirmaHoney)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Runeva Jam icon" loading="lazy" height=16px width="auto" /> [Runeva Jam](https://ceterai.github.io/MyEnternia/Wiki/RunevaJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Estralis Extract icon" loading="lazy" height=16px width="auto" /> [Estralis Extract](https://ceterai.github.io/MyEnternia/Wiki/EstralisExtract)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Runeva Jam icon" loading="lazy" height=16px width="auto" /> [Runeva Jam](https://ceterai.github.io/MyEnternia/Wiki/RunevaJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Virma Honey icon" loading="lazy" height=16px width="auto" /> [Virma Honey](https://ceterai.github.io/MyEnternia/Wiki/VirmaHoney)
 
 </details>
 
@@ -41,10 +41,6 @@ Other variants:
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
-
-Drops from destroyed obstacles:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height=16px width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
 
 ## Technical Information
 

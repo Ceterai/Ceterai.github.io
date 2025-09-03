@@ -1,6 +1,6 @@
 # Tier3Clothing Tag
 
-The tag `tier3clothing-tag` contains 2 total entries.
+The tag `tier3clothing` contains 2 total entries.
 
 ## Objects
 

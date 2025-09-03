@@ -35,16 +35,16 @@ Can be bought from merchants:
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 10 items)</summary>
 
-- [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)
-- [Alta Executive](https://ceterai.github.io/MyEnternia/Wiki/AltaExecutive)
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
+- [Alta Executive](https://ceterai.github.io/MyEnternia/Wiki/AltaExecutive)
 - [Alta Official](https://ceterai.github.io/MyEnternia/Wiki/AltaOfficial)
 - [Alta Princess](https://ceterai.github.io/MyEnternia/Wiki/AltaPrincess)
-- [Alta Security Officer](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityOfficer)
+- [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Security Commander](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCommander)
-- [EDS Officer](https://ceterai.github.io/MyEnternia/Wiki/EDSOfficer)
+- [Alta Security Officer](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityOfficer)
 - [EDS Commander](https://ceterai.github.io/MyEnternia/Wiki/EDSCommander)
+- [EDS Officer](https://ceterai.github.io/MyEnternia/Wiki/EDSOfficer)
 
 </details>
 

@@ -1,6 +1,6 @@
 # Core Tag
 
-The tag `core-tag` contains 8 total entries.
+The tag `core` contains 8 total entries.
 
 ## Objects
 
@@ -8,9 +8,9 @@ The tag `core-tag` contains 8 total entries.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/boosted/icon.png" alt="Boosted Faacain Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Faacain Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedFaacainSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Faacain Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoFaacainSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height=16px width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/pod/icon.png" alt="Faacain Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faacain Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaacainEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" height=16px width="auto" /> [Faacain Sapling](https://ceterai.github.io/MyEnternia/Wiki/FaacainSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height=16px width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Wild Faacain Bud icon" loading="lazy" height=16px width="auto" /> [Wild Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/WildFaacainBud)
 
 </details>

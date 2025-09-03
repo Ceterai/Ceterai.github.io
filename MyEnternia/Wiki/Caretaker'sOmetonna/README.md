@@ -27,6 +27,12 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonna Meringue icon" loading="lazy" height=16px width="auto" /> [Tonna Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnaMeringue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" height=16px width="auto" /> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
 ## Technical Information
 
 - In-game ID: `ct_ometonna-caretaker`

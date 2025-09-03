@@ -1,6 +1,6 @@
 # Gheatorn Tag
 
-The tag `gheatorn-tag` contains 4 total entries.
+The tag `gheatorn` contains 4 total entries.
 
 ## Objects
 

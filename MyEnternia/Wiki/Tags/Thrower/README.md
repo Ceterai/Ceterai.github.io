@@ -1,6 +1,6 @@
 # Thrower Tag
 
-The tag `thrower-tag` contains 1 total entries.
+The tag `thrower` contains 1 total entries.
 
 ## Objects
 

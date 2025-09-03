@@ -44,8 +44,8 @@ Radiomessages on pickup:
 
 Can be bought from merchants:
 
-- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
 ## Technical Information
 

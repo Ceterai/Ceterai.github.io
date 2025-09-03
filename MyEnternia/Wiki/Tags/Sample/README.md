@@ -1,6 +1,6 @@
 # Sample Tag
 
-The tag `sample-tag` contains 16 total entries.
+The tag `sample` contains 16 total entries.
 
 ## Objects
 

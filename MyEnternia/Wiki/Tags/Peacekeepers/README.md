@@ -1,6 +1,6 @@
 # Peacekeepers Tag
 
-The tag `peacekeepers-tag` contains 1 total entries.
+The tag `peacekeepers` contains 1 total entries.
 
 ## Objects
 

@@ -14,8 +14,8 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" height=16px width="auto" /> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" height=16px width="auto" /> [Nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" height=16px width="auto" /> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation)
 
 ## Sources
 

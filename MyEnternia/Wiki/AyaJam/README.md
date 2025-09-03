@@ -9,7 +9,7 @@ It gets pretty tingy depending on the juice and powder ratio, but you can rarely
 
 Species descriptions:
 
-- Alta: No idea what others think, but it goes very well on [caliopa](https://ceterai.github.io/MyEnternia/Wiki/caliopa) and even as an [alta charlotte](https://ceterai.github.io/MyEnternia/Wiki/altacharlotte)'s filling.
+- Alta: No idea what others think, but it goes very well on [caliopa](https://ceterai.github.io/MyEnternia/Wiki/caliopa) and even as an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Charlotte icon" loading="lazy" height=16px width="auto" /> [alta charlotte](https://ceterai.github.io/MyEnternia/Wiki/AltaCharlotte)'s filling.
 
 ## Parameters
 
@@ -28,8 +28,8 @@ Other variants:
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height=16px width="auto" /> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" height=16px width="auto" /> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Blue Boil icon" loading="lazy" height=16px width="auto" /> [Blue Boil](https://ceterai.github.io/MyEnternia/Wiki/BlueBoil)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" height=16px width="auto" /> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas)
 
 Unlocks blueprints for:
 

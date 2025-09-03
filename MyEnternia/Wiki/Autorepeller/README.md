@@ -4,9 +4,9 @@ Launches an [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) wa
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" height=16px width="auto" /> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="GR Guard ★ icon" loading="lazy" height=16px width="auto" /> [GR Guard ★](https://ceterai.github.io/MyEnternia/Wiki/GRGuard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Repelling Stim Pack ★ icon" loading="lazy" height=16px width="auto" /> [Repelling Stim Pack ★](https://ceterai.github.io/MyEnternia/Wiki/RepellingStimPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" height=16px width="auto" /> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor)
 
 ## Parameters
 

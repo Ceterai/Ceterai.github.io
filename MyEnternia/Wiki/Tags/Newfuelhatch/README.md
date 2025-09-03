@@ -1,6 +1,6 @@
 # Newfuelhatch Tag
 
-The tag `newfuelhatch-tag` contains 1 total entries.
+The tag `newfuelhatch` contains 1 total entries.
 
 ## Objects
 

@@ -1,6 +1,6 @@
 # Restroom Tag
 
-The tag `restroom-tag` contains 3 total entries.
+The tag `restroom` contains 3 total entries.
 
 ## Objects
 

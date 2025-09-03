@@ -1,6 +1,6 @@
 # Oasis Tag
 
-The tag `oasis-tag` contains 1 total entries.
+The tag `oasis` contains 1 total entries.
 
 ## Objects
 

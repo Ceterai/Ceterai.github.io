@@ -11,6 +11,10 @@ Species descriptions:
 
 - Alta: I think this is what MKI intruders use to make our tech look like Miniknog's.
 
+Radiomessages on pickup:
+
+- You discovered dye. With these you can colour your attire to your liking. You can apply one to any piece of armour or clothing with a right-click.
+
 ## Sources
 
 Can be bought from merchants:

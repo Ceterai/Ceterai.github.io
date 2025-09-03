@@ -1,6 +1,6 @@
 # Terminal Tag
 
-The tag `terminal-tag` contains 10 total entries.
+The tag `terminal` contains 10 total entries.
 
 ## Objects
 

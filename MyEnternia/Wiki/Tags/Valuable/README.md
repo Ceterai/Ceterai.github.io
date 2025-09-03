@@ -1,14 +1,13 @@
 # Valuable Tag
 
-The tag `valuable-tag` contains 71 total entries.
+The tag `valuable` contains 71 total entries.
 
 ## Objects
 
 <details markdown="1"><summary>Following objects have this colony tag: (Expand 66 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" height=16px width="auto" /> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" height=16px width="auto" /> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" height=16px width="auto" /> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" height=16px width="auto" /> [Alta Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaLennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_alta_trophy.png" alt="Alta Trophy ★ icon" loading="lazy" height=16px width="auto" /> [Alta Trophy ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/alternia/icon.png" alt="Alternia Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Alternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSample)
@@ -27,6 +26,9 @@ The tag `valuable-tag` contains 71 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_celestia_trophy.png" alt="Celestia's Trophy ★ icon" loading="lazy" height=16px width="auto" /> [Celestia's Trophy ★](https://ceterai.github.io/MyEnternia/Wiki/Celestia'sTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_ceterai_af.png" alt="Ceterai Figurine ★★★★ icon" loading="lazy" height=16px width="auto" /> [Ceterai Figurine ★★★★](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Ceternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSample)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Collectioner's Prize ★ icon" loading="lazy" height=16px width="auto" /> [Collectioner's Prize ★](https://ceterai.github.io/MyEnternia/Wiki/Collectioner'sPrize)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Collectioner's Reward ★★ icon" loading="lazy" height=16px width="auto" /> [Collectioner's Reward ★★](https://ceterai.github.io/MyEnternia/Wiki/Collectioner'sReward)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Collectioner's Trophy ★★★ icon" loading="lazy" height=16px width="auto" /> [Collectioner's Trophy ★★★](https://ceterai.github.io/MyEnternia/Wiki/Collectioner'sTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crippit.png" alt="Crippit Figurine icon" loading="lazy" height=16px width="auto" /> [Crippit Figurine](https://ceterai.github.io/MyEnternia/Wiki/CrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_crippit_scab.png" alt="Crippit Scab ★ icon" loading="lazy" height=16px width="auto" /> [Crippit Scab ★](https://ceterai.github.io/MyEnternia/Wiki/CrippitScab)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_crystal_poptop.png" alt="Crystal Poptop Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Crystal Poptop Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalPoptopFigurine)
@@ -53,9 +55,6 @@ The tag `valuable-tag` contains 71 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_narfin_trophy.png" alt="Narfin Trophy ★★★ icon" loading="lazy" height=16px width="auto" /> [Narfin Trophy ★★★](https://ceterai.github.io/MyEnternia/Wiki/NarfinTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/anglure/ct_nightmare_anglure.png" alt="Nightmare Anglure Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Nightmare Anglure Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/NightmareAnglureFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/orbide/ct_nightmare_orbide.png" alt="Nightmare Orbide Figurine icon" loading="lazy" height=16px width="auto" /> [Nightmare Orbide Figurine](https://ceterai.github.io/MyEnternia/Wiki/NightmareOrbideFigurine)
-- `ct_obj_mimic-collect_trophy1`
-- `ct_obj_mimic-collect_trophy2`
-- `ct_obj_mimic-collect_trophy3`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_obsidian_crippit.png" alt="Obsidian Crippit Figurine ★★ icon" loading="lazy" height=16px width="auto" /> [Obsidian Crippit Figurine ★★](https://ceterai.github.io/MyEnternia/Wiki/ObsidianCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_omni_narfin.png" alt="Omni Narfin Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Omni Narfin Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/OmniNarfinFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crustoise/ct_overcharged_crustoise.png" alt="Overcharged Crustoise Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Overcharged Crustoise Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrustoiseFigurine)
@@ -66,6 +65,7 @@ The tag `valuable-tag` contains 71 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_stardust_narfin.png" alt="Stardust Narfin Figurine icon" loading="lazy" height=16px width="auto" /> [Stardust Narfin Figurine](https://ceterai.github.io/MyEnternia/Wiki/StardustNarfinFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/stardust/icon.png" alt="Stardust Sample ★ icon" loading="lazy" height=16px width="auto" /> [Stardust Sample ★](https://ceterai.github.io/MyEnternia/Wiki/StardustSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_stardust_trophy.png" alt="Stardust Trophy ★★★★ icon" loading="lazy" height=16px width="auto" /> [Stardust Trophy ★★★★](https://ceterai.github.io/MyEnternia/Wiki/StardustTrophy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" height=16px width="auto" /> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_valley_poptop.png" alt="Valley Poptop Figurine ★★ icon" loading="lazy" height=16px width="auto" /> [Valley Poptop Figurine ★★](https://ceterai.github.io/MyEnternia/Wiki/ValleyPoptopFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/anglure/ct_warped_anglure.png" alt="Warped Anglure Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Warped Anglure Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedAnglureFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/warped/icon.png" alt="Warped Sample icon" loading="lazy" height=16px width="auto" /> [Warped Sample](https://ceterai.github.io/MyEnternia/Wiki/WarpedSample)
@@ -86,6 +86,6 @@ Following tenants require this colony tag:
 
 Following items have this item tag:
 
-- `ct_body_mimic-calin_dress`
-- `ct_head_mimic-yaara_keeper_crown`
-- `ct_legs_mimic-calin_dress`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Dress Bottom icon" loading="lazy" height=16px width="auto" /> [Calin Dress Bottom](https://ceterai.github.io/MyEnternia/Wiki/CalinDressBottom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Dress Top icon" loading="lazy" height=16px width="auto" /> [Calin Dress Top](https://ceterai.github.io/MyEnternia/Wiki/CalinDressTop)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaarafinger's Crown ★ icon" loading="lazy" height=16px width="auto" /> [Yaarafinger's Crown ★](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger'sCrown)

@@ -10,6 +10,7 @@ Radiomessages on pickup:
 
 - Beware of the warped items you just acquired. Warped is a form of wild growth found mainly on alterash planets, that tends to spread uncontrollably and contaminate everything in its path.  
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
+- You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
 
 ## Sources
 

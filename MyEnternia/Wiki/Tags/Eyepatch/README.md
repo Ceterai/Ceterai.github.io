@@ -1,6 +1,6 @@
 # Eyepatch Tag
 
-The tag `eyepatch-tag` contains 2 total entries.
+The tag `eyepatch` contains 2 total entries.
 
 ## Objects
 
@@ -10,5 +10,5 @@ The tag `eyepatch-tag` contains 2 total entries.
 
 Following items have this item tag:
 
-- `ct_tool_mimic-viona_shield`
-- `ct_tool_mimic-warped_shield`
+- [Enchanted Shield ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedShield)
+- [Warped Shield ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedShield)

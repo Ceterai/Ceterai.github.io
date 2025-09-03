@@ -4,6 +4,12 @@
 
 An official A.R.C.O. researcher's legwear. Practical and well thought-out.
 
+## Sources
+
+Can be bought from merchants:
+
+- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_researcher_skirt-arco`

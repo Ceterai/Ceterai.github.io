@@ -18,9 +18,9 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- `cottonseed`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/sapling/icon.png" alt="Cotton Sapling icon" loading="lazy" height=16px width="auto" /> [Cotton Sapling](https://ceterai.github.io/MyEnternia/Wiki/CottonSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/sapling/icon.png" alt="Cotton Sapling icon" loading="lazy" height=16px width="auto" /> [Cotton Sapling](https://ceterai.github.io/MyEnternia/Wiki/CottonSapling)
+- <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" height=12px width=5.875px /> [Cotton Seed](https://starbounder.org/Cotton_Seed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" height=16px width="auto" /> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
 
 Used to craft:

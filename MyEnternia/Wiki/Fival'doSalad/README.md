@@ -34,8 +34,8 @@ Other variants:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height=16px width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" height=16px width="auto" /> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" height=16px width="auto" /> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Dreamer's Tea icon" loading="lazy" height=16px width="auto" /> [Dreamer's Tea](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" height=16px width="auto" /> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Riverside Surprise ★ icon" loading="lazy" height=16px width="auto" /> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise)
 
 </details>
@@ -58,16 +58,16 @@ Can be bought from merchants:
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 10 items)</summary>
 
-- [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)
-- [Alta Executive](https://ceterai.github.io/MyEnternia/Wiki/AltaExecutive)
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
+- [Alta Executive](https://ceterai.github.io/MyEnternia/Wiki/AltaExecutive)
 - [Alta Official](https://ceterai.github.io/MyEnternia/Wiki/AltaOfficial)
 - [Alta Princess](https://ceterai.github.io/MyEnternia/Wiki/AltaPrincess)
-- [Alta Security Officer](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityOfficer)
+- [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
 - [Alta Security Commander](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCommander)
-- [EDS Officer](https://ceterai.github.io/MyEnternia/Wiki/EDSOfficer)
+- [Alta Security Officer](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityOfficer)
 - [EDS Commander](https://ceterai.github.io/MyEnternia/Wiki/EDSCommander)
+- [EDS Officer](https://ceterai.github.io/MyEnternia/Wiki/EDSOfficer)
 
 </details>
 

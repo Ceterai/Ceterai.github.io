@@ -26,6 +26,12 @@ Can be bought from merchants:
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaMiner)
 
+Given as rent by tenants:
+
+- [Alta Security Android](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityAndroid)
+- [Combat Android](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
+- [EDS Android](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_button`

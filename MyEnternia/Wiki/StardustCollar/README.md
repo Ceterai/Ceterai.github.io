@@ -4,6 +4,12 @@
 
 A collar that makes your pet immune to Alternia, Enternia and Void effects.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
+
 ## Technical Information
 
 - In-game ID: `ct_stardust_collar`

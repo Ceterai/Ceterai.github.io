@@ -1,6 +1,6 @@
 # Cozy Tag
 
-The tag `cozy-tag` contains 2 total entries.
+The tag `cozy` contains 2 total entries.
 
 ## Objects
 
@@ -10,5 +10,5 @@ The tag `cozy-tag` contains 2 total entries.
 
 Following items have this item tag:
 
-- `ct_head_mimic-earhood`
-- `ct_head_mimic-scarf`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Scarf icon" loading="lazy" height=16px width="auto" /> [Artistic Scarf](https://ceterai.github.io/MyEnternia/Wiki/ArtisticScarf)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Dark Earhood icon" loading="lazy" height=16px width="auto" /> [Dark Earhood](https://ceterai.github.io/MyEnternia/Wiki/DarkEarhood)

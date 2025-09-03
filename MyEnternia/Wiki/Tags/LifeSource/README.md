@@ -1,6 +1,6 @@
 # Life Source Tag
 
-The tag `life_source-tag` contains 1 total entries.
+The tag `life_source` contains 1 total entries.
 
 ## Objects
 

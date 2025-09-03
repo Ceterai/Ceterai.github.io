@@ -30,6 +30,16 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" height=16px width="auto" /> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" height=16px width="auto" /> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height=16px width="auto" /> [Alta Punch Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPunchServing)
+
 ## Technical Information
 
 - In-game ID: `ct_heecho_punch-prism`

@@ -1,6 +1,6 @@
 # Teleporter Tag
 
-The tag `teleporter-tag` contains 1 total entries.
+The tag `teleporter` contains 1 total entries.
 
 ## Objects
 

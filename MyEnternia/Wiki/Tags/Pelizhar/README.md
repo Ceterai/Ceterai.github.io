@@ -1,6 +1,6 @@
 # Pelizhar Tag
 
-The tag `pelizhar-tag` contains 2 total entries.
+The tag `pelizhar` contains 2 total entries.
 
 ## Objects
 

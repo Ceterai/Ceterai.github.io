@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Alta Pear icon" loading="lazy" height=16px width="auto" /> **Baked Alta Pear** is a common dish.
 
-Baked insides of a fermented [alta pear](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaPear), slightly cut into slices for presentation.  
+Baked insides of a fermented <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear icon" loading="lazy" height=16px width="auto" /> [alta pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear), slightly cut into slices for presentation.  
 A great way to make a common fruit look exotic is to partially cut inside it, ferment it in sweeteners and cover with a bit of spice.
 
 ## Ingame
@@ -21,6 +21,12 @@ Species descriptions:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 
 ## Technical Information
 

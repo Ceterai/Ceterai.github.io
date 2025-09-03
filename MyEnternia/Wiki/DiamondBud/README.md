@@ -10,12 +10,16 @@ Species descriptions:
 
 - Alta: A diamond bud! It will take a long time, but it will grow into more diamonds!
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Crafting
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Faacain Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoFaacainSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/pod/icon.png" alt="Diamond Eco Pod ★★★★ icon" loading="lazy" height=16px width="auto" /> [Diamond Eco Pod ★★★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Faacain Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoFaacainSapling)
 
 Unlocks blueprints for:
 
@@ -25,9 +29,9 @@ Unlocks blueprints for:
 Used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/boosted/icon.png" alt="Boosted Diamond Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedDiamondSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/eco/icon.png" alt="Eco Diamond Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Diamond Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDiamondSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/pod/icon.png" alt="Diamond Eco Pod ★★★★ icon" loading="lazy" height=16px width="auto" /> [Diamond Eco Pod ★★★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/sapling/icon.png" alt="Diamond Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/eco/icon.png" alt="Eco Diamond Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Diamond Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDiamondSapling)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Kada Tag
 
-The tag `kada-tag` contains 5 total entries.
+The tag `kada` contains 5 total entries.
 
 ## Objects
 

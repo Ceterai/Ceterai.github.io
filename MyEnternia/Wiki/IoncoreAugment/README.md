@@ -4,6 +4,12 @@
 
 This [obsidian](https://ceterai.github.io/MyEnternia/Wiki/obsidian) EPP module fills you with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" height=16px width="auto" /> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals) and makes you burst with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" height=16px width="auto" /> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds).
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Technical Information
 
 - In-game ID: `ct_ion_core_augment`

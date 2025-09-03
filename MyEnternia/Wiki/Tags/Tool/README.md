@@ -1,6 +1,6 @@
 # Tool Tag
 
-The tag `tool-tag` contains 2 total entries.
+The tag `tool` contains 2 total entries.
 
 ## Objects
 

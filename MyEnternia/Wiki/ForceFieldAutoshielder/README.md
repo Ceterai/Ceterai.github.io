@@ -5,8 +5,8 @@ Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/
 Applied by following items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/halogen_pack/icon.png" alt="Altered Halogen Pack icon" loading="lazy" height=16px width="auto" /> [Altered Halogen Pack](https://ceterai.github.io/MyEnternia/Wiki/AlteredHalogenPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/protective_collar/icon.png" alt="Protective Collar icon" loading="lazy" height=16px width="auto" /> [Protective Collar](https://ceterai.github.io/MyEnternia/Wiki/ProtectiveCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/protector/icon.png" alt="Enviroprotector ★ icon" loading="lazy" height=16px width="auto" /> [Enviroprotector ★](https://ceterai.github.io/MyEnternia/Wiki/Enviroprotector)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/protective_collar/icon.png" alt="Protective Collar icon" loading="lazy" height=16px width="auto" /> [Protective Collar](https://ceterai.github.io/MyEnternia/Wiki/ProtectiveCollar)
 
 ## Parameters
 

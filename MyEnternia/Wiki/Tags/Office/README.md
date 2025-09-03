@@ -1,6 +1,6 @@
 # Office Tag
 
-The tag `office-tag` contains 2 total entries.
+The tag `office` contains 2 total entries.
 
 ## Objects
 

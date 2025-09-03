@@ -20,15 +20,15 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
 
-- `ct_alta_crafting_station8`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height=16px width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height=16px width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
+- `ct_alta_crafting_station8`
 - `ct_food_mimic`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height=16px width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height=16px width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
+- <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" height=15px width=8px /> [Milk](https://starbounder.org/Milk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" height=16px width="auto" /> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" height=16px width="auto" /> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" height=16px width="auto" /> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
-- <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" height=15px width=8px /> [Milk](https://starbounder.org/Milk)
 
 </details>
 

@@ -1,6 +1,6 @@
 # Tags
 
-This mod adds 388 tags.
+This mod adds 387 tags.
 
 - [Agaranic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Agaranic)
 - [Aid](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid)
@@ -278,7 +278,6 @@ This mod adds 388 tags.
 - [Restroom](https://ceterai.github.io/MyEnternia/Wiki/Tags/Restroom)
 - [Retroscifi](https://ceterai.github.io/MyEnternia/Wiki/Tags/Retroscifi)
 - [Robotics](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics)
-- [Rocket Launcher](https://ceterai.github.io/MyEnternia/Wiki/Tags/RocketLauncher)
 - [Rocketlauncher](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rocketlauncher)
 - [Runeva Cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine)
 - [Salad](https://ceterai.github.io/MyEnternia/Wiki/Tags/Salad)

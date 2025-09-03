@@ -28,8 +28,8 @@ This object **doesn't drop itself** when broken.
 Used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_blue_icon.png" alt="Alta Lab Capsule With Alcal icon" loading="lazy" height=16px width="auto" /> [Alta Lab Capsule With Alcal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithAlcal)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_purple_icon.png" alt="Alta Lab Capsule With Yonnur icon" loading="lazy" height=16px width="auto" /> [Alta Lab Capsule With Yonnur](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithYonnur)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_red_icon.png" alt="Alta Lab Capsule With Mical icon" loading="lazy" height=16px width="auto" /> [Alta Lab Capsule With Mical](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithMical)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_purple_icon.png" alt="Alta Lab Capsule With Yonnur icon" loading="lazy" height=16px width="auto" /> [Alta Lab Capsule With Yonnur](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithYonnur)
 
 ## Sources
 

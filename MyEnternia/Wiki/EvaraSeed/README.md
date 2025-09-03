@@ -10,14 +10,18 @@ Species descriptions:
 
 - Alta: Evara plants usually grow in haven gardens, even though you'd expect to see them grow on top of eva clouds.
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Crafting
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height=16px width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/pod/icon.png" alt="Evara Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Evara Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EvaraEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
 
 Unlocks blueprints for:
 
@@ -26,9 +30,9 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
 
-- `cottonseed`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height=16px width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
+- <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" height=12px width=5.875px /> [Cotton Seed](https://starbounder.org/Cotton_Seed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/eco/icon.png" alt="Eco Evara Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Evara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoEvaraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/pod/icon.png" alt="Evara Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Evara Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EvaraEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/sapling/icon.png" alt="Evara Sapling icon" loading="lazy" height=16px width="auto" /> [Evara Sapling](https://ceterai.github.io/MyEnternia/Wiki/EvaraSapling)

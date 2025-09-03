@@ -23,8 +23,8 @@ Unlocks blueprints for:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/eco/icon.png" alt="Eco Turanta Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Turanta Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoTurantaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 
 ## Technical Information
 

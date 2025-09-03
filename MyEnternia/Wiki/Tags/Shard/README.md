@@ -1,6 +1,6 @@
 # Shard Tag
 
-The tag `shard-tag` contains 1 total entries.
+The tag `shard` contains 1 total entries.
 
 ## Objects
 

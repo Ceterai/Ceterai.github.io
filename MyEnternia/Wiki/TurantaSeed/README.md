@@ -10,6 +10,10 @@ Species descriptions:
 
 - Alta: A pretty turanta! Its big petals can be quite useful!
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Crafting
 
 Blueprint unlocked by obtaining:
@@ -25,12 +29,12 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/eco/icon.png" alt="Eco Turanta Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Turanta Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoTurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height=16px width="auto" /> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Ruka 14-2 Seed icon" loading="lazy" height=16px width="auto" /> [Ruka 14-2 Seed](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Seed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/eco/icon.png" alt="Eco Turanta Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Turanta Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoTurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/pod/icon.png" alt="Turanta Eco Pod icon" loading="lazy" height=16px width="auto" /> [Turanta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/TurantaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/sapling/icon.png" alt="Turanta Sapling icon" loading="lazy" height=16px width="auto" /> [Turanta Sapling](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 
 </details>
 
@@ -42,10 +46,10 @@ Drops from destroyed obstacles:
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/eco/icon.png" alt="Eco Turanta Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Turanta Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoTurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/pod/icon.png" alt="Turanta Eco Pod icon" loading="lazy" height=16px width="auto" /> [Turanta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/TurantaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/sapling/icon.png" alt="Turanta Sapling icon" loading="lazy" height=16px width="auto" /> [Turanta Sapling](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" height=16px width="auto" /> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Wild Turanta Seed icon" loading="lazy" height=16px width="auto" /> [Wild Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/WildTurantaSeed)
 

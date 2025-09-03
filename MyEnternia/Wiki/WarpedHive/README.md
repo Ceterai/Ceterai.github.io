@@ -23,7 +23,7 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 <details markdown="1"><summary>Used to craft: (Expand 11 items)</summary>
 
 - `ct_alta_crafting_station5`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/yonnur.png" alt="Yonnur Glowstick icon" loading="lazy" height=16px width="auto" /> [Yonnur Glowstick](https://ceterai.github.io/MyEnternia/Wiki/YonnurGlowstick)
+- <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height=14px width=15px /> [Glow Fibre](https://starbounder.org/Glow_Fibre)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/bed/icon.png" alt="Warped Bed icon" loading="lazy" height=16px width="auto" /> [Warped Bed](https://ceterai.github.io/MyEnternia/Wiki/WarpedBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chair/icon.png" alt="Warped Chair icon" loading="lazy" height=16px width="auto" /> [Warped Chair](https://ceterai.github.io/MyEnternia/Wiki/WarpedChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
@@ -32,7 +32,7 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" height=16px width="auto" /> [Warped Gun](https://ceterai.github.io/MyEnternia/Wiki/WarpedGun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" height=16px width="auto" /> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/warped/icon.png" alt="Warped Sample icon" loading="lazy" height=16px width="auto" /> [Warped Sample](https://ceterai.github.io/MyEnternia/Wiki/WarpedSample)
-- <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height=14px width=15px /> [Glow Fibre](https://starbounder.org/Glow_Fibre)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/yonnur.png" alt="Yonnur Glowstick icon" loading="lazy" height=16px width="auto" /> [Yonnur Glowstick](https://ceterai.github.io/MyEnternia/Wiki/YonnurGlowstick)
 
 </details>
 
@@ -52,9 +52,9 @@ Can be obtained from special items:
 
 <details markdown="1"><summary>Can be harvested from: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" height=16px width="auto" /> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/eco/icon.png" alt="Eco Warped Hive Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Warped Hive Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoWarpedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" height=16px width="auto" /> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/pod/icon.png" alt="Warped Hive Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Warped Hive Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/sapling/icon.png" alt="Warped Hive Sapling icon" loading="lazy" height=16px width="auto" /> [Warped Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" height=16px width="auto" /> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed)

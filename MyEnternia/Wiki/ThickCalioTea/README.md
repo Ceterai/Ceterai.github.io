@@ -26,6 +26,16 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" height=16px width="auto" /> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" height=16px width="auto" /> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height=16px width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
+
 ## Technical Information
 
 - In-game ID: `ct_calio_tea-thick`

@@ -2,6 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height=16px width="auto" /> **Android** is an uncommon throwable item.
 
+## Sources
+
+Given as rent by tenants:
+
+- [Elite Android](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid)
+- [Imperial Android](https://ceterai.github.io/MyEnternia/Wiki/ImperialAndroid)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_android`

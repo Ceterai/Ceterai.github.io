@@ -18,6 +18,13 @@ Radiomessages on pickup:
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 - Seems like the item you just picked up belongs to Faradea - an independent alta mercenary faction. Let's hope you don't find the previous owner of this item.
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
 ## Technical Information
 
 - In-game ID: `ct_faradeus-upgrade`

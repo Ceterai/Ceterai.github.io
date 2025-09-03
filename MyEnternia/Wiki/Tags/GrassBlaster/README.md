@@ -1,6 +1,6 @@
 # Grass Blaster Tag
 
-The tag `grass_blaster-tag` contains 4 total entries.
+The tag `grass_blaster` contains 4 total entries.
 
 ## Objects
 

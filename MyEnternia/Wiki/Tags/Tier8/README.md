@@ -1,6 +1,6 @@
 # Tier8 Tag
 
-The tag `tier8-tag` contains 1 total entries.
+The tag `tier8` contains 1 total entries.
 
 ## Objects
 

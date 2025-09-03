@@ -1,0 +1,24 @@
+# Alta Scout Chair
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Chair icon" loading="lazy" height=16px width="auto" /> **Alta Scout Chair** is an uncommon decorative object.
+
+A deep-seat chair with titanium railing and silk cover.  
+These extremely relaxing chairs were designed to give exhausted alta scouts proper ergonomic rest.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: I feel like I'm relaxing at the beach when sitting in this.
+
+## Parameters
+
+- Health: 3.0
+
+## Technical Information
+
+- In-game ID: `ct_obj_mimic-scout_chair`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_scout`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaScout), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`tier3`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier3), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`unique`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique)
+- File: [`/items/buildscripts/ct_mimics/obj.object`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/obj.object)

@@ -1,6 +1,6 @@
 # Seafood Tag
 
-The tag `seafood-tag` contains 1 total entries.
+The tag `seafood` contains 1 total entries.
 
 ## Objects
 

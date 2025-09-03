@@ -1,6 +1,6 @@
 # Tier6 Tag
 
-The tag `tier6-tag` contains 1 total entries.
+The tag `tier6` contains 1 total entries.
 
 ## Objects
 

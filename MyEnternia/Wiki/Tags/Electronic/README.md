@@ -1,21 +1,27 @@
 # Electronic Tag
 
-The tag `electronic-tag` contains 48 total entries.
+The tag `electronic` contains 48 total entries.
 
 ## Objects
 
 <details markdown="1"><summary>Following objects have this colony tag: (Expand 42 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_agitate/icon.png" alt="Alta Agitational Stand icon" loading="lazy" height=16px width="auto" /> [Alta Agitational Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaAgitationalStand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/hand_dryer/icon.png" alt="Alta Hand Dryer icon" loading="lazy" height=16px width="auto" /> [Alta Hand Dryer](https://ceterai.github.io/MyEnternia/Wiki/AltaHandDryer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" height=16px width="auto" /> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/barrier/icon.png" alt="Alta Lab Barrier icon" loading="lazy" height=16px width="auto" /> [Alta Lab Barrier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBarrier)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Datablock icon" loading="lazy" height=16px width="auto" /> [Alta Lab Datablock](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDatablock)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Monitor icon" loading="lazy" height=16px width="auto" /> [Alta Lab Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaLabMonitor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" height=16px width="auto" /> [Alta Lab Server](https://ceterai.github.io/MyEnternia/Wiki/AltaLabServer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/teleporter/icon.png" alt="Alta Lab Teleporter icon" loading="lazy" height=16px width="auto" /> [Alta Lab Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTeleporter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Lab Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/laptop/icon.png" alt="Alta Laptop icon" loading="lazy" height=16px width="auto" /> [Alta Laptop](https://ceterai.github.io/MyEnternia/Wiki/AltaLaptop)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" height=16px width="auto" /> [Alta Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaLennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/monitor/icon.png" alt="Alta Monitor icon" loading="lazy" height=16px width="auto" /> [Alta Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaMonitor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_promo/icon.png" alt="Alta Promo Stand icon" loading="lazy" height=16px width="auto" /> [Alta Promo Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaPromoStand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pyramid/icon.png" alt="Alta Pyramid icon" loading="lazy" height=16px width="auto" /> [Alta Pyramid](https://ceterai.github.io/MyEnternia/Wiki/AltaPyramid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Console icon" loading="lazy" height=16px width="auto" /> [Alta Scout Console](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutConsole)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/barrier/icon.png" alt="Alta Security Barrier icon" loading="lazy" height=16px width="auto" /> [Alta Security Barrier](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityBarrier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/spike/icon.png" alt="Alta Security Spike icon" loading="lazy" height=16px width="auto" /> [Alta Security Spike](https://ceterai.github.io/MyEnternia/Wiki/AltaSecuritySpike)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/stand/icon.png" alt="Alta Security Stand icon" loading="lazy" height=16px width="auto" /> [Alta Security Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityStand)
@@ -23,9 +29,6 @@ The tag `electronic-tag` contains 48 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/monitor/icon.png" alt="Alta Ship Monitor icon" loading="lazy" height=16px width="auto" /> [Alta Ship Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaShipMonitor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Ship Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" height=16px width="auto" /> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_agitate/icon.png" alt="Alta Agitational Stand icon" loading="lazy" height=16px width="auto" /> [Alta Agitational Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaAgitationalStand)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_promo/icon.png" alt="Alta Promo Stand icon" loading="lazy" height=16px width="auto" /> [Alta Promo Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaPromoStand)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" height=16px width="auto" /> [Alta Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaLennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/teleporter/icon.png" alt="Alta Teleporter icon" loading="lazy" height=16px width="auto" /> [Alta Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaTeleporter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/monitor/icon.png" alt="Bishyn Monitor icon" loading="lazy" height=16px width="auto" /> [Bishyn Monitor](https://ceterai.github.io/MyEnternia/Wiki/BishynMonitor)
@@ -44,10 +47,7 @@ The tag `electronic-tag` contains 48 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/monitor/icon.png" alt="Hevika Monitor icon" loading="lazy" height=16px width="auto" /> [Hevika Monitor](https://ceterai.github.io/MyEnternia/Wiki/HevikaMonitor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/terminal/icon.png" alt="Hevika Terminal icon" loading="lazy" height=16px width="auto" /> [Hevika Terminal](https://ceterai.github.io/MyEnternia/Wiki/HevikaTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" height=16px width="auto" /> [Hevika Turret](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurret)
-- `ct_obj_mimic-lab_datablock`
-- `ct_obj_mimic-lab_monitor`
-- `ct_obj_mimic-scout_console`
-- `ct_obj_mimic-tea_cafe_sign`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Tea Cafe Sign icon" loading="lazy" height=16px width="auto" /> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
 
 </details>
 
@@ -55,8 +55,8 @@ The tag `electronic-tag` contains 48 total entries.
 
 Following tenants require this colony tag:
 
-- [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
+- [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [MKI Specialist](https://ceterai.github.io/MyEnternia/Wiki/MKISpecialist)
 
 ## Items

@@ -10,6 +10,10 @@ Species descriptions:
 
 - Alta: A growing ember coral. These can usually be found on enterash prime planets.
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Crafting
 
 Blueprint unlocked by obtaining:
@@ -33,8 +37,8 @@ Used to craft:
 
 Can be bought from merchants:
 
-- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Gyera Archiver](https://ceterai.github.io/MyEnternia/Wiki/GyeraArchiver)
+- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
 Drops from destroyed obstacles:
 
@@ -44,9 +48,9 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height=16px width="auto" /> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height=16px width="auto" /> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Wild Ember Bud icon" loading="lazy" height=16px width="auto" /> [Wild Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/WildEmberBud)
 
 </details>

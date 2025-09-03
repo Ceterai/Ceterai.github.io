@@ -20,7 +20,6 @@ Species descriptions:
 Can be bought from merchants:
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
-- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 
 Can be obtained from special items:

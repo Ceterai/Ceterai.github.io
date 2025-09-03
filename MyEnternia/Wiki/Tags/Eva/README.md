@@ -1,6 +1,6 @@
 # Eva Tag
 
-The tag `eva-tag` contains 11 total entries.
+The tag `eva` contains 11 total entries.
 
 ## Objects
 
@@ -21,8 +21,8 @@ The tag `eva-tag` contains 11 total entries.
 
 Following items have this item tag:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height=16px width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height=16px width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_eva_collar.png" alt="Evarus Collar icon" loading="lazy" height=16px width="auto" /> [Evarus Collar](https://ceterai.github.io/MyEnternia/Wiki/EvarusCollar)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height=16px width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height=16px width="auto" /> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_winged_halberd.png" alt="Winged Halberd ★ icon" loading="lazy" height=16px width="auto" /> [Winged Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/WingedHalberd)

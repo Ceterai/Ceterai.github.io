@@ -1,0 +1,31 @@
+# Enter-Railgun ★★
+
+ **Enter-Railgun ★★** is a legendary electric sniper rifle.
+
+Dreamers hunting on ethereal nightmares of enterash often use means of appropriate size, no matter the limits...  
+The markings on the side mention Avida - possibly a dreamer, or an alta recearcher who created this tool.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: It's interesting how someone can makeshift a tool so powerful, it ends up among craftable blueprints in a crafting station. This honestly looks like some kind of a [neiteru-1](https://ceterai.github.io/MyEnternia/Wiki/neiteru-1) development.
+
+Radiomessages on pickup:
+
+- You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
+## Technical Information
+
+- In-game ID: `ct_tool_mimic-railgun`
+- Power: `4.21`
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`sniperrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sniperrifle), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- File: [`/items/buildscripts/ct_mimics/tool.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/tool.activeitem)

@@ -1,6 +1,6 @@
 # Cafe Tag
 
-The tag `cafe-tag` contains 35 total entries.
+The tag `cafe` contains 35 total entries.
 
 ## Objects
 

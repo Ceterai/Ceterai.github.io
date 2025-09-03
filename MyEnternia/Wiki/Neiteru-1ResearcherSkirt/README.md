@@ -4,6 +4,12 @@
 
 An official Neiteru researcher's legwear. Practical and well thought-out.
 
+## Sources
+
+Can be bought from merchants:
+
+- [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_researcher_skirt-neiteru`

@@ -29,9 +29,9 @@ Unlocks blueprints for:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height=16px width="auto" /> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" height=16px width="auto" /> [Colorful Poster](https://ceterai.github.io/MyEnternia/Wiki/ColorfulPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" height=16px width="auto" /> [The Miracles of Vionia](https://ceterai.github.io/MyEnternia/Wiki/TheMiraclesofVionia)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height=16px width="auto" /> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
 
 ## Sources
 

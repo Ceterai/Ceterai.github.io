@@ -21,6 +21,16 @@ Species descriptions:
 
 - Effect: `maxenergyscalingboostfood`- Duration: 428
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height=16px width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
+
 ## Technical Information
 
 - In-game ID: `ct_tonna_split-extra`

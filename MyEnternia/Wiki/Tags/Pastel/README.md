@@ -1,6 +1,6 @@
 # Pastel Tag
 
-The tag `pastel-tag` contains 2 total entries.
+The tag `pastel` contains 2 total entries.
 
 ## Objects
 

@@ -4,6 +4,12 @@
 
 A collar that makes your pet immune to [Enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) effects.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
+
 ## Sources
 
 Found naturally in containers:

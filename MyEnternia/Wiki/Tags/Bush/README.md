@@ -1,6 +1,6 @@
 # Bush Tag
 
-The tag `bush-tag` contains 2 total entries.
+The tag `bush` contains 2 total entries.
 
 ## Objects
 

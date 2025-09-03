@@ -17,38 +17,28 @@ Radiomessages on pickup:
 
 ## Sources
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 31 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 21 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
-- [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)
 - [Alta Bedtimer](https://ceterai.github.io/MyEnternia/Wiki/AltaBedtimer)
-- [Imperial Android](https://ceterai.github.io/MyEnternia/Wiki/ImperialAndroid)
-- [Alta from a Capital](https://ceterai.github.io/MyEnternia/Wiki/AltafromaCapital)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
 - [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Explorer](https://ceterai.github.io/MyEnternia/Wiki/AltaExplorer)
+- [Alta from a Capital](https://ceterai.github.io/MyEnternia/Wiki/AltafromaCapital)
 - [Alta Holiday Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHolidayGirl)
 - [Alta Huntress](https://ceterai.github.io/MyEnternia/Wiki/AltaHuntress)
 - [Alta Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaKnight)
-- [Alta Lab Android](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAndroid)
 - [Alta Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaMiner)
+- [Alta NPC](https://ceterai.github.io/MyEnternia/Wiki/AltaNPC)
 - [Alta Pirate](https://ceterai.github.io/MyEnternia/Wiki/AltaPirate)
 - [Alta Protectorate Student](https://ceterai.github.io/MyEnternia/Wiki/AltaProtectorateStudent)
 - [Alta Resque Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaResqueWorker)
-- [Alta Security Android](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityAndroid)
 - [Alta Social Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker)
-- [Alta NPC](https://ceterai.github.io/MyEnternia/Wiki/AltaNPC)
 - [Alta Traveller](https://ceterai.github.io/MyEnternia/Wiki/AltaTraveller)
-- [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
-- [C.T. Android](https://ceterai.github.io/MyEnternia/Wiki/C.T.Android)
-- [Combat Android](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
-- [Dreamer Android](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
-- [EDS Android](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
-- [Elite Android](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid)
 - [ct_viona_creature_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-viona-creature-tenant)
-- [Warped Merchant](https://ceterai.github.io/MyEnternia/Wiki/WarpedMerchant)
 - [ct_yaara_keeper_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-yaara-keeper-tenant)
+- [Warped Merchant](https://ceterai.github.io/MyEnternia/Wiki/WarpedMerchant)
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
 
 </details>

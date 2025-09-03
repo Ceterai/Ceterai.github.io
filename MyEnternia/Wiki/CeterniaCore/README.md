@@ -15,8 +15,8 @@ Species descriptions:
 
 <details markdown="1"><summary>Used to craft: (Expand 59 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" height=16px width="auto" /> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" height=16px width="auto" /> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height=16px width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_alta_trophy.png" alt="Alta Trophy ★ icon" loading="lazy" height=16px width="auto" /> [Alta Trophy ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_anglure_lamp.png" alt="Anglure's Lamp ★ icon" loading="lazy" height=16px width="auto" /> [Anglure's Lamp ★](https://ceterai.github.io/MyEnternia/Wiki/Anglure'sLamp)
@@ -30,9 +30,9 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/brutefly/ct_brutefly.png" alt="Brutefly Figurine icon" loading="lazy" height=16px width="auto" /> [Brutefly Figurine](https://ceterai.github.io/MyEnternia/Wiki/BruteflyFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_calin_crippit.png" alt="Calin Crippit Figurine icon" loading="lazy" height=16px width="auto" /> [Calin Crippit Figurine](https://ceterai.github.io/MyEnternia/Wiki/CalinCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_celestia_trophy.png" alt="Celestia's Trophy ★ icon" loading="lazy" height=16px width="auto" /> [Celestia's Trophy ★](https://ceterai.github.io/MyEnternia/Wiki/Celestia'sTrophy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" height=16px width="auto" /> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_ceterai_af.png" alt="Ceterai Figurine ★★★★ icon" loading="lazy" height=16px width="auto" /> [Ceterai Figurine ★★★★](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Ceternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSample)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" height=16px width="auto" /> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crippit.png" alt="Crippit Figurine icon" loading="lazy" height=16px width="auto" /> [Crippit Figurine](https://ceterai.github.io/MyEnternia/Wiki/CrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_crippit_scab.png" alt="Crippit Scab ★ icon" loading="lazy" height=16px width="auto" /> [Crippit Scab ★](https://ceterai.github.io/MyEnternia/Wiki/CrippitScab)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_crystal_poptop.png" alt="Crystal Poptop Figurine ★ icon" loading="lazy" height=16px width="auto" /> [Crystal Poptop Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalPoptopFigurine)
@@ -82,8 +82,8 @@ Species descriptions:
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height=16px width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 - `outpostshippingcontainer`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Drops from defeated creatures:
 

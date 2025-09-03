@@ -1,6 +1,6 @@
 # Antidote Tag
 
-The tag `antidote-tag` contains 1 total entries.
+The tag `antidote` contains 1 total entries.
 
 ## Objects
 

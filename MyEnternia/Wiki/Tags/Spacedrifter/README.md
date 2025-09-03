@@ -1,6 +1,6 @@
 # Spacedrifter Tag
 
-The tag `spacedrifter-tag` contains 1 total entries.
+The tag `spacedrifter` contains 1 total entries.
 
 ## Objects
 

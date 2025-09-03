@@ -1,6 +1,6 @@
 # Portal Tag
 
-The tag `portal-tag` contains 2 total entries.
+The tag `portal` contains 2 total entries.
 
 ## Objects
 

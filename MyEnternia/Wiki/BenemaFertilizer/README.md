@@ -26,12 +26,12 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height=16px width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" height=16px width="auto" /> [Potted Calocol Tulip](https://ceterai.github.io/MyEnternia/Wiki/PottedCalocolTulip)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height=16px width="auto" /> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_hive_tree.png" alt="Ionic Hive Stalk icon" loading="lazy" height=16px width="auto" /> [Ionic Hive Stalk](https://ceterai.github.io/MyEnternia/Wiki/IonicHiveStalk)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" height=16px width="auto" /> [Potted Calocol Tulip](https://ceterai.github.io/MyEnternia/Wiki/PottedCalocolTulip)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/pod/icon.png" alt="Sonava Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Sonava Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/SonavaEcoPod)
 
 </details>
@@ -44,10 +44,10 @@ Can be bought in shops:
 
 Can be bought from merchants:
 
-- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
-- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Gyera Archiver](https://ceterai.github.io/MyEnternia/Wiki/GyeraArchiver)
+- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
 ## Technical Information
 

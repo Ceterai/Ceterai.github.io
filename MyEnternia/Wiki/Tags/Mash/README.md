@@ -1,6 +1,6 @@
 # Mash Tag
 
-The tag `mash-tag` contains 2 total entries.
+The tag `mash` contains 2 total entries.
 
 ## Objects
 

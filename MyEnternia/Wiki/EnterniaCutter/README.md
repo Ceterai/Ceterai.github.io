@@ -6,6 +6,12 @@ An energy-based alta lumber cutter.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" height=16px width="auto" /> [Ionic Cutter](https://ceterai.github.io/MyEnternia/Wiki/IonicCutter).
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
 ## Technical Information
 
 - In-game ID: `ct_ionic_cutter-upgrade`

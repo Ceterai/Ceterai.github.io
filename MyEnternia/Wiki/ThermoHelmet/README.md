@@ -15,6 +15,13 @@ Species descriptions:
 
 - Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" height=16px width="auto" /> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
 ## Technical Information
 
 - In-game ID: `ct_eds_helmet-koywa`

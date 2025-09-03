@@ -1,6 +1,6 @@
 # Wreck Tag
 
-The tag `wreck-tag` contains 1 total entries.
+The tag `wreck` contains 1 total entries.
 
 ## Objects
 

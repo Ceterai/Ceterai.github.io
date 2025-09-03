@@ -24,9 +24,9 @@ Found naturally in containers:
 
 <details markdown="1"><summary>Can be bought from merchants: (Expand 10 items)</summary>
 
+- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
-- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)

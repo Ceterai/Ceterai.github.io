@@ -1,6 +1,6 @@
 # Lava Tag
 
-The tag `lava-tag` contains 1 total entries.
+The tag `lava` contains 1 total entries.
 
 ## Objects
 

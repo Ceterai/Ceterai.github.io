@@ -1,6 +1,6 @@
 # Living Tag
 
-The tag `living-tag` contains 1 total entries.
+The tag `living` contains 1 total entries.
 
 ## Objects
 

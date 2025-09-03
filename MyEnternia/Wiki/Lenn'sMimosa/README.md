@@ -19,6 +19,16 @@ Species descriptions:
 
 - Effect: `maxhealthscalingboostfood`- Duration: 675
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/salad/icon.png" alt="Alta Salad Serving icon" loading="lazy" height=16px width="auto" /> [Alta Salad Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaSaladServing)
+
 ## Technical Information
 
 - In-game ID: `ct_special_mimosa-lenn`

@@ -1,6 +1,6 @@
 # Alta AI Tag
 
-The tag `alta_ai-tag` contains 2 total entries.
+The tag `alta_ai` contains 2 total entries.
 
 ## Objects
 

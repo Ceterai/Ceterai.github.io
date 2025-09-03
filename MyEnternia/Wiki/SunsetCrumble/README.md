@@ -27,6 +27,17 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Ion Risotto icon" loading="lazy" height=16px width="auto" /> [Ion Risotto](https://ceterai.github.io/MyEnternia/Wiki/IonRisotto)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Tonna Split icon" loading="lazy" height=16px width="auto" /> [Tonna Split](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplit)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height=16px width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height=16px width="auto" /> [Alta Pie Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPieServing)
+
 ## Technical Information
 
 - In-game ID: `ct_tonna_meringue-crumble`

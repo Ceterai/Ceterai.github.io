@@ -1,6 +1,6 @@
 # Tier1Clothing Tag
 
-The tag `tier1clothing-tag` contains 1 total entries.
+The tag `tier1clothing` contains 1 total entries.
 
 ## Objects
 

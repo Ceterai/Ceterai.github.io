@@ -1,6 +1,6 @@
 # Island Tag
 
-The tag `island-tag` contains 1 total entries.
+The tag `island` contains 1 total entries.
 
 ## Objects
 

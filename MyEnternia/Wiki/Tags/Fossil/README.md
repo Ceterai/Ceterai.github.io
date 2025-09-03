@@ -1,6 +1,6 @@
 # Fossil Tag
 
-The tag `fossil-tag` contains 1 total entries.
+The tag `fossil` contains 1 total entries.
 
 ## Objects
 

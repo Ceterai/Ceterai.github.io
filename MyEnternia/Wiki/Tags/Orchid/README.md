@@ -1,6 +1,6 @@
 # Orchid Tag
 
-The tag `orchid-tag` contains 1 total entries.
+The tag `orchid` contains 1 total entries.
 
 ## Objects
 

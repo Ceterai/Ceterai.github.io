@@ -1,6 +1,6 @@
 # Ship Tag
 
-The tag `ship-tag` contains 1 total entries.
+The tag `ship` contains 1 total entries.
 
 ## Objects
 

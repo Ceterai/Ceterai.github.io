@@ -1,6 +1,6 @@
 # Fertilizer Tag
 
-The tag `fertilizer-tag` contains 10 total entries.
+The tag `fertilizer` contains 10 total entries.
 
 ## Objects
 
@@ -11,7 +11,6 @@ The tag `fertilizer-tag` contains 10 total entries.
 <details markdown="1"><summary>Following items have this item tag: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" height=16px width="auto" /> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" height=16px width="auto" /> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" height=16px width="auto" /> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" height=16px width="auto" /> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer)
@@ -20,5 +19,6 @@ The tag `fertilizer-tag` contains 10 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" height=16px width="auto" /> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_ionic_fertilizer.png" alt="Ionic Fertilizer icon" loading="lazy" height=16px width="auto" /> [Ionic Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/IonicFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" height=16px width="auto" /> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" height=16px width="auto" /> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer)
 
 </details>

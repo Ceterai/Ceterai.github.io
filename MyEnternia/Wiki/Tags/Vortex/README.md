@@ -1,6 +1,6 @@
 # Vortex Tag
 
-The tag `vortex-tag` contains 1 total entries.
+The tag `vortex` contains 1 total entries.
 
 ## Objects
 

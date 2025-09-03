@@ -1,6 +1,6 @@
 # Volcanic Tag
 
-The tag `volcanic-tag` contains 1 total entries.
+The tag `volcanic` contains 1 total entries.
 
 ## Objects
 

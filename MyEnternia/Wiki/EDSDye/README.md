@@ -15,6 +15,7 @@ Radiomessages on pickup:
 
 - The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
+- You discovered dye. With these you can colour your attire to your liking. You can apply one to any piece of armour or clothing with a right-click.
 
 ## Sources
 

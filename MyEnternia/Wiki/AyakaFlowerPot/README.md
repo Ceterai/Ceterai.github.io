@@ -32,8 +32,8 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/blue/icon.png" alt="Potted Blue Flower icon" loading="lazy" height=16px width="auto" /> [Potted Blue Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedBlueFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/calin/icon.png" alt="Crystal Flower Pot icon" loading="lazy" height=16px width="auto" /> [Crystal Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CrystalFlowerPot)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/blue/icon.png" alt="Potted Blue Flower icon" loading="lazy" height=16px width="auto" /> [Potted Blue Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedBlueFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/red/icon.png" alt="Potted Red Flower icon" loading="lazy" height=16px width="auto" /> [Potted Red Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedRedFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yellow/icon.png" alt="Potted Yellow Flower icon" loading="lazy" height=16px width="auto" /> [Potted Yellow Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedYellowFlower)
 

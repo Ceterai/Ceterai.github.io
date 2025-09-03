@@ -27,15 +27,15 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/aya/icon.png" alt="Potted Aya icon" loading="lazy" height=16px width="auto" /> [Potted Aya](https://ceterai.github.io/MyEnternia/Wiki/PottedAya)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/fertile/icon.png" alt="Fertile Gil Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Fertile Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileGilSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" height=16px width="auto" /> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/aya/icon.png" alt="Potted Aya icon" loading="lazy" height=16px width="auto" /> [Potted Aya](https://ceterai.github.io/MyEnternia/Wiki/PottedAya)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/gil/icon.png" alt="Potted Gil icon" loading="lazy" height=16px width="auto" /> [Potted Gil](https://ceterai.github.io/MyEnternia/Wiki/PottedGil)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/pod/icon.png" alt="Gil Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Gil Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/GilEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/gil/icon.png" alt="Potted Gil icon" loading="lazy" height=16px width="auto" /> [Potted Gil](https://ceterai.github.io/MyEnternia/Wiki/PottedGil)
 
 ## Technical Information
 

@@ -24,9 +24,9 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" height=16px width="auto" /> [Nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" height=16px width="auto" /> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" height=16px width="auto" /> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" height=16px width="auto" /> [Nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera)
 
 ## Sources
 
@@ -36,8 +36,8 @@ Found naturally in containers:
 
 Can be bought from merchants:
 
-- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Warped Merchant](https://ceterai.github.io/MyEnternia/Wiki/WarpedMerchant)
 
 Can be obtained from special items:

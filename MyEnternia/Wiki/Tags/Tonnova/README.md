@@ -1,6 +1,6 @@
 # Tonnova Tag
 
-The tag `tonnova-tag` contains 11 total entries.
+The tag `tonnova` contains 11 total entries.
 
 ## Objects
 

@@ -1,6 +1,6 @@
 # Hammer Tag
 
-The tag `hammer-tag` contains 1 total entries.
+The tag `hammer` contains 1 total entries.
 
 ## Objects
 

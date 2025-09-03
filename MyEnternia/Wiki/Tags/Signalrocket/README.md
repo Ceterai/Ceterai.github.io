@@ -1,6 +1,6 @@
 # Signalrocket Tag
 
-The tag `signalrocket-tag` contains 3 total entries.
+The tag `signalrocket` contains 3 total entries.
 
 ## Objects
 

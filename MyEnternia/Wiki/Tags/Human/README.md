@@ -1,6 +1,6 @@
 # Human Tag
 
-The tag `human-tag` contains 1 total entries.
+The tag `human` contains 1 total entries.
 
 ## Objects
 

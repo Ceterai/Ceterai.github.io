@@ -1,6 +1,6 @@
 # Musical Tag
 
-The tag `musical-tag` contains 3 total entries.
+The tag `musical` contains 3 total entries.
 
 ## Objects
 

@@ -11,6 +11,10 @@ Species descriptions:
 
 - Alta: Ooh, this almost looks like actual metal!
 
+Radiomessages on pickup:
+
+- You discovered dye. With these you can colour your attire to your liking. You can apply one to any piece of armour or clothing with a right-click.
+
 ## Sources
 
 <details markdown="1"><summary>Found naturally in containers: (Expand 6 items)</summary>

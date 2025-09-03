@@ -33,8 +33,8 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" height=16px width="auto" /> [Eva Ayaka](https://ceterai.github.io/MyEnternia/Wiki/EvaAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" height=16px width="auto" /> [Ayaka Giant](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" height=16px width="auto" /> [Eva Ayaka](https://ceterai.github.io/MyEnternia/Wiki/EvaAyaka)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Apex Tag
 
-The tag `apex-tag` contains 3 total entries.
+The tag `apex` contains 3 total entries.
 
 ## Objects
 

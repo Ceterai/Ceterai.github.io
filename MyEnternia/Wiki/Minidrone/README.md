@@ -23,7 +23,6 @@ Can be bought from merchants:
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
-- [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
 
 ## Technical Information
 

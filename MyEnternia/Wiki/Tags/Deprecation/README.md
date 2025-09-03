@@ -1,6 +1,6 @@
 # Deprecation Tag
 
-The tag `deprecation-tag` contains 2 total entries.
+The tag `deprecation` contains 2 total entries.
 
 ## Objects
 

@@ -21,16 +21,16 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Used to craft: (Expand 10 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png" alt="Runeva Ball icon" loading="lazy" height=16px width="auto" /> [Runeva Ball](https://ceterai.github.io/MyEnternia/Wiki/RunevaBall)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" height=16px width="auto" /> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
-- `ct_food_mimic`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" height=16px width="auto" /> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" height=16px width="auto" /> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
+- `ct_food_mimic`
+- <img src="https://starbounder.org/mediawiki/images/b/be/Green_Dye.png" alt="Green Dye icon" loading="lazy" height=12px width=8px /> [Green Dye](https://starbounder.org/Green_Dye)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" height=16px width="auto" /> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png" alt="Runeva Ball icon" loading="lazy" height=16px width="auto" /> [Runeva Ball](https://ceterai.github.io/MyEnternia/Wiki/RunevaBall)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" height=16px width="auto" /> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height=16px width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height=16px width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
-- <img src="https://starbounder.org/mediawiki/images/b/be/Green_Dye.png" alt="Green Dye icon" loading="lazy" height=12px width=8px /> [Green Dye](https://starbounder.org/Green_Dye)
 
 </details>
 
@@ -49,12 +49,12 @@ Can be obtained from special items:
 <details markdown="1"><summary>Can be harvested from: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedJellySapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/sapling/icon.png" alt="Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/JellySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/cultivated/icon.png" alt="Cultivated Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedTsaySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/eco/icon.png" alt="Eco Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTsaySapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/pod/icon.png" alt="Tsay Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Tsay Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/TsayEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/fertile/icon.png" alt="Fertile Tsay Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Fertile Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/sapling/icon.png" alt="Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/JellySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/pod/icon.png" alt="Tsay Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Tsay Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/TsayEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/sapling/icon.png" alt="Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/TsaySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height=16px width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Wild Tsay Seed icon" loading="lazy" height=16px width="auto" /> [Wild Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/WildTsaySeed)

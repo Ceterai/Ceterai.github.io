@@ -1,6 +1,6 @@
 # Colourful Tag
 
-The tag `colourful-tag` contains 4 total entries.
+The tag `colourful` contains 4 total entries.
 
 ## Objects
 

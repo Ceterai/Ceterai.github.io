@@ -12,6 +12,12 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon.png" alt="Composite Cutter icon" loading="lazy" height=16px width="auto" /> [Composite Cutter](https://ceterai.github.io/MyEnternia/Wiki/CompositeCutter)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_tiller-upgrade`

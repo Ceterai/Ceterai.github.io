@@ -21,11 +21,11 @@ Species descriptions:
 
 Used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height=16px width="auto" /> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" height=16px width="auto" /> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" height=16px width="auto" /> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Sentry Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/SentryDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height=16px width="auto" /> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
 
 ## Sources
 

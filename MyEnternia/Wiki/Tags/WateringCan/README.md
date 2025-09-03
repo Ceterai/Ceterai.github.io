@@ -1,6 +1,6 @@
 # Watering Can Tag
 
-The tag `watering_can-tag` contains 6 total entries.
+The tag `watering_can` contains 6 total entries.
 
 ## Objects
 

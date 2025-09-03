@@ -25,8 +25,8 @@ Blueprint unlocked by obtaining:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/basic/icon.png" alt="Ayaka Flower Pot icon" loading="lazy" height=16px width="auto" /> [Ayaka Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AyakaFlowerPot)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" height=16px width="auto" /> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_grass_seeds.png" alt="Grass Seeds icon" loading="lazy" height=16px width="auto" /> [Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/GrassSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" height=16px width="auto" /> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer)
 
 Used to craft:
 
@@ -37,8 +37,8 @@ Used to craft:
 
 Can be bought from merchants:
 
-- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
 ## Technical Information
 

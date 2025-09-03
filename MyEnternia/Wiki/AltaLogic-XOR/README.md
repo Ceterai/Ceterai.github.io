@@ -18,6 +18,12 @@ Can be bought from merchants:
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaMiner)
 
+Given as rent by tenants:
+
+- [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
+- [Alta Lab Android](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAndroid)
+- [C.T. Android](https://ceterai.github.io/MyEnternia/Wiki/C.T.Android)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_xor`

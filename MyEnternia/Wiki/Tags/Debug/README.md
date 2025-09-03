@@ -1,6 +1,6 @@
 # Debug Tag
 
-The tag `debug-tag` contains 1 total entries.
+The tag `debug` contains 1 total entries.
 
 ## Objects
 

@@ -24,8 +24,8 @@ Found naturally in containers:
 
 Can be bought from merchants:
 
-- [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
+- [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
 
 Can be obtained from special items:
 

@@ -19,6 +19,13 @@ Species descriptions:
 
 - Effect: `jumpboostfood`- Duration: 125
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
+
 ## Technical Information
 
 - In-game ID: `ct_aya_candy-pop`

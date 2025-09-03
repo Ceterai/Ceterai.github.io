@@ -1,6 +1,6 @@
 # Neo Tag
 
-The tag `neo-tag` contains 1 total entries.
+The tag `neo` contains 1 total entries.
 
 ## Objects
 

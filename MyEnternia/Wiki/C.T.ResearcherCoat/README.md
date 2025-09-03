@@ -11,6 +11,12 @@ Species descriptions:
 
 - Alta: A nice middleground between official-ness and practicality.
 
+## Sources
+
+Can be bought from merchants:
+
+- [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_researcher_coat-ceterai`

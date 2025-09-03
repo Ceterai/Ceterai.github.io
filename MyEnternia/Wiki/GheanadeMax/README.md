@@ -11,6 +11,16 @@ Species descriptions:
 
 - Alta: Nice and refreshing. Although I wouldn't drink it from a can. Seems a little impractical.
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
+- [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
+- [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
+- [MKI Archiver](https://ceterai.github.io/MyEnternia/Wiki/MKIArchiver)
+
 ## Technical Information
 
 - In-game ID: `ct_gheanade-max`

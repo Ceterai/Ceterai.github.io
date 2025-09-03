@@ -11,6 +11,13 @@ Species descriptions:
 
 - Alta: Highly dangerous thermomix mod. I should be very careful with it.
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
 ## Technical Information
 
 - In-game ID: `ct_thermomix_nade-koywa`

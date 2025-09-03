@@ -18,18 +18,9 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height=16px width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
 - `outpostshippingcontainer`
 
-<details markdown="1"><summary>Can be bought from merchants: (Expand 8 items)</summary>
+Can be bought from merchants:
 
 - [Alta Designer](https://ceterai.github.io/MyEnternia/Wiki/AltaDesigner)
-- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
-- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
-- [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
-- [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
-- [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
-- [Hevika Archiver](https://ceterai.github.io/MyEnternia/Wiki/HevikaArchiver)
-- [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
-
-</details>
 
 <details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 

@@ -1,6 +1,6 @@
 # Curry Tag
 
-The tag `curry-tag` contains 2 total entries.
+The tag `curry` contains 2 total entries.
 
 ## Objects
 

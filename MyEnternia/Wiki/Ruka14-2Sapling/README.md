@@ -23,8 +23,8 @@ Unlocks blueprints for:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Ruka 16 Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/Ruka16Sapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Ruka 16 Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/Ruka16Sapling)
 
 ## Sources
 

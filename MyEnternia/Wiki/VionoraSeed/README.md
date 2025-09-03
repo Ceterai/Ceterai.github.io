@@ -10,14 +10,18 @@ Species descriptions:
 
 - Alta: A vionora sprout that produces lots of rainbow wood!~
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Crafting
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/eco/icon.png" alt="Eco Azura Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Azura Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoAzuraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/pod/icon.png" alt="Vionora Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Vionora Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VionoraEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" height=16px width="auto" /> [Vionora](https://ceterai.github.io/MyEnternia/Wiki/Vionora)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" height=16px width="auto" /> [The Miracles of Vionia](https://ceterai.github.io/MyEnternia/Wiki/TheMiraclesofVionia)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" height=16px width="auto" /> [Vionora](https://ceterai.github.io/MyEnternia/Wiki/Vionora)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/pod/icon.png" alt="Vionora Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Vionora Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VionoraEcoPod)
 
 Unlocks blueprints for:
 

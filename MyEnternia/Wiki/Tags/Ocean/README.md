@@ -1,6 +1,6 @@
 # Ocean Tag
 
-The tag `ocean-tag` contains 1 total entries.
+The tag `ocean` contains 1 total entries.
 
 ## Objects
 

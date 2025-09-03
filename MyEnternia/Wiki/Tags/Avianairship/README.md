@@ -1,6 +1,6 @@
 # Avianairship Tag
 
-The tag `avianairship-tag` contains 1 total entries.
+The tag `avianairship` contains 1 total entries.
 
 ## Objects
 

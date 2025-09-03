@@ -11,6 +11,10 @@ Species descriptions:
 
 - Alta: Ooh, this almost looks like actual bion!
 
+Radiomessages on pickup:
+
+- You discovered dye. With these you can colour your attire to your liking. You can apply one to any piece of armour or clothing with a right-click.
+
 ## Sources
 
 Found naturally in containers:

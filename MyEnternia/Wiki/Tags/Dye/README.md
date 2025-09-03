@@ -1,6 +1,6 @@
 # Dye Tag
 
-The tag `dye-tag` contains 4 total entries.
+The tag `dye` contains 4 total entries.
 
 ## Objects
 

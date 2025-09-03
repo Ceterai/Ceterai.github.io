@@ -24,8 +24,8 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" height=16px width="auto" /> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" height=16px width="auto" /> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" height=16px width="auto" /> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
 
 ## Sources
 

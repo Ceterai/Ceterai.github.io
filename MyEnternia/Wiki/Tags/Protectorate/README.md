@@ -1,6 +1,6 @@
 # Protectorate Tag
 
-The tag `protectorate-tag` contains 1 total entries.
+The tag `protectorate` contains 1 total entries.
 
 ## Objects
 

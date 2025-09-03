@@ -1,6 +1,6 @@
 # Hevika Tag
 
-The tag `hevika-tag` contains 23 total entries.
+The tag `hevika` contains 23 total entries.
 
 ## Objects
 
@@ -33,13 +33,13 @@ Following tenants require this colony tag:
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Hevika Researcher Coat icon" loading="lazy" height=16px width="auto" /> [Hevika Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/HevikaResearcherCoat)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Hevika Researcher Skirt icon" loading="lazy" height=16px width="auto" /> [Hevika Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/HevikaResearcherSkirt)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height=16px width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_hevika_augment.png" alt="Hevika Augment ★ icon" loading="lazy" height=16px width="auto" /> [Hevika Augment ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_flare.png" alt="Hevika Flare icon" loading="lazy" height=16px width="auto" /> [Hevika Flare](https://ceterai.github.io/MyEnternia/Wiki/HevikaFlare)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png" alt="Hevika Javelin icon" loading="lazy" height=16px width="auto" /> [Hevika Javelin](https://ceterai.github.io/MyEnternia/Wiki/HevikaJavelin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height=16px width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height=16px width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Hevika Researcher Coat icon" loading="lazy" height=16px width="auto" /> [Hevika Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/HevikaResearcherCoat)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Hevika Researcher Skirt icon" loading="lazy" height=16px width="auto" /> [Hevika Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/HevikaResearcherSkirt)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_hevika_turret_gun.png" alt="Hevika Turret Gun ★ icon" loading="lazy" height=16px width="auto" /> [Hevika Turret Gun ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurretGun)
 
 </details>

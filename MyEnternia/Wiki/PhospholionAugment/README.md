@@ -4,6 +4,12 @@
 
 This mildly irradiated EPP module gives fire protection and makes you glow.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Technical Information
 
 - In-game ID: `ct_phospholion_augment`

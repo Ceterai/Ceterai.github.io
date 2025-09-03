@@ -4,6 +4,12 @@
 
 A collar that causes your pet to damage nearby enemies with electricity and protects it with a force shield when low on health.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
+
 ## Sources
 
 Can be bought from merchants:

@@ -8,9 +8,9 @@ You feel a familiar presence.
 
 Used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" height=16px width="auto" /> [Alternia Spear](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSpear)
 - `ct_alta_constructor6`
 - `ct_alta_crafting_station14`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" height=16px width="auto" /> [Alternia Spear](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSpear)
 
 ## Technical Information
 

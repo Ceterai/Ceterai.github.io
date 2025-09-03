@@ -1,6 +1,6 @@
 # Floran Tag
 
-The tag `floran-tag` contains 15 total entries.
+The tag `floran` contains 15 total entries.
 
 ## Objects
 
@@ -27,11 +27,11 @@ Following tenants require this colony tag:
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
-- `ct_body_mimic-yaara_keeper`
-- `ct_head_mimic-yaara_keeper`
-- `ct_head_mimic-yaara_keeper_crown`
-- `ct_head_mimic-yaara_keeper_mask`
-- `ct_head_mimic-yaara_shaman_mask`
-- `ct_legs_mimic-yaara_keeper`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Guard ★ icon" loading="lazy" height=16px width="auto" /> [Yaara Keeper's Guard ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper'sGuard)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Yaara Keeper's Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper'sHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Legwards ★ icon" loading="lazy" height=16px width="auto" /> [Yaara Keeper's Legwards ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper'sLegwards)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Mask icon" loading="lazy" height=16px width="auto" /> [Yaara Keeper's Mask](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper'sMask)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Shaman's Mask ★ icon" loading="lazy" height=16px width="auto" /> [Yaara Shaman's Mask ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraShaman'sMask)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaarafinger's Crown ★ icon" loading="lazy" height=16px width="auto" /> [Yaarafinger's Crown ★](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger'sCrown)
 
 </details>

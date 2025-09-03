@@ -1,6 +1,6 @@
 # Esetera Tag
 
-The tag `esetera-tag` contains 1 total entries.
+The tag `esetera` contains 1 total entries.
 
 ## Objects
 

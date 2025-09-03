@@ -1,6 +1,6 @@
 # Space Tag
 
-The tag `space-tag` contains 2 total entries.
+The tag `space` contains 2 total entries.
 
 ## Objects
 

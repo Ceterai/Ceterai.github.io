@@ -10,6 +10,10 @@ Species descriptions:
 
 - Alta: I wonder if this larva plant has a scientific name...
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Crafting
 
 Blueprint unlocked by obtaining:

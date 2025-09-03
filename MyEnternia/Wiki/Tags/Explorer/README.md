@@ -1,6 +1,6 @@
 # Explorer Tag
 
-The tag `explorer-tag` contains 1 total entries.
+The tag `explorer` contains 1 total entries.
 
 ## Objects
 

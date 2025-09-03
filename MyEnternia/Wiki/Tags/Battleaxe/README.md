@@ -1,6 +1,6 @@
 # Battleaxe Tag
 
-The tag `battleaxe-tag` contains 1 total entries.
+The tag `battleaxe` contains 1 total entries.
 
 ## Objects
 

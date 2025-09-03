@@ -4,14 +4,14 @@ Decreases fall damage by 75%.
 
 <details markdown="1"><summary>Applied by following items: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="Security Greaves icon" loading="lazy" height=16px width="auto" /> [Security Greaves](https://ceterai.github.io/MyEnternia/Wiki/SecurityGreaves)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" height=16px width="auto" /> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Ciranga Pie ★ icon" loading="lazy" height=16px width="auto" /> [Ciranga Pie ★](https://ceterai.github.io/MyEnternia/Wiki/CirangaPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Runeva Pie ★★ icon" loading="lazy" height=16px width="auto" /> [Runeva Pie ★★](https://ceterai.github.io/MyEnternia/Wiki/RunevaPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/legwear/icon.png" alt="Dreamer's Footwear icon" loading="lazy" height=16px width="auto" /> [Dreamer's Footwear](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFootwear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Elite Energy Greaves icon" loading="lazy" height=16px width="auto" /> [Elite Energy Greaves](https://ceterai.github.io/MyEnternia/Wiki/EliteEnergyGreaves)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Imperial Greaves icon" loading="lazy" height=16px width="auto" /> [Imperial Greaves](https://ceterai.github.io/MyEnternia/Wiki/ImperialGreaves)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/legwear/icon.png" alt="Ghearun M1 Greaves icon" loading="lazy" height=16px width="auto" /> [Ghearun M1 Greaves](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Greaves)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Imperial Greaves icon" loading="lazy" height=16px width="auto" /> [Imperial Greaves](https://ceterai.github.io/MyEnternia/Wiki/ImperialGreaves)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Runeva Pie ★★ icon" loading="lazy" height=16px width="auto" /> [Runeva Pie ★★](https://ceterai.github.io/MyEnternia/Wiki/RunevaPie)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="Security Greaves icon" loading="lazy" height=16px width="auto" /> [Security Greaves](https://ceterai.github.io/MyEnternia/Wiki/SecurityGreaves)
 
 </details>
 

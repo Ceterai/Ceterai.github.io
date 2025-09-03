@@ -18,8 +18,8 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" height=16px width="auto" /> [Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" height=16px width="auto" /> [Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco_green/icon.png" alt="Eco Poi Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Poi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoPoiSapling)
 
 Used to craft:

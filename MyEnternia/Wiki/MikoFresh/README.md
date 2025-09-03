@@ -9,7 +9,7 @@ Aspiring [alta artists](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist) of
 
 Species descriptions:
 
-- Alta: Aww, this is so sweet and inspiring! Kinda like [miko honey](https://ceterai.github.io/MyEnternia/Wiki/mikohoney).
+- Alta: Aww, this is so sweet and inspiring! Kinda like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Miko Honey icon" loading="lazy" height=16px width="auto" /> [miko honey](https://ceterai.github.io/MyEnternia/Wiki/MikoHoney).
 
 ## Parameters
 
@@ -27,6 +27,16 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height=16px width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height=16px width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
 
 ## Technical Information
 

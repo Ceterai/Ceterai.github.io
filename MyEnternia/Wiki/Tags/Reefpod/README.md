@@ -1,6 +1,6 @@
 # Reefpod Tag
 
-The tag `reefpod-tag` contains 1 total entries.
+The tag `reefpod` contains 1 total entries.
 
 ## Objects
 

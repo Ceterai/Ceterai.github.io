@@ -1,6 +1,6 @@
 # Cloth Tag
 
-The tag `cloth-tag` contains 2 total entries.
+The tag `cloth` contains 2 total entries.
 
 ## Objects
 

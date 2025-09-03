@@ -1,6 +1,6 @@
 # Glitchcastle Tag
 
-The tag `glitchcastle-tag` contains 1 total entries.
+The tag `glitchcastle` contains 1 total entries.
 
 ## Objects
 

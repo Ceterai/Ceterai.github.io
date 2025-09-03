@@ -1,6 +1,6 @@
 # Hive Tag
 
-The tag `hive-tag` contains 10 total entries.
+The tag `hive` contains 10 total entries.
 
 ## Objects
 

@@ -4,13 +4,19 @@
 
 An EPP module that boosts your [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) by 15% and gives [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Sources
 
 Can be bought from merchants:
 
+- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
-- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 
 ## Technical Information
 

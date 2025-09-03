@@ -4,6 +4,12 @@
 
 An official Project Ceterai researcher's legwear. Practical and well thought-out.
 
+## Sources
+
+Can be bought from merchants:
+
+- [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_researcher_skirt-ceterai`

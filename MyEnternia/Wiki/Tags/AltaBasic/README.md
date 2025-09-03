@@ -1,6 +1,6 @@
 # Alta Basic Tag
 
-The tag `alta_basic-tag` contains 1 total entries.
+The tag `alta_basic` contains 1 total entries.
 
 ## Objects
 

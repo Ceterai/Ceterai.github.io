@@ -4,6 +4,12 @@
 
 An EPP module that gives [Hevikai Status Immunity](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStatusImmunity) and adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" height=16px width="auto" /> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals).
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Sources
 
 Found naturally in containers:

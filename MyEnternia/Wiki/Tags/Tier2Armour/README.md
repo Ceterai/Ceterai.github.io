@@ -1,6 +1,6 @@
 # Tier2Armour Tag
 
-The tag `tier2armour-tag` contains 1 total entries.
+The tag `tier2armour` contains 1 total entries.
 
 ## Objects
 
@@ -10,4 +10,4 @@ The tag `tier2armour-tag` contains 1 total entries.
 
 Following items have this item tag:
 
-- `ct_head_mimic-comm_set`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Comm Set icon" loading="lazy" height=16px width="auto" /> [Alta Comm Set](https://ceterai.github.io/MyEnternia/Wiki/AltaCommSet)

@@ -1,6 +1,6 @@
 # Instrument Tag
 
-The tag `instrument-tag` contains 1 total entries.
+The tag `instrument` contains 1 total entries.
 
 ## Objects
 

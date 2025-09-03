@@ -28,17 +28,17 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Used to craft: (Expand 12 items)</summary>
 
-- `ct_alta_constructor3`
-- `ct_alta_crafting_station6`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_sail_ai_chip.png" alt="Alta S.A.I.L. A.I. Chip icon" loading="lazy" height=16px width="auto" /> [Alta S.A.I.L. A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaS.A.I.L.A.I.Chip)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/combat.png" alt="Combat Android ★ icon" loading="lazy" height=16px width="auto" /> [Combat Android ★](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/android_head/icon.png" alt="Combat Android Head ★ icon" loading="lazy" height=16px width="auto" /> [Combat Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroidHead)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/combat.png" alt="Combat Android ★ icon" loading="lazy" height=16px width="auto" /> [Combat Android ★](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_augment.png" alt="Combat Augment icon" loading="lazy" height=16px width="auto" /> [Combat Augment](https://ceterai.github.io/MyEnternia/Wiki/CombatAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/helmet/icon.png" alt="Combat Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Combat Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/CombatHelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/legwear/icon.png" alt="Combat Off-Roaders icon" loading="lazy" height=16px width="auto" /> [Combat Off-Roaders](https://ceterai.github.io/MyEnternia/Wiki/CombatOff-Roaders)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png" alt="Combat Mask icon" loading="lazy" height=16px width="auto" /> [Combat Mask](https://ceterai.github.io/MyEnternia/Wiki/CombatMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Combat MKII Mask ★★ icon" loading="lazy" height=16px width="auto" /> [Combat MKII Mask ★★](https://ceterai.github.io/MyEnternia/Wiki/CombatMKIIMask)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/legwear/icon.png" alt="Combat Off-Roaders icon" loading="lazy" height=16px width="auto" /> [Combat Off-Roaders](https://ceterai.github.io/MyEnternia/Wiki/CombatOff-Roaders)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png" alt="Combat Power Augment ★★ icon" loading="lazy" height=16px width="auto" /> [Combat Power Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/CombatPowerAugment)
+- `ct_alta_constructor3`
+- `ct_alta_crafting_station6`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_plasma_augment.png" alt="Plasma Augment ★ icon" loading="lazy" height=16px width="auto" /> [Plasma Augment ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaAugment)
 
 </details>

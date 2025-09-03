@@ -1,6 +1,6 @@
 # Tier1 Tag
 
-The tag `tier1-tag` contains 1 total entries.
+The tag `tier1` contains 1 total entries.
 
 ## Objects
 

@@ -27,10 +27,10 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" height=16px width="auto" /> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/tsay/icon.png" alt="Potted Tsay icon" loading="lazy" height=16px width="auto" /> [Potted Tsay](https://ceterai.github.io/MyEnternia/Wiki/PottedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/fertile/icon.png" alt="Fertile Tsay Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Fertile Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" height=16px width="auto" /> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/mixed/icon.png" alt="Mixed Tsay Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Mixed Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/tsay/icon.png" alt="Potted Tsay icon" loading="lazy" height=16px width="auto" /> [Potted Tsay](https://ceterai.github.io/MyEnternia/Wiki/PottedTsay)
 
 Used to craft:
 

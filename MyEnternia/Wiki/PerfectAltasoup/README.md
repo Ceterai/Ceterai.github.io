@@ -19,6 +19,16 @@ Species descriptions:
 
 - Effect: `maxhealthscalingboostfood`- Duration: 270
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/soup/icon.png" alt="Alta Soup Serving icon" loading="lazy" height=16px width="auto" /> [Alta Soup Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaSoupServing)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_soup-perfect`

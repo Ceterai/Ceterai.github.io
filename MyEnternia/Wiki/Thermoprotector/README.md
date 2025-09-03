@@ -22,6 +22,13 @@ Radiomessages on pickup:
 - Cooldown: 0.9s
 - Knockback: 10
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
 ## Technical Information
 
 - In-game ID: `ct_ioncore_shield-koywa`

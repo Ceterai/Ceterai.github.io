@@ -1,6 +1,6 @@
 # Voda Tag
 
-The tag `voda-tag` contains 6 total entries.
+The tag `voda` contains 6 total entries.
 
 ## Objects
 

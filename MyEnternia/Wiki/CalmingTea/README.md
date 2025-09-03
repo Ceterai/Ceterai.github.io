@@ -29,6 +29,16 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Hive Curry icon" loading="lazy" height=16px width="auto" /> [Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/HiveCurry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Niatto Motsu Soup icon" loading="lazy" height=16px width="auto" /> [Niatto Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/NiattoMotsuSoup)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height=16px width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
+
 ## Technical Information
 
 - In-game ID: `ct_maito_tea-calm`

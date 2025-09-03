@@ -10,13 +10,17 @@ Species descriptions:
 
 - Alta: Some say these blossoms might be far relatives of ayakas.
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Crafting
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sort/icon.png" alt="Pink Aya Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Pink Aya Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/PinkAyaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/eco/icon.png" alt="Eco Cotton Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Cotton Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCottonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sort/icon.png" alt="Pink Aya Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Pink Aya Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/PinkAyaSapling)
 
 Unlocks blueprints for:
 
@@ -25,10 +29,10 @@ Unlocks blueprints for:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
 
 ## Sources
 
@@ -38,11 +42,11 @@ Drops from destroyed obstacles:
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height=16px width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" height=16px width="auto" /> [Wild Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/WildBlossomSeed)
 
 </details>

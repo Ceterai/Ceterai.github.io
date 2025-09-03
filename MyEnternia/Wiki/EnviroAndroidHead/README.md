@@ -12,9 +12,9 @@ A head of an advanced android prototype for the [Enviro Android Set](https://cet
 
 Can be bought from merchants:
 
+- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
-- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 
 Drops from defeated creatures:
 
@@ -23,9 +23,9 @@ Drops from defeated creatures:
 Drops from creatures defeated with any **bow**:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Engineer Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EngineerDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Ionic Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/IonicDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/spider.png" alt="Spider Droid icon" loading="lazy" height=16px width="auto" /> [Spider Droid](https://ceterai.github.io/MyEnternia/Wiki/SpiderDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Watcher Drone icon" loading="lazy" height=16px width="auto" /> [Watcher Drone](https://ceterai.github.io/MyEnternia/Wiki/WatcherDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Ionic Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/IonicDrone)
 
 ## Technical Information
 

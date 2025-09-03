@@ -26,15 +26,15 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" height=16px width="auto" /> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" height=16px width="auto" /> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" height=16px width="auto" /> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_warped_tree.png" alt="Warped Tree ★ icon" loading="lazy" height=16px width="auto" /> [Warped Tree ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedTree)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" height=16px width="auto" /> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" height=16px width="auto" /> [A Sentia's Crown](https://ceterai.github.io/MyEnternia/Wiki/ASentia'sCrown)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height=16px width="auto" /> [Glowing Kingdom](https://ceterai.github.io/MyEnternia/Wiki/GlowingKingdom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" height=16px width="auto" /> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation)
 
 ## Sources
 

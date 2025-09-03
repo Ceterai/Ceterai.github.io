@@ -31,8 +31,8 @@ Drops from creatures defeated with any **bow**:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/defensive.png" alt="EDS Defensive Drone ★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Drone ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Empty EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmptyEDSFrigateDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" height=16px width="auto" /> [EDS Droid ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Empty EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmptyEDSFrigateDrone)
 
 ## Technical Information
 

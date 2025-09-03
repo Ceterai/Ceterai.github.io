@@ -23,8 +23,8 @@ Can be bought from merchants:
 Drops from defeated creatures:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" height=16px width="auto" /> [Security Drone](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/elin.png" alt="Elin Drone ★ icon" loading="lazy" height=16px width="auto" /> [Elin Drone ★](https://ceterai.github.io/MyEnternia/Wiki/ElinDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" height=16px width="auto" /> [Security Drone](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone)
 
 <details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 

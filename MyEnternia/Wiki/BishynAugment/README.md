@@ -4,6 +4,12 @@
 
 An EPP module infused with charged poisonous crystals. Increases swimming speed and adds [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) resistance.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Sources
 
 Found naturally in containers:

@@ -1,6 +1,6 @@
 # Beam Tag
 
-The tag `beam-tag` contains 1 total entries.
+The tag `beam` contains 1 total entries.
 
 ## Objects
 

@@ -1,6 +1,6 @@
 # Compound Tag
 
-The tag `compound-tag` contains 4 total entries.
+The tag `compound` contains 4 total entries.
 
 ## Objects
 

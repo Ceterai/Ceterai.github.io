@@ -1,6 +1,6 @@
 # Rainbow Tag
 
-The tag `rainbow-tag` contains 1 total entries.
+The tag `rainbow` contains 1 total entries.
 
 ## Objects
 

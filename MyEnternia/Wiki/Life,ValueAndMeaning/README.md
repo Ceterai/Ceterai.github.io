@@ -27,9 +27,9 @@ Unlocks blueprints for:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Observer icon" loading="lazy" height=16px width="auto" /> [The Observer](https://ceterai.github.io/MyEnternia/Wiki/TheObserver)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" height=16px width="auto" /> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and The Starflower Order icon" loading="lazy" height=16px width="auto" /> [Little Star and The Starflower Order](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandTheStarflowerOrder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Observer icon" loading="lazy" height=16px width="auto" /> [The Observer](https://ceterai.github.io/MyEnternia/Wiki/TheObserver)
 
 ## Sources
 

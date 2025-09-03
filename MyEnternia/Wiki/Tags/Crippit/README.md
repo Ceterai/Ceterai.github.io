@@ -1,6 +1,6 @@
 # Crippit Tag
 
-The tag `crippit-tag` contains 1 total entries.
+The tag `crippit` contains 1 total entries.
 
 ## Objects
 

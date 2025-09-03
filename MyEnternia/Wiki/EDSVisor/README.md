@@ -27,13 +27,11 @@ Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
-<details markdown="1"><summary>Can be bought from merchants: (Expand 12 items)</summary>
+<details markdown="1"><summary>Can be bought from merchants: (Expand 10 items)</summary>
 
-- [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
-- [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
-- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
-- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
+- [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
+- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)

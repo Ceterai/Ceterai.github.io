@@ -23,8 +23,8 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- `ct_carel_sapling`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" height=16px width="auto" /> [Crystalline Primification](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimification)
+- `ct_carel_sapling`
 
 ## Sources
 
@@ -38,37 +38,37 @@ Can be bought from merchants:
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
-- [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
-- [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)
-- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
-- [Alta Lab Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcher)
-- [Alta Medic](https://ceterai.github.io/MyEnternia/Wiki/AltaMedic)
-- [Alta Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaResearcher)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
-- [Alta Oceanologist](https://ceterai.github.io/MyEnternia/Wiki/AltaOceanologist)
-- [Alta Archaeologist](https://ceterai.github.io/MyEnternia/Wiki/AltaArchaeologist)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [A.R.C.O. Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.FieldResearcher)
 - [A.R.C.O. Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Researcher)
+- [Alta Archaeologist](https://ceterai.github.io/MyEnternia/Wiki/AltaArchaeologist)
+- [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Aricologist](https://ceterai.github.io/MyEnternia/Wiki/AltaAricologist)
 - [Alta Biologist](https://ceterai.github.io/MyEnternia/Wiki/AltaBiologist)
+- [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)
+- [Alta Geologist](https://ceterai.github.io/MyEnternia/Wiki/AltaGeologist)
+- [Alta Hive Keeper](https://ceterai.github.io/MyEnternia/Wiki/AltaHiveKeeper)
+- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
+- [Alta Lab Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcher)
+- [Alta Medic](https://ceterai.github.io/MyEnternia/Wiki/AltaMedic)
+- [Alta Oceanologist](https://ceterai.github.io/MyEnternia/Wiki/AltaOceanologist)
+- [Alta Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaResearcher)
+- [Alta Toxicologist](https://ceterai.github.io/MyEnternia/Wiki/AltaToxicologist)
+- [Alta Volcanologist](https://ceterai.github.io/MyEnternia/Wiki/AltaVolcanologist)
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [Ceterai Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFieldResearcher)
 - [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
+- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [EDS Researcher](https://ceterai.github.io/MyEnternia/Wiki/EDSResearcher)
-- [Alta Geologist](https://ceterai.github.io/MyEnternia/Wiki/AltaGeologist)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
 - [Ghearun Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/GhearunFieldResearcher)
 - [Ghearun Researcher](https://ceterai.github.io/MyEnternia/Wiki/GhearunResearcher)
 - [Hevika Archiver](https://ceterai.github.io/MyEnternia/Wiki/HevikaArchiver)
 - [Hevika Researcher](https://ceterai.github.io/MyEnternia/Wiki/HevikaResearcher)
-- [Alta Hive Keeper](https://ceterai.github.io/MyEnternia/Wiki/AltaHiveKeeper)
 - [MKI Researcher](https://ceterai.github.io/MyEnternia/Wiki/MKIResearcher)
 - [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
 - [Neiteru Researcher](https://ceterai.github.io/MyEnternia/Wiki/NeiteruResearcher)
-- [Alta Volcanologist](https://ceterai.github.io/MyEnternia/Wiki/AltaVolcanologist)
-- [Alta Toxicologist](https://ceterai.github.io/MyEnternia/Wiki/AltaToxicologist)
 - [Tserera Archiver](https://ceterai.github.io/MyEnternia/Wiki/TsereraArchiver)
 - [Tserera Researcher](https://ceterai.github.io/MyEnternia/Wiki/TsereraResearcher)
 

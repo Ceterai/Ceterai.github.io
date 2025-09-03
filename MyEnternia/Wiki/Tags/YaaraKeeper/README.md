@@ -1,6 +1,6 @@
 # Yaara Keeper Tag
 
-The tag `yaara_keeper-tag` contains 3 total entries.
+The tag `yaara_keeper` contains 3 total entries.
 
 ## Objects
 
@@ -10,6 +10,6 @@ The tag `yaara_keeper-tag` contains 3 total entries.
 
 Following items have this item tag:
 
-- `ct_body_mimic-yaara_keeper`
-- `ct_head_mimic-yaara_keeper`
-- `ct_legs_mimic-yaara_keeper`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Guard ★ icon" loading="lazy" height=16px width="auto" /> [Yaara Keeper's Guard ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper'sGuard)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Yaara Keeper's Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper'sHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Legwards ★ icon" loading="lazy" height=16px width="auto" /> [Yaara Keeper's Legwards ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper'sLegwards)

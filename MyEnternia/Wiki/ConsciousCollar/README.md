@@ -4,6 +4,12 @@
 
 A collar that boosts your pet's [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) by 15% and gives it [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
+
 ## Sources
 
 Found naturally in containers:

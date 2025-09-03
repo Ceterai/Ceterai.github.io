@@ -1,12 +1,11 @@
 # Essential Tag
 
-The tag `essential-tag` contains 16 total entries.
+The tag `essential` contains 16 total entries.
 
 ## Objects
 
 <details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" height=16px width="auto" /> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" height=16px width="auto" /> [Alta Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaLennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/planet/alterash_prime/icon.png" alt="Alterash Prime Terraformer icon" loading="lazy" height=16px width="auto" /> [Alterash Prime Terraformer](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrimeTerraformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/planet/alterash/icon.png" alt="Alterash Terraformer icon" loading="lazy" height=16px width="auto" /> [Alterash Terraformer](https://ceterai.github.io/MyEnternia/Wiki/AlterashTerraformer)
@@ -18,6 +17,7 @@ The tag `essential-tag` contains 16 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_my_enternia_trophy.png" alt="My Enternia Trophy ★ icon" loading="lazy" height=16px width="auto" /> [My Enternia Trophy ★](https://ceterai.github.io/MyEnternia/Wiki/MyEnterniaTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height=16px width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" height=16px width="auto" /> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
 
 </details>
 

@@ -17,9 +17,9 @@ Can be bought from merchants:
 
 Drops from defeated creatures:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Ionic Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/IonicDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/spider.png" alt="Spider Droid icon" loading="lazy" height=16px width="auto" /> [Spider Droid](https://ceterai.github.io/MyEnternia/Wiki/SpiderDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Watcher Drone icon" loading="lazy" height=16px width="auto" /> [Watcher Drone](https://ceterai.github.io/MyEnternia/Wiki/WatcherDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Ionic Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/IonicDrone)
 
 Drops from creatures defeated with any **bow**:
 

@@ -19,9 +19,9 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_captain.png" alt="Security Captain Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Captain Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptainSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" height=16px width="auto" /> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_captain.png" alt="Security Captain Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Captain Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptainSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" height=16px width="auto" /> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet)
 
 ## Technical Information

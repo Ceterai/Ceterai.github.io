@@ -1,6 +1,6 @@
 # Remnant Tag
 
-The tag `remnant-tag` contains 1 total entries.
+The tag `remnant` contains 1 total entries.
 
 ## Objects
 

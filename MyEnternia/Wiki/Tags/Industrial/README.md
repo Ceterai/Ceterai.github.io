@@ -1,6 +1,6 @@
 # Industrial Tag
 
-The tag `industrial-tag` contains 2 total entries.
+The tag `industrial` contains 2 total entries.
 
 ## Objects
 

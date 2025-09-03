@@ -1,6 +1,6 @@
 # Coralcreep Tag
 
-The tag `coralcreep-tag` contains 1 total entries.
+The tag `coralcreep` contains 1 total entries.
 
 ## Objects
 

@@ -1,6 +1,6 @@
 # Titanium Tag
 
-The tag `titanium-tag` contains 2 total entries.
+The tag `titanium` contains 2 total entries.
 
 ## Objects
 

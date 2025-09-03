@@ -22,6 +22,15 @@ Radiomessages on pickup:
 - Cooldown: 0.45s
 - Knockback: 64
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
+- [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
+
 ## Technical Information
 
 - In-game ID: `ct_kinetic_shield-strong`

@@ -1,6 +1,6 @@
 # Oculemon Tag
 
-The tag `oculemon-tag` contains 1 total entries.
+The tag `oculemon` contains 1 total entries.
 
 ## Objects
 

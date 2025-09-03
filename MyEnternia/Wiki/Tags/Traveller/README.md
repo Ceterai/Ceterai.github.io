@@ -1,6 +1,6 @@
 # Traveller Tag
 
-The tag `traveller-tag` contains 1 total entries.
+The tag `traveller` contains 1 total entries.
 
 ## Objects
 

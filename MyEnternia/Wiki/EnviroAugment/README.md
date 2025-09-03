@@ -4,13 +4,19 @@
 
 An EPP module that slightly boosts your [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) resistance by 15%.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Sources
 
 Can be bought from merchants:
 
+- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
-- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 
 ## Technical Information
 

@@ -1,0 +1,35 @@
+# Miko Honey
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Miko Honey icon" loading="lazy" height=16px width="auto" /> **Miko Honey** is an uncommon dish.
+
+An incredibly sweet honey made from a [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) extract. It's bright pink and it was made with love! Too bad you don't know any recipes that use it...  
+This herb-based honey can sweeten-up any dish, even if not intended, so be careful.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: The taste, and even the smell itself is very alluring.
+
+## Parameters
+
+- Food Value: 28
+- Blocking Effects: 
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height=16px width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
+
+## Technical Information
+
+- In-game ID: `ct_food_mimic-miko_honey`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
+- File: [`/items/buildscripts/ct_mimics/food.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/food.consumable)

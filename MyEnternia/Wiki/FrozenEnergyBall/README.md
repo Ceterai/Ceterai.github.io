@@ -27,16 +27,16 @@ This ball of lightning got frozen. How is that even possible? ([Alta](https://ce
 
 <details markdown="1"><summary>Used to craft: (Expand 11 items)</summary>
 
-- `ct_alta_crafting_station7`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" height=16px width="auto" /> [Arknight's Shield](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Calin Shield icon" loading="lazy" height=16px width="auto" /> [Calin Shield](https://ceterai.github.io/MyEnternia/Wiki/CalinShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" height=16px width="auto" /> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" height=16px width="auto" /> [Ion Fortress](https://ceterai.github.io/MyEnternia/Wiki/IonFortress)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png" alt="Kinetic Shield icon" loading="lazy" height=16px width="auto" /> [Kinetic Shield](https://ceterai.github.io/MyEnternia/Wiki/KineticShield)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_protolaris.png" alt="Ikai Protolaris ★ icon" loading="lazy" height=16px width="auto" /> [Ikai Protolaris ★](https://ceterai.github.io/MyEnternia/Wiki/IkaiProtolaris)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_spacedrifter_shield.png" alt="Spacedrifter Shield icon" loading="lazy" height=16px width="auto" /> [Spacedrifter Shield](https://ceterai.github.io/MyEnternia/Wiki/SpacedrifterShield)
+- `ct_alta_crafting_station7`
 - `ct_tool_mimic`
 - <img src="https://starbounder.org/mediawiki/images/9/92/Energy_Javelin.png" alt="Energy Javelin icon" loading="lazy" height=3px width=27px /> [Energy Javelin](https://starbounder.org/Energy_Javelin)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_protolaris.png" alt="Ikai Protolaris ★ icon" loading="lazy" height=16px width="auto" /> [Ikai Protolaris ★](https://ceterai.github.io/MyEnternia/Wiki/IkaiProtolaris)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" height=16px width="auto" /> [Ion Fortress](https://ceterai.github.io/MyEnternia/Wiki/IonFortress)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png" alt="Kinetic Shield icon" loading="lazy" height=16px width="auto" /> [Kinetic Shield](https://ceterai.github.io/MyEnternia/Wiki/KineticShield)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_spacedrifter_shield.png" alt="Spacedrifter Shield icon" loading="lazy" height=16px width="auto" /> [Spacedrifter Shield](https://ceterai.github.io/MyEnternia/Wiki/SpacedrifterShield)
 - <img src="https://starbounder.org/mediawiki/images/6/6a/Static_Cell.png" alt="Static Cell icon" loading="lazy" height=14px width=9px /> [Static Cell](https://starbounder.org/Static_Cell)
 
 </details>

@@ -1,14 +1,14 @@
 # Neon Tag
 
-The tag `neon-tag` contains 5 total entries.
+The tag `neon` contains 5 total entries.
 
 ## Objects
 
 Following objects have this colony tag:
 
-- `ct_obj_mimic-altolight`
-- `ct_obj_mimic-mikolight`
-- `ct_obj_mimic-tea_cafe_sign`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Altolight icon" loading="lazy" height=16px width="auto" /> [Alta Altolight](https://ceterai.github.io/MyEnternia/Wiki/AltaAltolight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Mikolight icon" loading="lazy" height=16px width="auto" /> [Alta Mikolight](https://ceterai.github.io/MyEnternia/Wiki/AltaMikolight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Tea Cafe Sign icon" loading="lazy" height=16px width="auto" /> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
 
 ## Tenants
 

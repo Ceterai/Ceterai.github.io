@@ -1,6 +1,6 @@
 # Tserera Tag
 
-The tag `tserera-tag` contains 2 total entries.
+The tag `tserera` contains 2 total entries.
 
 ## Objects
 

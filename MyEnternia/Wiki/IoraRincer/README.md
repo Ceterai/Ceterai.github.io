@@ -10,6 +10,12 @@ An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 - Cooldown: 0.5s
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
 ## Technical Information
 
 - In-game ID: `ct_gyera_can-upgrade`

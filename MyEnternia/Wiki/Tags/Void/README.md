@@ -1,6 +1,6 @@
 # Void Tag
 
-The tag `void-tag` contains 1 total entries.
+The tag `void` contains 1 total entries.
 
 ## Objects
 
@@ -10,4 +10,4 @@ The tag `void-tag` contains 1 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS "Animus-T" ★★ icon" loading="lazy" height=16px width="auto" /> [GRS "Animus-T" ★★](https://ceterai.github.io/MyEnternia/Wiki/GRSAnimus-T)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS Animus-T ★★ icon" loading="lazy" height=16px width="auto" /> [GRS "Animus-T" ★★](https://ceterai.github.io/MyEnternia/Wiki/GRSAnimus-T)

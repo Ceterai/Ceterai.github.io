@@ -1,6 +1,6 @@
 # Christmas Tag
 
-The tag `christmas-tag` contains 2 total entries.
+The tag `christmas` contains 2 total entries.
 
 ## Objects
 

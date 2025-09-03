@@ -10,6 +10,10 @@ Species descriptions:
 
 - Alta: Science is capable of amazing things!
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Crafting
 
 Blueprint unlocked by obtaining:
@@ -23,17 +27,17 @@ Unlocks blueprints for:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Ruka 16 Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/Ruka16Sapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/pod/icon.png" alt="Ruka Eco Pod icon" loading="lazy" height=16px width="auto" /> [Ruka Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/RukaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/sapling/icon.png" alt="Ruka 14-2 Sapling icon" loading="lazy" height=16px width="auto" /> [Ruka 14-2 Sapling](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Sapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Ruka 16 Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/Ruka16Sapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/pod/icon.png" alt="Ruka Eco Pod icon" loading="lazy" height=16px width="auto" /> [Ruka Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/RukaEcoPod)
 
 ## Sources
 
 Can be bought from merchants:
 
-- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 - [Gyera Archiver](https://ceterai.github.io/MyEnternia/Wiki/GyeraArchiver)
+- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
 Drops from destroyed obstacles:
 
@@ -41,11 +45,11 @@ Drops from destroyed obstacles:
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Ruka 16 Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/Ruka16Sapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/pod/icon.png" alt="Ruka Eco Pod icon" loading="lazy" height=16px width="auto" /> [Ruka Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/RukaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/sapling/icon.png" alt="Ruka 14-2 Sapling icon" loading="lazy" height=16px width="auto" /> [Ruka 14-2 Sapling](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Sapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Ruka 14-2 Seed icon" loading="lazy" height=16px width="auto" /> [Ruka 14-2 Seed](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Seed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Ruka 16 Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/Ruka16Sapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/pod/icon.png" alt="Ruka Eco Pod icon" loading="lazy" height=16px width="auto" /> [Ruka Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/RukaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Wild Ruka Seed icon" loading="lazy" height=16px width="auto" /> [Wild Ruka Seed](https://ceterai.github.io/MyEnternia/Wiki/WildRukaSeed)
 
 </details>

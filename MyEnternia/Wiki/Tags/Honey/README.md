@@ -1,6 +1,6 @@
 # Honey Tag
 
-The tag `honey-tag` contains 1 total entries.
+The tag `honey` contains 1 total entries.
 
 ## Objects
 

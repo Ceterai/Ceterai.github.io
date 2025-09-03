@@ -1,14 +1,14 @@
 # Mical Tag
 
-The tag `mical-tag` contains 4 total entries.
+The tag `mical` contains 4 total entries.
 
 ## Objects
 
 Following objects have this colony tag:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_red_icon.png" alt="Alta Lab Capsule With Mical icon" loading="lazy" height=16px width="auto" /> [Alta Lab Capsule With Mical](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithMical)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Mical Geode Sample icon" loading="lazy" height=16px width="auto" /> [Mical Geode Sample](https://ceterai.github.io/MyEnternia/Wiki/MicalGeodeSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_mical_tree.png" alt="Mical Tree icon" loading="lazy" height=16px width="auto" /> [Mical Tree](https://ceterai.github.io/MyEnternia/Wiki/MicalTree)
-- `ct_obj_mimic-mical_sample`
 
 ## Tenants
 

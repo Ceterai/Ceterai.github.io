@@ -1,6 +1,6 @@
 # Narute Tag
 
-The tag `narute-tag` contains 1 total entries.
+The tag `narute` contains 1 total entries.
 
 ## Objects
 
@@ -10,4 +10,4 @@ The tag `narute-tag` contains 1 total entries.
 
 Following items have this item tag:
 
-- `ct_food_mimic-alta_pear`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear icon" loading="lazy" height=16px width="auto" /> [Alta Pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear)

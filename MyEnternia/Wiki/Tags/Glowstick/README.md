@@ -1,6 +1,6 @@
 # Glowstick Tag
 
-The tag `glowstick-tag` contains 11 total entries.
+The tag `glowstick` contains 11 total entries.
 
 ## Objects
 

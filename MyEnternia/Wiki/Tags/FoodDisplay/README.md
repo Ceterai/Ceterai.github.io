@@ -1,6 +1,6 @@
 # Food Display Tag
 
-The tag `food_display-tag` contains 12 total entries.
+The tag `food_display` contains 12 total entries.
 
 ## Objects
 

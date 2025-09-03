@@ -27,14 +27,14 @@ Other variants:
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonna Meringue icon" loading="lazy" height=16px width="auto" /> [Tonna Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnaMeringue)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Sunset Crumble icon" loading="lazy" height=16px width="auto" /> [Sunset Crumble](https://ceterai.github.io/MyEnternia/Wiki/SunsetCrumble)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonnakada Meringue icon" loading="lazy" height=16px width="auto" /> [Tonnakada Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaMeringue)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" height=16px width="auto" /> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Ciranga Shake icon" loading="lazy" height=16px width="auto" /> [Ciranga Shake](https://ceterai.github.io/MyEnternia/Wiki/CirangaShake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Alta Shake icon" loading="lazy" height=16px width="auto" /> [Alta Shake](https://ceterai.github.io/MyEnternia/Wiki/AltaShake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Ciranga Shake icon" loading="lazy" height=16px width="auto" /> [Ciranga Shake](https://ceterai.github.io/MyEnternia/Wiki/CirangaShake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Perfect Tonna Shake icon" loading="lazy" height=16px width="auto" /> [Perfect Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/PerfectTonnaShake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Sunset Crumble icon" loading="lazy" height=16px width="auto" /> [Sunset Crumble](https://ceterai.github.io/MyEnternia/Wiki/SunsetCrumble)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonna Meringue icon" loading="lazy" height=16px width="auto" /> [Tonna Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnaMeringue)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" height=16px width="auto" /> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonnakada Meringue icon" loading="lazy" height=16px width="auto" /> [Tonnakada Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaMeringue)
 
 </details>
 

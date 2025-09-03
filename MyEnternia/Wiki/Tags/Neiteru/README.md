@@ -1,6 +1,6 @@
 # Neiteru Tag
 
-The tag `neiteru-tag` contains 4 total entries.
+The tag `neiteru` contains 4 total entries.
 
 ## Objects
 

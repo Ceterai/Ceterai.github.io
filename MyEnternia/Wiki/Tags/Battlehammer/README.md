@@ -1,6 +1,6 @@
 # Battlehammer Tag
 
-The tag `battlehammer-tag` contains 1 total entries.
+The tag `battlehammer` contains 1 total entries.
 
 ## Objects
 

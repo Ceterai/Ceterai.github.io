@@ -4,6 +4,12 @@
 
 An official Ghearun researcher's legwear. Practical and well thought-out.
 
+## Sources
+
+Can be bought from merchants:
+
+- [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_researcher_skirt-ghearun`

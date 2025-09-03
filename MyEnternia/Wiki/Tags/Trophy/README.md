@@ -1,6 +1,6 @@
 # Trophy Tag
 
-The tag `trophy-tag` contains 17 total entries.
+The tag `trophy` contains 17 total entries.
 
 ## Objects
 
@@ -28,7 +28,7 @@ The tag `trophy-tag` contains 17 total entries.
 Following items have this item tag:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/my_enternia/trophies/crippit_head/icon.png" alt="Crippihead icon" loading="lazy" height=16px width="auto" /> [Crippihead](https://ceterai.github.io/MyEnternia/Wiki/Crippihead)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/my_enternia/trophies/impulse_bobfae_head/icon.png" alt="Impulse Bobmask icon" loading="lazy" height=16px width="auto" /> [Impulse Bobmask](https://ceterai.github.io/MyEnternia/Wiki/ImpulseBobmask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_crystal_pillar_hat/icon.png" alt="Crystal Pillar Hat icon" loading="lazy" height=16px width="auto" /> [Crystal Pillar Hat](https://ceterai.github.io/MyEnternia/Wiki/CrystalPillarHat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_deprecation_device/icon.png" alt="Deprecation Device icon" loading="lazy" height=16px width="auto" /> [Deprecation Device](https://ceterai.github.io/MyEnternia/Wiki/DeprecationDevice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_deprecation_horns/icon.png" alt="Deprecation Horns icon" loading="lazy" height=16px width="auto" /> [Deprecation Horns](https://ceterai.github.io/MyEnternia/Wiki/DeprecationHorns)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/my_enternia/trophies/impulse_bobfae_head/icon.png" alt="Impulse Bobmask icon" loading="lazy" height=16px width="auto" /> [Impulse Bobmask](https://ceterai.github.io/MyEnternia/Wiki/ImpulseBobmask)

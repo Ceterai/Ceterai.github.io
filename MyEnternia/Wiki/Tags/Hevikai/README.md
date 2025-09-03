@@ -1,6 +1,6 @@
 # Hevikai Tag
 
-The tag `hevikai-tag` contains 2 total entries.
+The tag `hevikai` contains 2 total entries.
 
 ## Objects
 

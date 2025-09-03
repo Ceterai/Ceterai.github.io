@@ -1,6 +1,6 @@
 # Cell Tag
 
-The tag `cell-tag` contains 1 total entries.
+The tag `cell` contains 1 total entries.
 
 ## Objects
 

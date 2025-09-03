@@ -1,6 +1,6 @@
 # Brontor Tag
 
-The tag `brontor-tag` contains 1 total entries.
+The tag `brontor` contains 1 total entries.
 
 ## Objects
 

@@ -1,0 +1,26 @@
+# Koywa Skirt
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Koywa Skirt icon" loading="lazy" height=16px width="auto" /> **Koywa Skirt** is an uncommon leg item.
+
+A dancing skirt made out of [koywa](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa) leaves. Perfect for a beach party!  
+While being relatively easy to make, tthese skirts are often handmade and decorated by alta carftgirls and artists.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: It's so pretty! The koywa leaves are incredibly nice to the touch, perfect for a dancing skirt.
+
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
+
+## Technical Information
+
+- In-game ID: `ct_legs_mimic-koywa_skirt`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`party`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Party), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- File: [`/items/buildscripts/ct_mimics/legs.legs`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/legs.legs)

@@ -1,6 +1,6 @@
 # Copper Tag
 
-The tag `copper-tag` contains 1 total entries.
+The tag `copper` contains 1 total entries.
 
 ## Objects
 

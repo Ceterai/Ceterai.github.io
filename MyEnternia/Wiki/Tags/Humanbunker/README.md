@@ -1,6 +1,6 @@
 # Humanbunker Tag
 
-The tag `humanbunker-tag` contains 1 total entries.
+The tag `humanbunker` contains 1 total entries.
 
 ## Objects
 

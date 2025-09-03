@@ -1,6 +1,6 @@
 # Beach Tag
 
-The tag `beach-tag` contains 3 total entries.
+The tag `beach` contains 3 total entries.
 
 ## Objects
 

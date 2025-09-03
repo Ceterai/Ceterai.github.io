@@ -1,15 +1,15 @@
 # Tier3 Tag
 
-The tag `tier3-tag` contains 5 total entries.
+The tag `tier3` contains 5 total entries.
 
 ## Objects
 
 Following objects have this colony tag:
 
-- `ct_obj_mimic-scout_bed`
-- `ct_obj_mimic-scout_chair`
-- `ct_obj_mimic-scout_console`
-- `ct_obj_mimic-scout_table`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Bed icon" loading="lazy" height=16px width="auto" /> [Alta Scout Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutBed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Chair icon" loading="lazy" height=16px width="auto" /> [Alta Scout Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutChair)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Console icon" loading="lazy" height=16px width="auto" /> [Alta Scout Console](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutConsole)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Table icon" loading="lazy" height=16px width="auto" /> [Alta Scout Table](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutTable)
 
 ## Tenants
 

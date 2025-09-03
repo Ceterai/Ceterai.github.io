@@ -27,6 +27,16 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" height=16px width="auto" /> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Tonna Split icon" loading="lazy" height=16px width="auto" /> [Tonna Split](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplit)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cocktail/icon.png" alt="Alta Cocktail Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cocktail Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCocktailServing)
+
 ## Technical Information
 
 - In-game ID: `ct_tonna_shake-alien`

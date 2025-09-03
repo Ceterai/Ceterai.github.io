@@ -1,6 +1,6 @@
 # Wand Tag
 
-The tag `wand-tag` contains 5 total entries.
+The tag `wand` contains 5 total entries.
 
 ## Objects
 

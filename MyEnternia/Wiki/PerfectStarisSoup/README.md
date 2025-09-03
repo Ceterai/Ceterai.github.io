@@ -21,6 +21,16 @@ Species descriptions:
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/determined.png:1" alt="Determined icon" loading="lazy" height=16px width="auto" /> [Determined](https://ceterai.github.io/MyEnternia/Wiki/Determined)- Duration: 270
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/soup/icon.png" alt="Alta Soup Serving icon" loading="lazy" height=16px width="auto" /> [Alta Soup Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaSoupServing)
+
 ## Technical Information
 
 - In-game ID: `ct_staris_soup-perfect`

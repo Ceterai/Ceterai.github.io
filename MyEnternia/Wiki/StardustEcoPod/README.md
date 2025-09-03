@@ -35,9 +35,9 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/void.png" alt="Alta Omniponics icon" loading="lazy" height=16px width="auto" /> [Alta Omniponics](https://ceterai.github.io/MyEnternia/Wiki/AltaOmniponics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height=16px width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" height=16px width="auto" /> [Livira](https://ceterai.github.io/MyEnternia/Wiki/Livira)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" height=16px width="auto" /> [Potted Calocol Tulip](https://ceterai.github.io/MyEnternia/Wiki/PottedCalocolTulip)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/ezmeralda/icon.png" alt="Potted Ezmeralda icon" loading="lazy" height=16px width="auto" /> [Potted Ezmeralda](https://ceterai.github.io/MyEnternia/Wiki/PottedEzmeralda)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" height=16px width="auto" /> [Livira](https://ceterai.github.io/MyEnternia/Wiki/Livira)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" height=16px width="auto" /> [Potted Poppy Prime](https://ceterai.github.io/MyEnternia/Wiki/PottedPoppyPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" height=16px width="auto" /> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
 

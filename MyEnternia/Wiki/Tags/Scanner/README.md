@@ -1,6 +1,6 @@
 # Scanner Tag
 
-The tag `scanner-tag` contains 1 total entries.
+The tag `scanner` contains 1 total entries.
 
 ## Objects
 

@@ -1,6 +1,6 @@
 # Music Tag
 
-The tag `music-tag` contains 1 total entries.
+The tag `music` contains 1 total entries.
 
 ## Objects
 

@@ -16,6 +16,12 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon.png" alt="Alta Tiller icon" loading="lazy" height=16px width="auto" /> [Alta Tiller](https://ceterai.github.io/MyEnternia/Wiki/AltaTiller)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
 ## Technical Information
 
 - In-game ID: `ct_altan_can-upgrade`

@@ -1,6 +1,6 @@
 # Bathroom Tag
 
-The tag `bathroom-tag` contains 2 total entries.
+The tag `bathroom` contains 2 total entries.
 
 ## Objects
 

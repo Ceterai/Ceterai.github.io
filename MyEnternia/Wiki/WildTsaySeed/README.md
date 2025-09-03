@@ -19,6 +19,10 @@ Grows bitter-sour tsay fruits that when cooked properly can taste like meat.
 
 </details>
 
+Radiomessages on pickup:
+
+- I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
+
 ## Parameters
 
 This object **doesn't drop itself** when broken.

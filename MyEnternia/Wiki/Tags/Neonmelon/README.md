@@ -1,6 +1,6 @@
 # Neonmelon Tag
 
-The tag `neonmelon-tag` contains 5 total entries.
+The tag `neonmelon` contains 5 total entries.
 
 ## Objects
 

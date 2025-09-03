@@ -1,6 +1,6 @@
 # Altan Tag
 
-The tag `altan-tag` contains 2 total entries.
+The tag `altan` contains 2 total entries.
 
 ## Objects
 

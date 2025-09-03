@@ -28,20 +28,20 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Used to craft: (Expand 14 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" height=16px width="auto" /> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_security_ai_chip.png" alt="Alta Security A.I. Chip icon" loading="lazy" height=16px width="auto" /> [Alta Security A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityA.I.Chip)
 - `ct_alta_constructor2`
 - `ct_alta_crafting_station3`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_security_ai_chip.png" alt="Alta Security A.I. Chip icon" loading="lazy" height=16px width="auto" /> [Alta Security A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityA.I.Chip)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/elin/helmet/icon.png" alt="Elin Guard Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Elin Guard Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/security.png" alt="Security Android icon" loading="lazy" height=16px width="auto" /> [Security Android](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/captain_helmet/icon.png" alt="Security Captain's Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Security Captain's Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptain'sHelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_captain.png" alt="Security Captain Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Captain Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptainSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_head/icon.png" alt="Security Droid Head ★ icon" loading="lazy" height=16px width="auto" /> [Security Droid Head ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidHead)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_captain.png" alt="Security Captain Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Captain Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptainSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/captain_helmet/icon.png" alt="Security Captain's Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Security Captain's Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptain'sHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_head/icon.png" alt="Security Droid Head ★ icon" loading="lazy" height=16px width="auto" /> [Security Droid Head ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidHead)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" height=16px width="auto" /> [Security Drone](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="Security Helmet icon" loading="lazy" height=16px width="auto" /> [Security Helmet](https://ceterai.github.io/MyEnternia/Wiki/SecurityHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet_mk2/icon.png" alt="Security MkII Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Security MkII Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityMkIIHelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" height=16px width="auto" /> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" height=16px width="auto" /> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/elin/helmet/icon.png" alt="Elin Guard Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Elin Guard Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardHelmet)
 
 </details>
 

@@ -21,6 +21,16 @@ Species descriptions:
 
 - Effect: `maxenergyscalingboostfood`- Duration: 180
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cocktail/icon.png" alt="Alta Cocktail Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cocktail Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCocktailServing)
+
 ## Technical Information
 
 - In-game ID: `ct_mohitava_cocktail-alien`

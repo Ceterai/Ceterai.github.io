@@ -1,6 +1,6 @@
 # Security Tag
 
-The tag `security-tag` contains 1 total entries.
+The tag `security` contains 1 total entries.
 
 ## Objects
 

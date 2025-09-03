@@ -1,6 +1,6 @@
 # Sound Tag
 
-The tag `sound-tag` contains 1 total entries.
+The tag `sound` contains 1 total entries.
 
 ## Objects
 

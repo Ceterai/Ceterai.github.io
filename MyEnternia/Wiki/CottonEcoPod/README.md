@@ -14,7 +14,7 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- `cottonseed`
+- <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" height=12px width=5.875px /> [Cotton Seed](https://starbounder.org/Cotton_Seed)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Opulent Tag
 
-The tag `opulent-tag` contains 2 total entries.
+The tag `opulent` contains 2 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `opulent-tag` contains 2 total entries.
 
 Following tenants require this colony tag:
 
-- [Dreamer Android](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
 - [Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer)
+- [Dreamer Android](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
 
 ## Items

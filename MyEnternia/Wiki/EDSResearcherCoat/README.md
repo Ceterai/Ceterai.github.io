@@ -16,6 +16,12 @@ Radiomessages on pickup:
 - The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 
+## Sources
+
+Can be bought from merchants:
+
+- [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_researcher_coat-eds`

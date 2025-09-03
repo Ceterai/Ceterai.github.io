@@ -22,22 +22,10 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height=16px width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
 - `outpostshippingcontainer`
 
-<details markdown="1"><summary>Can be bought from merchants: (Expand 12 items)</summary>
+Can be bought from merchants:
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
-- [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
-- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
-- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
-- [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
-- [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
-- [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
-- [Hevika Archiver](https://ceterai.github.io/MyEnternia/Wiki/HevikaArchiver)
-- [MKI Archiver](https://ceterai.github.io/MyEnternia/Wiki/MKIArchiver)
-- [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
-- [Tserera Archiver](https://ceterai.github.io/MyEnternia/Wiki/TsereraArchiver)
-
-</details>
 
 <details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 

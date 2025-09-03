@@ -1,6 +1,6 @@
 # Essence Tag
 
-The tag `essence-tag` contains 1 total entries.
+The tag `essence` contains 1 total entries.
 
 ## Objects
 

@@ -4,6 +4,12 @@
 
 An EPP module that adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" height=16px width="auto" /> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" height=16px width="auto" /> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection).
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Sources
 
 Can be bought from merchants:

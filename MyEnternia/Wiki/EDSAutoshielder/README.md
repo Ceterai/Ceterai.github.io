@@ -5,8 +5,8 @@ Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/
 Applied by following items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height=16px width="auto" /> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="Thermo Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Thermo Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/ThermoHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet_mk2/icon.png" alt="EDS MkII Helmet ★★ icon" loading="lazy" height=16px width="auto" /> [EDS MkII Helmet ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSMkIIHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="Thermo Helmet ★ icon" loading="lazy" height=16px width="auto" /> [Thermo Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/ThermoHelmet)
 
 ## Parameters
 

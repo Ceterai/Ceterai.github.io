@@ -1,6 +1,6 @@
 # Vendor Drink Tag
 
-The tag `vendor_drink-tag` contains 8 total entries.
+The tag `vendor_drink` contains 8 total entries.
 
 ## Objects
 

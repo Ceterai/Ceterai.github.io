@@ -1,6 +1,6 @@
 # Trap Tag
 
-The tag `trap-tag` contains 3 total entries.
+The tag `trap` contains 3 total entries.
 
 ## Objects
 

@@ -1,6 +1,6 @@
 # Aquarium Tag
 
-The tag `aquarium-tag` contains 3 total entries.
+The tag `aquarium` contains 3 total entries.
 
 ## Objects
 

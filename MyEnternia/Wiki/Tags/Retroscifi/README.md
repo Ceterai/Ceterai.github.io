@@ -1,6 +1,6 @@
 # Retroscifi Tag
 
-The tag `retroscifi-tag` contains 2 total entries.
+The tag `retroscifi` contains 2 total entries.
 
 ## Objects
 

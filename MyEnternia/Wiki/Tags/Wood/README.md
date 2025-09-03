@@ -1,6 +1,6 @@
 # Wood Tag
 
-The tag `wood-tag` contains 1 total entries.
+The tag `wood` contains 1 total entries.
 
 ## Objects
 

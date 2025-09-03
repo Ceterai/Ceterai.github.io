@@ -5,7 +5,7 @@
 A standard protocol helmet for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) peacekeepers and security guards.  
 If protects the head completely from all sides, providing a visor with small cameras on the sides for a combined field of view.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR "Animus" ★ icon" loading="lazy" height=16px width="auto" /> [GR "Animus" ★](https://ceterai.github.io/MyEnternia/Wiki/GRAnimus) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR Animus ★ icon" loading="lazy" height=16px width="auto" /> [GR "Animus" ★](https://ceterai.github.io/MyEnternia/Wiki/GRAnimus) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

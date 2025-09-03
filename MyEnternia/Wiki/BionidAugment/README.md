@@ -4,6 +4,12 @@
 
 This luminous EPP module gives you electric protection and makes you highly illuminated.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Sources
 
 Found naturally in containers:

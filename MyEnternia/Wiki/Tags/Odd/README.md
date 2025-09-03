@@ -1,6 +1,6 @@
 # Odd Tag
 
-The tag `odd-tag` contains 1 total entries.
+The tag `odd` contains 1 total entries.
 
 ## Objects
 

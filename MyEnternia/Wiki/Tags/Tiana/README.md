@@ -1,6 +1,6 @@
 # Tiana Tag
 
-The tag `tiana-tag` contains 2 total entries.
+The tag `tiana` contains 2 total entries.
 
 ## Objects
 

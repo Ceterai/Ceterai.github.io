@@ -28,18 +28,18 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Used to craft: (Expand 14 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_ship_ai_chip.png" alt="Alta Ship A.I. Chip ★ icon" loading="lazy" height=16px width="auto" /> [Alta Ship A.I. Chip ★](https://ceterai.github.io/MyEnternia/Wiki/AltaShipA.I.Chip)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" height=16px width="auto" /> [Ceter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Ceter-EPP)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ceternia_augment.png" alt="Ceternia Augment ★★ icon" loading="lazy" height=16px width="auto" /> [Ceternia Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaAugment)
 - `ct_alta_constructor4`
 - `ct_alta_crafting_station10`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_ship_ai_chip.png" alt="Alta Ship A.I. Chip ★ icon" loading="lazy" height=16px width="auto" /> [Alta Ship A.I. Chip ★](https://ceterai.github.io/MyEnternia/Wiki/AltaShipA.I.Chip)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ceternia_augment.png" alt="Ceternia Augment ★★ icon" loading="lazy" height=16px width="auto" /> [Ceternia Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaAugment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" height=16px width="auto" /> [Ceter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Ceter-EPP)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/elite.png" alt="Elite Android ★ icon" loading="lazy" height=16px width="auto" /> [Elite Android ★](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/android_head/icon.png" alt="Elite Android Head ★ icon" loading="lazy" height=16px width="auto" /> [Elite Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroidHead)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/elite.png" alt="Elite Android ★ icon" loading="lazy" height=16px width="auto" /> [Elite Android ★](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_elite_augment.png" alt="Elite Augment ★★ icon" loading="lazy" height=16px width="auto" /> [Elite Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/EliteAugment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Elite Ceter-Helm icon" loading="lazy" height=16px width="auto" /> [Elite Ceter-Helm](https://ceterai.github.io/MyEnternia/Wiki/EliteCeter-Helm)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png" alt="Elite Droid icon" loading="lazy" height=16px width="auto" /> [Elite Droid](https://ceterai.github.io/MyEnternia/Wiki/EliteDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/elite.png" alt="Elite Drone icon" loading="lazy" height=16px width="auto" /> [Elite Drone](https://ceterai.github.io/MyEnternia/Wiki/EliteDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" height=16px width="auto" /> [Elite Generator ★](https://ceterai.github.io/MyEnternia/Wiki/EliteGenerator)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Elite Ceter-Helm icon" loading="lazy" height=16px width="auto" /> [Elite Ceter-Helm](https://ceterai.github.io/MyEnternia/Wiki/EliteCeter-Helm)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png" alt="Elite Protector icon" loading="lazy" height=16px width="auto" /> [Elite Protector](https://ceterai.github.io/MyEnternia/Wiki/EliteProtector)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" height=16px width="auto" /> [Elite Set](https://ceterai.github.io/MyEnternia/Wiki/EliteSet)
 

@@ -15,20 +15,20 @@ Species descriptions:
 
 <details markdown="1"><summary>Used to craft: (Expand 14 items)</summary>
 
-- `blackdye`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/ship/icon.png" alt="Alta Ship Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alta Ship Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_astera_tear.png" alt="Astera's Tear icon" loading="lazy" height=16px width="auto" /> [Astera's Tear](https://ceterai.github.io/MyEnternia/Wiki/Astera'sTear)
+- `blackdye`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/status_pods/defense_pod/icon.png" alt="EDS Defense Pod icon" loading="lazy" height=16px width="auto" /> [EDS Defense Pod](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensePod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/lifechamber/icon.png" alt="EDS Lifechamber icon" loading="lazy" height=16px width="auto" /> [EDS Lifechamber](https://ceterai.github.io/MyEnternia/Wiki/EDSLifechamber)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enhancedmoonrock/icon.png" alt="Enhanced Moonrock icon" loading="lazy" height=16px width="auto" /> [Enhanced Moonrock](https://ceterai.github.io/MyEnternia/Wiki/EnhancedMoonrock)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" height=16px width="auto" /> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enterite_sample/icon.png" alt="Enterite Sample icon" loading="lazy" height=16px width="auto" /> [Enterite Sample](https://ceterai.github.io/MyEnternia/Wiki/EnteriteSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/enternia/icon.png" alt="Enternia Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Enternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSample)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" height=16px width="auto" /> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" height=16px width="auto" /> [Ionic Cutter](https://ceterai.github.io/MyEnternia/Wiki/IonicCutter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ionic_nade.png" alt="Ion Nade icon" loading="lazy" height=16px width="auto" /> [Ion Nade](https://ceterai.github.io/MyEnternia/Wiki/IonNade)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" height=16px width="auto" /> [Ionic Cutter](https://ceterai.github.io/MyEnternia/Wiki/IonicCutter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" height=16px width="auto" /> [Meteoblaster WIP](https://ceterai.github.io/MyEnternia/Wiki/MeteoblasterWIP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/deprecated/items/ct_starmatter.png" alt="Starmatter Tissue icon" loading="lazy" height=16px width="auto" /> [Starmatter Tissue](https://ceterai.github.io/MyEnternia/Wiki/StarmatterTissue)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
 
 </details>
 

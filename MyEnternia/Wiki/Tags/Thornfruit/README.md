@@ -1,6 +1,6 @@
 # Thornfruit Tag
 
-The tag `thornfruit-tag` contains 1 total entries.
+The tag `thornfruit` contains 1 total entries.
 
 ## Objects
 

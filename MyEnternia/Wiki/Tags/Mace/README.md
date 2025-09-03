@@ -1,6 +1,6 @@
 # Mace Tag
 
-The tag `mace-tag` contains 1 total entries.
+The tag `mace` contains 1 total entries.
 
 ## Objects
 

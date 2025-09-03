@@ -1,6 +1,6 @@
 # Floranhuntinggrounds Tag
 
-The tag `floranhuntinggrounds-tag` contains 1 total entries.
+The tag `floranhuntinggrounds` contains 1 total entries.
 
 ## Objects
 

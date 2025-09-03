@@ -1,6 +1,6 @@
 # Bow Tag
 
-The tag `bow-tag` contains 7 total entries.
+The tag `bow` contains 7 total entries.
 
 ## Objects
 
@@ -15,7 +15,7 @@ The tag `bow-tag` contains 7 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon.png" alt="Composite Bow icon" loading="lazy" height=16px width="auto" /> [Composite Bow](https://ceterai.github.io/MyEnternia/Wiki/CompositeBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon_upg.png" alt="Enhanced Bow ★ icon" loading="lazy" height=16px width="auto" /> [Enhanced Bow ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/love/cupidsbowicon.png" alt="Estria's Bow icon" loading="lazy" height=16px width="auto" /> [Estria's Bow](https://ceterai.github.io/MyEnternia/Wiki/Estria'sBow)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon.png" alt="Warped Hunter icon" loading="lazy" height=16px width="auto" /> [Warped Hunter](https://ceterai.github.io/MyEnternia/Wiki/WarpedHunter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon_upg.png" alt="Warped Bow ★ icon" loading="lazy" height=16px width="auto" /> [Warped Bow ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedBow)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon.png" alt="Warped Hunter icon" loading="lazy" height=16px width="auto" /> [Warped Hunter](https://ceterai.github.io/MyEnternia/Wiki/WarpedHunter)
 
 </details>

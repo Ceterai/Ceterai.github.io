@@ -5,6 +5,12 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" height=16px width="auto" /> [Ceter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Ceter-EPP), condenced into an augment.
 Adds 25% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity).
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click.
+
 ## Sources
 
 Can be bought from merchants:

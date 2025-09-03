@@ -1,6 +1,6 @@
 # Emergency Tag
 
-The tag `emergency-tag` contains 4 total entries.
+The tag `emergency` contains 4 total entries.
 
 ## Objects
 
@@ -11,6 +11,6 @@ The tag `emergency-tag` contains 4 total entries.
 Following items have this item tag:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" height=16px width="auto" /> [Alta Flare Blaster](https://ceterai.github.io/MyEnternia/Wiki/AltaFlareBlaster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/tazer/body.png" alt="Alta Tazer icon" loading="lazy" height=16px width="auto" /> [Alta Tazer](https://ceterai.github.io/MyEnternia/Wiki/AltaTazer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="Scout Emergencer icon" loading="lazy" height=16px width="auto" /> [Scout Emergencer](https://ceterai.github.io/MyEnternia/Wiki/ScoutEmergencer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Scout Protector ★ icon" loading="lazy" height=16px width="auto" /> [Scout Protector ★](https://ceterai.github.io/MyEnternia/Wiki/ScoutProtector)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/tazer/body.png" alt="Alta Tazer icon" loading="lazy" height=16px width="auto" /> [Alta Tazer](https://ceterai.github.io/MyEnternia/Wiki/AltaTazer)

@@ -24,13 +24,13 @@ G4 marking of the model refers to the general energy source capability (and size
 
 <details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_agitate/icon.png" alt="Alta Agitational Stand icon" loading="lazy" height=16px width="auto" /> [Alta Agitational Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaAgitationalStand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height=16px width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" height=16px width="auto" /> [Alta Drone Station](https://ceterai.github.io/MyEnternia/Wiki/AltaDroneStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" height=16px width="auto" /> [Alta Energy Source](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergySource)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" height=16px width="auto" /> [Alta Icer](https://ceterai.github.io/MyEnternia/Wiki/AltaIcer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/lamppost/icon.png" alt="Alta Lamppost icon" loading="lazy" height=16px width="auto" /> [Alta Lamppost](https://ceterai.github.io/MyEnternia/Wiki/AltaLamppost)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height=16px width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_agitate/icon.png" alt="Alta Agitational Stand icon" loading="lazy" height=16px width="auto" /> [Alta Agitational Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaAgitationalStand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_promo/icon.png" alt="Alta Promo Stand icon" loading="lazy" height=16px width="auto" /> [Alta Promo Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaPromoStand)
 
 </details>

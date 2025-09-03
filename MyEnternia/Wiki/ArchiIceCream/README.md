@@ -19,6 +19,12 @@ Species descriptions:
 
 - Effect: `swimboostcola`- Duration: 120
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
 ## Technical Information
 
 - In-game ID: `ct_tsay_icecream-warped`

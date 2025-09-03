@@ -1,6 +1,6 @@
 # Outpost Tag
 
-The tag `outpost-tag` contains 1 total entries.
+The tag `outpost` contains 1 total entries.
 
 ## Objects
 

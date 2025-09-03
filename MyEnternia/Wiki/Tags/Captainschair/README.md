@@ -1,6 +1,6 @@
 # Captainschair Tag
 
-The tag `captainschair-tag` contains 1 total entries.
+The tag `captainschair` contains 1 total entries.
 
 ## Objects
 

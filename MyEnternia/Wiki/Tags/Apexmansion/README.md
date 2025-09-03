@@ -1,6 +1,6 @@
 # Apexmansion Tag
 
-The tag `apexmansion-tag` contains 1 total entries.
+The tag `apexmansion` contains 1 total entries.
 
 ## Objects
 

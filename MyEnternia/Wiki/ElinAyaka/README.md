@@ -30,8 +30,8 @@ A special variation of [ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/a
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" height=16px width="auto" /> [Ayaka Giant](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" height=16px width="auto" /> [Stardust Ayaka](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" height=16px width="auto" /> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" height=16px width="auto" /> [Stardust Ayaka](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka)
 
 Unlocks blueprints for:
 

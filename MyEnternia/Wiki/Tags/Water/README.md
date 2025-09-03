@@ -1,6 +1,6 @@
 # Water Tag
 
-The tag `water-tag` contains 1 total entries.
+The tag `water` contains 1 total entries.
 
 ## Objects
 

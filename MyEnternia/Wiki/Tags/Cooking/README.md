@@ -1,6 +1,6 @@
 # Cooking Tag
 
-The tag `cooking-tag` contains 43 total entries.
+The tag `cooking` contains 43 total entries.
 
 ## Objects
 

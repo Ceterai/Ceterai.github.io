@@ -1,6 +1,6 @@
 # Lunarbase Tag
 
-The tag `lunarbase-tag` contains 2 total entries.
+The tag `lunarbase` contains 2 total entries.
 
 ## Objects
 

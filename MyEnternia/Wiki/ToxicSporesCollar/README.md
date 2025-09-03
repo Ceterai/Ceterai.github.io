@@ -4,6 +4,12 @@
 
 An [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) collar that causes your pet to periodically spray <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" height=16px width="auto" /> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) around it and gives it [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
+
 ## Sources
 
 Found naturally in containers:

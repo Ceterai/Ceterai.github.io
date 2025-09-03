@@ -28,8 +28,8 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_ionic_fertilizer.png" alt="Ionic Fertilizer icon" loading="lazy" height=16px width="auto" /> [Ionic Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/IonicFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/cultivated/icon.png" alt="Cultivated Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_ionic_fertilizer.png" alt="Ionic Fertilizer icon" loading="lazy" height=16px width="auto" /> [Ionic Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/IonicFertilizer)
 
 Used to craft:
 

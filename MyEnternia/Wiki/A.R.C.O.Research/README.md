@@ -30,19 +30,19 @@ Unlocks blueprints for:
 
 - `ct_alta_constructor3`
 - `ct_alta_crafting_station6`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/arco.png" alt="Enviro Android ★ icon" loading="lazy" height=16px width="auto" /> [Enviro Android ★](https://ceterai.github.io/MyEnternia/Wiki/EnviroAndroid)
+- `ct_tool_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/android_head/icon.png" alt="Enviro Android Head ★ icon" loading="lazy" height=16px width="auto" /> [Enviro Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/EnviroAndroidHead)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/arco.png" alt="Enviro Android ★ icon" loading="lazy" height=16px width="auto" /> [Enviro Android ★](https://ceterai.github.io/MyEnternia/Wiki/EnviroAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_arco_augment.png" alt="Enviro Augment icon" loading="lazy" height=16px width="auto" /> [Enviro Augment](https://ceterai.github.io/MyEnternia/Wiki/EnviroAugment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="Enviro Set icon" loading="lazy" height=16px width="auto" /> [Enviro Set](https://ceterai.github.io/MyEnternia/Wiki/EnviroSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_arco_blockade_augment.png" alt="Enviroblockade Augment ★★ icon" loading="lazy" height=16px width="auto" /> [Enviroblockade Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/EnviroblockadeAugment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png" alt="Envirosuit Helmet icon" loading="lazy" height=16px width="auto" /> [Envirosuit Helmet](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitHelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet_mk2/icon.png" alt="Envirosuit MkII Helmet ★★ icon" loading="lazy" height=16px width="auto" /> [Envirosuit MkII Helmet ★★](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitMkIIHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Enviroleggings icon" loading="lazy" height=16px width="auto" /> [Enviroleggings](https://ceterai.github.io/MyEnternia/Wiki/Enviroleggings)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/protector/icon.png" alt="Enviroprotector ★ icon" loading="lazy" height=16px width="auto" /> [Enviroprotector ★](https://ceterai.github.io/MyEnternia/Wiki/Enviroprotector)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png" alt="Envirosuit Helmet icon" loading="lazy" height=16px width="auto" /> [Envirosuit Helmet](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet_mk2/icon.png" alt="Envirosuit MkII Helmet ★★ icon" loading="lazy" height=16px width="auto" /> [Envirosuit MkII Helmet ★★](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitMkIIHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png" alt="Envirosuit Rebreather ★ icon" loading="lazy" height=16px width="auto" /> [Envirosuit Rebreather ★](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitRebreather)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="Enviro Set icon" loading="lazy" height=16px width="auto" /> [Enviro Set](https://ceterai.github.io/MyEnternia/Wiki/EnviroSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_impulse_augment.png" alt="Impulse Augment ★ icon" loading="lazy" height=16px width="auto" /> [Impulse Augment ★](https://ceterai.github.io/MyEnternia/Wiki/ImpulseAugment)
-- `ct_tool_mimic`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
 
 </details>
 

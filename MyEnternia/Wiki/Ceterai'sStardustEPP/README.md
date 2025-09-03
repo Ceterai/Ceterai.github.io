@@ -4,6 +4,12 @@
 
 Electric, Enternia and Void status immunity. +20% electric resistance. Made by Ceterai to safely travel to stardust planets.
 
+## Ingame
+
+Radiomessages on pickup:
+
+- You obtained an Enviro Protection Pack (EPP). These specialised devices enable the user to survive in otherwise inhospitable environments. You can also enhance EPPs with augments.
+
 ## Parameters
 
 - Status Effects: 

@@ -1,6 +1,6 @@
 # Specops Tag
 
-The tag `specops-tag` contains 1 total entries.
+The tag `specops` contains 1 total entries.
 
 ## Objects
 

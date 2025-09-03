@@ -11,6 +11,13 @@ Species descriptions:
 
 - Alta: Oh wow, some one hand-making devices! Is there a master class I could watch in my spare time?
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
 ## Technical Information
 
 - In-game ID: `ct_thermomix_nade-diy`

@@ -1,15 +1,15 @@
 # Izopoi Tag
 
-The tag `izopoi-tag` contains 9 total entries.
+The tag `izopoi` contains 9 total entries.
 
 ## Objects
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime1/icon.png" alt="Isoslime Puddle icon" loading="lazy" height=16px width="auto" /> [Isoslime Puddle](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePuddle)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime2/icon.png" alt="Isoslime Pile icon" loading="lazy" height=16px width="auto" /> [Isoslime Pile](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePile)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime3/icon.png" alt="Isoslime Deposit icon" loading="lazy" height=16px width="auto" /> [Isoslime Deposit](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeDeposit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_blob/icon.png" alt="Isoblob icon" loading="lazy" height=16px width="auto" /> [Isoblob](https://ceterai.github.io/MyEnternia/Wiki/Isoblob)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime3/icon.png" alt="Isoslime Deposit icon" loading="lazy" height=16px width="auto" /> [Isoslime Deposit](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeDeposit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime2/icon.png" alt="Isoslime Pile icon" loading="lazy" height=16px width="auto" /> [Isoslime Pile](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePile)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime1/icon.png" alt="Isoslime Puddle icon" loading="lazy" height=16px width="auto" /> [Isoslime Puddle](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePuddle)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_spawner/icon.png" alt="Isospawner icon" loading="lazy" height=16px width="auto" /> [Isospawner](https://ceterai.github.io/MyEnternia/Wiki/Isospawner)
 
 ## Tenants

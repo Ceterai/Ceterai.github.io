@@ -15,17 +15,17 @@ Species descriptions:
 
 <details markdown="1"><summary>Used to craft: (Expand 11 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height=16px width="auto" /> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/roomba.png" alt="Roomba icon" loading="lazy" height=16px width="auto" /> [Roomba](https://ceterai.github.io/MyEnternia/Wiki/Roomba)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" height=16px width="auto" /> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Alta Ship S.A.I.L icon" loading="lazy" height=16px width="auto" /> [Alta Ship S.A.I.L](https://ceterai.github.io/MyEnternia/Wiki/AltaShipS.A.I.L)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/captains_chair/icon.png" alt="Alta Ship Captain's Chair icon" loading="lazy" height=16px width="auto" /> [Alta Ship Captain's Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaShipCaptain'sChair)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Alta Ship S.A.I.L icon" loading="lazy" height=16px width="auto" /> [Alta Ship S.A.I.L](https://ceterai.github.io/MyEnternia/Wiki/AltaShipS.A.I.L)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Ship Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTerminal)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/waiter.png" alt="Waiter icon" loading="lazy" height=16px width="auto" /> [Waiter](https://ceterai.github.io/MyEnternia/Wiki/Waiter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height=16px width="auto" /> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/arco.png" alt="Enviroscanner icon" loading="lazy" height=16px width="auto" /> [Enviroscanner](https://ceterai.github.io/MyEnternia/Wiki/Enviroscanner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png" alt="Protohelmet icon" loading="lazy" height=16px width="auto" /> [Protohelmet](https://ceterai.github.io/MyEnternia/Wiki/Protohelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height=16px width="auto" /> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/roomba.png" alt="Roomba icon" loading="lazy" height=16px width="auto" /> [Roomba](https://ceterai.github.io/MyEnternia/Wiki/Roomba)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" height=16px width="auto" /> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/waiter.png" alt="Waiter icon" loading="lazy" height=16px width="auto" /> [Waiter](https://ceterai.github.io/MyEnternia/Wiki/Waiter)
 
 </details>
 
@@ -38,13 +38,13 @@ Found naturally in containers:
 
 <details markdown="1"><summary>Can be bought from merchants: (Expand 14 items)</summary>
 
+- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaMiner)
-- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
@@ -54,6 +54,11 @@ Found naturally in containers:
 - [Tserera Archiver](https://ceterai.github.io/MyEnternia/Wiki/TsereraArchiver)
 
 </details>
+
+Given as rent by tenants:
+
+- [Elite Android](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid)
+- [Imperial Android](https://ceterai.github.io/MyEnternia/Wiki/ImperialAndroid)
 
 <details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 

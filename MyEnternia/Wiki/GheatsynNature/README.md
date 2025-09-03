@@ -23,8 +23,8 @@ Blueprint unlocked by obtaining:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Nature](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Nature](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature)
 
 ## Sources
 

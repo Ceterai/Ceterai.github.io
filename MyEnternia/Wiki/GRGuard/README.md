@@ -11,6 +11,13 @@ An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 - Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" height=16px width="auto" /> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller)
 
+## Sources
+
+Can be bought from merchants:
+
+- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+
 ## Technical Information
 
 - In-game ID: `ct_alta_security_chest-upgrade`

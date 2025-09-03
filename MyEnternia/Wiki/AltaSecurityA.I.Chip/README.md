@@ -15,16 +15,16 @@ Species descriptions:
 
 <details markdown="1"><summary>Used to craft: (Expand 10 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/security.png" alt="Security Android icon" loading="lazy" height=16px width="auto" /> [Security Android](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_head/icon.png" alt="Security Droid Head ★ icon" loading="lazy" height=16px width="auto" /> [Security Droid Head ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidHead)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" height=16px width="auto" /> [Security Drone](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Sentry Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/SentryDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/arco.png" alt="Enviro Android ★ icon" loading="lazy" height=16px width="auto" /> [Enviro Android ★](https://ceterai.github.io/MyEnternia/Wiki/EnviroAndroid)
 - [C.T. Android](https://ceterai.github.io/MyEnternia/Wiki/C.T.Android)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/combat.png" alt="Combat Android ★ icon" loading="lazy" height=16px width="auto" /> [Combat Android ★](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/dreamer.png" alt="Dreamer Android ★ icon" loading="lazy" height=16px width="auto" /> [Dreamer Android ★](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/eds.png" alt="EDS Android ★ icon" loading="lazy" height=16px width="auto" /> [EDS Android ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/elite.png" alt="Elite Android ★ icon" loading="lazy" height=16px width="auto" /> [Elite Android ★](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/arco.png" alt="Enviro Android ★ icon" loading="lazy" height=16px width="auto" /> [Enviro Android ★](https://ceterai.github.io/MyEnternia/Wiki/EnviroAndroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/security.png" alt="Security Android icon" loading="lazy" height=16px width="auto" /> [Security Android](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_head/icon.png" alt="Security Droid Head ★ icon" loading="lazy" height=16px width="auto" /> [Security Droid Head ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidHead)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" height=16px width="auto" /> [Security Drone](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Sentry Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/SentryDrone)
 
 </details>
 

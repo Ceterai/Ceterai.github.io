@@ -1,6 +1,6 @@
 # Bobfae Tag
 
-The tag `bobfae-tag` contains 1 total entries.
+The tag `bobfae` contains 1 total entries.
 
 ## Objects
 

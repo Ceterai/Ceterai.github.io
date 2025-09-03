@@ -20,6 +20,10 @@ Most basic alta furniture is designed to be simple, lightweight, and, most impor
 
 </details>
 
+Radiomessages on pickup:
+
+- I am able to reconfigure the ship's teleporter to teleport directly to the location marked by this flag. Place and interact with the flag to establish a name.
+
 ## Technical Information
 
 - In-game ID: `ct_alta_flag`

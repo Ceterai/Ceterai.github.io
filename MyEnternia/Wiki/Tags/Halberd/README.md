@@ -1,6 +1,6 @@
 # Halberd Tag
 
-The tag `halberd-tag` contains 1 total entries.
+The tag `halberd` contains 1 total entries.
 
 ## Objects
 

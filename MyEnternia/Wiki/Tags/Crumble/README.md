@@ -1,6 +1,6 @@
 # Crumble Tag
 
-The tag `crumble-tag` contains 1 total entries.
+The tag `crumble` contains 1 total entries.
 
 ## Objects
 

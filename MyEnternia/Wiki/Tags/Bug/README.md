@@ -1,6 +1,6 @@
 # Bug Tag
 
-The tag `bug-tag` contains 16 total entries.
+The tag `bug` contains 16 total entries.
 
 ## Objects
 

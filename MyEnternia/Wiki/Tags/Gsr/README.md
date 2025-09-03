@@ -1,6 +1,6 @@
 # Gsr Tag
 
-The tag `gsr-tag` contains 1 total entries.
+The tag `gsr` contains 1 total entries.
 
 ## Objects
 

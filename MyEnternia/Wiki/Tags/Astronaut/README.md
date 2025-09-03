@@ -1,6 +1,6 @@
 # Astronaut Tag
 
-The tag `astronaut-tag` contains 1 total entries.
+The tag `astronaut` contains 1 total entries.
 
 ## Objects
 
