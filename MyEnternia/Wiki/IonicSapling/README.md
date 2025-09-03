@@ -1,6 +1,6 @@
 # Ionic Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Ionic Sapling ★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Ionic Sapling ★** is a rare plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages. Requires to be at least 50% in a liquid.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height=16px width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height="16px" width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" height=16px width="auto" /> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" height="16px" width="auto" /> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
 
 ## Technical Information
 

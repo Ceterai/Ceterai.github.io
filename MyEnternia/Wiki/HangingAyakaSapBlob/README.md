@@ -1,6 +1,6 @@
 # Hanging Ayaka Sap Blob
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling3/icon.png" alt="Hanging Ayaka Sap Blob icon" loading="lazy" height=16px width="auto" /> **Hanging Ayaka Sap Blob** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling3/icon.png" alt="Hanging Ayaka Sap Blob icon" loading="lazy" height="16px" width="auto" /> **Hanging Ayaka Sap Blob** is a common breakable object.
 
 A small sap bulb hanging from the ceiling.
 

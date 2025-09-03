@@ -1,6 +1,6 @@
 # Celestia's Love ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Celestia's Love ★ icon" loading="lazy" height=16px width="auto" /> **Celestia's Love ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Celestia's Love ★ icon" loading="lazy" height="16px" width="auto" /> **Celestia's Love ★** is a legendary dish.
 
 The mother of stars looks at you with love through the crystal specs in this masterpiece of a cake.  
 The recipe itself makes the cakes crunchier than the original recipe, with an additional shift in taste.
@@ -14,10 +14,10 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 100
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: `maxenergyscalingboostfood`- Duration: 270, 
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" height="16px" width="16px" /> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 270, 
 
 - Effect: `jumpboostfood`- Duration: 270
 
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
 
 ## Technical Information
 

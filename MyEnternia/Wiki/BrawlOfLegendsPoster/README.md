@@ -1,6 +1,6 @@
 # Brawl Of Legends Poster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height=16px width="auto" /> **Brawl Of Legends Poster** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height="16px" width="auto" /> **Brawl Of Legends Poster** is a rare codex entry.
 
 A poster covered in yellow markings. It's about a fighting contest.
 The bottom line says "[Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea)" in capital letters.  
@@ -20,17 +20,17 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height=16px width="auto" /> [Brawl Of Legends Poster](https://ceterai.github.io/MyEnternia/Wiki/BrawlOfLegendsPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height="16px" width="auto" /> [Brawl Of Legends Poster](https://ceterai.github.io/MyEnternia/Wiki/BrawlOfLegendsPoster)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height=16px width="auto" /> [Brawl Of Legends Poster](https://ceterai.github.io/MyEnternia/Wiki/BrawlOfLegendsPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height="16px" width="auto" /> [Brawl Of Legends Poster](https://ceterai.github.io/MyEnternia/Wiki/BrawlOfLegendsPoster)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 9 items)</summary>
 
@@ -48,7 +48,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height=16px width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
 
 ## Technical Information
 

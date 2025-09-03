@@ -1,6 +1,6 @@
 # Alta Microwave Oven
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/microwave/icon.png" alt="Alta Microwave Oven icon" loading="lazy" height=16px width="auto" /> **Alta Microwave Oven** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/microwave/icon.png" alt="Alta Microwave Oven icon" loading="lazy" height="16px" width="auto" /> **Alta Microwave Oven** is an uncommon crafting station.
 
 A compact microwave. For when you're hungry enough to nuke your food.  
 Aside from general convenience, these certified models come with cleaning kits and heat-resistant tableware.
@@ -24,7 +24,7 @@ Aside from general convenience, these certified models come with cleaning kits a
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height=16px width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height="16px" width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
 
 ## Technical Information
 

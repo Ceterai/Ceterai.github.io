@@ -1,6 +1,6 @@
 # Alta Ship Locker
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" height=16px width="auto" /> **Alta Ship Locker** is a legendary storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Locker** is a legendary storage unit.
 
 A locker. Store some stuff, why don't you?
 

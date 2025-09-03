@@ -1,6 +1,6 @@
 # Energy Mines
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" height=16px width="auto" /> **Energy Mines** is a common codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" height="16px" width="auto" /> **Energy Mines** is a common codex entry.
 
 Mining facility description.  
 This document serves as a description of the energy mines located in object 17, detailing their structure, purpose, and the materials they produce. It provides insights into the mining operations and the significance of phospholion in alta technology.
@@ -15,17 +15,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" height=16px width="auto" /> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" height="16px" width="auto" /> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" height=16px width="auto" /> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" height="16px" width="auto" /> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height=12px width=18px /> [Mining Chest](https://starbounder.org/Mining_Chest)
+- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height="12px" width="18px" /> [Mining Chest](https://starbounder.org/Mining_Chest)
 
 Given as rent by tenants:
 
@@ -33,7 +33,7 @@ Given as rent by tenants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height=16px width="auto" /> [Phospholion Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/PhospholionLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Phospholion Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/PhospholionLootCrate)
 
 ## Technical Information
 

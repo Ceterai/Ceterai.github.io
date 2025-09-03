@@ -1,6 +1,6 @@
 # Alta Grass Blaster ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_grass_blaster.png" alt="Alta Grass Blaster ★★ icon" loading="lazy" height=16px width="auto" /> **Alta Grass Blaster ★★** is a rare one-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_grass_blaster.png" alt="Alta Grass Blaster ★★ icon" loading="lazy" height="16px" width="auto" /> **Alta Grass Blaster ★★** is a rare one-handed tool.
 
 This energy tool can spread regular omni grass seeds to fill any room with green covers!
 
@@ -14,13 +14,13 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_grass_seeds.png" alt="Omni Grass Seeds ★ icon" loading="lazy" height=16px width="auto" /> [Omni Grass Seeds ★](https://ceterai.github.io/MyEnternia/Wiki/OmniGrassSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_grass_seeds.png" alt="Omni Grass Seeds ★ icon" loading="lazy" height="16px" width="auto" /> [Omni Grass Seeds ★](https://ceterai.github.io/MyEnternia/Wiki/OmniGrassSeeds)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be bought from merchants:
 
@@ -28,7 +28,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 
 ## Technical Information
 

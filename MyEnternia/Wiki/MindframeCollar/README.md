@@ -1,6 +1,6 @@
 # Mindframe Collar
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_mindframe_collar.png" alt="Mindframe Collar icon" loading="lazy" height=16px width="auto" /> **Mindframe Collar** is a legendary collar.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_mindframe_collar.png" alt="Mindframe Collar icon" loading="lazy" height="16px" width="auto" /> **Mindframe Collar** is a legendary collar.
 
 A collar that causes your pet to damage nearby enemies with electricity and protects it with a force shield when low on health.
 

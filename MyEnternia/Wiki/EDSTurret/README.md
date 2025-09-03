@@ -1,6 +1,6 @@
 # EDS Turret
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/turret/icon.png" alt="EDS Turret icon" loading="lazy" height=16px width="auto" /> **EDS Turret** is a rare electric wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/turret/icon.png" alt="EDS Turret icon" loading="lazy" height="16px" width="auto" /> **EDS Turret** is a rare electric wiring component.
 
 An armored automated security turret. Seems like anyone could become its target. Mark on the back says '[EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)'.
 

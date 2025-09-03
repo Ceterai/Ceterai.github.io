@@ -1,6 +1,6 @@
 # Alta Washer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/washer/icon.png" alt="Alta Washer icon" loading="lazy" height=16px width="auto" /> **Alta Washer** is a common storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/washer/icon.png" alt="Alta Washer icon" loading="lazy" height="16px" width="auto" /> **Alta Washer** is a common storage unit.
 
 A simple compact titanium washing machine. Not a lot of clothes can fit inside.  
 Its design is quite similar to most washing machines, and is quite careful with silk and cotton.

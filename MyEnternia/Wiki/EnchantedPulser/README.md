@@ -1,12 +1,12 @@
 # Enchanted Pulser ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" height=16px width="auto" /> **Enchanted Pulser ★** is a legendary one-handed cryogenic pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" height="16px" width="auto" /> **Enchanted Pulser ★** is a legendary one-handed cryogenic pistol.
 
-An improved pulse blaster enchanted with pure <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.
+An improved pulse blaster enchanted with pure <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.
 Now has an attached laserpointer.  
 From a toy to an energy tool to a stardust relic. In the right hands, anything can reach its prime state.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" height=16px width="auto" /> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" height="16px" width="auto" /> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster).
 
 ## Ingame
 

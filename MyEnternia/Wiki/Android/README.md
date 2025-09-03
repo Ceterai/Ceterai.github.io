@@ -1,6 +1,6 @@
 # Android
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height=16px width="auto" /> **Android** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height="16px" width="auto" /> **Android** is an uncommon throwable item.
 
 ## Sources
 

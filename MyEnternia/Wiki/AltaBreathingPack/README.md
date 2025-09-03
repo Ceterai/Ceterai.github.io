@@ -1,6 +1,6 @@
 # Alta Breathing Pack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Breathing Pack icon" loading="lazy" height=16px width="auto" /> **Alta Breathing Pack** is an uncommon back item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Breathing Pack icon" loading="lazy" height="16px" width="auto" /> **Alta Breathing Pack** is an uncommon back item.
 
 A pair of tanks filled with condensed oxygen (or any other breathable substance), made by latest alta safety protocols.  
 Most often than not it contains an artificial breathable compound gas (or ABCG for short), most compatible with altas.

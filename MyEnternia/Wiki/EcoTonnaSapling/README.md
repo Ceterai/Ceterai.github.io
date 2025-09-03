@@ -1,6 +1,6 @@
 # Eco Tonna Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Tonna Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Tonna Sapling** is a rare plantable item.
 
 This tonna sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,16 +14,16 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/sapling/icon.png" alt="Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/TonnaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/sapling/icon.png" alt="Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> [Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/TonnaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/boosted/icon.png" alt="Boosted Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTonnaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" height=16px width="auto" /> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/boosted/icon.png" alt="Boosted Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTonnaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" height="16px" width="auto" /> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/pod/icon.png" alt="Tonna Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Tonna Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/TonnaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/pod/icon.png" alt="Tonna Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Tonna Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/TonnaEcoPod)
 
 ## Technical Information
 

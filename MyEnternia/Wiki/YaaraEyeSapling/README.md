@@ -1,6 +1,6 @@
 # Yaara Eye Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sapling/icon.png" alt="Yaara Eye Sapling icon" loading="lazy" height=16px width="auto" /> **Yaara Eye Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sapling/icon.png" alt="Yaara Eye Sapling icon" loading="lazy" height="16px" width="auto" /> **Yaara Eye Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height=16px width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/cultivated/icon.png" alt="Cultivated Yaara Eye Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedYaaraEyeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/cultivated/icon.png" alt="Cultivated Yaara Eye Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedYaaraEyeSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/cultivated/icon.png" alt="Cultivated Yaara Eye Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedYaaraEyeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/cultivated/icon.png" alt="Cultivated Yaara Eye Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedYaaraEyeSapling)
 
 ## Sources
 

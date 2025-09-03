@@ -1,6 +1,6 @@
 # Alta Tea Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height=16px width="auto" /> **Alta Tea Serving** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Tea Serving** is an uncommon decorative object.
 
 A simple serving of an alta tea. Can be picked up right away to take a closer look.
 

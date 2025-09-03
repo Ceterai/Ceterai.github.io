@@ -1,6 +1,6 @@
 # Ayaka Sap Blob
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob1/icon.png" alt="Ayaka Sap Blob icon" loading="lazy" height=16px width="auto" /> **Ayaka Sap Blob** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob1/icon.png" alt="Ayaka Sap Blob icon" loading="lazy" height="16px" width="auto" /> **Ayaka Sap Blob** is a common breakable object.
 
 A big sap bubble. Sap sticks together, forming round blobs like this one.
 
@@ -27,11 +27,11 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 
 ## Technical Information
 

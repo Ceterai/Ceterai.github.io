@@ -4,9 +4,9 @@ Constantly replenishes your energy by 1% each second.
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/chest/icon.png" alt="C.T. Suit icon" loading="lazy" height=16px width="auto" /> [C.T. Suit](https://ceterai.github.io/MyEnternia/Wiki/C.T.Suit)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/oxygen_mask/icon.png" alt="Oxygen Mask icon" loading="lazy" height=16px width="auto" /> [Oxygen Mask](https://ceterai.github.io/MyEnternia/Wiki/OxygenMask)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" height=16px width="auto" /> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/chest/icon.png" alt="C.T. Suit icon" loading="lazy" height="16px" width="auto" /> [C.T. Suit](https://ceterai.github.io/MyEnternia/Wiki/C.T.Suit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/oxygen_mask/icon.png" alt="Oxygen Mask icon" loading="lazy" height="16px" width="auto" /> [Oxygen Mask](https://ceterai.github.io/MyEnternia/Wiki/OxygenMask)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" height="16px" width="auto" /> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
 
 ## Parameters
 

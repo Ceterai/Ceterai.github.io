@@ -1,6 +1,6 @@
 # Alta Kadamaker
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kadamaker/icon.png" alt="Alta Kadamaker icon" loading="lazy" height=16px width="auto" /> **Alta Kadamaker** is a common crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kadamaker/icon.png" alt="Alta Kadamaker icon" loading="lazy" height="16px" width="auto" /> **Alta Kadamaker** is a common crafting station.
 
 A piece of alta kitchen technology for making freshes, juices, and other raw squeezes.  
 A bit bulky in size, it was made to be like this to make sure any fruits and other ingredients fit in.

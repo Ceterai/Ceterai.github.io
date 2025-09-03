@@ -1,6 +1,6 @@
 # Alta Illuminator
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/illuminator/icon.png" alt="Alta Illuminator icon" loading="lazy" height=16px width="auto" /> **Alta Illuminator** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/illuminator/icon.png" alt="Alta Illuminator icon" loading="lazy" height="16px" width="auto" /> **Alta Illuminator** is a legendary tool.
 
 A pretty powerful flashlight.
 

@@ -1,6 +1,6 @@
 # Alta Speaker
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" height=16px width="auto" /> **Alta Speaker** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" height="16px" width="auto" /> **Alta Speaker** is an uncommon decorative object.
 
 Is this thing on?  
 Most basic alta furniture is designed to be simple, lightweight, and, most importantly, easy to clean and disassemble. The goal is to be comfortable and portable at the same time, while also being easy to recycle if needed.

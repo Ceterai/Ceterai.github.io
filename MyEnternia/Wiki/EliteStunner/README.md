@@ -1,6 +1,6 @@
 # Elite Stunner ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_elite_stunner.png" alt="Elite Stunner ★ icon" loading="lazy" height=16px width="auto" /> **Elite Stunner ★** is a legendary two-handed electric spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_elite_stunner.png" alt="Elite Stunner ★ icon" loading="lazy" height="16px" width="auto" /> **Elite Stunner ★** is a legendary two-handed electric spear.
 
 **WIP**. An [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) spear used by elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) forces to deal with threats.  
 This is an advanced form of a standard alta [halter stick](https://ceterai.github.io/MyEnternia/Wiki/halterstick), with enhanced energy capabilities and additional range in exchange for the original special abilities.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

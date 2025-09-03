@@ -1,11 +1,11 @@
 # Flowersword
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword.png" alt="Flowersword icon" loading="lazy" height=16px width="auto" /> **Flowersword** is an uncommon one-handed shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword.png" alt="Flowersword icon" loading="lazy" height="16px" width="auto" /> **Flowersword** is an uncommon one-handed shortsword.
 
 **WIP**. A nice colorful weapon of mass destruction!  
 The origins of this are as unclear as what it actually is. Is it a plant? An alta-made tool? An amalgamation of both?
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword_2.png" alt="Haven Clover ★ icon" loading="lazy" height=16px width="auto" /> [Haven Clover ★](https://ceterai.github.io/MyEnternia/Wiki/HavenClover) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword_2.png" alt="Haven Clover ★ icon" loading="lazy" height="16px" width="auto" /> [Haven Clover ★](https://ceterai.github.io/MyEnternia/Wiki/HavenClover) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -22,7 +22,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 
@@ -31,8 +31,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height=16px width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
 
 ## Technical Information
 

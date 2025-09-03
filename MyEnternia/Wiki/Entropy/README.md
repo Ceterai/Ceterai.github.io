@@ -1,9 +1,9 @@
 # Entropy ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_entropy.png" alt="Entropy ★ icon" loading="lazy" height=16px width="auto" /> **Entropy ★** is a legendary two-handed electric shotgun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_entropy.png" alt="Entropy ★ icon" loading="lazy" height="16px" width="auto" /> **Entropy ★** is a legendary two-handed electric shotgun.
 
-This thermoelectric pulsating pressure is all you need to unleash the nuclear power of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.  
-Powered by multiple <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" height=16px width="auto" /> [ceter-spheres](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere), it gives a powerful output with a relatively low tool weight.
+This thermoelectric pulsating pressure is all you need to unleash the nuclear power of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.  
+Powered by multiple <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" height="16px" width="auto" /> [ceter-spheres](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere), it gives a powerful output with a relatively low tool weight.
 
 ## Ingame
 
@@ -25,7 +25,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

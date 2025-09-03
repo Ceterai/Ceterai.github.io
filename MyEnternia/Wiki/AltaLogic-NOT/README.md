@@ -1,6 +1,6 @@
 # Alta Logic - NOT
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/not.png:default.1" alt="Alta Logic - NOT icon" loading="lazy" height=16px width="auto" /> **Alta Logic - NOT** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/not.png:default.1" alt="Alta Logic - NOT icon" loading="lazy" height="16px" width="auto" /> **Alta Logic - NOT** is an uncommon wiring component.
 
 <A /'NOT'/ switch. Inverts the input on the circuit.>
 

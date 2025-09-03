@@ -1,10 +1,10 @@
 # Iora Rincer ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon_upg.png" alt="Iora Rincer ★ icon" loading="lazy" height=16px width="auto" /> **Iora Rincer ★** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon_upg.png" alt="Iora Rincer ★ icon" loading="lazy" height="16px" width="auto" /> **Iora Rincer ★** is a legendary tool.
 
 Water your crops with this fashionable watering can.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" height=16px width="auto" /> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" height="16px" width="auto" /> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan).
 
 ## Parameters
 

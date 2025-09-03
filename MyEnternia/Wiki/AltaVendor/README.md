@@ -1,6 +1,6 @@
 # Alta Vendor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" height=16px width="auto" /> **Alta Vendor** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" height="16px" width="auto" /> **Alta Vendor** is a rare decorative object.
 
 A vending machine in altan casing. Instead of buttons it uses a touchscreen for better navigation.  
 These can often be found in alta cities as a hygenic no-contact method of buying snacks and refilling your drinks.
@@ -28,9 +28,9 @@ These can often be found in alta cities as a hygenic no-contact method of buying
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height=16px width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" height=16px width="auto" /> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" height="16px" width="auto" /> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
 
 ## Technical Information
 

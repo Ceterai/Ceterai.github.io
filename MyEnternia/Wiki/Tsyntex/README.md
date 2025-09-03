@@ -1,11 +1,11 @@
 # Tsyntex
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" height=16px width="auto" /> **Tsyntex** is a rare one-handed poisonous pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" height="16px" width="auto" /> **Tsyntex** is a rare one-handed poisonous pistol.
 
 This gheablaster was named after a scpecial reaction that [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) goes through to become a liquid.  
 It's not exactly known whether this was a [Ghearun](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun) development or a hand-made wonder of [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) mercs, or perhaps a rare find from an unknown adventurer, but there are no explicit markings on it except for the name on the bottom of the handle.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" height=16px width="auto" /> [Tsyntex Prime ★](https://ceterai.github.io/MyEnternia/Wiki/TsyntexPrime) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" height="16px" width="auto" /> [Tsyntex Prime ★](https://ceterai.github.io/MyEnternia/Wiki/TsyntexPrime) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
 
 Can be bought from merchants:
 
@@ -31,8 +31,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

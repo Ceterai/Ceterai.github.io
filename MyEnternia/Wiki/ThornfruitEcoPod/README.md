@@ -1,6 +1,6 @@
 # Thornfruit Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/thornfruit/pod/icon.png" alt="Thornfruit Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **Thornfruit Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/thornfruit/pod/icon.png" alt="Thornfruit Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Thornfruit Eco Pod ★** is a legendary plantable item.
 
 Contains a modified carel sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" height=16px width="auto" /> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" height="16px" width="auto" /> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds)
 
 ## Technical Information
 

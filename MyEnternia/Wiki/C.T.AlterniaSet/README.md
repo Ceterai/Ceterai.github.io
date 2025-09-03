@@ -1,6 +1,6 @@
 # C.T. Alternia Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" height=16px width="auto" /> **C.T. Alternia Set** is a legendary loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" height="16px" width="auto" /> **C.T. Alternia Set** is a legendary loot item.
 
 Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) Project Ceterai researcher, including a lore codex of this set.
 Is cheaper to craft this way than separately.  

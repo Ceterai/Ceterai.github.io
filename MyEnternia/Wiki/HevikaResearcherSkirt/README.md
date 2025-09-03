@@ -1,6 +1,6 @@
 # Hevika Researcher Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Hevika Researcher Skirt icon" loading="lazy" height=16px width="auto" /> **Hevika Researcher Skirt** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Hevika Researcher Skirt icon" loading="lazy" height="16px" width="auto" /> **Hevika Researcher Skirt** is a rare leg item.
 
 An official Hevika Ordis researcher's legwear. Practical and well thought-out.
 

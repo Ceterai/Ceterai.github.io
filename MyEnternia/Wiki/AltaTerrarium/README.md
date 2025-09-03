@@ -1,6 +1,6 @@
 # Alta Terrarium
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/terrarium/icon.png" alt="Alta Terrarium icon" loading="lazy" height=16px width="auto" /> **Alta Terrarium** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/terrarium/icon.png" alt="Alta Terrarium icon" loading="lazy" height="16px" width="auto" /> **Alta Terrarium** is a legendary crafting station.
 
 An alta sewing machine with additional functionality.  
 Can create folded seams and protects the operator from the needle.

@@ -1,6 +1,6 @@
 # Sona Jacketarmor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Sona Jacketarmor ★ icon" loading="lazy" height=16px width="auto" /> **Sona Jacketarmor ★** is a rare chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Sona Jacketarmor ★ icon" loading="lazy" height="16px" width="auto" /> **Sona Jacketarmor ★** is a rare chest item.
 
 A warm, armored uniform jacket usually used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) and [arknightss](https://ceterai.github.io/MyEnternia/Wiki/arknightss).  
 The in-built emergency healing system is meant to protect the wearer in case of unforseen circumstances.
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height=16px width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height="16px" width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
 
 ## Sources
 

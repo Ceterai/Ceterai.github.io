@@ -1,10 +1,10 @@
 # Estralis Vyurm ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" height=16px width="auto" /> **Estralis Vyurm ★** is a legendary one-handed electric unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" height="16px" width="auto" /> **Estralis Vyurm ★** is a legendary one-handed electric unique weapon.
 
-Seems like the mysterious plasmic claws have grown and come to life... Is this all the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)?
+Seems like the mysterious plasmic claws have grown and come to life... Is this all the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)?
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" height=16px width="auto" /> [Estralis Vi](https://ceterai.github.io/MyEnternia/Wiki/EstralisVi).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" height="16px" width="auto" /> [Estralis Vi](https://ceterai.github.io/MyEnternia/Wiki/EstralisVi).
 
 ## Ingame
 

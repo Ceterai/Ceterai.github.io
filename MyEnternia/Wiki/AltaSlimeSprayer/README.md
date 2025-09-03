@@ -1,10 +1,10 @@
 # Alta Slime Sprayer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon.png" alt="Alta Slime Sprayer icon" loading="lazy" height=16px width="auto" /> **Alta Slime Sprayer** is an uncommon tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon.png" alt="Alta Slime Sprayer icon" loading="lazy" height="16px" width="auto" /> **Alta Slime Sprayer** is an uncommon tool.
 
 Spray a sticky foam that slows down enemies!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon_upg.png" alt="Super-Slimer ★ icon" loading="lazy" height=16px width="auto" /> [Super-Slimer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Slimer) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon_upg.png" alt="Super-Slimer ★ icon" loading="lazy" height="16px" width="auto" /> [Super-Slimer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Slimer) at the Weapon Upgrade Anvil.
 
 ## Technical Information
 

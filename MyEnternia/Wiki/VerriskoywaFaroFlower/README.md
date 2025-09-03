@@ -1,6 +1,6 @@
 # Verriskoywa Faro Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height=16px width="auto" /> **Verriskoywa Faro Flower** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height="16px" width="auto" /> **Verriskoywa Faro Flower** is a common breakable object.
 
 Tall, yellow reed flower.
 
@@ -26,21 +26,21 @@ This object **doesn't drop itself** when broken.
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height=16px width="auto" /> [Potted Faro Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedFaroKoywaFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height="16px" width="auto" /> [Potted Faro Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedFaroKoywaFlower)
 
 <details markdown="1"><summary>Used to craft: (Expand 12 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height=16px width="auto" /> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height="16px" width="auto" /> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
 - `browndye`
 - `ct_food_mimic`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" height=16px width="auto" /> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" height=16px width="auto" /> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" height=16px width="auto" /> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" height=16px width="auto" /> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height=16px width="auto" /> [Potted Faro Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedFaroKoywaFlower)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" height=16px width="auto" /> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro_twin/icon.png" alt="Verriskoywa Twin Faro Flower icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Twin Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinFaroFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" height="16px" width="auto" /> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" height="16px" width="auto" /> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" height="16px" width="auto" /> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" height="16px" width="auto" /> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height="16px" width="auto" /> [Potted Faro Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedFaroKoywaFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" height="16px" width="auto" /> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro_twin/icon.png" alt="Verriskoywa Twin Faro Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Twin Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinFaroFlower)
 - `yellowdye`
 
 </details>
@@ -49,7 +49,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 
@@ -57,12 +57,12 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" height=16px width="auto" /> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro_twin/icon.png" alt="Verriskoywa Twin Faro Flower icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Twin Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinFaroFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro_twin/icon.png" alt="Verriskoywa Twin Faro Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Twin Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinFaroFlower)
 
 ## Technical Information
 

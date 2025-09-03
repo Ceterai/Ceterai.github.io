@@ -1,6 +1,6 @@
 # Enter-EPP
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" height=16px width="auto" /> **Enter-EPP** is a legendary epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" height="16px" width="auto" /> **Enter-EPP** is a legendary epp item.
 
 An EPP with an augment slot. Adds 18% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity).  
 _Starburst Rework: _[Deadly Static](https://ceterai.github.io/MyEnternia/Wiki/DeadlyStatic)_ immunity._
@@ -13,7 +13,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="Ionoblockade icon" loading="lazy" height=16px width="auto" /> [Ionoblockade](https://ceterai.github.io/MyEnternia/Wiki/Ionoblockade)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="Ionoblockade icon" loading="lazy" height="16px" width="auto" /> [Ionoblockade](https://ceterai.github.io/MyEnternia/Wiki/Ionoblockade)
 
 ## Sources
 

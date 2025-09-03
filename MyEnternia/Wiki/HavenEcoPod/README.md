@@ -1,6 +1,6 @@
 # Haven Eco Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> **Haven Eco Pod ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Haven Eco Pod ★★** is a legendary plantable item.
 
 Contains a modified petal sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height=16px width="auto" /> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height="16px" width="auto" /> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
 
 ## Technical Information
 

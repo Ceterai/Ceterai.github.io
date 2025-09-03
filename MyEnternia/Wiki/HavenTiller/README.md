@@ -1,10 +1,10 @@
 # Haven Tiller
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" height=16px width="auto" /> **Haven Tiller** is a rare two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" height="16px" width="auto" /> **Haven Tiller** is a rare two-handed tool.
 
 An advanced tool to till soil. The tilled soil can then be used to grow all sorts of crops!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon_upg.png" alt="Earthcatcher ★ icon" loading="lazy" height=16px width="auto" /> [Earthcatcher ★](https://ceterai.github.io/MyEnternia/Wiki/Earthcatcher) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon_upg.png" alt="Earthcatcher ★ icon" loading="lazy" height="16px" width="auto" /> [Earthcatcher ★](https://ceterai.github.io/MyEnternia/Wiki/Earthcatcher) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -16,13 +16,13 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height=16px width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height="16px" width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 
@@ -30,7 +30,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height=16px width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
 
 ## Technical Information
 

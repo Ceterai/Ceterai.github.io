@@ -1,6 +1,6 @@
 # Alta Seat
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/seat/icon.png" alt="Alta Seat icon" loading="lazy" height=16px width="auto" /> **Alta Seat** is a common piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/seat/icon.png" alt="Alta Seat icon" loading="lazy" height="16px" width="auto" /> **Alta Seat** is a common piece of furniture.
 
 A simple titanium chair with minimal details and a sturdy stand.  
 Most basic alta furniture is designed to be simple, lightweight, and, most importantly, easy to clean and disassemble. The goal is to be comfortable and portable at the same time, while also being easy to recycle if needed.

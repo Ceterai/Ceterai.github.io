@@ -1,6 +1,6 @@
 # Boosted Verriskoywa Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" height=16px width="auto" /> **Boosted Verriskoywa Sapling** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> **Boosted Verriskoywa Sapling** is a legendary plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening. Requires to be at least 50% in a liquid.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVerriskoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVerriskoywaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/pod/icon.png" alt="Verriskoywa Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/pod/icon.png" alt="Verriskoywa Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaEcoPod)
 
 ## Technical Information
 

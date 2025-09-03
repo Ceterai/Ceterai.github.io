@@ -1,10 +1,10 @@
 # Alta Relocator
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon.png" alt="Alta Relocator icon" loading="lazy" height=16px width="auto" /> **Alta Relocator** is a rare two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon.png" alt="Alta Relocator icon" loading="lazy" height="16px" width="auto" /> **Alta Relocator** is a rare two-handed tool.
 
 Holds up to 3 friendly creatures in stasis in order to safely relocate them.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon_upg.png" alt="Relocator-M ★ icon" loading="lazy" height=16px width="auto" /> [Relocator-M ★](https://ceterai.github.io/MyEnternia/Wiki/Relocator-M) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon_upg.png" alt="Relocator-M ★ icon" loading="lazy" height="16px" width="auto" /> [Relocator-M ★](https://ceterai.github.io/MyEnternia/Wiki/Relocator-M) at the Weapon Upgrade Anvil.
 
 ## Technical Information
 

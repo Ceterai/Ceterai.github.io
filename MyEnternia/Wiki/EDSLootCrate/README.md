@@ -1,8 +1,8 @@
 # EDS Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> **EDS Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> **EDS Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS pods](https://ceterai.github.io/MyEnternia/Wiki/EDSPod).  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS pods](https://ceterai.github.io/MyEnternia/Wiki/EDSPod).  
 This standardized emergency equipment package was designed to be shipped to or taken to combat points by [EDS guards](https://ceterai.github.io/MyEnternia/Wiki/EDSGuard) for in-time resupply and additional support. This ensures quick point capture and initial defense, as opposed to EDS pods, that are delivered later and can provide long-term support instead.
 
 ## Ingame
@@ -21,11 +21,11 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 ## Technical Information
 

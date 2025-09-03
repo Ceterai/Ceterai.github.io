@@ -1,6 +1,6 @@
 # Artistic Crop-Top
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/artist_croptop/icon.png" alt="Artistic Crop-Top icon" loading="lazy" height=16px width="auto" /> **Artistic Crop-Top** is a common chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/artist_croptop/icon.png" alt="Artistic Crop-Top icon" loading="lazy" height="16px" width="auto" /> **Artistic Crop-Top** is a common chest item.
 
 A perfect wear for [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) who love to express themselves.
 

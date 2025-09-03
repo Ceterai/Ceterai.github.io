@@ -1,6 +1,6 @@
 # Artistic Sweater
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/artist_sweater/icon.png" alt="Artistic Sweater icon" loading="lazy" height=16px width="auto" /> **Artistic Sweater** is a common chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/artist_sweater/icon.png" alt="Artistic Sweater icon" loading="lazy" height="16px" width="auto" /> **Artistic Sweater** is a common chest item.
 
 A stricking yet elegant shoulderless sweater for people of self-expression. Boosts your creativity stat by 20.
 

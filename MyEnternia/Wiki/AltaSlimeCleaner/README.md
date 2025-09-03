@@ -1,10 +1,10 @@
 # Alta Slime Cleaner
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon.png" alt="Alta Slime Cleaner icon" loading="lazy" height=16px width="auto" /> **Alta Slime Cleaner** is an uncommon two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon.png" alt="Alta Slime Cleaner icon" loading="lazy" height="16px" width="auto" /> **Alta Slime Cleaner** is an uncommon two-handed tool.
 
 Spreades a harmless solution that turns residue slime into foam on contact.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" height=16px width="auto" /> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" height="16px" width="auto" /> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX) at the Weapon Upgrade Anvil.
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Alta Logic - OR
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/or.png:default.1" alt="Alta Logic - OR icon" loading="lazy" height=16px width="auto" /> **Alta Logic - OR** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/or.png:default.1" alt="Alta Logic - OR icon" loading="lazy" height="16px" width="auto" /> **Alta Logic - OR** is an uncommon wiring component.
 
 An /'OR'/ switch. Allows you to have multiple individual inputs.
 
@@ -22,7 +22,6 @@ Given as rent by tenants:
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [Alta Lab Android](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAndroid)
-- [C.T. Android](https://ceterai.github.io/MyEnternia/Wiki/C.T.Android)
 
 ## Technical Information
 

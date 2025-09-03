@@ -1,6 +1,6 @@
 # Small Phospholion Deposit
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit1/icon.png" alt="Small Phospholion Deposit icon" loading="lazy" height=16px width="auto" /> **Small Phospholion Deposit** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit1/icon.png" alt="Small Phospholion Deposit icon" loading="lazy" height="16px" width="auto" /> **Small Phospholion Deposit** is a common decorative object.
 
 This moonrock formation seems suspicious.
 
@@ -29,11 +29,11 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height=12px width=18px /> [Mining Chest](https://starbounder.org/Mining_Chest)
+- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height="12px" width="18px" /> [Mining Chest](https://starbounder.org/Mining_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height=16px width="auto" /> [Phospholion Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/PhospholionLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Phospholion Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/PhospholionLootCrate)
 
 ## Technical Information
 

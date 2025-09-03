@@ -1,8 +1,8 @@
 # Alistraza
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" height=16px width="auto" /> **Alistraza** is a legendary one-handed electric boomerang.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" height="16px" width="auto" /> **Alistraza** is a legendary one-handed electric boomerang.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic that was designed to help lost altas find their way home. Seems like it's lost part of its power.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic that was designed to help lost altas find their way home. Seems like it's lost part of its power.
 
 ## Ingame
 
@@ -19,7 +19,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

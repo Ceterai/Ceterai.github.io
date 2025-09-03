@@ -1,11 +1,11 @@
 # Velocity Eaters
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" height=16px width="auto" /> **Velocity Eaters** is an uncommon leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" height="16px" width="auto" /> **Velocity Eaters** is an uncommon leg item.
 
 These trousers boost your jump and disperse your velocity when landing, reducing fall damage. Perfect for scouting missions.  
 They are powered by the special protosystem that replaces usual energy cells with an energy circulation mechanic that flows troughout the whole costume.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Protea's Vectors ★ icon" loading="lazy" height=16px width="auto" /> [Protea's Vectors ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sVectors) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Protea's Vectors ★ icon" loading="lazy" height="16px" width="auto" /> [Protea's Vectors ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sVectors) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -15,7 +15,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height=16px width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height="16px" width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)
 
 ## Sources
 
@@ -26,8 +26,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png" alt="Metrocop Set icon" loading="lazy" height=16px width="auto" /> [Metrocop Set](https://ceterai.github.io/MyEnternia/Wiki/MetrocopSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png" alt="Scout Set icon" loading="lazy" height=16px width="auto" /> [Scout Set](https://ceterai.github.io/MyEnternia/Wiki/ScoutSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png" alt="Metrocop Set icon" loading="lazy" height="16px" width="auto" /> [Metrocop Set](https://ceterai.github.io/MyEnternia/Wiki/MetrocopSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png" alt="Scout Set icon" loading="lazy" height="16px" width="auto" /> [Scout Set](https://ceterai.github.io/MyEnternia/Wiki/ScoutSet)
 
 ## Technical Information
 

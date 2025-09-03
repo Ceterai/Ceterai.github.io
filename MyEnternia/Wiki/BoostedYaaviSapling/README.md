@@ -1,6 +1,6 @@
 # Boosted Yaavi Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Boosted Yaavi Sapling ★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Boosted Yaavi Sapling ★** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sort/icon.png" alt="Special Yaara Eye Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Special Yaara Eye Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/SpecialYaaraEyeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sort/icon.png" alt="Special Yaara Eye Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Special Yaara Eye Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/SpecialYaaraEyeSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/pod/icon.png" alt="Yaavi Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Yaavi Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaviEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/pod/icon.png" alt="Yaavi Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Yaavi Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaviEcoPod)
 
 ## Technical Information
 

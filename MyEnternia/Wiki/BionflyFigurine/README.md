@@ -1,6 +1,6 @@
 # Bionfly Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/brutefly/ct_bionfly.png" alt="Bionfly Figurine ★ icon" loading="lazy" height=16px width="auto" /> **Bionfly Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/brutefly/ct_bionfly.png" alt="Bionfly Figurine ★ icon" loading="lazy" height="16px" width="auto" /> **Bionfly Figurine ★** is a legendary figurine.
 
 The label reads, "When gathering in swarms, these bioluminescent creatures can create unforgetable lightshows in the caves they live in."
 

@@ -1,6 +1,6 @@
 # Party Fresh
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" height=16px width="auto" /> **Party Fresh** is a common drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" height="16px" width="auto" /> **Party Fresh** is a common drink.
 
 A multifruit mix of energetic goodness that will keep a party going! Please don't spill it out on your friends, that's not how it works.  
 Another, more formal name of this drink is "Multifruit Fresh Mix", but it's not as popular given where you can find it the most frequently.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 12
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `maxenergyboostaugment1`- Duration: 75
@@ -23,8 +23,8 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height=16px width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" height=16px width="auto" /> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height="16px" width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" height="16px" width="auto" /> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
 
 ## Sources
 
@@ -34,7 +34,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height=16px width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Spice-Hive Curry
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" height=16px width="auto" /> **Spice-Hive Curry** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" height="16px" width="auto" /> **Spice-Hive Curry** is a legendary dish.
 
 Don't try this if you're even slightly scared of larva, spices, taste, or eating in general.  
 This recipe is ablsolutely overloaded on spices, which might scare some altas off, but will atract other ones looking for something exotic.
@@ -14,12 +14,12 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 50
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: `maxhealthscalingboostfood`- Duration: 215, 
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 215, 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" height=16px width="auto" /> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)- Duration: 215, 
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" height="16px" width="auto" /> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)- Duration: 215, 
 
 - Effect: `burning`- Duration: 5
 
@@ -27,9 +27,9 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height=16px width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" height=16px width="auto" /> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" height=16px width="auto" /> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height="16px" width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" height="16px" width="auto" /> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" height="16px" width="auto" /> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
 
 ## Sources
 

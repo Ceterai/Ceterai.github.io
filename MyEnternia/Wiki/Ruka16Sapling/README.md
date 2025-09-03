@@ -1,6 +1,6 @@
 # Ruka 16 Sapling ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" height=16px width="auto" /> **Ruka 16 Sapling ★★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> **Ruka 16 Sapling ★★** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/pod/icon.png" alt="Ruka Eco Pod icon" loading="lazy" height=16px width="auto" /> [Ruka Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/RukaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/pod/icon.png" alt="Ruka Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Ruka Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/RukaEcoPod)
 
 ## Technical Information
 

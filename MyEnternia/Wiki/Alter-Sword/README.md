@@ -1,13 +1,13 @@
 # Alter-Sword ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" height=16px width="auto" /> **Alter-Sword ★★** is a legendary two-handed electric broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" height="16px" width="auto" /> **Alter-Sword ★★** is a legendary two-handed electric broadsword.
 
-The blade of this sword is pure plasma, entirely made out of concentrated [alternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia) and enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
+The blade of this sword is pure plasma, entirely made out of concentrated [alternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia) and enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
 This modification significantly increases the amount of plasma impact on evergy hit and allows this energy tool to gather alternia from all around it to increase its power.
 
 These rare devices were secretly developed specifically as part of the [project Ceterai](https://ceterai.github.io/MyEnternia/Wiki/projectCeterai) as means of withstanding the consequences of the [hevikai incident](https://ceterai.github.io/MyEnternia/Wiki/hevikaiincident).
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword.png" alt="Plasmasword ★ icon" loading="lazy" height=16px width="auto" /> [Plasmasword ★](https://ceterai.github.io/MyEnternia/Wiki/Plasmasword).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword.png" alt="Plasmasword ★ icon" loading="lazy" height="16px" width="auto" /> [Plasmasword ★](https://ceterai.github.io/MyEnternia/Wiki/Plasmasword).
 
 ## Ingame
 

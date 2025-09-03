@@ -1,6 +1,6 @@
 # Wild Gheatsyn Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Wild Gheatsyn Bud icon" loading="lazy" height=16px width="auto" /> **Wild Gheatsyn Bud** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Wild Gheatsyn Bud icon" loading="lazy" height="16px" width="auto" /> **Wild Gheatsyn Bud** is a common plantable item.
 
 A budding crystal growing through a rock.
 

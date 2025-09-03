@@ -1,6 +1,6 @@
 # Yaara Sample
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yaara/icon.png" alt="Yaara Sample icon" loading="lazy" height=16px width="auto" /> **Yaara Sample** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yaara/icon.png" alt="Yaara Sample icon" loading="lazy" height="16px" width="auto" /> **Yaara Sample** is a rare decorative object.
 
 A perfect sample of [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) growth, preserved on a small titanium pedestal.
 

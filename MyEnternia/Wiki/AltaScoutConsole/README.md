@@ -1,6 +1,6 @@
 # Alta Scout Console
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Console icon" loading="lazy" height=16px width="auto" /> **Alta Scout Console** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Console icon" loading="lazy" height="16px" width="auto" /> **Alta Scout Console** is an uncommon decorative object.
 
 Simple in-built console. A rare find in alta culture.  
 The main reason some scout facilities still use consoles is because some of them, like this one, aren't modular - they're in-built into the system.

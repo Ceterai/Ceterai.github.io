@@ -1,6 +1,6 @@
 # Dripping Ayaka Sap Blob
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling2/icon.png" alt="Dripping Ayaka Sap Blob icon" loading="lazy" height=16px width="auto" /> **Dripping Ayaka Sap Blob** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling2/icon.png" alt="Dripping Ayaka Sap Blob icon" loading="lazy" height="16px" width="auto" /> **Dripping Ayaka Sap Blob** is a common breakable object.
 
 A glob of dripping sap that got stuck in the ceiling.
 

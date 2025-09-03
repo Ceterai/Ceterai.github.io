@@ -1,6 +1,6 @@
 # Ghea Candy
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Ghea Candy icon" loading="lazy" height=16px width="auto" /> **Ghea Candy** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Ghea Candy icon" loading="lazy" height="16px" width="auto" /> **Ghea Candy** is an uncommon dish.
 
 A lolipop with a lil' pop to it. Sour candy is always better than just a candy, right? No? Okay.  
 The jam filling in these is still pretty sweet, in contrast to the soury outside.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 10
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `jumpboostfood`- Duration: 125

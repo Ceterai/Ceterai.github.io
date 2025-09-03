@@ -4,7 +4,7 @@ Completely removes all effects from an entity. Useful for debugging.
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Catalyst ★★★ icon" loading="lazy" height=16px width="auto" /> [Catalyst ★★★](https://ceterai.github.io/MyEnternia/Wiki/Catalyst)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Catalyst ★★★ icon" loading="lazy" height="16px" width="auto" /> [Catalyst ★★★](https://ceterai.github.io/MyEnternia/Wiki/Catalyst)
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Neonmelon Eco Pod ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/pod/icon.png" alt="Neonmelon Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> **Neonmelon Eco Pod ★★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/pod/icon.png" alt="Neonmelon Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> **Neonmelon Eco Pod ★★★** is a legendary plantable item.
 
 Contains a modified carel sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/boosted/icon.png" alt="Boosted Neonmelon Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Neonmelon Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedNeonmelonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/boosted/icon.png" alt="Boosted Neonmelon Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Neonmelon Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedNeonmelonSapling)
 
 Unlocks blueprints for:
 

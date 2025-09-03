@@ -1,6 +1,6 @@
 # Alta Lab Barrier
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/barrier/icon.png" alt="Alta Lab Barrier icon" loading="lazy" height=16px width="auto" /> **Alta Lab Barrier** is an uncommon electric door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/barrier/icon.png" alt="Alta Lab Barrier icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Barrier** is an uncommon electric door.
 
 It's some sort of electrical barrier. Looks dangerous...  
 This simple, yet effective alta version of a tesla gate can consume quite a lot of energy when active, so should only be used when necessary.

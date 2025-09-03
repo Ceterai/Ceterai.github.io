@@ -1,6 +1,6 @@
 # Phosnail
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/phosnail/icon.png" alt="Phosnail icon" loading="lazy" height=16px width="auto" /> **Phosnail** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/phosnail/icon.png" alt="Phosnail icon" loading="lazy" height="16px" width="auto" /> **Phosnail** is an uncommon bug.
 
 An attached note reads, "This snal has mutated due to constant non-lethal levels of radiation."
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_phosnail_egg.png" alt="Phosnail Egg ★ icon" loading="lazy" height=16px width="auto" /> [Phosnail Egg ★](https://ceterai.github.io/MyEnternia/Wiki/PhosnailEgg)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_phosnail_egg.png" alt="Phosnail Egg ★ icon" loading="lazy" height="16px" width="auto" /> [Phosnail Egg ★](https://ceterai.github.io/MyEnternia/Wiki/PhosnailEgg)
 
 ## Sources
 

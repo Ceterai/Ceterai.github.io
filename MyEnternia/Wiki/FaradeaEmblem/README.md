@@ -1,6 +1,6 @@
 # Faradea Emblem
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/faradea/body.png" alt="Faradea Emblem icon" loading="lazy" height=16px width="auto" /> **Faradea Emblem** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/faradea/body.png" alt="Faradea Emblem icon" loading="lazy" height="16px" width="auto" /> **Faradea Emblem** is a common decorative object.
 
 A symbol of freedon and striving to your own path.
 

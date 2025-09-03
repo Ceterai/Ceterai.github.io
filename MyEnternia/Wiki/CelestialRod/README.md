@@ -1,6 +1,6 @@
 # Celestial Rod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/celestial_rod/icon.png" alt="Celestial Rod icon" loading="lazy" height=16px width="auto" /> **Celestial Rod** is an essential two-handed fishing rod.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/celestial_rod/icon.png" alt="Celestial Rod icon" loading="lazy" height="16px" width="auto" /> **Celestial Rod** is an essential two-handed fishing rod.
 
 A perfect rod impervient to any liquids, full of celestial power. Even its default lure glows in the dark.
 

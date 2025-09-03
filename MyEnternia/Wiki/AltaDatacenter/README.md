@@ -1,6 +1,6 @@
 # Alta Datacenter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" height=16px width="auto" /> **Alta Datacenter** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" height="16px" width="auto" /> **Alta Datacenter** is a legendary crafting station.
 
 An ultimate [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) database. Used for storing [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) information, documents, codexes and datamasses in [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals.
 

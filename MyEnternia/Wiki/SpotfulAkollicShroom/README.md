@@ -1,8 +1,8 @@
 # Spotful Akollic Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb_spots.png" alt="Spotful Akollic Shroom icon" loading="lazy" height=16px width="auto" /> **Spotful Akollic Shroom** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb_spots.png" alt="Spotful Akollic Shroom icon" loading="lazy" height="16px" width="auto" /> **Spotful Akollic Shroom** is an uncommon tree sapling.
 
-An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" height=16px width="auto" /> [akollic shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom) covered in spots. That's it. Commonly found in [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) environments.
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" height="16px" width="auto" /> [akollic shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom) covered in spots. That's it. Commonly found in [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) environments.
 
 ## Ingame
 
@@ -29,11 +29,11 @@ An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/bio
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height="12px" width="12px" /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height=16px width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 
 ## Technical Information
 

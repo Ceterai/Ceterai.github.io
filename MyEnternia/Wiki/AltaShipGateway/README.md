@@ -1,6 +1,6 @@
 # Alta Ship Gateway
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/gateway/icon.png" alt="Alta Ship Gateway icon" loading="lazy" height=16px width="auto" /> **Alta Ship Gateway** is a rare door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/gateway/icon.png" alt="Alta Ship Gateway icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Gateway** is a rare door.
 
 A door suitable for a spaceship.
 

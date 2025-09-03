@@ -1,6 +1,6 @@
 # Alta Conserver
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" height=16px width="auto" /> **Alta Conserver** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" height="16px" width="auto" /> **Alta Conserver** is an uncommon crafting station.
 
 A piece of alta kitchen technology for making condiments, like jam, marmalade, extracts, sap, honey, etc.  
 A simplified version of an alta saturator, that focuses on thickening and fermenting ingredients into a nice jam mixture.
@@ -24,7 +24,7 @@ A simplified version of an alta saturator, that focuses on thickening and fermen
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/saturator/icon.png" alt="Alta Saturator icon" loading="lazy" height=16px width="auto" /> [Alta Saturator](https://ceterai.github.io/MyEnternia/Wiki/AltaSaturator)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/saturator/icon.png" alt="Alta Saturator icon" loading="lazy" height="16px" width="auto" /> [Alta Saturator](https://ceterai.github.io/MyEnternia/Wiki/AltaSaturator)
 
 ## Technical Information
 

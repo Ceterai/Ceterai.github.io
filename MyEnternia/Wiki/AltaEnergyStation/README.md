@@ -1,6 +1,6 @@
 # Alta Energy Station
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/energy_station/icon.png" alt="Alta Energy Station icon" loading="lazy" height=16px width="auto" /> **Alta Energy Station** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/energy_station/icon.png" alt="Alta Energy Station icon" loading="lazy" height="16px" width="auto" /> **Alta Energy Station** is a legendary crafting station.
 
 An alta sewing machine with additional functionality.  
 Can create folded seams and protects the operator from the needle.

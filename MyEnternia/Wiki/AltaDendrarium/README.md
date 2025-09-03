@@ -1,6 +1,6 @@
 # Alta Dendrarium
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png" alt="Alta Dendrarium icon" loading="lazy" height=16px width="auto" /> **Alta Dendrarium** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png" alt="Alta Dendrarium icon" loading="lazy" height="16px" width="auto" /> **Alta Dendrarium** is an uncommon crafting station.
 
 An alta botanics station for farming and gardening. Craft available items to learn new blueprints and make progress.  
 The station provides a self-contained library of farming and gardening materials, including eco pod RI, all useful to learn the beautiful world of plants and plant-like crystals.
@@ -24,7 +24,7 @@ The station provides a self-contained library of farming and gardening materials
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" height=16px width="auto" /> [Alta Farmer's Notes](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmer'sNotes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" height="16px" width="auto" /> [Alta Farmer's Notes](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmer'sNotes)
 - `paper`
 
 ## Technical Information

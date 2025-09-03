@@ -1,6 +1,6 @@
 # Alta Cooler
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" height=16px width="auto" /> **Alta Cooler** is a common refrigerated storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" height="16px" width="auto" /> **Alta Cooler** is a common refrigerated storage unit.
 
 A portable cooler. For beaches, hikes, and other events away from fridges.  
 This compact and simple model can act as a thermos if no cooling matter is provided.

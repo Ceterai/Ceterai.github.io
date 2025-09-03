@@ -1,6 +1,6 @@
 # EDS Body Armor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" height=16px width="auto" /> **EDS Body Armor** is a rare chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" height="16px" width="auto" /> **EDS Body Armor** is a rare chest item.
 
 An [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) armor upgrade for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security units. Now has Life Support module integrated, although half as powerful as the Security Pack.  
 It compensates lesser effect with mobility and protection, as well as a freen back slot.
@@ -18,7 +18,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_module.png" alt="Life Support Module icon" loading="lazy" height=16px width="auto" /> [Life Support Module](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportModule)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_module.png" alt="Life Support Module icon" loading="lazy" height="16px" width="auto" /> [Life Support Module](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportModule)
 
 ## Sources
 
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" height=16px width="auto" /> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" height="16px" width="auto" /> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
 
 ## Technical Information
 

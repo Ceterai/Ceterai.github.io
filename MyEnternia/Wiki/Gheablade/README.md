@@ -1,11 +1,11 @@
 # Gheablade
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png" alt="Gheablade icon" loading="lazy" height=16px width="auto" /> **Gheablade** is a rare one-handed axe.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png" alt="Gheablade icon" loading="lazy" height="16px" width="auto" /> **Gheablade** is a rare one-handed axe.
 
 **WIP**. The blade of this axe is made from layered [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn). There are electronic compensators on the handle made from the same crystals.  
-These compensators, or gheafluxers, are meant to engage the energy from cimilar crystals nearby, creating a barely visible resonation, that ultimately accelerates <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" height=16px width="auto" /> [tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
+These compensators, or gheafluxers, are meant to engage the energy from cimilar crystals nearby, creating a barely visible resonation, that ultimately accelerates <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" height="16px" width="auto" /> [tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade_2.png" alt="Gheacleaver ★ icon" loading="lazy" height=16px width="auto" /> [Gheacleaver ★](https://ceterai.github.io/MyEnternia/Wiki/Gheacleaver) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade_2.png" alt="Gheacleaver ★ icon" loading="lazy" height="16px" width="auto" /> [Gheacleaver ★](https://ceterai.github.io/MyEnternia/Wiki/Gheacleaver) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
 
 Can be bought from merchants:
 
@@ -31,8 +31,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

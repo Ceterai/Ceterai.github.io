@@ -1,6 +1,6 @@
 # Nightmare Anglure Egg ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_nightmare_anglure_egg.png" alt="Nightmare Anglure Egg ★ icon" loading="lazy" height=16px width="auto" /> **Nightmare Anglure Egg ★** is an uncommon one-handed throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_nightmare_anglure_egg.png" alt="Nightmare Anglure Egg ★ icon" loading="lazy" height="16px" width="auto" /> **Nightmare Anglure Egg ★** is an uncommon one-handed throwable item.
 
 Can be used to spawn a creature called [nightmare anglure](https://ceterai.github.io/MyEnternia/Wiki/nightmareanglure).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

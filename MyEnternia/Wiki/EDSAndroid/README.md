@@ -1,6 +1,6 @@
 # EDS Android ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/eds.png" alt="EDS Android ★ icon" loading="lazy" height=16px width="auto" /> **EDS Android ★** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/eds.png" alt="EDS Android ★ icon" loading="lazy" height="16px" width="auto" /> **EDS Android ★** is a rare throwable item.
 
 ## Ingame
 

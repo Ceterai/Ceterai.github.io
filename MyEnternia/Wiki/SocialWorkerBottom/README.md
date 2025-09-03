@@ -1,6 +1,6 @@
 # Social Worker Bottom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/social_bottom/icon.png" alt="Social Worker Bottom icon" loading="lazy" height=16px width="auto" /> **Social Worker Bottom** is a common leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/social_bottom/icon.png" alt="Social Worker Bottom icon" loading="lazy" height="16px" width="auto" /> **Social Worker Bottom** is a common leg item.
 
 Shorts yet sturdy for safety and ease of movement!
 

@@ -1,6 +1,6 @@
 # EDS Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> **EDS Pod ★★** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **EDS Pod ★★** is a rare storage unit.
 
 An armored pod with red markings all over it. Can be used as a storage unit. Belongs to [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds).  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.
@@ -29,7 +29,7 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 
 ## Technical Information
 

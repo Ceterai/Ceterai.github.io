@@ -1,11 +1,11 @@
 # Niverisk
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk.png" alt="Niverisk icon" loading="lazy" height=16px width="auto" /> **Niverisk** is a rare two-handed poisonous spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk.png" alt="Niverisk icon" loading="lazy" height="16px" width="auto" /> **Niverisk** is a rare two-handed poisonous spear.
 
 **WIP**. A venomous spear made of nivera thorns. Strange scars on its bone handle look similar to a signature.  
 It's unknown who's bone exactly this is, or if it's even a bone to begin with. If you examine it real closely, you might sense a slight pleasant smell of parfumes.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk_2.png" alt="Estria's Kiss ★ icon" loading="lazy" height=16px width="auto" /> [Estria's Kiss ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sKiss) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk_2.png" alt="Estria's Kiss ★ icon" loading="lazy" height="16px" width="auto" /> [Estria's Kiss ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sKiss) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -23,7 +23,7 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
 
 Can be bought from merchants:
 
@@ -33,8 +33,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height=16px width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
 
 ## Technical Information
 

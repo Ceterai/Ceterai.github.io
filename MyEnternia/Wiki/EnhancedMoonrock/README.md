@@ -1,6 +1,6 @@
 # Enhanced Moonrock
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enhancedmoonrock/icon.png" alt="Enhanced Moonrock icon" loading="lazy" height=16px width="auto" /> **Enhanced Moonrock** is a rare breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enhancedmoonrock/icon.png" alt="Enhanced Moonrock icon" loading="lazy" height="16px" width="auto" /> **Enhanced Moonrock** is a rare breakable object.
 
 This moonrock formation seems suspicious.
 

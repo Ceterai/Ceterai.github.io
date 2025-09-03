@@ -1,6 +1,6 @@
 # Potted Poppy Prime
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" height=16px width="auto" /> **Potted Poppy Prime** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" height="16px" width="auto" /> **Potted Poppy Prime** is a rare decorative object.
 
 A seemingly unsuspecting flower in a bion pot.
 
@@ -14,8 +14,8 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height=16px width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height=16px width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height="16px" width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 ## Sources
 

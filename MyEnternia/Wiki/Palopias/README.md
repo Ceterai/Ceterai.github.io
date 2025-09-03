@@ -1,6 +1,6 @@
 # Palopias
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" height=16px width="auto" /> **Palopias** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" height="16px" width="auto" /> **Palopias** is a legendary dish.
 
 A flowery dish full of color and flavor. Often has a fortune hidden in one of the flowers!  
 This fine meal has every flower prepared separately, and decorated for proper presentation. A home-cooked version often comes in a salad-like form instead.
@@ -14,28 +14,28 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 60
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: `maxhealthscalingboostfood`- Duration: 450
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 450
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Blooming Palopias ★ icon" loading="lazy" height=16px width="auto" /> [Blooming Palopias ★](https://ceterai.github.io/MyEnternia/Wiki/BloomingPalopias)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Blooming Palopias ★ icon" loading="lazy" height="16px" width="auto" /> [Blooming Palopias ★](https://ceterai.github.io/MyEnternia/Wiki/BloomingPalopias)
 
 ## Crafting
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" height=16px width="auto" /> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" height=16px width="auto" /> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height=16px width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Hive Curry icon" loading="lazy" height=16px width="auto" /> [Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/HiveCurry)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height=16px width="auto" /> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" height=16px width="auto" /> [Spice-Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/Spice-HiveCurry)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Extra Toppings Slice icon" loading="lazy" height=16px width="auto" /> [Yaarizza Extra Toppings Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaExtraToppingsSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Slice icon" loading="lazy" height=16px width="auto" /> [Yaarizza Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" height="16px" width="auto" /> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" height="16px" width="auto" /> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height="16px" width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Hive Curry icon" loading="lazy" height="16px" width="auto" /> [Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/HiveCurry)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height="16px" width="auto" /> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" height="16px" width="auto" /> [Spice-Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/Spice-HiveCurry)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Extra Toppings Slice icon" loading="lazy" height="16px" width="auto" /> [Yaarizza Extra Toppings Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaExtraToppingsSlice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Slice icon" loading="lazy" height="16px" width="auto" /> [Yaarizza Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaSlice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" height="16px" width="auto" /> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 
 </details>
 
@@ -47,7 +47,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height=16px width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
 
 ## Technical Information
 

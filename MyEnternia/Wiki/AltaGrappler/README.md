@@ -1,10 +1,10 @@
 # Alta Grappler
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon.png" alt="Alta Grappler icon" loading="lazy" height=16px width="auto" /> **Alta Grappler** is an uncommon tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon.png" alt="Alta Grappler icon" loading="lazy" height="16px" width="auto" /> **Alta Grappler** is an uncommon tool.
 
 Oh my god, whee! This is so fun!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon_upg.png" alt="Energy Grappler ★ icon" loading="lazy" height=16px width="auto" /> [Energy Grappler ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyGrappler) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon_upg.png" alt="Energy Grappler ★ icon" loading="lazy" height="16px" width="auto" /> [Energy Grappler ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyGrappler) at the Weapon Upgrade Anvil.
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Elite Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elite/pod/icon.png" alt="Elite Pod ★ icon" loading="lazy" height=16px width="auto" /> **Elite Pod ★** is a legendary storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elite/pod/icon.png" alt="Elite Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Elite Pod ★** is a legendary storage unit.
 
 A highly reinforced airtight pod that can be used as a chest.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.
@@ -29,8 +29,8 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ceterai/pod/icon.png" alt="Ceterai Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Ceterai Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/CeteraiPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Citadel Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CitadelPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ceterai/pod/icon.png" alt="Ceterai Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ceterai Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/CeteraiPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Citadel Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CitadelPod)
 
 ## Technical Information
 

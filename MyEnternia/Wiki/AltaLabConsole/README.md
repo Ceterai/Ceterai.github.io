@@ -1,6 +1,6 @@
 # Alta Lab Console
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/console/icon.png" alt="Alta Lab Console icon" loading="lazy" height=16px width="auto" /> **Alta Lab Console** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/console/icon.png" alt="Alta Lab Console icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Console** is an uncommon wiring component.
 
 A control console.
 

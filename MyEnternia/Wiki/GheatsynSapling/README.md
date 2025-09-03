@@ -1,6 +1,6 @@
 # Gheatsyn Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/sapling/icon.png" alt="Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/sapling/icon.png" alt="Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> **Gheatsyn Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages. Requires to be at least 50% in a liquid.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height=16px width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height="16px" width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/boosted/icon.png" alt="Boosted Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGheatsynSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/boosted/icon.png" alt="Boosted Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGheatsynSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Light Sweater Vest
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png" alt="Light Sweater Vest icon" loading="lazy" height=16px width="auto" /> **Light Sweater Vest** is a common chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png" alt="Light Sweater Vest icon" loading="lazy" height="16px" width="auto" /> **Light Sweater Vest** is a common chest item.
 
 A cozy goodness that will make any [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) feel at home.
 
@@ -8,7 +8,7 @@ A cozy goodness that will make any [alta](https://ceterai.github.io/MyEnternia/W
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" height=16px width="auto" /> [Alta Sweater Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaSweaterStack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" height="16px" width="auto" /> [Alta Sweater Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaSweaterStack)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Alta Touchpad
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/touchpad/icon.png" alt="Alta Touchpad icon" loading="lazy" height=16px width="auto" /> **Alta Touchpad** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/touchpad/icon.png" alt="Alta Touchpad icon" loading="lazy" height="16px" width="auto" /> **Alta Touchpad** is an uncommon wiring component.
 
 A compact button-like sensor screen that activates for 5s when pressed. Very tiny.
 
@@ -23,7 +23,7 @@ A compact button-like sensor screen that activates for 5s when pressed. Very tin
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" height=16px width="auto" /> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" height="16px" width="auto" /> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
 
 ## Sources
 

@@ -1,8 +1,8 @@
 # Calin Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height=16px width="auto" /> **Calin Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Calin Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height=16px width="auto" /> [calin chests](https://ceterai.github.io/MyEnternia/Wiki/CalinChest).  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height="16px" width="auto" /> [calin chests](https://ceterai.github.io/MyEnternia/Wiki/CalinChest).  
 This includes calin furniture, party equipment and related materials.
 
 ## Ingame
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height=16px width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height="16px" width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
 
 Can be bought from merchants:
 
@@ -27,7 +27,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Short Agaranic Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic5.png" alt="Short Agaranic Shroom icon" loading="lazy" height=16px width="auto" /> **Short Agaranic Shroom** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic5.png" alt="Short Agaranic Shroom icon" loading="lazy" height="16px" width="auto" /> **Short Agaranic Shroom** is a common decorative object.
 
 A greenish mushroom.
 

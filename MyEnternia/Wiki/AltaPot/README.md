@@ -1,6 +1,6 @@
 # Alta Pot
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/pot/icon.png" alt="Alta Pot icon" loading="lazy" height=16px width="auto" /> **Alta Pot** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/pot/icon.png" alt="Alta Pot icon" loading="lazy" height="16px" width="auto" /> **Alta Pot** is a common decorative object.
 
 This simple titanium pot went through all necessary protocols and got approved by alta cooking ceretifications.  
 These pots can often be found in most alta households, although they are also used by professional chefs.
@@ -24,7 +24,7 @@ These pots can often be found in most alta households, although they are also us
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kitchener/icon.png" alt="Alta Kitchener icon" loading="lazy" height=16px width="auto" /> [Alta Kitchener](https://ceterai.github.io/MyEnternia/Wiki/AltaKitchener)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kitchener/icon.png" alt="Alta Kitchener icon" loading="lazy" height="16px" width="auto" /> [Alta Kitchener](https://ceterai.github.io/MyEnternia/Wiki/AltaKitchener)
 
 ## Technical Information
 

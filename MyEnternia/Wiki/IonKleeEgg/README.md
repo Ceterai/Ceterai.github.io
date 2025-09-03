@@ -1,8 +1,8 @@
 # Ion Klee Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_ion_klee_egg.png" alt="Ion Klee Egg icon" loading="lazy" height=16px width="auto" /> **Ion Klee Egg** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_ion_klee_egg.png" alt="Ion Klee Egg icon" loading="lazy" height="16px" width="auto" /> **Ion Klee Egg** is a rare throwable item.
 
-Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/ion_klee/icon.png" alt="Ion Klee icon" loading="lazy" height=16px width="auto" /> [ion klee](https://ceterai.github.io/MyEnternia/Wiki/IonKlee), a rare, ionic version of a regular <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee/icon.png" alt="Klee icon" loading="lazy" height=16px width="auto" /> [klee](https://ceterai.github.io/MyEnternia/Wiki/Klee).  
+Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/ion_klee/icon.png" alt="Ion Klee icon" loading="lazy" height="16px" width="auto" /> [ion klee](https://ceterai.github.io/MyEnternia/Wiki/IonKlee), a rare, ionic version of a regular <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee/icon.png" alt="Klee icon" loading="lazy" height="16px" width="auto" /> [klee](https://ceterai.github.io/MyEnternia/Wiki/Klee).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame
@@ -15,7 +15,7 @@ Species descriptions:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/ion_klee/icon.png" alt="Ion Klee icon" loading="lazy" height=16px width="auto" /> [Ion Klee](https://ceterai.github.io/MyEnternia/Wiki/IonKlee)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/ion_klee/icon.png" alt="Ion Klee icon" loading="lazy" height="16px" width="auto" /> [Ion Klee](https://ceterai.github.io/MyEnternia/Wiki/IonKlee)
 
 ## Technical Information
 

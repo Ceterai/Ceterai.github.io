@@ -1,6 +1,6 @@
 # Vionora Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/pod/icon.png" alt="Vionora Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **Vionora Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/pod/icon.png" alt="Vionora Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Vionora Eco Pod ★** is a legendary plantable item.
 
 Contains a modified vionora sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVionoraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVionoraSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height=16px width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height="16px" width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
 
 ## Technical Information
 

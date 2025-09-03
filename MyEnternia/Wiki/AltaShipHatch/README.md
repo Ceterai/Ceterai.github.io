@@ -1,6 +1,6 @@
 # Alta Ship Hatch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/hatch/icon.png" alt="Alta Ship Hatch icon" loading="lazy" height=16px width="auto" /> **Alta Ship Hatch** is a rare door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/hatch/icon.png" alt="Alta Ship Hatch icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Hatch** is a rare door.
 
 A hatch suitable for a spaceship.
 

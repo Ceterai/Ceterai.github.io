@@ -1,6 +1,6 @@
 # Alta Ship Teleporter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/teleporter/icon.png" alt="Alta Ship Teleporter icon" loading="lazy" height=16px width="auto" /> **Alta Ship Teleporter** is a legendary teleportation device.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/teleporter/icon.png" alt="Alta Ship Teleporter icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Teleporter** is a legendary teleportation device.
 
 A massive teleportation portal, connects to bookmarked locations. Since when do [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) have teleporters?
 

@@ -1,6 +1,6 @@
 # Entermace
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_entermace.png" alt="Entermace icon" loading="lazy" height=16px width="auto" /> **Entermace** is a legendary one-handed axe.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_entermace.png" alt="Entermace icon" loading="lazy" height="16px" width="auto" /> **Entermace** is a legendary one-handed axe.
 
 **WIP**. A strange weapon covered in rough, dark [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash) soil. Is this a golden shine or mystical glow of the void?..  
 Forged from [enterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime) materials, it might be rare find outside of enterash planets. Still, some alta adventurers in proper gear might find a proper use for this enternia-saturated tool of combat.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Ghearun M1 Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="Ghearun M1 Set icon" loading="lazy" height=16px width="auto" /> **Ghearun M1 Set** is a legendary loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="Ghearun M1 Set icon" loading="lazy" height="16px" width="auto" /> **Ghearun M1 Set** is a legendary loot item.
 
 Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) researcher from [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) labs, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
@@ -20,7 +20,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
 
 Can be bought from merchants:
 
@@ -30,7 +30,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
 
 ## Technical Information
 

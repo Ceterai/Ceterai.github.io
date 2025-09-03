@@ -1,6 +1,6 @@
 # Calin Gateway
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/gateway/icon.png" alt="Calin Gateway icon" loading="lazy" height=16px width="auto" /> **Calin Gateway** is an uncommon door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/gateway/icon.png" alt="Calin Gateway icon" loading="lazy" height="16px" width="auto" /> **Calin Gateway** is an uncommon door.
 
 The massive calin inside is used both as a protection layer and as an energy source.
 
@@ -27,7 +27,7 @@ The massive calin inside is used both as a protection layer and as an energy sou
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height=16px width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height="16px" width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
 
 Can be bought from merchants:
 
@@ -35,7 +35,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
 
 ## Technical Information
 

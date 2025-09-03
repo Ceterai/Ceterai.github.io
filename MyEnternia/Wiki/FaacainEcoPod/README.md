@@ -1,6 +1,6 @@
 # Faacain Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/pod/icon.png" alt="Faacain Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **Faacain Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/pod/icon.png" alt="Faacain Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Faacain Eco Pod ★** is a legendary plantable item.
 
 Contains a modified core fragment sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/boosted/icon.png" alt="Boosted Faacain Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Faacain Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedFaacainSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/boosted/icon.png" alt="Boosted Faacain Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Faacain Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedFaacainSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height=16px width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height="16px" width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
 
 ## Technical Information
 

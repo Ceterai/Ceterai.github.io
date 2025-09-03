@@ -1,6 +1,6 @@
 # Alien Mounds
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" height=16px width="auto" /> **Alien Mounds** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" height="16px" width="auto" /> **Alien Mounds** is a rare decorative object.
 
 A landscape picture with some unusual plants and flowers.
 

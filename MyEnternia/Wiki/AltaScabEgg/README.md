@@ -1,8 +1,8 @@
 # Alta Scab Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_scab_egg.png" alt="Alta Scab Egg icon" loading="lazy" height=16px width="auto" /> **Alta Scab Egg** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_scab_egg.png" alt="Alta Scab Egg icon" loading="lazy" height="16px" width="auto" /> **Alta Scab Egg** is an uncommon throwable item.
 
-Can be used to spawn a crab called [alta scab](https://ceterai.github.io/MyEnternia/Wiki/altascab), a scab that hides in a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="Security Helmet icon" loading="lazy" height=16px width="auto" /> [security helmet](https://ceterai.github.io/MyEnternia/Wiki/SecurityHelmet).  
+Can be used to spawn a crab called [alta scab](https://ceterai.github.io/MyEnternia/Wiki/altascab), a scab that hides in a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="Security Helmet icon" loading="lazy" height="16px" width="auto" /> [security helmet](https://ceterai.github.io/MyEnternia/Wiki/SecurityHelmet).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame

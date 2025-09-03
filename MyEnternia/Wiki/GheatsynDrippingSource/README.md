@@ -1,6 +1,6 @@
 # Gheatsyn Dripping Source
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatsyn_drop1/icon.png" alt="Gheatsyn Dripping Source icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Dripping Source** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatsyn_drop1/icon.png" alt="Gheatsyn Dripping Source icon" loading="lazy" height="16px" width="auto" /> **Gheatsyn Dripping Source** is a common breakable object.
 
 Slightly acidic substance is dripping from this place. This is a liquid [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) crystal.
 

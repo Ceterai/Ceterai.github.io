@@ -1,6 +1,6 @@
 # Enterite Sample
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enterite_sample/icon.png" alt="Enterite Sample icon" loading="lazy" height=16px width="auto" /> **Enterite Sample** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enterite_sample/icon.png" alt="Enterite Sample icon" loading="lazy" height="16px" width="auto" /> **Enterite Sample** is a legendary decorative object.
 
 This moonrock formation seems pretty. Pretty suspicious.
 

@@ -4,8 +4,8 @@ Adds 25% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electri
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" height=16px width="auto" /> [Ceter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Ceter-EPP)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" height=16px width="auto" /> [Impulse Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ImpulseStimPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" height="16px" width="auto" /> [Ceter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Ceter-EPP)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" height="16px" width="auto" /> [Impulse Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ImpulseStimPack)
 
 ## Parameters
 

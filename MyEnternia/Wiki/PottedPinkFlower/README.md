@@ -1,6 +1,6 @@
 # Potted Pink Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/pink/icon.png" alt="Potted Pink Flower icon" loading="lazy" height=16px width="auto" /> **Potted Pink Flower** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/pink/icon.png" alt="Potted Pink Flower icon" loading="lazy" height="16px" width="auto" /> **Potted Pink Flower** is an uncommon decorative object.
 
 A seemingly unsuspecting flower in a small pot.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/alta/icon.png" alt="Alta Flower Pot icon" loading="lazy" height=16px width="auto" /> [Alta Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerPot)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/alta/icon.png" alt="Alta Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Alta Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerPot)
 
 Unlocks blueprints for:
 

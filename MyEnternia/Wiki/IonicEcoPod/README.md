@@ -1,6 +1,6 @@
 # Ionic Eco Pod ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> **Ionic Eco Pod ★★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> **Ionic Eco Pod ★★★** is a legendary plantable item.
 
 Contains a modified ionic sap sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height=16px width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height="16px" width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
 
 ## Technical Information
 

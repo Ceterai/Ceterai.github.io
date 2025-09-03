@@ -1,6 +1,6 @@
 # Alta Logic - Clock
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/clock.png:default.1" alt="Alta Logic - Clock icon" loading="lazy" height=16px width="auto" /> **Alta Logic - Clock** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/clock.png:default.1" alt="Alta Logic - Clock icon" loading="lazy" height="16px" width="auto" /> **Alta Logic - Clock** is an uncommon wiring component.
 
 The clock output alternates between on and off every 0.5 seconds. Default is 33 ticks (0.5s), sets through `interval`.
 

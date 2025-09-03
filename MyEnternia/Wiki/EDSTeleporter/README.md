@@ -1,6 +1,6 @@
 # EDS Teleporter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/teleporter/icon.png" alt="EDS Teleporter icon" loading="lazy" height=16px width="auto" /> **EDS Teleporter** is a legendary teleportation device.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/teleporter/icon.png" alt="EDS Teleporter icon" loading="lazy" height="16px" width="auto" /> **EDS Teleporter** is a legendary teleportation device.
 
 A personal [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) teleporter, connects to bookmarked locations. This doesn't seem to be [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) technology.
 

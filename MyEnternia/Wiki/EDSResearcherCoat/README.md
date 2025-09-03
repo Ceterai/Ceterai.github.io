@@ -1,6 +1,6 @@
 # EDS Researcher Coat
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="EDS Researcher Coat icon" loading="lazy" height=16px width="auto" /> **EDS Researcher Coat** is a rare chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="EDS Researcher Coat icon" loading="lazy" height="16px" width="auto" /> **EDS Researcher Coat** is a rare chest item.
 
 An official EDS researcher's coat. Practical and well thought-out.  
 Just like other pieces of alta laboratory attire, this one provides full body coverage with optional gloves to complete the set.

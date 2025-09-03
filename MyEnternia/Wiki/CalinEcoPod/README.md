@@ -1,6 +1,6 @@
 # Calin Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **Calin Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Calin Eco Pod ★** is a legendary plantable item.
 
 Contains a modified crystal sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Calin Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCalinSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Calin Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCalinSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Calin Seed icon" loading="lazy" height=16px width="auto" /> [Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/CalinSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Calin Seed icon" loading="lazy" height="16px" width="auto" /> [Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/CalinSeed)
 
 ## Technical Information
 

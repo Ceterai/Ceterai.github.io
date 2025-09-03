@@ -1,6 +1,6 @@
 # Lira ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_lira.png" alt="Lira ★★ icon" loading="lazy" height=16px width="auto" /> **Lira ★★** is a legendary two-handed spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_lira.png" alt="Lira ★★ icon" loading="lazy" height="16px" width="auto" /> **Lira ★★** is a legendary two-handed spear.
 
 **WIP**. Each attack of this spear replenishes your energy.  
 This instrument was made as part of a skylight orchestra, an interplanetary music concert performed by arknights. But as with many things, the wielder determines its purpose.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

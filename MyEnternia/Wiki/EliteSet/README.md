@@ -1,6 +1,6 @@
 # Elite Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" height=16px width="auto" /> **Elite Set** is a legendary loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" height="16px" width="auto" /> **Elite Set** is a legendary loot item.
 
 Contains full equipment set of an elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  

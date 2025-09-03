@@ -1,6 +1,6 @@
 # Ion Klee
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/ion_klee/icon.png" alt="Ion Klee icon" loading="lazy" height=16px width="auto" /> **Ion Klee** is a rare bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/ion_klee/icon.png" alt="Ion Klee icon" loading="lazy" height="16px" width="auto" /> **Ion Klee** is a rare bug.
 
 An attached note reads, "Ion klees are not only rare in occurence, their behavior is just as rare for klees - they prefer dark crystallic environments to light natural ones."
 

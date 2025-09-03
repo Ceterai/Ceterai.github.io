@@ -1,6 +1,6 @@
 # Graa Venetto
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Graa Venetto icon" loading="lazy" height=16px width="auto" /> **Graa Venetto** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Graa Venetto icon" loading="lazy" height="16px" width="auto" /> **Graa Venetto** is a legendary dish.
 
 A pleasant dish with a layered cake-like mixture with [yukva](https://ceterai.github.io/MyEnternia/Wiki/yukva) cream and [koywa bread](https://ceterai.github.io/MyEnternia/Wiki/koywabread), with roasted [archulin](https://ceterai.github.io/MyEnternia/Wiki/archulin) paste base.  
 This complicated dish smells similar to roasted vegetables. The cake part is meant to be eaten together with paste, dipped in it slightly.
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height=16px width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
 
 ## Technical Information
 

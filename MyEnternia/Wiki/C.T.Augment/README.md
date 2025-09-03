@@ -1,8 +1,8 @@
 # C.T. Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ceterai_augment.png" alt="C.T. Augment ★★ icon" loading="lazy" height=16px width="auto" /> **C.T. Augment ★★** is a legendary epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ceterai_augment.png" alt="C.T. Augment ★★ icon" loading="lazy" height="16px" width="auto" /> **C.T. Augment ★★** is a legendary epp augment.
 
-An EPP module that adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" height=16px width="auto" /> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" height=16px width="auto" /> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder).
+An EPP module that adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" height="16px" width="auto" /> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" height="16px" width="auto" /> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder).
 
 ## Ingame
 

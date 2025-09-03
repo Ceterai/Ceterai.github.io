@@ -1,6 +1,6 @@
 # Hevika Crippit Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_hevika_crippit.png" alt="Hevika Crippit Figurine ★ icon" loading="lazy" height=16px width="auto" /> **Hevika Crippit Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_hevika_crippit.png" alt="Hevika Crippit Figurine ★ icon" loading="lazy" height="16px" width="auto" /> **Hevika Crippit Figurine ★** is a legendary figurine.
 
 The label reads, "The shell of this crippit is highly saturated with alternia."
 

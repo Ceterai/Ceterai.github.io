@@ -5,9 +5,9 @@ With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRewor
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/core/icon.png" alt="C.T. Energy Core icon" loading="lazy" height=16px width="auto" /> [C.T. Energy Core](https://ceterai.github.io/MyEnternia/Wiki/C.T.EnergyCore)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" height=16px width="auto" /> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_ionic_stim.png" alt="Ionic Stim Pack icon" loading="lazy" height=16px width="auto" /> [Ionic Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/IonicStimPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/core/icon.png" alt="C.T. Energy Core icon" loading="lazy" height="16px" width="auto" /> [C.T. Energy Core](https://ceterai.github.io/MyEnternia/Wiki/C.T.EnergyCore)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" height="16px" width="auto" /> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_ionic_stim.png" alt="Ionic Stim Pack icon" loading="lazy" height="16px" width="auto" /> [Ionic Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/IonicStimPack)
 
 ## Parameters
 

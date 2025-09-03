@@ -1,6 +1,6 @@
 # Valley Poptop Figurine ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_valley_poptop.png" alt="Valley Poptop Figurine ★★ icon" loading="lazy" height=16px width="auto" /> **Valley Poptop Figurine ★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_valley_poptop.png" alt="Valley Poptop Figurine ★★ icon" loading="lazy" height="16px" width="auto" /> **Valley Poptop Figurine ★★** is a legendary figurine.
 
 The label reads, "These brightly-color giants love sundlight, and sleeping in the shades of blossoming ayakas."
 

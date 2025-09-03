@@ -1,6 +1,6 @@
 # Warped Hive Eco Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/pod/icon.png" alt="Warped Hive Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> **Warped Hive Eco Pod ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/pod/icon.png" alt="Warped Hive Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Warped Hive Eco Pod ★★** is a legendary plantable item.
 
 Contains a modified warped hive sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" height=16px width="auto" /> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" height="16px" width="auto" /> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed)
 
 ## Technical Information
 

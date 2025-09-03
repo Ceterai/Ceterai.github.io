@@ -1,11 +1,11 @@
 # Multi-Tool
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" height=16px width="auto" /> **Multi-Tool** is an uncommon one-handed shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" height="16px" width="auto" /> **Multi-Tool** is an uncommon one-handed shortsword.
 
 **WIP**. A fancy hatchet-like tool used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scouts for traversing certain types of terrain.  
 Because it packs so many useful funtions, its considered an essential survival tool and is usually given out to almost any alta preparing for travel or outgoing task.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" height=16px width="auto" /> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" height="16px" width="auto" /> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

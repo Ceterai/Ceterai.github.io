@@ -1,6 +1,6 @@
 # Space Tiller
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/space_tiller/icon.png" alt="Space Tiller icon" loading="lazy" height=16px width="auto" /> **Space Tiller** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/space_tiller/icon.png" alt="Space Tiller icon" loading="lazy" height="16px" width="auto" /> **Space Tiller** is a legendary two-handed tool.
 
 A proficient tool to till soil. The tilled soil can then be used to grow all sorts of crops!
 

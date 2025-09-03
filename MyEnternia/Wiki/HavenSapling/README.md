@@ -1,6 +1,6 @@
 # Haven Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Haven Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Haven Sapling ★** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height=16px width="auto" /> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height="16px" width="auto" /> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" height=16px width="auto" /> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
 
 ## Technical Information
 

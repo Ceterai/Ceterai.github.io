@@ -1,8 +1,8 @@
 # Imperial Greaves
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Imperial Greaves icon" loading="lazy" height=16px width="auto" /> **Imperial Greaves** is a legendary leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Imperial Greaves icon" loading="lazy" height="16px" width="auto" /> **Imperial Greaves** is a legendary leg item.
 
-Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" height=16px width="auto" /> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
+Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" height="16px" width="auto" /> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
 While similar in characteristics to the original model, this one has alternative markings to signify its belonging.
 
 ## Ingame
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height=16px width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height="16px" width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage), 
 
 - Stat: `fallDamageMultiplier`- Effective Multiplier: 0.85, 
 

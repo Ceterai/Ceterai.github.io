@@ -1,6 +1,6 @@
 # Bion Rod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/bion_rod/icon.png" alt="Bion Rod icon" loading="lazy" height=16px width="auto" /> **Bion Rod** is a rare two-handed fishing rod.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/bion_rod/icon.png" alt="Bion Rod icon" loading="lazy" height="16px" width="auto" /> **Bion Rod** is a rare two-handed fishing rod.
 
 A light resistant rod for fishing in unstable environments. Bion line allows for greater reel speed & length.
 

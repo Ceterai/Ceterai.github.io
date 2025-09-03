@@ -1,8 +1,8 @@
 # Hevika Turret Gun ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_hevika_turret_gun.png" alt="Hevika Turret Gun ★ icon" loading="lazy" height=16px width="auto" /> **Hevika Turret Gun ★** is a legendary two-handed electric machine gun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_hevika_turret_gun.png" alt="Hevika Turret Gun ★ icon" loading="lazy" height="16px" width="auto" /> **Hevika Turret Gun ★** is a legendary two-handed electric machine gun.
 
-A massive hyperblater, taken straight from a stationary <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" height=16px width="auto" /> [hevika turret](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurret). Don't see this things every day.
+A massive hyperblater, taken straight from a stationary <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" height="16px" width="auto" /> [hevika turret](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurret). Don't see this things every day.
 
 ## Ingame
 
@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height=16px width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
 Can be bought from merchants:
 
@@ -24,8 +24,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height=16px width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
 
 ## Technical Information
 

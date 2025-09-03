@@ -1,10 +1,10 @@
 # Earthcatcher ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon_upg.png" alt="Earthcatcher ★ icon" loading="lazy" height=16px width="auto" /> **Earthcatcher ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon_upg.png" alt="Earthcatcher ★ icon" loading="lazy" height="16px" width="auto" /> **Earthcatcher ★** is a legendary two-handed tool.
 
 An advanced tool to till soil. The tilled soil can then be used to grow all sorts of crops!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" height=16px width="auto" /> [Haven Tiller](https://ceterai.github.io/MyEnternia/Wiki/HavenTiller).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" height="16px" width="auto" /> [Haven Tiller](https://ceterai.github.io/MyEnternia/Wiki/HavenTiller).
 
 ## Ingame
 

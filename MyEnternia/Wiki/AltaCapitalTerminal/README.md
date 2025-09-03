@@ -1,6 +1,6 @@
 # Alta Capital Terminal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" height=16px width="auto" /> **Alta Capital Terminal** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" height="16px" width="auto" /> **Alta Capital Terminal** is an uncommon wiring component.
 
 A holographic console-like device on a sturdy titanium base. Can be used to operate nearby security measures.
 

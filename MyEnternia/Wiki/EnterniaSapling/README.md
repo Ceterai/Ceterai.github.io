@@ -1,6 +1,6 @@
 # Enternia Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height=16px width="auto" /> **Enternia Sapling** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height="16px" width="auto" /> **Enternia Sapling** is a legendary plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,16 +14,16 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height=16px width="auto" /> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height="16px" width="auto" /> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" height=16px width="auto" /> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
 
 ## Technical Information
 

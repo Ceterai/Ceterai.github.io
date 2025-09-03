@@ -1,6 +1,6 @@
 # Ionic Ferment Sample
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ferment/icon.png" alt="Ionic Ferment Sample icon" loading="lazy" height=16px width="auto" /> **Ionic Ferment Sample** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ferment/icon.png" alt="Ionic Ferment Sample icon" loading="lazy" height="16px" width="auto" /> **Ionic Ferment Sample** is an uncommon decorative object.
 
 A perfect sample of ayaka sap, preserved on a small titanium pedestal.
 

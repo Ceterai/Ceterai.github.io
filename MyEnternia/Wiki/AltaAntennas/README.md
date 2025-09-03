@@ -1,6 +1,6 @@
 # Alta Antennas
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Antennas icon" loading="lazy" height=16px width="auto" /> **Alta Antennas** is a rare back item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Antennas icon" loading="lazy" height="16px" width="auto" /> **Alta Antennas** is a rare back item.
 
 A set of protected hitech appendages with an unclear purpose.  
 These are often seen on technical units, as well as alta androids.

@@ -1,6 +1,6 @@
 # Elin Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height=16px width="auto" /> **Elin Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Elin Loot Crate** is an uncommon loot item.
 
 Contains random loot from [elin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elin) pods.  
 Mainly used by [elin guards](https://ceterai.github.io/MyEnternia/Wiki/ElinGuard), it holds security devices and protective equipment.
@@ -19,11 +19,11 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height=16px width="auto" /> [Elin Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElinPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Elin Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElinPod)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Elin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ElinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Elin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ElinLootCrate)
 
 ## Technical Information
 

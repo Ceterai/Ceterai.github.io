@@ -3,7 +3,7 @@
  **Pretty Band-Aid** is an uncommon medical item.
 
 A set of colorful little bandades often carried by caretakers. It radiates love and happiness and turns your body into a colorful canvas!  
-Made from processed <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height=16px width="auto" /> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) and [silk](https://ceterai.github.io/MyEnternia/Wiki/silk), it acts as both disinfectant and an absorber.
+Made from processed <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) and [silk](https://ceterai.github.io/MyEnternia/Wiki/silk), it acts as both disinfectant and an absorber.
 
 ## Ingame
 

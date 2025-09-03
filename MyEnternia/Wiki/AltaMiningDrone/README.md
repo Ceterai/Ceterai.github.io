@@ -1,6 +1,6 @@
 # Alta Mining Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/mining_drone/icon.png" alt="Alta Mining Drone icon" loading="lazy" height=16px width="auto" /> **Alta Mining Drone** is a legendary drone.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/mining_drone/icon.png" alt="Alta Mining Drone icon" loading="lazy" height="16px" width="auto" /> **Alta Mining Drone** is a legendary drone.
 
 A disposable, mechanical owl that will fly in a direction and dig a tunnel when thrown.
 

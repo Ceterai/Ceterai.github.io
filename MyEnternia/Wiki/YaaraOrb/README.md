@@ -1,6 +1,6 @@
 # Yaara Orb
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> **Yaara Orb** is a common storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> **Yaara Orb** is a common storage unit.
 
 A glowing orb. It looks like there's room to store things inside.
 
@@ -28,7 +28,7 @@ A glowing orb. It looks like there's room to store things inside.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be bought from merchants:
 
@@ -36,7 +36,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 ## Technical Information
 

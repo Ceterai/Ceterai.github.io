@@ -1,6 +1,6 @@
 # Heecho Punch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height=16px width="auto" /> **Heecho Punch** is a rare drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height="16px" width="auto" /> **Heecho Punch** is a rare drink.
 
 A mixture of only the sweetest of sweet fruit.  
 The origins of the recipe are pretty obvious - this is a classic multifruit drink discovered by mixing different fruits together and seeing what happens, and the name of the drink reflects exactly that.
@@ -14,39 +14,39 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 25
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" height=16px width="auto" /> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals)- Duration: 240, 
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" height="16px" width="auto" /> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals)- Duration: 240, 
 
-- Effect: `maxhealthboost20`- Duration: 240
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (20%)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 240
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Extra Heecho Punch ★★ icon" loading="lazy" height=16px width="auto" /> [Extra Heecho Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/ExtraHeechoPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Extra Heecho Punch ★★ icon" loading="lazy" height="16px" width="auto" /> [Extra Heecho Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/ExtraHeechoPunch)
 
 ## Crafting
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height=16px width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Ayamix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Ayamix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyamixIceCream)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Dessert ★ icon" loading="lazy" height=16px width="auto" /> [Biomix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/BiomixDessert)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Calming Tea ★ icon" loading="lazy" height=16px width="auto" /> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Crimson Plant Tea ★ icon" loading="lazy" height=16px width="auto" /> [Crimson Plant Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CrimsonPlantTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Keromix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Keromix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/KeromixIceCream)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height=16px width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Virmix Dessert ★ icon" loading="lazy" height=16px width="auto" /> [Virmix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/VirmixDessert)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height="16px" width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Ayamix Ice Cream icon" loading="lazy" height="16px" width="auto" /> [Ayamix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyamixIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Dessert ★ icon" loading="lazy" height="16px" width="auto" /> [Biomix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/BiomixDessert)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height="16px" width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Calming Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Crimson Plant Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Crimson Plant Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CrimsonPlantTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Keromix Ice Cream icon" loading="lazy" height="16px" width="auto" /> [Keromix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/KeromixIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height="16px" width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Virmix Dessert ★ icon" loading="lazy" height="16px" width="auto" /> [Virmix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/VirmixDessert)
 
 </details>
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" height=16px width="auto" /> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height=16px width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" height=16px width="auto" /> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" height=16px width="auto" /> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" height="16px" width="auto" /> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height="16px" width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" height="16px" width="auto" /> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" height="16px" width="auto" /> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
 
 ## Sources
 
@@ -56,7 +56,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height=16px width="auto" /> [Alta Punch Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPunchServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Punch Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPunchServing)
 
 ## Technical Information
 

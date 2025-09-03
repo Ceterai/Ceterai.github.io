@@ -1,6 +1,6 @@
 # Gheatsyn Gateway
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/gateway/icon.png" alt="Gheatsyn Gateway icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Gateway** is an uncommon door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/gateway/icon.png" alt="Gheatsyn Gateway icon" loading="lazy" height="16px" width="auto" /> **Gheatsyn Gateway** is an uncommon door.
 
 An exceedingly firm [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) gateway.
 
@@ -27,7 +27,7 @@ An exceedingly firm [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gh
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
 
 Can be bought from merchants:
 
@@ -36,7 +36,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
 
 ## Technical Information
 

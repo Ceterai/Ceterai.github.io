@@ -1,6 +1,6 @@
 # Calin Bed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/bed/icon.png" alt="Calin Bed icon" loading="lazy" height=16px width="auto" /> **Calin Bed** is an uncommon piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/bed/icon.png" alt="Calin Bed icon" loading="lazy" height="16px" width="auto" /> **Calin Bed** is an uncommon piece of furniture.
 
 A beautiful bed with crystals on the corners. Well-balanced and light.
 
@@ -23,11 +23,11 @@ A beautiful bed with crystals on the corners. Well-balanced and light.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height=16px width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height="16px" width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
 
 ## Technical Information
 

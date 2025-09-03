@@ -1,6 +1,6 @@
 # Alta Lab Light
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/light/icon.png" alt="Alta Lab Light icon" loading="lazy" height=16px width="auto" /> **Alta Lab Light** is an uncommon light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/light/icon.png" alt="Alta Lab Light icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Light** is an uncommon light source.
 
 A compact bion ceiling light on simplistic holders. **Can be placed on the ground, walls and ceiling.**
 

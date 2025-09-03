@@ -1,6 +1,6 @@
 # The Sky Above Us
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height=16px width="auto" /> **The Sky Above Us** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height="16px" width="auto" /> **The Sky Above Us** is an uncommon codex entry.
 
 An ebook poetically describing the skies of alterash planets.  
 It shows a common among altas cultural perception of the planetary layers above the planet and how they are inhabited.
@@ -19,22 +19,22 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height=16px width="auto" /> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height="16px" width="auto" /> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" height=16px width="auto" /> [Eva Ayaka](https://ceterai.github.io/MyEnternia/Wiki/EvaAyaka)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height=16px width="auto" /> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" height="16px" width="auto" /> [Eva Ayaka](https://ceterai.github.io/MyEnternia/Wiki/EvaAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height="16px" width="auto" /> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height=12px width=12px /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
+- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height="12px" width="12px" /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height=16px width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
 
 ## Technical Information
 

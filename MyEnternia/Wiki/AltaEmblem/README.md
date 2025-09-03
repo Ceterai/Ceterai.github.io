@@ -1,6 +1,6 @@
 # Alta Emblem
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/alta/body.png" alt="Alta Emblem icon" loading="lazy" height=16px width="auto" /> **Alta Emblem** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/alta/body.png" alt="Alta Emblem icon" loading="lazy" height="16px" width="auto" /> **Alta Emblem** is a common decorative object.
 
 The common alta species emblem, found most commonly on the species flag.
 

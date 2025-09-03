@@ -1,6 +1,6 @@
 # Lifesapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifesapling icon" loading="lazy" height=16px width="auto" /> **Lifesapling** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifesapling icon" loading="lazy" height="16px" width="auto" /> **Lifesapling** is an uncommon dish.
 
 The alto koywa merged perfectly with yaara roots, making it even more fulfilling.  
 Popular in elin gardens, this dish is used as a general snack newly-born altas can munch on while waiting in their flower beds for a caretaker.
@@ -14,18 +14,18 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 18
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: `maxhealthscalingboostfood`- Duration: 60
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 60
 
 ## Crafting
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" height=16px width="auto" /> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" height=16px width="auto" /> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height="16px" width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" height="16px" width="auto" /> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" height="16px" width="auto" /> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
 
 ## Sources
 

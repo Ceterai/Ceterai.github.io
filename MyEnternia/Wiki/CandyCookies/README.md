@@ -1,6 +1,6 @@
 # Candy Cookies ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" height=16px width="auto" /> **Candy Cookies ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" height="16px" width="auto" /> **Candy Cookies ★** is an uncommon dish.
 
 A perfect amount of crystals creates a perfect candy-like substance! So are these cookies or candy?  
 Technically speaking, these are candies, since the koywa dough is no longer used in the recipe, but the texture tends to say otherwise, prompting the confusion.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 34
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `nova`- Duration: 90
@@ -23,9 +23,9 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" height=16px width="auto" /> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crunchy Pie icon" loading="lazy" height=16px width="auto" /> [Crunchy Pie](https://ceterai.github.io/MyEnternia/Wiki/CrunchyPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height=16px width="auto" /> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" height="16px" width="auto" /> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crunchy Pie icon" loading="lazy" height="16px" width="auto" /> [Crunchy Pie](https://ceterai.github.io/MyEnternia/Wiki/CrunchyPie)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height="16px" width="auto" /> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Alta Cakery
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height=16px width="auto" /> **Alta Cakery** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height="16px" width="auto" /> **Alta Cakery** is a legendary crafting station.
 
 A piece of alta kitchen technology for making cakes. With this, you can open up your own bakery! Cake-ry, that is.  
 Similar to the inner workings of the alta icer, this cooking station requires some powerful coolant to work properly.

@@ -1,6 +1,6 @@
 # Faceless Mask ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Faceless Mask ★ icon" loading="lazy" height=16px width="auto" /> **Faceless Mask ★** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Faceless Mask ★ icon" loading="lazy" height="16px" width="auto" /> **Faceless Mask ★** is a legendary head item.
 
 A mask of an unknown alta, presumably a spacedrifter, one of many who used stardust to fuel their artifacts, like this one. Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
 This unique model of a combat mask is made from a different composite of materials, and has a tiny visor opening for better defence.
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height=16px width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height="16px" width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer), 
 
 - Stat: `breathProtection`- Amount: 1.0
 

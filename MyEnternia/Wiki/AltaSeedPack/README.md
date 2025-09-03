@@ -1,6 +1,6 @@
 # Alta Seed Pack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/other/seed.png" alt="Alta Seed Pack icon" loading="lazy" height=16px width="auto" /> **Alta Seed Pack** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/other/seed.png" alt="Alta Seed Pack icon" loading="lazy" height="16px" width="auto" /> **Alta Seed Pack** is an uncommon loot item.
 
 Contains a random assortment of farmable seeds.  
 Compact item packs are useful when you want to reduce the space they are taking up otherwise.
@@ -19,16 +19,16 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height=16px width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height=16px width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds_rare/icon.png" alt="Alta Rare Seed Vendor ★ icon" loading="lazy" height=16px width="auto" /> [Alta Rare Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaRareSeedVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height=16px width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds_rare/icon.png" alt="Alta Rare Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Rare Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaRareSeedVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Celestial Bow
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/celestial_bow/icon.png" alt="Celestial Bow icon" loading="lazy" height=16px width="auto" /> **Celestial Bow** is an essential two-handed bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/celestial_bow/icon.png" alt="Celestial Bow icon" loading="lazy" height="16px" width="auto" /> **Celestial Bow** is an essential two-handed bow.
 
 Fires glowing beams of pure energy!
 

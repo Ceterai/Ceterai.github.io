@@ -1,6 +1,6 @@
 # Energy Hook
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rail/energy_hook/icon.png" alt="Energy Hook icon" loading="lazy" height=16px width="auto" /> **Energy Hook** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rail/energy_hook/icon.png" alt="Energy Hook icon" loading="lazy" height="16px" width="auto" /> **Energy Hook** is a legendary tool.
 
 Attach yourself to the rails using pure energy and ride them with increased velocity!
 

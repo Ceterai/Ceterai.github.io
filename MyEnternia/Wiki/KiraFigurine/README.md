@@ -1,6 +1,6 @@
 # Kira Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_kira_af.png" alt="Kira Figurine icon" loading="lazy" height=16px width="auto" /> **Kira Figurine** is an uncommon figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_kira_af.png" alt="Kira Figurine icon" loading="lazy" height="16px" width="auto" /> **Kira Figurine** is an uncommon figurine.
 
 The label reads, "A figurine of a popular alta cartoon character."
 

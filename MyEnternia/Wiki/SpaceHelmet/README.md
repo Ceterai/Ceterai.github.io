@@ -1,6 +1,6 @@
 # Space Helmet
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="Space Helmet icon" loading="lazy" height=16px width="auto" /> **Space Helmet** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="Space Helmet icon" loading="lazy" height="16px" width="auto" /> **Space Helmet** is a legendary head item.
 
 A piece of equipment worn by alta researchers and workers in [Astera Ordis](https://ceterai.github.io/MyEnternia/Wiki/AsteraOrdis). Can sometimes be found on a spacedrifter as well.  
 Its special built-in visor protects your eyes from direct light from nearby stars and disperces it, allowing you to see better in the dark spots.
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height=16px width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height="16px" width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), 
 
 - Stat: `breathProtection`- Amount: 1.0
 

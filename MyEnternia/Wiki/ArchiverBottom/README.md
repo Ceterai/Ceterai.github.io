@@ -1,6 +1,6 @@
 # Archiver Bottom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Archiver Bottom icon" loading="lazy" height=16px width="auto" /> **Archiver Bottom** is an uncommon leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Archiver Bottom icon" loading="lazy" height="16px" width="auto" /> **Archiver Bottom** is an uncommon leg item.
 
 A bottom half of a scientific coat used by alta archivers. Has lots of pockets for storing all the science goods!  
 The material is pretty plain and was made to stay on well and not let most liquids get through it.

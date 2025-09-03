@@ -1,6 +1,6 @@
 # EDS Halter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter/icon.png" alt="EDS Halter icon" loading="lazy" height=16px width="auto" /> **EDS Halter** is an uncommon electric trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter/icon.png" alt="EDS Halter icon" loading="lazy" height="16px" width="auto" /> **EDS Halter** is an uncommon electric trap.
 
 A defensive [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. Consists of a tanktrap and barbed wires. [Electrified](https://ceterai.github.io/MyEnternia/Wiki/Electrified).  
 These were created to trap small creatures in place, as well as rogue or hostile machinery.
@@ -30,7 +30,7 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be bought from merchants:
 
@@ -39,7 +39,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 ## Technical Information
 

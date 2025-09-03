@@ -1,8 +1,8 @@
 # Imperial Guard Armor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Imperial Guard Armor icon" loading="lazy" height=16px width="auto" /> **Imperial Guard Armor** is a legendary chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Imperial Guard Armor icon" loading="lazy" height="16px" width="auto" /> **Imperial Guard Armor** is a legendary chest item.
 
-Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" height=16px width="auto" /> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
+Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" height="16px" width="auto" /> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
 While similar in characteristics to the original model, this one has alternative markings to signify its belonging.
 
 ## Ingame
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height=16px width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height="16px" width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Bishyn Crippit Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_bishyn_crippit.png" alt="Bishyn Crippit Figurine ★ icon" loading="lazy" height=16px width="auto" /> **Bishyn Crippit Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_bishyn_crippit.png" alt="Bishyn Crippit Figurine ★ icon" loading="lazy" height="16px" width="auto" /> **Bishyn Crippit Figurine ★** is a legendary figurine.
 
 The label reads, "Cripptis that happen to use bishyn crystals as their home, often find themselves covered in even more crystals that start to quickly grow on them."
 

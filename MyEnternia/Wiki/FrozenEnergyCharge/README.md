@@ -1,6 +1,6 @@
 # Frozen Energy Charge
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy1/icon.png" alt="Frozen Energy Charge icon" loading="lazy" height=16px width="auto" /> **Frozen Energy Charge** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy1/icon.png" alt="Frozen Energy Charge icon" loading="lazy" height="16px" width="auto" /> **Frozen Energy Charge** is a common breakable object.
 
 This ball of lightning got frozen. How is that even possible?
 

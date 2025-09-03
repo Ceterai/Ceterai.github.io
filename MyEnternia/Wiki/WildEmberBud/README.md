@@ -1,6 +1,6 @@
 # Wild Ember Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Wild Ember Bud icon" loading="lazy" height=16px width="auto" /> **Wild Ember Bud** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Wild Ember Bud icon" loading="lazy" height="16px" width="auto" /> **Wild Ember Bud** is a common plantable item.
 
 A warm coral bud that is slowly, but actively growing.
 

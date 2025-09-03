@@ -4,8 +4,8 @@ What is this tingling feeling in your heart?
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" height=16px width="auto" /> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" height=16px width="auto" /> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" height="16px" width="auto" /> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" height="16px" width="auto" /> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
 
 ## Parameters
 

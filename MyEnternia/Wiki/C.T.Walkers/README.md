@@ -1,6 +1,6 @@
 # C.T. Walkers
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="C.T. Walkers icon" loading="lazy" height=16px width="auto" /> **C.T. Walkers** is a legendary leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="C.T. Walkers icon" loading="lazy" height="16px" width="auto" /> **C.T. Walkers** is a legendary leg item.
 
 This alternia-enhanced legwear provides additional energy to its wearer.
 
@@ -28,7 +28,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" height=16px width="auto" /> [C.T. Alternia Set](https://ceterai.github.io/MyEnternia/Wiki/C.T.AlterniaSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" height="16px" width="auto" /> [C.T. Alternia Set](https://ceterai.github.io/MyEnternia/Wiki/C.T.AlterniaSet)
 
 ## Technical Information
 

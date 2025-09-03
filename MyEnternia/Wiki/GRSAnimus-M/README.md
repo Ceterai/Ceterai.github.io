@@ -1,6 +1,6 @@
 # GRS "Animus-M" ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS Animus-M ★ icon" loading="lazy" height=16px width="auto" /> **GRS "Animus-M" ★** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS Animus-M ★ icon" loading="lazy" height="16px" width="auto" /> **GRS "Animus-M" ★** is a legendary head item.
 
 An Animus prototype that uses pure stardust energy to run, instead of relying on enternia.  
 Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
@@ -18,7 +18,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" height=16px width="auto" /> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" height="16px" width="auto" /> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator), 
 
 - Stat: `breathProtection`- Amount: 1.0
 

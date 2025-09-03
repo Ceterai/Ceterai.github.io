@@ -1,6 +1,6 @@
 # Prism Wing
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/prism_wing/icon.png" alt="Prism Wing icon" loading="lazy" height=16px width="auto" /> **Prism Wing** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/prism_wing/icon.png" alt="Prism Wing icon" loading="lazy" height="16px" width="auto" /> **Prism Wing** is an uncommon bug.
 
 An attached note reads, "This beautiful bug might look like a crystal shard from afar, though it is quite soft to the touch."
 

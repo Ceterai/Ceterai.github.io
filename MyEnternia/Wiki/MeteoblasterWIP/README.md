@@ -1,10 +1,10 @@
 # Meteoblaster WIP
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" height=16px width="auto" /> **Meteoblaster WIP** is a rare two-handed grenade launcher.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" height="16px" width="auto" /> **Meteoblaster WIP** is a rare two-handed grenade launcher.
 
 Its core was constructed from enternia-enhanced moonrock meteorites of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png" alt="Starblaster ★ icon" loading="lazy" height=16px width="auto" /> [Starblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Starblaster) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png" alt="Starblaster ★ icon" loading="lazy" height="16px" width="auto" /> [Starblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Starblaster) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -16,7 +16,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be bought from merchants:
 
@@ -26,8 +26,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height=16px width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Alta Kitchener
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kitchener/icon.png" alt="Alta Kitchener icon" loading="lazy" height=16px width="auto" /> **Alta Kitchener** is a rare crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kitchener/icon.png" alt="Alta Kitchener icon" loading="lazy" height="16px" width="auto" /> **Alta Kitchener** is a rare crafting station.
 
 A set of alta kitchen appliances for making soup, stew, porridges and other fulfilling dishes.  
 While the overall concept seems pretty simple, it's pretty resource-heavy to make as it requires a lot of heat-resisting materials.

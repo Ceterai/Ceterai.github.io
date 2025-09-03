@@ -2,7 +2,7 @@
 
  **R-Power Prototype ★★** is a rare poisonous rocket launcher.
 
-A powerful cannon that utilizes <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height=16px width="auto" /> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) both as coolant and as missile component.  
+A powerful cannon that utilizes <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height="16px" width="auto" /> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) both as coolant and as missile component.  
 This heavy energy tool has outside origins and was simply altered in a Neiteru alta lab.
 
 ## Ingame

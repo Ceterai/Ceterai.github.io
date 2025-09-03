@@ -1,6 +1,6 @@
 # Special Yaara Eye Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sort/icon.png" alt="Special Yaara Eye Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Special Yaara Eye Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sort/icon.png" alt="Special Yaara Eye Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Special Yaara Eye Sapling ★** is an uncommon plantable item.
 
 This yaavi sapling was genetically modified to produce a new sort.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Boosted Yaavi Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaviSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Yaavi Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaviSapling)
 
 ## Technical Information
 

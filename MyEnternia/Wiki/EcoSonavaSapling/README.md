@@ -1,6 +1,6 @@
 # Eco Sonava Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Eco Sonava Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Eco Sonava Sapling ★** is an uncommon plantable item.
 
 This snow fibre sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/sapling/icon.png" alt="Sonava Sapling icon" loading="lazy" height=16px width="auto" /> [Sonava Sapling](https://ceterai.github.io/MyEnternia/Wiki/SonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/sapling/icon.png" alt="Sonava Sapling icon" loading="lazy" height="16px" width="auto" /> [Sonava Sapling](https://ceterai.github.io/MyEnternia/Wiki/SonavaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/boosted/icon.png" alt="Boosted Sonava Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Sonava Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedSonavaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" height=16px width="auto" /> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height=16px width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/boosted/icon.png" alt="Boosted Sonava Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Sonava Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedSonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" height="16px" width="auto" /> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/pod/icon.png" alt="Sonava Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Sonava Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/SonavaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/pod/icon.png" alt="Sonava Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Sonava Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/SonavaEcoPod)
 
 ## Technical Information
 

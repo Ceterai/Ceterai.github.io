@@ -1,6 +1,6 @@
 # EDS Containers
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/containers/icon.png" alt="EDS Containers icon" loading="lazy" height=16px width="auto" /> **EDS Containers** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/containers/icon.png" alt="EDS Containers icon" loading="lazy" height="16px" width="auto" /> **EDS Containers** is a rare storage unit.
 
 An [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) crate containing cargo. What cargo? Who knows.
 
@@ -28,11 +28,11 @@ An [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) crate containing ca
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 ## Technical Information
 

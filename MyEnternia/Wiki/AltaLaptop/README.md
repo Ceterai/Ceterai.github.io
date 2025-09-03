@@ -1,6 +1,6 @@
 # Alta Laptop
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/laptop/icon.png" alt="Alta Laptop icon" loading="lazy" height=16px width="auto" /> **Alta Laptop** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/laptop/icon.png" alt="Alta Laptop icon" loading="lazy" height="16px" width="auto" /> **Alta Laptop** is an uncommon decorative object.
 
 A small yet extremely powerful computing device, used mostly for playing videogames.  
 Most basic alta furniture is designed to be simple, lightweight, and, most importantly, easy to clean and disassemble. The goal is to be comfortable and portable at the same time, while also being easy to recycle if needed.

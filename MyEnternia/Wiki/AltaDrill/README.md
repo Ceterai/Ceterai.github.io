@@ -1,10 +1,10 @@
 # Alta Drill
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon.png" alt="Alta Drill icon" loading="lazy" height=16px width="auto" /> **Alta Drill** is an uncommon two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon.png" alt="Alta Drill icon" loading="lazy" height="16px" width="auto" /> **Alta Drill** is an uncommon two-handed tool.
 
 Drills fast but breaks quickly. A temporary alternative to the matter manipulator.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" height=16px width="auto" /> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon_upg.png" alt="Superdrill ★ icon" loading="lazy" height="16px" width="auto" /> [Superdrill ★](https://ceterai.github.io/MyEnternia/Wiki/Superdrill) at the Weapon Upgrade Anvil.
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Elite Droid
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png" alt="Elite Droid icon" loading="lazy" height=16px width="auto" /> **Elite Droid** is a legendary electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png" alt="Elite Droid icon" loading="lazy" height="16px" width="auto" /> **Elite Droid** is a legendary electric throwable item.
 
 A mechanical minitank that can stick to surfaces.  
 Its prime combatative power compensates for a fairly heavy weight of the droid, meant mostly for relatively smooth surfaces.
@@ -19,14 +19,14 @@ Radiomessages on pickup:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" height=16px width="auto" /> [Stalker Droid ★](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" height="16px" width="auto" /> [Stalker Droid ★](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height=16px width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
-- `outpostshippingcontainer`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" height="12px" width="30px" /> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 Can be bought from merchants:
 
@@ -35,12 +35,12 @@ Can be bought from merchants:
 
 <details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
 
 </details>
 

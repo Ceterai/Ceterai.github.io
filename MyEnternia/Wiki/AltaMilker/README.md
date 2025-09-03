@@ -1,6 +1,6 @@
 # Alta Milker
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" height=16px width="auto" /> **Alta Milker** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" height="16px" width="auto" /> **Alta Milker** is an uncommon crafting station.
 
 A piece of alta kitchen technology for making freshes, juices, and other raw squeezes.  
 A bit bulky in size, it was made to be like this to make sure any fruits and other ingredients fit in.

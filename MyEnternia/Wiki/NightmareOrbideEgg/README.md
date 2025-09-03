@@ -1,6 +1,6 @@
 # Nightmare Orbide Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_nightmare_orbide_egg.png" alt="Nightmare Orbide Egg icon" loading="lazy" height=16px width="auto" /> **Nightmare Orbide Egg** is an uncommon one-handed throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_nightmare_orbide_egg.png" alt="Nightmare Orbide Egg icon" loading="lazy" height="16px" width="auto" /> **Nightmare Orbide Egg** is an uncommon one-handed throwable item.
 
 Can be used to spawn a creature called [nightmare_orbide](https://ceterai.github.io/MyEnternia/Wiki/nightmare-orbide).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

@@ -1,8 +1,8 @@
 # Elite Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_elite_augment.png" alt="Elite Augment ★★ icon" loading="lazy" height=16px width="auto" /> **Elite Augment ★★** is a legendary epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_elite_augment.png" alt="Elite Augment ★★ icon" loading="lazy" height="16px" width="auto" /> **Elite Augment ★★** is a legendary epp augment.
 
-An EPP module that adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" height=16px width="auto" /> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height=16px width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer).
+An EPP module that adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" height="16px" width="auto" /> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height="16px" width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer).
 
 ## Ingame
 

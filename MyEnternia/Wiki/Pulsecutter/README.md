@@ -1,10 +1,10 @@
 # Pulsecutter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" height=16px width="auto" /> **Pulsecutter** is a rare one-handed electric pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" height="16px" width="auto" /> **Pulsecutter** is a rare one-handed electric pistol.
 
 This environmental tool is usually used to cut hard materials with rapid and long targeted [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" height=16px width="auto" /> [Hyperblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Hyperblaster) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" height="16px" width="auto" /> [Hyperblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Hyperblaster) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -21,7 +21,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # C.T. Visor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="C.T. Visor icon" loading="lazy" height=16px width="auto" /> **C.T. Visor** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="C.T. Visor icon" loading="lazy" height="16px" width="auto" /> **C.T. Visor** is a legendary head item.
 
 A C.T. series helmet. Has a built-in 'Omniblue' lightsource. The label on the side reads 'Mark I'. Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
 This analytical alternia-powered protected headwear is a dream of many [alta researchers](https://ceterai.github.io/MyEnternia/Wiki/AltaResearcher), as there are quite a few comparable alternatives.
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height=16px width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height="16px" width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), 
 
 - Stat: `breathProtection`- Amount: 1.0
 
@@ -25,8 +25,8 @@ Radiomessages on pickup:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/android_head/icon.png" alt="C.T. Android Head ★ icon" loading="lazy" height=16px width="auto" /> [C.T. Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.AndroidHead)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png" alt="C.T. Mindframe ★ icon" loading="lazy" height=16px width="auto" /> [C.T. Mindframe ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.Mindframe)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/android_head/icon.png" alt="C.T. Android Head ★ icon" loading="lazy" height="16px" width="auto" /> [C.T. Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.AndroidHead)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png" alt="C.T. Mindframe ★ icon" loading="lazy" height="16px" width="auto" /> [C.T. Mindframe ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.Mindframe)
 
 ## Sources
 
@@ -38,7 +38,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" height=16px width="auto" /> [C.T. Alternia Set](https://ceterai.github.io/MyEnternia/Wiki/C.T.AlterniaSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" height="16px" width="auto" /> [C.T. Alternia Set](https://ceterai.github.io/MyEnternia/Wiki/C.T.AlterniaSet)
 
 ## Technical Information
 

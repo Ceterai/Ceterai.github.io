@@ -1,6 +1,6 @@
 # Thermo Thrusters ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Thermo Thrusters ★ icon" loading="lazy" height=16px width="auto" /> **Thermo Thrusters ★** is an uncommon fiery epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Thermo Thrusters ★ icon" loading="lazy" height="16px" width="auto" /> **Thermo Thrusters ★** is an uncommon fiery epp item.
 
 These camo-painted backthrusters blend in perfectly with koywa fields! Almost perfectly. Often used by riverside scouts.  
 The design is meant to protect the wearer with heat bursts and bost their movement at the same time.
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" height=16px width="auto" /> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" height="16px" width="auto" /> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
 
 ## Sources
 

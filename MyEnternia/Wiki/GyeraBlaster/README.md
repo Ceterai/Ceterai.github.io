@@ -1,6 +1,6 @@
 # Gyera Blaster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" height=16px width="auto" /> **Gyera Blaster** is a legendary one-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" height="16px" width="auto" /> **Gyera Blaster** is a legendary one-handed tool.
 
 This energy tool can spread different omni grass seeds to fill any room with green covers!
 
@@ -14,17 +14,17 @@ Radiomessages on pickup:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height=16px width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height="16px" width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought in shops:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" height=16px width="auto" /> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" height="16px" width="auto" /> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
 
 Can be bought from merchants:
 
@@ -32,8 +32,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height=16px width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height="16px" width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
 
 ## Technical Information
 

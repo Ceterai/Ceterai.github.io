@@ -4,8 +4,8 @@ An energy shield that will expire once broken or overtime.
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_combat_shielder.png" alt="Combat Shielder ★ icon" loading="lazy" height=16px width="auto" /> [Combat Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/CombatShielder)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_energy_shielder.png" alt="Energy Shielder ★ icon" loading="lazy" height=16px width="auto" /> [Energy Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyShielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_combat_shielder.png" alt="Combat Shielder ★ icon" loading="lazy" height="16px" width="auto" /> [Combat Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/CombatShielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_energy_shielder.png" alt="Energy Shielder ★ icon" loading="lazy" height="16px" width="auto" /> [Energy Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyShielder)
 
 ## Parameters
 

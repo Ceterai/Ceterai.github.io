@@ -1,6 +1,6 @@
 # Alta Cake Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height=16px width="auto" /> **Alta Cake Serving** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Cake Serving** is a legendary decorative object.
 
 A simple serving of an alta cake. Can be picked up right away to take a closer look.
 

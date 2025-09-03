@@ -1,6 +1,6 @@
 # Yaara Snaky Roots
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="Yaara Snaky Roots icon" loading="lazy" height=16px width="auto" /> **Yaara Snaky Roots** is an uncommon electric trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="Yaara Snaky Roots icon" loading="lazy" height="16px" width="auto" /> **Yaara Snaky Roots** is an uncommon electric trap.
 
 Entangled pile of roots that look like some twisted snake. Except with spikes and electricity.  
 Those crystals grow naturally from the root endings, although this process is a result of heavy alternia influence on the plant, as well as overall external electric aspect of it.
@@ -30,8 +30,8 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height=16px width="auto" /> [Elin Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElinPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Elin Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElinPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be bought from merchants:
 
@@ -39,8 +39,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Elin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ElinLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Elin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ElinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 ## Technical Information
 

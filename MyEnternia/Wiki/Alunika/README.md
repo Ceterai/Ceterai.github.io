@@ -1,6 +1,6 @@
 # Alunika
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" height=16px width="auto" /> **Alunika** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" height="16px" width="auto" /> **Alunika** is a common dish.
 
 This crimson calin fruit is a true giant among alta fruits. While not as juicy, it's very sweet and soft.  
 Alunika is considered a biocrystal by altas. This means, that, despite organic materials, its cells have crystallic structure.

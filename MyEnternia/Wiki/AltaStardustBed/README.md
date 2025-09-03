@@ -1,6 +1,6 @@
 # Alta Stardust Bed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" height=16px width="auto" /> **Alta Stardust Bed** is a common piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" height="16px" width="auto" /> **Alta Stardust Bed** is a common piece of furniture.
 
 A beautiful crystal bed. Like a flower bed, but spiky.
 

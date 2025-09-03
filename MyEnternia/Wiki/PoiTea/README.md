@@ -1,6 +1,6 @@
 # Poi Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Poi Tea icon" loading="lazy" height=16px width="auto" /> **Poi Tea** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Poi Tea icon" loading="lazy" height="16px" width="auto" /> **Poi Tea** is an uncommon dish.
 
 Very thick and fulfilling tea, almost like a well-made kissel.  
 No slimes were hurt in the process of making this tea, I swear.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height=16px width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
 
 ## Technical Information
 

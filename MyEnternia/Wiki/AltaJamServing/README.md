@@ -1,6 +1,6 @@
 # Alta Jam Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height=16px width="auto" /> **Alta Jam Serving** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Jam Serving** is an uncommon decorative object.
 
 A simple serving of an alta jam. Can be picked up right away to take a closer look.
 

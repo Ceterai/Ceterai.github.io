@@ -1,8 +1,8 @@
 # Alta's Recommendation Letter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" height=16px width="auto" /> **Alta's Recommendation Letter** is a common codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" height="16px" width="auto" /> **Alta's Recommendation Letter** is a common codex entry.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height=16px width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) containing a job application response.  
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height="16px" width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) containing a job application response.  
 A datamass containing a job application response from the Alliana Citadel. It's a recommendation letter for Tifa, who applied for a job in the Elin Gardens in her city. The letter is signed by Aria S., the Corfal Coordinator.
 
 ## Ingame
@@ -20,18 +20,18 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" height=16px width="auto" /> [Alta's Recommendation Letter](https://ceterai.github.io/MyEnternia/Wiki/Alta'sRecommendationLetter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" height="16px" width="auto" /> [Alta's Recommendation Letter](https://ceterai.github.io/MyEnternia/Wiki/Alta'sRecommendationLetter)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" height=16px width="auto" /> [Alta's Recommendation Letter](https://ceterai.github.io/MyEnternia/Wiki/Alta'sRecommendationLetter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" height="16px" width="auto" /> [Alta's Recommendation Letter](https://ceterai.github.io/MyEnternia/Wiki/Alta'sRecommendationLetter)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height=16px width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
-- `outpostshippingcontainer`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" height="12px" width="30px" /> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 Can be bought from merchants:
 
@@ -55,12 +55,12 @@ Can be bought from merchants:
 
 <details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
 
 </details>
 

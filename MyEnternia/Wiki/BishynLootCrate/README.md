@@ -1,8 +1,8 @@
 # Bishyn Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height=16px width="auto" /> **Bishyn Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Bishyn Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> [bishyn chests](https://ceterai.github.io/MyEnternia/Wiki/BishynChest).  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height="16px" width="auto" /> [bishyn chests](https://ceterai.github.io/MyEnternia/Wiki/BishynChest).  
 Lots of shiny green crystals are waiting on the inside, crammed together. Be careful not to cut yourself!
 
 ## Ingame
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height="16px" width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
 
 Can be bought from merchants:
 
@@ -27,7 +27,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
 
 ## Technical Information
 

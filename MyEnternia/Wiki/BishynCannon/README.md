@@ -1,10 +1,10 @@
 # Bishyn Cannon ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun_2.png" alt="Bishyn Cannon ★ icon" loading="lazy" height=16px width="auto" /> **Bishyn Cannon ★** is a legendary two-handed shotgun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun_2.png" alt="Bishyn Cannon ★ icon" loading="lazy" height="16px" width="auto" /> **Bishyn Cannon ★** is a legendary two-handed shotgun.
 
-This massive blaster now shoots [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) crystals encrusted with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
+This massive blaster now shoots [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) crystals encrusted with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png" alt="Bishyn Gun icon" loading="lazy" height=16px width="auto" /> [Bishyn Gun](https://ceterai.github.io/MyEnternia/Wiki/BishynGun).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png" alt="Bishyn Gun icon" loading="lazy" height="16px" width="auto" /> [Bishyn Gun](https://ceterai.github.io/MyEnternia/Wiki/BishynGun).
 
 ## Ingame
 

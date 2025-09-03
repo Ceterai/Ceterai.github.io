@@ -1,6 +1,6 @@
 # Alta Logic - AND
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/and.png:default.1" alt="Alta Logic - AND icon" loading="lazy" height=16px width="auto" /> **Alta Logic - AND** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/and.png:default.1" alt="Alta Logic - AND icon" loading="lazy" height="16px" width="auto" /> **Alta Logic - AND** is an uncommon wiring component.
 
 An /'AND'/ switch. Requires all inputs to be /'on'/ to work.
 
@@ -22,7 +22,6 @@ Given as rent by tenants:
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [Alta Lab Android](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAndroid)
-- [C.T. Android](https://ceterai.github.io/MyEnternia/Wiki/C.T.Android)
 
 ## Technical Information
 

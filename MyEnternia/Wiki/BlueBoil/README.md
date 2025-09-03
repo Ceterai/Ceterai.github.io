@@ -1,6 +1,6 @@
 # Blue Boil
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Blue Boil icon" loading="lazy" height=16px width="auto" /> **Blue Boil** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Blue Boil icon" loading="lazy" height="16px" width="auto" /> **Blue Boil** is an uncommon dish.
 
 A bowl of thick dense boiled ayas. Often prepared this way in [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) hospitals for patients. Very yummy!  
 The denseness of the fruits in this dish is also good for making a boiled fruit salad afterwards, if anything is left.
@@ -14,13 +14,13 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 24
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Crafting
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" height=16px width="auto" /> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" height="16px" width="auto" /> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
 
 ## Sources
 
@@ -30,7 +30,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height=16px width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
 
 ## Technical Information
 

@@ -1,11 +1,11 @@
 # EDS Shield
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="EDS Shield icon" loading="lazy" height=16px width="auto" /> **EDS Shield** is a rare shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="EDS Shield icon" loading="lazy" height="16px" width="auto" /> **EDS Shield** is a rare shield.
 
 A hand-held bastion that will protect you against all unknown threats awaiting in the dark.  
 It's sliding plates allow it to stay relatively combat when unused, while expanding in area when necessary.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="EDS Protector ★ icon" loading="lazy" height=16px width="auto" /> [EDS Protector ★](https://ceterai.github.io/MyEnternia/Wiki/EDSProtector) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="EDS Protector ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Protector ★](https://ceterai.github.io/MyEnternia/Wiki/EDSProtector) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -25,19 +25,19 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 - Min time: 0.2s
 - Cooldown: 0.85s
 - Knockback: 10  
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_protection_module.png" alt="EDS Protection Module icon" loading="lazy" height=16px width="auto" /> [EDS Protection Module](https://ceterai.github.io/MyEnternia/Wiki/EDSProtectionModule)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_protection_module.png" alt="EDS Protection Module icon" loading="lazy" height="16px" width="auto" /> [EDS Protection Module](https://ceterai.github.io/MyEnternia/Wiki/EDSProtectionModule)
 
 ## Crafting
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="EDS Shield icon" loading="lazy" height=16px width="auto" /> [EDS Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSShield)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="EDS Shield icon" loading="lazy" height="16px" width="auto" /> [EDS Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSShield)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be bought from merchants:
 
@@ -46,8 +46,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

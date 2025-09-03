@@ -1,6 +1,6 @@
 # Turanta Eco Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/pod/icon.png" alt="Turanta Eco Pod icon" loading="lazy" height=16px width="auto" /> **Turanta Eco Pod** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/pod/icon.png" alt="Turanta Eco Pod icon" loading="lazy" height="16px" width="auto" /> **Turanta Eco Pod** is a legendary plantable item.
 
 Contains a modified giant petal sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" height=16px width="auto" /> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" height="16px" width="auto" /> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
 
 ## Technical Information
 

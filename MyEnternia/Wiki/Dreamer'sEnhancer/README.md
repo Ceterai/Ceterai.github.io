@@ -1,6 +1,6 @@
 # Dreamer's Enhancer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Dreamer's Enhancer icon" loading="lazy" height=16px width="auto" /> **Dreamer's Enhancer** is a legendary epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Dreamer's Enhancer icon" loading="lazy" height="16px" width="auto" /> **Dreamer's Enhancer** is a legendary epp item.
 
 A worn device that enhances a dreamer's abilities. Has an augment slot.
 
@@ -12,7 +12,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" height=16px width="auto" /> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" height="16px" width="auto" /> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
 
 ## Sources
 
@@ -23,7 +23,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" height=16px width="auto" /> [Dreamer Set](https://ceterai.github.io/MyEnternia/Wiki/DreamerSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" height="16px" width="auto" /> [Dreamer Set](https://ceterai.github.io/MyEnternia/Wiki/DreamerSet)
 
 ## Technical Information
 

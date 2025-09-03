@@ -1,6 +1,6 @@
 # Potted Ezmeralda
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/ezmeralda/icon.png" alt="Potted Ezmeralda icon" loading="lazy" height=16px width="auto" /> **Potted Ezmeralda** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/ezmeralda/icon.png" alt="Potted Ezmeralda icon" loading="lazy" height="16px" width="auto" /> **Potted Ezmeralda** is a legendary decorative object.
 
 A seemingly unsuspecting flower in a bion pot.
 
@@ -14,8 +14,8 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height=16px width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height=16px width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 ## Sources
 

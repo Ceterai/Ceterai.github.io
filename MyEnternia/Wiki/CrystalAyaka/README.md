@@ -1,6 +1,6 @@
 # Crystal Ayaka
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height=16px width="auto" /> **Crystal Ayaka** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height="16px" width="auto" /> **Crystal Ayaka** is an uncommon tree sapling.
 
 This [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) has overgrown with [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal). This can usually happen in crystallic or crystal-rich environments.
 
@@ -29,12 +29,12 @@ This [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) has overg
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_prime_tree.png" alt="Ayaka Prime icon" loading="lazy" height=16px width="auto" /> [Ayaka Prime](https://ceterai.github.io/MyEnternia/Wiki/AyakaPrime)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_prime_tree.png" alt="Ayaka Prime icon" loading="lazy" height="16px" width="auto" /> [Ayaka Prime](https://ceterai.github.io/MyEnternia/Wiki/AyakaPrime)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" height=16px width="auto" /> [Ayaka Giant](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" height=16px width="auto" /> [Eva Ayaka](https://ceterai.github.io/MyEnternia/Wiki/EvaAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" height="16px" width="auto" /> [Ayaka Giant](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" height="16px" width="auto" /> [Eva Ayaka](https://ceterai.github.io/MyEnternia/Wiki/EvaAyaka)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Alta Workshop
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/workshop/icon1.png" alt="Alta Workshop icon" loading="lazy" height=16px width="auto" /> **Alta Workshop** is a common crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/workshop/icon1.png" alt="Alta Workshop icon" loading="lazy" height="16px" width="auto" /> **Alta Workshop** is a common crafting station.
 
 Used for producing other alta workshop technology.  
 While it acts a simple design bench, there are helping sections that are used to easilty build a project.

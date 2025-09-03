@@ -1,6 +1,6 @@
 # Alta Security Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" height=16px width="auto" /> **Alta Security Pod** is an uncommon storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" height="16px" width="auto" /> **Alta Security Pod** is an uncommon storage unit.
 
 An armored titanium pod that can be used as a chest.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.
@@ -29,10 +29,10 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arknight/pod/icon.png" alt="Arknight Pod ★ icon" loading="lazy" height=16px width="auto" /> [Arknight Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ArknightPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/combat/pod/icon.png" alt="Combat Pod ★ icon" loading="lazy" height=16px width="auto" /> [Combat Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CombatPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height=16px width="auto" /> [Elin Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElinPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elite/pod/icon.png" alt="Elite Pod ★ icon" loading="lazy" height=16px width="auto" /> [Elite Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElitePod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arknight/pod/icon.png" alt="Arknight Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Arknight Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ArknightPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/combat/pod/icon.png" alt="Combat Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Combat Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CombatPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Elin Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElinPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elite/pod/icon.png" alt="Elite Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Elite Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElitePod)
 
 ## Technical Information
 

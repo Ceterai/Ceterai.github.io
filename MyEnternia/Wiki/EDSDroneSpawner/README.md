@@ -1,8 +1,8 @@
 # EDS Drone Spawner
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/drone_spawner/icon.png" alt="EDS Drone Spawner icon" loading="lazy" height=16px width="auto" /> **EDS Drone Spawner** is a legendary breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/drone_spawner/icon.png" alt="EDS Drone Spawner icon" loading="lazy" height="16px" width="auto" /> **EDS Drone Spawner** is a legendary breakable object.
 
-A reinforced device integrated into the walls, able to dispence <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/eds.png" alt="EDS Drone ★ icon" loading="lazy" height=16px width="auto" /> [EDS drones](https://ceterai.github.io/MyEnternia/Wiki/EDSDrone).  
+A reinforced device integrated into the walls, able to dispence <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/eds.png" alt="EDS Drone ★ icon" loading="lazy" height="16px" width="auto" /> [EDS drones](https://ceterai.github.io/MyEnternia/Wiki/EDSDrone).  
 This special drone dispatcher is merely a surface interface, connected to a drone traveling system, which is how they reach the exit.
 
 ## Ingame

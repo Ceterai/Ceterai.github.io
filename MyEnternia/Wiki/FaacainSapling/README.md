@@ -1,6 +1,6 @@
 # Faacain Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" height=16px width="auto" /> **Faacain Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" height="16px" width="auto" /> **Faacain Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height=16px width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height="16px" width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height=16px width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Faacain Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoFaacainSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height="16px" width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Faacain Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoFaacainSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/boosted/icon.png" alt="Boosted Faacain Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Faacain Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedFaacainSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Faacain Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoFaacainSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/boosted/icon.png" alt="Boosted Faacain Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Faacain Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedFaacainSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Faacain Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoFaacainSapling)
 
 ## Sources
 

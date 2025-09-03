@@ -1,6 +1,6 @@
 # Enviro Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Enviro Drone icon" loading="lazy" height=16px width="auto" /> **Enviro Drone** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Enviro Drone icon" loading="lazy" height="16px" width="auto" /> **Enviro Drone** is a rare throwable item.
 
 An observer drone, used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scouts to scan the area.  
 While it doesn't possess any actual combative power, it's still very useful and will do anything to defend its ally.

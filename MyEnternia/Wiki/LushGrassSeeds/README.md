@@ -1,6 +1,6 @@
 # Lush Grass Seeds
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_lush_grass_seeds.png" alt="Lush Grass Seeds icon" loading="lazy" height=16px width="auto" /> **Lush Grass Seeds** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_lush_grass_seeds.png" alt="Lush Grass Seeds icon" loading="lazy" height="16px" width="auto" /> **Lush Grass Seeds** is a common throwable item.
 
 Toss these on some damp tilled soil to grow jungle-like grass!
 
@@ -8,21 +8,21 @@ Toss these on some damp tilled soil to grow jungle-like grass!
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Guide ★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Guide ★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_lush_grass_seeds.png" alt="Omni Lush Seeds ★★ icon" loading="lazy" height=16px width="auto" /> [Omni Lush Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniLushSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_lush_grass_seeds.png" alt="Omni Lush Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> [Omni Lush Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniLushSeeds)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought in shops:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height=16px width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
 
 Can be bought from merchants:
 
@@ -31,8 +31,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height=16px width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
 
 ## Technical Information
 

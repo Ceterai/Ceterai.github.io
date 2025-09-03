@@ -1,6 +1,6 @@
 # Wild Yaara Eye Sprout
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" height=16px width="auto" /> **Wild Yaara Eye Sprout** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> **Wild Yaara Eye Sprout** is a common plantable item.
 
 It will grow into a spring with juicy yaara eyes, also known as yaavis.
 
@@ -18,11 +18,11 @@ Radiomessages on pickup:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height=16px width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height=16px width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
 
 ## Sources
 

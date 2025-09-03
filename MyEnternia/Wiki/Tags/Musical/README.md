@@ -6,8 +6,8 @@ The tag `musical` contains 3 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" height=16px width="auto" /> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/clubdecks/icon.png" alt="Calin Club Decks icon" loading="lazy" height=16px width="auto" /> [Calin Club Decks](https://ceterai.github.io/MyEnternia/Wiki/CalinClubDecks)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" height="16px" width="auto" /> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/clubdecks/icon.png" alt="Calin Club Decks icon" loading="lazy" height="16px" width="auto" /> [Calin Club Decks](https://ceterai.github.io/MyEnternia/Wiki/CalinClubDecks)
 
 ## Tenants
 

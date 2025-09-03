@@ -1,11 +1,11 @@
 # Protea's Spear ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" height=16px width="auto" /> **Protea's Spear ★** is a legendary two-handed electric spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" height="16px" width="auto" /> **Protea's Spear ★** is a legendary two-handed electric spear.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic belongs to Protea. Seems like it's yours now. Enjoy!  
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic belongs to Protea. Seems like it's yours now. Enjoy!  
 And don't forget to say thank you, because this tool was very important to her.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height=16px width="auto" /> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height="16px" width="auto" /> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear).
 
 ## Ingame
 

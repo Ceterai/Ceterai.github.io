@@ -1,6 +1,6 @@
 # Cotton Eco Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/pod/icon.png" alt="Cotton Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> **Cotton Eco Pod ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/pod/icon.png" alt="Cotton Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Cotton Eco Pod ★★** is a legendary plantable item.
 
 Contains a modified cotton fibre sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" height=12px width=5.875px /> [Cotton Seed](https://starbounder.org/Cotton_Seed)
+- <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" height="12px" width="5.875px" /> [Cotton Seed](https://starbounder.org/Cotton_Seed)
 
 ## Technical Information
 

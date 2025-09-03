@@ -1,6 +1,6 @@
 # Eco Verriskoywa Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Verriskoywa Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Verriskoywa Sapling** is a rare plantable item.
 
 This koywa sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,16 +14,16 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/sapling/icon.png" alt="Verriskoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/sapling/icon.png" alt="Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVerriskoywaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Vodakoywa Seed icon" loading="lazy" height=16px width="auto" /> [Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVerriskoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Vodakoywa Seed icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/pod/icon.png" alt="Verriskoywa Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/pod/icon.png" alt="Verriskoywa Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaEcoPod)
 
 ## Technical Information
 

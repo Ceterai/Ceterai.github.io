@@ -1,6 +1,6 @@
 # Security Captain Set ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_captain.png" alt="Security Captain Set ★ icon" loading="lazy" height=16px width="auto" /> **Security Captain Set ★** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_captain.png" alt="Security Captain Set ★ icon" loading="lazy" height="16px" width="auto" /> **Security Captain Set ★** is an uncommon loot item.
 
 Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security captain, including a lore codex of this set.
 Is cheaper to craft this way than separately.

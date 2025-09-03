@@ -1,6 +1,6 @@
 # Alta Cafe Umbrella
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/umbrella/icon.png" alt="Alta Cafe Umbrella icon" loading="lazy" height=16px width="auto" /> **Alta Cafe Umbrella** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/umbrella/icon.png" alt="Alta Cafe Umbrella icon" loading="lazy" height="16px" width="auto" /> **Alta Cafe Umbrella** is a common decorative object.
 
 A big umbrella meant for beaches and cafes.  
 You can usually find it placed in the middle of a cafe table to provide cover for the food and people sitting at it.

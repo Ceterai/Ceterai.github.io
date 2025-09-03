@@ -1,11 +1,11 @@
 # Cave Keeper ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Cave Keeper ★ icon" loading="lazy" height=16px width="auto" /> **Cave Keeper ★** is a legendary shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Cave Keeper ★ icon" loading="lazy" height="16px" width="auto" /> **Cave Keeper ★** is a legendary shield.
 
 This shield shines deemly in the dark. You can barely make out a wisper - "Stars care for you, little one..."  
 Each time you put your grip on the shield, just for a second, you feel someone's presence right behind you. Not in a scary way - you feel pleasant, safe warmth around your shoulders and neck.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" height=16px width="auto" /> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" height="16px" width="auto" /> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield).
 
 ## Ingame
 
@@ -23,7 +23,7 @@ Radiomessages on pickup:
 - Min time: 0.2s
 - Cooldown: 0.65s
 - Knockback: 10  
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height=16px width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height="16px" width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
 
 ## Technical Information
 

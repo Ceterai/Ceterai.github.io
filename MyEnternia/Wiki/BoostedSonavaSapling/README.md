@@ -1,6 +1,6 @@
 # Boosted Sonava Sapling ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/boosted/icon.png" alt="Boosted Sonava Sapling ★★ icon" loading="lazy" height=16px width="auto" /> **Boosted Sonava Sapling ★★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/boosted/icon.png" alt="Boosted Sonava Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> **Boosted Sonava Sapling ★★** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/pod/icon.png" alt="Sonava Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Sonava Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/SonavaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/pod/icon.png" alt="Sonava Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Sonava Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/SonavaEcoPod)
 
 ## Technical Information
 

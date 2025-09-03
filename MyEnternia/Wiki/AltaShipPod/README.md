@@ -1,6 +1,6 @@
 # Alta Ship Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height=16px width="auto" /> **Alta Ship Pod** is a legendary storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Pod** is a legendary storage unit.
 
 A reinforced advanced pod with isolated airtight space that can be used for storage.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.

@@ -1,11 +1,11 @@
 # Ultimate Tool ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" height=16px width="auto" /> **Ultimate Tool ★** is a legendary one-handed shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" height="16px" width="auto" /> **Ultimate Tool ★** is a legendary one-handed shortsword.
 
-A perfect multi-tool enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Now we're talking!  
+A perfect multi-tool enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Now we're talking!  
 This seemingly already useful thing just got more useful somehow. And still, only a few of altas could find or create such a thing due to it not being able to be manufactured.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" height=16px width="auto" /> [Multi-Tool](https://ceterai.github.io/MyEnternia/Wiki/Multi-Tool).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" height="16px" width="auto" /> [Multi-Tool](https://ceterai.github.io/MyEnternia/Wiki/Multi-Tool).
 
 ## Ingame
 

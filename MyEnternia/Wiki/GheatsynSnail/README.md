@@ -1,6 +1,6 @@
 # Gheatsyn Snail
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/gheatsyn_snail/icon.png" alt="Gheatsyn Snail icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Snail** is a rare bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/gheatsyn_snail/icon.png" alt="Gheatsyn Snail icon" loading="lazy" height="16px" width="auto" /> **Gheatsyn Snail** is a rare bug.
 
 An attached note reads, "If its shell will melt at any point, the snail will have to look for a new one."
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_gheatsyn_snail_egg.png" alt="Gheatsyn Snail Egg icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Snail Egg](https://ceterai.github.io/MyEnternia/Wiki/GheatsynSnailEgg)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_gheatsyn_snail_egg.png" alt="Gheatsyn Snail Egg icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Snail Egg](https://ceterai.github.io/MyEnternia/Wiki/GheatsynSnailEgg)
 
 ## Sources
 

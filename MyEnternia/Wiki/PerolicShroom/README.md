@@ -1,6 +1,6 @@
 # Perolic Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_perolic_glow.png" alt="Perolic Shroom icon" loading="lazy" height=16px width="auto" /> **Perolic Shroom** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_perolic_glow.png" alt="Perolic Shroom icon" loading="lazy" height="16px" width="auto" /> **Perolic Shroom** is an uncommon tree sapling.
 
 This [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) shroom has a bunch of weird spikes on its cap.
 
@@ -29,11 +29,11 @@ This [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) shroom has a bu
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height="12px" width="12px" /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height=16px width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 
 ## Technical Information
 

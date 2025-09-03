@@ -1,6 +1,6 @@
 # Alta Vent
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/vent/icon.png" alt="Alta Vent icon" loading="lazy" height=16px width="auto" /> **Alta Vent** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/vent/icon.png" alt="Alta Vent icon" loading="lazy" height="16px" width="auto" /> **Alta Vent** is an uncommon wiring component.
 
 This multi-use vent can also be used to drain liquids!  
 Do tue the variety of its uses, you can often find it in all sorts of places, even on the ground.

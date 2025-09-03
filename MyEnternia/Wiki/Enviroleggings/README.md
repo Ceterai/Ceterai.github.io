@@ -1,6 +1,6 @@
 # Enviroleggings
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Enviroleggings icon" loading="lazy" height=16px width="auto" /> **Enviroleggings** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Enviroleggings icon" loading="lazy" height="16px" width="auto" /> **Enviroleggings** is a rare leg item.
 
 A great balance between armor and hazard protection.  
 These leggings include multiple layers of high quality materials to ensure heat retention, electric isolation and poison blocks.
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" height=16px width="auto" /> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" height="16px" width="auto" /> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
 
 ## Sources
 
@@ -25,7 +25,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="Enviro Set icon" loading="lazy" height=16px width="auto" /> [Enviro Set](https://ceterai.github.io/MyEnternia/Wiki/EnviroSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="Enviro Set icon" loading="lazy" height="16px" width="auto" /> [Enviro Set](https://ceterai.github.io/MyEnternia/Wiki/EnviroSet)
 
 ## Technical Information
 

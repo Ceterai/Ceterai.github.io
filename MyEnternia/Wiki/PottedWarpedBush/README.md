@@ -1,6 +1,6 @@
 # Potted Warped Bush
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" height=16px width="auto" /> **Potted Warped Bush** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" height="16px" width="auto" /> **Potted Warped Bush** is a rare decorative object.
 
 A seemingly unsuspecting bush in a composite pot.
 
@@ -14,8 +14,8 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" height=16px width="auto" /> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_warped_tree.png" alt="Warped Tree ★ icon" loading="lazy" height=16px width="auto" /> [Warped Tree ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedTree)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" height="16px" width="auto" /> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_warped_tree.png" alt="Warped Tree ★ icon" loading="lazy" height="16px" width="auto" /> [Warped Tree ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedTree)
 
 ## Technical Information
 

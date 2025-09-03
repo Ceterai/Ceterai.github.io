@@ -1,11 +1,11 @@
 # Bi-Blade ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" height=16px width="auto" /> **Bi-Blade ★** is a legendary two-handed electric broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" height="16px" width="auto" /> **Bi-Blade ★** is a legendary two-handed electric broadsword.
 
 A weapon that combines different energies into one, long, powerful paired blade.  
 You can feel slight pressure if you put your hand between the blades. If you move it slowly, you will feel how gravity is wavering from side to side, sliding from end to end, as if some kind of uneven surface.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" height=16px width="auto" /> [Vionos Twins](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" height="16px" width="auto" /> [Vionos Twins](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins).
 
 ## Ingame
 

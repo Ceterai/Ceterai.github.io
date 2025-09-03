@@ -1,6 +1,6 @@
 # Tonna Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/sapling/icon.png" alt="Tonna Sapling icon" loading="lazy" height=16px width="auto" /> **Tonna Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/sapling/icon.png" alt="Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> **Tonna Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages. Requires to be at least 50% in a liquid.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" height=16px width="auto" /> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" height="16px" width="auto" /> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" height=16px width="auto" /> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" height="16px" width="auto" /> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/boosted/icon.png" alt="Boosted Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTonnaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/boosted/icon.png" alt="Boosted Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTonnaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)
 
 ## Technical Information
 

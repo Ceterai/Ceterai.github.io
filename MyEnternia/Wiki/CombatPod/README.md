@@ -1,6 +1,6 @@
 # Combat Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/combat/pod/icon.png" alt="Combat Pod ★ icon" loading="lazy" height=16px width="auto" /> **Combat Pod ★** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/combat/pod/icon.png" alt="Combat Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Combat Pod ★** is a rare storage unit.
 
 A reinforced bion pod with isolated airtight space that can be used for storage.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.

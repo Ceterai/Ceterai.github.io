@@ -1,6 +1,6 @@
 # Gheatsyn Chest
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Chest** is an uncommon storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height="16px" width="auto" /> **Gheatsyn Chest** is an uncommon storage unit.
 
 A simple dark [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) chest.
 
@@ -28,11 +28,11 @@ A simple dark [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
 
 ## Technical Information
 

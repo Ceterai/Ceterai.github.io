@@ -1,6 +1,6 @@
 # Narfin Plushie
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_astral_narfin_plush.png" alt="Narfin Plushie icon" loading="lazy" height=16px width="auto" /> **Narfin Plushie** is a rare toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_astral_narfin_plush.png" alt="Narfin Plushie icon" loading="lazy" height="16px" width="auto" /> **Narfin Plushie** is a rare toy.
 
 A cute narfin plush toy for your plush toy collection.
 

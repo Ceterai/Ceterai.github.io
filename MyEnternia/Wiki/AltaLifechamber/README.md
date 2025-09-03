@@ -1,6 +1,6 @@
 # Alta Lifechamber
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" height=16px width="auto" /> **Alta Lifechamber** is a rare piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" height="16px" width="auto" /> **Alta Lifechamber** is a rare piece of furniture.
 
 A healing station made by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta). Provides additional positive effects.
 

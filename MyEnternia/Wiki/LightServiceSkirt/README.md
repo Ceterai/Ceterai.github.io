@@ -1,6 +1,6 @@
 # Light Service Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_skirt/icon.png" alt="Light Service Skirt icon" loading="lazy" height=16px width="auto" /> **Light Service Skirt** is a common leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_skirt/icon.png" alt="Light Service Skirt icon" loading="lazy" height="16px" width="auto" /> **Light Service Skirt** is a common leg item.
 
 A bottom issue for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) servicers who prefer skirts over trousers.
 

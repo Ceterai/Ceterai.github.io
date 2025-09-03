@@ -1,6 +1,6 @@
 # Fertile Gil Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/fertile/icon.png" alt="Fertile Gil Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Fertile Gil Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/fertile/icon.png" alt="Fertile Gil Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Fertile Gil Sapling ★** is an uncommon plantable item.
 
 This sapling will grow bigger, healthier gils.
 
@@ -23,11 +23,11 @@ This sapling will grow bigger, healthier gils.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/eco/icon.png" alt="Eco Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/eco/icon.png" alt="Eco Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGilSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/boosted/icon.png" alt="Boosted Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/boosted/icon.png" alt="Boosted Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGilSapling)
 
 ## Technical Information
 

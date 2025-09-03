@@ -1,6 +1,6 @@
 # Alternia Geode Sample
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alternia Geode Sample icon" loading="lazy" height=16px width="auto" /> **Alternia Geode Sample** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alternia Geode Sample icon" loading="lazy" height="16px" width="auto" /> **Alternia Geode Sample** is a rare decorative object.
 
 A pretty, blue geode. The crystals contained in this specimen are saturated with alternia.  
 Alternia crystals don't form in geodes, so this is mostly an artistic installation.

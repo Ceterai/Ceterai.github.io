@@ -1,8 +1,8 @@
 # Hevika Chest
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height=16px width="auto" /> **Hevika Chest** is an uncommon storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> **Hevika Chest** is an uncommon storage unit.
 
-A seemingly upside-down container powered by the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" height=16px width="auto" /> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal) attached to it.
+A seemingly upside-down container powered by the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" height="16px" width="auto" /> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal) attached to it.
 
 ## Ingame
 
@@ -28,11 +28,11 @@ A seemingly upside-down container powered by the <img src="https://raw.githubuse
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height=16px width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height=16px width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
 
 ## Technical Information
 

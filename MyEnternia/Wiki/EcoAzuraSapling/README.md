@@ -1,6 +1,6 @@
 # Eco Azura Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/eco/icon.png" alt="Eco Azura Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Eco Azura Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/eco/icon.png" alt="Eco Azura Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Eco Azura Sapling ★** is an uncommon plantable item.
 
 This striped wood sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/sapling/icon.png" alt="Azura Sapling icon" loading="lazy" height=16px width="auto" /> [Azura Sapling](https://ceterai.github.io/MyEnternia/Wiki/AzuraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/sapling/icon.png" alt="Azura Sapling icon" loading="lazy" height="16px" width="auto" /> [Azura Sapling](https://ceterai.github.io/MyEnternia/Wiki/AzuraSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/boosted/icon.png" alt="Boosted Azura Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Azura Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedAzuraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" height=16px width="auto" /> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height=16px width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/boosted/icon.png" alt="Boosted Azura Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Azura Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedAzuraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" height="16px" width="auto" /> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height="16px" width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
 
 ## Technical Information
 

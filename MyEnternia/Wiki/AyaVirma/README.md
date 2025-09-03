@@ -1,10 +1,10 @@
 # Aya Virma
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" height=16px width="auto" /> **Aya Virma** is an uncommon one-handed poisonous unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" height="16px" width="auto" /> **Aya Virma** is an uncommon one-handed poisonous unique weapon.
 
 A live poisonous ivy that can be rarely found in [Ayaka Forests](https://ceterai.github.io/MyEnternia/Wiki/AyakaForests)... Can it understand you?..
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" height=16px width="auto" /> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" height="16px" width="auto" /> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -16,7 +16,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be bought from merchants:
 
@@ -25,8 +25,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

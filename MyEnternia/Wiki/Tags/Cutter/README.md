@@ -10,12 +10,12 @@ The tag `cutter` contains 7 total entries.
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 7 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon.png" alt="Alta Lumber Cutter icon" loading="lazy" height=16px width="auto" /> [Alta Lumber Cutter](https://ceterai.github.io/MyEnternia/Wiki/AltaLumberCutter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon.png" alt="Composite Cutter icon" loading="lazy" height=16px width="auto" /> [Composite Cutter](https://ceterai.github.io/MyEnternia/Wiki/CompositeCutter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon_upg.png" alt="Enternia Cutter ★ icon" loading="lazy" height=16px width="auto" /> [Enternia Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCutter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/erkut/icon.png" alt="Erkut R300 icon" loading="lazy" height=16px width="auto" /> [Erkut R300](https://ceterai.github.io/MyEnternia/Wiki/ErkutR300)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" height=16px width="auto" /> [Ionic Cutter](https://ceterai.github.io/MyEnternia/Wiki/IonicCutter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon_upg.png" alt="Reinforced Cutter ★ icon" loading="lazy" height=16px width="auto" /> [Reinforced Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/ReinforcedCutter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon_upg.png" alt="Ultrafast Cutter ★ icon" loading="lazy" height=16px width="auto" /> [Ultrafast Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/UltrafastCutter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon.png" alt="Alta Lumber Cutter icon" loading="lazy" height="16px" width="auto" /> [Alta Lumber Cutter](https://ceterai.github.io/MyEnternia/Wiki/AltaLumberCutter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon.png" alt="Composite Cutter icon" loading="lazy" height="16px" width="auto" /> [Composite Cutter](https://ceterai.github.io/MyEnternia/Wiki/CompositeCutter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon_upg.png" alt="Enternia Cutter ★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCutter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/erkut/icon.png" alt="Erkut R300 icon" loading="lazy" height="16px" width="auto" /> [Erkut R300](https://ceterai.github.io/MyEnternia/Wiki/ErkutR300)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" height="16px" width="auto" /> [Ionic Cutter](https://ceterai.github.io/MyEnternia/Wiki/IonicCutter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon_upg.png" alt="Reinforced Cutter ★ icon" loading="lazy" height="16px" width="auto" /> [Reinforced Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/ReinforcedCutter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon_upg.png" alt="Ultrafast Cutter ★ icon" loading="lazy" height="16px" width="auto" /> [Ultrafast Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/UltrafastCutter)
 
 </details>

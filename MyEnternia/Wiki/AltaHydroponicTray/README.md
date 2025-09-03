@@ -1,6 +1,6 @@
 # Alta Hydroponic Tray
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/tray/icon.png" alt="Alta Hydroponic Tray icon" loading="lazy" height=16px width="auto" /> **Alta Hydroponic Tray** is a rare tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/tray/icon.png" alt="Alta Hydroponic Tray icon" loading="lazy" height="16px" width="auto" /> **Alta Hydroponic Tray** is a rare tree sapling.
 
 An empty bion chamber, presumably made for plants.  
 The capabilities are rather limited, yet even still this is a fascinating peace of technology able to keep a growing lifeform alive and well.
@@ -29,11 +29,11 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/lab/icon.png" alt="Alta Lab Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alta Lab Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/lab/icon.png" alt="Alta Lab Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabEcoPod)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height=16px width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
 
 ## Technical Information
 

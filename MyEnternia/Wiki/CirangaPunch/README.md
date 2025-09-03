@@ -1,6 +1,6 @@
 # Ciranga Punch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Ciranga Punch icon" loading="lazy" height=16px width="auto" /> **Ciranga Punch** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Ciranga Punch icon" loading="lazy" height="16px" width="auto" /> **Ciranga Punch** is a rare dish.
 
 Health is important, and so is taste. This punch has both!  
 Some multifruit punches have very distinct taste patterns, and this one gives strong ciranga vibes.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height=16px width="auto" /> [Alta Punch Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPunchServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Punch Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPunchServing)
 
 ## Technical Information
 

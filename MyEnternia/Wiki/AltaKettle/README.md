@@ -1,6 +1,6 @@
 # Alta Kettle
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kettle/icon.png" alt="Alta Kettle icon" loading="lazy" height=16px width="auto" /> **Alta Kettle** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kettle/icon.png" alt="Alta Kettle icon" loading="lazy" height="16px" width="auto" /> **Alta Kettle** is an uncommon crafting station.
 
 An electric alta kettle, meant primarily for boiling and purifying water, as well as making tea.  
 This simple, yet useful kitchen appliance is quite popular among altas.
@@ -24,8 +24,8 @@ This simple, yet useful kitchen appliance is quite popular among altas.
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height=16px width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height=16px width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height="16px" width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height="16px" width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
 
 ## Technical Information
 

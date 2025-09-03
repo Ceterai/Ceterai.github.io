@@ -1,11 +1,11 @@
 # Unona Ayaka
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_unona_tree.png" alt="Unona Ayaka icon" loading="lazy" height=16px width="auto" /> **Unona Ayaka** is a legendary tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_unona_tree.png" alt="Unona Ayaka icon" loading="lazy" height="16px" width="auto" /> **Unona Ayaka** is a legendary tree sapling.
 
 A fruitful _ayaka tree_ with a foliage color unusual for ayakas.  
 In general, ayaka is a family of growth, commonly found in form of [trees](https://ceterai.github.io/MyEnternia/Wiki/trees).
 
-More information on ayakas, their nature and how they're maintained, can be found here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height=16px width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
+More information on ayakas, their nature and how they're maintained, can be found here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height="16px" width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
 
 ## Ingame
 
@@ -32,11 +32,11 @@ More information on ayakas, their nature and how they're maintained, can be foun
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height=16px width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height="16px" width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/icon.png" alt="Wild Aya Tuber icon" loading="lazy" height=16px width="auto" /> [Wild Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/WildAyaTuber)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/icon.png" alt="Wild Aya Tuber icon" loading="lazy" height="16px" width="auto" /> [Wild Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/WildAyaTuber)
 
 ## Technical Information
 

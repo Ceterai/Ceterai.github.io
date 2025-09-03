@@ -1,12 +1,12 @@
 # Dreamer's Plating
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png" alt="Dreamer's Plating icon" loading="lazy" height=16px width="auto" /> **Dreamer's Plating** is a legendary chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png" alt="Dreamer's Plating icon" loading="lazy" height="16px" width="auto" /> **Dreamer's Plating** is a legendary chest item.
 
 Will protect you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) bursts whenever you receive damage.
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_module.png" alt="Life Support Module icon" loading="lazy" height=16px width="auto" /> [Life Support Module](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportModule)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_module.png" alt="Life Support Module icon" loading="lazy" height="16px" width="auto" /> [Life Support Module](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportModule)
 
 ## Sources
 
@@ -17,7 +17,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" height=16px width="auto" /> [Dreamer Set](https://ceterai.github.io/MyEnternia/Wiki/DreamerSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" height="16px" width="auto" /> [Dreamer Set](https://ceterai.github.io/MyEnternia/Wiki/DreamerSet)
 
 ## Technical Information
 

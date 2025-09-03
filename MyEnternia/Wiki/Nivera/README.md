@@ -1,6 +1,6 @@
 # Nivera
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" height=16px width="auto" /> **Nivera** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" height="16px" width="auto" /> **Nivera** is an uncommon tree sapling.
 
 A thorny plant that usually grows inside warped forests, feeding on warped glow fibre and able to resist warping itself.  
 While some of the species are able to bloom with bright pink flowers, rare species of nivera family can even be fruitful, producing berries - the most common variation being archulins.
@@ -30,11 +30,11 @@ While some of the species are able to bloom with bright pink flowers, rare speci
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" height=16px width="auto" /> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" height="16px" width="auto" /> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" height=16px width="auto" /> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" height="16px" width="auto" /> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera)
 
 ## Sources
 

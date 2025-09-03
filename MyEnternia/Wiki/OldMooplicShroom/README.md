@@ -1,8 +1,8 @@
 # Old Mooplic Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_mooplic_shady_old.png" alt="Old Mooplic Shroom icon" loading="lazy" height=16px width="auto" /> **Old Mooplic Shroom** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_mooplic_shady_old.png" alt="Old Mooplic Shroom icon" loading="lazy" height="16px" width="auto" /> **Old Mooplic Shroom** is an uncommon tree sapling.
 
-A very weary <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_mooplic_shady.png" alt="Mooplic Shroom icon" loading="lazy" height=16px width="auto" /> [mooplic shroom](https://ceterai.github.io/MyEnternia/Wiki/MooplicShroom) with a lot of holes in its stipe.
+A very weary <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_mooplic_shady.png" alt="Mooplic Shroom icon" loading="lazy" height="16px" width="auto" /> [mooplic shroom](https://ceterai.github.io/MyEnternia/Wiki/MooplicShroom) with a lot of holes in its stipe.
 
 ## Ingame
 
@@ -29,11 +29,11 @@ A very weary <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/o
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height="12px" width="12px" /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height=16px width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 
 ## Technical Information
 

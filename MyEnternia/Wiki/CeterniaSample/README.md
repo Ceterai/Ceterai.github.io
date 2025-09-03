@@ -1,6 +1,6 @@
 # Ceternia Sample ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" height=16px width="auto" /> **Ceternia Sample ★★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" height="16px" width="auto" /> **Ceternia Sample ★★** is a legendary decorative object.
 
 A perfect sample of some [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia)-saturated matter, preserved on a small titanium pedestal.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/pod/icon.png" alt="Ceternia Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Ceternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/pod/icon.png" alt="Ceternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Ceternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaEcoPod)
 
 ## Sources
 

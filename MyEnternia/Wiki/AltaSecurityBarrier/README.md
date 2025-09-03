@@ -1,6 +1,6 @@
 # Alta Security Barrier
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/barrier/icon.png" alt="Alta Security Barrier icon" loading="lazy" height=16px width="auto" /> **Alta Security Barrier** is an uncommon electric door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/barrier/icon.png" alt="Alta Security Barrier icon" loading="lazy" height="16px" width="auto" /> **Alta Security Barrier** is an uncommon electric door.
 
 An electric barrier used in security contraptions. Can be placed as a door. Deals damage when activated.  
 Consists of two conductors that, when charged with energy, create a highly ionized field between each other. Adding energy to that field creates a powerful wall of electricity.

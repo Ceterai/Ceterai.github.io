@@ -1,6 +1,6 @@
 # Alta Lab Terminal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" height=16px width="auto" /> **Alta Lab Terminal** is a rare wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Terminal** is a rare wiring component.
 
 A holographic terminal on a metal stand.
 

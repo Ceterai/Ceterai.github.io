@@ -1,6 +1,6 @@
 # Combat Mask
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png" alt="Combat Mask icon" loading="lazy" height=16px width="auto" /> **Combat Mask** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png" alt="Combat Mask icon" loading="lazy" height="16px" width="auto" /> **Combat Mask** is a rare head item.
 
 An [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) army helmet-like mask, covering face and profile completely.  
 Designed to provide additional visual context and protect vital parts of the head when facing an enemy.
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height=16px width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height="16px" width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Sources
 
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" height=16px width="auto" /> [Combat Set](https://ceterai.github.io/MyEnternia/Wiki/CombatSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" height="16px" width="auto" /> [Combat Set](https://ceterai.github.io/MyEnternia/Wiki/CombatSet)
 
 ## Technical Information
 

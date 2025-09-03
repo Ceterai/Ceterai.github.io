@@ -1,6 +1,6 @@
 # Silk Brush
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/silk_brush/icon.png" alt="Silk Brush icon" loading="lazy" height=16px width="auto" /> **Silk Brush** is an uncommon tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/silk_brush/icon.png" alt="Silk Brush icon" loading="lazy" height="16px" width="auto" /> **Silk Brush** is an uncommon tool.
 
 Can be used once to excavate a fossil, with moderate success.
 

@@ -1,6 +1,6 @@
 # Potted Yaara Plant
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height=16px width="auto" /> **Potted Yaara Plant** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height="16px" width="auto" /> **Potted Yaara Plant** is a common decorative object.
 
 A decorative plant in a big titanium vase.
 
@@ -8,7 +8,7 @@ A decorative plant in a big titanium vase.
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: Some nice <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_icon.png" alt="Yaara Flower icon" loading="lazy" height=16px width="auto" /> [yaara flowers](https://ceterai.github.io/MyEnternia/Wiki/YaaraFlower) to bring life to any space! The vase is a complicated device that keeps it alive.
+- Alta: Some nice <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_icon.png" alt="Yaara Flower icon" loading="lazy" height="16px" width="auto" /> [yaara flowers](https://ceterai.github.io/MyEnternia/Wiki/YaaraFlower) to bring life to any space! The vase is a complicated device that keeps it alive.
 - Apex: This plant seems to grow from a special alta eco pod. An expected level of care towards nature.
 - Avian: A pretty plant that gets all the things it needs from that big pot!
 - Floran: A plant in lotsss of metal. Very protected.
@@ -27,11 +27,11 @@ A decorative plant in a big titanium vase.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height=16px width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height=16px width="auto" /> [Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode)
 
 ## Technical Information
 

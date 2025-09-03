@@ -1,10 +1,10 @@
 # Estralis Vi
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" height=16px width="auto" /> **Estralis Vi** is a rare one-handed electric unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" height="16px" width="auto" /> **Estralis Vi** is a rare one-handed electric unique weapon.
 
 A unique wrist device lost in the midst of nowhere. How did it get here? Is it... looking at you?
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" height=16px width="auto" /> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" height="16px" width="auto" /> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -21,7 +21,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

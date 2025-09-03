@@ -1,6 +1,6 @@
 # Potted Yaavi
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/yaavi/icon.png" alt="Potted Yaavi icon" loading="lazy" height=16px width="auto" /> **Potted Yaavi** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/yaavi/icon.png" alt="Potted Yaavi icon" loading="lazy" height="16px" width="auto" /> **Potted Yaavi** is a rare decorative object.
 
 A seemingly unsuspecting plant in a small pot.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
 
 ## Sources
 

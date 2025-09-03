@@ -1,6 +1,6 @@
 # Potted Koywa
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" height=16px width="auto" /> **Potted Koywa** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" height="16px" width="auto" /> **Potted Koywa** is a common decorative object.
 
 A seemingly unsuspecting plant in a small pot.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass)
 
 ## Sources
 

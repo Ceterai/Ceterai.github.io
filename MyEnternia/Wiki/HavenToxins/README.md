@@ -1,6 +1,6 @@
 # Haven Toxins
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height=16px width="auto" /> **Haven Toxins** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height="16px" width="auto" /> **Haven Toxins** is an uncommon codex entry.
 
 The information in this [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) contains descriptions of [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) plants and their toxic nature.  
 According to this data, the nature on stardust planets appears to be on a toxicity spectrum, with regular nature being at the lowest, and haven nature being somewhere in the middle.
@@ -20,20 +20,20 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height=16px width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height="16px" width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height=16px width="auto" /> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" height=16px width="auto" /> [Haven Tiller](https://ceterai.github.io/MyEnternia/Wiki/HavenTiller)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height=16px width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" height=16px width="auto" /> [Potted Poppy Prime](https://ceterai.github.io/MyEnternia/Wiki/PottedPoppyPrime)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height="16px" width="auto" /> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" height="16px" width="auto" /> [Haven Tiller](https://ceterai.github.io/MyEnternia/Wiki/HavenTiller)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height="16px" width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" height="16px" width="auto" /> [Potted Poppy Prime](https://ceterai.github.io/MyEnternia/Wiki/PottedPoppyPrime)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 
@@ -42,7 +42,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height=16px width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
 
 ## Technical Information
 

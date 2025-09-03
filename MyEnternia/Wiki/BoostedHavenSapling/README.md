@@ -1,6 +1,6 @@
 # Boosted Haven Sapling ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height=16px width="auto" /> **Boosted Haven Sapling ★★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> **Boosted Haven Sapling ★★** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
 
 ## Technical Information
 

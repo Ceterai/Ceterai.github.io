@@ -1,6 +1,6 @@
 # Ayoda Zero Sugar
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/deprecated/items/shop/ctayasoda.png" alt="Ayoda Zero Sugar icon" loading="lazy" height=16px width="auto" /> **Ayoda Zero Sugar** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_aya_soda_zero.png" alt="Ayoda Zero Sugar icon" loading="lazy" height="16px" width="auto" /> **Ayoda Zero Sugar** is a common drink.
 
 A special Ayoda edition that contains zero sugar. Perfect for your workout!  
 You might think that the point is kinda lost with a zero sugar aya, but that's not true, since ayas themselves do not contain actual sugar to begin with.
@@ -9,17 +9,19 @@ You might think that the point is kinda lost with a zero sugar aya, but that's n
 
 Species descriptions:
 
-- Alta: Wouldn't call it better than an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" height=16px width="auto" /> [aya essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence) or a proper <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" height=16px width="auto" /> [aya punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch), but it's definitely up there.
+- Alta: Wouldn't call it better than an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" height="16px" width="auto" /> [aya essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence) or a proper <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" height="16px" width="auto" /> [aya punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch), but it's definitely up there.
 
-## Parameters
+## Sources
 
-- Effects: 
+Can be bought from merchants:
 
-- Effect: `maxenergyscalingboostfood`- Duration: 60
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
 ## Technical Information
 
-- In-game ID: `ctayasoda-zero`
-- Power: `2.0`
-- Rarity: `Uncommon`
-- File: [`/deprecated/items/shop/ctayasoda.consumable`](https://github.com/Ceterai/Enternia/blob/main/deprecated/items/shop/ctayasoda.consumable)
+- In-game ID: `ct_aya_soda-zero`
+- Power: `1.0`
+- Rarity: `Common`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`vendor_drink`](https://ceterai.github.io/MyEnternia/Wiki/Tags/VendorDrink)
+- File: [`/items/generic/food/shop/drinks/ct_aya_soda.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop/drinks/ct_aya_soda.consumable)

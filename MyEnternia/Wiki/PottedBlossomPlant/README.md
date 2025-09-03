@@ -1,6 +1,6 @@
 # Potted Blossom Plant
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" height=16px width="auto" /> **Potted Blossom Plant** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" height="16px" width="auto" /> **Potted Blossom Plant** is an uncommon decorative object.
 
 A decorative plant in a big titanium vase.
 
@@ -27,7 +27,7 @@ A decorative plant in a big titanium vase.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
 
 ## Technical Information
 

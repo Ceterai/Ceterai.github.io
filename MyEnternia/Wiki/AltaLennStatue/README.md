@@ -1,6 +1,6 @@
 # Alta Lenn Statue
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" height=16px width="auto" /> **Alta Lenn Statue** is an essential decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" height="16px" width="auto" /> **Alta Lenn Statue** is an essential decorative object.
 
 A holographic statue on a composite platform. The label simply reads 'Lenn'.  
 The shimmering static 3D image showcases what seems to be a being from another realm.

@@ -1,6 +1,6 @@
 # Warped Drainer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/drainer/icon.png" alt="Warped Drainer icon" loading="lazy" height=16px width="auto" /> **Warped Drainer** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/drainer/icon.png" alt="Warped Drainer icon" loading="lazy" height="16px" width="auto" /> **Warped Drainer** is an uncommon wiring component.
 
 This mechanism made out of weird plants sucks in liquids around it. Looks like a hungry plant monster.
 
@@ -23,7 +23,7 @@ This mechanism made out of weird plants sucks in liquids around it. Looks like a
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
 
 Can be bought from merchants:
 
@@ -31,7 +31,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height=16px width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
 
 ## Technical Information
 

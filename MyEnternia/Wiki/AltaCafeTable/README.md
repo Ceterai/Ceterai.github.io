@@ -1,6 +1,6 @@
 # Alta Cafe Table
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/table/icon.png" alt="Alta Cafe Table icon" loading="lazy" height=16px width="auto" /> **Alta Cafe Table** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/table/icon.png" alt="Alta Cafe Table icon" loading="lazy" height="16px" width="auto" /> **Alta Cafe Table** is a common decorative object.
 
 A simplistic round table made out of titanium. Only 3 blocks wide.
 

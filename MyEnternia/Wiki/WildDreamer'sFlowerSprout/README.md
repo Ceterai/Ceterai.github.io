@@ -1,6 +1,6 @@
 # Wild Dreamer's Flower Sprout
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Wild Dreamer's Flower Sprout icon" loading="lazy" height=16px width="auto" /> **Wild Dreamer's Flower Sprout** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Wild Dreamer's Flower Sprout icon" loading="lazy" height="16px" width="auto" /> **Wild Dreamer's Flower Sprout** is a common plantable item.
 
 A suspicious flower bush with a purple bulb in the middle.
 

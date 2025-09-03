@@ -1,6 +1,6 @@
 # Wild Verriskoywa Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Wild Verriskoywa Seed icon" loading="lazy" height=16px width="auto" /> **Wild Verriskoywa Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Wild Verriskoywa Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Verriskoywa Seed** is a common plantable item.
 
 A large koywa reed growing from a budding bulb.
 

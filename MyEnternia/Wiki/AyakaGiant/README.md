@@ -1,6 +1,6 @@
 # Ayaka Giant
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" height=16px width="auto" /> **Ayaka Giant** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" height="16px" width="auto" /> **Ayaka Giant** is an uncommon tree sapling.
 
 A very rare type of [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) that can grow to enormous hights.
 
@@ -29,11 +29,11 @@ A very rare type of [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayaka
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height=16px width="auto" /> [Crystal Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height="16px" width="auto" /> [Crystal Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height=16px width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height="16px" width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
 
 ## Technical Information
 

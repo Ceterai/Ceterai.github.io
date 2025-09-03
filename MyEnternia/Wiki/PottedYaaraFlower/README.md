@@ -1,6 +1,6 @@
 # Potted Yaara Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" height=16px width="auto" /> **Potted Yaara Flower** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" height="16px" width="auto" /> **Potted Yaara Flower** is an uncommon decorative object.
 
 A seemingly unsuspecting flower in a tall pot.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" height=16px width="auto" /> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" height="16px" width="auto" /> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
 
 ## Sources
 

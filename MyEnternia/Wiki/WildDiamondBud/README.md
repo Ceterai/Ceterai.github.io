@@ -1,6 +1,6 @@
 # Wild Diamond Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Wild Diamond Bud icon" loading="lazy" height=16px width="auto" /> **Wild Diamond Bud** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Wild Diamond Bud icon" loading="lazy" height="16px" width="auto" /> **Wild Diamond Bud** is a common plantable item.
 
 A budding crystal growing through a rock.
 

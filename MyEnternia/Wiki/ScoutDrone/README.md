@@ -1,6 +1,6 @@
 # Scout Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> **Scout Drone** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height="16px" width="auto" /> **Scout Drone** is an uncommon throwable item.
 
 An observer drone, used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scouts to scan the area.  
 While it doesn't possess any actual combative power, it's still very useful and will do anything to defend its ally.
@@ -19,16 +19,16 @@ Radiomessages on pickup:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" height=16px width="auto" /> [Alta Drone Station](https://ceterai.github.io/MyEnternia/Wiki/AltaDroneStation)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/trans.png" alt="Orchid Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Orchid Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/OrchidDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" height="16px" width="auto" /> [Alta Drone Station](https://ceterai.github.io/MyEnternia/Wiki/AltaDroneStation)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height="16px" width="auto" /> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/trans.png" alt="Orchid Drone ★★ icon" loading="lazy" height="16px" width="auto" /> [Orchid Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/OrchidDrone)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height=16px width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
-- `outpostshippingcontainer`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" height="12px" width="30px" /> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 Can be bought from merchants:
 
@@ -37,12 +37,12 @@ Can be bought from merchants:
 
 <details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
 
 </details>
 

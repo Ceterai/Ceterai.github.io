@@ -1,8 +1,8 @@
 # Cooked Yaara Eye
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Yaara Eye icon" loading="lazy" height=16px width="auto" /> **Cooked Yaara Eye** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Yaara Eye icon" loading="lazy" height="16px" width="auto" /> **Cooked Yaara Eye** is a common dish.
 
-An evenly cooked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height=16px width="auto" /> [yaara eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) soaking with boiling juice. Now, how do you eat it without burning yourself?  
+An evenly cooked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [yaara eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) soaking with boiling juice. Now, how do you eat it without burning yourself?  
 An experienced chef can cut a cooked yaara eye in half without spilling out most of the juice, and serve it with herbs and spices as a side dish.
 
 ## Ingame

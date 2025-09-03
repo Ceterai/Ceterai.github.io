@@ -1,6 +1,6 @@
 # Alternia Crystal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" height=16px width="auto" /> **Alternia Crystal** is a rare electric breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" height="16px" width="auto" /> **Alternia Crystal** is a rare electric breakable object.
 
 Found in [esetera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Esetera) depths and in [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), this blueish crystal deposit is highly ionized. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)-scan for more.  
 At its core, this crystal is filled with plasma, while usually safe to outside touch, the ionization brings the energy outside, making any contact potentially dangerous.

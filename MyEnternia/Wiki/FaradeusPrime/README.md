@@ -1,11 +1,11 @@
 # Faradeus Prime ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" height=16px width="auto" /> **Faradeus Prime ★** is a legendary one-handed electric machine gun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" height="16px" width="auto" /> **Faradeus Prime ★** is a legendary one-handed electric machine gun.
 
-These [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) weapons were enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, increasing their potential to the maximum.  
+These [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) weapons were enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, increasing their potential to the maximum.  
 A find like this is pretty rare even among the mercs, but can sometimes be seen being wielded by some [faradea legends](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend).
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" height=16px width="auto" /> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" height="16px" width="auto" /> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus).
 
 ## Ingame
 

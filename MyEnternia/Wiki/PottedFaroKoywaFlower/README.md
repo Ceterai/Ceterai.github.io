@@ -1,6 +1,6 @@
 # Potted Faro Koywa Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height=16px width="auto" /> **Potted Faro Koywa Flower** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height="16px" width="auto" /> **Potted Faro Koywa Flower** is a common decorative object.
 
 A seemingly unsuspecting flower in a tall pot.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower)
 
 ## Sources
 

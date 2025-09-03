@@ -1,8 +1,8 @@
 # Virma Honey
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Virma Honey icon" loading="lazy" height=16px width="auto" /> **Virma Honey** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Virma Honey icon" loading="lazy" height="16px" width="auto" /> **Virma Honey** is a common dish.
 
-A proper <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" height=16px width="auto" /> [aya virma](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma) honey with a light sweet flavor. Can be used as a substitute for aya jam.  
+A proper <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" height="16px" width="auto" /> [aya virma](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma) honey with a light sweet flavor. Can be used as a substitute for aya jam.  
 Made from virma or estralis nectar, this honey is perfectly safe to make and doesn't harm or negatively affect the plant at all.
 
 ## Ingame
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 25
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `jumpboostfood`- Duration: 45
@@ -23,9 +23,9 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" height=16px width="auto" /> [Aya Candy](https://ceterai.github.io/MyEnternia/Wiki/AyaCandy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" height=16px width="auto" /> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" height=16px width="auto" /> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" height="16px" width="auto" /> [Aya Candy](https://ceterai.github.io/MyEnternia/Wiki/AyaCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" height="16px" width="auto" /> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" height="16px" width="auto" /> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
 
 ## Sources
 
@@ -35,7 +35,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height=16px width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
 
 ## Technical Information
 

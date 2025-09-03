@@ -1,6 +1,6 @@
 # Shiny Phospholion Deposit
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit2/icon.png" alt="Shiny Phospholion Deposit icon" loading="lazy" height=16px width="auto" /> **Shiny Phospholion Deposit** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit2/icon.png" alt="Shiny Phospholion Deposit icon" loading="lazy" height="16px" width="auto" /> **Shiny Phospholion Deposit** is a common decorative object.
 
 This moonrock formation contains some sort of material.
 

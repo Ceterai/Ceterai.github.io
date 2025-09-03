@@ -1,6 +1,6 @@
 # Warped Lamp
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/lamp/icon.png" alt="Warped Lamp icon" loading="lazy" height=16px width="auto" /> **Warped Lamp** is a common light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/lamp/icon.png" alt="Warped Lamp icon" loading="lazy" height="16px" width="auto" /> **Warped Lamp** is a common light source.
 
 Some red vines with glowing bits entangled into a lamp-like form. Are they alive?
 
@@ -23,13 +23,13 @@ Some red vines with glowing bits entangled into a lamp-like form. Are they alive
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" height=16px width="auto" /> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" height="16px" width="auto" /> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
 
 Can be bought from merchants:
 
@@ -37,7 +37,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height=16px width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
 
 ## Technical Information
 

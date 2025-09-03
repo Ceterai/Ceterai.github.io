@@ -1,6 +1,6 @@
 # Nia Squid Ionic Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_nia_squid_ionic_egg.png" alt="Nia Squid Ionic Egg icon" loading="lazy" height=16px width="auto" /> **Nia Squid Ionic Egg** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_nia_squid_ionic_egg.png" alt="Nia Squid Ionic Egg icon" loading="lazy" height="16px" width="auto" /> **Nia Squid Ionic Egg** is a rare throwable item.
 
 Can be used to spawn a squid called [ionic nia squid](https://ceterai.github.io/MyEnternia/Wiki/ionicniasquid).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

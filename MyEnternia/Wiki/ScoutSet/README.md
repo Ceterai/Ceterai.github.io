@@ -1,6 +1,6 @@
 # Scout Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png" alt="Scout Set icon" loading="lazy" height=16px width="auto" /> **Scout Set** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png" alt="Scout Set icon" loading="lazy" height="16px" width="auto" /> **Scout Set** is an uncommon loot item.
 
 Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scout, including a lore codex of this set.
 Is cheaper to craft this way than separately.  

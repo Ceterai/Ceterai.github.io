@@ -1,10 +1,10 @@
 # Alternia Spear
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" height=16px width="auto" /> **Alternia Spear** is a rare two-handed electric spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" height="16px" width="auto" /> **Alternia Spear** is a rare two-handed electric spear.
 
 Made of pure starsteel, it bursts with electricity.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/enternia_halberd.png" alt="Enternia Halberd ★ icon" loading="lazy" height=16px width="auto" /> [Enternia Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaHalberd) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/enternia_halberd.png" alt="Enternia Halberd ★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaHalberd) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

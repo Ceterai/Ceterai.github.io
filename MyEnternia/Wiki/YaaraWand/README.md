@@ -1,6 +1,6 @@
 # Yaara Wand ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" height=16px width="auto" /> **Yaara Wand ★★** is a legendary one-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" height="16px" width="auto" /> **Yaara Wand ★★** is a legendary one-handed tool.
 
 This [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) growth can spread seeds of different kinds to grow beautiful things!
 
@@ -14,11 +14,11 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 ## Technical Information
 

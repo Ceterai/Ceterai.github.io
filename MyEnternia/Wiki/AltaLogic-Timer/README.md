@@ -1,6 +1,6 @@
 # Alta Logic - Timer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/timer.png:default.5.1" alt="Alta Logic - Timer icon" loading="lazy" height=16px width="auto" /> **Alta Logic - Timer** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/timer.png:default.5.1" alt="Alta Logic - Timer icon" loading="lazy" height="16px" width="auto" /> **Alta Logic - Timer** is an uncommon wiring component.
 
 A timer that stays active for a set duration. Default is 5s, sets through `duration` - int between 1 and 5.
 

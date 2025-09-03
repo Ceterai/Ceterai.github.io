@@ -1,11 +1,11 @@
 # Barracuda's Cry ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" height=16px width="auto" /> **Barracuda's Cry ★** is a legendary two-handed electric broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" height="16px" width="auto" /> **Barracuda's Cry ★** is a legendary two-handed electric broadsword.
 
-A refined, hardened Barracuda's Fin. With the power of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) this thing can do absolute wonders.  
+A refined, hardened Barracuda's Fin. With the power of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) this thing can do absolute wonders.  
 The only things left are the most necessary ones - the hard, refined **pillar bone** and barely visible refined **cuda spikes**. With this size they're now able to resonate, attracting and spreading charged kinetic energy.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" height=16px width="auto" /> [Barracuda's Fin](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sFin).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" height="16px" width="auto" /> [Barracuda's Fin](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sFin).
 
 ## Ingame
 

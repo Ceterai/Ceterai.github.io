@@ -1,6 +1,6 @@
 # Alta Switch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/switch/icon.png" alt="Alta Switch icon" loading="lazy" height=16px width="auto" /> **Alta Switch** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/switch/icon.png" alt="Alta Switch icon" loading="lazy" height="16px" width="auto" /> **Alta Switch** is an uncommon wiring component.
 
 A compact switch that can be flipped on or off. Very tiny.
 

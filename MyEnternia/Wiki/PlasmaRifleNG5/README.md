@@ -1,11 +1,11 @@
 # Plasma Rifle NG5
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle.png" alt="Plasma Rifle NG5 icon" loading="lazy" height=16px width="auto" /> **Plasma Rifle NG5** is a rare two-handed electric assault rifle.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle.png" alt="Plasma Rifle NG5 icon" loading="lazy" height="16px" width="auto" /> **Plasma Rifle NG5** is a rare two-handed electric assault rifle.
 
 A rifled alternia [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) blaster, mostly used by combat and elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) forces.  
 Its heavy casing contains a lot of isolation and enough space for a proper _rapid plasma generator_.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Plasma Rifle NG5X ★ icon" loading="lazy" height=16px width="auto" /> [Plasma Rifle NG5X ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5X) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Plasma Rifle NG5X ★ icon" loading="lazy" height="16px" width="auto" /> [Plasma Rifle NG5X ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5X) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -26,7 +26,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

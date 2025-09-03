@@ -1,6 +1,6 @@
 # Alta Trophy ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_alta_trophy.png" alt="Alta Trophy ★ icon" loading="lazy" height=16px width="auto" /> **Alta Trophy ★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_alta_trophy.png" alt="Alta Trophy ★ icon" loading="lazy" height="16px" width="auto" /> **Alta Trophy ★** is a legendary decorative object.
 
 The plaque reads, "Awarded to a good samaritan, the helper and protector of many altas."
 

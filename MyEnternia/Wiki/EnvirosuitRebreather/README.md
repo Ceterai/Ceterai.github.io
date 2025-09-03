@@ -1,12 +1,12 @@
 # Envirosuit Rebreather ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png" alt="Envirosuit Rebreather ★ icon" loading="lazy" height=16px width="auto" /> **Envirosuit Rebreather ★** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png" alt="Envirosuit Rebreather ★ icon" loading="lazy" height="16px" width="auto" /> **Envirosuit Rebreather ★** is a rare head item.
 
 Has an extended view as well as clearer vision and additional breath protection.
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" height=16px width="auto" /> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" height="16px" width="auto" /> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer), 
 
 - Stat: `breathProtection`- Amount: 1.0
 

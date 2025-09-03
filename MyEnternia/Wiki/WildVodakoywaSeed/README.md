@@ -1,6 +1,6 @@
 # Wild Vodakoywa Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Wild Vodakoywa Seed icon" loading="lazy" height=16px width="auto" /> **Wild Vodakoywa Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Wild Vodakoywa Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Vodakoywa Seed** is a common plantable item.
 
 A large-leaf aloe-like plant with soft seaweed leaves.
 

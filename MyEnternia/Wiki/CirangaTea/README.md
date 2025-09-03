@@ -1,6 +1,6 @@
 # Ciranga Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Ciranga Tea icon" loading="lazy" height=16px width="auto" /> **Ciranga Tea** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Ciranga Tea icon" loading="lazy" height="16px" width="auto" /> **Ciranga Tea** is an uncommon drink.
 
 Some gheatsyn vermont tea. You can feel the spice just enough to get the resemblance.  
 The mix is much more complicated than with a regular gheatsyn tea, and requires a set of roasted spices to prepare.
@@ -14,10 +14,10 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 10
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/confused.png:1" alt="Curious icon" loading="lazy" height=16px width="auto" /> [Curious](https://ceterai.github.io/MyEnternia/Wiki/Curious)- Duration: 240, 
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/confused.png:1" alt="Curious icon" loading="lazy" height="16px" width="auto" /> [Curious](https://ceterai.github.io/MyEnternia/Wiki/Curious)- Duration: 240, 
 
 - Effect: `lightaugment2`- Duration: 240
 
@@ -25,9 +25,9 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height=16px width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" height=16px width="auto" /> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" height=16px width="auto" /> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height="16px" width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" height="16px" width="auto" /> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" height="16px" width="auto" /> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
 
 ## Sources
 
@@ -37,7 +37,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height=16px width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
 
 ## Technical Information
 

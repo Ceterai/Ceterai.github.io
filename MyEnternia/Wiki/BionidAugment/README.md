@@ -1,6 +1,6 @@
 # Bionid Augment
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_bionid_augment.png" alt="Bionid Augment icon" loading="lazy" height=16px width="auto" /> **Bionid Augment** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_bionid_augment.png" alt="Bionid Augment icon" loading="lazy" height="16px" width="auto" /> **Bionid Augment** is a rare epp augment.
 
 This luminous EPP module gives you electric protection and makes you highly illuminated.
 
@@ -14,12 +14,12 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
-- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
 
 ## Technical Information
 

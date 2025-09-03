@@ -1,6 +1,6 @@
 # Alta Skirt Stack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/skirt_stack/icon.png" alt="Alta Skirt Stack icon" loading="lazy" height=16px width="auto" /> **Alta Skirt Stack** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/skirt_stack/icon.png" alt="Alta Skirt Stack icon" loading="lazy" height="16px" width="auto" /> **Alta Skirt Stack** is a common decorative object.
 
 A tidy stack of regular skirts, for all and any occasions. Small sized.  
 Any alta has at least a pack of these, usually given out by the city administration. They often come together with a flat as well.

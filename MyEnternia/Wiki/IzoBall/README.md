@@ -1,6 +1,6 @@
 # Izo Ball
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_iso_ball.png" alt="Izo Ball icon" loading="lazy" height=16px width="auto" /> **Izo Ball** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_iso_ball.png" alt="Izo Ball icon" loading="lazy" height="16px" width="auto" /> **Izo Ball** is a common throwable item.
 
 This ball bounces when thrown.
 
@@ -8,7 +8,7 @@ This ball bounces when thrown.
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height="9px" width="12px" /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Can be bought from merchants:
 
@@ -16,7 +16,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
 
 ## Technical Information
 

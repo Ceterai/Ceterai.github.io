@@ -1,6 +1,6 @@
 # Celestia's Trophy ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_celestia_trophy.png" alt="Celestia's Trophy ★ icon" loading="lazy" height=16px width="auto" /> **Celestia's Trophy ★** is an essential decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_celestia_trophy.png" alt="Celestia's Trophy ★ icon" loading="lazy" height="16px" width="auto" /> **Celestia's Trophy ★** is an essential decorative object.
 
 The plaque reads, "Awarded to a precious little star, for being a good bean and making it this far. - Celestia"
 

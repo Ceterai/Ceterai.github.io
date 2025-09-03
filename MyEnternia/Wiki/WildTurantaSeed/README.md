@@ -1,6 +1,6 @@
 # Wild Turanta Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Wild Turanta Seed icon" loading="lazy" height=16px width="auto" /> **Wild Turanta Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Wild Turanta Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Turanta Seed** is a common plantable item.
 
 A lush flower with big petals that is constantly growing.
 

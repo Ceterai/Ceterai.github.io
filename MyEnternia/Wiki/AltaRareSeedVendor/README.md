@@ -1,6 +1,6 @@
 # Alta Rare Seed Vendor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds_rare/icon.png" alt="Alta Rare Seed Vendor ★ icon" loading="lazy" height=16px width="auto" /> **Alta Rare Seed Vendor ★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds_rare/icon.png" alt="Alta Rare Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> **Alta Rare Seed Vendor ★** is a legendary decorative object.
 
 A vending machine in altan casing. Instead of buttons it uses a touchscreen for better navigation.  
 These can often be found in specialized stores and complexes.
@@ -30,7 +30,7 @@ This object **doesn't drop itself** when broken.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height=16px width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
 
 ## Technical Information
 

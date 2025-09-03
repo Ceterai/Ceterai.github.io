@@ -1,6 +1,6 @@
 # EDS Defense Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/status_pods/defense_pod/icon.png" alt="EDS Defense Pod icon" loading="lazy" height=16px width="auto" /> **EDS Defense Pod** is a legendary trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/status_pods/defense_pod/icon.png" alt="EDS Defense Pod icon" loading="lazy" height="16px" width="auto" /> **EDS Defense Pod** is a legendary trap.
 
 An advanced version of the [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) status pod. This one doesn't seem like it's full of nice things...
 

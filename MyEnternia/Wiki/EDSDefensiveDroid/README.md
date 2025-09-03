@@ -1,6 +1,6 @@
 # EDS Defensive Droid ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height=16px width="auto" /> **EDS Defensive Droid ★★** is a rare electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height="16px" width="auto" /> **EDS Defensive Droid ★★** is a rare electric throwable item.
 
 A protective machine that could take on a tank.  
 Packed with an arsenal of different energy generators and missile launchers, it's unable to fly and thus has to walk on the ground.

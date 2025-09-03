@@ -1,6 +1,6 @@
 # Wild Vionora Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Wild Vionora Seed icon" loading="lazy" height=16px width="auto" /> **Wild Vionora Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Wild Vionora Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Vionora Seed** is a common plantable item.
 
 A small colorful wooden sprout that is constantly growing.
 

@@ -1,6 +1,6 @@
 # EDS Lamppost
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/lamppost/icon.png" alt="EDS Lamppost icon" loading="lazy" height=16px width="auto" /> **EDS Lamppost** is an uncommon light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/lamppost/icon.png" alt="EDS Lamppost icon" loading="lazy" height="16px" width="auto" /> **EDS Lamppost** is an uncommon light source.
 
 An advanced reinforced [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) lamppost. Designed to be seen from long distances in dark and foggy environments.
 
@@ -27,11 +27,11 @@ An advanced reinforced [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 ## Technical Information
 

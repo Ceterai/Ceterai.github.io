@@ -1,6 +1,6 @@
 # Gillimon Jam
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Gillimon Jam icon" loading="lazy" height=16px width="auto" /> **Gillimon Jam** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Gillimon Jam icon" loading="lazy" height="16px" width="auto" /> **Gillimon Jam** is a common dish.
 
 A gil-poi mix called _gillimon_ turned into jam. Perfect for sweet bakery and desserts. Too bad you don't know any recipes that use it...  
 While not known for its sweetness, it's often used in desserts to provide a unique, interesting flavor.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height=16px width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
 
 ## Technical Information
 

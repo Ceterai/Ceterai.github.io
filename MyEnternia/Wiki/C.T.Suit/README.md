@@ -1,12 +1,12 @@
 # C.T. Suit
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/chest/icon.png" alt="C.T. Suit icon" loading="lazy" height=16px width="auto" /> **C.T. Suit** is a legendary chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/chest/icon.png" alt="C.T. Suit icon" loading="lazy" height="16px" width="auto" /> **C.T. Suit** is a legendary chest item.
 
 Provides enhanced energy flow in exchange for protection.
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" height=16px width="auto" /> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" height="16px" width="auto" /> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem)
 
 ## Sources
 
@@ -18,7 +18,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" height=16px width="auto" /> [C.T. Alternia Set](https://ceterai.github.io/MyEnternia/Wiki/C.T.AlterniaSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" height="16px" width="auto" /> [C.T. Alternia Set](https://ceterai.github.io/MyEnternia/Wiki/C.T.AlterniaSet)
 
 ## Technical Information
 

@@ -1,10 +1,10 @@
 # Enternia Halberd ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/enternia_halberd.png" alt="Enternia Halberd ★ icon" loading="lazy" height=16px width="auto" /> **Enternia Halberd ★** is a legendary two-handed electric axe.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/enternia_halberd.png" alt="Enternia Halberd ★ icon" loading="lazy" height="16px" width="auto" /> **Enternia Halberd ★** is a legendary two-handed electric axe.
 
 Made of pure starsteel, it bursts with electricity.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" height=16px width="auto" /> [Alternia Spear](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSpear).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" height="16px" width="auto" /> [Alternia Spear](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSpear).
 
 ## Ingame
 

@@ -1,6 +1,6 @@
 # Ore Detector
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/scan/ore_detector/icon.png" alt="Ore Detector icon" loading="lazy" height=16px width="auto" /> **Ore Detector** is a legendary one-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/scan/ore_detector/icon.png" alt="Ore Detector icon" loading="lazy" height="16px" width="auto" /> **Ore Detector** is a legendary one-handed tool.
 
 Emits pulses to analyse the composition of nearby minerals.
 

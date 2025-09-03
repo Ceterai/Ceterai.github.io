@@ -1,6 +1,6 @@
 # Alta Logic - Latch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/latch.png:default.1" alt="Alta Logic - Latch icon" loading="lazy" height=16px width="auto" /> **Alta Logic - Latch** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/latch.png:default.1" alt="Alta Logic - Latch icon" loading="lazy" height="16px" width="auto" /> **Alta Logic - Latch** is an uncommon wiring component.
 
 A Latch. Can be used to store a wire state.
 

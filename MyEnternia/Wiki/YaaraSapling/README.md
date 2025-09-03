@@ -1,6 +1,6 @@
 # Yaara Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/sapling/icon.png" alt="Yaara Sapling icon" loading="lazy" height=16px width="auto" /> **Yaara Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/sapling/icon.png" alt="Yaara Sapling icon" loading="lazy" height="16px" width="auto" /> **Yaara Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Yaara Seed icon" loading="lazy" height=16px width="auto" /> [Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/YaaraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Yaara Seed icon" loading="lazy" height="16px" width="auto" /> [Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/YaaraSeed)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" height=16px width="auto" /> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/eco/icon.png" alt="Eco Yaara Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Yaara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/eco/icon.png" alt="Eco Yaara Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Yaara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaraSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Yaara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/eco/icon.png" alt="Eco Yaara Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Yaara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Yaara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/eco/icon.png" alt="Eco Yaara Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Yaara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaraSapling)
 
 ## Sources
 

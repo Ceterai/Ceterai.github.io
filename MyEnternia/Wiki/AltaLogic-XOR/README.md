@@ -1,6 +1,6 @@
 # Alta Logic - XOR
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor.png:default.1" alt="Alta Logic - XOR icon" loading="lazy" height=16px width="auto" /> **Alta Logic - XOR** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor.png:default.1" alt="Alta Logic - XOR icon" loading="lazy" height="16px" width="auto" /> **Alta Logic - XOR** is an uncommon wiring component.
 
 An /'XOR'/ switch. Requires one input to be on, and one off.
 
@@ -22,7 +22,6 @@ Given as rent by tenants:
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [Alta Lab Android](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAndroid)
-- [C.T. Android](https://ceterai.github.io/MyEnternia/Wiki/C.T.Android)
 
 ## Technical Information
 

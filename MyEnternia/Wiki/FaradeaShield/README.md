@@ -1,6 +1,6 @@
 # Faradea Shield
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="Faradea Shield icon" loading="lazy" height=16px width="auto" /> **Faradea Shield** is a rare shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="Faradea Shield icon" loading="lazy" height="16px" width="auto" /> **Faradea Shield** is a rare shield.
 
 An EDS shield repurposed by Faradea mercs.  
 Gorgeous blue and yellow are symbolizing freedom, the goal and desire of every Faradea merc.
@@ -22,13 +22,13 @@ Radiomessages on pickup:
 - Min time: 0.2s
 - Cooldown: 0.85s
 - Knockback: 10  
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_protection_module.png" alt="EDS Protection Module icon" loading="lazy" height=16px width="auto" /> [EDS Protection Module](https://ceterai.github.io/MyEnternia/Wiki/EDSProtectionModule)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_protection_module.png" alt="EDS Protection Module icon" loading="lazy" height="16px" width="auto" /> [EDS Protection Module](https://ceterai.github.io/MyEnternia/Wiki/EDSProtectionModule)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 
 Can be bought from merchants:
 
@@ -37,7 +37,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height=16px width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
 
 ## Technical Information
 

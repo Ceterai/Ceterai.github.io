@@ -1,6 +1,6 @@
 # Wild Cocola Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Wild Cocola Seed icon" loading="lazy" height=16px width="auto" /> **Wild Cocola Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Wild Cocola Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Cocola Seed** is a common plantable item.
 
 This crop grows large bulbous fruits filled with milk!
 

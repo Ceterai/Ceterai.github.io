@@ -1,6 +1,6 @@
 # Alta Saturator
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/saturator/icon.png" alt="Alta Saturator icon" loading="lazy" height=16px width="auto" /> **Alta Saturator** is a rare crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/saturator/icon.png" alt="Alta Saturator icon" loading="lazy" height="16px" width="auto" /> **Alta Saturator** is a rare crafting station.
 
 A piece of alta kitchen technology for making punches. Not those kinds of punches. Drinkable ones.  
 The technology is quite complicated, and isn't very common among altas. However - still a must-have in a professional kitchen.

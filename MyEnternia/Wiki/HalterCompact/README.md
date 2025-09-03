@@ -1,11 +1,11 @@
 # Halter Compact ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" height=16px width="auto" /> **Halter Compact ★** is a legendary one-handed shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" height="16px" width="auto" /> **Halter Compact ★** is a legendary one-handed shortsword.
 
-An [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) halter powered by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Its energy capabilities and range have been increased significantly.  
+An [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) halter powered by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Its energy capabilities and range have been increased significantly.  
 Just like many stardust-enhanced tools, this one is a hand-made and can't really be produced on a factory scale. Very rarely, you can find these being used by some of the [elite forces](https://ceterai.github.io/MyEnternia/Wiki/eliteforces) protecting [Alliana](https://ceterai.github.io/MyEnternia/Wiki/Alliana).
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" height=16px width="auto" /> [Stun Stick](https://ceterai.github.io/MyEnternia/Wiki/StunStick).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" height="16px" width="auto" /> [Stun Stick](https://ceterai.github.io/MyEnternia/Wiki/StunStick).
 
 ## Ingame
 

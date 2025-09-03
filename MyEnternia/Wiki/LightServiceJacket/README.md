@@ -1,6 +1,6 @@
 # Light Service Jacket
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_jacket/icon.png" alt="Light Service Jacket icon" loading="lazy" height=16px width="auto" /> **Light Service Jacket** is a common chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_jacket/icon.png" alt="Light Service Jacket icon" loading="lazy" height="16px" width="auto" /> **Light Service Jacket** is a common chest item.
 
 A typical jacket worn by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) servicers of different establishments.
 

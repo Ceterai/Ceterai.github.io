@@ -1,6 +1,6 @@
 # Astera Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height=16px width="auto" /> **Astera Loot Crate** is a rare loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Astera Loot Crate** is a rare loot item.
 
 Contains random loot from [iorash](https://ceterai.github.io/MyEnternia/Wiki/iorash) asteroids and [astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera) pods.  
 Blessed by the stars and tears of astera, this pad is packed with astera alta devices and rarely [spacedrifter](https://ceterai.github.io/MyEnternia/Wiki/Spacedrifter) equipment.
@@ -19,11 +19,11 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height=16px width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
 
 ## Technical Information
 

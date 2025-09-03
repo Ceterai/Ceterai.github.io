@@ -1,6 +1,6 @@
 # Alta Watering Can
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/watering_can/icon.png" alt="Alta Watering Can icon" loading="lazy" height=16px width="auto" /> **Alta Watering Can** is a common two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/watering_can/icon.png" alt="Alta Watering Can icon" loading="lazy" height="16px" width="auto" /> **Alta Watering Can** is a common two-handed tool.
 
 Gently and efficiently water your crops.
 
@@ -12,21 +12,21 @@ Gently and efficiently water your crops.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/hoe/icon.png" alt="Alta Hoe icon" loading="lazy" height=16px width="auto" /> [Alta Hoe](https://ceterai.github.io/MyEnternia/Wiki/AltaHoe)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/hoe/icon.png" alt="Alta Hoe icon" loading="lazy" height="16px" width="auto" /> [Alta Hoe](https://ceterai.github.io/MyEnternia/Wiki/AltaHoe)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon.png" alt="Alta Lumber Cutter icon" loading="lazy" height=16px width="auto" /> [Alta Lumber Cutter](https://ceterai.github.io/MyEnternia/Wiki/AltaLumberCutter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon.png" alt="Alta Lumber Cutter icon" loading="lazy" height="16px" width="auto" /> [Alta Lumber Cutter](https://ceterai.github.io/MyEnternia/Wiki/AltaLumberCutter)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height=16px width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 
 ## Sources
 
 Can be bought in shops:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
 
 Can be bought from merchants:
 
@@ -34,7 +34,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height=16px width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 
 ## Technical Information
 

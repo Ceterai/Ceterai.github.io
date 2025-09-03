@@ -1,9 +1,9 @@
 # EDS Helmet
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height=16px width="auto" /> **EDS Helmet** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height="16px" width="auto" /> **EDS Helmet** is a rare head item.
 
 An advanced headwear upgrade for [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) security units.  
-This cap-like metal headwear is supplied with a standardized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_visor/icon.png" alt="EDS Visor icon" loading="lazy" height=16px width="auto" /> [EDS visor](https://ceterai.github.io/MyEnternia/Wiki/EDSVisor) module in place.
+This cap-like metal headwear is supplied with a standardized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_visor/icon.png" alt="EDS Visor icon" loading="lazy" height="16px" width="auto" /> [EDS visor](https://ceterai.github.io/MyEnternia/Wiki/EDSVisor) module in place.
 
 ## Ingame
 
@@ -18,7 +18,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" height=16px width="auto" /> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" height="16px" width="auto" /> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder)
 
 ## Sources
 
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" height=16px width="auto" /> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" height="16px" width="auto" /> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
 
 ## Technical Information
 

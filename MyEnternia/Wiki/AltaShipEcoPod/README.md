@@ -1,6 +1,6 @@
 # Alta Ship Eco Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/ship/icon.png" alt="Alta Ship Eco Pod icon" loading="lazy" height=16px width="auto" /> **Alta Ship Eco Pod** is a legendary tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/ship/icon.png" alt="Alta Ship Eco Pod icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Eco Pod** is a legendary tree sapling.
 
 An empty enterite chamber, presumably made for plants.  
 The capabilities are rather limited, yet even still this is a fascinating peace of technology able to keep a growing lifeform alive and well.
@@ -29,23 +29,23 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height=16px width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" height=16px width="auto" /> [Alta Thermoponics ★★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Thermoponics ★★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics)
 
 <details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/pod/icon.png" alt="Cocola Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Cocola Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CocolaEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/pod/icon.png" alt="Ela Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Ela Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElaEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/pod/icon.png" alt="Faacain Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faacain Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaacainEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/pod/icon.png" alt="Cocola Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Cocola Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CocolaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/pod/icon.png" alt="Ela Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Ela Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/pod/icon.png" alt="Faacain Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Faacain Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaacainEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
 
 </details>
 

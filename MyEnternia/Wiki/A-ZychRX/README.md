@@ -1,15 +1,16 @@
 # A-Zych RX ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" height=16px width="auto" /> **A-Zych RX ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" height="16px" width="auto" /> **A-Zych RX ★** is a legendary two-handed tool.
 
-Drills fast but breaks quickly. A temporary alternative to the matter manipulator.
+Intended for sending instects to sleep. Can be used instead of a bug net.
+Charge: 20 pumps.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon.png" alt="Alta Powerdrill icon" loading="lazy" height=16px width="auto" /> [Alta Powerdrill](https://ceterai.github.io/MyEnternia/Wiki/AltaPowerdrill).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon.png" alt="Alta Pollen Pump icon" loading="lazy" height="16px" width="auto" /> [Alta Pollen Pump](https://ceterai.github.io/MyEnternia/Wiki/AltaPollenPump).
 
 ## Technical Information
 
-- In-game ID: `ct_alta_power_drill-upgrade`
+- In-game ID: `ct_alta_pollen_pump-upgrade`
 - Power: `3.85`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mining`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mining), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
-- File: [`/items/active/alta/tools/mine/power_drill/ct_alta_power_drill.miningtool`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/mine/power_drill/ct_alta_power_drill.miningtool)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`sanitary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sanitary), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
+- File: [`/items/active/alta/tools/clean/pollen_pump/ct_alta_pollen_pump.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/clean/pollen_pump/ct_alta_pollen_pump.activeitem)

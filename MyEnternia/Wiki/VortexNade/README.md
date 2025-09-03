@@ -1,6 +1,6 @@
 # Vortex Nade ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" height=16px width="auto" /> **Vortex Nade ★** is a rare cryogenic throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" height="16px" width="auto" /> **Vortex Nade ★** is a rare cryogenic throwable item.
 
 A grenade that creates a localised vortex field that slows and damages enemies. Covered with signature [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) stripes.  
 It utilizes particular types of [vionia](https://ceterai.github.io/MyEnternia/Wiki/vionia) to create a point of immediate energy conflict.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 
 Can be bought from merchants:
 
@@ -25,7 +25,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height=16px width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
 
 ## Technical Information
 

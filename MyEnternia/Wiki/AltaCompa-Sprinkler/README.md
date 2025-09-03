@@ -1,6 +1,6 @@
 # Alta Compa-Sprinkler ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/compact/icon.png" alt="Alta Compa-Sprinkler ★ icon" loading="lazy" height=16px width="auto" /> **Alta Compa-Sprinkler ★** is a rare wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/compact/icon.png" alt="Alta Compa-Sprinkler ★ icon" loading="lazy" height="16px" width="auto" /> **Alta Compa-Sprinkler ★** is a rare wiring component.
 
 An automated soil watering solution.  
 Requires alta robotics AI to function in an autonomous way.
@@ -24,11 +24,11 @@ Requires alta robotics AI to function in an autonomous way.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Alta Hydroponics ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Hydroponics ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Alta Hydroponics ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Hydroponics ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/tray/icon.png" alt="Alta Hydroponic Tray icon" loading="lazy" height=16px width="auto" /> [Alta Hydroponic Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponicTray)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/tray/icon.png" alt="Alta Hydroponic Tray icon" loading="lazy" height="16px" width="auto" /> [Alta Hydroponic Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponicTray)
 
 ## Technical Information
 

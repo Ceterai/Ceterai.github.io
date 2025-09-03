@@ -1,6 +1,6 @@
 # Boosted Yaara Sapling ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> **Boosted Yaara Sapling ★★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> **Boosted Yaara Sapling ★★** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/eco/icon.png" alt="Eco Yaara Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Yaara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/eco/icon.png" alt="Eco Yaara Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Yaara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaraSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/pod/icon.png" alt="Yaara Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Yaara Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/pod/icon.png" alt="Yaara Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Yaara Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraEcoPod)
 
 ## Technical Information
 

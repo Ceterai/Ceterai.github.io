@@ -1,6 +1,6 @@
 # Mical Glowstick
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/mical.png" alt="Mical Glowstick icon" loading="lazy" height=16px width="auto" /> **Mical Glowstick** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/mical.png" alt="Mical Glowstick icon" loading="lazy" height="16px" width="auto" /> **Mical Glowstick** is an uncommon throwable item.
 
 Creates a crimson bioluminescent glow when thrown. Is made from rare crystallic materials.  
 Somewhat distinguishable from EDS gil glowsticks due to its hue shift and darker tones.

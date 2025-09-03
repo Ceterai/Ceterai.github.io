@@ -1,6 +1,6 @@
 # Faradea Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height=16px width="auto" /> **Faradea Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Faradea Loot Crate** is an uncommon loot item.
 
 Contains random loot from [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) pods.  
 Bits of mercenary life in a tiny box. It's full of freedom, anarchy, adventures and determination. A wonderful gift to a rebellious friend.
@@ -20,11 +20,11 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height=16px width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
 
 ## Technical Information
 

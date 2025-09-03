@@ -1,6 +1,6 @@
 # Alta Light Bar
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" height=16px width="auto" /> **Alta Light Bar** is an uncommon light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" height="16px" width="auto" /> **Alta Light Bar** is an uncommon light source.
 
 A compact titanium ceiling light on simplistic holders. **Can be placed on the ground, walls and ceiling.**  
 Most basic alta furniture is designed to be simple, lightweight, and, most importantly, easy to clean and disassemble. The goal is to be comfortable and portable at the same time, while also being easy to recycle if needed.

@@ -1,8 +1,8 @@
 # Alunika Jam
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika Jam icon" loading="lazy" height=16px width="auto" /> **Alunika Jam** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika Jam icon" loading="lazy" height="16px" width="auto" /> **Alunika Jam** is a common dish.
 
-This plain <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" height=16px width="auto" /> [alunika](https://ceterai.github.io/MyEnternia/Wiki/Alunika) jam is a favourite for many altas, but requires special tech to make. Too bad you don't know any recipes that use it...  
+This plain <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" height="16px" width="auto" /> [alunika](https://ceterai.github.io/MyEnternia/Wiki/Alunika) jam is a favourite for many altas, but requires special tech to make. Too bad you don't know any recipes that use it...  
 While making some alunika powder doesn't seem like a problem, an important part of this jam - alunika extract, is pretty hard to... well, extract.
 
 ## Ingame
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height=16px width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
 
 ## Technical Information
 

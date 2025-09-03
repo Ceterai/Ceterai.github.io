@@ -1,6 +1,6 @@
 # Alta Ship Container G3
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container_large/icon.png" alt="Alta Ship Container G3 icon" loading="lazy" height=16px width="auto" /> **Alta Ship Container G3** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container_large/icon.png" alt="Alta Ship Container G3 icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Container G3** is a rare storage unit.
 
 A shipping container. Probably doesn't contain a ship.
 

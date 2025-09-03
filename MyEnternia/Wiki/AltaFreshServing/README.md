@@ -1,6 +1,6 @@
 # Alta Fresh Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height=16px width="auto" /> **Alta Fresh Serving** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Fresh Serving** is an uncommon decorative object.
 
 A simple serving of an alta fresh. Can be picked up right away to take a closer look.
 

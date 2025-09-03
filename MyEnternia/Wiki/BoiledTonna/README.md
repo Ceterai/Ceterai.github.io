@@ -1,8 +1,8 @@
 # Boiled Tonna
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Boiled Tonna icon" loading="lazy" height=16px width="auto" /> **Boiled Tonna** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Boiled Tonna icon" loading="lazy" height="16px" width="auto" /> **Boiled Tonna** is a common dish.
 
-Those soft, boiled <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height=16px width="auto" /> [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) pieces bathing in hot tonna milk, with small steamed eni-leaves adding to the flavor... Better eat it quick!  
+Those soft, boiled <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) pieces bathing in hot tonna milk, with small steamed eni-leaves adding to the flavor... Better eat it quick!  
 This dish is meant to be eaten right away, because after cooling down it looses some of the bubbly texture, as well as some flavor.
 
 ## Ingame
@@ -25,7 +25,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height=16px width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Aya Fresh
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" height=16px width="auto" /> **Aya Fresh** is a common drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" height="16px" width="auto" /> **Aya Fresh** is a common drink.
 
 Made with aya powder and some fresh ayas. Refreshing! Fresh is the word.  
 Throughrough mixing and squeezing create a layer of thich foam at the top that adds to the overall experience. The candy stick is then added for flavor.
@@ -14,35 +14,35 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 12
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `lowgrav`- Duration: 45
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" height=16px width="auto" /> [Aya Essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" height="16px" width="auto" /> [Aya Essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence)
 
 ## Crafting
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height=16px width="auto" /> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height="16px" width="auto" /> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height=16px width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height="16px" width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height=16px width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
 - `ct_food_mimic`
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be bought from merchants:
 
@@ -50,11 +50,11 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height=16px width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
 
 ## Technical Information
 

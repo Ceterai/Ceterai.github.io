@@ -1,11 +1,11 @@
 # Protea's Mask ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protea's Mask ★ icon" loading="lazy" height=16px width="auto" /> **Protea's Mask ★** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protea's Mask ★ icon" loading="lazy" height="16px" width="auto" /> **Protea's Mask ★** is a legendary head item.
 
-A mask worn by Protea - a staris [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scout known for her vigilance and agility. Hairs on the back are made of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
+A mask worn by Protea - a staris [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scout known for her vigilance and agility. Hairs on the back are made of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
 This brings the gathered energy levels to a maximum, powering the whole protosystem almost instantly.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" height=16px width="auto" /> [Protomask](https://ceterai.github.io/MyEnternia/Wiki/Protomask).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" height="16px" width="auto" /> [Protomask](https://ceterai.github.io/MyEnternia/Wiki/Protomask).
 
 ## Ingame
 
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height=16px width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" height=16px width="auto" /> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height="16px" width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" height="16px" width="auto" /> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer), 
 
 - Stat: `breathProtection`- Amount: 1.0
 

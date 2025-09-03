@@ -1,6 +1,6 @@
 # Stardust Trophy ★★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_stardust_trophy.png" alt="Stardust Trophy ★★★★ icon" loading="lazy" height=16px width="auto" /> **Stardust Trophy ★★★★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_stardust_trophy.png" alt="Stardust Trophy ★★★★ icon" loading="lazy" height="16px" width="auto" /> **Stardust Trophy ★★★★** is a legendary decorative object.
 
 The plaque reads, "Awarded for a all the effort and patience, and for gathering a fabulous narfin collection."
 

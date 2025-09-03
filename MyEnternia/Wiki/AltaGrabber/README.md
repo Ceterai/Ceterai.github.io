@@ -1,10 +1,10 @@
 # Alta Grabber
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/grabber/icon.png" alt="Alta Grabber icon" loading="lazy" height=16px width="auto" /> **Alta Grabber** is an uncommon two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/grabber/icon.png" alt="Alta Grabber icon" loading="lazy" height="16px" width="auto" /> **Alta Grabber** is an uncommon two-handed tool.
 
 Holds a friendly creature in stasis in order to safely relocate it.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/grabber/icon_upg.png" alt="Multigrabber ★ icon" loading="lazy" height=16px width="auto" /> [Multigrabber ★](https://ceterai.github.io/MyEnternia/Wiki/Multigrabber) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/grabber/icon_upg.png" alt="Multigrabber ★ icon" loading="lazy" height="16px" width="auto" /> [Multigrabber ★](https://ceterai.github.io/MyEnternia/Wiki/Multigrabber) at the Weapon Upgrade Anvil.
 
 ## Technical Information
 

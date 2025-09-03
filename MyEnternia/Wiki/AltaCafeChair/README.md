@@ -1,6 +1,6 @@
 # Alta Cafe Chair
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/chair/icon.png" alt="Alta Cafe Chair icon" loading="lazy" height=16px width="auto" /> **Alta Cafe Chair** is a common piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/chair/icon.png" alt="Alta Cafe Chair icon" loading="lazy" height="16px" width="auto" /> **Alta Cafe Chair** is a common piece of furniture.
 
 A simple titanium chair with minimal details and a sturdy stand.
 

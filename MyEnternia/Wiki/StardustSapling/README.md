@@ -1,6 +1,6 @@
 # Stardust Sapling ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/sapling/icon.png" alt="Stardust Sapling ★★★ icon" loading="lazy" height=16px width="auto" /> **Stardust Sapling ★★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/sapling/icon.png" alt="Stardust Sapling ★★★ icon" loading="lazy" height="16px" width="auto" /> **Stardust Sapling ★★★** is a legendary plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" height=16px width="auto" /> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" height="16px" width="auto" /> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
 
 ## Technical Information
 

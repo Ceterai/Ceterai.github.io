@@ -1,6 +1,6 @@
 # Calline Glowstick
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/calline.png" alt="Calline Glowstick icon" loading="lazy" height=16px width="auto" /> **Calline Glowstick** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/calline.png" alt="Calline Glowstick icon" loading="lazy" height="16px" width="auto" /> **Calline Glowstick** is an uncommon throwable item.
 
 Creates a prime crystal glow when thrown. Is made from rare crystallic materials.  
 This is mostly made from the leaves, which are technically not full crystals.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height=10.5px width=12px /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
+- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height="10.5px" width="12px" /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
 
 Can be bought from merchants:
 
@@ -38,7 +38,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
 
 ## Technical Information
 

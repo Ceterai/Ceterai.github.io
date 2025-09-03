@@ -1,6 +1,6 @@
 # Aya-Tsay Salad ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" height=16px width="auto" /> **Aya-Tsay Salad ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" height="16px" width="auto" /> **Aya-Tsay Salad ★** is an uncommon dish.
 
 This dish went beyond a simple assorti and became a full-fledged salad with proper slicing, mixing & dressing.  
 With additional length of preparation this gives a much more fulfilling result, while also turning into a functional dish.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 29
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `runboostfood`- Duration: 135
@@ -23,9 +23,9 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" height=16px width="auto" /> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height=16px width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height=16px width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" height="16px" width="auto" /> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height="16px" width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height="16px" width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
 
 ## Sources
 
@@ -35,7 +35,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/salad/icon.png" alt="Alta Salad Serving icon" loading="lazy" height=16px width="auto" /> [Alta Salad Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaSaladServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/salad/icon.png" alt="Alta Salad Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Salad Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaSaladServing)
 
 ## Technical Information
 

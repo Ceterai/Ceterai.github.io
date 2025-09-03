@@ -1,6 +1,6 @@
 # Ceternia Eco Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/pod/icon.png" alt="Ceternia Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> **Ceternia Eco Pod ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/pod/icon.png" alt="Ceternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Ceternia Eco Pod ★★** is a legendary plantable item.
 
 Contains a modified ceternia core sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,13 +14,13 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/sapling/icon.png" alt="Ceternia Sapling icon" loading="lazy" height=16px width="auto" /> [Ceternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/sapling/icon.png" alt="Ceternia Sapling icon" loading="lazy" height="16px" width="auto" /> [Ceternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" height=16px width="auto" /> [Ceternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSample)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/icon.png" alt="Ceternia Seed icon" loading="lazy" height=16px width="auto" /> [Ceternia Seed](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" height=16px width="auto" /> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" height="16px" width="auto" /> [Ceternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSample)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/icon.png" alt="Ceternia Seed icon" loading="lazy" height="16px" width="auto" /> [Ceternia Seed](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" height="16px" width="auto" /> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
 
 ## Technical Information
 

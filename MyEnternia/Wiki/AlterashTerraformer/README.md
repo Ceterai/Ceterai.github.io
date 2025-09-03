@@ -1,6 +1,6 @@
 # Alterash Terraformer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/planet/alterash/icon.png" alt="Alterash Terraformer icon" loading="lazy" height=16px width="auto" /> **Alterash Terraformer** is an essential terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/planet/alterash/icon.png" alt="Alterash Terraformer icon" loading="lazy" height="16px" width="auto" /> **Alterash Terraformer** is an essential terraformer.
 
 Transforms a planet's climate into alterash. An alta attempt at creating planet-wide terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
 [Alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) is a moonlike planet with temperate climate and slightly ionized atmosphere, and a surface affected by constant stardust fallouts. The high level of ions in the air is what makes this planet's atmosphere a magnet for all that stardust. However, it also causes it to crystallize, resulting in beautiful prisms.

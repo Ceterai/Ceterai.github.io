@@ -1,6 +1,6 @@
 # Crystallite
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystallite icon" loading="lazy" height=16px width="auto" /> **Crystallite** is an uncommon shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystallite icon" loading="lazy" height="16px" width="auto" /> **Crystallite** is an uncommon shield.
 
 A rare amethyst crystal formation with good protective capabilities. Quite pretty as well.  
 This variation of a regular gemstone is much more resistant than usual, however, not nearly as resistant as some other crystals.

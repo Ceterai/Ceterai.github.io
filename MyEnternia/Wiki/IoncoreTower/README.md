@@ -1,11 +1,11 @@
 # Ioncore Tower ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ioncore Tower ★ icon" loading="lazy" height=16px width="auto" /> **Ioncore Tower ★** is a legendary electric shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ioncore Tower ★ icon" loading="lazy" height="16px" width="auto" /> **Ioncore Tower ★** is a legendary electric shield.
 
-Hidden [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) energy of this shield has been released with the use of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). How can it be of help to you?  
+Hidden [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) energy of this shield has been released with the use of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). How can it be of help to you?  
 This powerful tool of the fallen, adapted by altas, is almost an indirect Io's gift, that was made by her children and handed to you with time.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" height=16px width="auto" /> [Ion Fortress](https://ceterai.github.io/MyEnternia/Wiki/IonFortress).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" height="16px" width="auto" /> [Ion Fortress](https://ceterai.github.io/MyEnternia/Wiki/IonFortress).
 
 ## Ingame
 

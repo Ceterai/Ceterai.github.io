@@ -1,8 +1,8 @@
 # Viona Miazma Monitoring
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height=16px width="auto" /> **Viona Miazma Monitoring** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height="16px" width="auto" /> **Viona Miazma Monitoring** is an uncommon codex entry.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height=16px width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) containing a report on the recent energy-related measurements in an anomalous area.  
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height="16px" width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) containing a report on the recent energy-related measurements in an anomalous area.  
 The data shows numerous energy anomalies, or [miazmas](https://ceterai.github.io/MyEnternia/Wiki/miazmas), in different so-called [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) areas, or ["enchanted" areas](https://ceterai.github.io/MyEnternia/Wiki/enchantedareas) of the planet.
 
 ## Ingame
@@ -20,18 +20,18 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height=16px width="auto" /> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height="16px" width="auto" /> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height=16px width="auto" /> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" height=16px width="auto" /> [Vionora](https://ceterai.github.io/MyEnternia/Wiki/Vionora)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height="16px" width="auto" /> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" height="16px" width="auto" /> [Vionora](https://ceterai.github.io/MyEnternia/Wiki/Vionora)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height=16px width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height="16px" width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
@@ -73,7 +73,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" height=16px width="auto" /> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
 
 ## Technical Information
 

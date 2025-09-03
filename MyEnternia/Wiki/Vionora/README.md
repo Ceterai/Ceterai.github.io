@@ -1,6 +1,6 @@
 # Vionora
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" height=16px width="auto" /> **Vionora** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" height="16px" width="auto" /> **Vionora** is an uncommon tree sapling.
 
 A palm-like tree that usually grows on viona-infested riversides. It can grow up to the heights of common ayakas.  
 Viona riversides, also known as Enchanted Beaches, are riverbends and lake craters, whose water line, and sometimes underwater space, are stuck in an energetic anomaly, be it natural of artificial.
@@ -30,16 +30,16 @@ Viona riversides, also known as Enchanted Beaches, are riverbends and lake crate
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Enchanted Datamass icon" loading="lazy" height=16px width="auto" /> [Enchanted Datamass](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height=16px width="auto" /> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Enchanted Datamass icon" loading="lazy" height="16px" width="auto" /> [Enchanted Datamass](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" height="16px" width="auto" /> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height=16px width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height="16px" width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height=16px width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height="16px" width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Sofara
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" height=16px width="auto" /> **Sofara** is a legendary tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" height="16px" width="auto" /> **Sofara** is a legendary tree sapling.
 
 A tree you would only find on enterash planets, hidden among explosive nature and terrain.  
 This tree consists of a special type of wood often used in decorative furniture crafting.
@@ -30,12 +30,12 @@ This tree consists of a special type of wood often used in decorative furniture 
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" height=16px width="auto" /> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height=16px width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" height="16px" width="auto" /> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" height=16px width="auto" /> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" height="16px" width="auto" /> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
 
 ## Sources
 

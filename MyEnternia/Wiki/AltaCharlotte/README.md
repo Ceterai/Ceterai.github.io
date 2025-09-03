@@ -1,8 +1,8 @@
 # Alta Charlotte
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Charlotte icon" loading="lazy" height=16px width="auto" /> **Alta Charlotte** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Charlotte icon" loading="lazy" height="16px" width="auto" /> **Alta Charlotte** is a rare dish.
 
-This charlotte is baked using [faro koywa](https://ceterai.github.io/MyEnternia/Wiki/farokoywa) dough, with sweet fruits like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height=16px width="auto" /> [ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear icon" loading="lazy" height=16px width="auto" /> [alta pears](https://ceterai.github.io/MyEnternia/Wiki/AltaPear) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height=16px width="auto" /> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye), or even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" height=16px width="auto" /> [alunikas](https://ceterai.github.io/MyEnternia/Wiki/Alunika).  
+This charlotte is baked using [faro koywa](https://ceterai.github.io/MyEnternia/Wiki/farokoywa) dough, with sweet fruits like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height="16px" width="auto" /> [ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear icon" loading="lazy" height="16px" width="auto" /> [alta pears](https://ceterai.github.io/MyEnternia/Wiki/AltaPear) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye), or even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" height="16px" width="auto" /> [alunikas](https://ceterai.github.io/MyEnternia/Wiki/Alunika).  
 At its base, this charlotte can become a regular pie is you use jam instead of solid fruits, so make sure not to squish them too much.
 
 ## Ingame
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height=16px width="auto" /> [Alta Pie Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPieServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Pie Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPieServing)
 
 ## Technical Information
 

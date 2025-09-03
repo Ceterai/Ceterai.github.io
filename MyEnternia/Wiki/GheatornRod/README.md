@@ -1,6 +1,6 @@
 # Gheatorn Rod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_rod/icon.png" alt="Gheatorn Rod icon" loading="lazy" height=16px width="auto" /> **Gheatorn Rod** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_rod/icon.png" alt="Gheatorn Rod icon" loading="lazy" height="16px" width="auto" /> **Gheatorn Rod** is a common breakable object.
 
 These [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) formations rise right from the ground in a slow bursting manner. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)-scan for more.
 

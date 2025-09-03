@@ -1,6 +1,6 @@
 # Bug Lover
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/nets/bug_lover/icon.png" alt="Bug Lover icon" loading="lazy" height=16px width="auto" /> **Bug Lover** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/nets/bug_lover/icon.png" alt="Bug Lover icon" loading="lazy" height="16px" width="auto" /> **Bug Lover** is a legendary tool.
 
 This compact one-handed net is a treasure for a true bug hunter!
 

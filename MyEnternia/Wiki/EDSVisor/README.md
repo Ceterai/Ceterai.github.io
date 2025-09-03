@@ -1,6 +1,6 @@
 # EDS Visor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_visor/icon.png" alt="EDS Visor icon" loading="lazy" height=16px width="auto" /> **EDS Visor** is an uncommon head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_visor/icon.png" alt="EDS Visor icon" loading="lazy" height="16px" width="auto" /> **EDS Visor** is an uncommon head item.
 
 An advanced visor upgrade for [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) units.
 
@@ -13,19 +13,19 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height=16px width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height="16px" width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision)
 
 ## Crafting
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height=16px width="auto" /> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height="16px" width="auto" /> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 <details markdown="1"><summary>Can be bought from merchants: (Expand 10 items)</summary>
 
@@ -44,7 +44,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 ## Technical Information
 

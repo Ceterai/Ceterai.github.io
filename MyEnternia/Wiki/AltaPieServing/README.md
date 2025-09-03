@@ -1,6 +1,6 @@
 # Alta Pie Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height=16px width="auto" /> **Alta Pie Serving** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Pie Serving** is a rare decorative object.
 
 A simple serving of an alta pie. Can be picked up right away to take a closer look.
 

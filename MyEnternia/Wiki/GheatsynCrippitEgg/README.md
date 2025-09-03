@@ -1,6 +1,6 @@
 # Gheatsyn Crippit Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_gheatsyn_crippit_egg.png" alt="Gheatsyn Crippit Egg icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Crippit Egg** is a rare one-handed throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_gheatsyn_crippit_egg.png" alt="Gheatsyn Crippit Egg icon" loading="lazy" height="16px" width="auto" /> **Gheatsyn Crippit Egg** is a rare one-handed throwable item.
 
 Can be used to spawn a creature called [gheatsyn crippit](https://ceterai.github.io/MyEnternia/Wiki/gheatsyncrippit).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

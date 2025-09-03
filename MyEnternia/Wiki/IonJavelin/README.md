@@ -1,6 +1,6 @@
 # Ion Javelin ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" height=16px width="auto" /> **Ion Javelin ★** is a legendary electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" height="16px" width="auto" /> **Ion Javelin ★** is a legendary electric throwable item.
 
 An improved and reinforced [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) javelin full of freed alternia and enternia energy. Commonly used by [dreamers](https://ceterai.github.io/MyEnternia/Wiki/Dreamer) for hunting.
 

@@ -1,6 +1,6 @@
 # Vodakoywa Eco Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/pod/icon.png" alt="Vodakoywa Eco Pod icon" loading="lazy" height=16px width="auto" /> **Vodakoywa Eco Pod** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/pod/icon.png" alt="Vodakoywa Eco Pod icon" loading="lazy" height="16px" width="auto" /> **Vodakoywa Eco Pod** is a legendary plantable item.
 
 Contains a modified kelp sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVodakoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVodakoywaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Vodakoywa Seed icon" loading="lazy" height=16px width="auto" /> [Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Vodakoywa Seed icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSeed)
 
 ## Technical Information
 

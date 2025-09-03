@@ -1,6 +1,6 @@
 # Eco Ela Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Ela Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Ela Sapling** is a rare plantable item.
 
 This glow fibre sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/sapling/icon.png" alt="Ela Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Ela Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/ElaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/sapling/icon.png" alt="Ela Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ela Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/ElaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/boosted/icon.png" alt="Boosted Ela Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Ela Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedElaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height=16px width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" height=16px width="auto" /> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/boosted/icon.png" alt="Boosted Ela Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Ela Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedElaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height="16px" width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" height="16px" width="auto" /> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/pod/icon.png" alt="Ela Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Ela Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/pod/icon.png" alt="Ela Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Ela Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElaEcoPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Elin Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height=16px width="auto" /> **Elin Pod ★** is an uncommon storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Elin Pod ★** is an uncommon storage unit.
 
 A simplistic pod that can be used as a chest.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.

@@ -1,6 +1,6 @@
 # Neiteru-1 Researcher Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Neiteru-1 Researcher Skirt icon" loading="lazy" height=16px width="auto" /> **Neiteru-1 Researcher Skirt** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Neiteru-1 Researcher Skirt icon" loading="lazy" height="16px" width="auto" /> **Neiteru-1 Researcher Skirt** is a rare leg item.
 
 An official Neiteru researcher's legwear. Practical and well thought-out.
 

@@ -1,6 +1,6 @@
 # Faradea Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> **Faradea Pod ★** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Faradea Pod ★** is a rare storage unit.
 
 A protected bion pod with Faradea markings on it.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.

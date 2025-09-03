@@ -1,6 +1,6 @@
 # Glowarp ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Glowarp ★ icon" loading="lazy" height=16px width="auto" /> **Glowarp ★** is a legendary drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Glowarp ★ icon" loading="lazy" height="16px" width="auto" /> **Glowarp ★** is a legendary drink.
 
 An extra-warpy drink that will warp your perception of drinks as a concept.  
 This recipe actually uses some warped ingredients in its recipe, like archulins and a little bit of warped honey.
@@ -14,10 +14,10 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 30
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" height=16px width="auto" /> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)- Duration: 225, 
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" height="16px" width="auto" /> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)- Duration: 225, 
 
 - Effect: `ragefood`- Duration: 225
 
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cocktail/icon.png" alt="Alta Cocktail Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cocktail Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCocktailServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cocktail/icon.png" alt="Alta Cocktail Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Cocktail Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCocktailServing)
 
 ## Technical Information
 

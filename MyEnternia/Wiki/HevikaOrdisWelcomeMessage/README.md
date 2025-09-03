@@ -1,6 +1,6 @@
 # Hevika Ordis Welcome Message
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height=16px width="auto" /> **Hevika Ordis Welcome Message** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> **Hevika Ordis Welcome Message** is a rare codex entry.
 
 An encrypted welcome guide to a workplace in a [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) laboratory.  
 It provides information about the workplace, its purpose and some basic instructions.
@@ -20,17 +20,17 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height=16px width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height=16px width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height=16px width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
@@ -72,7 +72,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height=16px width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
 
 ## Technical Information
 

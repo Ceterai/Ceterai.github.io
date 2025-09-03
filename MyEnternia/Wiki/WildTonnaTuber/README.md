@@ -1,6 +1,6 @@
 # Wild Tonna Tuber
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Wild Tonna Tuber icon" loading="lazy" height=16px width="auto" /> **Wild Tonna Tuber** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Wild Tonna Tuber icon" loading="lazy" height="16px" width="auto" /> **Wild Tonna Tuber** is a common plantable item.
 
 An alta-engineered small plant that grows tonna nuts at a smaller scale.
 

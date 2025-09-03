@@ -1,6 +1,6 @@
 # Fresh Cocktail
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Fresh Cocktail icon" loading="lazy" height=16px width="auto" /> **Fresh Cocktail** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Fresh Cocktail icon" loading="lazy" height="16px" width="auto" /> **Fresh Cocktail** is a legendary dish.
 
 Strainght and simple - this is a "fresh" cocktail, as in a cocktail made from a fresh! Very neat, so much foam too.  
 While there are no strict rules on what fresh to use, some might perform better than others.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cocktail/icon.png" alt="Alta Cocktail Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cocktail Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCocktailServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cocktail/icon.png" alt="Alta Cocktail Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Cocktail Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCocktailServing)
 
 ## Technical Information
 

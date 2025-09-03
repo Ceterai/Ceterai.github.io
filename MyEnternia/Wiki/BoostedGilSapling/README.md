@@ -1,6 +1,6 @@
 # Boosted Gil Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/boosted/icon.png" alt="Boosted Gil Sapling icon" loading="lazy" height=16px width="auto" /> **Boosted Gil Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/boosted/icon.png" alt="Boosted Gil Sapling icon" loading="lazy" height="16px" width="auto" /> **Boosted Gil Sapling** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -23,12 +23,12 @@ This sapling comes with enhanced mutations that allow much faster ripening.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/fertile/icon.png" alt="Fertile Gil Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Fertile Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileGilSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/fertile/icon.png" alt="Fertile Gil Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Fertile Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/pod/icon.png" alt="Gil Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Gil Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/GilEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/pod/icon.png" alt="Gil Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Gil Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/GilEcoPod)
 
 ## Technical Information
 

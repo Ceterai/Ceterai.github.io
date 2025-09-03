@@ -1,6 +1,6 @@
 # Alta Lab Hatch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/hatch/icon.png" alt="Alta Lab Hatch icon" loading="lazy" height=16px width="auto" /> **Alta Lab Hatch** is an uncommon door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/hatch/icon.png" alt="Alta Lab Hatch icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Hatch** is an uncommon door.
 
 A protective 1x5 airtight bionid door. **Can be placed both vertically and horizontally.**
 

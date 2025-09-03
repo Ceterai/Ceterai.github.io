@@ -1,6 +1,6 @@
 # Alta Salad Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/salad/icon.png" alt="Alta Salad Serving icon" loading="lazy" height=16px width="auto" /> **Alta Salad Serving** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/salad/icon.png" alt="Alta Salad Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Salad Serving** is a rare decorative object.
 
 A simple serving of an alta salad. Can be picked up right away to take a closer look.
 

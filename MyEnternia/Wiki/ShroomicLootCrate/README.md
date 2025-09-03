@@ -1,6 +1,6 @@
 # Shroomic Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height=16px width="auto" /> **Shroomic Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Shroomic Loot Crate** is an uncommon loot item.
 
 Contains random loot from [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) depth biome chests.  
 High levels of toxicity are a common case with this category of crates, thus the High Toxicity markings all over the casing.
@@ -19,11 +19,11 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height="12px" width="12px" /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height=16px width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 
 ## Technical Information
 

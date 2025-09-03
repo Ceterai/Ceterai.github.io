@@ -1,6 +1,6 @@
 # Rail Hook
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rail/hook/icon.png" alt="Rail Hook icon" loading="lazy" height=16px width="auto" /> **Rail Hook** is an uncommon tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rail/hook/icon.png" alt="Rail Hook icon" loading="lazy" height="16px" width="auto" /> **Rail Hook** is an uncommon tool.
 
 Used by some metrocops to ride the rails!
 

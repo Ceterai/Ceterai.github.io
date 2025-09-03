@@ -1,11 +1,11 @@
 # Alta Pollen Pump
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon.png" alt="Alta Pollen Pump icon" loading="lazy" height=16px width="auto" /> **Alta Pollen Pump** is an uncommon two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon.png" alt="Alta Pollen Pump icon" loading="lazy" height="16px" width="auto" /> **Alta Pollen Pump** is an uncommon two-handed tool.
 
 Intended for sending instects to sleep. Can be used instead of a bug net.
 Charge: 20 pumps.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" height=16px width="auto" /> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" height="16px" width="auto" /> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX) at the Weapon Upgrade Anvil.
 
 ## Technical Information
 

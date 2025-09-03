@@ -1,6 +1,6 @@
 # Alta Farmer's Notes
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" height=16px width="auto" /> **Alta Farmer's Notes** is a common codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" height="16px" width="auto" /> **Alta Farmer's Notes** is a common codex entry.
 
 A read-me notice attached to the dendrarium. You can print it to save to your codex. _(Unlocks initial farming tool recipes)_  
 The notice goes over a pretty broad set of tasks that dendrarium helps performing.
@@ -15,12 +15,12 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png" alt="Alta Dendrarium icon" loading="lazy" height=16px width="auto" /> [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png" alt="Alta Dendrarium icon" loading="lazy" height="16px" width="auto" /> [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/bucket/icon.png" alt="Alta Bucket icon" loading="lazy" height=16px width="auto" /> [Alta Bucket](https://ceterai.github.io/MyEnternia/Wiki/AltaBucket)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/hoe/icon.png" alt="Alta Hoe icon" loading="lazy" height=16px width="auto" /> [Alta Hoe](https://ceterai.github.io/MyEnternia/Wiki/AltaHoe)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/bucket/icon.png" alt="Alta Bucket icon" loading="lazy" height="16px" width="auto" /> [Alta Bucket](https://ceterai.github.io/MyEnternia/Wiki/AltaBucket)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/hoe/icon.png" alt="Alta Hoe icon" loading="lazy" height="16px" width="auto" /> [Alta Hoe](https://ceterai.github.io/MyEnternia/Wiki/AltaHoe)
 
 ## Sources
 

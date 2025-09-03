@@ -1,6 +1,6 @@
 # Artistic Scarf
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Scarf icon" loading="lazy" height=16px width="auto" /> **Artistic Scarf** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Scarf icon" loading="lazy" height="16px" width="auto" /> **Artistic Scarf** is a rare head item.
 
 A pretty neat scarf that increases your artistic charm by 60%.  
 Like many alta fasion items, this one was likely designed by [Perizhad](https://ceterai.github.io/MyEnternia/Wiki/Perizhad).

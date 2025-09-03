@@ -1,6 +1,6 @@
 # Twin Agaranic Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic3.png" alt="Twin Agaranic Shroom icon" loading="lazy" height=16px width="auto" /> **Twin Agaranic Shroom** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic3.png" alt="Twin Agaranic Shroom icon" loading="lazy" height="16px" width="auto" /> **Twin Agaranic Shroom** is a common decorative object.
 
 A greenish mushroom.
 

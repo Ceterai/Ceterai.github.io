@@ -1,6 +1,6 @@
 # Cultivated Neonmelon Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/cultivated/icon.png" alt="Cultivated Neonmelon Sapling icon" loading="lazy" height=16px width="auto" /> **Cultivated Neonmelon Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/cultivated/icon.png" alt="Cultivated Neonmelon Sapling icon" loading="lazy" height="16px" width="auto" /> **Cultivated Neonmelon Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/sapling/icon.png" alt="Neonmelon Sapling icon" loading="lazy" height=16px width="auto" /> [Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/sapling/icon.png" alt="Neonmelon Sapling icon" loading="lazy" height="16px" width="auto" /> [Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/eco/icon.png" alt="Eco Neonmelon Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoNeonmelonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/eco/icon.png" alt="Eco Neonmelon Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoNeonmelonSapling)
 
 ## Technical Information
 

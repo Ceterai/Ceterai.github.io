@@ -1,6 +1,6 @@
 # In Jelly Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod/icon.png" alt="In Jelly Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **In Jelly Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod/icon.png" alt="In Jelly Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **In Jelly Eco Pod ★** is a legendary plantable item.
 
 Contains a modified in jelly sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedJellySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedJellySapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" height=16px width="auto" /> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" height="16px" width="auto" /> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
 
 ## Technical Information
 

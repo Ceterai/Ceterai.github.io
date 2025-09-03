@@ -1,6 +1,6 @@
 # Alta Soup Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/soup/icon.png" alt="Alta Soup Serving icon" loading="lazy" height=16px width="auto" /> **Alta Soup Serving** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/soup/icon.png" alt="Alta Soup Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Soup Serving** is a legendary decorative object.
 
 A simple serving of an alta soup. Can be picked up right away to take a closer look.
 

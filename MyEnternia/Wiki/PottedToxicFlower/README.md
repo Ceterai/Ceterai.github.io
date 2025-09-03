@@ -1,6 +1,6 @@
 # Potted Toxic Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" height=16px width="auto" /> **Potted Toxic Flower** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" height="16px" width="auto" /> **Potted Toxic Flower** is a rare decorative object.
 
 A decorative plant in a big altan vase-like pod.
 
@@ -27,7 +27,7 @@ A decorative plant in a big altan vase-like pod.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" height=16px width="auto" /> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
 
 Unlocks blueprints for:
 

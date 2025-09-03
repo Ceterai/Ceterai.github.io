@@ -1,10 +1,10 @@
 # Ionic Cutter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" height=16px width="auto" /> **Ionic Cutter** is a rare two-handed electric tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" height="16px" width="auto" /> **Ionic Cutter** is a rare two-handed electric tool.
 
 An energy-based alta lumber cutter.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon_upg.png" alt="Enternia Cutter ★ icon" loading="lazy" height=16px width="auto" /> [Enternia Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCutter) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon_upg.png" alt="Enternia Cutter ★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCutter) at the Weapon Upgrade Anvil.
 
 ## Sources
 

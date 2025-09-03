@@ -1,8 +1,8 @@
 # Yaara Melon
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon icon" loading="lazy" height=16px width="auto" /> **Yaara Melon** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon icon" loading="lazy" height="16px" width="auto" /> **Yaara Melon** is a common dish.
 
-At their core, yaara melons are just an oversized sort of regular <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height=16px width="auto" /> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye), with a different texture and a slightly differing taste.  
+At their core, yaara melons are just an oversized sort of regular <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye), with a different texture and a slightly differing taste.  
 Size-wise they usually grow up similar to a pretty small watermelon, or a big pineapple (without the leaves).
 
 ## Ingame

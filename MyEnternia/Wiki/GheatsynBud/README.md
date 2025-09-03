@@ -1,6 +1,6 @@
 # Gheatsyn Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Bud** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height="16px" width="auto" /> **Gheatsyn Bud** is an uncommon plantable item.
 
 A budding crystal growing through a rock. Requires to be at least 50% in a liquid.
 
@@ -18,23 +18,23 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/eco/icon.png" alt="Eco Calin Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Calin Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCalinSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/pod/icon.png" alt="Gheatsyn Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GheatsynEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Nature](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/eco/icon.png" alt="Eco Calin Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Calin Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCalinSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/pod/icon.png" alt="Gheatsyn Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GheatsynEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Nature](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/sapling/icon.png" alt="Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/GheatsynSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/sapling/icon.png" alt="Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/GheatsynSapling)
 
 <details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/icon.png" alt="Alternia Seed icon" loading="lazy" height=16px width="auto" /> [Alternia Seed](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/boosted/icon.png" alt="Boosted Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGheatsynSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height=16px width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/pod/icon.png" alt="Gheatsyn Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GheatsynEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/sapling/icon.png" alt="Gheatsyn Sapling icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/GheatsynSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/icon.png" alt="Alternia Seed icon" loading="lazy" height="16px" width="auto" /> [Alternia Seed](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/boosted/icon.png" alt="Boosted Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGheatsynSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height="16px" width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/pod/icon.png" alt="Gheatsyn Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GheatsynEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/sapling/icon.png" alt="Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/GheatsynSapling)
 
 </details>
 
@@ -46,7 +46,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Wild Gheatsyn Bud icon" loading="lazy" height=16px width="auto" /> [Wild Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/WildGheatsynBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Wild Gheatsyn Bud icon" loading="lazy" height="16px" width="auto" /> [Wild Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/WildGheatsynBud)
 
 ## Technical Information
 

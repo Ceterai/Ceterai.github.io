@@ -1,6 +1,6 @@
 # Tserera Researcher Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Tserera Researcher Skirt icon" loading="lazy" height=16px width="auto" /> **Tserera Researcher Skirt** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Tserera Researcher Skirt icon" loading="lazy" height="16px" width="auto" /> **Tserera Researcher Skirt** is a rare leg item.
 
 An official Tserera researcher's legwear. Practical and well thought-out.
 

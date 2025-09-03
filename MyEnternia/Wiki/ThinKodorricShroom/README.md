@@ -1,6 +1,6 @@
 # Thin Kodorric Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric1.png" alt="Thin Kodorric Shroom icon" loading="lazy" height=16px width="auto" /> **Thin Kodorric Shroom** is a common light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric1.png" alt="Thin Kodorric Shroom icon" loading="lazy" height="16px" width="auto" /> **Thin Kodorric Shroom** is a common light source.
 
 A toxic glowing oshroom.
 

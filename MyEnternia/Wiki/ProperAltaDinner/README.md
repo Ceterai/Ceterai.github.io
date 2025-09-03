@@ -1,6 +1,6 @@
 # Proper Alta Dinner
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height=16px width="auto" /> **Proper Alta Dinner** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height="16px" width="auto" /> **Proper Alta Dinner** is a rare dish.
 
 A prepared assortment of highly satisfying goodness that will get you full in no time.  
 This meal is a staple in alta culinary culture. Each component is prepared separately, assorted, spiced up and presented at a high temperature.
@@ -14,41 +14,41 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 60
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: `maxhealthscalingboostfood`- Duration: 120, 
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 120, 
 
 - Effect: `runboostfood`- Duration: 120
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" height=16px width="auto" /> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" height="16px" width="auto" /> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
 
 ## Crafting
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 7 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height=16px width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Calin Chip Cookies icon" loading="lazy" height=16px width="auto" /> [Calin Chip Cookies](https://ceterai.github.io/MyEnternia/Wiki/CalinChipCookies)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" height=16px width="auto" /> [Candy Cookies ★](https://ceterai.github.io/MyEnternia/Wiki/CandyCookies)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" height=16px width="auto" /> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Exotic Tea ★ icon" loading="lazy" height=16px width="auto" /> [Exotic Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ExoticTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Mint-Tsay Tea icon" loading="lazy" height=16px width="auto" /> [Mint-Tsay Tea](https://ceterai.github.io/MyEnternia/Wiki/Mint-TsayTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height=16px width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height="16px" width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Calin Chip Cookies icon" loading="lazy" height="16px" width="auto" /> [Calin Chip Cookies](https://ceterai.github.io/MyEnternia/Wiki/CalinChipCookies)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" height="16px" width="auto" /> [Candy Cookies ★](https://ceterai.github.io/MyEnternia/Wiki/CandyCookies)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" height="16px" width="auto" /> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Exotic Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Exotic Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ExoticTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Mint-Tsay Tea icon" loading="lazy" height="16px" width="auto" /> [Mint-Tsay Tea](https://ceterai.github.io/MyEnternia/Wiki/Mint-TsayTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height="16px" width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
 </details>
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" height=16px width="auto" /> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height=16px width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" height=16px width="auto" /> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" height=16px width="auto" /> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" height="16px" width="auto" /> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height="16px" width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" height="16px" width="auto" /> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" height="16px" width="auto" /> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height=16px width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
 
 ## Sources
 
@@ -65,7 +65,7 @@ Given as rent by tenants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height=16px width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
 
 ## Technical Information
 

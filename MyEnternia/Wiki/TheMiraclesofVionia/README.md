@@ -1,6 +1,6 @@
 # The Miracles of Vionia
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" height=16px width="auto" /> **The Miracles of Vionia** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" height="16px" width="auto" /> **The Miracles of Vionia** is an uncommon codex entry.
 
 An informational storybook meant to teach altas about [vionia](https://ceterai.github.io/MyEnternia/Wiki/vionia), or enchanted energy, in a playful, entertaining way.  
 The happenings described in the book are meant to create an association with a healthy caution around [viona anomalies](https://ceterai.github.io/MyEnternia/Wiki/vionaanomalies).
@@ -19,22 +19,22 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" height=16px width="auto" /> [The Miracles of Vionia](https://ceterai.github.io/MyEnternia/Wiki/TheMiraclesofVionia)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" height="16px" width="auto" /> [The Miracles of Vionia](https://ceterai.github.io/MyEnternia/Wiki/TheMiraclesofVionia)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" height=16px width="auto" /> [The Miracles of Vionia](https://ceterai.github.io/MyEnternia/Wiki/TheMiraclesofVionia)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height=16px width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" height="16px" width="auto" /> [The Miracles of Vionia](https://ceterai.github.io/MyEnternia/Wiki/TheMiraclesofVionia)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" height="16px" width="auto" /> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height=16px width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height="16px" width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" height=16px width="auto" /> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Lava Drone ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png" alt="Lava Drone ★★ icon" loading="lazy" height=16px width="auto" /> **Lava Drone ★★** is a legendary fiery throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png" alt="Lava Drone ★★ icon" loading="lazy" height="16px" width="auto" /> **Lava Drone ★★** is a legendary fiery throwable item.
 
 This drone likes to swim in lava. Made out of a highly resistant material.  
 Based on the once infamous R200 model, for what it lacks in attacking power it compensates in protection.

@@ -1,8 +1,8 @@
 # Eva Nature
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height=16px width="auto" /> **Eva Nature** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> **Eva Nature** is a rare codex entry.
 
-An informational <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height=16px width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) that briefly describes a rare occurrence of nature in the sky.  
+An informational <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height="16px" width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) that briefly describes a rare occurrence of nature in the sky.  
 From the text it is clear that most of the flora found in eva is of cosmic origins, and boils down to alien lifeforms getting stuck in the clouds on their way down, surviving the fall.
 
 ## Ingame
@@ -20,23 +20,23 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height=16px width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height=16px width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height=16px width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/ezmeralda/icon.png" alt="Potted Ezmeralda icon" loading="lazy" height=16px width="auto" /> [Potted Ezmeralda](https://ceterai.github.io/MyEnternia/Wiki/PottedEzmeralda)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/ezmeralda/icon.png" alt="Potted Ezmeralda icon" loading="lazy" height="16px" width="auto" /> [Potted Ezmeralda](https://ceterai.github.io/MyEnternia/Wiki/PottedEzmeralda)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height=12px width=12px /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
+- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height="12px" width="12px" /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height=16px width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
 
 ## Technical Information
 

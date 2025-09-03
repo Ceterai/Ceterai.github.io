@@ -1,6 +1,6 @@
 # Broken Alta Ship Teleporter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/teleporter/icon.png" alt="Broken Alta Ship Teleporter icon" loading="lazy" height=16px width="auto" /> **Broken Alta Ship Teleporter** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/teleporter/icon.png" alt="Broken Alta Ship Teleporter icon" loading="lazy" height="16px" width="auto" /> **Broken Alta Ship Teleporter** is a rare decorative object.
 
 A massive teleportation portal, connects to bookmarked locations. Currently broken.
 

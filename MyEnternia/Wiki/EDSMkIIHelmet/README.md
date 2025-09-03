@@ -1,8 +1,8 @@
 # EDS MkII Helmet ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet_mk2/icon.png" alt="EDS MkII Helmet ★★ icon" loading="lazy" height=16px width="auto" /> **EDS MkII Helmet ★★** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet_mk2/icon.png" alt="EDS MkII Helmet ★★ icon" loading="lazy" height="16px" width="auto" /> **EDS MkII Helmet ★★** is a rare head item.
 
-An improved version of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height=16px width="auto" /> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet) with added energy capabilities.
+An improved version of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height="16px" width="auto" /> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet) with added energy capabilities.
 
 ## Ingame
 
@@ -13,7 +13,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" height=16px width="auto" /> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" height="16px" width="auto" /> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder)
 
 ## Sources
 

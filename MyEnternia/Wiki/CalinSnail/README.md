@@ -1,6 +1,6 @@
 # Calin Snail
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/calin_snail/icon.png" alt="Calin Snail icon" loading="lazy" height=16px width="auto" /> **Calin Snail** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/calin_snail/icon.png" alt="Calin Snail icon" loading="lazy" height="16px" width="auto" /> **Calin Snail** is an uncommon bug.
 
 An attached note reads, "Its shell is made out of a hollowed-out crystal."
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_calin_snail_egg.png" alt="Calin Snail Egg icon" loading="lazy" height=16px width="auto" /> [Calin Snail Egg](https://ceterai.github.io/MyEnternia/Wiki/CalinSnailEgg)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_calin_snail_egg.png" alt="Calin Snail Egg icon" loading="lazy" height="16px" width="auto" /> [Calin Snail Egg](https://ceterai.github.io/MyEnternia/Wiki/CalinSnailEgg)
 
 ## Sources
 

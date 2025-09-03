@@ -1,10 +1,10 @@
 # Artistic Bandana
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Bandana icon" loading="lazy" height=16px width="auto" /> **Artistic Bandana** is a common head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Bandana icon" loading="lazy" height="16px" width="auto" /> **Artistic Bandana** is a common head item.
 
 A simple bandana used by some artists to keep hair or other things out of their face.  
 _Where to find:_ [Alta Artist](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist)  
-Its pure silk material right from the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height=16px width="auto" /> [blossoming ayakas](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka) stays well on the bionical alta skin.
+Its pure silk material right from the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height="16px" width="auto" /> [blossoming ayakas](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka) stays well on the bionical alta skin.
 
 ## Ingame
 

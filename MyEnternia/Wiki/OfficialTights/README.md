@@ -1,6 +1,6 @@
 # Official Tights
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_tights/icon.png" alt="Official Tights icon" loading="lazy" height=16px width="auto" /> **Official Tights** is a common leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_tights/icon.png" alt="Official Tights icon" loading="lazy" height="16px" width="auto" /> **Official Tights** is a common leg item.
 
 A pair of tidy dark tights with sharp footwear. Light yet very official.
 

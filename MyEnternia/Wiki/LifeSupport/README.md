@@ -4,7 +4,7 @@ Constantly heals you by 2% each second.
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/protector/icon.png" alt="Enviroprotector ★ icon" loading="lazy" height=16px width="auto" /> [Enviroprotector ★](https://ceterai.github.io/MyEnternia/Wiki/Enviroprotector)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/protector/icon.png" alt="Enviroprotector ★ icon" loading="lazy" height="16px" width="auto" /> [Enviroprotector ★](https://ceterai.github.io/MyEnternia/Wiki/Enviroprotector)
 
 ## Parameters
 

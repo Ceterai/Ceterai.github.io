@@ -1,6 +1,6 @@
 # Wild Tsay Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Wild Tsay Seed icon" loading="lazy" height=16px width="auto" /> **Wild Tsay Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Wild Tsay Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Tsay Seed** is a common plantable item.
 
 Grows bitter-sour tsay fruits that when cooked properly can taste like meat.
 

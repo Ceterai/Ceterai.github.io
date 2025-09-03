@@ -1,6 +1,6 @@
 # Combat Augment
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_augment.png" alt="Combat Augment icon" loading="lazy" height=16px width="auto" /> **Combat Augment** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_augment.png" alt="Combat Augment icon" loading="lazy" height="16px" width="auto" /> **Combat Augment** is a rare epp augment.
 
 An EPP module that slightly boosts your power and movement speed.
 

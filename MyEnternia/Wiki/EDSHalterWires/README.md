@@ -1,6 +1,6 @@
 # EDS Halter Wires
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_wires/icon.png" alt="EDS Halter Wires icon" loading="lazy" height=16px width="auto" /> **EDS Halter Wires** is an uncommon electric trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_wires/icon.png" alt="EDS Halter Wires icon" loading="lazy" height="16px" width="auto" /> **EDS Halter Wires** is an uncommon electric trap.
 
 Wires from an [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) G3 Halter. [Electrified](https://ceterai.github.io/MyEnternia/Wiki/Electrified).  
 These were created to trap small creatures in place, as well as rogue or hostile machinery.
@@ -30,7 +30,7 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be bought from merchants:
 
@@ -39,7 +39,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 ## Technical Information
 

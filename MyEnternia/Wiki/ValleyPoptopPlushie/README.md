@@ -1,6 +1,6 @@
 # Valley Poptop Plushie ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_valley_poptop_plush.png" alt="Valley Poptop Plushie ★ icon" loading="lazy" height=16px width="auto" /> **Valley Poptop Plushie ★** is a rare toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_valley_poptop_plush.png" alt="Valley Poptop Plushie ★ icon" loading="lazy" height="16px" width="auto" /> **Valley Poptop Plushie ★** is a rare toy.
 
 A big poptop plushie in pastel colors.
 

@@ -1,6 +1,6 @@
 # Crystallized Scout Drone ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height=16px width="auto" /> **Crystallized Scout Drone ★** is an uncommon electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" height="16px" width="auto" /> **Crystallized Scout Drone ★** is an uncommon electric throwable item.
 
 A damaged [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) drone, overgrown with ionized crystals.  
 A falling star can be noticeably dangerous if you're not careful enough. Or if you're a drone. During a [starfall](https://ceterai.github.io/MyEnternia/Wiki/starfall).

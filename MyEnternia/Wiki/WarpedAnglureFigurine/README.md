@@ -1,6 +1,6 @@
 # Warped Anglure Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/anglure/ct_warped_anglure.png" alt="Warped Anglure Figurine ★ icon" loading="lazy" height=16px width="auto" /> **Warped Anglure Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/anglure/ct_warped_anglure.png" alt="Warped Anglure Figurine ★ icon" loading="lazy" height="16px" width="auto" /> **Warped Anglure Figurine ★** is a legendary figurine.
 
 The label reads, "This anglure has adapted to the venomous nature of [warped forests](https://ceterai.github.io/MyEnternia/Wiki/warpedforests)."
 

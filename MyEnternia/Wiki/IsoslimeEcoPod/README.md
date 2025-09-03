@@ -1,6 +1,6 @@
 # Isoslime Eco Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" height=16px width="auto" /> **Isoslime Eco Pod** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" height="16px" width="auto" /> **Isoslime Eco Pod** is a legendary plantable item.
 
 Contains a modified isoslime sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" height=16px width="auto" /> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" height="16px" width="auto" /> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
 
 ## Technical Information
 

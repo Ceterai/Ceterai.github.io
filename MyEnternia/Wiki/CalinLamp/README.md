@@ -1,6 +1,6 @@
 # Calin Lamp
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/lamp/icon.png" alt="Calin Lamp icon" loading="lazy" height=16px width="auto" /> **Calin Lamp** is an uncommon light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/lamp/icon.png" alt="Calin Lamp icon" loading="lazy" height="16px" width="auto" /> **Calin Lamp** is an uncommon light source.
 
 A glowing calin lamp. The mix of lights and shadows reminds of water light reflection.
 
@@ -23,11 +23,11 @@ A glowing calin lamp. The mix of lights and shadows reminds of water light refle
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height=16px width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height="16px" width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
 
 ## Technical Information
 

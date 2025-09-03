@@ -1,6 +1,6 @@
 # Diamond Sapling ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/sapling/icon.png" alt="Diamond Sapling ★★ icon" loading="lazy" height=16px width="auto" /> **Diamond Sapling ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/sapling/icon.png" alt="Diamond Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> **Diamond Sapling ★★** is a legendary plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages. Requires to be at least 50% in a liquid.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Diamond Bud icon" loading="lazy" height=16px width="auto" /> [Diamond Bud](https://ceterai.github.io/MyEnternia/Wiki/DiamondBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Diamond Bud icon" loading="lazy" height="16px" width="auto" /> [Diamond Bud](https://ceterai.github.io/MyEnternia/Wiki/DiamondBud)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height=16px width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/eco/icon.png" alt="Eco Diamond Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Diamond Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDiamondSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height="16px" width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/eco/icon.png" alt="Eco Diamond Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Diamond Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDiamondSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/boosted/icon.png" alt="Boosted Diamond Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedDiamondSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/eco/icon.png" alt="Eco Diamond Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Diamond Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDiamondSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/boosted/icon.png" alt="Boosted Diamond Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedDiamondSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/eco/icon.png" alt="Eco Diamond Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Diamond Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDiamondSapling)
 
 ## Sources
 

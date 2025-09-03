@@ -1,10 +1,10 @@
 # Pollenizer M7 ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon_upg.png" alt="Pollenizer M7 ★★ icon" loading="lazy" height=16px width="auto" /> **Pollenizer M7 ★★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon_upg.png" alt="Pollenizer M7 ★★ icon" loading="lazy" height="16px" width="auto" /> **Pollenizer M7 ★★** is a legendary two-handed tool.
 
 An advanced rechargeable pump intended for sending instects to sleep. Can be used instead of a bug net.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon.png" alt="Alta Pollenizer ★ icon" loading="lazy" height=16px width="auto" /> [Alta Pollenizer ★](https://ceterai.github.io/MyEnternia/Wiki/AltaPollenizer).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon.png" alt="Alta Pollenizer ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Pollenizer ★](https://ceterai.github.io/MyEnternia/Wiki/AltaPollenizer).
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Ceterai Emblem
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/ceterai/body.png" alt="Ceterai Emblem icon" loading="lazy" height=16px width="auto" /> **Ceterai Emblem** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/ceterai/body.png" alt="Ceterai Emblem icon" loading="lazy" height="16px" width="auto" /> **Ceterai Emblem** is a common decorative object.
 
 The Ceterai Project emblem, the glowing C.T.'s eye in all its light.
 

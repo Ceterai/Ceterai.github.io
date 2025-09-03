@@ -1,6 +1,6 @@
 # Eco Poi Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco_green/icon.png" alt="Eco Poi Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Poi Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco_green/icon.png" alt="Eco Poi Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Poi Sapling** is a rare plantable item.
 
 This slime sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" height=16px width="auto" /> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" height=16px width="auto" /> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" height="16px" width="auto" /> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" height=16px width="auto" /> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
 
 ## Technical Information
 

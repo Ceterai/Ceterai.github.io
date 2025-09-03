@@ -1,6 +1,6 @@
 # Crippit Scab ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_crippit_scab.png" alt="Crippit Scab ★ icon" loading="lazy" height=16px width="auto" /> **Crippit Scab ★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_crippit_scab.png" alt="Crippit Scab ★ icon" loading="lazy" height="16px" width="auto" /> **Crippit Scab ★** is a rare decorative object.
 
 A pristine scab, taken as trophy from an amenable crippit.
 

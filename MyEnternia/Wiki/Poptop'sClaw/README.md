@@ -1,6 +1,6 @@
 # Poptop's Claw ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_poptop_claw.png" alt="Poptop's Claw ★ icon" loading="lazy" height=16px width="auto" /> **Poptop's Claw ★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_poptop_claw.png" alt="Poptop's Claw ★ icon" loading="lazy" height="16px" width="auto" /> **Poptop's Claw ★** is a rare decorative object.
 
 A pristine replica of a poptop's crystal claw. The plaque reads, "With great power come great trophies."
 

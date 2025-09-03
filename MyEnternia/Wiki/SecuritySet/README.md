@@ -1,6 +1,6 @@
 # Security Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" height=16px width="auto" /> **Security Set** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" height="16px" width="auto" /> **Security Set** is an uncommon loot item.
 
 Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
@@ -20,7 +20,7 @@ Radiomessages on pickup:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" height=16px width="auto" /> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" height="16px" width="auto" /> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
 
 ## Sources
 

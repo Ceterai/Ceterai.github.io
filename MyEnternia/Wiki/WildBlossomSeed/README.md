@@ -1,6 +1,6 @@
 # Wild Blossom Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" height=16px width="auto" /> **Wild Blossom Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Blossom Seed** is a common plantable item.
 
 A bright plant with silky fibres forming near its branches.
 

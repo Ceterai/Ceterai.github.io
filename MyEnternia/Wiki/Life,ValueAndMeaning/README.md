@@ -1,6 +1,6 @@
 # Life, Value And Meaning
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" height=16px width="auto" /> **Life, Value And Meaning** is a legendary codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" height="16px" width="auto" /> **Life, Value And Meaning** is a legendary codex entry.
 
 An ebook with a short story displayed on the first and only page.  
 This story reiterates the connection between life in Io systems, and teaches altas to love life and their surroundings.
@@ -19,23 +19,23 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" height=16px width="auto" /> [Life, Value And Meaning](https://ceterai.github.io/MyEnternia/Wiki/Life,ValueAndMeaning)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" height="16px" width="auto" /> [Life, Value And Meaning](https://ceterai.github.io/MyEnternia/Wiki/Life,ValueAndMeaning)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" height=16px width="auto" /> [Life, Value And Meaning](https://ceterai.github.io/MyEnternia/Wiki/Life,ValueAndMeaning)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" height="16px" width="auto" /> [Life, Value And Meaning](https://ceterai.github.io/MyEnternia/Wiki/Life,ValueAndMeaning)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" height=16px width="auto" /> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and The Starflower Order icon" loading="lazy" height=16px width="auto" /> [Little Star and The Starflower Order](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandTheStarflowerOrder)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Observer icon" loading="lazy" height=16px width="auto" /> [The Observer](https://ceterai.github.io/MyEnternia/Wiki/TheObserver)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" height="16px" width="auto" /> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and The Starflower Order icon" loading="lazy" height="16px" width="auto" /> [Little Star and The Starflower Order](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandTheStarflowerOrder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Observer icon" loading="lazy" height="16px" width="auto" /> [The Observer](https://ceterai.github.io/MyEnternia/Wiki/TheObserver)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be bought from merchants:
 
@@ -43,7 +43,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height=16px width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
 
 ## Technical Information
 

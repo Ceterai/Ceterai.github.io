@@ -1,6 +1,6 @@
 # Alta Jelly Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_jelly_egg.png" alt="Alta Jelly Egg icon" loading="lazy" height=16px width="auto" /> **Alta Jelly Egg** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_jelly_egg.png" alt="Alta Jelly Egg icon" loading="lazy" height="16px" width="auto" /> **Alta Jelly Egg** is a common throwable item.
 
 Can be used to spawn a critter called [alta jelly](https://ceterai.github.io/MyEnternia/Wiki/altajelly), the most common jelly on alterash.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

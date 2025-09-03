@@ -1,6 +1,6 @@
 # Wild Evara Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Wild Evara Seed icon" loading="lazy" height=16px width="auto" /> **Wild Evara Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Wild Evara Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Evara Seed** is a common plantable item.
 
 An interesting plant with barely visible foam-like fruits.
 

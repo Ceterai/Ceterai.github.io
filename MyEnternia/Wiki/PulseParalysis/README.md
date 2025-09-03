@@ -10,7 +10,7 @@ Stuns you for 1.15 seconds. Having [Electric Immunity](https://ceterai.github.io
 
 - Animation: 
 
-  - Particles: `sparks`- Mini Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" height=16px width=16px /> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
+  - Particles: `sparks`- Mini Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" height="16px" width="16px" /> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
 
 ## Technical Information
 

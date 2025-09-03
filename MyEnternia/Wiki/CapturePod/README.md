@@ -1,6 +1,6 @@
 # Capture Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/capture/pod/body.png" alt="Capture Pod icon" loading="lazy" height=16px width="auto" /> **Capture Pod** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/capture/pod/body.png" alt="Capture Pod icon" loading="lazy" height="16px" width="auto" /> **Capture Pod** is a rare throwable item.
 
 Throw it at a monster to forcefully capture it and bring it to a new home.
 

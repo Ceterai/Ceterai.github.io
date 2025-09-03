@@ -1,6 +1,6 @@
 # EDS Server Connector Log
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Server Connector Log icon" loading="lazy" height=16px width="auto" /> **EDS Server Connector Log** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Server Connector Log icon" loading="lazy" height="16px" width="auto" /> **EDS Server Connector Log** is an uncommon codex entry.
 
 Some sort of unknown logging cache.  
 A datamass containing logs from an EDS server attempting to reconnect to its network. The logs contain various error codes and system messages, indicating multiple failed attempts to re-establish connection.
@@ -22,35 +22,35 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Server Connector Log icon" loading="lazy" height=16px width="auto" /> [EDS Server Connector Log](https://ceterai.github.io/MyEnternia/Wiki/EDSServerConnectorLog)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Server Connector Log icon" loading="lazy" height="16px" width="auto" /> [EDS Server Connector Log](https://ceterai.github.io/MyEnternia/Wiki/EDSServerConnectorLog)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Server Connector Log icon" loading="lazy" height=16px width="auto" /> [EDS Server Connector Log](https://ceterai.github.io/MyEnternia/Wiki/EDSServerConnectorLog)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Server Connector Log icon" loading="lazy" height="16px" width="auto" /> [EDS Server Connector Log](https://ceterai.github.io/MyEnternia/Wiki/EDSServerConnectorLog)
 
 ## Sources
 
 <details markdown="1"><summary>Found naturally in containers: (Expand 7 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height=16px width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height=16px width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" height=16px width="auto" /> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" height=16px width="auto" /> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height=16px width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
-- `outpostshippingcontainer`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" height="12px" width="30px" /> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 </details>
 
 <details markdown="1"><summary>Can be obtained from special items: (Expand 7 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
 
 </details>
 

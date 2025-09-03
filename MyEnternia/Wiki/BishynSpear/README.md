@@ -1,11 +1,11 @@
 # Bishyn Spear
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" height=16px width="auto" /> **Bishyn Spear** is a rare two-handed poisonous spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" height="16px" width="auto" /> **Bishyn Spear** is a rare two-handed poisonous spear.
 
 **WIP**. Be careful - the blade of this spear is made out of poisonous crystals.  
 In the hands of a professional, it can become both very useful and quite versatile. Made by [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) enthusiasts, it has a couple of unfinished features that could unravel its true potential.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" height=16px width="auto" /> [Razhus Az'Ar ★](https://ceterai.github.io/MyEnternia/Wiki/RazhusAz'Ar) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" height="16px" width="auto" /> [Razhus Az'Ar ★](https://ceterai.github.io/MyEnternia/Wiki/RazhusAz'Ar) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height="16px" width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
 
 Can be bought from merchants:
 
@@ -30,8 +30,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

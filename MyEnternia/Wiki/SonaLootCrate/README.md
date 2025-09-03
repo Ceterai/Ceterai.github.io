@@ -1,6 +1,6 @@
 # Sona Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" height=16px width="auto" /> **Sona Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Sona Loot Crate** is an uncommon loot item.
 
 Contains random loot from alterash snowy chests.  
 An alta pad with heat-preserving casing for usage in below-zero environments. Usually contains warm materials and thermo-clothing.
@@ -24,7 +24,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" height=16px width="auto" /> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)
 
 ## Technical Information
 

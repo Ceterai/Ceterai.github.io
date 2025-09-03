@@ -1,10 +1,10 @@
 # Soniathrower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" height=16px width="auto" /> **Soniathrower** is a rare one-handed cryogenic unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" height="16px" width="auto" /> **Soniathrower** is a rare one-handed cryogenic unique weapon.
 
-This cooling tool is usually used for firefighting and supercharging specific environments. It's able to withstand all the cold due to its <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height=16px width="auto" /> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) case.
+This cooling tool is usually used for firefighting and supercharging specific environments. It's able to withstand all the cold due to its <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height="16px" width="auto" /> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) case.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" height=16px width="auto" /> [Sonia's Breath ★](https://ceterai.github.io/MyEnternia/Wiki/Sonia'sBreath) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" height="16px" width="auto" /> [Sonia's Breath ★](https://ceterai.github.io/MyEnternia/Wiki/Sonia'sBreath) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -16,8 +16,8 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
-- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Can be bought from merchants:
 
@@ -27,8 +27,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

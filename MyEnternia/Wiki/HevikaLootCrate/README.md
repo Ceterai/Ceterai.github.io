@@ -1,6 +1,6 @@
 # Hevika Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height=16px width="auto" /> **Hevika Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Hevika Loot Crate** is an uncommon loot item.
 
 Contains random loot from [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) biome chests.  
 Often used by [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdis) for energy transportation, as well as containment of especially overcharged specimens.
@@ -9,7 +9,7 @@ Often used by [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrd
 
 Species descriptions:
 
-- Alta: I hope I can't get <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" height=16px width="auto" /> [hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) just from touching this. Probably not, but still a little scary.
+- Alta: I hope I can't get <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" height="16px" width="auto" /> [hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) just from touching this. Probably not, but still a little scary.
 
 Radiomessages on pickup:
 
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height=16px width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
 Can be bought from merchants:
 
@@ -27,7 +27,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height=16px width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
 
 ## Technical Information
 

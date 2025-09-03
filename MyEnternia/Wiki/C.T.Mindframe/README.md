@@ -1,6 +1,6 @@
 # C.T. Mindframe ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png" alt="C.T. Mindframe ★ icon" loading="lazy" height=16px width="auto" /> **C.T. Mindframe ★** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png" alt="C.T. Mindframe ★ icon" loading="lazy" height="16px" width="auto" /> **C.T. Mindframe ★** is a legendary head item.
 
 A misterious device, that you can put on your head. What is its purpose? The label on the side reads 'Mark II'. Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).
 
@@ -12,7 +12,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_mind.png" alt="Mind Field icon" loading="lazy" height=16px width="auto" /> [Mind Field](https://ceterai.github.io/MyEnternia/Wiki/MindField), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_mind.png" alt="Mind Field icon" loading="lazy" height="16px" width="auto" /> [Mind Field](https://ceterai.github.io/MyEnternia/Wiki/MindField), 
 
 - Stat: `breathProtection`- Amount: 1.0
 

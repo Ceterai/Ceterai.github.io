@@ -1,6 +1,6 @@
 # Riftera-S
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/riftera/icon.png" alt="Riftera-S icon" loading="lazy" height=16px width="auto" /> **Riftera-S** is a legendary bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/riftera/icon.png" alt="Riftera-S icon" loading="lazy" height="16px" width="auto" /> **Riftera-S** is a legendary bow.
 
 A powerful underwater energy tool for fighting squids. Designed by Neiteru.
 

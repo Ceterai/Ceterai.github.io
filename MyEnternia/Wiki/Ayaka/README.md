@@ -1,11 +1,11 @@
 # Ayaka
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height=16px width="auto" /> **Ayaka** is a common tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height="16px" width="auto" /> **Ayaka** is a common tree sapling.
 
-A regular _ayaka tree_, as you will find it in most alterash gardens and forests. Its stem consists of soft yet very useful <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height=16px width="auto" /> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood).  
+A regular _ayaka tree_, as you will find it in most alterash gardens and forests. Its stem consists of soft yet very useful <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood).  
 In general, ayaka is a family of growth, commonly found in form of [trees](https://ceterai.github.io/MyEnternia/Wiki/trees).
 
-More information on ayakas, their nature and how they're maintained, can be found here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height=16px width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
+More information on ayakas, their nature and how they're maintained, can be found here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height="16px" width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
 
 ## Ingame
 
@@ -32,26 +32,26 @@ More information on ayakas, their nature and how they're maintained, can be foun
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height=16px width="auto" /> [Young Ayaka](https://ceterai.github.io/MyEnternia/Wiki/YoungAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height="16px" width="auto" /> [Young Ayaka](https://ceterai.github.io/MyEnternia/Wiki/YoungAyaka)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_prime_tree.png" alt="Ayaka Prime icon" loading="lazy" height=16px width="auto" /> [Ayaka Prime](https://ceterai.github.io/MyEnternia/Wiki/AyakaPrime)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crimson_tree.png" alt="Crimson Ayaka icon" loading="lazy" height=16px width="auto" /> [Crimson Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrimsonAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_prime_tree.png" alt="Ayaka Prime icon" loading="lazy" height="16px" width="auto" /> [Ayaka Prime](https://ceterai.github.io/MyEnternia/Wiki/AyakaPrime)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crimson_tree.png" alt="Crimson Ayaka icon" loading="lazy" height="16px" width="auto" /> [Crimson Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrimsonAyaka)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height=16px width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height="16px" width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 
 ## Technical Information
 

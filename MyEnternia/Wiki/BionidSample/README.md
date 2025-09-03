@@ -1,8 +1,8 @@
 # Bionid Sample ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bionid/icon.png" alt="Bionid Sample ★★ icon" loading="lazy" height=16px width="auto" /> **Bionid Sample ★★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bionid/icon.png" alt="Bionid Sample ★★ icon" loading="lazy" height="16px" width="auto" /> **Bionid Sample ★★** is a rare decorative object.
 
-A perfect sample of a naturally-grown bion compound - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height=16px width="auto" /> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid), preserved on a small titanium pedestal.
+A perfect sample of a naturally-grown bion compound - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height="16px" width="auto" /> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid), preserved on a small titanium pedestal.
 
 ## Ingame
 

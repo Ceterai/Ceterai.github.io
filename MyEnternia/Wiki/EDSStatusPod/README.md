@@ -1,6 +1,6 @@
 # EDS Status Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/status_pods/status_pod/icon.png" alt="EDS Status Pod icon" loading="lazy" height=16px width="auto" /> **EDS Status Pod** is a rare object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/status_pods/status_pod/icon.png" alt="EDS Status Pod icon" loading="lazy" height="16px" width="auto" /> **EDS Status Pod** is a rare object.
 
 An armored status pod with red paint and markings that read '[EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)'. Certainly not a usual status pod.
 

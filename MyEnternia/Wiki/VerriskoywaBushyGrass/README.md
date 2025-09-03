@@ -1,6 +1,6 @@
 # Verriskoywa Bushy Grass
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="Verriskoywa Bushy Grass icon" loading="lazy" height=16px width="auto" /> **Verriskoywa Bushy Grass** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="Verriskoywa Bushy Grass icon" loading="lazy" height="16px" width="auto" /> **Verriskoywa Bushy Grass** is a common breakable object.
 
 A patch of tall grass. Be sure to check for critters!
 
@@ -26,7 +26,7 @@ This object **doesn't drop itself** when broken.
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass)
 
 ## Technical Information
 

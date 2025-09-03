@@ -1,6 +1,6 @@
 # Wild Gil Seeds
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Wild Gil Seeds icon" loading="lazy" height=16px width="auto" /> **Wild Gil Seeds** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Wild Gil Seeds icon" loading="lazy" height="16px" width="auto" /> **Wild Gil Seeds** is a common plantable item.
 
 A natural source of salt, wow.
 

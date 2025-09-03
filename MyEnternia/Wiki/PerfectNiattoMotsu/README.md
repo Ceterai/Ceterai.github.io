@@ -1,6 +1,6 @@
 # Perfect Niatto Motsu
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Perfect Niatto Motsu icon" loading="lazy" height=16px width="auto" /> **Perfect Niatto Motsu** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Perfect Niatto Motsu icon" loading="lazy" height="16px" width="auto" /> **Perfect Niatto Motsu** is a legendary dish.
 
 A perfectly crafted motsu based on nia ingredients.  
 This recipe is not very different from the original, however, it does happen to feature a great ingredient balance, making perfectly following the recipe very worth it.
@@ -14,10 +14,10 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 45
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: `maxenergyscalingboostfood`- Duration: 270, 
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" height="16px" width="16px" /> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 270, 
 
 - Effect: `energyregen`- Duration: 30
 
@@ -25,9 +25,9 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Ion Risotto icon" loading="lazy" height=16px width="auto" /> [Ion Risotto](https://ceterai.github.io/MyEnternia/Wiki/IonRisotto)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height=16px width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" height=16px width="auto" /> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Ion Risotto icon" loading="lazy" height="16px" width="auto" /> [Ion Risotto](https://ceterai.github.io/MyEnternia/Wiki/IonRisotto)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height="16px" width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" height="16px" width="auto" /> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
 
 ## Sources
 
@@ -37,7 +37,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height=16px width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
 
 ## Technical Information
 

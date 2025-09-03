@@ -1,6 +1,6 @@
 # Alta Aquarium
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/aquarium/icon.png" alt="Alta Aquarium icon" loading="lazy" height=16px width="auto" /> **Alta Aquarium** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/aquarium/icon.png" alt="Alta Aquarium icon" loading="lazy" height="16px" width="auto" /> **Alta Aquarium** is a legendary crafting station.
 
 An alta sewing machine with additional functionality.  
 Can create folded seams and protects the operator from the needle.

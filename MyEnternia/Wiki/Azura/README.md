@@ -1,6 +1,6 @@
 # Azura
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height=16px width="auto" /> **Azura** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height="16px" width="auto" /> **Azura** is an uncommon tree sapling.
 
 An alien tree rarely found anywhere in nature, apart from radioactive planets and scarse alive areas on enterash planets.  
 This tree consists of a special type of wood often used in decorative furniture crafting.
@@ -30,13 +30,13 @@ This tree consists of a special type of wood often used in decorative furniture 
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height=16px width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height=16px width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height="16px" width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height=16px width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Azura Seed icon" loading="lazy" height=16px width="auto" /> [Azura Seed](https://ceterai.github.io/MyEnternia/Wiki/AzuraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height="16px" width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Azura Seed icon" loading="lazy" height="16px" width="auto" /> [Azura Seed](https://ceterai.github.io/MyEnternia/Wiki/AzuraSeed)
 
 ## Sources
 

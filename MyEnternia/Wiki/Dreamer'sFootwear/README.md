@@ -1,6 +1,6 @@
 # Dreamer's Footwear
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/legwear/icon.png" alt="Dreamer's Footwear icon" loading="lazy" height=16px width="auto" /> **Dreamer's Footwear** is a legendary leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/legwear/icon.png" alt="Dreamer's Footwear icon" loading="lazy" height="16px" width="auto" /> **Dreamer's Footwear** is a legendary leg item.
 
 This energy legwear refills your energy when you loose your health.
 
@@ -12,7 +12,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height=16px width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height="16px" width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage), 
 
 - Stat: `fallDamageMultiplier`- Effective Multiplier: 0.85, 
 
@@ -27,7 +27,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" height=16px width="auto" /> [Dreamer Set](https://ceterai.github.io/MyEnternia/Wiki/DreamerSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" height="16px" width="auto" /> [Dreamer Set](https://ceterai.github.io/MyEnternia/Wiki/DreamerSet)
 
 ## Technical Information
 

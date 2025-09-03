@@ -1,24 +1,24 @@
 # A Secret Note
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="A Secret Note icon" loading="lazy" height=16px width="auto" /> **A Secret Note** is a legendary codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="A Secret Note icon" loading="lazy" height="16px" width="auto" /> **A Secret Note** is a legendary codex entry.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height=16px width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains some personal notes.
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height="16px" width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains some personal notes.
 
 ## Crafting
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="A Secret Note icon" loading="lazy" height=16px width="auto" /> [A Secret Note](https://ceterai.github.io/MyEnternia/Wiki/ASecretNote)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="A Secret Note icon" loading="lazy" height="16px" width="auto" /> [A Secret Note](https://ceterai.github.io/MyEnternia/Wiki/ASecretNote)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="A Secret Note icon" loading="lazy" height=16px width="auto" /> [A Secret Note](https://ceterai.github.io/MyEnternia/Wiki/ASecretNote)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="A Secret Note icon" loading="lazy" height="16px" width="auto" /> [A Secret Note](https://ceterai.github.io/MyEnternia/Wiki/ASecretNote)
 
 ## Sources
 
 Found naturally in containers:
 
-- `outpostshippingcontainer`
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" height="12px" width="30px" /> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 ## Technical Information
 

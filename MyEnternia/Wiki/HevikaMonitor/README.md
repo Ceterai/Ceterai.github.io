@@ -1,6 +1,6 @@
 # Hevika Monitor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/monitor/icon.png" alt="Hevika Monitor icon" loading="lazy" height=16px width="auto" /> **Hevika Monitor** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/monitor/icon.png" alt="Hevika Monitor icon" loading="lazy" height="16px" width="auto" /> **Hevika Monitor** is an uncommon decorative object.
 
 A wall mounted titanium monitor. Doesn't really show anything. May need configuring first.
 
@@ -23,11 +23,11 @@ A wall mounted titanium monitor. Doesn't really show anything. May need configur
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height=16px width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height=16px width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
 
 ## Technical Information
 

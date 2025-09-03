@@ -1,6 +1,6 @@
 # "Sentia's Crown" Pie ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" height=16px width="auto" /> **"Sentia's Crown" Pie ★** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" height="16px" width="auto" /> **"Sentia's Crown" Pie ★** is a rare dish.
 
 Full of sweet-sweet hardened [warped honey](https://ceterai.github.io/MyEnternia/Wiki/warpedhoney), enchanting [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) extracts and [archulin jam](https://ceterai.github.io/MyEnternia/Wiki/archulinjam)-based topping, this pie is basically filled with love! And... something else?...  
 It's known that [nivera sentias](https://ceterai.github.io/MyEnternia/Wiki/niverasentias) are often seen baking this interesting dish, and feeding it to unsuspecting altas. Sounds scary...
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height=16px width="auto" /> [Alta Pie Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPieServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Pie Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPieServing)
 
 ## Technical Information
 

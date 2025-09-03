@@ -1,8 +1,8 @@
 # Crystal Hyolic Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_hyolic_growth_crystal.png" alt="Crystal Hyolic Shroom icon" loading="lazy" height=16px width="auto" /> **Crystal Hyolic Shroom** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_hyolic_growth_crystal.png" alt="Crystal Hyolic Shroom icon" loading="lazy" height="16px" width="auto" /> **Crystal Hyolic Shroom** is an uncommon tree sapling.
 
-This variation of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_hyolic_growth.png" alt="Hyolic Shroom icon" loading="lazy" height=16px width="auto" /> [hyolic shroom](https://ceterai.github.io/MyEnternia/Wiki/HyolicShroom) has weird crystal-looking growth on its stipe.
+This variation of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_hyolic_growth.png" alt="Hyolic Shroom icon" loading="lazy" height="16px" width="auto" /> [hyolic shroom](https://ceterai.github.io/MyEnternia/Wiki/HyolicShroom) has weird crystal-looking growth on its stipe.
 
 ## Ingame
 
@@ -29,11 +29,11 @@ This variation of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height="12px" width="12px" /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height=16px width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 
 ## Technical Information
 

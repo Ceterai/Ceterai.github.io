@@ -1,6 +1,6 @@
 # Light Service Pants
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_pants/icon.png" alt="Light Service Pants icon" loading="lazy" height=16px width="auto" /> **Light Service Pants** is a common leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_pants/icon.png" alt="Light Service Pants icon" loading="lazy" height="16px" width="auto" /> **Light Service Pants** is a common leg item.
 
 A bottom issue for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) servicers who prefer trousers over skirts.
 

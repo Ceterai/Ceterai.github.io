@@ -1,6 +1,6 @@
 # Miko Fresh
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Miko Fresh icon" loading="lazy" height=16px width="auto" /> **Miko Fresh** is a common drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Miko Fresh icon" loading="lazy" height="16px" width="auto" /> **Miko Fresh** is a common drink.
 
 A direct extract from [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) petals. Active components in its fibres tend to positively impact inner workings of different organisms.  
 Aspiring [alta artists](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist) often drink these in search of muse and inspiration, as miko flower dishes tend to have culturally positive connotations to them.
@@ -9,15 +9,15 @@ Aspiring [alta artists](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist) of
 
 Species descriptions:
 
-- Alta: Aww, this is so sweet and inspiring! Kinda like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Miko Honey icon" loading="lazy" height=16px width="auto" /> [miko honey](https://ceterai.github.io/MyEnternia/Wiki/MikoHoney).
+- Alta: Aww, this is so sweet and inspiring! Kinda like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Miko Honey icon" loading="lazy" height="16px" width="auto" /> [miko honey](https://ceterai.github.io/MyEnternia/Wiki/MikoHoney).
 
 ## Parameters
 
 - Food Value: 14
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: `maxhealthboost20`- Duration: 60, 
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (20%)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 60, 
 
 - Effect: `love`- Duration: 5
 
@@ -25,8 +25,8 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height=16px width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height="16px" width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height="16px" width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
 
 ## Sources
 
@@ -36,7 +36,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height=16px width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Berry Bobfae Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/bobfae/ct_berry_bobfae.png" alt="Berry Bobfae Figurine icon" loading="lazy" height=16px width="auto" /> **Berry Bobfae Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/bobfae/ct_berry_bobfae.png" alt="Berry Bobfae Figurine icon" loading="lazy" height="16px" width="auto" /> **Berry Bobfae Figurine** is a legendary figurine.
 
 The label reads, "As the name suggests, berry bobfae's diet consists mostly of sweet berries and other smaller fruits and even some flowers."
 

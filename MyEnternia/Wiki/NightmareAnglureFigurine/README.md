@@ -1,6 +1,6 @@
 # Nightmare Anglure Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/anglure/ct_nightmare_anglure.png" alt="Nightmare Anglure Figurine ★ icon" loading="lazy" height=16px width="auto" /> **Nightmare Anglure Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/anglure/ct_nightmare_anglure.png" alt="Nightmare Anglure Figurine ★ icon" loading="lazy" height="16px" width="auto" /> **Nightmare Anglure Figurine ★** is a legendary figurine.
 
 The label reads, "An almost invisible creature, whose light is the best way to know that you should run away immediately."
 

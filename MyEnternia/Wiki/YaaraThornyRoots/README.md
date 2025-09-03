@@ -1,6 +1,6 @@
 # Yaara Thorny Roots
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="Yaara Thorny Roots icon" loading="lazy" height=16px width="auto" /> **Yaara Thorny Roots** is an uncommon electric trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="Yaara Thorny Roots icon" loading="lazy" height="16px" width="auto" /> **Yaara Thorny Roots** is an uncommon electric trap.
 
 These roots are covered in dense electro-crystallic thorns.  
 Those crystals grow naturally from the root endings, although this process is a result of heavy alternia influence on the plant, as well as overall external electric aspect of it.
@@ -30,7 +30,7 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be bought from merchants:
 
@@ -38,7 +38,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 ## Technical Information
 

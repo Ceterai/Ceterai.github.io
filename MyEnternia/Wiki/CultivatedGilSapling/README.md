@@ -1,6 +1,6 @@
 # Cultivated Gil Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/cultivated/icon.png" alt="Cultivated Gil Sapling icon" loading="lazy" height=16px width="auto" /> **Cultivated Gil Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/cultivated/icon.png" alt="Cultivated Gil Sapling icon" loading="lazy" height="16px" width="auto" /> **Cultivated Gil Sapling** is an uncommon plantable item.
 
 Cultivation further improves speed and stability of growth, but also of ripening.
 
@@ -23,19 +23,19 @@ Cultivation further improves speed and stability of growth, but also of ripening
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/sapling/icon.png" alt="Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/GilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/sapling/icon.png" alt="Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/GilSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/eco/icon.png" alt="Eco Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/eco/icon.png" alt="Eco Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGilSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/boosted/icon.png" alt="Boosted Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGilSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/eco/icon.png" alt="Eco Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGilSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/fertile/icon.png" alt="Fertile Gil Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Fertile Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileGilSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/boosted/icon.png" alt="Boosted Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/eco/icon.png" alt="Eco Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/fertile/icon.png" alt="Fertile Gil Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Fertile Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
 
 ## Technical Information
 

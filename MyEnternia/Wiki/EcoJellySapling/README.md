@@ -1,6 +1,6 @@
 # Eco Jelly Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco/icon.png" alt="Eco Jelly Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Jelly Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco/icon.png" alt="Eco Jelly Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Jelly Sapling** is a rare plantable item.
 
 This warped hive sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,16 +14,16 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/sapling/icon.png" alt="Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/JellySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/sapling/icon.png" alt="Jelly Sapling icon" loading="lazy" height="16px" width="auto" /> [Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/JellySapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedJellySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedJellySapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod/icon.png" alt="In Jelly Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [In Jelly Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/InJellyEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod/icon.png" alt="In Jelly Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [In Jelly Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/InJellyEcoPod)
 
 ## Technical Information
 

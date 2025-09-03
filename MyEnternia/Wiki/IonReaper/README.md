@@ -1,6 +1,6 @@
 # Ion Reaper ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.png" alt="Ion Reaper ★ icon" loading="lazy" height=16px width="auto" /> **Ion Reaper ★** is a legendary two-handed electric shotgun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.png" alt="Ion Reaper ★ icon" loading="lazy" height="16px" width="auto" /> **Ion Reaper ★** is a legendary two-handed electric shotgun.
 
 A true dreamer's weapon, a creation of chaos. A powerful electric blaster that launches double ricocheting [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) projectiles.
 
@@ -20,7 +20,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

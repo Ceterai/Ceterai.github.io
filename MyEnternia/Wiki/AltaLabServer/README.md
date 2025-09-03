@@ -1,6 +1,6 @@
 # Alta Lab Server
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" height=16px width="auto" /> **Alta Lab Server** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Server** is an uncommon decorative object.
 
 It looks like a server. I wonder what kind of games could be hosted on that.
 

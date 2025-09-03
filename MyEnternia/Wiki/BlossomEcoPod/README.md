@@ -1,6 +1,6 @@
 # Blossom Eco Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> **Blossom Eco Pod ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Blossom Eco Pod ★★** is a legendary plantable item.
 
 Contains a modified silk fibre sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height=16px width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height="16px" width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
 
 ## Technical Information
 

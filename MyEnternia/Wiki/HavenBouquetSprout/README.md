@@ -1,6 +1,6 @@
 # Haven Bouquet Sprout
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height=16px width="auto" /> **Haven Bouquet Sprout** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height="16px" width="auto" /> **Haven Bouquet Sprout** is an uncommon plantable item.
 
 A vibrant multiflower that snives with different colors.
 
@@ -18,22 +18,22 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height=16px width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height="16px" width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Haven Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/HavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Haven Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/HavenSapling)
 
 <details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/icon.png" alt="Ceternia Seed icon" loading="lazy" height=16px width="auto" /> [Ceternia Seed](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Haven Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/HavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" height=16px width="auto" /> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/icon.png" alt="Ceternia Seed icon" loading="lazy" height="16px" width="auto" /> [Ceternia Seed](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Haven Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/HavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" height="16px" width="auto" /> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
 
 </details>
 
@@ -41,16 +41,16 @@ Unlocks blueprints for:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Wild Haven Sprout icon" loading="lazy" height=16px width="auto" /> [Wild Haven Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildHavenSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Wild Haven Sprout icon" loading="lazy" height="16px" width="auto" /> [Wild Haven Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildHavenSprout)
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height=16px width="auto" /> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Haven Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/HavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Wild Haven Sprout icon" loading="lazy" height=16px width="auto" /> [Wild Haven Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildHavenSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" height="16px" width="auto" /> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Haven Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/HavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Wild Haven Sprout icon" loading="lazy" height="16px" width="auto" /> [Wild Haven Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildHavenSprout)
 
 </details>
 

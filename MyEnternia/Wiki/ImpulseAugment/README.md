@@ -1,6 +1,6 @@
 # Impulse Augment ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_impulse_augment.png" alt="Impulse Augment ★ icon" loading="lazy" height=16px width="auto" /> **Impulse Augment ★** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_impulse_augment.png" alt="Impulse Augment ★ icon" loading="lazy" height="16px" width="auto" /> **Impulse Augment ★** is a rare epp augment.
 
 An EPP module that makes you periodically burst with ionic clouds.
 

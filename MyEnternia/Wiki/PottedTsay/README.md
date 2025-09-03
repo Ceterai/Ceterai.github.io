@@ -1,6 +1,6 @@
 # Potted Tsay
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/tsay/icon.png" alt="Potted Tsay icon" loading="lazy" height=16px width="auto" /> **Potted Tsay** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/tsay/icon.png" alt="Potted Tsay icon" loading="lazy" height="16px" width="auto" /> **Potted Tsay** is an uncommon decorative object.
 
 A seemingly unsuspecting plant in a small pot.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/eco/icon.png" alt="Eco Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/eco/icon.png" alt="Eco Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTsaySapling)
 
 ## Sources
 

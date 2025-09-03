@@ -1,6 +1,6 @@
 # On Tavriya Climate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" height=16px width="auto" /> **On Tavriya Climate** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" height="16px" width="auto" /> **On Tavriya Climate** is a rare codex entry.
 
 This datamass describes a report on a rare phenomenon that occurs in [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya) areas on [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets.  
 The growth mentioned in the report is cryonic algae that forms deep underneath the surface, usually from remains of isoslime residue.
@@ -20,12 +20,12 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" height=16px width="auto" /> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" height="16px" width="auto" /> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" height=16px width="auto" /> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" height=16px width="auto" /> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" height="16px" width="auto" /> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" height="16px" width="auto" /> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
 
 ## Sources
 
@@ -36,7 +36,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" height=16px width="auto" /> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Aya Virma Plushie
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_aya_virma_plush.png" alt="Aya Virma Plushie icon" loading="lazy" height=16px width="auto" /> **Aya Virma Plushie** is an uncommon toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_aya_virma_plush.png" alt="Aya Virma Plushie icon" loading="lazy" height="16px" width="auto" /> **Aya Virma Plushie** is an uncommon toy.
 
 A small plushie made after a poisonous vine plant found in ayaka forests.
 

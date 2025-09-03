@@ -1,6 +1,6 @@
 # Tea Cafe Sign
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Tea Cafe Sign icon" loading="lazy" height=16px width="auto" /> **Tea Cafe Sign** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Tea Cafe Sign icon" loading="lazy" height="16px" width="auto" /> **Tea Cafe Sign** is an uncommon decorative object.
 
 A sign indicating a nearby herb cafe.  
 Tea cafes are quite common among altas, as well as the tea itself, with hundreds of recipes being shared in different alta cooking books.

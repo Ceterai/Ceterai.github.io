@@ -1,6 +1,6 @@
 # Striped Cape
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Striped Cape icon" loading="lazy" height=16px width="auto" /> **Striped Cape** is a rare back item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Striped Cape icon" loading="lazy" height="16px" width="auto" /> **Striped Cape** is a rare back item.
 
 An alta cape with colored stripes used mainly for insignias and other faction markings. Made from flexible bion compounds.  
 While not a very popular option for alta uniforms, it's a personal fashionable choice for many altas.

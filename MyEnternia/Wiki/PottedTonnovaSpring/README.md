@@ -1,6 +1,6 @@
 # Potted Tonnova Spring
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" height=16px width="auto" /> **Potted Tonnova Spring** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" height="16px" width="auto" /> **Potted Tonnova Spring** is a rare decorative object.
 
 A seemingly unsuspecting plant in a tall pot.
 
@@ -14,8 +14,8 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_spiral_tree.png" alt="Tonnova Spiral icon" loading="lazy" height=16px width="auto" /> [Tonnova Spiral](https://ceterai.github.io/MyEnternia/Wiki/TonnovaSpiral)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" height=16px width="auto" /> [Wide Tonnova](https://ceterai.github.io/MyEnternia/Wiki/WideTonnova)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_spiral_tree.png" alt="Tonnova Spiral icon" loading="lazy" height="16px" width="auto" /> [Tonnova Spiral](https://ceterai.github.io/MyEnternia/Wiki/TonnovaSpiral)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" height="16px" width="auto" /> [Wide Tonnova](https://ceterai.github.io/MyEnternia/Wiki/WideTonnova)
 
 ## Technical Information
 

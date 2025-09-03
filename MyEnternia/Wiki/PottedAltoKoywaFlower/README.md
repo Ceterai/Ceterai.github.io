@@ -1,6 +1,6 @@
 # Potted Alto Koywa Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" height=16px width="auto" /> **Potted Alto Koywa Flower** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" height="16px" width="auto" /> **Potted Alto Koywa Flower** is a common decorative object.
 
 A seemingly unsuspecting flower in a tall pot.
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower)
 
 ## Sources
 

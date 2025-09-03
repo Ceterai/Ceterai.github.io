@@ -1,6 +1,6 @@
 # Obsidian Crippit Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_obsidian_crippit_egg.png" alt="Obsidian Crippit Egg icon" loading="lazy" height=16px width="auto" /> **Obsidian Crippit Egg** is a legendary one-handed throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_obsidian_crippit_egg.png" alt="Obsidian Crippit Egg icon" loading="lazy" height="16px" width="auto" /> **Obsidian Crippit Egg** is a legendary one-handed throwable item.
 
 Can be used to spawn a creature called [obsidian crippit](https://ceterai.github.io/MyEnternia/Wiki/obsidiancrippit).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

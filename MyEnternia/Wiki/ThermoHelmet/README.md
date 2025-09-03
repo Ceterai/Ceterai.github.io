@@ -1,9 +1,9 @@
 # Thermo Helmet ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="Thermo Helmet ★ icon" loading="lazy" height=16px width="auto" /> **Thermo Helmet ★** is an uncommon head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="Thermo Helmet ★ icon" loading="lazy" height="16px" width="auto" /> **Thermo Helmet ★** is an uncommon head item.
 
 A power ranger helmet often used by riverside alta scouts.  
-Similar to the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Thermoscreen ★ icon" loading="lazy" height=16px width="auto" /> [thermoscreen](https://ceterai.github.io/MyEnternia/Wiki/Thermoscreen), this helmet is equipped with thermodetective technology.
+Similar to the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Thermoscreen ★ icon" loading="lazy" height="16px" width="auto" /> [thermoscreen](https://ceterai.github.io/MyEnternia/Wiki/Thermoscreen), this helmet is equipped with thermodetective technology.
 
 ## Ingame
 
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" height=16px width="auto" /> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" height="16px" width="auto" /> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder)
 
 ## Sources
 

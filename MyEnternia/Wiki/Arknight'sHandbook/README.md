@@ -1,6 +1,6 @@
 # Arknight's Handbook
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Arknight's Handbook icon" loading="lazy" height=16px width="auto" /> **Arknight's Handbook** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Arknight's Handbook icon" loading="lazy" height="16px" width="auto" /> **Arknight's Handbook** is a rare codex entry.
 
 An ebook containing brief notes about duty and responsibilities.  
 This was written by a beginner arknight alta as part of her learning experience.
@@ -19,21 +19,21 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Arknight's Handbook icon" loading="lazy" height=16px width="auto" /> [Arknight's Handbook](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sHandbook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Arknight's Handbook icon" loading="lazy" height="16px" width="auto" /> [Arknight's Handbook](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sHandbook)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Arknight's Handbook icon" loading="lazy" height=16px width="auto" /> [Arknight's Handbook](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sHandbook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Arknight's Handbook icon" loading="lazy" height="16px" width="auto" /> [Arknight's Handbook](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sHandbook)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height=12px width=12px /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
+- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height="12px" width="12px" /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height=16px width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
 
 ## Technical Information
 

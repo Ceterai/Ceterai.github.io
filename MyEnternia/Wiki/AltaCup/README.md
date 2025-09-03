@@ -1,6 +1,6 @@
 # Alta Cup
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cup/icon.png" alt="Alta Cup icon" loading="lazy" height=16px width="auto" /> **Alta Cup** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cup/icon.png" alt="Alta Cup icon" loading="lazy" height="16px" width="auto" /> **Alta Cup** is a common decorative object.
 
 A simple kitchen glass made out of crystals. Tiny, effective, and very pretty. Can be used in cooking.  
 Even though this is technically a glass, the word "cup" was chosen by altas to not cause material confusion.
@@ -24,10 +24,10 @@ Even though this is technically a glass, the word "cup" was chosen by altas to n
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" height=16px width="auto" /> [Alta Conserver](https://ceterai.github.io/MyEnternia/Wiki/AltaConserver)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/dishes/icon.png" alt="Alta Dishes icon" loading="lazy" height=16px width="auto" /> [Alta Dishes](https://ceterai.github.io/MyEnternia/Wiki/AltaDishes)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fermenter/icon.png" alt="Alta Fermenter icon" loading="lazy" height=16px width="auto" /> [Alta Fermenter](https://ceterai.github.io/MyEnternia/Wiki/AltaFermenter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" height=16px width="auto" /> [Alta Milker](https://ceterai.github.io/MyEnternia/Wiki/AltaMilker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" height="16px" width="auto" /> [Alta Conserver](https://ceterai.github.io/MyEnternia/Wiki/AltaConserver)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/dishes/icon.png" alt="Alta Dishes icon" loading="lazy" height="16px" width="auto" /> [Alta Dishes](https://ceterai.github.io/MyEnternia/Wiki/AltaDishes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fermenter/icon.png" alt="Alta Fermenter icon" loading="lazy" height="16px" width="auto" /> [Alta Fermenter](https://ceterai.github.io/MyEnternia/Wiki/AltaFermenter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" height="16px" width="auto" /> [Alta Milker](https://ceterai.github.io/MyEnternia/Wiki/AltaMilker)
 
 ## Technical Information
 

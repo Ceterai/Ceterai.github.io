@@ -1,6 +1,6 @@
 # Pink Aya Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sort/icon.png" alt="Pink Aya Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Pink Aya Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sort/icon.png" alt="Pink Aya Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Pink Aya Sapling ★** is an uncommon plantable item.
 
 This aya sapling was genetically modified to produce a different aya sort.
 
@@ -14,12 +14,12 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/eco/icon.png" alt="Eco Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/eco/icon.png" alt="Eco Aya Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoAyaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height=16px width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/boosted/icon.png" alt="Boosted Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height="16px" width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/boosted/icon.png" alt="Boosted Aya Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedAyaSapling)
 
 ## Technical Information
 

@@ -1,11 +1,11 @@
 # Young Ayaka
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height=16px width="auto" /> **Young Ayaka** is a common tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height="16px" width="auto" /> **Young Ayaka** is a common tree sapling.
 
 A small _ayaka tree_ before its blossoming stage, slowed down by botanical engineering.  
 In general, ayaka is a family of growth, commonly found in form of [trees](https://ceterai.github.io/MyEnternia/Wiki/trees).
 
-More information on ayakas, their nature and how they're maintained, can be found here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height=16px width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
+More information on ayakas, their nature and how they're maintained, can be found here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height="16px" width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
 
 ## Ingame
 
@@ -32,14 +32,14 @@ More information on ayakas, their nature and how they're maintained, can be foun
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Guide ★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" height=16px width="auto" /> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height=16px width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/icon.png" alt="Wild Aya Tuber icon" loading="lazy" height=16px width="auto" /> [Wild Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/WildAyaTuber)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Guide ★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" height="16px" width="auto" /> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height="16px" width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/icon.png" alt="Wild Aya Tuber icon" loading="lazy" height="16px" width="auto" /> [Wild Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/WildAyaTuber)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height=16px width="auto" /> [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height="16px" width="auto" /> [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka)
 
 ## Sources
 

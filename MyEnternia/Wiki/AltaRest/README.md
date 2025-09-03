@@ -1,6 +1,6 @@
 # Alta Rest
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/rest/icon.png" alt="Alta Rest icon" loading="lazy" height=16px width="auto" /> **Alta Rest** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/rest/icon.png" alt="Alta Rest icon" loading="lazy" height="16px" width="auto" /> **Alta Rest** is a common decorative object.
 
 A tiny coffee table made out of titanium. Only 2 blocks wide.  
 Most basic alta furniture is designed to be simple, lightweight, and, most importantly, easy to clean and disassemble. The goal is to be comfortable and portable at the same time, while also being easy to recycle if needed.

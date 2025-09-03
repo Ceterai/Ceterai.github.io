@@ -1,6 +1,6 @@
 # Alta Meal Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height=16px width="auto" /> **Alta Meal Serving** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Meal Serving** is a legendary decorative object.
 
 A simple serving of an alta meal. Can be picked up right away to take a closer look.
 

@@ -1,6 +1,6 @@
 # EDS Android Defensystem ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" height=16px width="auto" /> **EDS Android Defensystem ★** is a rare back item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" height="16px" width="auto" /> **EDS Android Defensystem ★** is a rare back item.
 
 A modularized defense system of an advanced [EDS Android Set](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidSet).
 
@@ -13,7 +13,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_rocket_aimbot.png" alt="EDS Rocket Aimbot icon" loading="lazy" height=16px width="auto" /> [EDS Rocket Aimbot](https://ceterai.github.io/MyEnternia/Wiki/EDSRocketAimbot), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_protection.png" alt="EDS Protection Enhancement icon" loading="lazy" height=16px width="auto" /> [EDS Protection Enhancement](https://ceterai.github.io/MyEnternia/Wiki/EDSProtectionEnhancement)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_rocket_aimbot.png" alt="EDS Rocket Aimbot icon" loading="lazy" height="16px" width="auto" /> [EDS Rocket Aimbot](https://ceterai.github.io/MyEnternia/Wiki/EDSRocketAimbot), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_protection.png" alt="EDS Protection Enhancement icon" loading="lazy" height="16px" width="auto" /> [EDS Protection Enhancement](https://ceterai.github.io/MyEnternia/Wiki/EDSProtectionEnhancement)
 
 ## Sources
 
@@ -24,15 +24,15 @@ Can be bought from merchants:
 
 Drops from defeated creatures:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Empty EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmptyEDSFrigateDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" height="16px" width="auto" /> [Empty EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmptyEDSFrigateDrone)
 
 Drops from creatures defeated with any **bow**:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/defensive.png" alt="EDS Defensive Drone ★ icon" loading="lazy" height=16px width="auto" /> [EDS Defensive Drone ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" height=16px width="auto" /> [EDS Droid ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDroid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" height=16px width="auto" /> [Empty EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmptyEDSFrigateDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/defensive.png" alt="EDS Defensive Drone ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Defensive Drone ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Droid ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" height="16px" width="auto" /> [Empty EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmptyEDSFrigateDrone)
 
 ## Technical Information
 

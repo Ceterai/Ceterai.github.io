@@ -1,8 +1,8 @@
 # Eyed Yaara Node
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" height=16px width="auto" /> **Eyed Yaara Node** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" height="16px" width="auto" /> **Eyed Yaara Node** is an uncommon tree sapling.
 
-These bulb-like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height=16px width="auto" /> [yaara nodes](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode) are more prone to growing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height=16px width="auto" /> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) on them as fruits.
+These bulb-like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height="16px" width="auto" /> [yaara nodes](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode) are more prone to growing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) on them as fruits.
 
 ## Ingame
 
@@ -29,21 +29,21 @@ These bulb-like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/mai
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" height=16px width="auto" /> [Crystal Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/CrystalYaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Crystal Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/CrystalYaaraNode)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height=16px width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" height=16px width="auto" /> [Wild Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraEyeSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Wild Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraEyeSprout)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be bought from merchants:
 
@@ -51,7 +51,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # A Sentia's Crown
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" height=16px width="auto" /> **A Sentia's Crown** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" height="16px" width="auto" /> **A Sentia's Crown** is an uncommon codex entry.
 
 This ebook tells the story about a powerful [nivera sentia](https://ceterai.github.io/MyEnternia/Wiki/niverasentia), a mystical creature, trying to make friends to show them her little garden.  
 Sentias are alta-like arachnas, that use special paralyzing venom, tricks in form of love gifts and other secret ways to catch unsuspecting altas and force them to be their friend.  
@@ -22,17 +22,17 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" height=16px width="auto" /> [A Sentia's Crown](https://ceterai.github.io/MyEnternia/Wiki/ASentia'sCrown)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" height="16px" width="auto" /> [A Sentia's Crown](https://ceterai.github.io/MyEnternia/Wiki/ASentia'sCrown)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" height=16px width="auto" /> [A Sentia's Crown](https://ceterai.github.io/MyEnternia/Wiki/ASentia'sCrown)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" height="16px" width="auto" /> [A Sentia's Crown](https://ceterai.github.io/MyEnternia/Wiki/ASentia'sCrown)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
 
 Can be bought from merchants:
 
@@ -40,7 +40,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height=16px width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
 
 ## Technical Information
 

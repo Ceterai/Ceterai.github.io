@@ -1,6 +1,6 @@
 # Aric Stew
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Aric Stew icon" loading="lazy" height=16px width="auto" /> **Aric Stew** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Aric Stew icon" loading="lazy" height="16px" width="auto" /> **Aric Stew** is a rare dish.
 
 A mushroom stew that requires very high temperatures for cooking, which is why it's served in a [bionium](https://ceterai.github.io/MyEnternia/Wiki/bionium) bowl. Don't get burned!  
 If properly prepared, will result in a proper meaty-mushroomy stew. If not, then, well, the bowl will probably explode.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height=16px width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
 
 ## Technical Information
 

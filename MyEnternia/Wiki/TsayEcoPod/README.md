@@ -1,6 +1,6 @@
 # Tsay Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/pod/icon.png" alt="Tsay Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **Tsay Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/pod/icon.png" alt="Tsay Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Tsay Eco Pod ★** is a legendary plantable item.
 
 Contains a modified gil sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -23,11 +23,11 @@ Contains a modified gil sapling, as well as all things necessary for it to ripe.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height=16px width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height="16px" width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
 
 ## Technical Information
 

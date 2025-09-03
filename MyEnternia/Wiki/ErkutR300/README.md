@@ -1,6 +1,6 @@
 # Erkut R300
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/erkut/icon.png" alt="Erkut R300 icon" loading="lazy" height=16px width="auto" /> **Erkut R300** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/erkut/icon.png" alt="Erkut R300 icon" loading="lazy" height="16px" width="auto" /> **Erkut R300** is a legendary two-handed tool.
 
 Truly a lumbering craft one of a kind. Neiteru production.
 
@@ -8,7 +8,7 @@ Truly a lumbering craft one of a kind. Neiteru production.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height=16px width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 
 Can be bought from merchants:
 
@@ -16,7 +16,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height=16px width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
 
 ## Technical Information
 

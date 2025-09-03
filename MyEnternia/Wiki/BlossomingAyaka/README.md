@@ -1,6 +1,6 @@
 # Blossoming Ayaka
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height=16px width="auto" /> **Blossoming Ayaka** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height="16px" width="auto" /> **Blossoming Ayaka** is an uncommon tree sapling.
 
 An [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) on its blossoming stage. While short and fruitless, it's quite pretty and its leaves can be used to produce [silk](https://ceterai.github.io/MyEnternia/Wiki/silk).
 
@@ -29,11 +29,11 @@ An [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) on its blos
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crimson_tree.png" alt="Crimson Ayaka icon" loading="lazy" height=16px width="auto" /> [Crimson Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrimsonAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crimson_tree.png" alt="Crimson Ayaka icon" loading="lazy" height="16px" width="auto" /> [Crimson Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrimsonAyaka)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" height=16px width="auto" /> [Stardust Ayaka](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" height="16px" width="auto" /> [Stardust Ayaka](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka)
 
 ## Technical Information
 

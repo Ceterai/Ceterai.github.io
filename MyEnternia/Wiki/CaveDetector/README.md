@@ -1,6 +1,6 @@
 # Cave Detector
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/scan/cave_detector/icon.png" alt="Cave Detector icon" loading="lazy" height=16px width="auto" /> **Cave Detector** is a legendary one-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/scan/cave_detector/icon.png" alt="Cave Detector icon" loading="lazy" height="16px" width="auto" /> **Cave Detector** is a legendary one-handed tool.
 
 Emits pulses to plot the density of nearby materials.
 

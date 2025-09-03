@@ -1,6 +1,6 @@
 # Sharp Bishyn Crystal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal3/icon.png" alt="Sharp Bishyn Crystal icon" loading="lazy" height=16px width="auto" /> **Sharp Bishyn Crystal** is an uncommon poisonous breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal3/icon.png" alt="Sharp Bishyn Crystal icon" loading="lazy" height="16px" width="auto" /> **Sharp Bishyn Crystal** is an uncommon poisonous breakable object.
 
 This crystal deposit is full of very sharp edges. Seems like special [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) crystals.  
 These form naturally in highly crystallic environments and tend to grow in patches on relatively plateau areas.

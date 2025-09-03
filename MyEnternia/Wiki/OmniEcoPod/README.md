@@ -1,6 +1,6 @@
 # Omni Eco Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height=16px width="auto" /> **Omni Eco Pod** is an essential tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height="16px" width="auto" /> **Omni Eco Pod** is an essential tree sapling.
 
 An empty celestial chamber, presumably made for plants.  
 The capabilities are rather limited, yet even still this is a fascinating peace of technology able to keep a growing lifeform alive and well.
@@ -29,17 +29,17 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/void.png" alt="Alta Omniponics icon" loading="lazy" height=16px width="auto" /> [Alta Omniponics](https://ceterai.github.io/MyEnternia/Wiki/AltaOmniponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/void.png" alt="Alta Omniponics icon" loading="lazy" height="16px" width="auto" /> [Alta Omniponics](https://ceterai.github.io/MyEnternia/Wiki/AltaOmniponics)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height=16px width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
 
 ## Technical Information
 

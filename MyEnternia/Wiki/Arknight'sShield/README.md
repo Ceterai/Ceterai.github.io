@@ -1,11 +1,11 @@
 # Arknight's Shield
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" height=16px width="auto" /> **Arknight's Shield** is a rare shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" height="16px" width="auto" /> **Arknight's Shield** is a rare shield.
 
 A shield wielded by many protectors of the sky realm.  
 Its compact yet tall structure makes it very convenient during air combat, and its energy receptors allow it to slowly recharge its duration.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Eva Protos ★ icon" loading="lazy" height=16px width="auto" /> [Eva Protos ★](https://ceterai.github.io/MyEnternia/Wiki/EvaProtos) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Eva Protos ★ icon" loading="lazy" height="16px" width="auto" /> [Eva Protos ★](https://ceterai.github.io/MyEnternia/Wiki/EvaProtos) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -28,7 +28,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height=12px width=12px /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
+- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height="12px" width="12px" /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
 
 Can be bought from merchants:
 
@@ -37,8 +37,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height=16px width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

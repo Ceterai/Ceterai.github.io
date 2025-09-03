@@ -1,6 +1,6 @@
 # Bipolaris ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_bipolaris.png" alt="Bipolaris ★ icon" loading="lazy" height=16px width="auto" /> **Bipolaris ★** is a legendary two-handed electric assault rifle.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_bipolaris.png" alt="Bipolaris ★ icon" loading="lazy" height="16px" width="auto" /> **Bipolaris ★** is a legendary two-handed electric assault rifle.
 
 A tool of presicion that doesn't choose sides, but is able to switch between them. Some call it a weapon, and some... a work of art.  
 Its wiring and energy flow is close to perfection, at least as much as possible for an alta.
@@ -25,7 +25,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

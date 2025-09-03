@@ -1,6 +1,6 @@
 # Light Official Jacket
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_jacket/icon.png" alt="Light Official Jacket icon" loading="lazy" height=16px width="auto" /> **Light Official Jacket** is a common chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_jacket/icon.png" alt="Light Official Jacket icon" loading="lazy" height="16px" width="auto" /> **Light Official Jacket** is a common chest item.
 
 A top often used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) representatives and officials. A choice of taking responsibility.
 

@@ -1,6 +1,6 @@
 # Ghearun Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Ghearun Drone icon" loading="lazy" height=16px width="auto" /> **Ghearun Drone** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Ghearun Drone icon" loading="lazy" height="16px" width="auto" /> **Ghearun Drone** is an uncommon throwable item.
 
 Small armored [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) drone. Usually nests inside larger drones.  
 These compact flying robots are not that much smaller than a rebular alta drone, but enough to be able to fit in much smaller spaces.

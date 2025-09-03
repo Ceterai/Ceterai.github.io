@@ -1,6 +1,6 @@
 # Alta Crafting Station
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png" alt="Alta Crafting Station icon" loading="lazy" height=16px width="auto" /> **Alta Crafting Station** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png" alt="Alta Crafting Station icon" loading="lazy" height="16px" width="auto" /> **Alta Crafting Station** is an uncommon crafting station.
 
 Used for crafting [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) technology and resources.  
 Has 16 stages, last one is the Ultimate Station.

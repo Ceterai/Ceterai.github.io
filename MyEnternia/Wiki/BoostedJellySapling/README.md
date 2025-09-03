@@ -1,6 +1,6 @@
 # Boosted Jelly Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" height=16px width="auto" /> **Boosted Jelly Sapling** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" height="16px" width="auto" /> **Boosted Jelly Sapling** is a legendary plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening. Requires to be at least 50% in a liquid.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco/icon.png" alt="Eco Jelly Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoJellySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco/icon.png" alt="Eco Jelly Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoJellySapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod/icon.png" alt="In Jelly Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [In Jelly Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/InJellyEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod/icon.png" alt="In Jelly Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [In Jelly Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/InJellyEcoPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Evara Eco Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/pod/icon.png" alt="Evara Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> **Evara Eco Pod ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/pod/icon.png" alt="Evara Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Evara Eco Pod ★★** is a legendary plantable item.
 
 Contains a modified cloud fibre sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,12 +14,12 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height=16px width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
 
 ## Technical Information
 

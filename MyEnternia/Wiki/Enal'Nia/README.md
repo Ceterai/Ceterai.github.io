@@ -1,8 +1,8 @@
 # Enal'Nia ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Enal'Nia ★★ icon" loading="lazy" height=16px width="auto" /> **Enal'Nia ★★** is a legendary two-handed electric assault rifle.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Enal'Nia ★★ icon" loading="lazy" height="16px" width="auto" /> **Enal'Nia ★★** is a legendary two-handed electric assault rifle.
 
-Made from an advanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height=16px width="auto" /> [bion compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) - bionix - this tool combines both alternia and enternia into a deadly flow of energy.  
+Made from an advanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height="16px" width="auto" /> [bion compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) - bionix - this tool combines both alternia and enternia into a deadly flow of energy.  
 This power-rifle has a set of moving parts and mechanical acceleration, unusual for regular energy rifles.
 
 ## Ingame
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

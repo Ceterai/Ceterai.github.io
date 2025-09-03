@@ -1,6 +1,6 @@
 # Wild Warped Hive Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Wild Warped Hive Seed icon" loading="lazy" height=16px width="auto" /> **Wild Warped Hive Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Wild Warped Hive Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Warped Hive Seed** is a common plantable item.
 
 Warped plant with hive growing atop of it.
 

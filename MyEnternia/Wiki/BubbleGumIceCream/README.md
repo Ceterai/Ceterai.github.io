@@ -1,6 +1,6 @@
 # Bubble Gum Ice Cream
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Bubble Gum Ice Cream icon" loading="lazy" height=16px width="auto" /> **Bubble Gum Ice Cream** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Bubble Gum Ice Cream icon" loading="lazy" height="16px" width="auto" /> **Bubble Gum Ice Cream** is an uncommon dish.
 
 It's like a pile of magical sparkles that melt in your mouth!  
 A dessert by nature, an ice cream in presentation, this dish can really impress and surpise with its contents.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `lightaugment1`- Duration: 120

@@ -1,6 +1,6 @@
 # Ceter-Relocator
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/ceter_relocator/icon.png" alt="Ceter-Relocator icon" loading="lazy" height=16px width="auto" /> **Ceter-Relocator** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/ceter_relocator/icon.png" alt="Ceter-Relocator icon" loading="lazy" height="16px" width="auto" /> **Ceter-Relocator** is a legendary two-handed tool.
 
 Holds up to 4 friendly creatures in stasis in order to safely relocate them.
 

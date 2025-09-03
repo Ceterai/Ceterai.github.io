@@ -1,6 +1,6 @@
 # Ionic Augment ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ionic_augment.png" alt="Ionic Augment ★ icon" loading="lazy" height=16px width="auto" /> **Ionic Augment ★** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ionic_augment.png" alt="Ionic Augment ★ icon" loading="lazy" height="16px" width="auto" /> **Ionic Augment ★** is a rare epp augment.
 
 An EPP module that makes you periodically burst with ionic clouds.
 

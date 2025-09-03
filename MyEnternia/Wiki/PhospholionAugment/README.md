@@ -1,6 +1,6 @@
 # Phospholion Augment
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_phospholion_augment.png" alt="Phospholion Augment icon" loading="lazy" height=16px width="auto" /> **Phospholion Augment** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_phospholion_augment.png" alt="Phospholion Augment icon" loading="lazy" height="16px" width="auto" /> **Phospholion Augment** is a rare epp augment.
 
 This mildly irradiated EPP module gives fire protection and makes you glow.
 

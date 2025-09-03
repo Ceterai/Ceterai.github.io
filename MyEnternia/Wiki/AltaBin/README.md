@@ -1,6 +1,6 @@
 # Alta Bin
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/bin/icon.png" alt="Alta Bin icon" loading="lazy" height=16px width="auto" /> **Alta Bin** is a common storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/bin/icon.png" alt="Alta Bin icon" loading="lazy" height="16px" width="auto" /> **Alta Bin** is a common storage unit.
 
 A recycling bin. Like a trash can, but environment-friendly.  
 Altas actively keep their cities clean, volunteering for social work and helping with recycling.

@@ -1,6 +1,6 @@
 # Potted Alien Plant
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alien/icon.png" alt="Potted Alien Plant icon" loading="lazy" height=16px width="auto" /> **Potted Alien Plant** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alien/icon.png" alt="Potted Alien Plant icon" loading="lazy" height="16px" width="auto" /> **Potted Alien Plant** is a common decorative object.
 
 A decorative plant in a big titanium vase.
 
@@ -27,7 +27,7 @@ A decorative plant in a big titanium vase.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height=16px width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
 
 ## Technical Information
 

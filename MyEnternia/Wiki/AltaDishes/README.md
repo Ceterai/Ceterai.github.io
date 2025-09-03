@@ -1,8 +1,8 @@
 # Alta Dishes
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/dishes/icon.png" alt="Alta Dishes icon" loading="lazy" height=16px width="auto" /> **Alta Dishes** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/dishes/icon.png" alt="Alta Dishes icon" loading="lazy" height="16px" width="auto" /> **Alta Dishes** is a common decorative object.
 
-A well-placed set of alta dishes, including an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate/icon.png" alt="Alta Plate icon" loading="lazy" height=16px width="auto" /> [alta plate](https://ceterai.github.io/MyEnternia/Wiki/AltaPlate) and an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cup/icon.png" alt="Alta Cup icon" loading="lazy" height=16px width="auto" /> [alta cup](https://ceterai.github.io/MyEnternia/Wiki/AltaCup), as well as utensils.  
+A well-placed set of alta dishes, including an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate/icon.png" alt="Alta Plate icon" loading="lazy" height="16px" width="auto" /> [alta plate](https://ceterai.github.io/MyEnternia/Wiki/AltaPlate) and an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cup/icon.png" alt="Alta Cup icon" loading="lazy" height="16px" width="auto" /> [alta cup](https://ceterai.github.io/MyEnternia/Wiki/AltaCup), as well as utensils.  
 A great way cor a cafe to demostrate that they are ready for customers is to display empty dish sets on free tables.
 
 ## Ingame
@@ -24,8 +24,8 @@ A great way cor a cafe to demostrate that they are ready for customers is to dis
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height=16px width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" height=16px width="auto" /> [Alta Icer](https://ceterai.github.io/MyEnternia/Wiki/AltaIcer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height="16px" width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" height="16px" width="auto" /> [Alta Icer](https://ceterai.github.io/MyEnternia/Wiki/AltaIcer)
 
 ## Technical Information
 

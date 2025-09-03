@@ -1,6 +1,6 @@
 # Warped Tree ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_warped_tree.png" alt="Warped Tree ★ icon" loading="lazy" height=16px width="auto" /> **Warped Tree ★** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_warped_tree.png" alt="Warped Tree ★ icon" loading="lazy" height="16px" width="auto" /> **Warped Tree ★** is an uncommon tree sapling.
 
 A piece of powerful warped growth rich on glow fibre, able to reach significant sizes.  
 In nature, it's unknown whether this tree was ever "un-warped" or grew after areal contamination. In lab environments, altas usually use pre-warped growth in their experiments, rather than relying on contaminating existing plants.
@@ -30,11 +30,11 @@ In nature, it's unknown whether this tree was ever "un-warped" or grew after are
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" height=16px width="auto" /> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" height="16px" width="auto" /> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" height=16px width="auto" /> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" height="16px" width="auto" /> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush)
 
 ## Sources
 

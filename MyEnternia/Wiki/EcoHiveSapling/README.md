@@ -1,6 +1,6 @@
 # Eco Hive Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/eco/icon.png" alt="Eco Hive Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Hive Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/eco/icon.png" alt="Eco Hive Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Hive Sapling** is a rare plantable item.
 
 This hive sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/sapling/icon.png" alt="Hive Sapling icon" loading="lazy" height=16px width="auto" /> [Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/HiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/sapling/icon.png" alt="Hive Sapling icon" loading="lazy" height="16px" width="auto" /> [Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/HiveSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/boosted/icon.png" alt="Boosted Hive Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/boosted/icon.png" alt="Boosted Hive Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedHiveSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/pod/icon.png" alt="Hive Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Hive Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/HiveEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/pod/icon.png" alt="Hive Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Hive Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/HiveEcoPod)
 
 ## Technical Information
 

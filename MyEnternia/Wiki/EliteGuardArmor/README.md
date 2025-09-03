@@ -1,6 +1,6 @@
 # Elite Guard Armor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Elite Guard Armor icon" loading="lazy" height=16px width="auto" /> **Elite Guard Armor** is a legendary chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Elite Guard Armor icon" loading="lazy" height="16px" width="auto" /> **Elite Guard Armor** is a legendary chest item.
 
 Worn by imperial guards of Alliana, the Citadel protectors and the elite fighters on the Al'deron mothership.  
 The life-saving techonlogy is powered by two main energy sources, one in the front, and one in the back, just in case.
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height=16px width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height="16px" width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Sources
 
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" height=16px width="auto" /> [Elite Set](https://ceterai.github.io/MyEnternia/Wiki/EliteSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" height="16px" width="auto" /> [Elite Set](https://ceterai.github.io/MyEnternia/Wiki/EliteSet)
 
 ## Technical Information
 

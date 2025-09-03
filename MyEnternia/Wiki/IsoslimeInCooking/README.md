@@ -1,6 +1,6 @@
 # Isoslime In Cooking
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height=16px width="auto" /> **Isoslime In Cooking** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height="16px" width="auto" /> **Isoslime In Cooking** is a rare codex entry.
 
 An ebook that explains proper ways of izopoi preparation and even provides some cooking recipes (and more).  
 It includes a set of simple recipes, some of which require hard-to-find ingredients.
@@ -19,22 +19,22 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height=16px width="auto" /> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height="16px" width="auto" /> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height=16px width="auto" /> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" height=16px width="auto" /> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height="16px" width="auto" /> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" height="16px" width="auto" /> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height="9px" width="12px" /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
 
 ## Technical Information
 

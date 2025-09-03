@@ -1,6 +1,6 @@
 # Wild Ela Sprout
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Wild Ela Sprout icon" loading="lazy" height=16px width="auto" /> **Wild Ela Sprout** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Wild Ela Sprout icon" loading="lazy" height="16px" width="auto" /> **Wild Ela Sprout** is a common plantable item.
 
 A pretty glowing plant full of colorful vines.
 

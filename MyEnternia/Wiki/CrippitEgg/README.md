@@ -1,6 +1,6 @@
 # Crippit Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crippit_egg.png" alt="Crippit Egg icon" loading="lazy" height=16px width="auto" /> **Crippit Egg** is an uncommon one-handed throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crippit_egg.png" alt="Crippit Egg icon" loading="lazy" height="16px" width="auto" /> **Crippit Egg** is an uncommon one-handed throwable item.
 
 Can be used to spawn a creature called [crippit](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crippit).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

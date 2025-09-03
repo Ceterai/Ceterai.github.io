@@ -1,6 +1,6 @@
 # Fertile Aya Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/fertile/icon.png" alt="Fertile Aya Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Fertile Aya Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/fertile/icon.png" alt="Fertile Aya Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Fertile Aya Sapling ★** is an uncommon plantable item.
 
 This sapling will grow bigger, healthier ayas.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/eco/icon.png" alt="Eco Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/eco/icon.png" alt="Eco Aya Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoAyaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/boosted/icon.png" alt="Boosted Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/boosted/icon.png" alt="Boosted Aya Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedAyaSapling)
 
 ## Technical Information
 

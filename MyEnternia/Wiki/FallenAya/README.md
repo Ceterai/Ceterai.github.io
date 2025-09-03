@@ -1,8 +1,8 @@
 # Fallen Aya
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_fallen/icon.png" alt="Fallen Aya icon" loading="lazy" height=16px width="auto" /> **Fallen Aya** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_fallen/icon.png" alt="Fallen Aya icon" loading="lazy" height="16px" width="auto" /> **Fallen Aya** is a common breakable object.
 
-A fallen fruit from a nearby <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height=16px width="auto" /> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka), partly smashed from the impact. Could still be edible.
+A fallen fruit from a nearby <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height="16px" width="auto" /> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka), partly smashed from the impact. Could still be edible.
 
 ## Ingame
 
@@ -27,11 +27,11 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 
 ## Technical Information
 

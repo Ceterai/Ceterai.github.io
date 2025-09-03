@@ -1,6 +1,6 @@
 # Crystal Plant Shield
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystal Plant Shield icon" loading="lazy" height=16px width="auto" /> **Crystal Plant Shield** is an uncommon shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystal Plant Shield icon" loading="lazy" height="16px" width="auto" /> **Crystal Plant Shield** is an uncommon shield.
 
 Contrary to popular opinion, you cannot eat this shield. You can try, but I wouldn't recommend.  
 It's not entirely known whether these crystal shields are forming naturally, but so far there has been no evidence of alta assistance in the process.
@@ -21,13 +21,13 @@ Radiomessages on pickup:
 - Min time: 0.2s
 - Cooldown: 0.65s
 - Knockback: 10  
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height=16px width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height="16px" width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height=10.5px width=12px /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
+- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height="10.5px" width="12px" /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
 
 Can be bought from merchants:
 
@@ -37,7 +37,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
 
 ## Technical Information
 

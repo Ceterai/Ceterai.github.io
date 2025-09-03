@@ -1,8 +1,8 @@
 # Alta Drone Station
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" height=16px width="auto" /> **Alta Drone Station** is an uncommon breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" height="16px" width="auto" /> **Alta Drone Station** is an uncommon breakable object.
 
-This strange device contains 10 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drones](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone). They can be released via a node signal.  
+This strange device contains 10 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height="16px" width="auto" /> [Scout Drones](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone). They can be released via a node signal.  
 These devices are often used during resque missions to send out groups of drones to find the targets and help them hold until the reque group arrives.
 
 ## Ingame

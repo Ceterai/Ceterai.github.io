@@ -1,6 +1,6 @@
 # Bionid Pteropod Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/pteropod/ct_bionid_pteropod.png" alt="Bionid Pteropod Figurine ★ icon" loading="lazy" height=16px width="auto" /> **Bionid Pteropod Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/pteropod/ct_bionid_pteropod.png" alt="Bionid Pteropod Figurine ★ icon" loading="lazy" height="16px" width="auto" /> **Bionid Pteropod Figurine ★** is a legendary figurine.
 
 The label reads, "Its belly glows brightly in the dark, making it look like a gigantic bionic firefly."
 

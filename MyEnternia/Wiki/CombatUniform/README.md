@@ -1,12 +1,12 @@
 # Combat Uniform
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Combat Uniform icon" loading="lazy" height=16px width="auto" /> **Combat Uniform** is a rare chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Combat Uniform icon" loading="lazy" height="16px" width="auto" /> **Combat Uniform** is a rare chest item.
 
 A bulletproof cape covering a weather-adaptive jacket that doesn't restrict movement.
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height=16px width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height="16px" width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
 
 ## Sources
 
@@ -17,7 +17,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" height=16px width="auto" /> [Combat Set](https://ceterai.github.io/MyEnternia/Wiki/CombatSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" height="16px" width="auto" /> [Combat Set](https://ceterai.github.io/MyEnternia/Wiki/CombatSet)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # EDS Dispensing Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/energy_condenser/icon.png" alt="EDS Dispensing Pod icon" loading="lazy" height=16px width="auto" /> **EDS Dispensing Pod** is a legendary object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/energy_condenser/icon.png" alt="EDS Dispensing Pod icon" loading="lazy" height="16px" width="auto" /> **EDS Dispensing Pod** is a legendary object.
 
 A material dispensing pod.
 

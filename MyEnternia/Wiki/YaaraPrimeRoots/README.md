@@ -1,6 +1,6 @@
 # Yaara Prime Roots
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="Yaara Prime Roots icon" loading="lazy" height=16px width="auto" /> **Yaara Prime Roots** is an uncommon electric trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="Yaara Prime Roots icon" loading="lazy" height="16px" width="auto" /> **Yaara Prime Roots** is an uncommon electric trap.
 
 Some spiked roots, but instead of spikes it's electric crystlas. This one's more blue then usual.  
 Those crystals grow naturally from the root endings, although this process is a result of heavy alternia influence on the plant, as well as overall external electric aspect of it.
@@ -30,16 +30,16 @@ This object **doesn't drop itself** when broken.
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" height=16px width="auto" /> [Crystal Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/CrystalYaaraNode)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" height=16px width="auto" /> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_heart/icon.png" alt="Yaara Heart icon" loading="lazy" height=16px width="auto" /> [Yaara Heart](https://ceterai.github.io/MyEnternia/Wiki/YaaraHeart)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height=16px width="auto" /> [Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Crystal Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/CrystalYaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_heart/icon.png" alt="Yaara Heart icon" loading="lazy" height="16px" width="auto" /> [Yaara Heart](https://ceterai.github.io/MyEnternia/Wiki/YaaraHeart)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be bought from merchants:
 
@@ -47,7 +47,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 ## Technical Information
 

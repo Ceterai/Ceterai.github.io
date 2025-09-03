@@ -1,6 +1,6 @@
 # Alta Farming Pack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height=16px width="auto" /> **Alta Farming Pack** is a common loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height="16px" width="auto" /> **Alta Farming Pack** is a common loot item.
 
 Contains several simple farming tools and equipment.  
 Compact item packs are useful when you want to reduce the space they are taking up otherwise.
@@ -19,16 +19,16 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/calin/icon.png" alt="Crystal Flower Pot icon" loading="lazy" height=16px width="auto" /> [Crystal Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CrystalFlowerPot)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/calin/icon.png" alt="Crystal Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Crystal Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CrystalFlowerPot)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height=16px width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/other/seed.png" alt="Alta Seed Pack icon" loading="lazy" height=16px width="auto" /> [Alta Seed Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/other/seed.png" alt="Alta Seed Pack icon" loading="lazy" height="16px" width="auto" /> [Alta Seed Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedPack)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
 
 ## Sources
 

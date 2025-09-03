@@ -1,6 +1,6 @@
 # Canned Altasoup Extra Size
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/deprecated/items/shop/ctcannedfood.png" alt="Canned Altasoup Extra Size icon" loading="lazy" height=16px width="auto" /> **Canned Altasoup Extra Size** is an uncommon food item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_soup_canned.png" alt="Canned Altasoup Extra Size icon" loading="lazy" height="16px" width="auto" /> **Canned Altasoup Extra Size** is an uncommon dish.
 
 This extra size can contains 50% more tastiness!  
 Hopefully the core balance is there as well.
@@ -11,14 +11,16 @@ Species descriptions:
 
 - Alta: Obviously I prefer it kitchen-made, but this is perfect for long space travels and any other adventures.
 
-## Parameters
+## Sources
 
-- Food Value: 50
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+Can be bought from merchants:
+
+- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
 ## Technical Information
 
-- In-game ID: `ctcannedfood-extra`
-- Power: `2.5`
+- In-game ID: `ct_alta_soup_canned-extra`
+- Power: `1.0`
 - Rarity: `Uncommon`
-- File: [`/deprecated/items/shop/ctcannedfood.consumable`](https://github.com/Ceterai/Enternia/blob/main/deprecated/items/shop/ctcannedfood.consumable)
+- File: [`/items/generic/food/shop/ct_alta_soup_canned.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop/ct_alta_soup_canned.consumable)

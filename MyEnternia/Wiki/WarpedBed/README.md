@@ -1,6 +1,6 @@
 # Warped Bed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/bed/icon.png" alt="Warped Bed icon" loading="lazy" height=16px width="auto" /> **Warped Bed** is a common piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/bed/icon.png" alt="Warped Bed icon" loading="lazy" height="16px" width="auto" /> **Warped Bed** is a common piece of furniture.
 
 A plant bed with tentacle-like vines and different colorful glowing bulbs of random sizes.
 
@@ -23,7 +23,7 @@ A plant bed with tentacle-like vines and different colorful glowing bulbs of ran
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
 
 Can be bought from merchants:
 
@@ -31,7 +31,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height=16px width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
 
 ## Technical Information
 

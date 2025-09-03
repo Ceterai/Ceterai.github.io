@@ -5,8 +5,8 @@ With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRewor
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" height=16px width="auto" /> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png" alt="Plasma Stim Pack icon" loading="lazy" height=16px width="auto" /> [Plasma Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/PlasmaStimPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" height="16px" width="auto" /> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png" alt="Plasma Stim Pack icon" loading="lazy" height="16px" width="auto" /> [Plasma Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/PlasmaStimPack)
 
 ## Parameters
 

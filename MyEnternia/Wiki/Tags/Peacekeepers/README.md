@@ -10,4 +10,4 @@ The tag `peacekeepers` contains 1 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" height=16px width="auto" /> [Neo Blaster](https://ceterai.github.io/MyEnternia/Wiki/NeoBlaster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" height="16px" width="auto" /> [Neo Blaster](https://ceterai.github.io/MyEnternia/Wiki/NeoBlaster)

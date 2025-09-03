@@ -1,6 +1,6 @@
 # Crystal Cookies
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" height=16px width="auto" /> **Crystal Cookies** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" height="16px" width="auto" /> **Crystal Cookies** is an uncommon dish.
 
 Spiky cookies with crystal jam filling and crystal bits all around.  
 The koywa dough that was used for these cookies had to be dehydrated and powdered first to make the result crunchy, yet still reasonably soft.
@@ -14,30 +14,30 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 30
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `nova`- Duration: 75
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" height=16px width="auto" /> [Candy Cookies ★](https://ceterai.github.io/MyEnternia/Wiki/CandyCookies)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" height="16px" width="auto" /> [Candy Cookies ★](https://ceterai.github.io/MyEnternia/Wiki/CandyCookies)
 
 ## Crafting
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height=16px width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Bishyn Jam icon" loading="lazy" height=16px width="auto" /> [Bishyn Jam](https://ceterai.github.io/MyEnternia/Wiki/BishynJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" height=16px width="auto" /> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" height=16px width="auto" /> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystalline Jam icon" loading="lazy" height=16px width="auto" /> [Crystalline Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystallineJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height="16px" width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Bishyn Jam icon" loading="lazy" height="16px" width="auto" /> [Bishyn Jam](https://ceterai.github.io/MyEnternia/Wiki/BishynJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" height="16px" width="auto" /> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" height="16px" width="auto" /> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystalline Jam icon" loading="lazy" height="16px" width="auto" /> [Crystalline Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystallineJam)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" height=16px width="auto" /> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crunchy Pie icon" loading="lazy" height=16px width="auto" /> [Crunchy Pie](https://ceterai.github.io/MyEnternia/Wiki/CrunchyPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height=16px width="auto" /> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" height="16px" width="auto" /> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crunchy Pie icon" loading="lazy" height="16px" width="auto" /> [Crunchy Pie](https://ceterai.github.io/MyEnternia/Wiki/CrunchyPie)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height="16px" width="auto" /> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
 
 ## Sources
 

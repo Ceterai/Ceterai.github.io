@@ -1,6 +1,6 @@
 # Neo Blaster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" height=16px width="auto" /> **Neo Blaster** is a legendary one-handed pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" height="16px" width="auto" /> **Neo Blaster** is a legendary one-handed pistol.
 
 A plasma blaster that can produce physical bullets from its own energy. Hold LMB for a charged shot.  
 While the origins of the tool are outside of alta production, a small alta energy tool production decided to give their spin on the style, in form of a handy blaster.
@@ -25,7 +25,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Alter-EPP
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" height=16px width="auto" /> **Alter-EPP** is a legendary epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" height="16px" width="auto" /> **Alter-EPP** is a legendary epp item.
 
 An EPP with an augment slot. Adds 20% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity).  
 _Starburst Rework: _[Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic)_ immunity._
@@ -13,7 +13,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="Plasmoblockade icon" loading="lazy" height=16px width="auto" /> [Plasmoblockade](https://ceterai.github.io/MyEnternia/Wiki/Plasmoblockade)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="Plasmoblockade icon" loading="lazy" height="16px" width="auto" /> [Plasmoblockade](https://ceterai.github.io/MyEnternia/Wiki/Plasmoblockade)
 
 ## Sources
 

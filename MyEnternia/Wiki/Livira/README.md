@@ -1,6 +1,6 @@
 # Livira
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" height=16px width="auto" /> **Livira** is a rare tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" height="16px" width="auto" /> **Livira** is a rare tree sapling.
 
 A very rare alien tree with unusual circular formations at the top.  
 This tree consists of a special type of wood often used in decorative furniture crafting.
@@ -30,12 +30,12 @@ This tree consists of a special type of wood often used in decorative furniture 
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" height=16px width="auto" /> [Livira](https://ceterai.github.io/MyEnternia/Wiki/Livira)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height=16px width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" height="16px" width="auto" /> [Livira](https://ceterai.github.io/MyEnternia/Wiki/Livira)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" height=16px width="auto" /> [Livira](https://ceterai.github.io/MyEnternia/Wiki/Livira)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" height="16px" width="auto" /> [Livira](https://ceterai.github.io/MyEnternia/Wiki/Livira)
 
 ## Sources
 

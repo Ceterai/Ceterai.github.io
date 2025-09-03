@@ -1,6 +1,6 @@
 # Omni Thick Seeds
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.png" alt="Omni Thick Seeds icon" loading="lazy" height=16px width="auto" /> **Omni Thick Seeds** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.png" alt="Omni Thick Seeds icon" loading="lazy" height="16px" width="auto" /> **Omni Thick Seeds** is a legendary throwable item.
 
 Toss these on any ground to grow very dense grass!
 
@@ -8,9 +8,9 @@ Toss these on any ground to grow very dense grass!
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" height=16px width="auto" /> [Gyera Blaster](https://ceterai.github.io/MyEnternia/Wiki/GyeraBlaster)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_haven_thrower.png" alt="Haven Grassthrower ★★ icon" loading="lazy" height=16px width="auto" /> [Haven Grassthrower ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenGrassthrower)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" height=16px width="auto" /> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" height="16px" width="auto" /> [Gyera Blaster](https://ceterai.github.io/MyEnternia/Wiki/GyeraBlaster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_haven_thrower.png" alt="Haven Grassthrower ★★ icon" loading="lazy" height="16px" width="auto" /> [Haven Grassthrower ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenGrassthrower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" height="16px" width="auto" /> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
 
 ## Sources
 

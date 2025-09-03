@@ -1,6 +1,6 @@
 # Starmatter Brush
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/starmatter_brush/icon.png" alt="Starmatter Brush icon" loading="lazy" height=16px width="auto" /> **Starmatter Brush** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/starmatter_brush/icon.png" alt="Starmatter Brush icon" loading="lazy" height="16px" width="auto" /> **Starmatter Brush** is a legendary tool.
 
 Can be used once to excavate a fossil, with heightened success.
 

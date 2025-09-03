@@ -1,6 +1,6 @@
 # Dreamer Android ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/dreamer.png" alt="Dreamer Android ★ icon" loading="lazy" height=16px width="auto" /> **Dreamer Android ★** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/dreamer.png" alt="Dreamer Android ★ icon" loading="lazy" height="16px" width="auto" /> **Dreamer Android ★** is a legendary throwable item.
 
 ## Technical Information
 

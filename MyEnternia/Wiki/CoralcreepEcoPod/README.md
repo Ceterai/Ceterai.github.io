@@ -1,6 +1,6 @@
 # Coralcreep Eco Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/coralcreep/pod/icon.png" alt="Coralcreep Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> **Coralcreep Eco Pod ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/coralcreep/pod/icon.png" alt="Coralcreep Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Coralcreep Eco Pod ★★** is a legendary plantable item.
 
 Contains a modified carel sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 

@@ -1,6 +1,6 @@
 # Alta Light Switch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" height=16px width="auto" /> **Alta Light Switch** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" height="16px" width="auto" /> **Alta Light Switch** is an uncommon wiring component.
 
 A compact switch that can be flipped on or off. Very tiny.
 
@@ -23,7 +23,7 @@ A compact switch that can be flipped on or off. Very tiny.
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" alt="Alta Lamp icon" loading="lazy" height=16px width="auto" /> [Alta Lamp](https://ceterai.github.io/MyEnternia/Wiki/AltaLamp)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" alt="Alta Lamp icon" loading="lazy" height="16px" width="auto" /> [Alta Lamp](https://ceterai.github.io/MyEnternia/Wiki/AltaLamp)
 
 ## Sources
 

@@ -1,13 +1,13 @@
 # Barracuda's Fin
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" height=16px width="auto" /> **Barracuda's Fin** is an uncommon two-handed broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" height="16px" width="auto" /> **Barracuda's Fin** is an uncommon two-handed broadsword.
 
 All what's left from a mysterious beast. If it's this big, who knows what a giant this was...  
 **Staris Ghura**, or the **Barracuda**, is a smaller subspecies of a powerful moster species of **Megasharks**, known by altas as **Kaghurao**. Cudas can get small enough to be able to live in [alterash riversides](https://ceterai.github.io/MyEnternia/Wiki/alterashriversides) and [flooded alterash caves](https://ceterai.github.io/MyEnternia/Wiki/floodedalterashcaves), but such a sight is still pretty rare, therefore finding a trophy like this is quite an accomplisment.
 
 Barracudas' fins are pretty powerful and surprisingly easy to swing, and the sturdy bone spikes are hard enough to dent some metals.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" height=16px width="auto" /> [Barracuda's Cry ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sCry) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" height="16px" width="auto" /> [Barracuda's Cry ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sCry) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -23,7 +23,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 
@@ -32,8 +32,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" height=16px width="auto" /> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
 
 ## Technical Information
 

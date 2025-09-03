@@ -1,6 +1,6 @@
 # Advanced Farming Pack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height=16px width="auto" /> **Advanced Farming Pack** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> **Advanced Farming Pack** is an uncommon loot item.
 
 Contains several improved farming tools and equipment.  
 Compact item packs are useful when you want to reduce the space they are taking up otherwise.
@@ -19,17 +19,17 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height=16px width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height=16px width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height=16px width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height="16px" width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
 
 ## Sources
 

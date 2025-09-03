@@ -1,6 +1,6 @@
 # Naghurta
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_naghurta.png" alt="Naghurta icon" loading="lazy" height=16px width="auto" /> **Naghurta** is a legendary electric unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_naghurta.png" alt="Naghurta icon" loading="lazy" height="16px" width="auto" /> **Naghurta** is a legendary electric unique weapon.
 
 A mysterious ionthrower, in the middle of nowhere, on [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash)... Doesn't feel like we'll find its previous owner.
 
@@ -20,7 +20,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

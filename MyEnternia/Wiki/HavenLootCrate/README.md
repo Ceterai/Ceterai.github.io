@@ -1,6 +1,6 @@
 # Haven Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height=16px width="auto" /> **Haven Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Haven Loot Crate** is an uncommon loot item.
 
 Contains random loot from alterash [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) biome chests.  
 The casings has Low Toxicity markings all over it, and an additional safety switch to make sure that the create can't be opened on accident.
@@ -20,20 +20,20 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height=16px width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" height=16px width="auto" /> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height=16px width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height=16px width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height="16px" width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" height="16px" width="auto" /> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height=16px width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
 
 ## Technical Information
 

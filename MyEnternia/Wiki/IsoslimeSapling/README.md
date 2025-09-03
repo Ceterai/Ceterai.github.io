@@ -1,6 +1,6 @@
 # Isoslime Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" height=16px width="auto" /> **Isoslime Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" height="16px" width="auto" /> **Isoslime Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" height=16px width="auto" /> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" height="16px" width="auto" /> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" height=16px width="auto" /> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 
 ## Technical Information
 

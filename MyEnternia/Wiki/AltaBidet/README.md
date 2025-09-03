@@ -1,6 +1,6 @@
 # Alta Bidet
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/bidet/icon.png" alt="Alta Bidet icon" loading="lazy" height=16px width="auto" /> **Alta Bidet** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/bidet/icon.png" alt="Alta Bidet icon" loading="lazy" height="16px" width="auto" /> **Alta Bidet** is a common decorative object.
 
 An all-purpose alta toilet and bidet in one appliance.  
 Due to how alta biology works, this is one of the more convenient restroom designs.

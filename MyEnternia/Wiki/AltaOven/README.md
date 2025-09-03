@@ -1,6 +1,6 @@
 # Alta Oven
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/oven/icon.png" alt="Alta Oven icon" loading="lazy" height=16px width="auto" /> **Alta Oven** is a rare crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/oven/icon.png" alt="Alta Oven icon" loading="lazy" height="16px" width="auto" /> **Alta Oven** is a rare crafting station.
 
 A general pizza oven for making, well, pizza. Very sleek and lightweight.  
 Often found in alta bakeries as part of the kitchen assortment, adding many delicious options to the menu.
@@ -28,7 +28,7 @@ Often found in alta bakeries as part of the kitchen assortment, adding many deli
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/stove/icon.png" alt="Alta Stove icon" loading="lazy" height=16px width="auto" /> [Alta Stove](https://ceterai.github.io/MyEnternia/Wiki/AltaStove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/stove/icon.png" alt="Alta Stove icon" loading="lazy" height="16px" width="auto" /> [Alta Stove](https://ceterai.github.io/MyEnternia/Wiki/AltaStove)
 
 ## Technical Information
 

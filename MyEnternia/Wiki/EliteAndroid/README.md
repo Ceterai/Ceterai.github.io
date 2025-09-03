@@ -1,6 +1,6 @@
 # Elite Android ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/elite.png" alt="Elite Android ★ icon" loading="lazy" height=16px width="auto" /> **Elite Android ★** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/elite.png" alt="Elite Android ★ icon" loading="lazy" height="16px" width="auto" /> **Elite Android ★** is a legendary throwable item.
 
 ## Technical Information
 

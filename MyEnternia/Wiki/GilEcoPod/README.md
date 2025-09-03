@@ -1,6 +1,6 @@
 # Gil Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/pod/icon.png" alt="Gil Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **Gil Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/pod/icon.png" alt="Gil Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Gil Eco Pod ★** is a legendary plantable item.
 
 Contains a modified gil sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -23,11 +23,11 @@ Contains a modified gil sapling, as well as all things necessary for it to ripe.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/boosted/icon.png" alt="Boosted Gil Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/boosted/icon.png" alt="Boosted Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGilSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" height=16px width="auto" /> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" height="16px" width="auto" /> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds)
 
 ## Technical Information
 

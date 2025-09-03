@@ -1,12 +1,12 @@
 # Envirosuit MkII Helmet ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet_mk2/icon.png" alt="Envirosuit MkII Helmet ★★ icon" loading="lazy" height=16px width="auto" /> **Envirosuit MkII Helmet ★★** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet_mk2/icon.png" alt="Envirosuit MkII Helmet ★★ icon" loading="lazy" height="16px" width="auto" /> **Envirosuit MkII Helmet ★★** is a rare head item.
 
-An improved version of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png" alt="Envirosuit Helmet icon" loading="lazy" height=16px width="auto" /> [Envirosuit Helmet](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitHelmet) with added armor capabilities.
+An improved version of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png" alt="Envirosuit Helmet icon" loading="lazy" height="16px" width="auto" /> [Envirosuit Helmet](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitHelmet) with added armor capabilities.
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height=16px width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height="16px" width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
 
 ## Sources
 

@@ -1,11 +1,11 @@
 # Vionos Twins
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" height=16px width="auto" /> **Vionos Twins** is an uncommon two-handed cryogenic broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" height="16px" width="auto" /> **Vionos Twins** is an uncommon two-handed cryogenic broadsword.
 
 Someone did the seemingly impossible - used anomaly energy to create a tool. You can sense slight magnetic pulls coming from it.  
 This dangerous yet powerful combo doesn't seem to go well with usual alta safety protocols. Still, it might be pretty enticing to some.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" height=16px width="auto" /> [Bi-Blade ★](https://ceterai.github.io/MyEnternia/Wiki/Bi-Blade) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" height="16px" width="auto" /> [Bi-Blade ★](https://ceterai.github.io/MyEnternia/Wiki/Bi-Blade) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height=16px width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height="16px" width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
 Can be bought from merchants:
 
@@ -32,8 +32,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" height=16px width="auto" /> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

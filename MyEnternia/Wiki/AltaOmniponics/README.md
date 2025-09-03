@@ -1,6 +1,6 @@
 # Alta Omniponics
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/void.png" alt="Alta Omniponics icon" loading="lazy" height=16px width="auto" /> **Alta Omniponics** is an essential codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/void.png" alt="Alta Omniponics icon" loading="lazy" height="16px" width="auto" /> **Alta Omniponics** is an essential codex entry.
 
 A logical element with an eco-system database and a functional operating system designed to power and run an eco chamber. Instructions included.  
 The instruction part can be accessed through any device with a screen, even through some eco chambers' interface.
@@ -20,15 +20,15 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height=16px width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height=16px width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height=16px width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Gheatorn Eye
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_eye/icon.png" alt="Gheatorn Eye icon" loading="lazy" height=16px width="auto" /> **Gheatorn Eye** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_eye/icon.png" alt="Gheatorn Eye icon" loading="lazy" height="16px" width="auto" /> **Gheatorn Eye** is a common breakable object.
 
 A natural circle-like rock formation with [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) crystals growing on the inside. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)-scan for more.
 

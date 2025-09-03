@@ -1,6 +1,6 @@
 # C.T. Energy Core
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/core/icon.png" alt="C.T. Energy Core icon" loading="lazy" height=16px width="auto" /> **C.T. Energy Core** is a legendary epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/core/icon.png" alt="C.T. Energy Core icon" loading="lazy" height="16px" width="auto" /> **C.T. Energy Core** is a legendary epp item.
 
 This back part of the [C.T. Set](https://ceterai.github.io/MyEnternia/Wiki/C.T.Set) generates additional energy for the wearer. Has an augment slot.
 
@@ -12,7 +12,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="Ionoblockade icon" loading="lazy" height=16px width="auto" /> [Ionoblockade](https://ceterai.github.io/MyEnternia/Wiki/Ionoblockade)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="Ionoblockade icon" loading="lazy" height="16px" width="auto" /> [Ionoblockade](https://ceterai.github.io/MyEnternia/Wiki/Ionoblockade)
 
 ## Sources
 

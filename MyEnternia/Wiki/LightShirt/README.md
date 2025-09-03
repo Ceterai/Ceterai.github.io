@@ -1,6 +1,6 @@
 # Light Shirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png" alt="Light Shirt icon" loading="lazy" height=16px width="auto" /> **Light Shirt** is a common chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png" alt="Light Shirt icon" loading="lazy" height="16px" width="auto" /> **Light Shirt** is a common chest item.
 
 A simple casual shirt worn by many altas. It smells of home and peace.
 
@@ -8,7 +8,7 @@ A simple casual shirt worn by many altas. It smells of home and peace.
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shirt_stack/icon.png" alt="Alta Shirt Stack icon" loading="lazy" height=16px width="auto" /> [Alta Shirt Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaShirtStack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shirt_stack/icon.png" alt="Alta Shirt Stack icon" loading="lazy" height="16px" width="auto" /> [Alta Shirt Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaShirtStack)
 
 ## Sources
 

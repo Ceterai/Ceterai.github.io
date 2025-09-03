@@ -1,6 +1,6 @@
 # Diamond Eco Pod ★★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/pod/icon.png" alt="Diamond Eco Pod ★★★★ icon" loading="lazy" height=16px width="auto" /> **Diamond Eco Pod ★★★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/pod/icon.png" alt="Diamond Eco Pod ★★★★ icon" loading="lazy" height="16px" width="auto" /> **Diamond Eco Pod ★★★★** is a legendary plantable item.
 
 Contains a modified diamond geode, as well as all things necessary for it to crystallize. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/boosted/icon.png" alt="Boosted Diamond Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedDiamondSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/boosted/icon.png" alt="Boosted Diamond Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedDiamondSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Diamond Bud icon" loading="lazy" height=16px width="auto" /> [Diamond Bud](https://ceterai.github.io/MyEnternia/Wiki/DiamondBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Diamond Bud icon" loading="lazy" height="16px" width="auto" /> [Diamond Bud](https://ceterai.github.io/MyEnternia/Wiki/DiamondBud)
 
 ## Technical Information
 

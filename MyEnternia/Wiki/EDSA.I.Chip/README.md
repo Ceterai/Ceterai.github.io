@@ -1,6 +1,6 @@
 # EDS A.I. Chip ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_eds_ai_chip.png" alt="EDS A.I. Chip ★ icon" loading="lazy" height=16px width="auto" /> **EDS A.I. Chip ★** is a rare AI chip.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_eds_ai_chip.png" alt="EDS A.I. Chip ★ icon" loading="lazy" height="16px" width="auto" /> **EDS A.I. Chip ★** is a rare AI chip.
 
 An [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) command center interface chip. _With Customizable A.I.: Can be installed on S.A.I.L.'s terminal. Highly overwritive._  
 This A.I. chip is constructed by interplanetary standards, though its software is purely alta-native, meaning it performs similar to a datamass.
@@ -20,15 +20,15 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" height=16px width="auto" /> [EDS Droid ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDroid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/eds.png" alt="EDS Drone ★ icon" loading="lazy" height=16px width="auto" /> [EDS Drone ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/eds.png" alt="EDS Gardis icon" loading="lazy" height=16px width="auto" /> [EDS Gardis](https://ceterai.github.io/MyEnternia/Wiki/EDSGardis)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Droid ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/eds.png" alt="EDS Drone ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Drone ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/eds.png" alt="EDS Gardis icon" loading="lazy" height="16px" width="auto" /> [EDS Gardis](https://ceterai.github.io/MyEnternia/Wiki/EDSGardis)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be bought from merchants:
 
@@ -37,7 +37,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 ## Technical Information
 

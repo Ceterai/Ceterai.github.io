@@ -4,7 +4,7 @@ If your health is lower than 50%, repeatedly damages enemies around you with ele
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" height=16px width="auto" /> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" height="16px" width="auto" /> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
 
 ## Parameters
 

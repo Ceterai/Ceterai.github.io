@@ -1,6 +1,6 @@
 # Haven Grassthrower ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_haven_thrower.png" alt="Haven Grassthrower ★★ icon" loading="lazy" height=16px width="auto" /> **Haven Grassthrower ★★** is a legendary one-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_haven_thrower.png" alt="Haven Grassthrower ★★ icon" loading="lazy" height="16px" width="auto" /> **Haven Grassthrower ★★** is a legendary one-handed tool.
 
 This [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) tool can very quickly spread seeds of different kinds to grow beautiful things!
 

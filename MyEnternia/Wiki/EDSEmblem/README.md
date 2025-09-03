@@ -1,6 +1,6 @@
 # EDS Emblem
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/eds/body.png" alt="EDS Emblem icon" loading="lazy" height=16px width="auto" /> **EDS Emblem** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/eds/body.png" alt="EDS Emblem icon" loading="lazy" height="16px" width="auto" /> **EDS Emblem** is a common decorative object.
 
 An emblem marking [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) territory or facility. Everything is most likely highly protected.
 

@@ -1,6 +1,6 @@
 # Alta Clubhouse Brochure
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" height=16px width="auto" /> **Alta Clubhouse Brochure** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" height="16px" width="auto" /> **Alta Clubhouse Brochure** is a rare codex entry.
 
 A simple piece of sturdy paper with bright pictures. It's a visit card of a city clubhouse.  
 Thankfully, despite being a blatant advertisement, the material is fully recyclable.
@@ -15,18 +15,18 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" height=16px width="auto" /> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" height="16px" width="auto" /> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" height=16px width="auto" /> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Calin Seed icon" loading="lazy" height=16px width="auto" /> [Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/CalinSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" height="16px" width="auto" /> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Calin Seed icon" loading="lazy" height="16px" width="auto" /> [Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/CalinSeed)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height=16px width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height="16px" width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
 
 Can be bought from merchants:
 
@@ -48,7 +48,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
 
 ## Technical Information
 

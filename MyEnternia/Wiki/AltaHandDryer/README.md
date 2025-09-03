@@ -1,6 +1,6 @@
 # Alta Hand Dryer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/hand_dryer/icon.png" alt="Alta Hand Dryer icon" loading="lazy" height=16px width="auto" /> **Alta Hand Dryer** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/hand_dryer/icon.png" alt="Alta Hand Dryer icon" loading="lazy" height="16px" width="auto" /> **Alta Hand Dryer** is a common decorative object.
 
 A compact hand dryer often found in restrooms and bathrooms.  
 Made put of titanium, it sits firmly on the wall.

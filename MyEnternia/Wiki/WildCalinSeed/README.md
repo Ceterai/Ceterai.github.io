@@ -1,6 +1,6 @@
 # Wild Calin Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Wild Calin Seed icon" loading="lazy" height=16px width="auto" /> **Wild Calin Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Wild Calin Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Calin Seed** is a common plantable item.
 
 A wild crystal plant that produces small, blue-ish crystals.
 

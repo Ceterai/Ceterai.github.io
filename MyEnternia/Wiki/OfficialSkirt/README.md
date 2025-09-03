@@ -1,6 +1,6 @@
 # Official Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_skirt/icon.png" alt="Official Skirt icon" loading="lazy" height=16px width="auto" /> **Official Skirt** is a common leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_skirt/icon.png" alt="Official Skirt icon" loading="lazy" height="16px" width="auto" /> **Official Skirt** is a common leg item.
 
 A tidy layered skirt. A symbol of responsibility.
 

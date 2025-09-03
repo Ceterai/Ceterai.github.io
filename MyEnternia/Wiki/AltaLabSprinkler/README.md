@@ -1,6 +1,6 @@
 # Alta Lab Sprinkler
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/lab/icon.png" alt="Alta Lab Sprinkler icon" loading="lazy" height=16px width="auto" /> **Alta Lab Sprinkler** is a rare wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/lab/icon.png" alt="Alta Lab Sprinkler icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Sprinkler** is a rare wiring component.
 
 An automated soil watering solution.  
 Requires alta robotics AI to function in an autonomous way.
@@ -24,11 +24,11 @@ Requires alta robotics AI to function in an autonomous way.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Alta Hydroponics ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Hydroponics ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Alta Hydroponics ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Hydroponics ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/lab/icon.png" alt="Alta Lab Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alta Lab Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/lab/icon.png" alt="Alta Lab Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabEcoPod)
 
 ## Technical Information
 

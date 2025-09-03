@@ -6,10 +6,10 @@ The tag `gheatorn` contains 4 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_arc/icon.png" alt="Gheatorn Arc icon" loading="lazy" height=16px width="auto" /> [Gheatorn Arc](https://ceterai.github.io/MyEnternia/Wiki/GheatornArc)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_eye/icon.png" alt="Gheatorn Eye icon" loading="lazy" height=16px width="auto" /> [Gheatorn Eye](https://ceterai.github.io/MyEnternia/Wiki/GheatornEye)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_horns/icon.png" alt="Gheatorn Horns icon" loading="lazy" height=16px width="auto" /> [Gheatorn Horns](https://ceterai.github.io/MyEnternia/Wiki/GheatornHorns)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_rod/icon.png" alt="Gheatorn Rod icon" loading="lazy" height=16px width="auto" /> [Gheatorn Rod](https://ceterai.github.io/MyEnternia/Wiki/GheatornRod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_arc/icon.png" alt="Gheatorn Arc icon" loading="lazy" height="16px" width="auto" /> [Gheatorn Arc](https://ceterai.github.io/MyEnternia/Wiki/GheatornArc)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_eye/icon.png" alt="Gheatorn Eye icon" loading="lazy" height="16px" width="auto" /> [Gheatorn Eye](https://ceterai.github.io/MyEnternia/Wiki/GheatornEye)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_horns/icon.png" alt="Gheatorn Horns icon" loading="lazy" height="16px" width="auto" /> [Gheatorn Horns](https://ceterai.github.io/MyEnternia/Wiki/GheatornHorns)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_rod/icon.png" alt="Gheatorn Rod icon" loading="lazy" height="16px" width="auto" /> [Gheatorn Rod](https://ceterai.github.io/MyEnternia/Wiki/GheatornRod)
 
 ## Tenants
 

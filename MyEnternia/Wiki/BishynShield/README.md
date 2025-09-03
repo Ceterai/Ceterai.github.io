@@ -1,6 +1,6 @@
 # Bishyn Shield ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Bishyn Shield ★ icon" loading="lazy" height=16px width="auto" /> **Bishyn Shield ★** is a rare shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Bishyn Shield ★ icon" loading="lazy" height="16px" width="auto" /> **Bishyn Shield ★** is a rare shield.
 
 This simple shield is hiding some secret poison-related powers that you might want to explore.  
 It has a special device attached to the handle that is meant to adapt your body to the nature of bishyn crystal poison.
@@ -21,13 +21,13 @@ Radiomessages on pickup:
 - Min time: 0.2s
 - Cooldown: 0.65s
 - Knockback: 10  
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height=16px width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height="16px" width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height="16px" width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
 
 Can be bought from merchants:
 
@@ -37,7 +37,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
 
 ## Technical Information
 

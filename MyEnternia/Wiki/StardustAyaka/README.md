@@ -1,8 +1,8 @@
 # Stardust Ayaka
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" height=16px width="auto" /> **Stardust Ayaka** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" height="16px" width="auto" /> **Stardust Ayaka** is an uncommon tree sapling.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height=16px width="auto" /> [crystal ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka) has overgrown with [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) saturated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height="16px" width="auto" /> [crystal ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka) has overgrown with [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) saturated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
 
 ## Ingame
 
@@ -29,11 +29,11 @@ This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/b
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height=16px width="auto" /> [Blossoming Ayaka](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" height="16px" width="auto" /> [Blossoming Ayaka](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height=16px width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height="16px" width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
 
 ## Technical Information
 

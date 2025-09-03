@@ -1,6 +1,6 @@
 # Elin Guard Body Armor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Elin Guard Body Armor ★ icon" loading="lazy" height=16px width="auto" /> **Elin Guard Body Armor ★** is an uncommon chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Elin Guard Body Armor ★ icon" loading="lazy" height="16px" width="auto" /> **Elin Guard Body Armor ★** is an uncommon chest item.
 
 Worn by [elin guards](https://ceterai.github.io/MyEnternia/Wiki/ElinGuard) protecting different [elin gardens](https://ceterai.github.io/MyEnternia/Wiki/elingardens) around Io.  
 While inferior in characteristics to the original model, this one is much lighter in size and allows better mobility.
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height=16px width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height="16px" width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Sources
 

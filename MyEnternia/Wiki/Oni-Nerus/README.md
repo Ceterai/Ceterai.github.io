@@ -1,6 +1,6 @@
 # Oni-Nerus ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_oni_nerus.png" alt="Oni-Nerus ★ icon" loading="lazy" height=16px width="auto" /> **Oni-Nerus ★** is a legendary one-handed cryogenic chakram.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_oni_nerus.png" alt="Oni-Nerus ★ icon" loading="lazy" height="16px" width="auto" /> **Oni-Nerus ★** is a legendary one-handed cryogenic chakram.
 
 Legacy of the night under [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), this wrist-blaster is loaded with a special Lunar Chakram, quietly crackling with destructive energy.
 
@@ -20,7 +20,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Evara Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/sapling/icon.png" alt="Evara Sapling icon" loading="lazy" height=16px width="auto" /> **Evara Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/sapling/icon.png" alt="Evara Sapling icon" loading="lazy" height="16px" width="auto" /> **Evara Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height=16px width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" height=16px width="auto" /> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/eco/icon.png" alt="Eco Evara Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Evara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoEvaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/eco/icon.png" alt="Eco Evara Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Evara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoEvaraSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/eco/icon.png" alt="Eco Evara Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Evara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoEvaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/eco/icon.png" alt="Eco Evara Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Evara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoEvaraSapling)
 
 ## Technical Information
 

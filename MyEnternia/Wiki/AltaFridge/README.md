@@ -1,6 +1,6 @@
 # Alta Fridge
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fridge/icon.png" alt="Alta Fridge icon" loading="lazy" height=16px width="auto" /> **Alta Fridge** is an uncommon refrigerated storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fridge/icon.png" alt="Alta Fridge icon" loading="lazy" height="16px" width="auto" /> **Alta Fridge** is an uncommon refrigerated storage unit.
 
 A refridgerator. Hopefully filled with tasty, tasty treats.  
 The technology behind such appliances is pretty simple, as it runs on cryonic extracts and isoslime.

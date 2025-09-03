@@ -1,10 +1,10 @@
 # Composite Bow
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon.png" alt="Composite Bow icon" loading="lazy" height=16px width="auto" /> **Composite Bow** is an uncommon two-handed bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon.png" alt="Composite Bow icon" loading="lazy" height="16px" width="auto" /> **Composite Bow** is an uncommon two-handed bow.
 
 A sports tool that increases your chances of getting a trophy when defeating an opponent!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon_upg.png" alt="Enhanced Bow ★ icon" loading="lazy" height=16px width="auto" /> [Enhanced Bow ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedBow) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon_upg.png" alt="Enhanced Bow ★ icon" loading="lazy" height="16px" width="auto" /> [Enhanced Bow ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedBow) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

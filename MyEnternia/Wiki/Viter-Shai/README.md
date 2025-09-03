@@ -1,6 +1,6 @@
 # Viter-Shai ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_vitershai.png" alt="Viter-Shai ★ icon" loading="lazy" height=16px width="auto" /> **Viter-Shai ★** is a legendary two-handed fiery shotgun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_vitershai.png" alt="Viter-Shai ★ icon" loading="lazy" height="16px" width="auto" /> **Viter-Shai ★** is a legendary two-handed fiery shotgun.
 
 The promise of an unknown traveller that should be kept at all costs is ingraved forever into the side of this misterious cannon.
 
@@ -19,7 +19,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Boosted Tsay Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" height=16px width="auto" /> **Boosted Tsay Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> **Boosted Tsay Sapling** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -23,12 +23,12 @@ This sapling comes with enhanced mutations that allow much faster ripening.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/fertile/icon.png" alt="Fertile Tsay Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Fertile Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileTsaySapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/mixed/icon.png" alt="Mixed Tsay Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Mixed Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/fertile/icon.png" alt="Fertile Tsay Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Fertile Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/mixed/icon.png" alt="Mixed Tsay Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Mixed Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedTsaySapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/pod/icon.png" alt="Tsay Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Tsay Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/TsayEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/pod/icon.png" alt="Tsay Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Tsay Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/TsayEcoPod)
 
 ## Technical Information
 

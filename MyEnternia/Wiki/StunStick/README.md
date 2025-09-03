@@ -1,12 +1,12 @@
 # Stun Stick
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" height=16px width="auto" /> **Stun Stick** is an uncommon one-handed electric shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" height="16px" width="auto" /> **Stun Stick** is an uncommon one-handed electric shortsword.
 
 **WIP**. A hand-held halter used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security to prevent unauthorized activity.  
 Just like a lot of alta tools, including combat tools, this one is considered to be non-lethal by [alta security protocols](https://ceterai.github.io/MyEnternia/Wiki/altasecurityprotocols), since it doesn't provide an amount energy to be able to really harm an alta, as well as the vast majority of Io creatures. It's only meant to scare away the target, or stugger it. In worst case scenarios, it will paralize the target, but not kill it.  
 The exception to this rule are drones, that can take damage from the plasmic charges from the hits.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" height=16px width="auto" /> [Halter Compact ★](https://ceterai.github.io/MyEnternia/Wiki/HalterCompact) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" height="16px" width="auto" /> [Halter Compact ★](https://ceterai.github.io/MyEnternia/Wiki/HalterCompact) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

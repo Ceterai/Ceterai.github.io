@@ -1,11 +1,11 @@
 # Crystal Razor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" height=16px width="auto" /> **Crystal Razor ★** is a legendary two-handed electric broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" height="16px" width="auto" /> **Crystal Razor ★** is a legendary two-handed electric broadsword.
 
 A combat tool created as an art piece by an unknown Faradea Legend.  
 Perhaps this is what led to the creation of all of the prototypes. Seems like calline crystals might have some hidden extraordinary features...
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" height=16px width="auto" /> [Crystalline Sword](https://ceterai.github.io/MyEnternia/Wiki/CrystallineSword).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" height="16px" width="auto" /> [Crystalline Sword](https://ceterai.github.io/MyEnternia/Wiki/CrystallineSword).
 
 ## Ingame
 

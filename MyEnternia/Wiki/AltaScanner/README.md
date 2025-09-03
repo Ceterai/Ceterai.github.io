@@ -1,6 +1,6 @@
 # Alta Scanner
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/scanner/icon.png" alt="Alta Scanner icon" loading="lazy" height=16px width="auto" /> **Alta Scanner** is an uncommon tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/scanner/icon.png" alt="Alta Scanner icon" loading="lazy" height="16px" width="auto" /> **Alta Scanner** is an uncommon tool.
 
 A compact scanner made by altas that's able to provide extensive information about various items.  
 Supported by a powerful database, you're basically holding an encyclopedia of the world in your hands.

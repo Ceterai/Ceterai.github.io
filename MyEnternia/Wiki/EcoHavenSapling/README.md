@@ -1,6 +1,6 @@
 # Eco Haven Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Haven Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Haven Sapling** is a rare plantable item.
 
 This petal sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,16 +14,16 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Haven Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/HavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Haven Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/HavenSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" height=16px width="auto" /> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" height="16px" width="auto" /> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
 
 ## Technical Information
 

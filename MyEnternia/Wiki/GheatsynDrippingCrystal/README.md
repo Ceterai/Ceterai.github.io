@@ -1,6 +1,6 @@
 # Gheatsyn Dripping Crystal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatsyn_drop3/icon.png" alt="Gheatsyn Dripping Crystal icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Dripping Crystal** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatsyn_drop3/icon.png" alt="Gheatsyn Dripping Crystal icon" loading="lazy" height="16px" width="auto" /> **Gheatsyn Dripping Crystal** is a common breakable object.
 
 A [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) crystal slowly dripping itself on the ground.
 

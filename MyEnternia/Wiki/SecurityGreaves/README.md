@@ -1,14 +1,14 @@
 # Security Greaves
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="Security Greaves icon" loading="lazy" height=16px width="auto" /> **Security Greaves** is an uncommon leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="Security Greaves icon" loading="lazy" height="16px" width="auto" /> **Security Greaves** is an uncommon leg item.
 
 A standard protocol armour-plated legwear for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security units.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="GR Stands ★ icon" loading="lazy" height=16px width="auto" /> [GR Stands ★](https://ceterai.github.io/MyEnternia/Wiki/GRStands) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="GR Stands ★ icon" loading="lazy" height="16px" width="auto" /> [GR Stands ★](https://ceterai.github.io/MyEnternia/Wiki/GRStands) at the Weapon Upgrade Anvil.
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height=16px width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height="16px" width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage)
 
 ## Sources
 
@@ -19,10 +19,10 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" height=16px width="auto" /> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_captain.png" alt="Security Captain Set ★ icon" loading="lazy" height=16px width="auto" /> [Security Captain Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptainSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" height=16px width="auto" /> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" height="16px" width="auto" /> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" height="16px" width="auto" /> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_captain.png" alt="Security Captain Set ★ icon" loading="lazy" height="16px" width="auto" /> [Security Captain Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptainSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" height="16px" width="auto" /> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet)
 
 ## Technical Information
 

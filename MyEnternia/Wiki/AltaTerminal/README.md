@@ -1,6 +1,6 @@
 # Alta Terminal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" height=16px width="auto" /> **Alta Terminal** is a common wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" height="16px" width="auto" /> **Alta Terminal** is a common wiring component.
 
 A holographic console-like device, used to operate nearby devices.
 
@@ -23,7 +23,7 @@ A holographic console-like device, used to operate nearby devices.
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" height=16px width="auto" /> [Alta Ship Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTerminal)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTerminal)
 
 ## Sources
 

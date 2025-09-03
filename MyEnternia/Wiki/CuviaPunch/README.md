@@ -1,6 +1,6 @@
 # Cuvia Punch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cuvia Punch icon" loading="lazy" height=16px width="auto" /> **Cuvia Punch** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cuvia Punch icon" loading="lazy" height="16px" width="auto" /> **Cuvia Punch** is a rare dish.
 
 Some straight punch with a sweet taste to it. It says it was made from... cuvia? What is cuva?  
 Not to be mixed with kuva - some grineer might get angry at you if you make a kuva punch...
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height=16px width="auto" /> [Alta Punch Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPunchServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Punch Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPunchServing)
 
 ## Technical Information
 

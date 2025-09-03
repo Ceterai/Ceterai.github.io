@@ -1,6 +1,6 @@
 # Alta Lab Gateway
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/gateway/icon.png" alt="Alta Lab Gateway icon" loading="lazy" height=16px width="auto" /> **Alta Lab Gateway** is an uncommon door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/gateway/icon.png" alt="Alta Lab Gateway icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Gateway** is an uncommon door.
 
 A protective 2x5 bionid blast door. **Can be placed both vertically and horizontally.**
 

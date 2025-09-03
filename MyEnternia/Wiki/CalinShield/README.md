@@ -1,11 +1,11 @@
 # Calin Shield
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Calin Shield icon" loading="lazy" height=16px width="auto" /> **Calin Shield** is an uncommon shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Calin Shield icon" loading="lazy" height="16px" width="auto" /> **Calin Shield** is an uncommon shield.
 
 A shield made of charged crystals with a sharpened surface. Pulsating energy stuggers any attackers on impact.  
 It overwhelmes the shield's body, smoothing its texture yet gripping it to your hand, making the grab sturdier and more certain.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystal Heart ★ icon" loading="lazy" height=16px width="auto" /> [Crystal Heart ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalHeart) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystal Heart ★ icon" loading="lazy" height="16px" width="auto" /> [Crystal Heart ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalHeart) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -28,7 +28,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height=16px width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height="16px" width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
 
 Can be bought from merchants:
 
@@ -38,8 +38,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

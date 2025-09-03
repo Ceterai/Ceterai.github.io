@@ -1,6 +1,6 @@
 # Alta Security Aid
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/aid/icon.png" alt="Alta Security Aid icon" loading="lazy" height=16px width="auto" /> **Alta Security Aid** is an uncommon object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/aid/icon.png" alt="Alta Security Aid icon" loading="lazy" height="16px" width="auto" /> **Alta Security Aid** is an uncommon object.
 
 An emergency aid station that dispences various medicine. Needs time to recharge.
 

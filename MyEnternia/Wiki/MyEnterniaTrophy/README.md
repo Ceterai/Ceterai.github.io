@@ -1,6 +1,6 @@
 # My Enternia Trophy ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_my_enternia_trophy.png" alt="My Enternia Trophy ★ icon" loading="lazy" height=16px width="auto" /> **My Enternia Trophy ★** is an essential decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_my_enternia_trophy.png" alt="My Enternia Trophy ★ icon" loading="lazy" height="16px" width="auto" /> **My Enternia Trophy ★** is an essential decorative object.
 
 The plaque reads, "A dream diary I wrote mainly for myself, but decided to share with you... Thank you for reading! - Ceterai"
 

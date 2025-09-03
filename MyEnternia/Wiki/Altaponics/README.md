@@ -1,6 +1,6 @@
 # Altaponics
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" height=16px width="auto" /> **Altaponics** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" height="16px" width="auto" /> **Altaponics** is an uncommon codex entry.
 
 A logical element with an eco-system database and a functional operating system designed to power and run an eco chamber. Instructions included. _(Unlocks more grass seeds, new sprinkler and new eco pod)_  
 The instruction part can be accessed through any device with a screen, even through some eco chambers' interface.
@@ -20,21 +20,21 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" height=16px width="auto" /> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" height="16px" width="auto" /> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height=16px width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/basic/icon.png" alt="Alta Sprinkler icon" loading="lazy" height=16px width="auto" /> [Alta Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaSprinkler)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_flowery_grass_seeds.png" alt="Flowery Grass Seeds icon" loading="lazy" height=16px width="auto" /> [Flowery Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/FloweryGrassSeeds)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height=16px width="auto" /> [Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/basic/icon.png" alt="Alta Sprinkler icon" loading="lazy" height="16px" width="auto" /> [Alta Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaSprinkler)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_flowery_grass_seeds.png" alt="Flowery Grass Seeds icon" loading="lazy" height="16px" width="auto" /> [Flowery Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/FloweryGrassSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height=16px width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height=16px width="auto" /> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/basic/icon.png" alt="Alta Sprinkler icon" loading="lazy" height=16px width="auto" /> [Alta Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaSprinkler)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Alta Terraponics ★ icon" loading="lazy" height=16px width="auto" /> [Alta Terraponics ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTerraponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/basic/icon.png" alt="Alta Sprinkler icon" loading="lazy" height="16px" width="auto" /> [Alta Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaSprinkler)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Alta Terraponics ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Terraponics ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTerraponics)
 
 ## Sources
 

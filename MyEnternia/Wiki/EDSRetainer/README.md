@@ -1,6 +1,6 @@
 # EDS Retainer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/retainer/icon.png" alt="EDS Retainer icon" loading="lazy" height=16px width="auto" /> **EDS Retainer** is a rare object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/retainer/icon.png" alt="EDS Retainer icon" loading="lazy" height="16px" width="auto" /> **EDS Retainer** is a rare object.
 
 An unknown device. It feels like something is missing. Code on the back reads 'CT35'.
 

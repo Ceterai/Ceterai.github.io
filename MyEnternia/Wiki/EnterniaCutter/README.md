@@ -1,10 +1,10 @@
 # Enternia Cutter ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon_upg.png" alt="Enternia Cutter ★ icon" loading="lazy" height=16px width="auto" /> **Enternia Cutter ★** is a legendary two-handed electric tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon_upg.png" alt="Enternia Cutter ★ icon" loading="lazy" height="16px" width="auto" /> **Enternia Cutter ★** is a legendary two-handed electric tool.
 
 An energy-based alta lumber cutter.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" height=16px width="auto" /> [Ionic Cutter](https://ceterai.github.io/MyEnternia/Wiki/IonicCutter).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" height="16px" width="auto" /> [Ionic Cutter](https://ceterai.github.io/MyEnternia/Wiki/IonicCutter).
 
 ## Sources
 

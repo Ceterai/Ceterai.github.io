@@ -1,6 +1,6 @@
 # Alta Icer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" height=16px width="auto" /> **Alta Icer** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" height="16px" width="auto" /> **Alta Icer** is an uncommon crafting station.
 
 A piece of alta kitchen technology for making punches. Not those kinds of punches. Drinkable ones.  
 The technology is quite complicated, and isn't very common among altas. However - still a must-have in a professional kitchen.
@@ -28,7 +28,7 @@ The technology is quite complicated, and isn't very common among altas. However 
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height=16px width="auto" /> [Alta Cakery](https://ceterai.github.io/MyEnternia/Wiki/AltaCakery)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height="16px" width="auto" /> [Alta Cakery](https://ceterai.github.io/MyEnternia/Wiki/AltaCakery)
 
 ## Technical Information
 

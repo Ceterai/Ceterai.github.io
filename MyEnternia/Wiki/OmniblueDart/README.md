@@ -1,6 +1,6 @@
-# Throwing Dart
+# Omniblue Dart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/blue/throwingdart.png" alt="Throwing Dart icon" loading="lazy" height=16px width="auto" /> **Throwing Dart** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/blue/throwingdart.png" alt="Omniblue Dart icon" loading="lazy" height="16px" width="auto" /> **Omniblue Dart** is a common throwable item.
 
 A throwing dart, aim for the bullseye.
 

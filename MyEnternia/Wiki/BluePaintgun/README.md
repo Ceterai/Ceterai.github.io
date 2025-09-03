@@ -1,6 +1,6 @@
 # Blue Paintgun
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgunblue.png" alt="Blue Paintgun icon" loading="lazy" height=16px width="auto" /> **Blue Paintgun** is an uncommon two-handed toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgunblue.png" alt="Blue Paintgun icon" loading="lazy" height="16px" width="auto" /> **Blue Paintgun** is an uncommon two-handed toy.
 
 Why wait for a blue moon when you can make one yourself?
 

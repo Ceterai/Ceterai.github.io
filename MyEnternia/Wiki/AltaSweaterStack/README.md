@@ -1,6 +1,6 @@
 # Alta Sweater Stack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" height=16px width="auto" /> **Alta Sweater Stack** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" height="16px" width="auto" /> **Alta Sweater Stack** is a common decorative object.
 
 A tidy stack of regular sweaters, for all and any occasions. Small sized.  
 Any alta has at least a pack of these, usually given out by the city administration. They often come together with a flat as well.

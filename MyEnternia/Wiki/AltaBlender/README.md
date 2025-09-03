@@ -1,6 +1,6 @@
 # Alta Blender
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height=16px width="auto" /> **Alta Blender** is a rare crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height="16px" width="auto" /> **Alta Blender** is a rare crafting station.
 
 A piece of alta kitchen technology for making milkshakes. Additional whipping machine included.  
 Ironically, alta shakers are used for making cocktails, while alta blenders are used for milkshakes.
@@ -24,8 +24,8 @@ Ironically, alta shakers are used for making cocktails, while alta blenders are 
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height=16px width="auto" /> [Alta Cakery](https://ceterai.github.io/MyEnternia/Wiki/AltaCakery)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" height=16px width="auto" /> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height="16px" width="auto" /> [Alta Cakery](https://ceterai.github.io/MyEnternia/Wiki/AltaCakery)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" height="16px" width="auto" /> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
 
 ## Technical Information
 

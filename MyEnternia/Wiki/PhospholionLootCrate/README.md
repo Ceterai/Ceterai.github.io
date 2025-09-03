@@ -1,8 +1,8 @@
 # Phospholion Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height=16px width="auto" /> **Phospholion Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Phospholion Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" height=16px width="auto" /> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) biome chests.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" height="16px" width="auto" /> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) biome chests.  
 Phosic tecnology is the main target content of this category of crates, but it is also often used as a general container for transporting of radioactive materials as well.
 
 ## Ingame
@@ -19,11 +19,11 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height=12px width=18px /> [Mining Chest](https://starbounder.org/Mining_Chest)
+- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height="12px" width="18px" /> [Mining Chest](https://starbounder.org/Mining_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height=16px width="auto" /> [Phospholion Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/PhospholionLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Phospholion Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/PhospholionLootCrate)
 
 ## Technical Information
 

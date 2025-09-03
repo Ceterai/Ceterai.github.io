@@ -1,6 +1,6 @@
 # Berry Cake ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Berry Cake ★★ icon" loading="lazy" height=16px width="auto" /> **Berry Cake ★★** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Berry Cake ★★ icon" loading="lazy" height="16px" width="auto" /> **Berry Cake ★★** is a rare dish.
 
 A very puffy, soft berry cake with meringue topping made from different alta berries. Melts in your mouth and dissapears pretty quickly.  
 This recipe is incredibly hard to replicate, with only few being able to create it perfectly. After all, feelings are a presonal thing, that you can't just take and copy.
@@ -14,12 +14,12 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 80
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height=16px width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)- Duration: 405, 
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height="16px" width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)- Duration: 405, 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" height=16px width="auto" /> [Static Shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield)- Duration: 120, 
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" height="16px" width="auto" /> [Static Shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield)- Duration: 120, 
 
 - Effect: `invulnerable`- Duration: 5
 
@@ -31,7 +31,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
 
 ## Technical Information
 

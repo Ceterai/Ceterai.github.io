@@ -1,6 +1,6 @@
 # Bishyn Chest
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> **Bishyn Chest** is an uncommon storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height="16px" width="auto" /> **Bishyn Chest** is an uncommon storage unit.
 
 A scary looking crystal chest.
 
@@ -28,11 +28,11 @@ A scary looking crystal chest.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height="16px" width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
 
 ## Technical Information
 

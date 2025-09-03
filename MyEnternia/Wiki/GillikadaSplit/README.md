@@ -1,6 +1,6 @@
 # Gillikada Split
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" height=16px width="auto" /> **Gillikada Split** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" height="16px" width="auto" /> **Gillikada Split** is an uncommon dish.
 
 This perfectly crafted gillikada has a thin, satisfying crust covering its gentle mash. Very fulfilling.  
 The crust can be achieved in many ways, but is often made by covering the outside in an even layer of mashed gil seeds and some cooking oil.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 24
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `runboostfood`- Duration: 60
@@ -23,8 +23,8 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" height=16px width="auto" /> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height=16px width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" height="16px" width="auto" /> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height="16px" width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
 ## Sources
 
@@ -34,7 +34,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height=16px width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
 
 ## Technical Information
 

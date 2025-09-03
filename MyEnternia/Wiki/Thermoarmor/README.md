@@ -1,6 +1,6 @@
 # Thermoarmor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="Thermoarmor ★ icon" loading="lazy" height=16px width="auto" /> **Thermoarmor ★** is an uncommon chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="Thermoarmor ★ icon" loading="lazy" height="16px" width="auto" /> **Thermoarmor ★** is an uncommon chest item.
 
 A power ranger body protection often used by riverside alta scouts.  
 A fireblast material is covering most of this chestpiece's surface to protect from dangerous environment.
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" height=16px width="auto" /> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" height="16px" width="auto" /> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
 
 ## Sources
 

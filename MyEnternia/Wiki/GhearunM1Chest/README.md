@@ -1,6 +1,6 @@
 # Ghearun M1 Chest
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/chest/icon.png" alt="Ghearun M1 Chest icon" loading="lazy" height=16px width="auto" /> **Ghearun M1 Chest** is a legendary chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/chest/icon.png" alt="Ghearun M1 Chest icon" loading="lazy" height="16px" width="auto" /> **Ghearun M1 Chest** is a legendary chest item.
 
 An armored suit with an exosceleton that runs on [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) and provides power improvements.
 
@@ -12,7 +12,7 @@ An armored suit with an exosceleton that runs on [gheatsyn](https://ceterai.gith
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
 
 Can be bought from merchants:
 
@@ -22,8 +22,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="Ghearun M1 Set icon" loading="lazy" height=16px width="auto" /> [Ghearun M1 Set](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Set)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="Ghearun M1 Set icon" loading="lazy" height="16px" width="auto" /> [Ghearun M1 Set](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Set)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
 
 ## Technical Information
 

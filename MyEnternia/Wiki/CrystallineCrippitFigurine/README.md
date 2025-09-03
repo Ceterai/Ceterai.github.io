@@ -1,6 +1,6 @@
 # Crystalline Crippit Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crystalline_crippit.png" alt="Crystalline Crippit Figurine icon" loading="lazy" height=16px width="auto" /> **Crystalline Crippit Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crystalline_crippit.png" alt="Crystalline Crippit Figurine icon" loading="lazy" height="16px" width="auto" /> **Crystalline Crippit Figurine** is a legendary figurine.
 
 The label reads, "The crystal shell of this crippit has started to turn into its prime form - so beautiful, and so protective!"
 

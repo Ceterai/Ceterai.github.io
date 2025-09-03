@@ -1,6 +1,6 @@
 # Bishyn Hatch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/hatch/icon.png" alt="Bishyn Hatch icon" loading="lazy" height=16px width="auto" /> **Bishyn Hatch** is an uncommon door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/hatch/icon.png" alt="Bishyn Hatch icon" loading="lazy" height="16px" width="auto" /> **Bishyn Hatch** is an uncommon door.
 
 A smooth [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) hatch.
 
@@ -27,7 +27,7 @@ A smooth [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) hatch.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height="16px" width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
 
 Can be bought from merchants:
 
@@ -35,7 +35,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
 
 ## Technical Information
 

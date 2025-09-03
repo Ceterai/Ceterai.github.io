@@ -1,6 +1,6 @@
 # EDS Armored Greaves
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" height=16px width="auto" /> **EDS Armored Greaves** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" height="16px" width="auto" /> **EDS Armored Greaves** is a rare leg item.
 
 An advanced legwear upgrade for [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) security units with added leg protection.  
 Its full focus goes to reinforcing critical parts of the leg - feet and knees. This creates a good weight-defence balance.
@@ -18,7 +18,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_protection_module.png" alt="EDS Protection Module icon" loading="lazy" height=16px width="auto" /> [EDS Protection Module](https://ceterai.github.io/MyEnternia/Wiki/EDSProtectionModule)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_protection_module.png" alt="EDS Protection Module icon" loading="lazy" height="16px" width="auto" /> [EDS Protection Module](https://ceterai.github.io/MyEnternia/Wiki/EDSProtectionModule)
 
 ## Sources
 
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" height=16px width="auto" /> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" height="16px" width="auto" /> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
 
 ## Technical Information
 

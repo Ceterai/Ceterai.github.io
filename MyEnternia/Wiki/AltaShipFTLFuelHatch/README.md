@@ -1,6 +1,6 @@
 # Alta Ship FTL Fuel Hatch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/fuel_hatch/icon.png" alt="Alta Ship FTL Fuel Hatch icon" loading="lazy" height=16px width="auto" /> **Alta Ship FTL Fuel Hatch** is a legendary object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/fuel_hatch/icon.png" alt="Alta Ship FTL Fuel Hatch icon" loading="lazy" height="16px" width="auto" /> **Alta Ship FTL Fuel Hatch** is a legendary object.
 
 Accepts Liquid Erchius as fuel for the [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) ship's FTL drive.
 

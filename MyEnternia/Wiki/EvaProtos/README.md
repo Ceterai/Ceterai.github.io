@@ -1,11 +1,11 @@
 # Eva Protos ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Eva Protos ★ icon" loading="lazy" height=16px width="auto" /> **Eva Protos ★** is a legendary shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Eva Protos ★ icon" loading="lazy" height="16px" width="auto" /> **Eva Protos ★** is a legendary shield.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic used by [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight) heros. A message is engraved on the back of the shield. It reads "Stars look over you".  
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic used by [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight) heros. A message is engraved on the back of the shield. It reads "Stars look over you".  
 Its mysterious cosmic shine distinquishes it from the rest of arknight shields. The energy within is slowly pulsating, waiting to release in a surge.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" height=16px width="auto" /> [Arknight's Shield](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sShield).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" height="16px" width="auto" /> [Arknight's Shield](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sShield).
 
 ## Ingame
 

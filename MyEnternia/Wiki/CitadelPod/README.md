@@ -1,6 +1,6 @@
 # Citadel Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" height=16px width="auto" /> **Citadel Pod ★★** is a legendary storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Citadel Pod ★★** is a legendary storage unit.
 
 A highly reinforced airtight pod that can be used as a chest.
 

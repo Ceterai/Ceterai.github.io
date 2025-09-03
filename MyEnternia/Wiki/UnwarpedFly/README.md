@@ -1,6 +1,6 @@
 # Unwarped Fly
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/unwarped_fly/icon.png" alt="Unwarped Fly icon" loading="lazy" height=16px width="auto" /> **Unwarped Fly** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/unwarped_fly/icon.png" alt="Unwarped Fly icon" loading="lazy" height="16px" width="auto" /> **Unwarped Fly** is an uncommon bug.
 
 An attached note reads, "This species is very different from the dangerous warped flies and is actually quite peaceful."
 

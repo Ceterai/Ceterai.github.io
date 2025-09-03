@@ -1,6 +1,6 @@
 # Ayabaycalin Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Ayabaycalin Tea icon" loading="lazy" height=16px width="auto" /> **Ayabaycalin Tea** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Ayabaycalin Tea icon" loading="lazy" height="16px" width="auto" /> **Ayabaycalin Tea** is an uncommon drink.
 
 This calio tea is dense with tingy calin sweetness! Like some nice tea with honey, this is definitely perfect.  
 Jam is a prevalent ingredient in thick types of tea, often replaced with honey, extract, sap, and other sweet jam-like substances.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 10
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `poisonblock`- Duration: 240
@@ -23,8 +23,8 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" height=16px width="auto" /> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" height=16px width="auto" /> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" height="16px" width="auto" /> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" height="16px" width="auto" /> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
 
 ## Sources
 
@@ -34,7 +34,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height=16px width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
 
 ## Technical Information
 

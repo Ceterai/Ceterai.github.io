@@ -1,6 +1,6 @@
 # Crystalline Primification
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" height=16px width="auto" /> **Crystalline Primification** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" height="16px" width="auto" /> **Crystalline Primification** is a rare codex entry.
 
 A compact [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) that contains several pages describing [crystalline prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/CrystallinePrime) and the "prime" phenomenon as a whole.  
 The ebook goes over the concept of primification, which is the process of amplifying the energy or power within an entity by releasing its capabilities. It also describes crystalline prime as a charged crystalline environment.
@@ -19,18 +19,18 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" height=16px width="auto" /> [Crystalline Primification](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimification)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" height="16px" width="auto" /> [Crystalline Primification](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimification)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" height=16px width="auto" /> [Crystalline Primification](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimification)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" height="16px" width="auto" /> [Crystalline Primification](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimification)
 - `ct_carel_sapling`
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height=10.5px width=12px /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
+- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height="10.5px" width="12px" /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
 
 Can be bought from merchants:
 
@@ -76,7 +76,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
 
 ## Technical Information
 

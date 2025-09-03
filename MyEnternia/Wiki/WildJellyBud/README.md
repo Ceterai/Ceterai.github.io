@@ -1,6 +1,6 @@
 # Wild Jelly Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Wild Jelly Bud icon" loading="lazy" height=16px width="auto" /> **Wild Jelly Bud** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Wild Jelly Bud icon" loading="lazy" height="16px" width="auto" /> **Wild Jelly Bud** is a common plantable item.
 
 A large felatine sprout that produces... jellies?
 

@@ -1,6 +1,6 @@
 # Alta Security Terminal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/terminal/icon.png" alt="Alta Security Terminal icon" loading="lazy" height=16px width="auto" /> **Alta Security Terminal** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/terminal/icon.png" alt="Alta Security Terminal icon" loading="lazy" height="16px" width="auto" /> **Alta Security Terminal** is an uncommon wiring component.
 
 A holographic console-like device on a sturdy titanium base. Can be used to operate nearby security measures.
 

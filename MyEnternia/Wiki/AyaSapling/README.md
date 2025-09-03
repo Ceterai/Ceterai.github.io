@@ -1,6 +1,6 @@
 # Aya Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sapling/icon.png" alt="Aya Sapling icon" loading="lazy" height=16px width="auto" /> **Aya Sapling** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sapling/icon.png" alt="Aya Sapling icon" loading="lazy" height="16px" width="auto" /> **Aya Sapling** is a common plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" height=16px width="auto" /> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" height="16px" width="auto" /> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)
 
 ## Sources
 

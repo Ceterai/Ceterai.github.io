@@ -1,6 +1,6 @@
 # Shiny Bishyn Crystal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="Shiny Bishyn Crystal icon" loading="lazy" height=16px width="auto" /> **Shiny Bishyn Crystal** is an uncommon poisonous breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="Shiny Bishyn Crystal icon" loading="lazy" height="16px" width="auto" /> **Shiny Bishyn Crystal** is an uncommon poisonous breakable object.
 
 A shiny crystal deposit. Seems like special [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) crystals.  
 These form naturally in highly crystallic environments and tend to grow in patches on relatively plateau areas.

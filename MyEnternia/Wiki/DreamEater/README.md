@@ -1,6 +1,6 @@
 # Dream Eater
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_dream_eater.png" alt="Dream Eater icon" loading="lazy" height=16px width="auto" /> **Dream Eater** is a legendary two-handed electric spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_dream_eater.png" alt="Dream Eater icon" loading="lazy" height="16px" width="auto" /> **Dream Eater** is a legendary two-handed electric spear.
 
 **WIP**. Each strike of this tool replenishes your energy. Use it to quickly recharge its special ability!  
 No one really knows the origins of this energy-harvesting tool, except maybe for the [dreamers](https://ceterai.github.io/MyEnternia/Wiki/Dreamer). But they won't tell you, or anyone, so the mystery stays a mystery.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

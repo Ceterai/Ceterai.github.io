@@ -1,6 +1,6 @@
 # Combat Android ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/combat.png" alt="Combat Android ★ icon" loading="lazy" height=16px width="auto" /> **Combat Android ★** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/combat.png" alt="Combat Android ★ icon" loading="lazy" height="16px" width="auto" /> **Combat Android ★** is a rare throwable item.
 
 ## Technical Information
 

@@ -1,8 +1,8 @@
 # Elin Ayaka
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height=16px width="auto" /> **Elin Ayaka** is a rare tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height="16px" width="auto" /> **Elin Ayaka** is a rare tree sapling.
 
-A special variation of [ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/ayakatrees) that grows in [elin gardens](https://ceterai.github.io/MyEnternia/Wiki/elingardens). It's precious, tender <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) leaves are filled with the softest [silk fibres](https://ceterai.github.io/MyEnternia/Wiki/silkfibres) out there.
+A special variation of [ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/ayakatrees) that grows in [elin gardens](https://ceterai.github.io/MyEnternia/Wiki/elingardens). It's precious, tender <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) leaves are filled with the softest [silk fibres](https://ceterai.github.io/MyEnternia/Wiki/silkfibres) out there.
 
 ## Ingame
 
@@ -29,23 +29,23 @@ A special variation of [ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/a
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" height=16px width="auto" /> [Ayaka Giant](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" height=16px width="auto" /> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" height=16px width="auto" /> [Stardust Ayaka](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" height="16px" width="auto" /> [Ayaka Giant](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" height="16px" width="auto" /> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" height="16px" width="auto" /> [Stardust Ayaka](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_unona_tree.png" alt="Unona Ayaka icon" loading="lazy" height=16px width="auto" /> [Unona Ayaka](https://ceterai.github.io/MyEnternia/Wiki/UnonaAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_unona_tree.png" alt="Unona Ayaka icon" loading="lazy" height="16px" width="auto" /> [Unona Ayaka](https://ceterai.github.io/MyEnternia/Wiki/UnonaAyaka)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height=16px width="auto" /> [Elin Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElinPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Elin Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElinPod)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Elin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ElinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Elin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ElinLootCrate)
 
 ## Technical Information
 

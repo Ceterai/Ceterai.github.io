@@ -1,6 +1,6 @@
 # Wild Sonava Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Wild Sonava Seed icon" loading="lazy" height=16px width="auto" /> **Wild Sonava Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Wild Sonava Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Sonava Seed** is a common plantable item.
 
 A cute plant with small white bulbs growing from it.
 

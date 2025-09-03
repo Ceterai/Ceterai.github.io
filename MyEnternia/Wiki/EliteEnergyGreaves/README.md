@@ -1,6 +1,6 @@
 # Elite Energy Greaves
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Elite Energy Greaves icon" loading="lazy" height=16px width="auto" /> **Elite Energy Greaves** is a legendary leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Elite Energy Greaves icon" loading="lazy" height="16px" width="auto" /> **Elite Energy Greaves** is a legendary leg item.
 
 This ceternia-enhanced legwear reduses any falldamage by 75%.  
 Made with defence in mind, these greaves are designed to do everything possible to protect the wearer's legs and ensure their survival.
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height=16px width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" height="16px" width="auto" /> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage), 
 
 - Stat: `fallDamageMultiplier`- Effective Multiplier: 0.85, 
 
@@ -32,7 +32,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" height=16px width="auto" /> [Elite Set](https://ceterai.github.io/MyEnternia/Wiki/EliteSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" height="16px" width="auto" /> [Elite Set](https://ceterai.github.io/MyEnternia/Wiki/EliteSet)
 
 ## Technical Information
 

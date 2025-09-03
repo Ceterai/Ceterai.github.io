@@ -1,11 +1,11 @@
 # Ammerax ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/ammerax.png" alt="Ammerax ★★★ icon" loading="lazy" height=16px width="auto" /> **Ammerax ★★★** is a legendary two-handed electric axe.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/ammerax.png" alt="Ammerax ★★★ icon" loading="lazy" height="16px" width="auto" /> **Ammerax ★★★** is a legendary two-handed electric axe.
 
 A heavy, huge instrument, filled with [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) energy.  
 One side is blunt, one is sharp. All sides are charged with dangerous amounts of electricity.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/asirai.png" alt="Asirai ★★ icon" loading="lazy" height=16px width="auto" /> [Asirai ★★](https://ceterai.github.io/MyEnternia/Wiki/Asirai).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/asirai.png" alt="Asirai ★★ icon" loading="lazy" height="16px" width="auto" /> [Asirai ★★](https://ceterai.github.io/MyEnternia/Wiki/Asirai).
 
 ## Ingame
 

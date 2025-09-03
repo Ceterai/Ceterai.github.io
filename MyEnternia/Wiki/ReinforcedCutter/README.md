@@ -1,16 +1,16 @@
 # Reinforced Cutter ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon_upg.png" alt="Reinforced Cutter ★ icon" loading="lazy" height=16px width="auto" /> **Reinforced Cutter ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon_upg.png" alt="Reinforced Cutter ★ icon" loading="lazy" height="16px" width="auto" /> **Reinforced Cutter ★** is a legendary two-handed tool.
 
 A useful tool for cutting lumber. Made from an altan composite.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon.png" alt="Composite Cutter icon" loading="lazy" height=16px width="auto" /> [Composite Cutter](https://ceterai.github.io/MyEnternia/Wiki/CompositeCutter).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon.png" alt="Composite Cutter icon" loading="lazy" height="16px" width="auto" /> [Composite Cutter](https://ceterai.github.io/MyEnternia/Wiki/CompositeCutter).
 
 ## Crafting
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Flower Lover's Guide icon" loading="lazy" height=16px width="auto" /> [Flower Lover's Guide](https://ceterai.github.io/MyEnternia/Wiki/FlowerLover'sGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Flower Lover's Guide icon" loading="lazy" height="16px" width="auto" /> [Flower Lover's Guide](https://ceterai.github.io/MyEnternia/Wiki/FlowerLover'sGuide)
 
 ## Sources
 

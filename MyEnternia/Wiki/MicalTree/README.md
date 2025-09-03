@@ -1,6 +1,6 @@
 # Mical Tree
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_mical_tree.png" alt="Mical Tree icon" loading="lazy" height=16px width="auto" /> **Mical Tree** is a legendary tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_mical_tree.png" alt="Mical Tree icon" loading="lazy" height="16px" width="auto" /> **Mical Tree** is a legendary tree sapling.
 
 A tree you would only find on enterash planets, hidden among explosive nature and terrain.  
 This tree consists of a special type of wood often used in decorative furniture crafting.
@@ -23,14 +23,14 @@ This tree consists of a special type of wood often used in decorative furniture 
 ## Parameters
 
 - Health: 7.5  
-- Stem/Stipe: <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Geode icon" loading="lazy" height=11px width=12px /> [Geode](https://starbounder.org/Geode)
+- Stem/Stipe: <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Geode icon" loading="lazy" height="11px" width="12px" /> [Geode](https://starbounder.org/Geode)
 - Foliage/Cap: `geodefoliage`
 
 ## Crafting
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
 
 ## Sources
 

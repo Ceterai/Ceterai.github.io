@@ -1,6 +1,6 @@
 # Yaara Crystal Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_crystal_icon.png" alt="Yaara Crystal Flower icon" loading="lazy" height=16px width="auto" /> **Yaara Crystal Flower** is a rare light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_crystal_icon.png" alt="Yaara Crystal Flower icon" loading="lazy" height="16px" width="auto" /> **Yaara Crystal Flower** is a rare light source.
 
 A not-sunflower lamp covered in crystals. Looks like they grow right from the plant.
 
@@ -27,13 +27,13 @@ A not-sunflower lamp covered in crystals. Looks like they grow right from the pl
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height=16px width="auto" /> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height=16px width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be bought from merchants:
 
@@ -41,7 +41,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 ## Technical Information
 

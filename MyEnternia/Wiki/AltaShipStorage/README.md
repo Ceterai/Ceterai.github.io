@@ -1,6 +1,6 @@
 # Alta Ship Storage
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/storage/icon.png" alt="Alta Ship Storage icon" loading="lazy" height=16px width="auto" /> **Alta Ship Storage** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/storage/icon.png" alt="Alta Ship Storage icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Storage** is a rare storage unit.
 
 A nice, spacious, wall-mounted storage solution.
 

@@ -1,6 +1,6 @@
 # Alta Step
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/step/icon.png" alt="Alta Step icon" loading="lazy" height=16px width="auto" /> **Alta Step** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/step/icon.png" alt="Alta Step icon" loading="lazy" height="16px" width="auto" /> **Alta Step** is an uncommon wiring component.
 
 A simple pressure plate, or a floor button, semi-hidden on the floor.  
 Although quite small in size, it's convenient enough and doesn't take a lot of pressure to switch, meaning it can be used by any creature.

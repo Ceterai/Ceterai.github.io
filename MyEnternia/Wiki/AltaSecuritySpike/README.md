@@ -1,6 +1,6 @@
 # Alta Security Spike
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/spike/icon.png" alt="Alta Security Spike icon" loading="lazy" height=16px width="auto" /> **Alta Security Spike** is an uncommon electric trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/spike/icon.png" alt="Alta Security Spike icon" loading="lazy" height="16px" width="auto" /> **Alta Security Spike** is an uncommon electric trap.
 
 An electric trap filled with active plasma. Can be turned on or off and placed on almost any surface.  
 These are rarely used by security outposts, mainly as slime traps and formal security measures.

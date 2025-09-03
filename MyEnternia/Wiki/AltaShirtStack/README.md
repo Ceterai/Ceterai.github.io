@@ -1,6 +1,6 @@
 # Alta Shirt Stack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shirt_stack/icon.png" alt="Alta Shirt Stack icon" loading="lazy" height=16px width="auto" /> **Alta Shirt Stack** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shirt_stack/icon.png" alt="Alta Shirt Stack icon" loading="lazy" height="16px" width="auto" /> **Alta Shirt Stack** is a common decorative object.
 
 A tidy stack of regular shirts, for all and any occasions. Small sized.  
 Any alta has at least a pack of these, usually given out by the city administration. They often come together with a flat as well.

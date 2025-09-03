@@ -1,6 +1,6 @@
 # Wild Ruka Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Wild Ruka Seed icon" loading="lazy" height=16px width="auto" /> **Wild Ruka Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Wild Ruka Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Ruka Seed** is a common plantable item.
 
 A project Ruka 14-2 seed that has adapted to nature and can be randomly growing in wet areas.
 

@@ -1,6 +1,6 @@
 # EDS Shielder ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_eds_shielder.png" alt="EDS Shielder ★ icon" loading="lazy" height=16px width="auto" /> **EDS Shielder ★** is a rare shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_eds_shielder.png" alt="EDS Shielder ★ icon" loading="lazy" height="16px" width="auto" /> **EDS Shielder ★** is a rare shield.
 
 Creates a single-use [EDS static shield](https://ceterai.github.io/MyEnternia/Wiki/EDSstaticshield) around you for 60s with the power of 130 points + 0.15% of your health.  
 While relatively brief, it gives a significant level of protection for what it's worth.
@@ -20,13 +20,13 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 - Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" height=16px width="auto" /> [EDS Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSEnergyShield)- Duration: 60
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" height="16px" width="auto" /> [EDS Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSEnergyShield)- Duration: 60
 
 ## Crafting
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" height=16px width="auto" /> [EDS Body Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSBodyArmor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" height="16px" width="auto" /> [EDS Body Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSBodyArmor)
 
 ## Sources
 

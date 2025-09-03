@@ -1,6 +1,6 @@
 # Alien Fruit Eco Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height=16px width="auto" /> **Alien Fruit Eco Pod** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height="16px" width="auto" /> **Alien Fruit Eco Pod** is a legendary plantable item.
 
 Contains a modified alien fruit sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 
 ## Technical Information
 

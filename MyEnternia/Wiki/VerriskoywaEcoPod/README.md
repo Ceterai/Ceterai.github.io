@@ -1,6 +1,6 @@
 # Verriskoywa Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/pod/icon.png" alt="Verriskoywa Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **Verriskoywa Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/pod/icon.png" alt="Verriskoywa Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Verriskoywa Eco Pod ★** is a legendary plantable item.
 
 Contains a modified koywa sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVerriskoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVerriskoywaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Verriskoywa Seed icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Verriskoywa Seed icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSeed)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Mira's Love ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Mira's Love ★ icon" loading="lazy" height=16px width="auto" /> **Mira's Love ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Mira's Love ★ icon" loading="lazy" height="16px" width="auto" /> **Mira's Love ★** is a legendary dish.
 
 This well-made ion cake is beyond all praises! Surely it deserves the Al'deron's commander name next to it.  
 Every bit is calculated and planned, all measurements are exact, including your reaction and what side of the cake you'll start with.
@@ -14,10 +14,10 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 110
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
-- Effect: `maxenergyscalingboostfood`- Duration: 540
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" height="16px" width="16px" /> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 540
 
 ## Sources
 
@@ -27,7 +27,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
 
 ## Technical Information
 

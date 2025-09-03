@@ -1,6 +1,6 @@
 # Ayaka Rod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/ayaka_rod/icon.png" alt="Ayaka Rod icon" loading="lazy" height=16px width="auto" /> **Ayaka Rod** is a common two-handed fishing rod.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/ayaka_rod/icon.png" alt="Ayaka Rod icon" loading="lazy" height="16px" width="auto" /> **Ayaka Rod** is a common two-handed fishing rod.
 
 A simple wooden fishing rod with no modular reel or lure. Can't be used in lava, poison, fuel or slime.
 

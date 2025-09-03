@@ -1,11 +1,11 @@
 # Protea's Vectors ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Protea's Vectors ★ icon" loading="lazy" height=16px width="auto" /> **Protea's Vectors ★** is a legendary leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Protea's Vectors ★ icon" loading="lazy" height="16px" width="auto" /> **Protea's Vectors ★** is a legendary leg item.
 
-These protective leggings with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals once belonged to Protea. They're yours now. Enjoy!  
+These protective leggings with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals once belonged to Protea. They're yours now. Enjoy!  
 They're part of the Protea's gift to inexperienced alta scouts as means of care and support!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" height=16px width="auto" /> [Velocity Eaters](https://ceterai.github.io/MyEnternia/Wiki/VelocityEaters).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" height="16px" width="auto" /> [Velocity Eaters](https://ceterai.github.io/MyEnternia/Wiki/VelocityEaters).
 
 ## Ingame
 
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height=16px width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" height=16px width="auto" /> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height="16px" width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" height="16px" width="auto" /> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters), 
 
 - Stat: `fallDamageMultiplier`- Effective Multiplier: 0.85, 
 

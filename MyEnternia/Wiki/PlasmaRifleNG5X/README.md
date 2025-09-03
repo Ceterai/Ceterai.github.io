@@ -1,11 +1,11 @@
 # Plasma Rifle NG5X ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Plasma Rifle NG5X ★ icon" loading="lazy" height=16px width="auto" /> **Plasma Rifle NG5X ★** is a legendary two-handed electric assault rifle.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Plasma Rifle NG5X ★ icon" loading="lazy" height="16px" width="auto" /> **Plasma Rifle NG5X ★** is a legendary two-handed electric assault rifle.
 
-This improved NG5 model has enhanced energy capacity due to the use of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
+This improved NG5 model has enhanced energy capacity due to the use of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
 The integrated crystal acts as an energy booster, and the updated rapid generator allows for longer high loads.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle.png" alt="Plasma Rifle NG5 icon" loading="lazy" height=16px width="auto" /> [Plasma Rifle NG5](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle.png" alt="Plasma Rifle NG5 icon" loading="lazy" height="16px" width="auto" /> [Plasma Rifle NG5](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5).
 
 ## Ingame
 

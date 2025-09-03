@@ -1,6 +1,6 @@
 # Alta Ship Monitor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/monitor/icon.png" alt="Alta Ship Monitor icon" loading="lazy" height=16px width="auto" /> **Alta Ship Monitor** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/monitor/icon.png" alt="Alta Ship Monitor icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Monitor** is a rare decorative object.
 
 A small monitor. But what does it display?
 

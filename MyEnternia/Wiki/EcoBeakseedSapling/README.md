@@ -1,6 +1,6 @@
 # Eco Beakseed Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/eco/icon.png" alt="Eco Beakseed Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Beakseed Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/eco/icon.png" alt="Eco Beakseed Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Beakseed Sapling** is an uncommon plantable item.
 
 This smaller sapling will ripen much slower, but doesn't consume soil.
 
@@ -14,12 +14,12 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/cultivated/icon.png" alt="Cultivated Beakseed Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Beakseed Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedBeakseedSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/cultivated/icon.png" alt="Cultivated Beakseed Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Beakseed Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedBeakseedSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/boosted/icon.png" alt="Boosted Beakseed Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Beakseed Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedBeakseedSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" height=16px width="auto" /> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/boosted/icon.png" alt="Boosted Beakseed Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Beakseed Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedBeakseedSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
 
 ## Technical Information
 

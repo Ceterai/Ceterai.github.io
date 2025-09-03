@@ -1,8 +1,8 @@
 # Ion Core Monitoring
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" height=16px width="auto" /> **Ion Core Monitoring** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" height="16px" width="auto" /> **Ion Core Monitoring** is a rare codex entry.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height=16px width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains gathered metrics from monitoring an [ion core](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) environment.  
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height="16px" width="auto" /> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains gathered metrics from monitoring an [ion core](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) environment.  
 Seems like this is an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) report on the state of the core of one of the ionic planets.
 
 ## Ingame
@@ -20,20 +20,20 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" height=16px width="auto" /> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" height="16px" width="auto" /> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring)
 
 Unlocks blueprints for:
 
 - `ct_calocol_af`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" height=16px width="auto" /> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height=16px width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" height="16px" width="auto" /> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height="16px" width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
-- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
@@ -75,7 +75,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="Ion Core Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ion Core Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IonCoreLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="Ion Core Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ion Core Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IonCoreLootCrate)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Potted Stardust Plant
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" height=16px width="auto" /> **Potted Stardust Plant** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" height="16px" width="auto" /> **Potted Stardust Plant** is an uncommon decorative object.
 
 A decorative plant in a big titanium vase.
 
@@ -27,7 +27,7 @@ A decorative plant in a big titanium vase.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
 
 ## Technical Information
 

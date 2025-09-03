@@ -1,8 +1,8 @@
 # Stardust Sample ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/stardust/icon.png" alt="Stardust Sample ★ icon" loading="lazy" height=16px width="auto" /> **Stardust Sample ★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/stardust/icon.png" alt="Stardust Sample ★ icon" loading="lazy" height="16px" width="auto" /> **Stardust Sample ★** is a legendary decorative object.
 
-A perfect sample of some crystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), preserved on a small titanium pedestal.
+A perfect sample of some crystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), preserved on a small titanium pedestal.
 
 ## Ingame
 
@@ -14,7 +14,7 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
 
 ## Sources
 

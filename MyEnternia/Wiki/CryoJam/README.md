@@ -1,6 +1,6 @@
 # Cryo Jam
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" height=16px width="auto" /> **Cryo Jam** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" height="16px" width="auto" /> **Cryo Jam** is an uncommon dish.
 
 This izo jam turned out colder and purer than usual. Some say it tastes much better this way. Can be used as a substitute for izo jam.  
 Can also be used as a substitute for actual [izon](https://ceterai.github.io/MyEnternia/Wiki/izon), you're smart enough. Or brave enough.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 24
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `energyregen`- Duration: 55
@@ -23,9 +23,9 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" height=16px width="auto" /> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" height=16px width="auto" /> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height="16px" width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" height="16px" width="auto" /> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" height="16px" width="auto" /> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
 
 ## Sources
 
@@ -35,7 +35,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height=16px width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
 
 ## Technical Information
 

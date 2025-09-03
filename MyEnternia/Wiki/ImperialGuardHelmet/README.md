@@ -1,8 +1,8 @@
 # Imperial Guard Helmet
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Imperial Guard Helmet icon" loading="lazy" height=16px width="auto" /> **Imperial Guard Helmet** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Imperial Guard Helmet icon" loading="lazy" height="16px" width="auto" /> **Imperial Guard Helmet** is a legendary head item.
 
-Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" height=16px width="auto" /> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
+Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" height="16px" width="auto" /> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
 While similar in characteristics to the original model, this one has alternative markings to signify its belonging.
 
 ## Ingame
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoprotector.png" alt="Autoprotector icon" loading="lazy" height=16px width="auto" /> [Autoprotector](https://ceterai.github.io/MyEnternia/Wiki/Autoprotector), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoprotector.png" alt="Autoprotector icon" loading="lazy" height="16px" width="auto" /> [Autoprotector](https://ceterai.github.io/MyEnternia/Wiki/Autoprotector), 
 
 - Stat: `breathProtection`- Amount: 1.0
 

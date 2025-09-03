@@ -1,6 +1,6 @@
 # Alta Bestiarium
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bestiarium/icon.png" alt="Alta Bestiarium icon" loading="lazy" height=16px width="auto" /> **Alta Bestiarium** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bestiarium/icon.png" alt="Alta Bestiarium icon" loading="lazy" height="16px" width="auto" /> **Alta Bestiarium** is a legendary crafting station.
 
 An alta sewing machine with additional functionality.  
 Can create folded seams and protects the operator from the needle.

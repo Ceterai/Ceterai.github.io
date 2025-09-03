@@ -1,20 +1,12 @@
 # Alta Dart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Dart icon" loading="lazy" height=16px width="auto" /> **Alta Dart** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/throwingdart.png" alt="Alta Dart icon" loading="lazy" height="16px" width="auto" /> **Alta Dart** is a common throwable item.
 
-A simple toy dart that you can throw at a target. Or horibly miss it instead, whatever.  
-Usually manufactured in batches, these are commonly sold in entertainment stores with small safety protocols, even if classified as non-lethal.
-
-## Ingame
-
-Species descriptions:
-
-- Alta: I love these! Now all we need is a matching target board to put on a wall...
+A throwing dart, aim for the bullseye.
 
 ## Technical Information
 
-- In-game ID: `ct_proj_mimic-metal_javelin`
-- Power: `2.4`
-- Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
-- File: [`/items/buildscripts/ct_mimics/proj.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/proj.thrownitem)
+- In-game ID: `ct_alta_dart`
+- Power: `1.0`
+- Rarity: `Common`
+- File: [`/items/active/alta/toys/dart/throwingdart.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/dart/throwingdart.thrownitem)

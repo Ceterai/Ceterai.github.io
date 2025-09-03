@@ -1,6 +1,6 @@
 # Viona Fresh
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Viona Fresh icon" loading="lazy" height=16px width="auto" /> **Viona Fresh** is a common drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Viona Fresh icon" loading="lazy" height="16px" width="auto" /> **Viona Fresh** is a common drink.
 
 A drink of science, that first was discovered in an actual lab, where the enchanted energy was being researched. Not it's a hit with partygoers!  
 Generally viona anomalies are things to be cautious of, but even an energy miazma can become a source of a good drink sometimes.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 14
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `lowgrav`- Duration: 60
@@ -23,7 +23,7 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height=16px width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height="16px" width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
 ## Sources
 
@@ -33,7 +33,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height=16px width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Fresh Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaFreshServing)
 
 ## Technical Information
 

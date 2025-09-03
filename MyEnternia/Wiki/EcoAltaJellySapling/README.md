@@ -1,6 +1,6 @@
 # Eco Alta Jelly Sapling ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height=16px width="auto" /> **Eco Alta Jelly Sapling ★★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> **Eco Alta Jelly Sapling ★★** is a rare plantable item.
 
 This warped hive sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,13 +14,13 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" height=16px width="auto" /> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" height=16px width="auto" /> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" height="16px" width="auto" /> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" height="16px" width="auto" /> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)
 
 ## Technical Information
 

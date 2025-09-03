@@ -1,6 +1,6 @@
 # Alta S.A.I.L. A.I. Chip
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_sail_ai_chip.png" alt="Alta S.A.I.L. A.I. Chip icon" loading="lazy" height=16px width="auto" /> **Alta S.A.I.L. A.I. Chip** is a rare AI chip.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_sail_ai_chip.png" alt="Alta S.A.I.L. A.I. Chip icon" loading="lazy" height="16px" width="auto" /> **Alta S.A.I.L. A.I. Chip** is a rare AI chip.
 
 An alta S.A.I.L. interface chip. _With Customizable A.I.: Can be installed on S.A.I.L.'s terminal. Visuals only._  
 This A.I. chip is constructed by interplanetary standards, though its software is purely alta-native, meaning it performs similar to a datamass.

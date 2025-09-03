@@ -1,9 +1,9 @@
 # Tier 0 Pad
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> **Tier 0 Pad** is a common loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> **Tier 0 Pad** is a common loot item.
 
 Basic alta items, often found in pods. Includes produce, meds, as well as basic [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) decor, clothes and level 0-2 resources and equipment.  
-These standardized crates a packed with goodies, seemingly with general decor and scout equipment. They are much more compact than <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height=16px width="auto" /> [alta pods](https://ceterai.github.io/MyEnternia/Wiki/AltaPod), but the items inside are heavily packed and compressed to be able to fit in. This, opening this crate is often a one-way ticket.
+These standardized crates a packed with goodies, seemingly with general decor and scout equipment. They are much more compact than <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [alta pods](https://ceterai.github.io/MyEnternia/Wiki/AltaPod), but the items inside are heavily packed and compressed to be able to fit in. This, opening this crate is often a one-way ticket.
 
 ## Ingame
 

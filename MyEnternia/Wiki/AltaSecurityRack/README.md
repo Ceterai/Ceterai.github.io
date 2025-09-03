@@ -1,6 +1,6 @@
 # Alta Security Rack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/rack/icon.png" alt="Alta Security Rack icon" loading="lazy" height=16px width="auto" /> **Alta Security Rack** is an uncommon storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/rack/icon.png" alt="Alta Security Rack icon" loading="lazy" height="16px" width="auto" /> **Alta Security Rack** is an uncommon storage unit.
 
 An armored rack with mechanical locks for safe weapon storage.  
 Widely used in alta security bases for quick and authorized access during emergencies and regular missions.

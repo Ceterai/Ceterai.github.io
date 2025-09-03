@@ -1,6 +1,6 @@
 # Stardust Glowstick
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/stardust.png" alt="Stardust Glowstick icon" loading="lazy" height=16px width="auto" /> **Stardust Glowstick** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/stardust.png" alt="Stardust Glowstick icon" loading="lazy" height="16px" width="auto" /> **Stardust Glowstick** is an uncommon throwable item.
 
 Creates a stardust bioluminescent glow when thrown. Is made from rare crystallic materials.  
 Not entirely known why combining the stardust ingredients shifts the hue even further to the red, but it seems like the same is happening to starlight...
@@ -15,7 +15,7 @@ Species descriptions:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 <details markdown="1"><summary>Can be bought from merchants: (Expand 11 items)</summary>
 
@@ -35,7 +35,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height=16px width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
 
 ## Technical Information
 

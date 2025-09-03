@@ -1,6 +1,6 @@
 # Iced Aya Dessert ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Iced Aya Dessert ★ icon" loading="lazy" height=16px width="auto" /> **Iced Aya Dessert ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Iced Aya Dessert ★ icon" loading="lazy" height="16px" width="auto" /> **Iced Aya Dessert ★** is an uncommon dish.
 
 This is not any regular ice cream, this is a full dessert with extra-sweetness!  
 The process of preparation is slightly more complicated, but the presentation does the most difference.
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 24
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `lowgrav`- Duration: 120
@@ -27,7 +27,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height=16px width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
 
 ## Technical Information
 

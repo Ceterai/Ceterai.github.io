@@ -1,6 +1,6 @@
 # Complicated Nature of Bion
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Complicated Nature of Bion icon" loading="lazy" height=16px width="auto" /> **Complicated Nature of Bion** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Complicated Nature of Bion icon" loading="lazy" height="16px" width="auto" /> **Complicated Nature of Bion** is a rare codex entry.
 
 A datamass containing explanations of complex concepts behind alta biology.  
 This datamass is covered in ongrown bionid clumps - _nidias_. It might not fit well into some sockets.
@@ -20,22 +20,22 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Complicated Nature of Bion icon" loading="lazy" height=16px width="auto" /> [Complicated Nature of Bion](https://ceterai.github.io/MyEnternia/Wiki/ComplicatedNatureofBion)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Complicated Nature of Bion icon" loading="lazy" height="16px" width="auto" /> [Complicated Nature of Bion](https://ceterai.github.io/MyEnternia/Wiki/ComplicatedNatureofBion)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Complicated Nature of Bion icon" loading="lazy" height=16px width="auto" /> [Complicated Nature of Bion](https://ceterai.github.io/MyEnternia/Wiki/ComplicatedNatureofBion)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Complicated Nature of Bion icon" loading="lazy" height="16px" width="auto" /> [Complicated Nature of Bion](https://ceterai.github.io/MyEnternia/Wiki/ComplicatedNatureofBion)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
-- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
 
 ## Technical Information
 

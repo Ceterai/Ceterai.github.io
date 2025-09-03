@@ -1,6 +1,6 @@
 # Potted Gil
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/gil/icon.png" alt="Potted Gil icon" loading="lazy" height=16px width="auto" /> **Potted Gil** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/gil/icon.png" alt="Potted Gil icon" loading="lazy" height="16px" width="auto" /> **Potted Gil** is an uncommon decorative object.
 
 A seemingly unsuspecting plant in a small pot.
 

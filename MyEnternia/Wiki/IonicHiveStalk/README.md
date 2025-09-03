@@ -1,6 +1,6 @@
 # Ionic Hive Stalk
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_hive_tree.png" alt="Ionic Hive Stalk icon" loading="lazy" height=16px width="auto" /> **Ionic Hive Stalk** is a rare tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_hive_tree.png" alt="Ionic Hive Stalk icon" loading="lazy" height="16px" width="auto" /> **Ionic Hive Stalk** is a rare tree sapling.
 
 A huge tentacle-looking stem full of insects. Better to not touch it.  
 Similar to regular hive stalks, this one was adapted to grow on alterash planets.
@@ -30,15 +30,15 @@ Similar to regular hive stalks, this one was adapted to grow on alterash planets
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" height=16px width="auto" /> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" height=16px width="auto" /> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" height="16px" width="auto" /> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" height=16px width="auto" /> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" height="16px" width="auto" /> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
 
 ## Sources
 

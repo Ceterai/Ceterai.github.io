@@ -1,6 +1,6 @@
 # Boosted Vodakoywa Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> **Boosted Vodakoywa Sapling** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> **Boosted Vodakoywa Sapling** is a legendary plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/pod/icon.png" alt="Vodakoywa Eco Pod icon" loading="lazy" height=16px width="auto" /> [Vodakoywa Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/pod/icon.png" alt="Vodakoywa Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaEcoPod)
 
 ## Technical Information
 

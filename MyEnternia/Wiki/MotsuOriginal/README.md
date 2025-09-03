@@ -1,6 +1,6 @@
 # Motsu Original
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Motsu Original icon" loading="lazy" height=16px width="auto" /> **Motsu Original** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Motsu Original icon" loading="lazy" height="16px" width="auto" /> **Motsu Original** is a rare dish.
 
 A chef's personal recipe! It's crystal-based secrets are hidden in the mind of its creator, and it's up to you to trust that and take the challenge.  
 While it includes a lot of common crystal ingredients, the main taste can vary depending on the choice of whoever is making it.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height=16px width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
 
 ## Technical Information
 

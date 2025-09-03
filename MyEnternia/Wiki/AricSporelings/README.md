@@ -1,6 +1,6 @@
 # Aric Sporelings
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height=16px width="auto" /> **Aric Sporelings** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height="16px" width="auto" /> **Aric Sporelings** is a rare codex entry.
 
 An informative paper that can help you tell good shrooms from bad ones.  
 Most aric shrooms are constantly exposed to extreme mutation, to the point where it's hard to find 2 exact same species. For this reason, [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) recognize them by separate aspects of their appearance.
@@ -15,18 +15,18 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height=16px width="auto" /> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height="16px" width="auto" /> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" height=16px width="auto" /> [Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height=16px width="auto" /> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" height="16px" width="auto" /> [Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height="16px" width="auto" /> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height=12px width=12px /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" height="12px" width="12px" /> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be bought from merchants:
 
@@ -73,7 +73,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height=16px width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 
 ## Technical Information
 

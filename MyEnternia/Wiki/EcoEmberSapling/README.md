@@ -1,6 +1,6 @@
 # Eco Ember Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Ember Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Ember Sapling** is a rare plantable item.
 
 This coral sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,16 +14,16 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
 - `coralcreepseed`
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
 
 ## Technical Information
 

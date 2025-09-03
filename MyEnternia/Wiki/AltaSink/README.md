@@ -1,6 +1,6 @@
 # Alta Sink
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/sink/icon.png" alt="Alta Sink icon" loading="lazy" height=16px width="auto" /> **Alta Sink** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/sink/icon.png" alt="Alta Sink icon" loading="lazy" height="16px" width="auto" /> **Alta Sink** is a common decorative object.
 
 A simple compact sink often found in kitchens, restrooms and bathrooms.  
 Made put of titanium, it sits firmly on the wall.
@@ -28,8 +28,8 @@ Made put of titanium, it sits firmly on the wall.
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/bidet/icon.png" alt="Alta Bidet icon" loading="lazy" height=16px width="auto" /> [Alta Bidet](https://ceterai.github.io/MyEnternia/Wiki/AltaBidet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" height=16px width="auto" /> [Alta Marine Display](https://ceterai.github.io/MyEnternia/Wiki/AltaMarineDisplay)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/bidet/icon.png" alt="Alta Bidet icon" loading="lazy" height="16px" width="auto" /> [Alta Bidet](https://ceterai.github.io/MyEnternia/Wiki/AltaBidet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" height="16px" width="auto" /> [Alta Marine Display](https://ceterai.github.io/MyEnternia/Wiki/AltaMarineDisplay)
 
 ## Technical Information
 

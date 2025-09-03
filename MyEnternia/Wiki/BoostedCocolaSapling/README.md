@@ -1,6 +1,6 @@
 # Boosted Cocola Sapling ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/boosted/icon.png" alt="Boosted Cocola Sapling ★★ icon" loading="lazy" height=16px width="auto" /> **Boosted Cocola Sapling ★★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/boosted/icon.png" alt="Boosted Cocola Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> **Boosted Cocola Sapling ★★** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening. Requires to be at least 50% in a liquid.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/pod/icon.png" alt="Cocola Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Cocola Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CocolaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/pod/icon.png" alt="Cocola Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Cocola Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CocolaEcoPod)
 
 ## Technical Information
 

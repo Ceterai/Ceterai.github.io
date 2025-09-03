@@ -1,6 +1,6 @@
 # Estria's Bow
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/love/cupidsbowicon.png" alt="Estria's Bow icon" loading="lazy" height=16px width="auto" /> **Estria's Bow** is a rare two-handed bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/love/cupidsbowicon.png" alt="Estria's Bow icon" loading="lazy" height="16px" width="auto" /> **Estria's Bow** is a rare two-handed bow.
 
 Arrows loosed from this bow provoke unbridled passion.
 

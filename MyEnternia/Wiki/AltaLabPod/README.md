@@ -1,6 +1,6 @@
 # Alta Lab Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height=16px width="auto" /> **Alta Lab Pod** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Pod** is a rare storage unit.
 
 A protected bionid pod with isolated airtight space that can be used for storage.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.
@@ -29,7 +29,7 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arco/pod/icon.png" alt="Enviro Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Enviro Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnviroPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arco/pod/icon.png" alt="Enviro Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Enviro Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnviroPod)
 
 ## Technical Information
 

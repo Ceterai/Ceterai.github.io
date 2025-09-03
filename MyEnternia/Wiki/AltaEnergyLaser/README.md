@@ -1,6 +1,6 @@
 # Alta Energy Laser
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/energy_drill/icon.png" alt="Alta Energy Laser icon" loading="lazy" height=16px width="auto" /> **Alta Energy Laser** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/energy_drill/icon.png" alt="Alta Energy Laser icon" loading="lazy" height="16px" width="auto" /> **Alta Energy Laser** is a legendary two-handed tool.
 
 A disposable mining tool that drills with a focused microwave beam.
 

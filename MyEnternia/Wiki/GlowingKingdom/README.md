@@ -1,9 +1,9 @@
 # Glowing Kingdom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height=16px width="auto" /> **Glowing Kingdom** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height="16px" width="auto" /> **Glowing Kingdom** is an uncommon codex entry.
 
 A storybook about the bright-colored patches of [warped forests](https://ceterai.github.io/MyEnternia/Wiki/warpedforests). A more technical translation from alkey would be "Bioluminescent Capital".  
-The book refers to warped plants filled with [yonnur](https://ceterai.github.io/MyEnternia/Wiki/yonnur) - a bioluminescent liquid that comes in different colors and can be found in special bulbs in things like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/light/icon.png" alt="Warped Light icon" loading="lazy" height=16px width="auto" /> [warped lights](https://ceterai.github.io/MyEnternia/Wiki/WarpedLight).
+The book refers to warped plants filled with [yonnur](https://ceterai.github.io/MyEnternia/Wiki/yonnur) - a bioluminescent liquid that comes in different colors and can be found in special bulbs in things like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/light/icon.png" alt="Warped Light icon" loading="lazy" height="16px" width="auto" /> [warped lights](https://ceterai.github.io/MyEnternia/Wiki/WarpedLight).
 
 ## Ingame
 
@@ -21,18 +21,18 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height=16px width="auto" /> [Glowing Kingdom](https://ceterai.github.io/MyEnternia/Wiki/GlowingKingdom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height="16px" width="auto" /> [Glowing Kingdom](https://ceterai.github.io/MyEnternia/Wiki/GlowingKingdom)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" height=16px width="auto" /> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height=16px width="auto" /> [Glowing Kingdom](https://ceterai.github.io/MyEnternia/Wiki/GlowingKingdom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" height="16px" width="auto" /> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height="16px" width="auto" /> [Glowing Kingdom](https://ceterai.github.io/MyEnternia/Wiki/GlowingKingdom)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
 
 Can be bought from merchants:
 
@@ -40,7 +40,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height=16px width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
 
 ## Technical Information
 

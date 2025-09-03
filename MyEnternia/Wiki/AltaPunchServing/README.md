@@ -1,6 +1,6 @@
 # Alta Punch Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height=16px width="auto" /> **Alta Punch Serving** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Punch Serving** is a rare decorative object.
 
 A simple serving of an alta punch. Can be picked up right away to take a closer look.
 

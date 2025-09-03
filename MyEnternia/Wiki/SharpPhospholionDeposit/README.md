@@ -1,6 +1,6 @@
 # Sharp Phospholion Deposit
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit3/icon.png" alt="Sharp Phospholion Deposit icon" loading="lazy" height=16px width="auto" /> **Sharp Phospholion Deposit** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit3/icon.png" alt="Sharp Phospholion Deposit icon" loading="lazy" height="16px" width="auto" /> **Sharp Phospholion Deposit** is a common decorative object.
 
 This moonrock formation is full of some metal shards.
 

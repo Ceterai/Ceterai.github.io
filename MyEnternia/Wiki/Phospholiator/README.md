@@ -1,10 +1,10 @@
 # Phospholiator
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png" alt="Phospholiator icon" loading="lazy" height=16px width="auto" /> **Phospholiator** is a rare two-handed fiery grenade launcher.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png" alt="Phospholiator icon" loading="lazy" height="16px" width="auto" /> **Phospholiator** is a rare two-handed fiery grenade launcher.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" height=16px width="auto" /> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) cannon that forms small radioactive projectiles that deal severe [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage upon contact.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" height="16px" width="auto" /> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) cannon that forms small radioactive projectiles that deal severe [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage upon contact.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator_2.png" alt="Phosic Cannon ★ icon" loading="lazy" height=16px width="auto" /> [Phosic Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/PhosicCannon) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator_2.png" alt="Phosic Cannon ★ icon" loading="lazy" height="16px" width="auto" /> [Phosic Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/PhosicCannon) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -16,7 +16,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height=12px width=18px /> [Mining Chest](https://starbounder.org/Mining_Chest)
+- <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height="12px" width="18px" /> [Mining Chest](https://starbounder.org/Mining_Chest)
 
 Can be bought from merchants:
 
@@ -26,8 +26,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height=16px width="auto" /> [Phospholion Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/PhospholionLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Phospholion Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/PhospholionLootCrate)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Alta Sprinkler
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/basic/icon.png" alt="Alta Sprinkler icon" loading="lazy" height=16px width="auto" /> **Alta Sprinkler** is a common wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/basic/icon.png" alt="Alta Sprinkler icon" loading="lazy" height="16px" width="auto" /> **Alta Sprinkler** is a common wiring component.
 
 An automated soil watering solution.  
 Requires alta robotics AI to function in an autonomous way.
@@ -24,22 +24,22 @@ Requires alta robotics AI to function in an autonomous way.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" height=16px width="auto" /> [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" height="16px" width="auto" /> [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/eco/icon.png" alt="Alta Eco Pod icon" loading="lazy" height=16px width="auto" /> [Alta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height=16px width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/eco/icon.png" alt="Alta Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
 
 ## Technical Information
 

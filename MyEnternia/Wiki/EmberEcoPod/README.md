@@ -1,6 +1,6 @@
 # Ember Eco Pod ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> **Ember Eco Pod ★★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> **Ember Eco Pod ★★★** is a legendary plantable item.
 
 Contains a modified coral sprout, as well as all things necessary for it to grow. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height=16px width="auto" /> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height="16px" width="auto" /> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Virmix Dessert ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Virmix Dessert ★ icon" loading="lazy" height=16px width="auto" /> **Virmix Dessert ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Virmix Dessert ★ icon" loading="lazy" height="16px" width="auto" /> **Virmix Dessert ★** is an uncommon dish.
 
 An indescribable taste mix in a very special desert. This is not a regular ice cream anymore!  
 Often described as a general icy dessert, it is sometimes served in different alta cafes and restaurants, thanks to its versatile flavor mix.
@@ -14,18 +14,18 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 24
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `thorns`- Duration: 75, 
 
-- Effect: `maxhealthboost20`- Duration: 75
+- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (20%)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 75
 
 ## Crafting
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height=16px width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height="16px" width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
 
 ## Sources
 

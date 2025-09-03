@@ -1,6 +1,6 @@
 # Warped Sample
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/warped/icon.png" alt="Warped Sample icon" loading="lazy" height=16px width="auto" /> **Warped Sample** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/warped/icon.png" alt="Warped Sample icon" loading="lazy" height="16px" width="auto" /> **Warped Sample** is a rare decorative object.
 
 A perfect sample of [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) growth, preserved on a small titanium pedestal.
 

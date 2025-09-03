@@ -1,6 +1,6 @@
 # Alta Juicer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/juicer/icon.png" alt="Alta Juicer icon" loading="lazy" height=16px width="auto" /> **Alta Juicer** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/juicer/icon.png" alt="Alta Juicer icon" loading="lazy" height="16px" width="auto" /> **Alta Juicer** is an uncommon crafting station.
 
 A piece of alta kitchen technology for making freshes, juices, and other raw squeezes.  
 A bit bulky in size, it was made to be like this to make sure any fruits and other ingredients fit in.
@@ -24,8 +24,8 @@ A bit bulky in size, it was made to be like this to make sure any fruits and oth
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/saturator/icon.png" alt="Alta Saturator icon" loading="lazy" height=16px width="auto" /> [Alta Saturator](https://ceterai.github.io/MyEnternia/Wiki/AltaSaturator)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" height=16px width="auto" /> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/saturator/icon.png" alt="Alta Saturator icon" loading="lazy" height="16px" width="auto" /> [Alta Saturator](https://ceterai.github.io/MyEnternia/Wiki/AltaSaturator)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" height="16px" width="auto" /> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
 
 ## Technical Information
 

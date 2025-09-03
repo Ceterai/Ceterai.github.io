@@ -1,10 +1,10 @@
 # Enhanced Flashlight ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon_upg.png" alt="Enhanced Flashlight ★ icon" loading="lazy" height=16px width="auto" /> **Enhanced Flashlight ★** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon_upg.png" alt="Enhanced Flashlight ★ icon" loading="lazy" height="16px" width="auto" /> **Enhanced Flashlight ★** is a legendary tool.
 
 A handy flashlight!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon.png" alt="Alta Flashlight icon" loading="lazy" height=16px width="auto" /> [Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/AltaFlashlight).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon.png" alt="Alta Flashlight icon" loading="lazy" height="16px" width="auto" /> [Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/AltaFlashlight).
 
 ## Technical Information
 

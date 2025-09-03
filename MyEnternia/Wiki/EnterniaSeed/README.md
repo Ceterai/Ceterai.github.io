@@ -1,6 +1,6 @@
 # Enternia Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height=16px width="auto" /> **Enternia Seed** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height="16px" width="auto" /> **Enternia Seed** is a legendary plantable item.
 
 A dangerous ionized plant that seems to produce something.
 
@@ -18,27 +18,27 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height=16px width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height=16px width="auto" /> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height="16px" width="auto" /> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height=16px width="auto" /> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" height=16px width="auto" /> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height="16px" width="auto" /> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" height="16px" width="auto" /> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
 
 ## Sources
 
 Can be harvested from:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height=16px width="auto" /> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height=16px width="auto" /> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height="16px" width="auto" /> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height="16px" width="auto" /> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Staris Sword ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_staris_sword.png" alt="Staris Sword ★ icon" loading="lazy" height=16px width="auto" /> **Staris Sword ★** is a legendary one-handed shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_staris_sword.png" alt="Staris Sword ★ icon" loading="lazy" height="16px" width="auto" /> **Staris Sword ★** is a legendary one-handed shortsword.
 
 **WIP**. Some say there's nothing more pure than stardust itself... But this tool comes close.  
 Since it's made almost entirely out of stardust, it needs to be used with care to avoid unstable states and environments.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

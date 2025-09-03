@@ -1,6 +1,6 @@
 # Alta Logic - Delay
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/delay.png:default.1" alt="Alta Logic - Delay icon" loading="lazy" height=16px width="auto" /> **Alta Logic - Delay** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/delay.png:default.1" alt="Alta Logic - Delay icon" loading="lazy" height="16px" width="auto" /> **Alta Logic - Delay** is an uncommon wiring component.
 
 A circuit that relays signals after a set delay. Default is 0.5s, sets through `delay`.
 

@@ -1,6 +1,6 @@
 # Photon Drill
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/photon_drill/icon.png" alt="Photon Drill icon" loading="lazy" height=16px width="auto" /> **Photon Drill** is an essential two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/photon_drill/icon.png" alt="Photon Drill icon" loading="lazy" height="16px" width="auto" /> **Photon Drill** is an essential two-handed tool.
 
 A disposable mining tool that drills with a focused microwave beam.
 

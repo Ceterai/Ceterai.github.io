@@ -1,6 +1,6 @@
 # Mixed Tsay Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/mixed/icon.png" alt="Mixed Tsay Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Mixed Tsay Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/mixed/icon.png" alt="Mixed Tsay Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Mixed Tsay Sapling ★** is an uncommon plantable item.
 
 This gil sapling was genetically modified to produce a new fruit.
 
@@ -23,11 +23,11 @@ This gil sapling was genetically modified to produce a new fruit.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/eco/icon.png" alt="Eco Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/eco/icon.png" alt="Eco Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTsaySapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
 
 ## Technical Information
 

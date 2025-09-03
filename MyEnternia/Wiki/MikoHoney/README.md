@@ -1,6 +1,6 @@
 # Miko Honey
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Miko Honey icon" loading="lazy" height=16px width="auto" /> **Miko Honey** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Miko Honey icon" loading="lazy" height="16px" width="auto" /> **Miko Honey** is an uncommon dish.
 
 An incredibly sweet honey made from a [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) extract. It's bright pink and it was made with love! Too bad you don't know any recipes that use it...  
 This herb-based honey can sweeten-up any dish, even if not intended, so be careful.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height=16px width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/jam/icon.png" alt="Alta Jam Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Jam Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaJamServing)
 
 ## Technical Information
 

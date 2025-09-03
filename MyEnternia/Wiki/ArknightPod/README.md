@@ -1,6 +1,6 @@
 # Arknight Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arknight/pod/icon.png" alt="Arknight Pod ★ icon" loading="lazy" height=16px width="auto" /> **Arknight Pod ★** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arknight/pod/icon.png" alt="Arknight Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Arknight Pod ★** is a rare storage unit.
 
 An alta pod with arknight markings and coloration.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.

@@ -1,6 +1,6 @@
 # Eco Blossom Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height=16px width="auto" /> **Eco Blossom Sapling** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> **Eco Blossom Sapling** is a rare plantable item.
 
 This silk fibre sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,16 +14,16 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height=16px width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height=16px width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height=16px width="auto" /> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
 
 ## Technical Information
 

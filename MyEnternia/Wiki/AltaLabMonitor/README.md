@@ -1,6 +1,6 @@
 # Alta Lab Monitor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Monitor icon" loading="lazy" height=16px width="auto" /> **Alta Lab Monitor** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Monitor icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Monitor** is an uncommon decorative object.
 
 A simple compact monitor made out of [titanium](https://ceterai.github.io/MyEnternia/Wiki/Tags/Titanium) and [ayakut](https://ceterai.github.io/MyEnternia/Wiki/ayakut).  
 These are usually connected directly to a network of alta lab servers and alta lab datablocks, and not to a computer, where a laptop would be used.

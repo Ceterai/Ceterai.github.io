@@ -1,8 +1,8 @@
 # Force Shielder
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_force_shielder.png" alt="Force Shielder icon" loading="lazy" height=16px width="auto" /> **Force Shielder** is an uncommon shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_force_shielder.png" alt="Force Shielder icon" loading="lazy" height="16px" width="auto" /> **Force Shielder** is an uncommon shield.
 
-Creates a single-use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" height=16px width="auto" /> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) around you for 30s with the power of 60 points + 0.5% of your energy.  
+Creates a single-use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" height="16px" width="auto" /> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) around you for 30s with the power of 60 points + 0.5% of your energy.  
 While relatively brief, it gives a significant level of protection for what it's worth.
 
 ## Ingame
@@ -15,17 +15,17 @@ Species descriptions:
 
 - Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_force_shield.png" alt="Force Shield icon" loading="lazy" height=16px width="auto" /> [Force Shield](https://ceterai.github.io/MyEnternia/Wiki/ForceShield)- Duration: 30
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_force_shield.png" alt="Force Shield icon" loading="lazy" height="16px" width="auto" /> [Force Shield](https://ceterai.github.io/MyEnternia/Wiki/ForceShield)- Duration: 30
 
 ## Crafting
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height=16px width="auto" /> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png" alt="Protohelmet icon" loading="lazy" height=16px width="auto" /> [Protohelmet](https://ceterai.github.io/MyEnternia/Wiki/Protohelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height=16px width="auto" /> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height=16px width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" height=16px width="auto" /> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" height="16px" width="auto" /> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png" alt="Protohelmet icon" loading="lazy" height="16px" width="auto" /> [Protohelmet](https://ceterai.github.io/MyEnternia/Wiki/Protohelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height="16px" width="auto" /> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" height="16px" width="auto" /> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" height="16px" width="auto" /> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
 
 ## Sources
 

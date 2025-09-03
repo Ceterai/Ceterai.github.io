@@ -1,6 +1,6 @@
 # Alta Dessert Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height=16px width="auto" /> **Alta Dessert Serving** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Dessert Serving** is an uncommon decorative object.
 
 A simple serving of an alta dessert. Can be picked up right away to take a closer look.
 

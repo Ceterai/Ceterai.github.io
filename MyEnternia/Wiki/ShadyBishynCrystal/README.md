@@ -1,6 +1,6 @@
 # Shady Bishyn Crystal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal4/icon.png" alt="Shady Bishyn Crystal icon" loading="lazy" height=16px width="auto" /> **Shady Bishyn Crystal** is an uncommon poisonous breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal4/icon.png" alt="Shady Bishyn Crystal icon" loading="lazy" height="16px" width="auto" /> **Shady Bishyn Crystal** is an uncommon poisonous breakable object.
 
 A crystal deposit. Seems a bit shady. Looks much bigger compared to other [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) deposits.  
 It takes quite some time for a bishyn crystal to grow to its regular size margins, so deposits like these can somewhat be considered ancient, or at least very-very old.
@@ -30,11 +30,11 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height=16px width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" height="16px" width="auto" /> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
 
 ## Technical Information
 

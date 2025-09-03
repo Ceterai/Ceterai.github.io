@@ -1,6 +1,6 @@
 # Hevika Turret
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" height=16px width="auto" /> **Hevika Turret** is a rare electric wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" height="16px" width="auto" /> **Hevika Turret** is a rare electric wiring component.
 
 An automated security turret powered by hevika crystals.
 
@@ -30,13 +30,13 @@ This object **doesn't drop itself** when broken.
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_hevika_turret_gun.png" alt="Hevika Turret Gun ★ icon" loading="lazy" height=16px width="auto" /> [Hevika Turret Gun ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurretGun)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_hevika_turret_gun.png" alt="Hevika Turret Gun ★ icon" loading="lazy" height="16px" width="auto" /> [Hevika Turret Gun ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurretGun)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height=16px width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
 Can be bought from merchants:
 
@@ -45,7 +45,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height=16px width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
 
 ## Technical Information
 

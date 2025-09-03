@@ -1,6 +1,6 @@
 # EDS Proto Helmet ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/proto_helmet/icon.png" alt="EDS Proto Helmet ★ icon" loading="lazy" height=16px width="auto" /> **EDS Proto Helmet ★** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/proto_helmet/icon.png" alt="EDS Proto Helmet ★ icon" loading="lazy" height="16px" width="auto" /> **EDS Proto Helmet ★** is a rare head item.
 
 A heavy [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) headwear with enhanced power, protection and breath protection in exchange for energy.
 
@@ -13,7 +13,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height=16px width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height="16px" width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer), 
 
 - Stat: `breathProtection`- Amount: 1.0
 

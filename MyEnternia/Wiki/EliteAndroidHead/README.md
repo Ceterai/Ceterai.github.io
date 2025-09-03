@@ -1,6 +1,6 @@
 # Elite Android Head ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/android_head/icon.png" alt="Elite Android Head ★ icon" loading="lazy" height=16px width="auto" /> **Elite Android Head ★** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/android_head/icon.png" alt="Elite Android Head ★ icon" loading="lazy" height="16px" width="auto" /> **Elite Android Head ★** is a legendary head item.
 
 A head of a heavy android prototype for the [Elite Android Set](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroidSet) series.
 
@@ -12,7 +12,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" height=16px width="auto" /> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" height="16px" width="auto" /> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer), 
 
 - Stat: `breathProtection`- Amount: 1.0
 
@@ -25,10 +25,10 @@ Can be bought from merchants:
 
 Drops from defeated creatures:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png" alt="Elite Droid icon" loading="lazy" height=16px width="auto" /> [Elite Droid](https://ceterai.github.io/MyEnternia/Wiki/EliteDroid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/elite.png" alt="Elite Drone icon" loading="lazy" height=16px width="auto" /> [Elite Drone](https://ceterai.github.io/MyEnternia/Wiki/EliteDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png" alt="Lava Drone ★★ icon" loading="lazy" height=16px width="auto" /> [Lava Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/LavaDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" height=16px width="auto" /> [Stalker Droid ★](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png" alt="Elite Droid icon" loading="lazy" height="16px" width="auto" /> [Elite Droid](https://ceterai.github.io/MyEnternia/Wiki/EliteDroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/elite.png" alt="Elite Drone icon" loading="lazy" height="16px" width="auto" /> [Elite Drone](https://ceterai.github.io/MyEnternia/Wiki/EliteDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png" alt="Lava Drone ★★ icon" loading="lazy" height="16px" width="auto" /> [Lava Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/LavaDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" height="16px" width="auto" /> [Stalker Droid ★](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid)
 
 ## Technical Information
 

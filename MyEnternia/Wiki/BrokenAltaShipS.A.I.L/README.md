@@ -1,6 +1,6 @@
 # Broken Alta Ship S.A.I.L
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Broken Alta Ship S.A.I.L icon" loading="lazy" height=16px width="auto" /> **Broken Alta Ship S.A.I.L** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Broken Alta Ship S.A.I.L icon" loading="lazy" height="16px" width="auto" /> **Broken Alta Ship S.A.I.L** is a rare decorative object.
 
 Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.
 

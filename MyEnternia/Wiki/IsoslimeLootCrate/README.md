@@ -1,8 +1,8 @@
 # Isoslime Loot Crate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height=16px width="auto" /> **Isoslime Loot Crate** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height="16px" width="auto" /> **Isoslime Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height=16px width="auto" /> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) biome chests.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height="16px" width="auto" /> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) biome chests.  
 It's mostly slime. Slime furniture, slime condiments, slime blasters... Maybe some [izon](https://ceterai.github.io/MyEnternia/Wiki/izon), or other cryogens, like a [cryonic extract](https://ceterai.github.io/MyEnternia/Wiki/cryonicextract).
 
 ## Ingame
@@ -19,11 +19,11 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height="9px" width="12px" /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
 
 ## Technical Information
 

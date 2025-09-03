@@ -1,6 +1,6 @@
 # Viona Drone ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Viona Drone ★★ icon" loading="lazy" height=16px width="auto" /> **Viona Drone ★★** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Viona Drone ★★ icon" loading="lazy" height="16px" width="auto" /> **Viona Drone ★★** is a rare throwable item.
 
 An advanced armored drone filled with enternia energy. Has ranged attacks and spreads ionized clouds.  
 This model is a direct upgrade to a once commonplace alta battle drone.

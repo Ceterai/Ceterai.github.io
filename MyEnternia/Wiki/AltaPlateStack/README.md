@@ -1,8 +1,8 @@
 # Alta Plate Stack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate_stack/icon.png" alt="Alta Plate Stack icon" loading="lazy" height=16px width="auto" /> **Alta Plate Stack** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate_stack/icon.png" alt="Alta Plate Stack icon" loading="lazy" height="16px" width="auto" /> **Alta Plate Stack** is a common decorative object.
 
-A tidy stack of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate/icon.png" alt="Alta Plate icon" loading="lazy" height=16px width="auto" /> [alta plates](https://ceterai.github.io/MyEnternia/Wiki/AltaPlate). If you want, you can stack more on top. Or put something on it.  
+A tidy stack of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate/icon.png" alt="Alta Plate icon" loading="lazy" height="16px" width="auto" /> [alta plates](https://ceterai.github.io/MyEnternia/Wiki/AltaPlate). If you want, you can stack more on top. Or put something on it.  
 An ergonomic way to stack this kind of plates. Very useful if you have a lot of them and don't know where to put them.
 
 ## Ingame
@@ -24,7 +24,7 @@ An ergonomic way to stack this kind of plates. Very useful if you have a lot of 
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height=16px width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height="16px" width="auto" /> [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks)
 
 ## Technical Information
 

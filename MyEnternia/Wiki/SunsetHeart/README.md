@@ -1,6 +1,6 @@
 # Sunset Heart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Sunset Heart icon" loading="lazy" height=16px width="auto" /> **Sunset Heart** is an uncommon head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Sunset Heart icon" loading="lazy" height="16px" width="auto" /> **Sunset Heart** is an uncommon head item.
 
 Some fashionable altas like to wear this stylish safety helmet when riding scouting and traveling hoverbikes, and so can you!  
 Designed by... Wait, what? This helment wasn't designed by Perizhad. Wow. Well, thanks to "Viona's Surprize Shop" for such a find!
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height=16px width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height="16px" width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), 
 
 - Stat: `breathProtection`- Amount: 1.0
 

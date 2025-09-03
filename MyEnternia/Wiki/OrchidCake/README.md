@@ -1,6 +1,6 @@
 # Orchid Cake
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" height=16px width="auto" /> **Orchid Cake** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" height="16px" width="auto" /> **Orchid Cake** is a legendary dish.
 
 This cake smells like orchids! Did you add something to it? A secret ingredient perhaps?  
 The "secret", contrary to popular belief - are not actual orchids, since they aren't very coomon on alterash planet. Here, a big role is played by ayaka sap-based topping, as well as miko koywa extract.
@@ -14,12 +14,12 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 100
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 - Effects: 
 
 - Effect: `runboostfood`- Duration: 500, 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height=16px width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)- Duration: 500
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height="16px" width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)- Duration: 500
 
 ## Sources
 
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height=16px width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
 
 ## Technical Information
 

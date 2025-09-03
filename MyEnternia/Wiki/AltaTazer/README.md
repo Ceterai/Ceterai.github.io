@@ -1,6 +1,6 @@
 # Alta Tazer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/tazer/body.png" alt="Alta Tazer icon" loading="lazy" height=16px width="auto" /> **Alta Tazer** is a common one-handed electric unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/tazer/body.png" alt="Alta Tazer icon" loading="lazy" height="16px" width="auto" /> **Alta Tazer** is a common one-handed electric unique weapon.
 
 An emergency tool used for self defence. LMB stuns enemies in front of you.
 

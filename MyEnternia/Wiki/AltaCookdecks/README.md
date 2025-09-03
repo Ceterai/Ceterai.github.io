@@ -1,6 +1,6 @@
 # Alta Cookdecks
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height=16px width="auto" /> **Alta Cookdecks** is a rare crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height="16px" width="auto" /> **Alta Cookdecks** is a rare crafting station.
 
 A station for cooking different meals, full of various cooking appliances.  
 The technology is quite complicated, and isn't very common among altas. However - still a must-have in a professional kitchen.

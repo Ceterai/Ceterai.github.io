@@ -1,6 +1,6 @@
 # Elite Generator ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" height=16px width="auto" /> **Elite Generator ★** is a legendary epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" height="16px" width="auto" /> **Elite Generator ★** is a legendary epp item.
 
 Generates [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) Imperial Aura, providing the wearer with its benefits. Provides a life support system. Has an augment slot.  
 To provide enough energy to power the entire range with its aura, the generator uses multiple energy cores in its blueprint.
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" height=16px width="auto" /> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height=16px width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" height="16px" width="auto" /> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height="16px" width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Sources
 

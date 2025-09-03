@@ -1,6 +1,6 @@
 # Boosted Dreamer Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/boosted/icon.png" alt="Boosted Dreamer Sapling icon" loading="lazy" height=16px width="auto" /> **Boosted Dreamer Sapling** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/boosted/icon.png" alt="Boosted Dreamer Sapling icon" loading="lazy" height="16px" width="auto" /> **Boosted Dreamer Sapling** is a legendary plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening. Requires to be at least 50% in a liquid.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
 
 ## Technical Information
 

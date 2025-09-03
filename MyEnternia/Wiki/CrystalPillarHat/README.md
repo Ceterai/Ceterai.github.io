@@ -1,6 +1,6 @@
 # Crystal Pillar Hat
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_crystal_pillar_hat/icon.png" alt="Crystal Pillar Hat icon" loading="lazy" height=16px width="auto" /> **Crystal Pillar Hat** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_crystal_pillar_hat/icon.png" alt="Crystal Pillar Hat icon" loading="lazy" height="16px" width="auto" /> **Crystal Pillar Hat** is a rare head item.
 
 A bright blue crystal that you can put on your head.
 

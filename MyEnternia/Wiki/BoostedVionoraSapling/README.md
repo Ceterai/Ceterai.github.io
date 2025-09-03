@@ -1,6 +1,6 @@
 # Boosted Vionora Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" height=16px width="auto" /> **Boosted Vionora Sapling** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" height="16px" width="auto" /> **Boosted Vionora Sapling** is a legendary plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening. Requires to be at least 50% in a liquid.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/pod/icon.png" alt="Vionora Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Vionora Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VionoraEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/pod/icon.png" alt="Vionora Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Vionora Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VionoraEcoPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Sonava Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/sapling/icon.png" alt="Sonava Sapling icon" loading="lazy" height=16px width="auto" /> **Sonava Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/sapling/icon.png" alt="Sonava Sapling icon" loading="lazy" height="16px" width="auto" /> **Sonava Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" height=16px width="auto" /> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" height="16px" width="auto" /> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" height=16px width="auto" /> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/boosted/icon.png" alt="Boosted Sonava Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Sonava Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedSonavaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/boosted/icon.png" alt="Boosted Sonava Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Sonava Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedSonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
 
 ## Technical Information
 

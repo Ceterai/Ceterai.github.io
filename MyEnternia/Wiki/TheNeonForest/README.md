@@ -1,6 +1,6 @@
 # The Neon Forest
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Neon Forest icon" loading="lazy" height=16px width="auto" /> **The Neon Forest** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Neon Forest icon" loading="lazy" height="16px" width="auto" /> **The Neon Forest** is a rare codex entry.
 
 A small storybook depicting a glowing forest in the middle of coldness and darkness.  
 Its storyline is purely descriptive, talking about tonnas and tonnova-related events, like sprouting and spiraling, trying to explain them in a playful manner.
@@ -19,23 +19,23 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Neon Forest icon" loading="lazy" height=16px width="auto" /> [The Neon Forest](https://ceterai.github.io/MyEnternia/Wiki/TheNeonForest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Neon Forest icon" loading="lazy" height="16px" width="auto" /> [The Neon Forest](https://ceterai.github.io/MyEnternia/Wiki/TheNeonForest)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Neon Forest icon" loading="lazy" height=16px width="auto" /> [The Neon Forest](https://ceterai.github.io/MyEnternia/Wiki/TheNeonForest)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" height=16px width="auto" /> [Tonnova Tree](https://ceterai.github.io/MyEnternia/Wiki/TonnovaTree)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Neon Forest icon" loading="lazy" height="16px" width="auto" /> [The Neon Forest](https://ceterai.github.io/MyEnternia/Wiki/TheNeonForest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" height="16px" width="auto" /> [Tonnova Tree](https://ceterai.github.io/MyEnternia/Wiki/TonnovaTree)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
-- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
 
 ## Technical Information
 

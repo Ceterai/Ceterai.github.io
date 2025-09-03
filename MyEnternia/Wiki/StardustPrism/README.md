@@ -1,8 +1,8 @@
 # Stardust Prism
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_prism/icon.png" alt="Stardust Prism icon" loading="lazy" height=16px width="auto" /> **Stardust Prism** is a legendary breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_prism/icon.png" alt="Stardust Prism icon" loading="lazy" height="16px" width="auto" /> **Stardust Prism** is a legendary breakable object.
 
-This prism is packed with uncrystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Can be destroyed to extract it.
+This prism is packed with uncrystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Can be destroyed to extract it.
 
 ## Ingame
 

@@ -1,6 +1,6 @@
 # Astera Augment
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_astera_augment.png" alt="Astera Augment icon" loading="lazy" height=16px width="auto" /> **Astera Augment** is a legendary epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_astera_augment.png" alt="Astera Augment icon" loading="lazy" height="16px" width="auto" /> **Astera Augment** is a legendary epp augment.
 
 An [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera) EPP module that gives you additional protection.
 

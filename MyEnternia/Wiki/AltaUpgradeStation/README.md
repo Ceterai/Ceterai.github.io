@@ -1,6 +1,6 @@
 # Alta Upgrade Station
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png" alt="Alta Upgrade Station icon" loading="lazy" height=16px width="auto" /> **Alta Upgrade Station** is a rare crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png" alt="Alta Upgrade Station icon" loading="lazy" height="16px" width="auto" /> **Alta Upgrade Station** is a rare crafting station.
 
 Used for upgrading technology and resources.
 

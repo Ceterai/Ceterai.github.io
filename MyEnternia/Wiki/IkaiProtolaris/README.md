@@ -1,6 +1,6 @@
 # Ikai Protolaris ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_protolaris.png" alt="Ikai Protolaris ★ icon" loading="lazy" height=16px width="auto" /> **Ikai Protolaris ★** is a legendary electric shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_protolaris.png" alt="Ikai Protolaris ★ icon" loading="lazy" height="16px" width="auto" /> **Ikai Protolaris ★** is a legendary electric shield.
 
 Some shields are at their core all sacred tools to fathom energy and space, and some are tools of pure protection. This one is both.  
 It runs on the power of rare crystals that can only usually be found floating through space among stardust, and that contain a lot of concentrated ceternia-void energy.
@@ -31,7 +31,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

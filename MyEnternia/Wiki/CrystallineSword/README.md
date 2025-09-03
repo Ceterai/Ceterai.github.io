@@ -1,11 +1,11 @@
 # Crystalline Sword
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" height=16px width="auto" /> **Crystalline Sword** is a rare two-handed broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" height="16px" width="auto" /> **Crystalline Sword** is a rare two-handed broadsword.
 
 The blade of this sword is made out of crystalline cave crystals. A bit rough around the edges, but still quite powerful.  
 With no alta markings on it's [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) handle, its electro-crystallic conduction capabilities are very much Io-like.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" height=16px width="auto" /> [Crystal Razor ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalRazor) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" height="16px" width="auto" /> [Crystal Razor ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalRazor) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height=10.5px width=12px /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
+- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Chest icon" loading="lazy" height="10.5px" width="12px" /> [Crystal Chest](https://starbounder.org/Crystal_Chest)
 
 Can be bought from merchants:
 
@@ -31,8 +31,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

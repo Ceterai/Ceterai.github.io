@@ -1,6 +1,6 @@
 # CEN Referencing Guide
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height=16px width="auto" /> **CEN Referencing Guide** is a common codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height="16px" width="auto" /> **CEN Referencing Guide** is a common codex entry.
 
 An old document with lots of complicated words.  
 This document serves as a guide for the classification and use of CEN documents. It outlines the different categories of CEN documents, including instructions, protocols, blueprints, and documentation. It also provides guidelines for the use of these documents in various contexts.
@@ -15,24 +15,24 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height=16px width="auto" /> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height="16px" width="auto" /> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height=16px width="auto" /> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height="16px" width="auto" /> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
 
 <details markdown="1"><summary>Used to craft: (Expand 10 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height=16px width="auto" /> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height=16px width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bionid.png" alt="Bionid Extraction Note icon" loading="lazy" height=16px width="auto" /> [Bionid Extraction Note](https://ceterai.github.io/MyEnternia/Wiki/BionidExtractionNote)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" height=16px width="auto" /> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/sona.png" alt="Sona Soldier's Notes icon" loading="lazy" height=16px width="auto" /> [Sona Soldier's Notes](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier'sNotes)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Data & Datamasses icon" loading="lazy" height=16px width="auto" /> [Tech Docs: Data & Datamasses](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Data&Datamasses)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Drones & Droids icon" loading="lazy" height=16px width="auto" /> [Tech Docs: Drones & Droids](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Drones&Droids)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Energy icon" loading="lazy" height=16px width="auto" /> [Tech Docs: Energy](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Energy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Scout Set icon" loading="lazy" height=16px width="auto" /> [Tech Docs: Scout Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-ScoutSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Security Set icon" loading="lazy" height=16px width="auto" /> [Tech Docs: Security Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-SecuritySet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height="16px" width="auto" /> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height="16px" width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bionid.png" alt="Bionid Extraction Note icon" loading="lazy" height="16px" width="auto" /> [Bionid Extraction Note](https://ceterai.github.io/MyEnternia/Wiki/BionidExtractionNote)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" height="16px" width="auto" /> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/sona.png" alt="Sona Soldier's Notes icon" loading="lazy" height="16px" width="auto" /> [Sona Soldier's Notes](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier'sNotes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Data & Datamasses icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Data & Datamasses](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Data&Datamasses)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Drones & Droids icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Drones & Droids](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Drones&Droids)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Energy icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Energy](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Energy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Scout Set icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Scout Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-ScoutSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Security Set icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Security Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-SecuritySet)
 
 </details>
 
@@ -40,12 +40,12 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Found naturally in containers: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height=16px width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height=16px width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" height=16px width="auto" /> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" height=16px width="auto" /> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height=16px width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
-- `outpostshippingcontainer`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" height="12px" width="30px" /> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 </details>
 
@@ -94,12 +94,12 @@ Can be bought from merchants:
 
 <details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height=16px width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
 
 </details>
 

@@ -1,6 +1,6 @@
 # A.R.C.O. Researcher Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="A.R.C.O. Researcher Skirt icon" loading="lazy" height=16px width="auto" /> **A.R.C.O. Researcher Skirt** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="A.R.C.O. Researcher Skirt icon" loading="lazy" height="16px" width="auto" /> **A.R.C.O. Researcher Skirt** is a rare leg item.
 
 An official A.R.C.O. researcher's legwear. Practical and well thought-out.
 

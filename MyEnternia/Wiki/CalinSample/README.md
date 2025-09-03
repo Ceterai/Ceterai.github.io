@@ -1,6 +1,6 @@
 # Calin Sample
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/sample/icon.png" alt="Calin Sample icon" loading="lazy" height=16px width="auto" /> **Calin Sample** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/sample/icon.png" alt="Calin Sample icon" loading="lazy" height="16px" width="auto" /> **Calin Sample** is a rare decorative object.
 
 A crystal sample. The stand is powered by the crystal itself. An exhibit of entertainment.
 
@@ -23,13 +23,13 @@ A crystal sample. The stand is powered by the crystal itself. An exhibit of ente
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/planet/alterash/icon.png" alt="Alterash Terraformer icon" loading="lazy" height=16px width="auto" /> [Alterash Terraformer](https://ceterai.github.io/MyEnternia/Wiki/AlterashTerraformer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/planet/alterash/icon.png" alt="Alterash Terraformer icon" loading="lazy" height="16px" width="auto" /> [Alterash Terraformer](https://ceterai.github.io/MyEnternia/Wiki/AlterashTerraformer)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height=16px width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" height="16px" width="auto" /> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
 
 Can be bought from merchants:
 
@@ -38,7 +38,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height=16px width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
 
 ## Technical Information
 

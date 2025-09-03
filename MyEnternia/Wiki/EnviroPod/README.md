@@ -1,6 +1,6 @@
 # Enviro Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arco/pod/icon.png" alt="Enviro Pod ★★ icon" loading="lazy" height=16px width="auto" /> **Enviro Pod ★★** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arco/pod/icon.png" alt="Enviro Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Enviro Pod ★★** is a rare storage unit.
 
 A high-tech protected pod with additional environmental resistance.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.

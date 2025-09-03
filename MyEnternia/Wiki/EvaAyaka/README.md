@@ -1,11 +1,11 @@
 # Eva Ayaka
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" height=16px width="auto" /> **Eva Ayaka** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" height="16px" width="auto" /> **Eva Ayaka** is an uncommon tree sapling.
 
-A regular _ayaka tree_, as you will find it in most alterash gardens and forests. It's stem cosists of soft yet very useful <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height=16px width="auto" /> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood).  
+A regular _ayaka tree_, as you will find it in most alterash gardens and forests. It's stem cosists of soft yet very useful <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood).  
 In general, ayaka is a family of growth, commonly found in form of [trees](https://ceterai.github.io/MyEnternia/Wiki/trees).
 
-More information on ayakas, their nature and how they're maintained, can be found here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height=16px width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
+More information on ayakas, their nature and how they're maintained, can be found here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height="16px" width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
 
 ## Ingame
 
@@ -32,8 +32,8 @@ More information on ayakas, their nature and how they're maintained, can be foun
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height=16px width="auto" /> [Crystal Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height=16px width="auto" /> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height="16px" width="auto" /> [Crystal Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height="16px" width="auto" /> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
 
 ## Technical Information
 

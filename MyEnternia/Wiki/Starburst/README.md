@@ -1,6 +1,6 @@
 # Starburst ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_starburst.png" alt="Starburst ★★ icon" loading="lazy" height=16px width="auto" /> **Starburst ★★** is a legendary one-handed electric shotgun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_starburst.png" alt="Starburst ★★ icon" loading="lazy" height="16px" width="auto" /> **Starburst ★★** is a legendary one-handed electric shotgun.
 
 Previously owned by a legendary [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight), this powerful wrist blaster seemingly just fell one day from sky. Legend says it can create tiny Stardust Bursts with its core.
 
@@ -19,7 +19,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

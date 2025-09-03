@@ -1,6 +1,6 @@
 # Alta Botanics Vendor ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> **Alta Botanics Vendor ★★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> **Alta Botanics Vendor ★★** is a rare decorative object.
 
 A vending machine in altan casing. Instead of buttons it uses a touchscreen for better navigation.  
 These can often be found in specialized stores and complexes.
@@ -30,7 +30,7 @@ This object **doesn't drop itself** when broken.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height=16px width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # EDS Duty Beret
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png" alt="EDS Duty Beret icon" loading="lazy" height=16px width="auto" /> **EDS Duty Beret** is an uncommon head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png" alt="EDS Duty Beret icon" loading="lazy" height="16px" width="auto" /> **EDS Duty Beret** is an uncommon head item.
 
 Decorative on-duty [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) headwear.
 
@@ -15,11 +15,11 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height=16px width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height=16px width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 ## Technical Information
 

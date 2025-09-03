@@ -1,6 +1,6 @@
 # Alta Ship Terminal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" height=16px width="auto" /> **Alta Ship Terminal** is a legendary wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Terminal** is a legendary wiring component.
 
 A reinforced terminal. Seems like it'll keep working under any conditions.
 

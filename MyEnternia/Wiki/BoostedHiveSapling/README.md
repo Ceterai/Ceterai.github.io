@@ -1,6 +1,6 @@
 # Boosted Hive Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/boosted/icon.png" alt="Boosted Hive Sapling icon" loading="lazy" height=16px width="auto" /> **Boosted Hive Sapling** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/boosted/icon.png" alt="Boosted Hive Sapling icon" loading="lazy" height="16px" width="auto" /> **Boosted Hive Sapling** is a legendary plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening. Requires to be at least 50% in a liquid.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/eco/icon.png" alt="Eco Hive Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/eco/icon.png" alt="Eco Hive Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHiveSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/pod/icon.png" alt="Hive Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Hive Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/HiveEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/pod/icon.png" alt="Hive Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Hive Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/HiveEcoPod)
 
 ## Technical Information
 

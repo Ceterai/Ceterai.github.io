@@ -1,6 +1,6 @@
 # Alta Cleaner
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/cleaner/icon.png" alt="Alta Cleaner icon" loading="lazy" height=16px width="auto" /> **Alta Cleaner** is an uncommon tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/cleaner/icon.png" alt="Alta Cleaner icon" loading="lazy" height="16px" width="auto" /> **Alta Cleaner** is an uncommon tool.
 
 A compact alta vacuum cleaner. Can be used once to excavate a fossil, with limited success.
 

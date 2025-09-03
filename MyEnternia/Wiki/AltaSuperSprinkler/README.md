@@ -1,6 +1,6 @@
 # Alta Super Sprinkler
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/super/icon.png" alt="Alta Super Sprinkler icon" loading="lazy" height=16px width="auto" /> **Alta Super Sprinkler** is a legendary wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/super/icon.png" alt="Alta Super Sprinkler icon" loading="lazy" height="16px" width="auto" /> **Alta Super Sprinkler** is a legendary wiring component.
 
 An automated soil watering solution.  
 Requires alta robotics AI to function in an autonomous way.
@@ -24,12 +24,12 @@ Requires alta robotics AI to function in an autonomous way.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height=16px width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height=16px width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height=16px width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 ## Technical Information
 

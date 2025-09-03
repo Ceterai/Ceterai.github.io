@@ -1,6 +1,6 @@
 # Wild Hive Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Wild Hive Seed icon" loading="lazy" height=16px width="auto" /> **Wild Hive Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Wild Hive Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Hive Seed** is a common plantable item.
 
 A small growing hive full of fresh edible bugs.
 

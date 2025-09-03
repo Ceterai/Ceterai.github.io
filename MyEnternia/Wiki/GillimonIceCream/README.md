@@ -1,6 +1,6 @@
 # Gillimon Ice Cream ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Gillimon Ice Cream ★ icon" loading="lazy" height=16px width="auto" /> **Gillimon Ice Cream ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Gillimon Ice Cream ★ icon" loading="lazy" height="16px" width="auto" /> **Gillimon Ice Cream ★** is an uncommon dish.
 
 An ice cream flavor made from a distinct gil-poi mix called _gillimon_. The nia candy sticks in it are a nice addition.  
 The flavor could be described as a barely-sour milk chocolate, with more milk than chocolate.

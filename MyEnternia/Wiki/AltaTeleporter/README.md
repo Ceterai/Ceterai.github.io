@@ -1,6 +1,6 @@
 # Alta Teleporter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/teleporter/icon.png" alt="Alta Teleporter icon" loading="lazy" height=16px width="auto" /> **Alta Teleporter** is an uncommon teleport marker.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/teleporter/icon.png" alt="Alta Teleporter icon" loading="lazy" height="16px" width="auto" /> **Alta Teleporter** is an uncommon teleport marker.
 
 A one-way titanium teleporter. Oddly enough, this doesn't feel like [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) technology.
 

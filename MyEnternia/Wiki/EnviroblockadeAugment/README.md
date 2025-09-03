@@ -1,6 +1,6 @@
 # Enviroblockade Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_arco_blockade_augment.png" alt="Enviroblockade Augment ★★ icon" loading="lazy" height=16px width="auto" /> **Enviroblockade Augment ★★** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_arco_blockade_augment.png" alt="Enviroblockade Augment ★★ icon" loading="lazy" height="16px" width="auto" /> **Enviroblockade Augment ★★** is a rare epp augment.
 
 An EPP module that boosts your [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) by 15% and gives [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).
 

@@ -1,6 +1,6 @@
 # Wild Haven Sprout
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Wild Haven Sprout icon" loading="lazy" height=16px width="auto" /> **Wild Haven Sprout** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Wild Haven Sprout icon" loading="lazy" height="16px" width="auto" /> **Wild Haven Sprout** is a common plantable item.
 
 A vibrant multiflower that snives with different colors.
 

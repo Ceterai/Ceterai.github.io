@@ -1,10 +1,10 @@
 # Astan Dew ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" height=16px width="auto" /> **Astan Dew ★** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" height="16px" width="auto" /> **Astan Dew ★** is a legendary tool.
 
 Water your crops with this fashionable watering can.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon.png" alt="Altan Watercan icon" loading="lazy" height=16px width="auto" /> [Altan Watercan](https://ceterai.github.io/MyEnternia/Wiki/AltanWatercan).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon.png" alt="Altan Watercan icon" loading="lazy" height="16px" width="auto" /> [Altan Watercan](https://ceterai.github.io/MyEnternia/Wiki/AltanWatercan).
 
 ## Parameters
 
@@ -14,7 +14,7 @@ An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon.png" alt="Alta Tiller icon" loading="lazy" height=16px width="auto" /> [Alta Tiller](https://ceterai.github.io/MyEnternia/Wiki/AltaTiller)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon.png" alt="Alta Tiller icon" loading="lazy" height="16px" width="auto" /> [Alta Tiller](https://ceterai.github.io/MyEnternia/Wiki/AltaTiller)
 
 ## Sources
 

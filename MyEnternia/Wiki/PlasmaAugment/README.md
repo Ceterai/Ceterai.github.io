@@ -1,6 +1,6 @@
 # Plasma Augment ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_plasma_augment.png" alt="Plasma Augment ★ icon" loading="lazy" height=16px width="auto" /> **Plasma Augment ★** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_plasma_augment.png" alt="Plasma Augment ★ icon" loading="lazy" height="16px" width="auto" /> **Plasma Augment ★** is a rare epp augment.
 
 An EPP module that makes you periodically burst with plasma.
 

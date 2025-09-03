@@ -1,6 +1,6 @@
 # Ceter-EPP
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" height=16px width="auto" /> **Ceter-EPP** is a legendary epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" height="16px" width="auto" /> **Ceter-EPP** is a legendary epp item.
 
 An EPP with an augment slot. Adds 25% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity).
 
@@ -12,7 +12,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_impulse_block.png" alt="Pulsoblockade icon" loading="lazy" height=16px width="auto" /> [Pulsoblockade](https://ceterai.github.io/MyEnternia/Wiki/Pulsoblockade)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_impulse_block.png" alt="Pulsoblockade icon" loading="lazy" height="16px" width="auto" /> [Pulsoblockade](https://ceterai.github.io/MyEnternia/Wiki/Pulsoblockade)
 
 ## Sources
 

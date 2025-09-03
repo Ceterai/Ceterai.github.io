@@ -1,8 +1,8 @@
 # Isoblob
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_blob/icon.png" alt="Isoblob icon" loading="lazy" height=16px width="auto" /> **Isoblob** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_blob/icon.png" alt="Isoblob icon" loading="lazy" height="16px" width="auto" /> **Isoblob** is a common breakable object.
 
-A vile bubble of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height=16px width="auto" /> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime). There's something stuck inside.
+A vile bubble of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height="16px" width="auto" /> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime). There's something stuck inside.
 
 ## Ingame
 
@@ -29,11 +29,11 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height="9px" width="12px" /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
 
 ## Technical Information
 

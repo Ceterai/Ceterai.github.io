@@ -1,6 +1,6 @@
 # Official Jacket
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_jacket/icon.png" alt="Official Jacket icon" loading="lazy" height=16px width="auto" /> **Official Jacket** is a common chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_jacket/icon.png" alt="Official Jacket icon" loading="lazy" height="16px" width="auto" /> **Official Jacket** is a common chest item.
 
 A top often used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) representatives and officials. A choice of taking responsibility.
 

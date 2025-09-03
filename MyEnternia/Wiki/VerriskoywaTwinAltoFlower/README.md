@@ -1,6 +1,6 @@
 # Verriskoywa Twin Alto Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto_twin/icon.png" alt="Verriskoywa Twin Alto Flower icon" loading="lazy" height=16px width="auto" /> **Verriskoywa Twin Alto Flower** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto_twin/icon.png" alt="Verriskoywa Twin Alto Flower icon" loading="lazy" height="16px" width="auto" /> **Verriskoywa Twin Alto Flower** is a common breakable object.
 
 Tall, blue reed flowers.
 
@@ -27,13 +27,13 @@ This object **doesn't drop itself** when broken.
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height=9.75px width=12px /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 
@@ -41,11 +41,11 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" height=16px width="auto" /> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto_twin/icon.png" alt="Verriskoywa Twin Alto Flower icon" loading="lazy" height=16px width="auto" /> [Verriskoywa Twin Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinAltoFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto_twin/icon.png" alt="Verriskoywa Twin Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Twin Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinAltoFlower)
 
 ## Technical Information
 

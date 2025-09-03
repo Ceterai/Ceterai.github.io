@@ -1,6 +1,6 @@
 # Energy Rod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/energy_rod/icon.png" alt="Energy Rod icon" loading="lazy" height=16px width="auto" /> **Energy Rod** is a legendary two-handed fishing rod.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/energy_rod/icon.png" alt="Energy Rod icon" loading="lazy" height="16px" width="auto" /> **Energy Rod** is a legendary two-handed fishing rod.
 
 The rod line is protected with a layer of an energy field protecting it, fit for extreme environments.
 

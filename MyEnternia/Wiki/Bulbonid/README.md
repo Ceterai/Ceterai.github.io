@@ -1,8 +1,8 @@
 # Bulbonid
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" height=16px width="auto" /> **Bulbonid** is a common light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" height="16px" width="auto" /> **Bulbonid** is a common light source.
 
-A tall biocrystallic growth with brightly-lit <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height=16px width="auto" /> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) bulbs on top.
+A tall biocrystallic growth with brightly-lit <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height="16px" width="auto" /> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) bulbs on top.
 
 ## Ingame
 
@@ -29,12 +29,12 @@ This object **doesn't drop itself** when broken.
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
-- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height=9px width=12px /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
+- <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
+- <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" height="9px" width="12px" /> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height=16px width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
 
 ## Technical Information
 

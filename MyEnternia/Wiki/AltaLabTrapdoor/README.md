@@ -1,6 +1,6 @@
 # Alta Lab Trapdoor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/trapdoor/icon.png" alt="Alta Lab Trapdoor icon" loading="lazy" height=16px width="auto" /> **Alta Lab Trapdoor** is an uncommon door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/trapdoor/icon.png" alt="Alta Lab Trapdoor icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Trapdoor** is an uncommon door.
 
 A small 1x2 bionid hatch.
 

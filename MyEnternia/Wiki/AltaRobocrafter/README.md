@@ -1,6 +1,6 @@
 # Alta Robocrafter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/robocrafter/icon.png" alt="Alta Robocrafter icon" loading="lazy" height=16px width="auto" /> **Alta Robocrafter** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/robocrafter/icon.png" alt="Alta Robocrafter icon" loading="lazy" height="16px" width="auto" /> **Alta Robocrafter** is a legendary crafting station.
 
 An alta sewing machine with additional functionality.  
 Can create folded seams and protects the operator from the needle.

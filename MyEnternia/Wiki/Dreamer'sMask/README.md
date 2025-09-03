@@ -1,6 +1,6 @@
 # Dreamer's Mask
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Dreamer's Mask icon" loading="lazy" height=16px width="auto" /> **Dreamer's Mask** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Dreamer's Mask icon" loading="lazy" height="16px" width="auto" /> **Dreamer's Mask** is a legendary head item.
 
 Mask worn by the one who's able to withstand the consuming power of enternia. Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
 While it covers the head only partially, there are aerodynamic flexible membranes prtecting the rest of it and providing extra mobility.
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height=16px width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), 
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height="16px" width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision), 
 
 - Stat: `breathProtection`- Amount: 1.0
 
@@ -30,7 +30,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" height=16px width="auto" /> [Dreamer Set](https://ceterai.github.io/MyEnternia/Wiki/DreamerSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" height="16px" width="auto" /> [Dreamer Set](https://ceterai.github.io/MyEnternia/Wiki/DreamerSet)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Alta Preserver
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/preserver/icon.png" alt="Alta Preserver icon" loading="lazy" height=16px width="auto" /> **Alta Preserver** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/preserver/icon.png" alt="Alta Preserver icon" loading="lazy" height="16px" width="auto" /> **Alta Preserver** is a legendary two-handed tool.
 
 Holds up to 6 friendly creatures in stasis in order to safely relocate them.
 

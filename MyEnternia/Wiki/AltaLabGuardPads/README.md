@@ -1,6 +1,6 @@
 # Alta Lab Guard Pads
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Alta Lab Guard Pads icon" loading="lazy" height=16px width="auto" /> **Alta Lab Guard Pads** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Alta Lab Guard Pads icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Guard Pads** is a rare leg item.
 
 A piece of equipment worn by [alta lab guards](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard) in most [alta laboratories](https://ceterai.github.io/MyEnternia/Wiki/altalaboratories).  
 Mostly consisting of [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) and suspending materials, it provides a decent amount of protection for a guard.
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" height=16px width="auto" /> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" height="16px" width="auto" /> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
 
 ## Sources
 

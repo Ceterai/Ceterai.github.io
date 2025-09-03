@@ -1,6 +1,6 @@
 # Vodakoywa Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/sapling/icon.png" alt="Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> **Vodakoywa Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/sapling/icon.png" alt="Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> **Vodakoywa Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Vodakoywa Seed icon" loading="lazy" height=16px width="auto" /> [Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Vodakoywa Seed icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSeed)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" height=16px width="auto" /> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVodakoywaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVodakoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
 
 ## Sources
 

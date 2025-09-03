@@ -1,6 +1,6 @@
 # Tsay Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/sapling/icon.png" alt="Tsay Sapling icon" loading="lazy" height=16px width="auto" /> **Tsay Sapling** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/sapling/icon.png" alt="Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> **Tsay Sapling** is a common plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -23,17 +23,17 @@ A proper sapling that takes less space and has increased and more consistent spe
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" height=16px width="auto" /> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height=16px width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" height="16px" width="auto" /> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height="16px" width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/cultivated/icon.png" alt="Cultivated Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedTsaySapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_ionic_fertilizer.png" alt="Ionic Fertilizer icon" loading="lazy" height=16px width="auto" /> [Ionic Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/IonicFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/cultivated/icon.png" alt="Cultivated Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_ionic_fertilizer.png" alt="Ionic Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Ionic Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/IonicFertilizer)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/cultivated/icon.png" alt="Cultivated Tsay Sapling icon" loading="lazy" height=16px width="auto" /> [Cultivated Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/cultivated/icon.png" alt="Cultivated Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedTsaySapling)
 
 ## Sources
 

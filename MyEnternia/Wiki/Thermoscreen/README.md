@@ -1,6 +1,6 @@
 # Thermoscreen ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Thermoscreen ★ icon" loading="lazy" height=16px width="auto" /> **Thermoscreen ★** is an uncommon head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Thermoscreen ★ icon" loading="lazy" height="16px" width="auto" /> **Thermoscreen ★** is an uncommon head item.
 
 An advanced armored mask with a thermoscanner. What does it do? Nobody knows.  
 These masks are often worn by riverside scouts and are used to detect any small fire spreads in sight.
@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height=16px width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height="16px" width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Master Farming Pack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height=16px width="auto" /> **Master Farming Pack** is a legendary loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> **Master Farming Pack** is a legendary loot item.
 
 Contains several excellent farming tools and equipment.  
 Compact item packs are useful when you want to reduce the space they are taking up otherwise.
@@ -19,17 +19,17 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height=16px width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height=16px width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height=16px width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height=16px width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
 
 ## Sources
 

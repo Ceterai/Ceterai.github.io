@@ -1,6 +1,6 @@
 # Baked Aya
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height=16px width="auto" /> **Baked Aya** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height="16px" width="auto" /> **Baked Aya** is a common dish.
 
 Crispy on the outside, filled with hot sweet, slightly sour jam. A rare recipe where the same ingredient is used both as dough and as filling.  
 Due to relative easiness of preparation, this aya-dough bakery can be often found in local alta bakeries, and often with different filling options.
@@ -14,30 +14,30 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height=16px width=16px /> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Aya Mash icon" loading="lazy" height=16px width="auto" /> [Aya Mash](https://ceterai.github.io/MyEnternia/Wiki/AyaMash)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Aya Mash icon" loading="lazy" height="16px" width="auto" /> [Aya Mash](https://ceterai.github.io/MyEnternia/Wiki/AyaMash)
 
 ## Crafting
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height=16px width="auto" /> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height="16px" width="auto" /> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height=16px width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height="16px" width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 
 <details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height=16px width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" height="16px" width="auto" /> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
 - `ct_food_mimic`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" height=16px width="auto" /> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" height=16px width="auto" /> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" height=16px width="auto" /> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Cocktail icon" loading="lazy" height=16px width="auto" /> [Yuri Cocktail](https://ceterai.github.io/MyEnternia/Wiki/YuriCocktail)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" height="16px" width="auto" /> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" height="16px" width="auto" /> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" height="16px" width="auto" /> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Cocktail icon" loading="lazy" height="16px" width="auto" /> [Yuri Cocktail](https://ceterai.github.io/MyEnternia/Wiki/YuriCocktail)
 
 </details>
 
@@ -45,7 +45,7 @@ Unlocks blueprints for:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height=9.75px width=12px /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
 
 Can be bought from merchants:
 
@@ -53,7 +53,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height=16px width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 
 ## Technical Information
 

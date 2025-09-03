@@ -1,6 +1,6 @@
 # A Friendly Glow
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" height=16px width="auto" /> **A Friendly Glow** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" height="16px" width="auto" /> **A Friendly Glow** is an uncommon decorative object.
 
 A drawing of a bionid pteropod in a dark cave, lighting up the path.
 

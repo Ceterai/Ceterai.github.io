@@ -1,6 +1,6 @@
 # Omni Mical Seeds ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_mical_grass_seeds.png" alt="Omni Mical Seeds ★★★ icon" loading="lazy" height=16px width="auto" /> **Omni Mical Seeds ★★★** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_mical_grass_seeds.png" alt="Omni Mical Seeds ★★★ icon" loading="lazy" height="16px" width="auto" /> **Omni Mical Seeds ★★★** is a legendary throwable item.
 
 Toss these on on any ground to grow tiny mical crystals!
 

@@ -1,6 +1,6 @@
 # Bion Flower Pot
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/bion/icon.png" alt="Bion Flower Pot icon" loading="lazy" height=16px width="auto" /> **Bion Flower Pot** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/bion/icon.png" alt="Bion Flower Pot icon" loading="lazy" height="16px" width="auto" /> **Bion Flower Pot** is a rare storage unit.
 
 Heat-preserving pot perfect for sensitive flowers.  
 Can be used for capturing plant critters for collection and to have them as pets.
@@ -28,7 +28,7 @@ Can be used for capturing plant critters for collection and to have them as pets
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/composite/icon.png" alt="Composite Flower Pot icon" loading="lazy" height=16px width="auto" /> [Composite Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CompositeFlowerPot)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/composite/icon.png" alt="Composite Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Composite Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CompositeFlowerPot)
 
 Unlocks blueprints for:
 
@@ -39,17 +39,17 @@ Unlocks blueprints for:
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height=16px width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" height=16px width="auto" /> [Potted Calocol Tulip](https://ceterai.github.io/MyEnternia/Wiki/PottedCalocolTulip)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/ezmeralda/icon.png" alt="Potted Ezmeralda icon" loading="lazy" height=16px width="auto" /> [Potted Ezmeralda](https://ceterai.github.io/MyEnternia/Wiki/PottedEzmeralda)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" height=16px width="auto" /> [Potted Poppy Prime](https://ceterai.github.io/MyEnternia/Wiki/PottedPoppyPrime)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" height=16px width="auto" /> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" height="16px" width="auto" /> [Potted Calocol Tulip](https://ceterai.github.io/MyEnternia/Wiki/PottedCalocolTulip)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/ezmeralda/icon.png" alt="Potted Ezmeralda icon" loading="lazy" height="16px" width="auto" /> [Potted Ezmeralda](https://ceterai.github.io/MyEnternia/Wiki/PottedEzmeralda)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" height="16px" width="auto" /> [Potted Poppy Prime](https://ceterai.github.io/MyEnternia/Wiki/PottedPoppyPrime)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" height="16px" width="auto" /> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
 
 ## Sources
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height=16px width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # EDS Halterfence
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_fence/icon.png" alt="EDS Halterfence icon" loading="lazy" height=16px width="auto" /> **EDS Halterfence** is an uncommon electric trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_fence/icon.png" alt="EDS Halterfence icon" loading="lazy" height="16px" width="auto" /> **EDS Halterfence** is an uncommon electric trap.
 
 A defensive [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. Works as a fence. [Electrified](https://ceterai.github.io/MyEnternia/Wiki/Electrified).  
 These were created to trap small creatures in place, as well as rogue or hostile machinery.

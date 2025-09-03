@@ -1,6 +1,6 @@
 # Boosted Calin Sapling ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" height=16px width="auto" /> **Boosted Calin Sapling ★★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> **Boosted Calin Sapling ★★** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/eco/icon.png" alt="Eco Calin Sapling ★ icon" loading="lazy" height=16px width="auto" /> [Eco Calin Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCalinSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/eco/icon.png" alt="Eco Calin Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Calin Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCalinSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Calin Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CalinEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Calin Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CalinEcoPod)
 
 ## Technical Information
 

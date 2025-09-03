@@ -1,6 +1,6 @@
 # Hive Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/pod/icon.png" alt="Hive Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **Hive Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/pod/icon.png" alt="Hive Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Hive Eco Pod ★** is a legendary plantable item.
 
 Contains a modified hive sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/boosted/icon.png" alt="Boosted Hive Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/boosted/icon.png" alt="Boosted Hive Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedHiveSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" height=16px width="auto" /> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" height="16px" width="auto" /> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
 
 ## Technical Information
 

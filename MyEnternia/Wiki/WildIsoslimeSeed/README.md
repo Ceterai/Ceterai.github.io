@@ -1,6 +1,6 @@
 # Wild Isoslime Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" height=16px width="auto" /> **Wild Isoslime Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Isoslime Seed** is a common plantable item.
 
 A plant covered in slime. It's a bit cold to the touch.
 

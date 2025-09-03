@@ -1,6 +1,6 @@
 # Cagorta Statue
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/maximus/cagorta/icon.png" alt="Cagorta Statue icon" loading="lazy" height=16px width="auto" /> **Cagorta Statue** is an essential decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/maximus/cagorta/icon.png" alt="Cagorta Statue icon" loading="lazy" height="16px" width="auto" /> **Cagorta Statue** is an essential decorative object.
 
 A large model of Cagorta - a planet that has always seen success in attracting tourists.Many creatures that got to visit it note its peaceful forests. Three satellites are following this planet, dancing in a circle around it, taking turns, one after another.  
 The miniature was made using polymeric materials of unknown origin. The surface temperature of the model varies slightly, decreasing with distance from the equator:

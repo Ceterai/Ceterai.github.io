@@ -1,6 +1,6 @@
 # Eco Calin Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/eco/icon.png" alt="Eco Calin Sapling ★ icon" loading="lazy" height=16px width="auto" /> **Eco Calin Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/eco/icon.png" alt="Eco Calin Sapling ★ icon" loading="lazy" height="16px" width="auto" /> **Eco Calin Sapling ★** is an uncommon plantable item.
 
 This crystal sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -14,16 +14,16 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/sapling/icon.png" alt="Calin Sapling icon" loading="lazy" height=16px width="auto" /> [Calin Sapling](https://ceterai.github.io/MyEnternia/Wiki/CalinSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/sapling/icon.png" alt="Calin Sapling icon" loading="lazy" height="16px" width="auto" /> [Calin Sapling](https://ceterai.github.io/MyEnternia/Wiki/CalinSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Calin Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCalinSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Calin Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCalinSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> [Calin Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CalinEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Calin Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CalinEcoPod)
 
 ## Technical Information
 

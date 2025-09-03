@@ -1,6 +1,6 @@
 # Alta Plant Tray
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height=16px width="auto" /> **Alta Plant Tray** is an uncommon piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height="16px" width="auto" /> **Alta Plant Tray** is an uncommon piece of furniture.
 
 A wide empty altan flower bed made with a simple in-build eco system.
 
@@ -27,19 +27,19 @@ A wide empty altan flower bed made with a simple in-build eco system.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height=16px width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height=16px width="auto" /> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height=16px width="auto" /> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Alta Terraponics ★ icon" loading="lazy" height=16px width="auto" /> [Alta Terraponics ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTerraponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Alta Terraponics ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Terraponics ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTerraponics)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/crystal/icon.png" alt="Alta Crystal Bed icon" loading="lazy" height=16px width="auto" /> [Alta Crystal Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaCrystalBed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/flower/icon.png" alt="Alta Flower Bed icon" loading="lazy" height=16px width="auto" /> [Alta Flower Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerBed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" height=16px width="auto" /> [Alta Stardust Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaStardustBed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/crystal/icon.png" alt="Alta Crystal Bed icon" loading="lazy" height="16px" width="auto" /> [Alta Crystal Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaCrystalBed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/flower/icon.png" alt="Alta Flower Bed icon" loading="lazy" height="16px" width="auto" /> [Alta Flower Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerBed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" height="16px" width="auto" /> [Alta Stardust Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaStardustBed)
 
 ## Technical Information
 

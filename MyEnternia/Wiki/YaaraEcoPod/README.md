@@ -1,6 +1,6 @@
 # Yaara Eco Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/pod/icon.png" alt="Yaara Eco Pod ★ icon" loading="lazy" height=16px width="auto" /> **Yaara Eco Pod ★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/pod/icon.png" alt="Yaara Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> **Yaara Eco Pod ★** is a legendary plantable item.
 
 Contains a modified yaara sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -14,11 +14,11 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" height=16px width="auto" /> [Boosted Yaara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Yaara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaraSapling)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Yaara Seed icon" loading="lazy" height=16px width="auto" /> [Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/YaaraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Yaara Seed icon" loading="lazy" height="16px" width="auto" /> [Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/YaaraSeed)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Wild Azura Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Wild Azura Seed icon" loading="lazy" height=16px width="auto" /> **Wild Azura Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Wild Azura Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Azura Seed** is a common plantable item.
 
 A striped wooden sprout in the process of growing.
 

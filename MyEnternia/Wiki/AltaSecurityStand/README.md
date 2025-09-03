@@ -1,8 +1,8 @@
 # Alta Security Stand
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/stand/icon.png" alt="Alta Security Stand icon" loading="lazy" height=16px width="auto" /> **Alta Security Stand** is a rare breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/stand/icon.png" alt="Alta Security Stand icon" loading="lazy" height="16px" width="auto" /> **Alta Security Stand** is a rare breakable object.
 
-This strange device dispences a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" height=16px width="auto" /> [Security Drone](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone) each 8-16 seconds.
+This strange device dispences a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" height="16px" width="auto" /> [Security Drone](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone) each 8-16 seconds.
 
 ## Ingame
 

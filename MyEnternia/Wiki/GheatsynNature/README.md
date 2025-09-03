@@ -1,6 +1,6 @@
 # Gheatsyn Nature
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height=16px width="auto" /> **Gheatsyn Nature** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height="16px" width="auto" /> **Gheatsyn Nature** is an uncommon codex entry.
 
 This ebook contains a description of crystallic environments full of "liquid crystals".  
 These crystals - gheatsyn - seem to be able to liquefy and crystallize under electric current.
@@ -19,18 +19,18 @@ Radiomessages on pickup:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Nature](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Nature](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Nature](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gheatsyn.png" alt="Gheatsyn Nature icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Nature](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
 
 Can be bought from merchants:
 
@@ -38,7 +38,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height=16px width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
 
 ## Technical Information
 

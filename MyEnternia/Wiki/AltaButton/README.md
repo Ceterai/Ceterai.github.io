@@ -1,6 +1,6 @@
 # Alta Button
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" height=16px width="auto" /> **Alta Button** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" height="16px" width="auto" /> **Alta Button** is an uncommon wiring component.
 
 A compact button that activates for 0.4s when pressed. Very tiny.
 
@@ -29,7 +29,6 @@ Can be bought from merchants:
 Given as rent by tenants:
 
 - [Alta Security Android](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityAndroid)
-- [Combat Android](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
 - [EDS Android](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
 
 ## Technical Information

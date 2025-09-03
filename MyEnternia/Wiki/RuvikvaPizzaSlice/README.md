@@ -1,6 +1,6 @@
 # "Ruvikva" Pizza Slice ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Ruvikva Pizza Slice ★★ icon" loading="lazy" height=16px width="auto" /> **"Ruvikva" Pizza Slice ★★** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Ruvikva Pizza Slice ★★ icon" loading="lazy" height="16px" width="auto" /> **"Ruvikva" Pizza Slice ★★** is a rare dish.
 
 A chunky pizza for big-bite lovers. [Roasted aya](https://ceterai.github.io/MyEnternia/Wiki/Roastedaya) slices can be easily cut through, so sharing is not a problem!  
 The unique coloring of this pizza is achived through the harmonical combination of its topping, slowly melted together during cooking.

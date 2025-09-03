@@ -1,6 +1,6 @@
 # Ember Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height=16px width="auto" /> **Ember Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height="16px" width="auto" /> **Ember Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages. Requires to be at least 50% in a liquid.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height=16px width="auto" /> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height="16px" width="auto" /> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" height=16px width="auto" /> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height=16px width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
 
 ## Sources
 

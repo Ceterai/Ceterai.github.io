@@ -1,11 +1,11 @@
 # Scout's Lightwear
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Scout's Lightwear icon" loading="lazy" height=16px width="auto" /> **Scout's Lightwear** is an uncommon chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Scout's Lightwear icon" loading="lazy" height="16px" width="auto" /> **Scout's Lightwear** is an uncommon chest item.
 
 Regular protective wear of [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scouts on [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets.  
-The wrist mechanisms are meant to be connected to any equiped proto-gear, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height=16px width="auto" /> [protospears](https://ceterai.github.io/MyEnternia/Wiki/Protospear), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" height=16px width="auto" /> [protomasks](https://ceterai.github.io/MyEnternia/Wiki/Protomask) or even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" height=16px width="auto" /> [velocity eaters](https://ceterai.github.io/MyEnternia/Wiki/VelocityEaters).
+The wrist mechanisms are meant to be connected to any equiped proto-gear, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height="16px" width="auto" /> [protospears](https://ceterai.github.io/MyEnternia/Wiki/Protospear), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" height="16px" width="auto" /> [protomasks](https://ceterai.github.io/MyEnternia/Wiki/Protomask) or even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" height="16px" width="auto" /> [velocity eaters](https://ceterai.github.io/MyEnternia/Wiki/VelocityEaters).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" height=16px width="auto" /> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" height="16px" width="auto" /> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -15,7 +15,7 @@ Species descriptions:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" height=16px width="auto" /> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" height="16px" width="auto" /> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
 
 ## Sources
 
@@ -26,8 +26,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png" alt="Metrocop Set icon" loading="lazy" height=16px width="auto" /> [Metrocop Set](https://ceterai.github.io/MyEnternia/Wiki/MetrocopSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png" alt="Scout Set icon" loading="lazy" height=16px width="auto" /> [Scout Set](https://ceterai.github.io/MyEnternia/Wiki/ScoutSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png" alt="Metrocop Set icon" loading="lazy" height="16px" width="auto" /> [Metrocop Set](https://ceterai.github.io/MyEnternia/Wiki/MetrocopSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png" alt="Scout Set icon" loading="lazy" height="16px" width="auto" /> [Scout Set](https://ceterai.github.io/MyEnternia/Wiki/ScoutSet)
 
 ## Technical Information
 

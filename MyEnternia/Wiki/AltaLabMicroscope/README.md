@@ -1,6 +1,6 @@
 # Alta Lab Microscope
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Microscope icon" loading="lazy" height=16px width="auto" /> **Alta Lab Microscope** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Microscope icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Microscope** is an uncommon decorative object.
 
 This microscope can micro-scope! And with it, so can you!  
 These devices are pretty common in different alta labs, from biolabs, to crystal research labs, to medical centers and alien study complexes.

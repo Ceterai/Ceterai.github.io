@@ -1,6 +1,6 @@
 # Wild Ionic Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Wild Ionic Seed icon" loading="lazy" height=16px width="auto" /> **Wild Ionic Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Wild Ionic Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Ionic Seed** is a common plantable item.
 
 A plant with a big purple fruit at the top.
 

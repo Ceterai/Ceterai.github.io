@@ -1,11 +1,11 @@
 # Pulse Railgun ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png" alt="Pulse Railgun ★ icon" loading="lazy" height=16px width="auto" /> **Pulse Railgun ★** is a legendary two-handed electric assault rifle.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png" alt="Pulse Railgun ★ icon" loading="lazy" height="16px" width="auto" /> **Pulse Railgun ★** is a legendary two-handed electric assault rifle.
 
-An already improved [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) rifle with additional <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height=16px width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) enhancements.  
+An already improved [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) rifle with additional <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) enhancements.  
 Powerful rail technology turns piece of work into a tool of electric destruction.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.png" alt="Impulse Rifle NG4-2 icon" loading="lazy" height=16px width="auto" /> [Impulse Rifle NG4-2](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4-2).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.png" alt="Impulse Rifle NG4-2 icon" loading="lazy" height="16px" width="auto" /> [Impulse Rifle NG4-2](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4-2).
 
 ## Ingame
 

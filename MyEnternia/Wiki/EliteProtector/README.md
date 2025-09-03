@@ -1,6 +1,6 @@
 # Elite Protector
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png" alt="Elite Protector icon" loading="lazy" height=16px width="auto" /> **Elite Protector** is a legendary epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png" alt="Elite Protector icon" loading="lazy" height="16px" width="auto" /> **Elite Protector** is a legendary epp item.
 
 Automatically applies a static shield whenever HP is down to 20%. Provides a life support system. Has an augment slot.
 
@@ -12,13 +12,13 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" height=16px width="auto" /> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height=16px width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" height="16px" width="auto" /> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height="16px" width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Crafting
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" height=16px width="auto" /> [Elite Generator ★](https://ceterai.github.io/MyEnternia/Wiki/EliteGenerator)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" height="16px" width="auto" /> [Elite Generator ★](https://ceterai.github.io/MyEnternia/Wiki/EliteGenerator)
 
 ## Sources
 
@@ -29,7 +29,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" height=16px width="auto" /> [Elite Set](https://ceterai.github.io/MyEnternia/Wiki/EliteSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" height="16px" width="auto" /> [Elite Set](https://ceterai.github.io/MyEnternia/Wiki/EliteSet)
 
 ## Technical Information
 

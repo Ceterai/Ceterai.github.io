@@ -1,6 +1,6 @@
 # Alta Door
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/door/icon.png" alt="Alta Door icon" loading="lazy" height=16px width="auto" /> **Alta Door** is a common door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/door/icon.png" alt="Alta Door icon" loading="lazy" height="16px" width="auto" /> **Alta Door** is a common door.
 
 A simple titanium door with crystals instead of glass.  
 Most basic alta furniture is designed to be simple, lightweight, and, most importantly, easy to clean and disassemble. The goal is to be comfortable and portable at the same time, while also being easy to recycle if needed.

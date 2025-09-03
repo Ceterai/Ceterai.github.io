@@ -1,6 +1,6 @@
 # Alta Pear Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear Tea icon" loading="lazy" height=16px width="auto" /> **Alta Pear Tea** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear Tea icon" loading="lazy" height="16px" width="auto" /> **Alta Pear Tea** is an uncommon dish.
 
 A good old alta pear tea. Not too sweet, not too sour, just about right everywhere. But, using it in cooking will make it similar to carrot juice.  
 The sudden change in taste comes from the meat part of the fruit, making the thickness spread and add more flavor to the mix.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height=16px width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
 
 ## Technical Information
 

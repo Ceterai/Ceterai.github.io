@@ -1,6 +1,6 @@
 # Enchanted Chest
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height=16px width="auto" /> **Enchanted Chest** is a common storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height="16px" width="auto" /> **Enchanted Chest** is a common storage unit.
 
 A spherical natural growth with some space inside.
 
@@ -28,7 +28,7 @@ A spherical natural growth with some space inside.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height=16px width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" height="16px" width="auto" /> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
 Can be bought from merchants:
 
@@ -36,7 +36,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" height=16px width="auto" /> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
 
 ## Technical Information
 

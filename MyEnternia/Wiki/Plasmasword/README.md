@@ -1,15 +1,15 @@
 # Plasmasword ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword.png" alt="Plasmasword ★ icon" loading="lazy" height=16px width="auto" /> **Plasmasword ★** is a rare two-handed electric broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword.png" alt="Plasmasword ★ icon" loading="lazy" height="16px" width="auto" /> **Plasmasword ★** is a rare two-handed electric broadsword.
 
 A combat tool used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) soldiers in melee fights. The energy powering this sword creates a thin [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) cover over its blade.  
-_Alter-NV_ is codename for all alta combat plasmaswords with differences in models, variations and customization. Usually, alta like to personalize their plasmaswords with different blade shapes, modifications and various cosmetics and trinkets. Some even use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" height=16px width="auto" /> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) or [glow fibres](https://ceterai.github.io/MyEnternia/Wiki/glowfibres) to create differently-colored glow.
+_Alter-NV_ is codename for all alta combat plasmaswords with differences in models, variations and customization. Usually, alta like to personalize their plasmaswords with different blade shapes, modifications and various cosmetics and trinkets. Some even use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" height="16px" width="auto" /> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) or [glow fibres](https://ceterai.github.io/MyEnternia/Wiki/glowfibres) to create differently-colored glow.
 
 This **energy tool** is considered a visit card of **alta gladiators**, and is often used by many [Faradea legends](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend).
 
 **Arkanas**, or alta gladiators, are berserk-type combat units, enhanced with a powerful **arkana exoskeleton**, allowing them to move at great speeds and jump much higher that usual, as well as put significatnly more power into each hit of their weapon.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" height=16px width="auto" /> [Alter-Sword ★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sword) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" height="16px" width="auto" /> [Alter-Sword ★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sword) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

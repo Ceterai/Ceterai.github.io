@@ -1,10 +1,10 @@
 # Isoblaster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" height=16px width="auto" /> **Isoblaster** is a rare one-handed pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" height="16px" width="auto" /> **Isoblaster** is a rare one-handed pistol.
 
-A blaster meant to spread <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height=16px width="auto" /> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) everywhere. Holding LMB will charge up an [isoslime ball](https://ceterai.github.io/MyEnternia/Wiki/isoslimeball).
+A blaster meant to spread <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height="16px" width="auto" /> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) everywhere. Holding LMB will charge up an [isoslime ball](https://ceterai.github.io/MyEnternia/Wiki/isoslimeball).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" height=16px width="auto" /> [Isoblaster Prime ★](https://ceterai.github.io/MyEnternia/Wiki/IsoblasterPrime) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" height="16px" width="auto" /> [Isoblaster Prime ★](https://ceterai.github.io/MyEnternia/Wiki/IsoblasterPrime) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -16,7 +16,7 @@ Radiomessages on pickup:
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height=9px width=12px /> [Slime Chest](https://starbounder.org/Slime_Chest)
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height="9px" width="12px" /> [Slime Chest](https://starbounder.org/Slime_Chest)
 
 Can be bought from merchants:
 
@@ -25,8 +25,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height=16px width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
 
 ## Technical Information
 

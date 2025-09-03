@@ -1,6 +1,6 @@
 # Nia Assorti
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Nia Assorti icon" loading="lazy" height=16px width="auto" /> **Nia Assorti** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Nia Assorti icon" loading="lazy" height="16px" width="auto" /> **Nia Assorti** is an uncommon dish.
 
 A finely-cut and arranged assorti of nia fruit slices, alta pear rings and izo-balls, all covered a slight layer of [ion jam](https://ceterai.github.io/MyEnternia/Wiki/ionjam).  
 Every chef has a preference in arranging, as well as favourite cutting granularity, resulting in differing assortis from chef to chef.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/salad/icon.png" alt="Alta Salad Serving icon" loading="lazy" height=16px width="auto" /> [Alta Salad Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaSaladServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/salad/icon.png" alt="Alta Salad Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Salad Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaSaladServing)
 
 ## Technical Information
 

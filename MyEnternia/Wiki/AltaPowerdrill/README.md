@@ -1,10 +1,10 @@
 # Alta Powerdrill
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon.png" alt="Alta Powerdrill icon" loading="lazy" height=16px width="auto" /> **Alta Powerdrill** is a rare two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon.png" alt="Alta Powerdrill icon" loading="lazy" height="16px" width="auto" /> **Alta Powerdrill** is a rare two-handed tool.
 
 Drills fast but breaks quickly. A temporary alternative to the matter manipulator.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" height=16px width="auto" /> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon_upg.png" alt="RN Unanta ★ icon" loading="lazy" height="16px" width="auto" /> [RN "Unanta" ★](https://ceterai.github.io/MyEnternia/Wiki/RNUnanta) at the Weapon Upgrade Anvil.
 
 ## Technical Information
 

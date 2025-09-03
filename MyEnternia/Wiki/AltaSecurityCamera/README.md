@@ -1,9 +1,9 @@
 # Alta Security Camera
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/camera/icon.png" alt="Alta Security Camera icon" loading="lazy" height=16px width="auto" /> **Alta Security Camera** is an uncommon wired device.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/camera/icon.png" alt="Alta Security Camera icon" loading="lazy" height="16px" width="auto" /> **Alta Security Camera** is an uncommon wired device.
 
 A small ceiling wide-angle surveillance security camera that can be turned on or off.  
-Often found at security check points, as well as most general secured places in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" height=16px width="auto" /> [alta cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities).
+Often found at security check points, as well as most general secured places in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" height="16px" width="auto" /> [alta cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities).
 
 ## Ingame
 

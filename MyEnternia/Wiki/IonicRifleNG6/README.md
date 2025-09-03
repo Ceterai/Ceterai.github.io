@@ -1,6 +1,6 @@
 # Ionic Rifle NG6
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_ionic_rifle.png" alt="Ionic Rifle NG6 icon" loading="lazy" height=16px width="auto" /> **Ionic Rifle NG6** is a legendary two-handed electric assault rifle.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_ionic_rifle.png" alt="Ionic Rifle NG6 icon" loading="lazy" height="16px" width="auto" /> **Ionic Rifle NG6** is a legendary two-handed electric assault rifle.
 
 A rifled enternia ion blaster, mostly used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) dreamers and heavy units.  
 It was created as part of a Neiteru-1 project researching enternia and ways to utilize it to create combative power. Although the results were quite effective, this tool is not used by main security and defensive alta forces.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height=16px width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Alta Marine Display
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" height=16px width="auto" /> **Alta Marine Display** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" height="16px" width="auto" /> **Alta Marine Display** is a common decorative object.
 
 An aquarium with enough space for a small squid, or a big jello.  
 Can be used for capturing water critters for collection and to have them as pets.

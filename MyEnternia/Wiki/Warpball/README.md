@@ -1,6 +1,6 @@
 # Warpball
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_warpball.png" alt="Warpball icon" loading="lazy" height=16px width="auto" /> **Warpball** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_warpball.png" alt="Warpball icon" loading="lazy" height="16px" width="auto" /> **Warpball** is an uncommon throwable item.
 
 Sounds like a name of a sports game. A neat pet ball.
 

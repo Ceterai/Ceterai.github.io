@@ -1,6 +1,6 @@
 # Alta Lab Door
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/door/icon.png" alt="Alta Lab Door icon" loading="lazy" height=16px width="auto" /> **Alta Lab Door** is an uncommon door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/door/icon.png" alt="Alta Lab Door icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Door** is an uncommon door.
 
 A simple bion door with crystals instead of glass.
 

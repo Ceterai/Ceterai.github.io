@@ -1,6 +1,6 @@
 # Alta Hatch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/hatch/icon.png" alt="Alta Hatch icon" loading="lazy" height=16px width="auto" /> **Alta Hatch** is a common door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/hatch/icon.png" alt="Alta Hatch icon" loading="lazy" height="16px" width="auto" /> **Alta Hatch** is a common door.
 
 A simple titanium 1x5 hatch. **Can be placed both vertically and horizontally.**
 

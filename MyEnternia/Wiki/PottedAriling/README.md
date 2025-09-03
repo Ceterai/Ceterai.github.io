@@ -1,6 +1,6 @@
 # Potted Ariling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" height=16px width="auto" /> **Potted Ariling** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" height="16px" width="auto" /> **Potted Ariling** is a rare decorative object.
 
 An attached note reads, "It's not as toxic as you'd expect it to be."
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" height=16px width="auto" /> [Ariling Egg](https://ceterai.github.io/MyEnternia/Wiki/ArilingEgg)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" height="16px" width="auto" /> [Ariling Egg](https://ceterai.github.io/MyEnternia/Wiki/ArilingEgg)
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" height=16px width="auto" /> [Ariling Egg](https://ceterai.github.io/MyEnternia/Wiki/ArilingEgg)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" height="16px" width="auto" /> [Ariling Egg](https://ceterai.github.io/MyEnternia/Wiki/ArilingEgg)
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" height=16px width="auto" /> [Ariling Egg](https://ceterai.github.io/MyEnternia/Wiki/ArilingEgg)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" height="16px" width="auto" /> [Ariling Egg](https://ceterai.github.io/MyEnternia/Wiki/ArilingEgg)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Alta Pall
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Pall icon" loading="lazy" height=16px width="auto" /> **Alta Pall** is a common back item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Pall icon" loading="lazy" height="16px" width="auto" /> **Alta Pall** is a common back item.
 
 This simple blank alta wrap-over cape will make you look like a makeshift superhero!  
 Made from silk and eco-friendly compounds, it will serve you well for many years to come.

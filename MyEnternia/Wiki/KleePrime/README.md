@@ -1,6 +1,6 @@
 # Klee Prime
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee_prime/icon.png" alt="Klee Prime icon" loading="lazy" height=16px width="auto" /> **Klee Prime** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee_prime/icon.png" alt="Klee Prime icon" loading="lazy" height="16px" width="auto" /> **Klee Prime** is an uncommon bug.
 
 An attached note reads, "Sometimes prime klees can be found resting on rooftop gardens among all the bushes."
 

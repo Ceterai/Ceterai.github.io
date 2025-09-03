@@ -1,6 +1,6 @@
 # Calin Jam Dumplings
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Calin Jam Dumplings icon" loading="lazy" height=16px width="auto" /> **Calin Jam Dumplings** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Calin Jam Dumplings icon" loading="lazy" height="16px" width="auto" /> **Calin Jam Dumplings** is a legendary dish.
 
 Very tasty [koywa](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa) dumplings with [calin jam](https://ceterai.github.io/MyEnternia/Wiki/calinjam) filling. While sweet, they're also very fulfilling and high on minerals and vitamins.  
 Prepared together with [chinid](https://ceterai.github.io/MyEnternia/Wiki/chinid) leaves and covered in spices, a simple serving of dumplings turns into a delicacy.
@@ -24,7 +24,7 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height=16px width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
 
 ## Technical Information
 

@@ -1,8 +1,8 @@
 # Combat Shielder ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_combat_shielder.png" alt="Combat Shielder ★ icon" loading="lazy" height=16px width="auto" /> **Combat Shielder ★** is a rare shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_combat_shielder.png" alt="Combat Shielder ★ icon" loading="lazy" height="16px" width="auto" /> **Combat Shielder ★** is a rare shield.
 
-Creates a single-use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" height=16px width="auto" /> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) around you for 30s with the power of 60 points + 0.5% of your energy.  
+Creates a single-use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" height="16px" width="auto" /> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) around you for 30s with the power of 60 points + 0.5% of your energy.  
 While relatively brief, it gives a significant level of protection for what it's worth.
 
 ## Ingame
@@ -15,13 +15,13 @@ Species descriptions:
 
 - Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" height=16px width="auto" /> [Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield)- Duration: 60
+- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" height="16px" width="auto" /> [Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield)- Duration: 60
 
 ## Crafting
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Combat Uniform icon" loading="lazy" height=16px width="auto" /> [Combat Uniform](https://ceterai.github.io/MyEnternia/Wiki/CombatUniform)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Combat Uniform icon" loading="lazy" height="16px" width="auto" /> [Combat Uniform](https://ceterai.github.io/MyEnternia/Wiki/CombatUniform)
 
 ## Sources
 

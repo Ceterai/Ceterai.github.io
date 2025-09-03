@@ -1,8 +1,8 @@
 # EDS Scab Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_eds_scab_egg.png" alt="EDS Scab Egg icon" loading="lazy" height=16px width="auto" /> **EDS Scab Egg** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_eds_scab_egg.png" alt="EDS Scab Egg icon" loading="lazy" height="16px" width="auto" /> **EDS Scab Egg** is a rare throwable item.
 
-Can be used to spawn a crab called [EDS scab](https://ceterai.github.io/MyEnternia/Wiki/EDSscab), a scab that hides in an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height=16px width="auto" /> [EDS helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet).  
+Can be used to spawn a crab called [EDS scab](https://ceterai.github.io/MyEnternia/Wiki/EDSscab), a scab that hides in an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height="16px" width="auto" /> [EDS helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame

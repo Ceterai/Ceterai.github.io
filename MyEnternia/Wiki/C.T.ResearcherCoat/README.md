@@ -1,6 +1,6 @@
 # C.T. Researcher Coat
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="C.T. Researcher Coat icon" loading="lazy" height=16px width="auto" /> **C.T. Researcher Coat** is a rare chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="C.T. Researcher Coat icon" loading="lazy" height="16px" width="auto" /> **C.T. Researcher Coat** is a rare chest item.
 
 An official Project Ceterai researcher's coat. Practical and well thought-out.  
 Just like other pieces of alta laboratory attire, this one provides full body coverage with optional gloves to complete the set.

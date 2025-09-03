@@ -1,6 +1,6 @@
 # Combat Power Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png" alt="Combat Power Augment ★★ icon" loading="lazy" height=16px width="auto" /> **Combat Power Augment ★★** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png" alt="Combat Power Augment ★★ icon" loading="lazy" height="16px" width="auto" /> **Combat Power Augment ★★** is a rare epp augment.
 
 An EPP module that slightly boosts your power and overall mobility.
 

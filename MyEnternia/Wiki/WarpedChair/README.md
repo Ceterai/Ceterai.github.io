@@ -1,6 +1,6 @@
 # Warped Chair
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chair/icon.png" alt="Warped Chair icon" loading="lazy" height=16px width="auto" /> **Warped Chair** is a common piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chair/icon.png" alt="Warped Chair icon" loading="lazy" height="16px" width="auto" /> **Warped Chair** is a common piece of furniture.
 
 A chair made from spiked nivera vines with a seat made from purple warped vein matter.
 
@@ -23,13 +23,13 @@ A chair made from spiked nivera vines with a seat made from purple warped vein m
 
 Used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" height=16px width="auto" /> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" height="16px" width="auto" /> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera)
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height=16px width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
 
 Can be bought from merchants:
 
@@ -37,7 +37,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height=16px width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate)
 
 ## Technical Information
 
