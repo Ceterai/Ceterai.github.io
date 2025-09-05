@@ -19,27 +19,31 @@ A proper sapling that takes less space and has increased and more consistent spe
 
 </details>
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" height="16px" width="auto" /> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" height="16px" width="auto" /> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/cultivated/icon.png" alt="Cultivated Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedGilSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_ionic_fertilizer.png" alt="Ionic Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Ionic Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/IonicFertilizer)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/cultivated/icon.png" alt="Cultivated Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedGilSapling)
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" height="16px" width="auto" /> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" height="16px" width="auto" /> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds)
+
 Can be bought from merchants:
 
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

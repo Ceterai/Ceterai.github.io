@@ -23,7 +23,7 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Iced Tsay Dessert ★ icon" loading="lazy" height="16px" width="auto" /> [Iced Tsay Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedTsayDessert)
 
-## Crafting
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 11 items)</summary>
 
@@ -41,8 +41,6 @@ Other variants:
 
 </details>
 
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
@@ -53,6 +51,8 @@ Given as rent by tenants:
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

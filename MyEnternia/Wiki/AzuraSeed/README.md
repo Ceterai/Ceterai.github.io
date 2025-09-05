@@ -14,20 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height="16px" width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/sapling/icon.png" alt="Azura Sapling icon" loading="lazy" height="16px" width="auto" /> [Azura Sapling](https://ceterai.github.io/MyEnternia/Wiki/AzuraSapling)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/sapling/icon.png" alt="Azura Sapling icon" loading="lazy" height="16px" width="auto" /> [Azura Sapling](https://ceterai.github.io/MyEnternia/Wiki/AzuraSapling)
@@ -36,6 +32,12 @@ Used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" height="16px" width="auto" /> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height="16px" width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
 
 Drops from destroyed obstacles:
 
@@ -51,6 +53,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Wild Azura Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Azura Seed](https://ceterai.github.io/MyEnternia/Wiki/WildAzuraSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

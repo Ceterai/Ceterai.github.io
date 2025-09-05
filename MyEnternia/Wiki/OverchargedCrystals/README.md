@@ -1,6 +1,7 @@
 # Overcharged Crystals
 
-Repeatedly damages enemies around you with rapid [Pulsings](https://ceterai.github.io/MyEnternia/Wiki/Pulsings).
+Repeatedly damages enemies around you with rapid [Pulsings](https://ceterai.github.io/MyEnternia/Wiki/Pulsings).  
+Alta: 
 
 <details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
 

@@ -1,6 +1,7 @@
 # Determined
 
-You feel like nothing can stop you.
+You feel like nothing can stop you.  
+Alta: 
 
 Applied by following items:
 

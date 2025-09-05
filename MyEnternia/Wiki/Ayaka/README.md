@@ -28,22 +28,24 @@ More information on ayakas, their nature and how they're maintained, can be foun
 - Stem/Stipe: `ct_ayaka_stem`
 - Foliage/Cap: `ct_ayaka_prime_leaves`
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height="16px" width="auto" /> [Young Ayaka](https://ceterai.github.io/MyEnternia/Wiki/YoungAyaka)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_prime_tree.png" alt="Ayaka Prime icon" loading="lazy" height="16px" width="auto" /> [Ayaka Prime](https://ceterai.github.io/MyEnternia/Wiki/AyakaPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crimson_tree.png" alt="Crimson Ayaka icon" loading="lazy" height="16px" width="auto" /> [Crimson Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrimsonAyaka)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height="16px" width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height="16px" width="auto" /> [Young Ayaka](https://ceterai.github.io/MyEnternia/Wiki/YoungAyaka)
 
 Found naturally in containers:
 
@@ -52,6 +54,8 @@ Found naturally in containers:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

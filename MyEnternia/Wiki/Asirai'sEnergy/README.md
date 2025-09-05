@@ -1,6 +1,7 @@
 # Asirai's Energy
 
-Damages nearby enemies with electricity.
+Damages nearby enemies with electricity.  
+Alta: 
 
 ## Parameters
 

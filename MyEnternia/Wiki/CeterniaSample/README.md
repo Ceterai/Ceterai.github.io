@@ -10,17 +10,17 @@ Species descriptions:
 
 - Alta: Capturing ceternia on a semi-organic piece of matter sounds hard enough, keeping it on there seems impossible... But I guess here it is, proving me wrong. Another tiny secret of this mysterious universe.
 
-## Crafting
+## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/pod/icon.png" alt="Ceternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Ceternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaEcoPod)
 
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

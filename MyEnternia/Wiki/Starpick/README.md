@@ -6,6 +6,10 @@ This tool won't last long, but I'll be able to dig pretty fast with it.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon.png" alt="Alta Pick icon" loading="lazy" height="16px" width="auto" /> [Alta Pick](https://ceterai.github.io/MyEnternia/Wiki/AltaPick).
 
+## Sources
+
+Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).
+
 ## Technical Information
 
 - In-game ID: `ct_alta_pick-upgrade`

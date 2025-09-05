@@ -1,6 +1,7 @@
 # Swim Boosters
 
-Increases mobility when submerged in a liquid.
+Increases mobility when submerged in a liquid.  
+Alta: 
 
 Applied by following items:
 

@@ -6,23 +6,25 @@ An advanced tool to till soil. RMB for more accurate tilling.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon_upg.png" alt="Startiller ★ icon" loading="lazy" height="16px" width="auto" /> [Startiller ★](https://ceterai.github.io/MyEnternia/Wiki/Startiller) at the Weapon Upgrade Anvil.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon.png" alt="Altan Watercan icon" loading="lazy" height="16px" width="auto" /> [Altan Watercan](https://ceterai.github.io/MyEnternia/Wiki/AltanWatercan)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" height="16px" width="auto" /> [Astan Dew ★](https://ceterai.github.io/MyEnternia/Wiki/AstanDew)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon.png" alt="Composite Cutter icon" loading="lazy" height="16px" width="auto" /> [Composite Cutter](https://ceterai.github.io/MyEnternia/Wiki/CompositeCutter)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon.png" alt="Altan Watercan icon" loading="lazy" height="16px" width="auto" /> [Altan Watercan](https://ceterai.github.io/MyEnternia/Wiki/AltanWatercan)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" height="16px" width="auto" /> [Astan Dew ★](https://ceterai.github.io/MyEnternia/Wiki/AstanDew)
 
 Can be bought in shops:
 
@@ -36,6 +38,8 @@ Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

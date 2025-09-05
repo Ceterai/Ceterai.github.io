@@ -12,13 +12,15 @@ Species descriptions:
 
 - Alta: Some precious staris. Io's gift of life. I hope I can do it some justice.
 
-## Crafting
+## Usage
+
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 
-<details markdown="1"><summary>Used to craft: (Expand 150 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 150 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" height="16px" width="auto" /> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" height="16px" width="auto" /> [A.R.C.O. Emblem](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Emblem)
@@ -173,6 +175,10 @@ Unlocks blueprints for:
 
 </details>
 
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 60s of grow time with a 95% chance to be consumed.
+
 ## Sources
 
 Drops from defeated creatures:
@@ -196,6 +202,8 @@ Can be harvested from:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/sapling/icon.png" alt="Stardust Sapling ★★★ icon" loading="lazy" height="16px" width="auto" /> [Stardust Sapling ★★★](https://ceterai.github.io/MyEnternia/Wiki/StardustSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" height="16px" width="auto" /> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

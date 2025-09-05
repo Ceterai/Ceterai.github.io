@@ -1,6 +1,8 @@
 # Static Shield
 
-An energy shield that will expire once broken or overtime.
+An energy shield that will expire once broken or overtime.  
+Just like the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" height="16px" width="auto" /> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield), this piece of alta technology is yet to be learned by a number of civilizations.  
+Alta: An advanced static shield. Much harder to produce, because it utilizes impulses instead of plasma.
 
 <details markdown="1"><summary>Applied by following items: (Expand 8 items)</summary>
 

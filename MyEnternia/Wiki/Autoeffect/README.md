@@ -1,7 +1,8 @@
 # Autoeffect
 
 A generic effect placeholder. It activates a certain other effect when a specified requirement is met.
-This effect uses default parameters as example.
+This effect uses default parameters as example.  
+Alta: 
 
 ## Parameters
 

@@ -23,18 +23,16 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" height="16px" width="auto" /> [Gillikada Split](https://ceterai.github.io/MyEnternia/Wiki/GillikadaSplit)
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" height="16px" width="auto" /> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" height="16px" width="auto" /> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height="16px" width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
-Used to craft:
+Can be used to craft:
 
 - `ct_food_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gil-Tsay Stew icon" loading="lazy" height="16px" width="auto" /> [Gil-Tsay Stew](https://ceterai.github.io/MyEnternia/Wiki/Gil-TsayStew)
@@ -43,6 +41,10 @@ Used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height="16px" width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" height="16px" width="auto" /> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil)
 
 Found naturally in containers:
 
@@ -66,6 +68,8 @@ Can be obtained from special items:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

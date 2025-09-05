@@ -1,6 +1,7 @@
 # Omniblue Vision
 
-Creates a strong beam of blue light in front of you as well as slightly lights up the area.
+Creates a strong beam of blue light in front of you as well as slightly lights up the area.  
+Alta: 
 
 <details markdown="1"><summary>Applied by following items: (Expand 10 items)</summary>
 

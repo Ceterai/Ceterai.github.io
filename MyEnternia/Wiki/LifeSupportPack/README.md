@@ -17,9 +17,11 @@ Species descriptions:
 
 - Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" height="16px" width="auto" /> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
-## Crafting
+## Usage
 
-Used to craft:
+### Crafting
+
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" height="16px" width="auto" /> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
 
@@ -35,6 +37,8 @@ Can be obtained from special items:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" height="16px" width="auto" /> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_captain.png" alt="Security Captain Set ★ icon" loading="lazy" height="16px" width="auto" /> [Security Captain Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptainSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" height="16px" width="auto" /> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

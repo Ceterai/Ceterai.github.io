@@ -25,7 +25,16 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Stuffed Crust Slice icon" loading="lazy" height="16px" width="auto" /> [Caliopa Stuffed Crust Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaStuffedCrustSlice)
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Staris Soup icon" loading="lazy" height="16px" width="auto" /> [Staris Soup](https://ceterai.github.io/MyEnternia/Wiki/StarisSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" height="16px" width="auto" /> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
+
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
@@ -41,13 +50,6 @@ Other variants:
 
 </details>
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Staris Soup icon" loading="lazy" height="16px" width="auto" /> [Staris Soup](https://ceterai.github.io/MyEnternia/Wiki/StarisSoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" height="16px" width="auto" /> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
-
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
@@ -58,6 +60,8 @@ Given as rent by tenants:
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

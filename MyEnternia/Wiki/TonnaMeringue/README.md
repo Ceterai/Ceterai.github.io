@@ -23,14 +23,9 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonnakada Meringue icon" loading="lazy" height="16px" width="auto" /> [Tonnakada Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaMeringue)
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height="16px" width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Caretaker's Ometonna ★ icon" loading="lazy" height="16px" width="auto" /> [Caretaker's Ometonna ★](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sOmetonna)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" height="16px" width="auto" /> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" height="16px" width="auto" /> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -39,6 +34,13 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Tonna Split icon" loading="lazy" height="16px" width="auto" /> [Tonna Split](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplit)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" height="16px" width="auto" /> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Caretaker's Ometonna ★ icon" loading="lazy" height="16px" width="auto" /> [Caretaker's Ometonna ★](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sOmetonna)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" height="16px" width="auto" /> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" height="16px" width="auto" /> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna)
 
 Can be bought from merchants:
 
@@ -55,6 +57,8 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Pie Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPieServing)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

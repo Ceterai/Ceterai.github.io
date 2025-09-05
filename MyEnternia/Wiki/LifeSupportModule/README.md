@@ -1,6 +1,7 @@
 # Life Support Module
 
-Constantly heals you by 0.5% each second.
+Constantly heals you by 0.5% each second.  
+Alta: 
 
 Applied by following items:
 

@@ -14,19 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVerriskoywaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/pod/icon.png" alt="Vodakoywa Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaEcoPod)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/sapling/icon.png" alt="Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSapling)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVodakoywaSapling)
 - <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" height="12px" width="5.875px" /> [Cotton Seed](https://starbounder.org/Cotton_Seed)
@@ -35,6 +32,11 @@ Used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/sapling/icon.png" alt="Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSapling)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVerriskoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/pod/icon.png" alt="Vodakoywa Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaEcoPod)
 
 Can be bought from merchants:
 
@@ -55,6 +57,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Wild Vodakoywa Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/WildVodakoywaSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

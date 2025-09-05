@@ -19,13 +19,19 @@ Species descriptions:
 
 - Effect: <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" height="16px" width="16px" /> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 300
 
-## Crafting
+## Usage
+
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Ion Cake icon" loading="lazy" height="16px" width="auto" /> [Ion Cake](https://ceterai.github.io/MyEnternia/Wiki/IonCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" height="16px" width="auto" /> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Tonna Split icon" loading="lazy" height="16px" width="auto" /> [Tonna Split](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplit)
+
+## Sources
+
+Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).
 
 ## Technical Information
 

@@ -1,12 +1,18 @@
 # Ionic Shock
 
-Repeatedly damages you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) electricity. Having [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity) blocks the effect, [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" height="16px" width="auto" /> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.
+Repeatedly damages you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) electricity. Having [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity) blocks the effect, [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" height="16px" width="auto" /> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.  
+Alta: 
 
 Applied by following items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" height="16px" width="auto" /> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Prime ★ icon" loading="lazy" height="16px" width="auto" /> [Zandarm Prime ★](https://ceterai.github.io/MyEnternia/Wiki/ZandarmPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" height="16px" width="auto" /> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
+
+Applied by following weather:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_ionic_rain.png" alt="Ionic Rain icon" loading="lazy" height="16px" width="auto" /> [Ionic Rain](https://ceterai.github.io/MyEnternia/Wiki/IonicRain)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_ionic_storm.png" alt="Ionic Storm icon" loading="lazy" height="16px" width="auto" /> [Ionic Storm](https://ceterai.github.io/MyEnternia/Wiki/IonicStorm)
 
 ## Parameters
 

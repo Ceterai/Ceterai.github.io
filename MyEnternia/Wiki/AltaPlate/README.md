@@ -20,9 +20,11 @@ Easy to clean, eco-friendly and doesn't cause issues in microwaves and dishwashe
 
 </details>
 
-## Crafting
+## Usage
 
-<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
+### Crafting
+
+<details markdown="1"><summary>Can be used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/dishes/icon.png" alt="Alta Dishes icon" loading="lazy" height="16px" width="auto" /> [Alta Dishes](https://ceterai.github.io/MyEnternia/Wiki/AltaDishes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kadamaker/icon.png" alt="Alta Kadamaker icon" loading="lazy" height="16px" width="auto" /> [Alta Kadamaker](https://ceterai.github.io/MyEnternia/Wiki/AltaKadamaker)
@@ -32,6 +34,10 @@ Easy to clean, eco-friendly and doesn't cause issues in microwaves and dishwashe
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/slicer/icon.png" alt="Alta Slicer icon" loading="lazy" height="16px" width="auto" /> [Alta Slicer](https://ceterai.github.io/MyEnternia/Wiki/AltaSlicer)
 
 </details>
+
+## Sources
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

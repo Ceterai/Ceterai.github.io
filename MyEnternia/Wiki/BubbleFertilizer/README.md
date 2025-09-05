@@ -10,27 +10,15 @@ Species descriptions:
 
 - Alta: 
 
-## Crafting
+## Usage
 
-<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height="16px" width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/sapling/icon.png" alt="Cotton Sapling icon" loading="lazy" height="16px" width="auto" /> [Cotton Sapling](https://ceterai.github.io/MyEnternia/Wiki/CottonSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/sapling/icon.png" alt="Ela Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ela Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/ElaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height="16px" width="auto" /> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/sapling/icon.png" alt="Evara Sapling icon" loading="lazy" height="16px" width="auto" /> [Evara Sapling](https://ceterai.github.io/MyEnternia/Wiki/EvaraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/sapling/icon.png" alt="Hive Sapling icon" loading="lazy" height="16px" width="auto" /> [Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/HiveSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" height="16px" width="auto" /> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/sapling/icon.png" alt="Jelly Sapling icon" loading="lazy" height="16px" width="auto" /> [Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/JellySapling)
-
-</details>
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height="16px" width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details markdown="1"><summary>Used to craft: (Expand 13 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/pod/icon.png" alt="Cotton Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Cotton Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CottonEcoPod)
@@ -48,7 +36,25 @@ Unlocks blueprints for:
 
 </details>
 
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 240s of grow time with a 50% chance to be consumed.
+
 ## Sources
+
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height="16px" width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/sapling/icon.png" alt="Cotton Sapling icon" loading="lazy" height="16px" width="auto" /> [Cotton Sapling](https://ceterai.github.io/MyEnternia/Wiki/CottonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/sapling/icon.png" alt="Ela Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ela Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/ElaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" height="16px" width="auto" /> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/sapling/icon.png" alt="Evara Sapling icon" loading="lazy" height="16px" width="auto" /> [Evara Sapling](https://ceterai.github.io/MyEnternia/Wiki/EvaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/sapling/icon.png" alt="Hive Sapling icon" loading="lazy" height="16px" width="auto" /> [Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/HiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" height="16px" width="auto" /> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/sapling/icon.png" alt="Jelly Sapling icon" loading="lazy" height="16px" width="auto" /> [Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/JellySapling)
+
+</details>
 
 Can be bought in shops:
 
@@ -60,6 +66,8 @@ Can be bought from merchants:
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Gyera Archiver](https://ceterai.github.io/MyEnternia/Wiki/GyeraArchiver)
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

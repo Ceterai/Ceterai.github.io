@@ -22,7 +22,7 @@ Can be bought from merchants:
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 9 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 8 items)</summary>
 
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)
 - [Alta Gamer](https://ceterai.github.io/MyEnternia/Wiki/AltaGamer)
@@ -31,7 +31,6 @@ Can be bought from merchants:
 - [Alta Koywa Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaKoywaDancer)
 - [Alta Neon Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonDancer)
 - [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
-- [Alta Resort Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaResortGirl)
 - [Alta Vibrant Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaVibrantDancer)
 
 </details>
@@ -39,6 +38,8 @@ Can be bought from merchants:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

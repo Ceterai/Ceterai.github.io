@@ -1,6 +1,7 @@
 # Asirai's Potential
 
-Damages nearby enemies with electricity and gives you 20% electric resistance.
+Damages nearby enemies with electricity and gives you 20% electric resistance.  
+Alta: 
 
 ## Parameters
 

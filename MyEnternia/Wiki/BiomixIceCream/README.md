@@ -25,7 +25,19 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Dessert ★ icon" loading="lazy" height="16px" width="auto" /> [Biomix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/BiomixDessert)
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height="16px" width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height="16px" width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
+
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 13 items)</summary>
 
@@ -45,16 +57,6 @@ Other variants:
 
 </details>
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height="16px" width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
-
-Used to craft:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height="16px" width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
-
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
@@ -65,6 +67,8 @@ Given as rent by tenants:
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

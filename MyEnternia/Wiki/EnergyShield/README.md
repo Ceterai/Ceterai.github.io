@@ -1,6 +1,8 @@
 # Energy Shield
 
-An energy shield that will expire once broken or overtime.
+An energy shield that will expire once broken or overtime.  
+It holds up thanks to a constant stream of energy holding up a thick field of plasma in a certain area.  
+Alta: A standard protocol energy shield. Used quite often for basic alta protection.
 
 Applied by following items:
 

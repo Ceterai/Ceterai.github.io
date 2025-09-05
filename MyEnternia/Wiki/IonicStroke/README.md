@@ -1,6 +1,11 @@
 # Ionic Stroke
 
-Quickly degrades your energy. Once out of energy, damages you repeatedly with [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) electricity.
+Quickly degrades your energy. Once out of energy, damages you repeatedly with [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) electricity.  
+Alta: 
+
+Applied by following weather:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_ionic_peak.png" alt="Ionic Peak icon" loading="lazy" height="16px" width="auto" /> [Ionic Peak](https://ceterai.github.io/MyEnternia/Wiki/IonicPeak)
 
 ## Parameters
 

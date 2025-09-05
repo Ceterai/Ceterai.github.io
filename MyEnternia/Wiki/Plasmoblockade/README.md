@@ -1,7 +1,8 @@
 # Plasmoblockade
 
 Adds 20% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity).  
-With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRework) - adds immunity to [Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic).
+With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRework) - adds immunity to [Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic).  
+Alta: 
 
 Applied by following items:
 

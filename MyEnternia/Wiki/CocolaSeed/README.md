@@ -14,21 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/pod/icon.png" alt="Cocola Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Cocola Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CocolaEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="What Is Esetera icon" loading="lazy" height="16px" width="auto" /> [What Is Esetera](https://ceterai.github.io/MyEnternia/Wiki/WhatIsEsetera)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/sapling/icon.png" alt="Cocola Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Cocola Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/CocolaSapling)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/boosted/icon.png" alt="Boosted Cocola Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Cocola Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCocolaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/pod/icon.png" alt="Cocola Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Cocola Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CocolaEcoPod)
@@ -37,6 +32,13 @@ Used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" height="16px" width="auto" /> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/pod/icon.png" alt="Cocola Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Cocola Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CocolaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="What Is Esetera icon" loading="lazy" height="16px" width="auto" /> [What Is Esetera](https://ceterai.github.io/MyEnternia/Wiki/WhatIsEsetera)
 
 Can be bought from merchants:
 
@@ -57,6 +59,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Wild Cocola Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/WildCocolaSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

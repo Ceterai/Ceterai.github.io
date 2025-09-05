@@ -1,6 +1,6 @@
 # Aric Tag
 
-The tag `aric` contains 21 total entries.
+The tag `aric` contains 23 total entries.
 
 ## Objects
 
@@ -26,7 +26,9 @@ The tag `aric` contains 21 total entries.
 
 Following tenants require this colony tag:
 
-- [Alta Aricologist](https://ceterai.github.io/MyEnternia/Wiki/AltaAricologist)
+- [Aric Ghost](https://ceterai.github.io/MyEnternia/Wiki/AricGhost)
+- [Arigaran](https://ceterai.github.io/MyEnternia/Wiki/Arigaran)
+- [Arigaran Merchant](https://ceterai.github.io/MyEnternia/Wiki/ArigaranMerchant)
 
 ## Items
 

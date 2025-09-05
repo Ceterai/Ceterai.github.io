@@ -1,6 +1,7 @@
 # EDS Autoshielder
 
-Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" height="16px" width="auto" /> [EDS Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSEnergyShield) to you when your health is lower than 20%.
+Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" height="16px" width="auto" /> [EDS Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSEnergyShield) to you when your health is lower than 20%.  
+Alta: 
 
 Applied by following items:
 

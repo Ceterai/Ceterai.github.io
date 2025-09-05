@@ -10,17 +10,17 @@ Species descriptions:
 
 - Alta: All the stardust... I think that's what she said? Stardust Orchid? The Ceterai? Tiana? That it's all... all stardust... Celestia has created us, with a purpose, but what is it exactly?.. Just to be... friends? She said it was too sad and lonely on the endless vast of the universe... But I assume there might be more than that behind that smile. Poor Orchid. I hope I can be her friend one day. Just to cheer her up a little. Just a bit. Maybe then her smile won't look so fake anymore. Even if it will make her cry, those will be the tears of happiness.
 
-## Crafting
+## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/pod/icon.png" alt="Starflower Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Starflower Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/StarflowerEcoPod)
 
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

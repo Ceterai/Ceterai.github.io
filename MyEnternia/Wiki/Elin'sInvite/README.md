@@ -16,18 +16,16 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" height="16px" width="auto" /> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height="16px" width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" height="16px" width="auto" /> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)
 
-<details markdown="1"><summary>Used to craft: (Expand 16 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="A Virma's Friend icon" loading="lazy" height="16px" width="auto" /> [A Virma's Friend](https://ceterai.github.io/MyEnternia/Wiki/AVirma'sFriend)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" height="16px" width="auto" /> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
@@ -50,6 +48,10 @@ Unlocks blueprints for:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" height="16px" width="auto" /> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elin/pod/icon.png" alt="Elin Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Elin Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElinPod)
@@ -57,6 +59,8 @@ Found naturally in containers:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Elin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ElinLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

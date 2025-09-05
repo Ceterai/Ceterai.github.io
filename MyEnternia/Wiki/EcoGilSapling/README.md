@@ -19,11 +19,9 @@ This smaller sapling will ripen much slower, but doesn't consume soil.
 
 </details>
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/cultivated/icon.png" alt="Cultivated Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedGilSapling)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -32,10 +30,18 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/aya/icon.png" alt="Potted Aya icon" loading="lazy" height="16px" width="auto" /> [Potted Aya](https://ceterai.github.io/MyEnternia/Wiki/PottedAya)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/pod/icon.png" alt="Gil Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Gil Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/GilEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/gil/icon.png" alt="Potted Gil icon" loading="lazy" height="16px" width="auto" /> [Potted Gil](https://ceterai.github.io/MyEnternia/Wiki/PottedGil)
+
+## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/cultivated/icon.png" alt="Cultivated Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedGilSapling)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -10,20 +10,26 @@ Species descriptions:
 
 - Alta: I could gather some enterite from this, if I'm very lucky...
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height="16px" width="auto" /> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
+
+## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height="16px" width="auto" /> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

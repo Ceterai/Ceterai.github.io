@@ -1,6 +1,7 @@
 # Velocity Boost
 
-Increases jump height by 50%.
+Increases jump height by 50%.  
+Alta: 
 
 Applied by following items:
 

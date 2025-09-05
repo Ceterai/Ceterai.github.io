@@ -10,21 +10,15 @@ Species descriptions:
 
 - Alta: 
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height="16px" width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/sapling/icon.png" alt="Azura Sapling icon" loading="lazy" height="16px" width="auto" /> [Azura Sapling](https://ceterai.github.io/MyEnternia/Wiki/AzuraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/sapling/icon.png" alt="Sonava Sapling icon" loading="lazy" height="16px" width="auto" /> [Sonava Sapling](https://ceterai.github.io/MyEnternia/Wiki/SonavaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/sapling/icon.png" alt="Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSapling)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height="16px" width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" height="16px" width="auto" /> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
@@ -36,7 +30,19 @@ Unlocks blueprints for:
 
 </details>
 
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 220s of grow time with a 30% chance to be consumed.
+
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height="16px" width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/sapling/icon.png" alt="Azura Sapling icon" loading="lazy" height="16px" width="auto" /> [Azura Sapling](https://ceterai.github.io/MyEnternia/Wiki/AzuraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/sapling/icon.png" alt="Sonava Sapling icon" loading="lazy" height="16px" width="auto" /> [Sonava Sapling](https://ceterai.github.io/MyEnternia/Wiki/SonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/sapling/icon.png" alt="Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSapling)
 
 Can be bought in shops:
 
@@ -48,6 +54,8 @@ Can be bought from merchants:
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Gyera Archiver](https://ceterai.github.io/MyEnternia/Wiki/GyeraArchiver)
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

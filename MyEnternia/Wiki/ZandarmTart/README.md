@@ -25,7 +25,19 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Prime ★ icon" loading="lazy" height="16px" width="auto" /> [Zandarm Prime ★](https://ceterai.github.io/MyEnternia/Wiki/ZandarmPrime)
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Niatto Motsu Soup icon" loading="lazy" height="16px" width="auto" /> [Niatto Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/NiattoMotsuSoup)
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Tonna Split icon" loading="lazy" height="16px" width="auto" /> [Tonna Split](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplit)
+
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 8 items)</summary>
 
@@ -39,16 +51,6 @@ Other variants:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" height="16px" width="auto" /> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh)
 
 </details>
-
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Niatto Motsu Soup icon" loading="lazy" height="16px" width="auto" /> [Niatto Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/NiattoMotsuSoup)
-
-Used to craft:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Tonna Split icon" loading="lazy" height="16px" width="auto" /> [Tonna Split](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplit)
-
-## Sources
 
 Can be bought from merchants:
 
@@ -64,6 +66,8 @@ Given as rent by tenants:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

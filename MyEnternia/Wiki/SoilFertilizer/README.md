@@ -10,11 +10,9 @@ Species descriptions:
 
 - Alta: 
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Flower Lover's Guide icon" loading="lazy" height="16px" width="auto" /> [Flower Lover's Guide](https://ceterai.github.io/MyEnternia/Wiki/FlowerLover'sGuide)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -22,7 +20,7 @@ Unlocks blueprints for:
 - <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" height="10px" width="10px" /> [Moonrock](https://starbounder.org/Moonrock)
 - <img src="https://starbounder.org/mediawiki/images/b/b6/Moonstone.png" alt="Moonstone icon" loading="lazy" height="10px" width="10px" /> [Moonstone](https://starbounder.org/Moonstone)
 
-<details markdown="1"><summary>Used to craft: (Expand 25 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 25 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sapling/icon.png" alt="Aya Sapling icon" loading="lazy" height="16px" width="auto" /> [Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/AyaSapling)
@@ -52,7 +50,15 @@ Unlocks blueprints for:
 
 </details>
 
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 60s of grow time with a 50% chance to be consumed.
+
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Flower Lover's Guide icon" loading="lazy" height="16px" width="auto" /> [Flower Lover's Guide](https://ceterai.github.io/MyEnternia/Wiki/FlowerLover'sGuide)
 
 Found naturally in containers:
 
@@ -72,6 +78,8 @@ Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -16,9 +16,11 @@ Species descriptions:
 
 - Alta: It's so pretty!! That hypnotizing glow, those soft colors are amazing! I can't stop looking at it... although nothing can compare to the magical glow of staris ❤
 
-## Crafting
+## Usage
 
-<details markdown="1"><summary>Used to craft: (Expand 13 items)</summary>
+### Crafting
+
+<details markdown="1"><summary>Can be used to craft: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height="16px" width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_bionid_augment.png" alt="Bionid Augment icon" loading="lazy" height="16px" width="auto" /> [Bionid Augment](https://ceterai.github.io/MyEnternia/Wiki/BionidAugment)
@@ -35,6 +37,10 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" height="16px" width="auto" /> [Wide Tonnova](https://ceterai.github.io/MyEnternia/Wiki/WideTonnova)
 
 </details>
+
+### Transmutation
+
+Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222215988/C71087FFAD0A5FB9FE3532EC34F3A2D2D37DD7B7/" alt="Tier 2 Mine icon" width="14.5" height="8.125"/> [Tier 2 Mine Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
 
 ## Sources
 
@@ -73,6 +79,8 @@ Drops from big plants:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" height="16px" width="auto" /> [Bulbonid](https://ceterai.github.io/MyEnternia/Wiki/Bulbonid)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

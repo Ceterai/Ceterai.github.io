@@ -14,20 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ela Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoElaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" height="16px" width="auto" /> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
@@ -36,6 +32,12 @@ Used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ela Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoElaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" height="16px" width="auto" /> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
 
 Drops from destroyed obstacles:
 
@@ -51,6 +53,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Wild Ionic Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIonicSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

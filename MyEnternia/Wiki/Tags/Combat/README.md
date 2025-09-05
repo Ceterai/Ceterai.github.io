@@ -1,6 +1,6 @@
 # Combat Tag
 
-The tag `combat` contains 60 total entries.
+The tag `combat` contains 62 total entries.
 
 ## Objects
 
@@ -22,7 +22,7 @@ The tag `combat` contains 60 total entries.
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 34 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 36 items)</summary>
 
 - [A.R.C.O. Security Guard](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.SecurityGuard)
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
@@ -36,6 +36,7 @@ The tag `combat` contains 60 total entries.
 - [Alta Security Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCaptain)
 - [Alta Security Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityGuard)
 - [Alta Soldier](https://ceterai.github.io/MyEnternia/Wiki/AltaSoldier)
+- [Arigaran](https://ceterai.github.io/MyEnternia/Wiki/Arigaran)
 - [Arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight)
 - [Citadel Guard](https://ceterai.github.io/MyEnternia/Wiki/CitadelGuard)
 - [Combat Android](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
@@ -58,6 +59,7 @@ The tag `combat` contains 60 total entries.
 - [Spacedrifter](https://ceterai.github.io/MyEnternia/Wiki/Spacedrifter)
 - [Stardust Scout](https://ceterai.github.io/MyEnternia/Wiki/StardustScout)
 - [Thermounit](https://ceterai.github.io/MyEnternia/Wiki/Thermounit)
+- [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
 
 </details>
 

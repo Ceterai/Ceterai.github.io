@@ -14,21 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Isoslime Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height="16px" width="auto" /> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" height="16px" width="auto" /> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 
-<details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco_green/icon.png" alt="Eco Poi Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Poi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoPoiSapling)
@@ -41,6 +36,13 @@ Unlocks blueprints for:
 </details>
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Isoslime Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height="16px" width="auto" /> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
 
 Drops from destroyed obstacles:
 
@@ -58,6 +60,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIsoslimeSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

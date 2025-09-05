@@ -25,16 +25,22 @@ A variation of an [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatr
 - Stem/Stipe: `ct_ayaka_prime_stem`
 - Foliage/Cap: `ct_ayaka_prime_leaves`
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height="16px" width="auto" /> [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height="16px" width="auto" /> [Crystal Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_garden_tree.png" alt="Garden Ayaka icon" loading="lazy" height="16px" width="auto" /> [Garden Ayaka](https://ceterai.github.io/MyEnternia/Wiki/GardenAyaka)
+
+## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height="16px" width="auto" /> [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

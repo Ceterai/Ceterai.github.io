@@ -24,13 +24,15 @@ It stands out among seemingly endless vasts of koywa reeds.
 
 This object **doesn't drop itself** when broken.
 
-## Crafting
+## Usage
+
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" height="16px" width="auto" /> [Potted Alto Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedAltoKoywaFlower)
 
-<details markdown="1"><summary>Used to craft: (Expand 19 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 19 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/flower/icon.png" alt="Alta Flower Bed icon" loading="lazy" height="16px" width="auto" /> [Alta Flower Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height="16px" width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
@@ -72,6 +74,8 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto_twin/icon.png" alt="Verriskoywa Twin Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Twin Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinAltoFlower)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

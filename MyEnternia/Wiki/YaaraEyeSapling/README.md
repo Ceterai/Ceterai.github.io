@@ -10,25 +10,29 @@ Species descriptions:
 
 - Alta: A lab-produced yaavi spring. Seems like this one ripes once in a while, unlike usual yaavi pulps.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/cultivated/icon.png" alt="Cultivated Yaara Eye Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedYaaraEyeSapling)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/cultivated/icon.png" alt="Cultivated Yaara Eye Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedYaaraEyeSapling)
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
+
 Can be bought from merchants:
 
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

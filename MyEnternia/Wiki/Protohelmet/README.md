@@ -7,6 +7,15 @@ An energy-driven full electronic helmet used by some [alta](https://ceterai.gith
 ## Parameters
 
 - Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" height="16px" width="auto" /> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision)
+- Leveled Status Effects: 
+
+- Level Function: `standardArmorLevelPowerMultiplierMultiplier`- Stat: <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" height="15px" width="15px" /> [Attack power](https://starbounder.org/Attack_power)- Base Multiplier: 1.15, 
+
+- Level Function: `standardArmorLevelProtectionMultiplier`- Stat: <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" height="15px" width="15px" /> [Health](https://starbounder.org/Health)- Amount: 0.3, 
+
+- Level Function: `standardArmorLevelMaxEnergyMultiplier`- Stat: <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" height="15px" width="15px" /> [Energy](https://starbounder.org/Energy)- Amount: 3, 
+
+- Level Function: `standardArmorLevelMaxHealthMultiplier`- Stat: <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" height="15px" width="15px" /> [Defense](https://starbounder.org/Defense)- Amount: 3
 
 ## Sources
 
@@ -20,16 +29,11 @@ Can be bought from merchants:
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 
-<details markdown="1"><summary>Can be obtained from special items: (Expand 6 items)</summary>
+Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
 
-</details>
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

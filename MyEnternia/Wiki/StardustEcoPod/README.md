@@ -25,11 +25,9 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 - Slot Count: 1  
 - Health: 4.5
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Thermoponics ★★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics)
+### Crafting
 
 <details markdown="1"><summary>Unlocks blueprints for: (Expand 7 items)</summary>
 
@@ -43,12 +41,20 @@ Blueprint unlocked by obtaining:
 
 </details>
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/pod/icon.png" alt="Alternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Alternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/pod/icon.png" alt="Ceternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Ceternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/pod/icon.png" alt="Diamond Eco Pod ★★★★ icon" loading="lazy" height="16px" width="auto" /> [Diamond Eco Pod ★★★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
+
+## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Thermoponics ★★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

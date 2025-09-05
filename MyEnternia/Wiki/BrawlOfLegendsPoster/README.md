@@ -16,11 +16,9 @@ Radiomessages on pickup:
 
 - Seems like the item you just picked up belongs to Faradea - an independent alta mercenary faction. Let's hope you don't find the previous owner of this item.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height="16px" width="auto" /> [Brawl Of Legends Poster](https://ceterai.github.io/MyEnternia/Wiki/BrawlOfLegendsPoster)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -28,11 +26,15 @@ Unlocks blueprints for:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height="16px" width="auto" /> [Brawl Of Legends Poster](https://ceterai.github.io/MyEnternia/Wiki/BrawlOfLegendsPoster)
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 9 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 8 items)</summary>
 
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)
 - [Alta Gamer](https://ceterai.github.io/MyEnternia/Wiki/AltaGamer)
@@ -41,7 +43,6 @@ Found naturally in containers:
 - [Alta Koywa Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaKoywaDancer)
 - [Alta Neon Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonDancer)
 - [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
-- [Alta Resort Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaResortGirl)
 - [Alta Vibrant Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaVibrantDancer)
 
 </details>
@@ -49,6 +50,8 @@ Found naturally in containers:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

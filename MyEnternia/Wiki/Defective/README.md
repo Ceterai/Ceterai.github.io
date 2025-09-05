@@ -1,6 +1,7 @@
 # Defective
 
-Repeatedly damages enemies around you with electricity. Damage is dependant on your max health.
+Repeatedly damages enemies around you with electricity. Damage is dependant on your max health.  
+Alta: 
 
 ## Parameters
 

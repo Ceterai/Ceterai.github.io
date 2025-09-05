@@ -1,6 +1,7 @@
 # Analyzed
 
-Decreases your defense by 3.
+Decreases your defense by 3.  
+Alta: 
 
 ## Parameters
 

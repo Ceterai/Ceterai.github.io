@@ -14,22 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/eco/icon.png" alt="Eco Azura Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Azura Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoAzuraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/eco/icon.png" alt="Eco Warped Hive Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Warped Hive Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoWarpedHiveSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/pod/icon.png" alt="Ela Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Ela Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElaEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height="16px" width="auto" /> [Glowing Kingdom](https://ceterai.github.io/MyEnternia/Wiki/GlowingKingdom)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/sapling/icon.png" alt="Ela Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ela Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/ElaSapling)
 
-<details markdown="1"><summary>Used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Azura Seed icon" loading="lazy" height="16px" width="auto" /> [Azura Seed](https://ceterai.github.io/MyEnternia/Wiki/AzuraSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/boosted/icon.png" alt="Boosted Ela Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Ela Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedElaSapling)
@@ -42,6 +36,14 @@ Unlocks blueprints for:
 </details>
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/eco/icon.png" alt="Eco Azura Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Azura Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoAzuraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/eco/icon.png" alt="Eco Warped Hive Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Warped Hive Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoWarpedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/pod/icon.png" alt="Ela Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Ela Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height="16px" width="auto" /> [Glowing Kingdom](https://ceterai.github.io/MyEnternia/Wiki/GlowingKingdom)
 
 Can be bought from merchants:
 
@@ -61,6 +63,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Wild Ela Sprout icon" loading="lazy" height="16px" width="auto" /> [Wild Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildElaSprout)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

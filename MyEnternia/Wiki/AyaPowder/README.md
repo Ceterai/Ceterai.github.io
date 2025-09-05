@@ -11,13 +11,11 @@ Species descriptions:
 
 - Alta: Eating raw aya powder isn't very healthy, because it doesn't have any moisture in it. So, to counter that, you can roll it up in some <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" height="16px" width="auto" /> [izo jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam) into a small tasty ball of goodness. My friend calls them **maris**. And yeah, you can thank me later.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
+### Crafting
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height="16px" width="auto" /> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya)
-
-<details markdown="1"><summary>Used to craft: (Expand 33 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 33 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" height="16px" width="auto" /> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" height="16px" width="auto" /> [Alta Farmer's Notes](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmer'sNotes)
@@ -55,7 +53,15 @@ Blueprint unlocked by obtaining:
 
 </details>
 
+### Transmutation
+
+Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222210874/D1234F8997CB79002D71C6D025A022E401BD3979/" alt="Tier 1 Farm icon" width="14.5" height="8.125"/> [Tier 1 Farm Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
+
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height="16px" width="auto" /> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya)
 
 Found naturally in containers:
 
@@ -72,6 +78,8 @@ Can be obtained from special items:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="Aya Pile icon" loading="lazy" height="16px" width="auto" /> [Aya Pile](https://ceterai.github.io/MyEnternia/Wiki/AyaPile)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

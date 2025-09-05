@@ -1,6 +1,7 @@
 # Energizer
 
-Constantly replenishes your energy by 0.5% each second.
+Constantly replenishes your energy by 0.5% each second.  
+Alta: 
 
 <details markdown="1"><summary>Applied by following items: (Expand 11 items)</summary>
 

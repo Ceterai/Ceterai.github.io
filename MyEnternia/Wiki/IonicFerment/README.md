@@ -12,12 +12,9 @@ Species descriptions:
 
 - Alta: Useful in basically enerything. Also, things like boiled ayas stuffed with eniar jam are the reason why I enjoy runeva stuff so much.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -25,7 +22,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" height="16px" width="auto" /> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" height="16px" width="auto" /> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube)
 
-<details markdown="1"><summary>Used to craft: (Expand 64 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 64 items)</summary>
 
 - <img src="https://starbounder.org/mediawiki/images/9/95/Alien_Wood_Sap.png" alt="Alien Wood Sap icon" loading="lazy" height="14px" width="10px" /> [Alien Wood Sap](https://starbounder.org/Alien_Wood_Sap)
 - `alienfruitjam`
@@ -94,7 +91,20 @@ Unlocks blueprints for:
 
 </details>
 
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 20s of grow time with a 95% chance to be consumed.
+
+### Transmutation
+
+Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222210874/D1234F8997CB79002D71C6D025A022E401BD3979/" alt="Tier 1 Farm icon" width="14.5" height="8.125"/> [Tier 1 Farm Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
+
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
 
 Found naturally in containers:
 
@@ -261,6 +271,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/pod/icon.png" alt="Yaavi Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Yaavi Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaviEcoPod)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

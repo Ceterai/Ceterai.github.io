@@ -24,18 +24,16 @@ Can be used for capturing plant critters for collection and to have them as pets
 
 - Slot Count: 1
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/tall/icon.png" alt="Alta Tall Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Alta Tall Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaTallFlowerPot)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/composite/icon.png" alt="Composite Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Composite Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CompositeFlowerPot)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/pink/icon.png" alt="Potted Pink Flower icon" loading="lazy" height="16px" width="auto" /> [Potted Pink Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedPinkFlower)
 
-<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/aya/icon.png" alt="Potted Aya icon" loading="lazy" height="16px" width="auto" /> [Potted Aya](https://ceterai.github.io/MyEnternia/Wiki/PottedAya)
@@ -48,6 +46,10 @@ Unlocks blueprints for:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/tall/icon.png" alt="Alta Tall Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Alta Tall Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaTallFlowerPot)
+
 Can be bought in shops:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
@@ -55,6 +57,8 @@ Can be bought in shops:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -1,10 +1,10 @@
 # Rare Tag
 
-The tag `rare` contains 493 total entries.
+The tag `rare` contains 485 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 152 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 143 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" height="16px" width="auto" /> [Alien Mounds](https://ceterai.github.io/MyEnternia/Wiki/AlienMounds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height="16px" width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
@@ -23,7 +23,6 @@ The tag `rare` contains 493 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/lab/icon.png" alt="Alta Lab Sprinkler icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSprinkler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" height="16px" width="auto" /> [Alta Lifechamber](https://ceterai.github.io/MyEnternia/Wiki/AltaLifechamber)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/mixer/icon.png" alt="Alta Mixer icon" loading="lazy" height="16px" width="auto" /> [Alta Mixer](https://ceterai.github.io/MyEnternia/Wiki/AltaMixer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/oven/icon.png" alt="Alta Oven icon" loading="lazy" height="16px" width="auto" /> [Alta Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaOven)
@@ -37,7 +36,6 @@ The tag `rare` contains 493 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/stand/icon.png" alt="Alta Security Stand icon" loading="lazy" height="16px" width="auto" /> [Alta Security Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityStand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/bed/icon.png" alt="Alta Ship Bed icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaShipBed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/chair/icon.png" alt="Alta Ship Chair icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaShipChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container_medium/icon.png" alt="Alta Ship Container G2 icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Container G2](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainerG2)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container_large/icon.png" alt="Alta Ship Container G3 icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Container G3](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainerG3)
@@ -50,7 +48,6 @@ The tag `rare` contains 493 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/table/icon.png" alt="Alta Ship Table icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Table](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTable)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/statues/alta/icon.png" alt="Alta Statue icon" loading="lazy" height="16px" width="auto" /> [Alta Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/stove/icon.png" alt="Alta Stove icon" loading="lazy" height="16px" width="auto" /> [Alta Stove](https://ceterai.github.io/MyEnternia/Wiki/AltaStove)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png" alt="Alta Upgrade Station icon" loading="lazy" height="16px" width="auto" /> [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" height="16px" width="auto" /> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/statues/alterash/icon.png" alt="Alterash Statue ★ icon" loading="lazy" height="16px" width="auto" /> [Alterash Statue ★](https://ceterai.github.io/MyEnternia/Wiki/AlterashStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" height="16px" width="auto" /> [Alternia Crystal](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)
@@ -81,9 +78,6 @@ The tag `rare` contains 493 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Yaara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Yaavi Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaviSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/fuel_hatch/icon.png" alt="Broken Alta Ship FTL Fuel Hatch icon" loading="lazy" height="16px" width="auto" /> [Broken Alta Ship FTL Fuel Hatch](https://ceterai.github.io/MyEnternia/Wiki/BrokenAltaShipFTLFuelHatch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Broken Alta Ship Locker icon" loading="lazy" height="16px" width="auto" /> [Broken Alta Ship Locker](https://ceterai.github.io/MyEnternia/Wiki/BrokenAltaShipLocker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Broken Alta Ship S.A.I.L icon" loading="lazy" height="16px" width="auto" /> [Broken Alta Ship S.A.I.L](https://ceterai.github.io/MyEnternia/Wiki/BrokenAltaShipS.A.I.L)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/teleporter/icon.png" alt="Broken Alta Ship Teleporter icon" loading="lazy" height="16px" width="auto" /> [Broken Alta Ship Teleporter](https://ceterai.github.io/MyEnternia/Wiki/BrokenAltaShipTeleporter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/clubdecks/icon.png" alt="Calin Club Decks icon" loading="lazy" height="16px" width="auto" /> [Calin Club Decks](https://ceterai.github.io/MyEnternia/Wiki/CalinClubDecks)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/sample/icon.png" alt="Calin Sample icon" loading="lazy" height="16px" width="auto" /> [Calin Sample](https://ceterai.github.io/MyEnternia/Wiki/CalinSample)
@@ -113,7 +107,6 @@ The tag `rare` contains 493 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/retainer/icon.png" alt="EDS Retainer icon" loading="lazy" height="16px" width="auto" /> [EDS Retainer](https://ceterai.github.io/MyEnternia/Wiki/EDSRetainer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/status_pods/status_pod/icon.png" alt="EDS Status Pod icon" loading="lazy" height="16px" width="auto" /> [EDS Status Pod](https://ceterai.github.io/MyEnternia/Wiki/EDSStatusPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/terminal/icon.png" alt="EDS Terminal icon" loading="lazy" height="16px" width="auto" /> [EDS Terminal](https://ceterai.github.io/MyEnternia/Wiki/EDSTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/turret/icon.png" alt="EDS Turret icon" loading="lazy" height="16px" width="auto" /> [EDS Turret](https://ceterai.github.io/MyEnternia/Wiki/EDSTurret)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" height="16px" width="auto" /> [Elin Ayaka](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enhancedmoonrock/icon.png" alt="Enhanced Moonrock icon" loading="lazy" height="16px" width="auto" /> [Enhanced Moonrock](https://ceterai.github.io/MyEnternia/Wiki/EnhancedMoonrock)
@@ -135,7 +128,6 @@ The tag `rare` contains 493 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" height="16px" width="auto" /> [Livira](https://ceterai.github.io/MyEnternia/Wiki/Livira)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_astral_narfin_plush.png" alt="Narfin Plushie icon" loading="lazy" height="16px" width="auto" /> [Narfin Plushie](https://ceterai.github.io/MyEnternia/Wiki/NarfinPlushie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_geyser/icon.png" alt="Nivera-Overgrown Geyser icon" loading="lazy" height="16px" width="auto" /> [Nivera-Overgrown Geyser](https://ceterai.github.io/MyEnternia/Wiki/Nivera-OvergrownGeyser)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/phospholion/icon.png" alt="Phospholion Sample ★★ icon" loading="lazy" height="16px" width="auto" /> [Phospholion Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/PhospholionSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_poptop_claw.png" alt="Poptop's Claw ★ icon" loading="lazy" height="16px" width="auto" /> [Poptop's Claw ★](https://ceterai.github.io/MyEnternia/Wiki/Poptop'sClaw)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" height="16px" width="auto" /> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
@@ -154,7 +146,6 @@ The tag `rare` contains 493 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_valley_poptop_plush.png" alt="Valley Poptop Plushie ★ icon" loading="lazy" height="16px" width="auto" /> [Valley Poptop Plushie ★](https://ceterai.github.io/MyEnternia/Wiki/ValleyPoptopPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/warped/icon.png" alt="Warped Sample icon" loading="lazy" height="16px" width="auto" /> [Warped Sample](https://ceterai.github.io/MyEnternia/Wiki/WarpedSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" height="16px" width="auto" /> [Wide Tonnova](https://ceterai.github.io/MyEnternia/Wiki/WideTonnova)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_crystal_icon.png" alt="Yaara Crystal Flower icon" loading="lazy" height="16px" width="auto" /> [Yaara Crystal Flower](https://ceterai.github.io/MyEnternia/Wiki/YaaraCrystalFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_heart/icon.png" alt="Yaara Heart icon" loading="lazy" height="16px" width="auto" /> [Yaara Heart](https://ceterai.github.io/MyEnternia/Wiki/YaaraHeart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yaara/icon.png" alt="Yaara Sample icon" loading="lazy" height="16px" width="auto" /> [Yaara Sample](https://ceterai.github.io/MyEnternia/Wiki/YaaraSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yonnur/icon.png" alt="Yonnur Sample icon" loading="lazy" height="16px" width="auto" /> [Yonnur Sample](https://ceterai.github.io/MyEnternia/Wiki/YonnurSample)
@@ -163,13 +154,16 @@ The tag `rare` contains 493 total entries.
 
 ## Tenants
 
-Following tenants require this colony tag:
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 6 items)</summary>
 
 - [Alta Army Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaArmyCaptain)
 - [Alta Soldier](https://ceterai.github.io/MyEnternia/Wiki/AltaSoldier)
 - [EDS Security](https://ceterai.github.io/MyEnternia/Wiki/EDSSecurity)
 - [Faradea Merc](https://ceterai.github.io/MyEnternia/Wiki/FaradeaMerc)
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
+- [Yaara Shaman](https://ceterai.github.io/MyEnternia/Wiki/YaaraShaman)
+
+</details>
 
 ## Items
 

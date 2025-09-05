@@ -14,21 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/koywa.png" alt="River Camping Brochure icon" loading="lazy" height="16px" width="auto" /> [River Camping Brochure](https://ceterai.github.io/MyEnternia/Wiki/RiverCampingBrochure)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/pod/icon.png" alt="Verriskoywa Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaEcoPod)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/sapling/icon.png" alt="Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSapling)
 
-<details markdown="1"><summary>Used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVerriskoywaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVerriskoywaSapling)
@@ -40,6 +35,13 @@ Unlocks blueprints for:
 </details>
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/koywa.png" alt="River Camping Brochure icon" loading="lazy" height="16px" width="auto" /> [River Camping Brochure](https://ceterai.github.io/MyEnternia/Wiki/RiverCampingBrochure)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/pod/icon.png" alt="Verriskoywa Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaEcoPod)
 
 Can be bought from merchants:
 
@@ -60,6 +62,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Wild Verriskoywa Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Verriskoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/WildVerriskoywaSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

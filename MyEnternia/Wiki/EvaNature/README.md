@@ -16,11 +16,9 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -30,6 +28,10 @@ Unlocks blueprints for:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
+
 Found naturally in containers:
 
 - <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height="12px" width="12px" /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest)
@@ -37,6 +39,8 @@ Found naturally in containers:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -1,5 +1,7 @@
 # Intension
 
+Alta: 
+
 ## Parameters
 
 - Blocking Stat: `ionicStatusImmunity`

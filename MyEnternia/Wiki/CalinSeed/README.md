@@ -14,20 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" height="16px" width="auto" /> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Calin Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CalinEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Crystal Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/CrystalYaaraNode)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/sapling/icon.png" alt="Calin Sapling icon" loading="lazy" height="16px" width="auto" /> [Calin Sapling](https://ceterai.github.io/MyEnternia/Wiki/CalinSapling)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/icon.png" alt="Alternia Seed icon" loading="lazy" height="16px" width="auto" /> [Alternia Seed](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Calin Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCalinSapling)
@@ -36,6 +32,12 @@ Used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/eco/icon.png" alt="Eco Calin Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Calin Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCalinSapling)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" height="16px" width="auto" /> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Calin Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CalinEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Crystal Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/CrystalYaaraNode)
 
 Can be bought from merchants:
 
@@ -55,6 +57,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Wild Calin Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/WildCalinSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

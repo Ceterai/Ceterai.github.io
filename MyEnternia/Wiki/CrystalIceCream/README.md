@@ -23,7 +23,16 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Iced Crystal Dessert ★ icon" loading="lazy" height="16px" width="auto" /> [Iced Crystal Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedCrystalDessert)
 
-## Crafting
+## Usage
+
+### Crafting
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height="16px" width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" height="16px" width="auto" /> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake)
+
+## Sources
 
 Blueprint unlocked by obtaining:
 
@@ -33,16 +42,18 @@ Blueprint unlocked by obtaining:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" height="16px" width="auto" /> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystalline Jam icon" loading="lazy" height="16px" width="auto" /> [Crystalline Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystallineJam)
 
-Used to craft:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" height="16px" width="auto" /> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" height="16px" width="auto" /> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake)
-
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+
+Given as rent by tenants:
+
+- [Alta Bedtimer](https://ceterai.github.io/MyEnternia/Wiki/AltaBedtimer)
+- [Alta Festival Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaFestivalGirl)
+- [Alta Resort Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaResortGirl)
+- [Alta Swimmer](https://ceterai.github.io/MyEnternia/Wiki/AltaSwimmer)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

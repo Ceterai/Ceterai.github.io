@@ -1,6 +1,7 @@
 # Pulsoblockade
 
-Adds 25% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity).
+Adds 25% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity).  
+Alta: 
 
 Applied by following items:
 

@@ -16,11 +16,9 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -28,18 +26,21 @@ Unlocks blueprints for:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 32 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [A.R.C.O. Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.FieldResearcher)
 - [A.R.C.O. Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Researcher)
 - [Alta Archaeologist](https://ceterai.github.io/MyEnternia/Wiki/AltaArchaeologist)
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
-- [Alta Aricologist](https://ceterai.github.io/MyEnternia/Wiki/AltaAricologist)
 - [Alta Biologist](https://ceterai.github.io/MyEnternia/Wiki/AltaBiologist)
 - [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)
 - [Alta Geologist](https://ceterai.github.io/MyEnternia/Wiki/AltaGeologist)
@@ -73,6 +74,8 @@ Found naturally in containers:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

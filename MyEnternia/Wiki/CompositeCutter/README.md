@@ -6,22 +6,24 @@ A useful tool for cutting lumber. Made from an altan composite.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/composite_cutter/icon_upg.png" alt="Reinforced Cutter ★ icon" loading="lazy" height="16px" width="auto" /> [Reinforced Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/ReinforcedCutter) at the Weapon Upgrade Anvil.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon.png" alt="Alta Tiller icon" loading="lazy" height="16px" width="auto" /> [Alta Tiller](https://ceterai.github.io/MyEnternia/Wiki/AltaTiller)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon_upg.png" alt="Startiller ★ icon" loading="lazy" height="16px" width="auto" /> [Startiller ★](https://ceterai.github.io/MyEnternia/Wiki/Startiller)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Flower Lover's Guide icon" loading="lazy" height="16px" width="auto" /> [Flower Lover's Guide](https://ceterai.github.io/MyEnternia/Wiki/FlowerLover'sGuide)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon.png" alt="Alta Tiller icon" loading="lazy" height="16px" width="auto" /> [Alta Tiller](https://ceterai.github.io/MyEnternia/Wiki/AltaTiller)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon_upg.png" alt="Startiller ★ icon" loading="lazy" height="16px" width="auto" /> [Startiller ★](https://ceterai.github.io/MyEnternia/Wiki/Startiller)
 
 Can be bought from merchants:
 
@@ -30,6 +32,8 @@ Can be bought from merchants:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -10,17 +10,17 @@ Species descriptions:
 
 - Alta: Discovering plasmic crystals was the first instance of altas being able to successfully extract alternia and transform it into a usable form of energy, like electricity. Nowadays quite a lot of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" height="16px" width="auto" /> [alta energy sources](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergySource) and [alta energy cells](https://ceterai.github.io/MyEnternia/Wiki/altaenergycells) are created using pieces of these crystals.
 
-## Crafting
+## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/pod/icon.png" alt="Alternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Alternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaEcoPod)
 
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -28,12 +28,14 @@ More information on ayakas, their nature and how they're maintained, can be foun
 - Stem/Stipe: `ct_young_ayaka_stem`
 - Foliage/Cap: `ct_young_ayaka_leaves`
 
-## Crafting
+## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" height="16px" width="auto" /> [Crystal Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height="16px" width="auto" /> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

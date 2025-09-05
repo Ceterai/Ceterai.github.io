@@ -25,7 +25,22 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" height="16px" width="auto" /> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" height="16px" width="auto" /> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height="16px" width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" height="16px" width="auto" /> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" height="16px" width="auto" /> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
+
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 7 items)</summary>
 
@@ -38,19 +53,6 @@ Other variants:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height="16px" width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
 </details>
-
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" height="16px" width="auto" /> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height="16px" width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" height="16px" width="auto" /> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" height="16px" width="auto" /> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
-
-Used to craft:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
-
-## Sources
 
 Can be bought from merchants:
 
@@ -66,6 +68,8 @@ Given as rent by tenants:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

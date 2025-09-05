@@ -25,7 +25,17 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Perfect Niatto Motsu icon" loading="lazy" height="16px" width="auto" /> [Perfect Niatto Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectNiattoMotsu)
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Ion Risotto icon" loading="lazy" height="16px" width="auto" /> [Ion Risotto](https://ceterai.github.io/MyEnternia/Wiki/IonRisotto)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height="16px" width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" height="16px" width="auto" /> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
+
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 7 items)</summary>
 
@@ -39,14 +49,6 @@ Other variants:
 
 </details>
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Ion Risotto icon" loading="lazy" height="16px" width="auto" /> [Ion Risotto](https://ceterai.github.io/MyEnternia/Wiki/IonRisotto)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height="16px" width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" height="16px" width="auto" /> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
-
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
@@ -54,6 +56,8 @@ Can be bought from merchants:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/motsu/icon.png" alt="Alta Motsu Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Motsu Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMotsuServing)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

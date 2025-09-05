@@ -15,9 +15,11 @@ Species descriptions:
 
 - Alta: Some gooey izopoi I can throw at my friends. Perfect.
 
-## Crafting
+## Usage
 
-<details markdown="1"><summary>Used to craft: (Expand 14 items)</summary>
+### Crafting
+
+<details markdown="1"><summary>Can be used to craft: (Expand 14 items)</summary>
 
 - `ct_alta_crafting_station7`
 - `ct_food_mimic`
@@ -75,6 +77,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIsoslimeSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

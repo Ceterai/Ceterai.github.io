@@ -1,6 +1,7 @@
 # EDS Rocket Aimbot
 
-Attacks nearby enemies with self-correcting rockets every 4 seconds.
+Attacks nearby enemies with self-correcting rockets every 4 seconds.  
+Alta: 
 
 Applied by following items:
 

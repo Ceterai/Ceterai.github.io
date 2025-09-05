@@ -8,9 +8,11 @@ A standard protocol power module of an [alta](https://ceterai.github.io/MyEntern
 
 - Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" height="16px" width="auto" /> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" height="16px" width="auto" /> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics)
 
-## Crafting
+## Usage
 
-Used to craft:
+### Crafting
+
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Android Defensystem ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidDefensystem)
 
@@ -42,6 +44,8 @@ Drops from defeated creatures:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" height="16px" width="auto" /> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

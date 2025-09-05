@@ -19,16 +19,22 @@ This sapling comes with enhanced mutations that allow much faster ripening.
 
 </details>
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/pod/icon.png" alt="Tsay Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Tsay Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/TsayEcoPod)
+
+## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/fertile/icon.png" alt="Fertile Tsay Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Fertile Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileTsaySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/mixed/icon.png" alt="Mixed Tsay Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Mixed Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedTsaySapling)
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/pod/icon.png" alt="Tsay Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Tsay Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/TsayEcoPod)
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

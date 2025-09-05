@@ -1,6 +1,7 @@
 # Mind Field
 
-Repeatedly damages enemies around you with [Ions](https://ceterai.github.io/MyEnternia/Wiki/Ions), slowing them down. Damage is dependant on your max energy.
+Repeatedly damages enemies around you with [Ions](https://ceterai.github.io/MyEnternia/Wiki/Ions), slowing them down. Damage is dependant on your max energy.  
+Alta: 
 
 Applied by following items:
 

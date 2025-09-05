@@ -14,19 +14,15 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Wild Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraEyeSprout)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sapling/icon.png" alt="Yaara Eye Sapling icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSapling)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Yaavi Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaviSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/cultivated/icon.png" alt="Cultivated Yaara Eye Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedYaaraEyeSapling)
@@ -35,6 +31,12 @@ Used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/pod/icon.png" alt="Yaavi Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Yaavi Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaviEcoPod)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Wild Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraEyeSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye)
 
 Can be bought in shops:
 
@@ -56,6 +58,8 @@ Can be bought from merchants:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/pod/icon.png" alt="Yaavi Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Yaavi Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaviEcoPod)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

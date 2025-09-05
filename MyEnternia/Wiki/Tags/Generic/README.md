@@ -1,10 +1,10 @@
 # Generic Tag
 
-The tag `generic` contains 108 total entries.
+The tag `generic` contains 109 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 96 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 97 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" height="16px" width="auto" /> [Alternia Crystal](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)
@@ -57,6 +57,7 @@ The tag `generic` contains 108 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Young Thorns icon" loading="lazy" height="16px" width="auto" /> [Nivera Young Thorns](https://ceterai.github.io/MyEnternia/Wiki/NiveraYoungThorns)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_geyser/icon.png" alt="Nivera-Overgrown Geyser icon" loading="lazy" height="16px" width="auto" /> [Nivera-Overgrown Geyser](https://ceterai.github.io/MyEnternia/Wiki/Nivera-OvergrownGeyser)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling1/icon.png" alt="Overgrown Ayaka Sap Blob icon" loading="lazy" height="16px" width="auto" /> [Overgrown Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/OvergrownAyakaSapBlob)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_formation/icon.png" alt="Phospholion Formation icon" loading="lazy" height="16px" width="auto" /> [Phospholion Formation](https://ceterai.github.io/MyEnternia/Wiki/PhospholionFormation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/prism_wing/icon.png" alt="Prism Wing icon" loading="lazy" height="16px" width="auto" /> [Prism Wing](https://ceterai.github.io/MyEnternia/Wiki/PrismWing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal4/icon.png" alt="Shady Bishyn Crystal icon" loading="lazy" height="16px" width="auto" /> [Shady Bishyn Crystal](https://ceterai.github.io/MyEnternia/Wiki/ShadyBishynCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal2/icon.png" alt="Shaky Bishyn Crystal icon" loading="lazy" height="16px" width="auto" /> [Shaky Bishyn Crystal](https://ceterai.github.io/MyEnternia/Wiki/ShakyBishynCrystal)

@@ -1,10 +1,10 @@
 # Legendary Tag
 
-The tag `legendary` contains 593 total entries.
+The tag `legendary` contains 589 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 183 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 179 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/garden/icon.png" alt="A-Prime Gardens Microformer ★ icon" loading="lazy" height="16px" width="auto" /> [A-Prime Gardens Microformer ★](https://ceterai.github.io/MyEnternia/Wiki/A-PrimeGardensMicroformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
@@ -26,12 +26,9 @@ The tag `legendary` contains 593 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/resque_station/icon.png" alt="Alta Resque Station icon" loading="lazy" height="16px" width="auto" /> [Alta Resque Station](https://ceterai.github.io/MyEnternia/Wiki/AltaResqueStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/robocrafter/icon.png" alt="Alta Robocrafter icon" loading="lazy" height="16px" width="auto" /> [Alta Robocrafter](https://ceterai.github.io/MyEnternia/Wiki/AltaRobocrafter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" height="16px" width="auto" /> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/captains_chair/icon.png" alt="Alta Ship Captain's Chair icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Captain's Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaShipCaptain'sChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/ship/icon.png" alt="Alta Ship Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/fuel_hatch/icon.png" alt="Alta Ship FTL Fuel Hatch icon" loading="lazy" height="16px" width="auto" /> [Alta Ship FTL Fuel Hatch](https://ceterai.github.io/MyEnternia/Wiki/AltaShipFTLFuelHatch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Locker](https://ceterai.github.io/MyEnternia/Wiki/AltaShipLocker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Alta Ship S.A.I.L icon" loading="lazy" height="16px" width="auto" /> [Alta Ship S.A.I.L](https://ceterai.github.io/MyEnternia/Wiki/AltaShipS.A.I.L)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/teleporter/icon.png" alt="Alta Ship Teleporter icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTeleporter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTerminal)
@@ -92,7 +89,6 @@ The tag `legendary` contains 593 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crippit.png" alt="Crippit Figurine icon" loading="lazy" height="16px" width="auto" /> [Crippit Figurine](https://ceterai.github.io/MyEnternia/Wiki/CrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_crystal_poptop.png" alt="Crystal Poptop Figurine ★ icon" loading="lazy" height="16px" width="auto" /> [Crystal Poptop Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalPoptopFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crystalline_crippit.png" alt="Crystalline Crippit Figurine icon" loading="lazy" height="16px" width="auto" /> [Crystalline Crippit Figurine](https://ceterai.github.io/MyEnternia/Wiki/CrystallineCrippitFigurine)
-- `ct_deprecation_station`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Diamond Bud icon" loading="lazy" height="16px" width="auto" /> [Diamond Bud](https://ceterai.github.io/MyEnternia/Wiki/DiamondBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/pod/icon.png" alt="Diamond Eco Pod ★★★★ icon" loading="lazy" height="16px" width="auto" /> [Diamond Eco Pod ★★★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/sapling/icon.png" alt="Diamond Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondSapling)
@@ -199,10 +195,11 @@ Following tenants require this colony tag:
 - [EDS Heavy Soldier](https://ceterai.github.io/MyEnternia/Wiki/EDSHeavySoldier)
 - [Faradea Legend](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend)
 - [Faradea Scavenger](https://ceterai.github.io/MyEnternia/Wiki/FaradeaScavenger)
+- [Yaarafinger](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger)
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 407 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 406 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/astera.png" alt="A Spacedrifter's Adventure icon" loading="lazy" height="16px" width="auto" /> [A Spacedrifter's Adventure](https://ceterai.github.io/MyEnternia/Wiki/ASpacedrifter'sAdventure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" height="16px" width="auto" /> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX)
@@ -238,7 +235,6 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon.png" alt="Alta Relocator icon" loading="lazy" height="16px" width="auto" /> [Alta Relocator](https://ceterai.github.io/MyEnternia/Wiki/AltaRelocator)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Alta Shake icon" loading="lazy" height="16px" width="auto" /> [Alta Shake](https://ceterai.github.io/MyEnternia/Wiki/AltaShake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_ship_ai_chip.png" alt="Alta Ship A.I. Chip ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Ship A.I. Chip ★](https://ceterai.github.io/MyEnternia/Wiki/AltaShipA.I.Chip)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/captains_chair/icon.png" alt="Alta Ship Captain's Chair icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Captain's Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaShipCaptain'sChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/fuel_hatch/icon.png" alt="Alta Ship FTL Fuel Hatch icon" loading="lazy" height="16px" width="auto" /> [Alta Ship FTL Fuel Hatch](https://ceterai.github.io/MyEnternia/Wiki/AltaShipFTLFuelHatch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Ships icon" loading="lazy" height="16px" width="auto" /> [Alta Ships](https://ceterai.github.io/MyEnternia/Wiki/AltaShips)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon.png" alt="Alta Slime Cleaner icon" loading="lazy" height="16px" width="auto" /> [Alta Slime Cleaner](https://ceterai.github.io/MyEnternia/Wiki/AltaSlimeCleaner)

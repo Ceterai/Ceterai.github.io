@@ -10,7 +10,26 @@ Species descriptions:
 
 - Alta: 
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height="16px" width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" height="16px" width="auto" /> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" height="16px" width="auto" /> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/pod/icon.png" alt="Tonna Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Tonna Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/TonnaEcoPod)
+
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 250s of grow time with a 30% chance to be consumed.
+
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
@@ -23,19 +42,6 @@ Species descriptions:
 
 </details>
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" height="16px" width="auto" /> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
-
-Used to craft:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" height="16px" width="auto" /> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" height="16px" width="auto" /> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/pod/icon.png" alt="Tonna Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Tonna Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/TonnaEcoPod)
-
-## Sources
-
 Can be bought in shops:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" height="16px" width="auto" /> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
@@ -46,6 +52,8 @@ Can be bought from merchants:
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Gyera Archiver](https://ceterai.github.io/MyEnternia/Wiki/GyeraArchiver)
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

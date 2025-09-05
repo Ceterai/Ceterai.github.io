@@ -33,9 +33,18 @@ Found naturally in containers:
 
 </details>
 
+Given as rent by tenants:
+
+- [Alta Bedtimer](https://ceterai.github.io/MyEnternia/Wiki/AltaBedtimer)
+- [Alta Festival Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaFestivalGirl)
+- [Alta Resort Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaResortGirl)
+- [Alta Swimmer](https://ceterai.github.io/MyEnternia/Wiki/AltaSwimmer)
+
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

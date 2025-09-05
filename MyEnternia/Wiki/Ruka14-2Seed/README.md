@@ -14,18 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Alta Terraponics ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Terraponics ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTerraponics)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/sapling/icon.png" alt="Ruka 14-2 Sapling icon" loading="lazy" height="16px" width="auto" /> [Ruka 14-2 Sapling](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Sapling)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/sapling/icon.png" alt="Ruka 14-2 Sapling icon" loading="lazy" height="16px" width="auto" /> [Ruka 14-2 Sapling](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Sapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
@@ -33,6 +31,10 @@ Used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/pod/icon.png" alt="Ruka Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Ruka Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/RukaEcoPod)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Alta Terraponics ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Terraponics ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTerraponics)
 
 Can be bought from merchants:
 
@@ -53,6 +55,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Wild Ruka Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Ruka Seed](https://ceterai.github.io/MyEnternia/Wiki/WildRukaSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -16,11 +16,9 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/tray/icon.png" alt="Alta Hydroponic Tray icon" loading="lazy" height="16px" width="auto" /> [Alta Hydroponic Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponicTray)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -28,7 +26,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/super/icon.png" alt="Alta Super Sprinkler icon" loading="lazy" height="16px" width="auto" /> [Alta Super Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaSuperSprinkler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_warped_grass_seeds.png" alt="Warped Grass Seeds icon" loading="lazy" height="16px" width="auto" /> [Warped Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/WarpedGrassSeeds)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/ship/icon.png" alt="Alta Ship Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/super/icon.png" alt="Alta Super Sprinkler icon" loading="lazy" height="16px" width="auto" /> [Alta Super Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaSuperSprinkler)
@@ -36,9 +34,15 @@ Used to craft:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/tray/icon.png" alt="Alta Hydroponic Tray icon" loading="lazy" height="16px" width="auto" /> [Alta Hydroponic Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponicTray)
+
 Can be bought from merchants:
 
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

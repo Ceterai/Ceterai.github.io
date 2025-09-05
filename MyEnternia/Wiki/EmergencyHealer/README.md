@@ -1,6 +1,7 @@
 # Emergency Healer
 
-Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support.png" alt="Emergency Heal icon" loading="lazy" height="16px" width="auto" /> [Emergency Heal](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHeal) to you when your health is lower than 20%.
+Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support.png" alt="Emergency Heal icon" loading="lazy" height="16px" width="auto" /> [Emergency Heal](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHeal) to you when your health is lower than 20%.  
+Alta: 
 
 <details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
 

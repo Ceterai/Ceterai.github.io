@@ -1,6 +1,7 @@
 # Energy Support System
 
-Constantly replenishes your energy by 1% each second.
+Constantly replenishes your energy by 1% each second.  
+Alta: 
 
 Applied by following items:
 

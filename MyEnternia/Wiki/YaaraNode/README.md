@@ -25,24 +25,26 @@ These [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) "trees" are 
 - Stem/Stipe: `ct_yaara_node_stem`
 - Foliage/Cap: `ct_yaara_leaves`
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" height="16px" width="auto" /> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" height="16px" width="auto" /> [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Crystal Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/CrystalYaaraNode)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Yaara Seed icon" loading="lazy" height="16px" width="auto" /> [Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/YaaraSeed)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Yaara Seed icon" loading="lazy" height="16px" width="auto" /> [Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/YaaraSeed)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" height="16px" width="auto" /> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" height="16px" width="auto" /> [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
 
 Found naturally in containers:
 
@@ -57,6 +59,8 @@ Can be bought from merchants:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -23,9 +23,11 @@ This ball of lightning got frozen. How is that even possible? ([Alta](https://ce
 
 - Health: 4
 
-## Crafting
+## Usage
 
-<details markdown="1"><summary>Used to craft: (Expand 11 items)</summary>
+### Crafting
+
+<details markdown="1"><summary>Can be used to craft: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" height="16px" width="auto" /> [Arknight's Shield](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Calin Shield icon" loading="lazy" height="16px" width="auto" /> [Calin Shield](https://ceterai.github.io/MyEnternia/Wiki/CalinShield)
@@ -57,6 +59,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy1/icon.png" alt="Frozen Energy Charge icon" loading="lazy" height="16px" width="auto" /> [Frozen Energy Charge](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyCharge)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy2/icon.png" alt="Frozen Energy Impulse icon" loading="lazy" height="16px" width="auto" /> [Frozen Energy Impulse](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyImpulse)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy3/icon.png" alt="Frozen Energy Spark icon" loading="lazy" height="16px" width="auto" /> [Frozen Energy Spark](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergySpark)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

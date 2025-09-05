@@ -22,14 +22,16 @@ A patch of tall grass. Be sure to check for critters!
 
 This object **doesn't drop itself** when broken.
 
-## Crafting
+## Usage
+
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" height="16px" width="auto" /> [Potted Koywa](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa_tall/icon.png" alt="Potted Koywa Bush icon" loading="lazy" height="16px" width="auto" /> [Potted Koywa Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywaBush)
 
-<details markdown="1"><summary>Used to craft: (Expand 11 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" height="16px" width="auto" /> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm)
@@ -44,6 +46,10 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/thin/icon.png" alt="Verriskoywa Thin Grass icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Thin Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaThinGrass)
 
 </details>
+
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 25s of grow time with a 85% chance to be consumed.
 
 ## Sources
 
@@ -80,6 +86,8 @@ Can be obtained from special items:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Wild Verriskoywa Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Verriskoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/WildVerriskoywaSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

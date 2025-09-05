@@ -11,9 +11,11 @@ Species descriptions:
 
 - Alta: There's so much energy in it, it's glowing with tiny, tingling sparks! What if I chip a tiny bit and use it as a pretty glowy pin?!
 
-## Crafting
+## Usage
 
-<details markdown="1"><summary>Used to craft: (Expand 57 items)</summary>
+### Crafting
+
+<details markdown="1"><summary>Can be used to craft: (Expand 57 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Guide ★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" height="16px" width="auto" /> [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter)
@@ -93,17 +95,10 @@ Drops from creatures defeated with any **bow**:
 - `ct_hevika_scab`
 - `ct_plasma_nibbler`
 
-<details markdown="1"><summary>Can be obtained from special items: (Expand 7 items)</summary>
+Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
-
-</details>
 
 Drops from destroyed obstacles:
 
@@ -114,6 +109,8 @@ Can be harvested from:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/pod/icon.png" alt="Alternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Alternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/sapling/icon.png" alt="Alternia Sapling icon" loading="lazy" height="16px" width="auto" /> [Alternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/icon.png" alt="Alternia Seed icon" loading="lazy" height="16px" width="auto" /> [Alternia Seed](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSeed)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

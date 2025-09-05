@@ -10,7 +10,50 @@ Species descriptions:
 
 - Alta: 
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+
+<details markdown="1"><summary>Can be used to craft: (Expand 26 items)</summary>
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/sapling/icon.png" alt="Cocola Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Cocola Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/CocolaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/sapling/icon.png" alt="Diamond Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/eco/icon.png" alt="Eco Aya Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/eco/icon.png" alt="Eco Azura Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Azura Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoAzuraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ela Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoElaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/eco/icon.png" alt="Eco Evara Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Evara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoEvaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/eco/icon.png" alt="Eco Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/eco/icon.png" alt="Eco Hive Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/eco/icon.png" alt="Eco Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVerriskoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/eco/icon.png" alt="Eco Yaara Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Yaara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" height="16px" width="auto" /> [Faacain Sapling](https://ceterai.github.io/MyEnternia/Wiki/FaacainSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" height="16px" width="auto" /> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/pink/icon.png" alt="Potted Pink Flower icon" loading="lazy" height="16px" width="auto" /> [Potted Pink Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedPinkFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" height="16px" width="auto" /> [Vionora](https://ceterai.github.io/MyEnternia/Wiki/Vionora)
+
+</details>
+
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 150s of grow time with a 60% chance to be consumed.
+
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 32 items)</summary>
 
@@ -49,43 +92,6 @@ Species descriptions:
 
 </details>
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-
-<details markdown="1"><summary>Used to craft: (Expand 26 items)</summary>
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/sapling/icon.png" alt="Cocola Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Cocola Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/CocolaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/sapling/icon.png" alt="Diamond Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/eco/icon.png" alt="Eco Aya Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoAyaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/eco/icon.png" alt="Eco Azura Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Azura Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoAzuraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ela Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoElaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/eco/icon.png" alt="Eco Evara Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Evara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoEvaraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/eco/icon.png" alt="Eco Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGilSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/eco/icon.png" alt="Eco Hive Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHiveSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/eco/icon.png" alt="Eco Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTsaySapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/eco/icon.png" alt="Eco Verriskoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVerriskoywaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/eco/icon.png" alt="Eco Vodakoywa Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVodakoywaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/eco/icon.png" alt="Eco Yaara Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Yaara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" height="16px" width="auto" /> [Faacain Sapling](https://ceterai.github.io/MyEnternia/Wiki/FaacainSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" height="16px" width="auto" /> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/pink/icon.png" alt="Potted Pink Flower icon" loading="lazy" height="16px" width="auto" /> [Potted Pink Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedPinkFlower)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" height="16px" width="auto" /> [Vionora](https://ceterai.github.io/MyEnternia/Wiki/Vionora)
-
-</details>
-
-## Sources
-
 Can be bought in shops:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
@@ -99,6 +105,8 @@ Can be bought from merchants:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

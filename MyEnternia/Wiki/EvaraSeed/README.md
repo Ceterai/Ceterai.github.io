@@ -14,21 +14,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/pod/icon.png" alt="Evara Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Evara Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EvaraEcoPod)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/sapling/icon.png" alt="Evara Sapling icon" loading="lazy" height="16px" width="auto" /> [Evara Sapling](https://ceterai.github.io/MyEnternia/Wiki/EvaraSapling)
 
-<details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height="16px" width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
@@ -44,6 +39,13 @@ Unlocks blueprints for:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/pod/icon.png" alt="Evara Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Evara Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EvaraEcoPod)
+
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Wild Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/WildEvaraSeed)
@@ -58,6 +60,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Wild Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/WildEvaraSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

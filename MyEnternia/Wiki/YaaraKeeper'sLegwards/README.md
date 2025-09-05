@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Legwards ★ icon" loading="lazy" height="16px" width="auto" /> **Yaara Keeper's Legwards ★** is an uncommon leg item.
 
 A plant-based piece of armor fused with very sturdy materials, decorated with [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) leaves, petals and crystals.  
-Mainly used by [yaara keeper](https://ceterai.github.io/MyEnternia/Wiki/Tags/YaaraKeeper) hunters and protectors, it's looks are meant to defend, scare and disguise.
+Mainly used by [yaara keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper) hunters and protectors, it's looks are meant to defend, scare and disguise.
 
 ## Ingame
 
@@ -25,6 +25,8 @@ Can be bought from merchants:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+
+Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).
 
 ## Technical Information
 

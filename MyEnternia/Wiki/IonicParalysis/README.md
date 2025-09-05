@@ -1,6 +1,7 @@
 # Ionic Paralysis
 
-Stuns you for 2.75 seconds. Adds [EMI Jam](https://ceterai.github.io/MyEnternia/Wiki/EMIJam) if you don't have [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).
+Stuns you for 2.75 seconds. Adds [EMI Jam](https://ceterai.github.io/MyEnternia/Wiki/EMIJam) if you don't have [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).  
+Alta: 
 
 ## Parameters
 

@@ -4,23 +4,25 @@
 
 A simple tool to till soil. Not very accurate. The tilled soil can then be used to grow all sorts of crops!
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/bucket/icon.png" alt="Alta Bucket icon" loading="lazy" height="16px" width="auto" /> [Alta Bucket](https://ceterai.github.io/MyEnternia/Wiki/AltaBucket)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" height="16px" width="auto" /> [Alta Farmer's Notes](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmer'sNotes)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/watering_can/icon.png" alt="Alta Watering Can icon" loading="lazy" height="16px" width="auto" /> [Alta Watering Can](https://ceterai.github.io/MyEnternia/Wiki/AltaWateringCan)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon.png" alt="Alta Tiller icon" loading="lazy" height="16px" width="auto" /> [Alta Tiller](https://ceterai.github.io/MyEnternia/Wiki/AltaTiller)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/bucket/icon.png" alt="Alta Bucket icon" loading="lazy" height="16px" width="auto" /> [Alta Bucket](https://ceterai.github.io/MyEnternia/Wiki/AltaBucket)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" height="16px" width="auto" /> [Alta Farmer's Notes](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmer'sNotes)
 
 Can be bought in shops:
 
@@ -33,6 +35,8 @@ Can be bought from merchants:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

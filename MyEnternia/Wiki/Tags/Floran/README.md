@@ -1,6 +1,6 @@
 # Floran Tag
 
-The tag `floran` contains 15 total entries.
+The tag `floran` contains 18 total entries.
 
 ## Objects
 
@@ -21,7 +21,10 @@ The tag `floran` contains 15 total entries.
 
 Following tenants require this colony tag:
 
-- [ct_yaara_keeper_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-yaara-keeper-tenant)
+- [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
+- [Yaara Shaman](https://ceterai.github.io/MyEnternia/Wiki/YaaraShaman)
+- [Yaara Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraSprout)
+- [Yaarafinger](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger)
 
 ## Items
 

@@ -11,14 +11,16 @@ Species descriptions:
 
 - Alta: A piece of yaarut. Wouldn't want to leave it out like this, without proper life supporting conditions.
 
-## Crafting
+## Usage
+
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" height="16px" width="auto" /> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
 
-<details markdown="1"><summary>Used to craft: (Expand 58 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 58 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/spicer/icon.png" alt="Alta Spicer icon" loading="lazy" height="16px" width="auto" /> [Alta Spicer](https://ceterai.github.io/MyEnternia/Wiki/AltaSpicer)
@@ -81,6 +83,14 @@ Unlocks blueprints for:
 
 </details>
 
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 60s of grow time with a 85% chance to be consumed.
+
+### Transmutation
+
+Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222211661/F2DB74CC80818EEC103355BF1D4CDE7F13DC310C/" alt="Tier 2 Farm icon" width="14.5" height="8.125"/> [Tier 2 Farm Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
+
 ## Sources
 
 Found naturally in containers:
@@ -91,6 +101,17 @@ Found naturally in containers:
 Can be bought from merchants:
 
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
+
+<details markdown="1"><summary>Given as rent by tenants: (Expand 6 items)</summary>
+
+- [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
+- [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
+- [Yaara Shaman](https://ceterai.github.io/MyEnternia/Wiki/YaaraShaman)
+- [Yaara Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraSprout)
+- [Yaarafinger](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger)
+- [Yaaraling](https://ceterai.github.io/MyEnternia/Wiki/Yaaraling)
+
+</details>
 
 Drops from creatures defeated with any **bow**:
 
@@ -129,6 +150,8 @@ Drops from big plants:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Yaara Seed icon" loading="lazy" height="16px" width="auto" /> [Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/YaaraSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

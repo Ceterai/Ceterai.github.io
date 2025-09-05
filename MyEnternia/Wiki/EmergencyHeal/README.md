@@ -1,6 +1,7 @@
 # Emergency Heal
 
-Heals you up almost immediately.
+Heals you up almost immediately.  
+Alta: 
 
 ## Parameters
 

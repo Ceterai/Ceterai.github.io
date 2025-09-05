@@ -1,6 +1,6 @@
 # Commerce Tag
 
-The tag `commerce` contains 42 total entries.
+The tag `commerce` contains 43 total entries.
 
 ## Objects
 
@@ -29,7 +29,7 @@ The tag `commerce` contains 42 total entries.
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 24 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 25 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
@@ -42,6 +42,7 @@ The tag `commerce` contains 42 total entries.
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
+- [Arigaran Merchant](https://ceterai.github.io/MyEnternia/Wiki/ArigaranMerchant)
 - [Cal Merchant](https://ceterai.github.io/MyEnternia/Wiki/CalMerchant)
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)

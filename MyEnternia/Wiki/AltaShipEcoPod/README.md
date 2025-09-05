@@ -25,18 +25,16 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 - Slot Count: 1  
 - Health: 4.0
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Thermoponics ★★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics)
 
-<details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
@@ -48,6 +46,14 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
 
 </details>
+
+## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

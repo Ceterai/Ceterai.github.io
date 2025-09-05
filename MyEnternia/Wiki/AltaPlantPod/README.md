@@ -25,11 +25,9 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 - Slot Count: 1  
 - Health: 1.5
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" height="16px" width="auto" /> [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -38,7 +36,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/coral/icon.png" alt="Potted Coral Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Coral Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedCoralPlant)
 
-<details markdown="1"><summary>Used to craft: (Expand 8 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alien/icon.png" alt="Potted Alien Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Alien Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAlienPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
@@ -50,6 +48,14 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
 
 </details>
+
+## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" height="16px" width="auto" /> [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

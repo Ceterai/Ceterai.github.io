@@ -21,7 +21,9 @@ Species descriptions:
 
 - Effect: <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (20%)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 300
 
-## Crafting
+## Usage
+
+### Crafting
 
 Unlocks blueprints for:
 
@@ -39,6 +41,8 @@ Can be bought from merchants:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Punch Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPunchServing)
+
+Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).
 
 ## Technical Information
 

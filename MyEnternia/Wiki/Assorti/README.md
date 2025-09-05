@@ -23,7 +23,22 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" height="16px" width="auto" /> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad)
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" height="16px" width="auto" /> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height="16px" width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height="16px" width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" height="16px" width="auto" /> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height="16px" width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
+
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 12 items)</summary>
 
@@ -42,33 +57,24 @@ Other variants:
 
 </details>
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" height="16px" width="auto" /> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height="16px" width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height="16px" width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
-
-Used to craft:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" height="16px" width="auto" /> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height="16px" width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
-
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 10 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 14 items)</summary>
 
 - [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)
+- [Alta Bedtimer](https://ceterai.github.io/MyEnternia/Wiki/AltaBedtimer)
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
 - [Alta Executive](https://ceterai.github.io/MyEnternia/Wiki/AltaExecutive)
+- [Alta Festival Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaFestivalGirl)
 - [Alta Official](https://ceterai.github.io/MyEnternia/Wiki/AltaOfficial)
 - [Alta Princess](https://ceterai.github.io/MyEnternia/Wiki/AltaPrincess)
 - [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
+- [Alta Resort Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaResortGirl)
 - [Alta Security Commander](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCommander)
 - [Alta Security Officer](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityOfficer)
+- [Alta Swimmer](https://ceterai.github.io/MyEnternia/Wiki/AltaSwimmer)
 - [EDS Commander](https://ceterai.github.io/MyEnternia/Wiki/EDSCommander)
 - [EDS Officer](https://ceterai.github.io/MyEnternia/Wiki/EDSOfficer)
 
@@ -77,6 +83,8 @@ Can be bought from merchants:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/salad/icon.png" alt="Alta Salad Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Salad Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaSaladServing)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

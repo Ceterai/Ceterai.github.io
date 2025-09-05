@@ -1,6 +1,7 @@
 # 1/4 Falldamage
 
-Decreases fall damage by 75%.
+Decreases fall damage by 75%.  
+Alta: 
 
 <details markdown="1"><summary>Applied by following items: (Expand 8 items)</summary>
 

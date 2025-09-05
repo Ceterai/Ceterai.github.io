@@ -1,6 +1,7 @@
 # Plasma Bursts
 
-Periodically burst with [pure plasma](https://ceterai.github.io/MyEnternia/Wiki/pureplasma).
+Periodically burst with [pure plasma](https://ceterai.github.io/MyEnternia/Wiki/pureplasma).  
+Alta: 
 
 ## Parameters
 

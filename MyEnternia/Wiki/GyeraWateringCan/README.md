@@ -10,17 +10,19 @@ Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/
 
 - Cooldown: 1.0s
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
+### Crafting
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" height="16px" width="auto" /> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
-
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height="16px" width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" height="16px" width="auto" /> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
 
 Found naturally in containers:
 
@@ -39,6 +41,8 @@ Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height="16px" width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

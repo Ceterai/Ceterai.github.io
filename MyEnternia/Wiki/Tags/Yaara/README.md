@@ -1,6 +1,6 @@
 # Yaara Tag
 
-The tag `yaara` contains 73 total entries.
+The tag `yaara` contains 77 total entries.
 
 ## Objects
 
@@ -49,11 +49,17 @@ The tag `yaara` contains 73 total entries.
 
 ## Tenants
 
-Following tenants require this colony tag:
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 7 items)</summary>
 
-- [ct_yaara_keeper_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-yaara-keeper-tenant)
 - [Elin Guard](https://ceterai.github.io/MyEnternia/Wiki/ElinGuard)
+- [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
+- [Yaara Shaman](https://ceterai.github.io/MyEnternia/Wiki/YaaraShaman)
+- [Yaara Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraSprout)
+- [Yaarafinger](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger)
+- [Yaaraling](https://ceterai.github.io/MyEnternia/Wiki/Yaaraling)
+
+</details>
 
 ## Items
 

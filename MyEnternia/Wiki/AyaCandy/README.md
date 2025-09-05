@@ -23,7 +23,7 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Pop ★ icon" loading="lazy" height="16px" width="auto" /> [Aya Pop ★](https://ceterai.github.io/MyEnternia/Wiki/AyaPop)
 
-## Crafting
+## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
@@ -36,8 +36,6 @@ Other variants:
 
 </details>
 
-## Sources
-
 Can be bought in shops:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" height="16px" width="auto" /> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
@@ -47,7 +45,7 @@ Can be bought from merchants:
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 9 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 8 items)</summary>
 
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)
 - [Alta Gamer](https://ceterai.github.io/MyEnternia/Wiki/AltaGamer)
@@ -56,10 +54,11 @@ Can be bought from merchants:
 - [Alta Koywa Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaKoywaDancer)
 - [Alta Neon Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonDancer)
 - [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
-- [Alta Resort Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaResortGirl)
 - [Alta Vibrant Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaVibrantDancer)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

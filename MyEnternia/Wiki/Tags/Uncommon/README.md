@@ -1,10 +1,10 @@
 # Uncommon Tag
 
-The tag `uncommon` contains 679 total entries.
+The tag `uncommon` contains 677 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 272 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 270 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" height="16px" width="auto" /> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" height="16px" width="auto" /> [Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom)
@@ -13,8 +13,6 @@ The tag `uncommon` contains 679 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" height="16px" width="auto" /> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" height="16px" width="auto" /> [Alta Conserver](https://ceterai.github.io/MyEnternia/Wiki/AltaConserver)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png" alt="Alta Constructor icon" loading="lazy" height="16px" width="auto" /> [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png" alt="Alta Crafting Station icon" loading="lazy" height="16px" width="auto" /> [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png" alt="Alta Dendrarium icon" loading="lazy" height="16px" width="auto" /> [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/dessert/icon.png" alt="Alta Dessert Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Dessert Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaDessertServing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" height="16px" width="auto" /> [Alta Drone Station](https://ceterai.github.io/MyEnternia/Wiki/AltaDroneStation)
@@ -33,7 +31,6 @@ The tag `uncommon` contains 679 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/bed/icon.png" alt="Alta Lab Bed icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Bookcase icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Bookcase](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBookcase)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Capsule](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/chair/icon.png" alt="Alta Lab Chair icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaLabChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/console/icon.png" alt="Alta Lab Console icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Console](https://ceterai.github.io/MyEnternia/Wiki/AltaLabConsole)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Datablock icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Datablock](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDatablock)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Desk icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Desk](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDesk)
@@ -63,6 +60,7 @@ The tag `uncommon` contains 679 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" height="16px" width="auto" /> [Alta Milker](https://ceterai.github.io/MyEnternia/Wiki/AltaMilker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Bed icon" loading="lazy" height="16px" width="auto" /> [Alta Scout Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Chair icon" loading="lazy" height="16px" width="auto" /> [Alta Scout Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutChair)

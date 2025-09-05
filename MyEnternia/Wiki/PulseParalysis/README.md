@@ -1,6 +1,7 @@
 # Pulse Paralysis
 
-Stuns you for 1.15 seconds. Having [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) or [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity) blocks the effect.
+Stuns you for 1.15 seconds. Having [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) or [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity) blocks the effect.  
+Alta: 
 
 ## Parameters
 

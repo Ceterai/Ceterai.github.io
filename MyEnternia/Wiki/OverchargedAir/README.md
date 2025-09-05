@@ -1,7 +1,8 @@
 # Overcharged Air
 
 Quickly degrades your energy. Once out of energy, damages you repeatedly with [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) strikes.  
-Having [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes negative effects, while [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity) blocks the effect completely.
+Having [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes negative effects, while [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity) blocks the effect completely.  
+Alta: 
 
 ## Parameters
 

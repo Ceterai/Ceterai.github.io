@@ -23,15 +23,9 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Caretaker's Ometonna ★ icon" loading="lazy" height="16px" width="auto" /> [Caretaker's Ometonna ★](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sOmetonna)
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height="16px" width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" height="16px" width="auto" /> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" height="16px" width="auto" /> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada Split icon" loading="lazy" height="16px" width="auto" /> [Tonnakada Split](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaSplit)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Virmakada icon" loading="lazy" height="16px" width="auto" /> [Virmakada](https://ceterai.github.io/MyEnternia/Wiki/Virmakada)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -40,6 +34,14 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" height="16px" width="auto" /> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" height="16px" width="auto" /> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" height="16px" width="auto" /> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" height="16px" width="auto" /> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada Split icon" loading="lazy" height="16px" width="auto" /> [Tonnakada Split](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaSplit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Virmakada icon" loading="lazy" height="16px" width="auto" /> [Virmakada](https://ceterai.github.io/MyEnternia/Wiki/Virmakada)
 
 Can be bought from merchants:
 
@@ -51,6 +53,8 @@ Given as rent by tenants:
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

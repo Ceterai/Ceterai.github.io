@@ -11,9 +11,11 @@ Species descriptions:
 
 - Alta: An unstable material with a lengthy name. Why are we using it again?
 
-## Crafting
+## Usage
 
-<details markdown="1"><summary>Used to craft: (Expand 21 items)</summary>
+### Crafting
+
+<details markdown="1"><summary>Can be used to craft: (Expand 21 items)</summary>
 
 - `greydye`
 - <img src="https://starbounder.org/mediawiki/images/3/35/Hive_Bed.png" alt="Hive Bed icon" loading="lazy" height="5.5px" width="18.5px" /> [Hive Bed](https://starbounder.org/Hive_Bed)
@@ -38,6 +40,10 @@ Species descriptions:
 - <img src="https://starbounder.org/mediawiki/images/6/6f/Tungsten_Ore.png" alt="Tungsten Ore icon" loading="lazy" height="9px" width="10px" /> [Tungsten Ore](https://starbounder.org/Tungsten_Ore)
 
 </details>
+
+### Transmutation
+
+Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222215988/C71087FFAD0A5FB9FE3532EC34F3A2D2D37DD7B7/" alt="Tier 2 Mine icon" width="14.5" height="8.125"/> [Tier 2 Mine Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
 
 ## Sources
 
@@ -73,6 +79,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit3/icon.png" alt="Sharp Phospholion Deposit icon" loading="lazy" height="16px" width="auto" /> [Sharp Phospholion Deposit](https://ceterai.github.io/MyEnternia/Wiki/SharpPhospholionDeposit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit2/icon.png" alt="Shiny Phospholion Deposit icon" loading="lazy" height="16px" width="auto" /> [Shiny Phospholion Deposit](https://ceterai.github.io/MyEnternia/Wiki/ShinyPhospholionDeposit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit1/icon.png" alt="Small Phospholion Deposit icon" loading="lazy" height="16px" width="auto" /> [Small Phospholion Deposit](https://ceterai.github.io/MyEnternia/Wiki/SmallPhospholionDeposit)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

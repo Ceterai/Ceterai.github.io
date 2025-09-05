@@ -23,9 +23,11 @@ A pyramid-like alterash structure.
 
 - Health: 60
 
-## Crafting
+## Usage
 
-<details markdown="1"><summary>Used to craft: (Expand 22 items)</summary>
+### Crafting
+
+<details markdown="1"><summary>Can be used to craft: (Expand 22 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/garden/icon.png" alt="A-Prime Gardens Microformer ★ icon" loading="lazy" height="16px" width="auto" /> [A-Prime Gardens Microformer ★](https://ceterai.github.io/MyEnternia/Wiki/A-PrimeGardensMicroformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/garden/icon.png" alt="Alterash Gardens Microformer icon" loading="lazy" height="16px" width="auto" /> [Alterash Gardens Microformer](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardensMicroformer)
@@ -58,6 +60,8 @@ Can be bought from merchants:
 
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaMiner)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

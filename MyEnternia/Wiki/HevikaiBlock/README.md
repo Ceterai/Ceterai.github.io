@@ -1,6 +1,7 @@
 # Hevikai Block
 
-Prevents or cures existing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" height="16px" width="auto" /> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai).
+Prevents or cures existing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" height="16px" width="auto" /> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai).  
+Alta: 
 
 Applied by following items:
 

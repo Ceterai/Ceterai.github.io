@@ -1,6 +1,6 @@
 # Light Tag
 
-The tag `light` contains 205 total entries.
+The tag `light` contains 211 total entries.
 
 ## Objects
 
@@ -46,7 +46,7 @@ The tag `light` contains 205 total entries.
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 154 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 160 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -59,7 +59,6 @@ The tag `light` contains 205 total entries.
 - [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)
 - [Alta Archaeologist](https://ceterai.github.io/MyEnternia/Wiki/AltaArchaeologist)
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
-- [Alta Aricologist](https://ceterai.github.io/MyEnternia/Wiki/AltaAricologist)
 - [Alta Army Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaArmyCaptain)
 - [Alta Artist](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist)
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
@@ -145,6 +144,9 @@ The tag `light` contains 205 total entries.
 - [Alta Vibrant Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaVibrantDancer)
 - [Alta Violium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaVioliumProtecta)
 - [Alta Volcanologist](https://ceterai.github.io/MyEnternia/Wiki/AltaVolcanologist)
+- [Aric Ghost](https://ceterai.github.io/MyEnternia/Wiki/AricGhost)
+- [Arigaran](https://ceterai.github.io/MyEnternia/Wiki/Arigaran)
+- [Arigaran Merchant](https://ceterai.github.io/MyEnternia/Wiki/ArigaranMerchant)
 - [Arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight)
 - [C.T. Android](https://ceterai.github.io/MyEnternia/Wiki/C.T.Android)
 - [Cal Merchant](https://ceterai.github.io/MyEnternia/Wiki/CalMerchant)
@@ -154,8 +156,6 @@ The tag `light` contains 205 total entries.
 - [Citadel Guard](https://ceterai.github.io/MyEnternia/Wiki/CitadelGuard)
 - [Combat Android](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
 - [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
-- [ct_viona_creature_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-viona-creature-tenant)
-- [ct_yaara_keeper_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-yaara-keeper-tenant)
 - [Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer)
 - [Dreamer Android](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
 - [EDS Android](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
@@ -199,9 +199,15 @@ The tag `light` contains 205 total entries.
 - [Thermounit](https://ceterai.github.io/MyEnternia/Wiki/Thermounit)
 - [Tserera Archiver](https://ceterai.github.io/MyEnternia/Wiki/TsereraArchiver)
 - [Tserera Researcher](https://ceterai.github.io/MyEnternia/Wiki/TsereraResearcher)
+- [Viona Creature](https://ceterai.github.io/MyEnternia/Wiki/VionaCreature)
 - [Viona Merchant](https://ceterai.github.io/MyEnternia/Wiki/VionaMerchant)
 - [Warped Merchant](https://ceterai.github.io/MyEnternia/Wiki/WarpedMerchant)
+- [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
+- [Yaara Shaman](https://ceterai.github.io/MyEnternia/Wiki/YaaraShaman)
+- [Yaara Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraSprout)
+- [Yaarafinger](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger)
+- [Yaaraling](https://ceterai.github.io/MyEnternia/Wiki/Yaaraling)
 
 </details>
 

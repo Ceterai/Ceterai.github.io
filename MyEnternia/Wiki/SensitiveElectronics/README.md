@@ -1,6 +1,7 @@
 # Sensitive Electronics
 
-If your health is lower than 50%, repeatedly damages enemies around you with electricity. The lower your health is, the more frequent the strikes are.
+If your health is lower than 50%, repeatedly damages enemies around you with electricity. The lower your health is, the more frequent the strikes are.  
+Alta: 
 
 Applied by following items:
 

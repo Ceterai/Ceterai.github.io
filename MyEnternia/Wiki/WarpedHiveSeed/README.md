@@ -23,19 +23,16 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ela Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoElaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/pod/icon.png" alt="Warped Hive Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Warped Hive Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveEcoPod)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/sapling/icon.png" alt="Warped Hive Sapling icon" loading="lazy" height="16px" width="auto" /> [Warped Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSapling)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/eco/icon.png" alt="Eco Warped Hive Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Warped Hive Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoWarpedHiveSapling)
@@ -45,11 +42,20 @@ Used to craft:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ela Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoElaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/pod/icon.png" alt="Warped Hive Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Warped Hive Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveEcoPod)
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
 
 Can be bought from merchants:
+
+- [Warped Merchant](https://ceterai.github.io/MyEnternia/Wiki/WarpedMerchant)
+
+Given as rent by tenants:
 
 - [Warped Merchant](https://ceterai.github.io/MyEnternia/Wiki/WarpedMerchant)
 
@@ -73,6 +79,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Wild Warped Hive Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WildWarpedHiveSeed)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

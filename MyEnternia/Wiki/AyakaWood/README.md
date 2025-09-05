@@ -12,11 +12,9 @@ Species descriptions:
 
 - Alta: Ordinary refined ayakut straight from a healthy ayaka. Can be used for practically anything. I should probably do something with it.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -24,7 +22,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
 - `paper`
 
-<details markdown="1"><summary>Used to craft: (Expand 111 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 111 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" height="16px" width="auto" /> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" height="16px" width="auto" /> [Alien Mounds](https://ceterai.github.io/MyEnternia/Wiki/AlienMounds)
@@ -140,15 +138,26 @@ Unlocks blueprints for:
 
 </details>
 
+### Transmutation
+
+Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222210874/D1234F8997CB79002D71C6D025A022E401BD3979/" alt="Tier 1 Farm icon" width="14.5" height="8.125"/> [Tier 1 Farm Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
+
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood)
 
 Found naturally in containers:
 
 - <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" height="12px" width="30px" /> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 
 <details markdown="1"><summary>Drops from big plants: (Expand 13 items)</summary>
 
@@ -171,6 +180,8 @@ Can be obtained from special items:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling1/icon.png" alt="Overgrown Ayaka Sap Blob icon" loading="lazy" height="16px" width="auto" /> [Overgrown Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/OvergrownAyakaSapBlob)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

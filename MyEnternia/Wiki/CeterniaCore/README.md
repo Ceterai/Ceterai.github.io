@@ -11,9 +11,11 @@ Species descriptions:
 
 - Alta: If I put my hand in it, it almost feels like someone is holding it. Not just touching, but holding, with intent, as if this is someone alive.
 
-## Crafting
+## Usage
 
-<details markdown="1"><summary>Used to craft: (Expand 59 items)</summary>
+### Crafting
+
+<details markdown="1"><summary>Can be used to craft: (Expand 59 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" height="16px" width="auto" /> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
@@ -77,6 +79,14 @@ Species descriptions:
 
 </details>
 
+### Growing Trays
+
+Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc/1693903078379188066/4E09EDBE233D5AA8FE9EA0EC1256E95CA3D446FF/" alt="icon" width="16" height="12"/> [Growing Trays](https://steamcommunity.com/sharedfiles/filedetails/?id=2574257768) (if you have them installed) skipping 90s of grow time with a 75% chance to be consumed.
+
+### Transmutation
+
+Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222216799/FF132D0FC25994AD27D326FD547710F2464F8116/" alt="Tier 3 Mine icon" width="14.5" height="8.125"/> [Tier 3 Mine Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
+
 ## Sources
 
 Found naturally in containers:
@@ -95,17 +105,10 @@ Drops from creatures defeated with any **bow**:
 - `ct_impulse_crawler`
 - `ct_miazmur`
 
-<details markdown="1"><summary>Can be obtained from special items: (Expand 7 items)</summary>
+Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
-
-</details>
 
 Drops from destroyed obstacles:
 
@@ -116,6 +119,8 @@ Can be harvested from:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/pod/icon.png" alt="Ceternia Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Ceternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/sapling/icon.png" alt="Ceternia Sapling icon" loading="lazy" height="16px" width="auto" /> [Ceternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/icon.png" alt="Ceternia Seed icon" loading="lazy" height="16px" width="auto" /> [Ceternia Seed](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSeed)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

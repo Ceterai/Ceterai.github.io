@@ -11,16 +11,11 @@ Species descriptions:
 
 - Alta: They can add fizzy freshness to almost any drink. And even some dishes. Come to think of it, the only think I'm missing is an ionfire cube, to counter that.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
+### Crafting
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" height="16px" width="auto" /> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" height="16px" width="auto" /> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izopoi Honey icon" loading="lazy" height="16px" width="auto" /> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
-
-<details markdown="1"><summary>Used to craft: (Expand 32 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" height="16px" width="auto" /> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - `automatoshake`
@@ -59,6 +54,13 @@ Blueprint unlocked by obtaining:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" height="16px" width="auto" /> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" height="16px" width="auto" /> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izopoi Honey icon" loading="lazy" height="16px" width="auto" /> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
+
 Found naturally in containers:
 
 - <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
@@ -71,6 +73,8 @@ Can be bought from merchants:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

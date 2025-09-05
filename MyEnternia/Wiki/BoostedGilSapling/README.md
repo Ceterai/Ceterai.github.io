@@ -19,16 +19,22 @@ This sapling comes with enhanced mutations that allow much faster ripening.
 
 </details>
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/pod/icon.png" alt="Gil Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Gil Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/GilEcoPod)
+
+## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/fertile/icon.png" alt="Fertile Gil Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Fertile Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileGilSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/pod/icon.png" alt="Gil Eco Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Gil Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/GilEcoPod)
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

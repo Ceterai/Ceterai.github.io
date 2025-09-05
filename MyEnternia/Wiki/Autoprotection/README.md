@@ -1,6 +1,7 @@
 # Autoprotection
 
-Temporary increases your defense by 4.
+Temporary increases your defense by 4.  
+Alta: 
 
 ## Parameters
 

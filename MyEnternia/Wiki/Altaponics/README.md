@@ -16,11 +16,9 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" height="16px" width="auto" /> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -29,7 +27,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_flowery_grass_seeds.png" alt="Flowery Grass Seeds icon" loading="lazy" height="16px" width="auto" /> [Flowery Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/FloweryGrassSeeds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" height="16px" width="auto" /> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
@@ -38,10 +36,16 @@ Used to craft:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" height="16px" width="auto" /> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer)
+
 Can be bought from merchants:
 
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

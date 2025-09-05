@@ -11,13 +11,9 @@ Species descriptions:
 
 - Alta: The color of altas! I've heard that this is also Ceterai's favourite color too...
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ceterteal.png" alt="Ceterteal Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ceterteal Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CetertealGlowstick)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -25,11 +21,17 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png" alt="Plasma Stim Pack icon" loading="lazy" height="16px" width="auto" /> [Plasma Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/PlasmaStimPack)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ceterteal.png" alt="Ceterteal Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ceterteal Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CetertealGlowstick)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick)
 
 Found naturally in containers:
 
@@ -49,6 +51,8 @@ Can be obtained from special items:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="Ion Core Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ion Core Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IonCoreLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

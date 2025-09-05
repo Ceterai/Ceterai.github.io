@@ -24,17 +24,15 @@ Can be used for capturing plant critters for collection and to have them as pets
 
 - Slot Count: 1
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/alta/icon.png" alt="Alta Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Alta Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerPot)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/bion/icon.png" alt="Bion Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Bion Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/BionFlowerPot)
 
-Used to craft:
+Can be used to craft:
 
 - `flowerylegs`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
@@ -43,9 +41,15 @@ Used to craft:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/alta/icon.png" alt="Alta Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Alta Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerPot)
+
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -25,7 +25,23 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheamont ★ icon" loading="lazy" height="16px" width="auto" /> [Gheamont ★](https://ceterai.github.io/MyEnternia/Wiki/Gheamont)
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height="16px" width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" height="16px" width="auto" /> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" height="16px" width="auto" /> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" height="16px" width="auto" /> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" height="16px" width="auto" /> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" height="16px" width="auto" /> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
+
+## Sources
 
 Blueprint unlocked by obtaining:
 
@@ -35,20 +51,6 @@ Blueprint unlocked by obtaining:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" height="16px" width="auto" /> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystalline Jam icon" loading="lazy" height="16px" width="auto" /> [Crystalline Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystallineJam)
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height="16px" width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" height="16px" width="auto" /> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" height="16px" width="auto" /> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
-
-Used to craft:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" height="16px" width="auto" /> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" height="16px" width="auto" /> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" height="16px" width="auto" /> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
-
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
@@ -56,6 +58,8 @@ Can be bought from merchants:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

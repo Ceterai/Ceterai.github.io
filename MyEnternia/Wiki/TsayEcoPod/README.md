@@ -19,15 +19,21 @@ Contains a modified gil sapling, as well as all things necessary for it to ripe.
 
 </details>
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height="16px" width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
+
+## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height="16px" width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

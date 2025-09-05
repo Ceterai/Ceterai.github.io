@@ -15,14 +15,16 @@ Species descriptions:
 
 - Alta: Gils are pretty versatile, but <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" height="16px" width="auto" /> [gillikadas](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) are my favourite things to make out of them. Good thing some alta gardeners have their personal minigardens.
 
-## Crafting
+## Usage
+
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/sapling/icon.png" alt="Gil Sapling icon" loading="lazy" height="16px" width="auto" /> [Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/GilSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" height="16px" width="auto" /> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada)
 
-<details markdown="1"><summary>Used to craft: (Expand 17 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 17 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" height="16px" width="auto" /> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup)
@@ -43,6 +45,10 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height="16px" width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
 </details>
+
+### Transmutation
+
+Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222210874/D1234F8997CB79002D71C6D025A022E401BD3979/" alt="Tier 1 Farm icon" width="14.5" height="8.125"/> [Tier 1 Farm Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
 
 ## Sources
 
@@ -87,6 +93,8 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Wild Gil Seeds icon" loading="lazy" height="16px" width="auto" /> [Wild Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/WildGilSeeds)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

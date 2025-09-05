@@ -11,17 +11,19 @@ Species descriptions:
 
 - Alta: Some of the aspects described in the document are very similar to _Bionid-C2-Prias-7_, which I think was the most common variety in my area. Both of these are classified as corrosive, so lots of similarities. I think these are all called _"Nerigid"_ for short?
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bionid.png" alt="Bionid Extraction Note icon" loading="lazy" height="16px" width="auto" /> [Bionid Extraction Note](https://ceterai.github.io/MyEnternia/Wiki/BionidExtractionNote)
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bionid.png" alt="Bionid Extraction Note icon" loading="lazy" height="16px" width="auto" /> [Bionid Extraction Note](https://ceterai.github.io/MyEnternia/Wiki/BionidExtractionNote)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bionid.png" alt="Bionid Extraction Note icon" loading="lazy" height="16px" width="auto" /> [Bionid Extraction Note](https://ceterai.github.io/MyEnternia/Wiki/BionidExtractionNote)
 
 Found naturally in containers:
 
@@ -31,6 +33,8 @@ Found naturally in containers:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

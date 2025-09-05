@@ -25,7 +25,21 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crystal Pie icon" loading="lazy" height="16px" width="auto" /> [Crystal Pie](https://ceterai.github.io/MyEnternia/Wiki/CrystalPie)
 
-## Crafting
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" height="16px" width="auto" /> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height="16px" width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" height="16px" width="auto" /> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake)
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Pie Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPieServing)
+
+## Sources
 
 Blueprint unlocked by obtaining:
 
@@ -35,18 +49,6 @@ Blueprint unlocked by obtaining:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" height="16px" width="auto" /> [Candy Cookies ★](https://ceterai.github.io/MyEnternia/Wiki/CandyCookies)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" height="16px" width="auto" /> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
 
-Unlocks blueprints for:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" height="16px" width="auto" /> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" height="16px" width="auto" /> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" height="16px" width="auto" /> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake)
-
-Used to craft:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Pie Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPieServing)
-
-## Sources
-
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
@@ -54,6 +56,8 @@ Can be bought from merchants:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/pie/icon.png" alt="Alta Pie Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Pie Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaPieServing)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Alta Crafting Station
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png" alt="Alta Crafting Station icon" loading="lazy" height="16px" width="auto" /> **Alta Crafting Station** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png" alt="Alta Crafting Station icon" loading="lazy" height="16px" width="auto" /> **Alta Crafting Station** is a common crafting station.
 
 Used for crafting [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) technology and resources.  
 Has 16 stages, last one is the Ultimate Station.
@@ -24,16 +24,22 @@ Radiomessages on pickup:
 
 - Seems like you have built an alta crafting station. It contains various alta technology, including armor, weapons and other equipment. If you want to upgrade it (by expanding its database), I'd suggest searching for desired datamasses around alterash planets.
 
-## Crafting
+## Usage
 
-Used to craft:
+### Crafting
+
+Can be used to craft:
 
 - `ct_alta_crafting_station2`
+
+## Sources
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 
 - In-game ID: `ct_alta_crafting_station`
 - Power: `1.0`
-- Rarity: `Uncommon`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Rarity: `Common`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting)
 - File: [`/objects/alta/crafting/crafting_station/ct_alta_crafting_station.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/crafting/crafting_station/ct_alta_crafting_station.object)

@@ -10,11 +10,9 @@ Species descriptions:
 
 - Alta: A dreamer's flower... better not to fall asleep and to gather its sap.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -22,9 +20,17 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" height="16px" width="auto" /> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height="16px" width="auto" /> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
+
+## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

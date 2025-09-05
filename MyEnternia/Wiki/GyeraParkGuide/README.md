@@ -15,11 +15,9 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" height="16px" width="auto" /> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -28,11 +26,15 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/gyera/icon.png" alt="Gyera Sprinkler icon" loading="lazy" height="16px" width="auto" /> [Gyera Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/GyeraSprinkler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" height="16px" width="auto" /> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan)
 
-Used to craft:
+Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height="16px" width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
 
 ## Sources
+
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" height="16px" width="auto" /> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
 
 Found naturally in containers:
 
@@ -46,10 +48,19 @@ Can be bought from merchants:
 
 - [Gyera Archiver](https://ceterai.github.io/MyEnternia/Wiki/GyeraArchiver)
 
+Given as rent by tenants:
+
+- [Alta Bedtimer](https://ceterai.github.io/MyEnternia/Wiki/AltaBedtimer)
+- [Alta Festival Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaFestivalGirl)
+- [Alta Resort Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaResortGirl)
+- [Alta Swimmer](https://ceterai.github.io/MyEnternia/Wiki/AltaSwimmer)
+
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" height="16px" width="auto" /> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

@@ -15,11 +15,9 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
-## Crafting
+## Usage
 
-Blueprint unlocked by obtaining:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height="16px" width="auto" /> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
+### Crafting
 
 Unlocks blueprints for:
 
@@ -28,6 +26,10 @@ Unlocks blueprints for:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height="16px" width="auto" /> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
+
 Found naturally in containers:
 
 - <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height="9px" width="12px" /> [Slime Chest](https://starbounder.org/Slime_Chest)
@@ -35,6 +37,8 @@ Found naturally in containers:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

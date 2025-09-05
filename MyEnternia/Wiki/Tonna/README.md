@@ -12,13 +12,15 @@ Species descriptions:
 
 - Alta: Tonna freshes are quite refreshing. Also, they go well with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" height="16px" width="auto" /> [ometonnas](https://ceterai.github.io/MyEnternia/Wiki/Ometonna) and tarts, especially <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" height="16px" width="auto" /> [zandarm tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart) ones.
 
-## Crafting
+## Usage
+
+### Crafting
 
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" height="16px" width="auto" /> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
 
-<details markdown="1"><summary>Used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height="16px" width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
 - `ct_alta_crafting_station8`
@@ -64,6 +66,8 @@ Drops from big plants:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Wild Tonna Tuber icon" loading="lazy" height="16px" width="auto" /> [Wild Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/WildTonnaTuber)
 
 </details>
+
+Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 

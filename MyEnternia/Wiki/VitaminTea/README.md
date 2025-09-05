@@ -19,7 +19,9 @@ Species descriptions:
 
 - Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/determined.png:1" alt="Determined icon" loading="lazy" height="16px" width="auto" /> [Determined](https://ceterai.github.io/MyEnternia/Wiki/Determined)- Duration: 300
 
-## Crafting
+## Usage
+
+### Crafting
 
 Unlocks blueprints for:
 
@@ -34,6 +36,8 @@ Can be bought from merchants:
 Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/tea/icon.png" alt="Alta Tea Serving icon" loading="lazy" height="16px" width="auto" /> [Alta Tea Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaTeaServing)
+
+Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).
 
 ## Technical Information
 
