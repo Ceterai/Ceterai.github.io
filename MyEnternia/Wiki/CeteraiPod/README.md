@@ -27,6 +27,14 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 ## Sources
 
+Can be crafted:
+
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ceterai/pod/icon.png" alt="Ceterai Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> Ceterai Pod ★★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elite/pod/icon.png" alt="Elite Pod ★ icon" loading="lazy" height="16px" width="auto" /> [Elite Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElitePod) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height="16px" width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_ceterai_ai_chip.png" alt="C.T.O.S. Chip ★★★ icon" loading="lazy" height="16px" width="auto" /> [C.T.O.S. Chip ★★★](https://ceterai.github.io/MyEnternia/Wiki/C.T.O.S.Chip) x*1*
+
 Can be bought from merchants:
 
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)

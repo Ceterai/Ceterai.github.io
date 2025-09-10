@@ -28,6 +28,18 @@ More information on ayakas, their nature and how they're maintained, can be foun
 - Stem/Stipe: `ct_ayaka_stem`
 - Foliage/Cap: `ct_ayaka_prime_leaves`
 
+Growing stages:
+
+1. Lasts from 300 to 450 seconds.
+2. Lasts from 300 to 450 seconds.
+3. Lasts from 300 to 450 seconds.
+4. Lasts from 300 to 450 seconds.
+5. Lasts from 300 to 450 seconds.
+6. Lasts from 300 to 450 seconds.
+7. Lasts from 300 to 450 seconds.
+8. Lasts from 300 to 450 seconds.
+9. Grows into a full tree.
+
 ## Usage
 
 ### Crafting
@@ -41,11 +53,48 @@ Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" height="16px" width="auto" /> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
 
+## Loot
+
+Stem drops:
+
+- drop option 1
+
+  - for threat level **0+**:
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1* (weight: 1.0)
+
+Foliage drops:
+
+- drop option 1
+
+  - for threat level **0+**:
+
+- drop option 2
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+
+- drop option 3
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+
+- drop option 4
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 1.0)
+
 ## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" height="16px" width="auto" /> [Young Ayaka](https://ceterai.github.io/MyEnternia/Wiki/YoungAyaka)
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height="16px" width="auto" /> Ayaka x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*4*
 
 Found naturally in containers:
 

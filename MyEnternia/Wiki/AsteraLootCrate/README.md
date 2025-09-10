@@ -15,6 +15,38 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://starbounder.org/mediawiki/images/d/d5/Durasteel_Ore.png" alt="Durasteel icon" loading="lazy" height="16px" width="16px" /> [Durasteel](https://starbounder.org/Durasteel_Ore) x*2* (weight: 0.2)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_astera_tear.png" alt="Astera's Tear icon" loading="lazy" height="16px" width="auto" /> [Astera's Tear](https://ceterai.github.io/MyEnternia/Wiki/Astera'sTear) x*1* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ceterteal.png" alt="Ceterteal Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ceterteal Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CetertealGlowstick) x*2* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick) x*2* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/stardust.png" alt="Stardust Glowstick icon" loading="lazy" height="16px" width="auto" /> [Stardust Glowstick](https://ceterai.github.io/MyEnternia/Wiki/StardustGlowstick) x*2* (weight: 0.02)
+- `astrostoragelocker` x*1* (weight: 0.02)
+- `astrocabinet` x*1* (weight: 0.025)
+- `astroceilingmonitor` x*1* (weight: 0.025)
+- `astrochair` x*1* (weight: 0.035)
+- `astroconsole` x*1* (weight: 0.02)
+- `astrocrate` x*1* (weight: 0.02)
+- `astrodoor` x*1* (weight: 0.03)
+- `astrolight` x*1* (weight: 0.035)
+- `astromonitor` x*1* (weight: 0.035)
+- `astroserver` x*1* (weight: 0.025)
+- `astrotable` x*1* (weight: 0.03)
+- `astrovent` x*1* (weight: 0.03)
+- `astrowallpanel` x*1* (weight: 0.03)
+- `causticstaghead` x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" height="16px" width="auto" /> [Meteoblaster WIP](https://ceterai.github.io/MyEnternia/Wiki/MeteoblasterWIP) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_spacedrifter_shield.png" alt="Spacedrifter Shield icon" loading="lazy" height="16px" width="auto" /> [Spacedrifter Shield](https://ceterai.github.io/MyEnternia/Wiki/SpacedrifterShield) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod) x*1* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Astera Industries icon" loading="lazy" height="16px" width="auto" /> [Astera Industries](https://ceterai.github.io/MyEnternia/Wiki/AsteraIndustries) x*1* (weight: 0.015)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/astera.png" alt="A Spacedrifter's Adventure icon" loading="lazy" height="16px" width="auto" /> [A Spacedrifter's Adventure](https://ceterai.github.io/MyEnternia/Wiki/ASpacedrifter'sAdventure) x*1* (weight: 0.015)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" height="16px" width="auto" /> [Life, Value And Meaning](https://ceterai.github.io/MyEnternia/Wiki/Life,ValueAndMeaning) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

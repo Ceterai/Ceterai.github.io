@@ -6,6 +6,12 @@ A bottom issue for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) s
 
 ## Sources
 
+Can be crafted:
+
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_pants/icon.png" alt="Service Pants icon" loading="lazy" height="16px" width="auto" /> Service Pants x*1*):
+  - `cottonwool` x*2*
+  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" height="12px" width="14px" /> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
+
 Can be bought from merchants:
 
 - [Alta Designer](https://ceterai.github.io/MyEnternia/Wiki/AltaDesigner)

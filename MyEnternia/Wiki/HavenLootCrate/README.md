@@ -16,6 +16,38 @@ Radiomessages on pickup:
 - The item you just got seems to have come for alterash haven - flowery areas on alterash planets that tend to have higher levels of toxicity than surrounding nature. Although it equals to toxicity levels on most green planets, it's not a usual sight here, so I would recommend being careful.
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" height="16px" width="16px" /> [Cloud](https://starbounder.org/Cloud) x*4* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_grass_seeds.png" alt="Grass Seeds icon" loading="lazy" height="16px" width="auto" /> [Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/GrassSeeds) x*4* (weight: 0.06)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_lush_grass_seeds.png" alt="Lush Grass Seeds icon" loading="lazy" height="16px" width="auto" /> [Lush Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/LushGrassSeeds) x*4* (weight: 0.06)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_flowery_grass_seeds.png" alt="Flowery Grass Seeds icon" loading="lazy" height="16px" width="auto" /> [Flowery Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/FloweryGrassSeeds) x*4* (weight: 0.079)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_flowery_grass_seeds.png" alt="Omni Flowery Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> [Omni Flowery Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniFlowerySeeds) x*4* (weight: 0.06)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/nade/ct_alta_grass_nade.png" alt="Alta Grass Nade icon" loading="lazy" height="16px" width="auto" /> [Alta Grass Nade](https://ceterai.github.io/MyEnternia/Wiki/AltaGrassNade) x*1* (weight: 0.001)
+- `giantflower1` x*1* (weight: 0.01)
+- `giantflower2` x*1* (weight: 0.01)
+- `giantflower3` x*1* (weight: 0.01)
+- `giantflower4` x*1* (weight: 0.01)
+- `executivebed` x*1* (weight: 0.05)
+- `executivechair` x*1* (weight: 0.06)
+- `executiveswitch` x*1* (weight: 0.05)
+- `executivedoor` x*1* (weight: 0.05)
+- `executivelight` x*1* (weight: 0.06)
+- `executivetable` x*1* (weight: 0.05)
+- `toxicflowerback` x*1* (weight: 0.02)
+- `pinkeyeparasitehead` x*1* (weight: 0.01)
+- `corobocklehead` x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" height="16px" width="auto" /> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword.png" alt="Flowersword icon" loading="lazy" height="16px" width="auto" /> [Flowersword](https://ceterai.github.io/MyEnternia/Wiki/Flowersword) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" height="16px" width="auto" /> [Haven Tiller](https://ceterai.github.io/MyEnternia/Wiki/HavenTiller) x*1* (weight: 0.03)
+- `fireflowerpot` x*1* (weight: 0.05)
+- `flowerlamp` x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" height="16px" width="auto" /> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Blueprint unlocked by obtaining:
@@ -24,6 +56,11 @@ Blueprint unlocked by obtaining:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" height="16px" width="auto" /> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" height="16px" width="auto" /> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" height="16px" width="auto" /> Haven Loot Crate x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" height="16px" width="auto" /> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken) x*16*
 
 Found naturally in containers:
 

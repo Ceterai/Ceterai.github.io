@@ -16,11 +16,18 @@ Species descriptions:
 
 ## Parameters
 
-- Effects: 
+Applies effects:
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_electroblockade.png" alt="Electroblockade icon" loading="lazy" height="16px" width="auto" /> [Electroblockade](https://ceterai.github.io/MyEnternia/Wiki/Electroblockade)- Duration: 60
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_electroblockade.png" alt="Electroblockade icon" loading="lazy" height="16px" width="auto" /> [Electroblockade](https://ceterai.github.io/MyEnternia/Wiki/Electroblockade) (60s)
 
 ## Sources
+
+Can be crafted:
+
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_electric_stim.png" alt="Electric Stim Pack icon" loading="lazy" height="16px" width="auto" /> Electric Stim Pack x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" height="15px" width="7px" /> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" height="10px" width="10px" /> [Prism Shard](https://starbounder.org/Prism_Shard) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height="14px" width="15px" /> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*2*
 
 Found naturally in containers:
 

@@ -19,6 +19,19 @@ A simple serving of an alta salad. Can be picked up right away to take a closer 
 
 </details>
 
+## Loot
+
+Drops following **break** loot:
+
+- for threat level **0+** (pool rounds: x*1* (weight: 1.0)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Nia Assorti icon" loading="lazy" height="16px" width="auto" /> [Nia Assorti](https://ceterai.github.io/MyEnternia/Wiki/NiaAssorti) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" height="16px" width="auto" /> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" height="16px" width="auto" /> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" height="16px" width="auto" /> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" height="16px" width="auto" /> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" height="16px" width="auto" /> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Lenn's Mimosa ★ icon" loading="lazy" height="16px" width="auto" /> [Lenn's Mimosa ★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa) x*1* (weight: 0.08)
+
 ## Sources
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).

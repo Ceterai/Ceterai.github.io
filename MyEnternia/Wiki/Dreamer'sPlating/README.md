@@ -6,18 +6,23 @@ Will protect you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ion
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_module.png" alt="Life Support Module icon" loading="lazy" height="16px" width="auto" /> [Life Support Module](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportModule)
-- Leveled Status Effects: 
+Applies effects:
 
-- Level Function: `separatorArmorLevelPowerMultiplierMultiplier`- Stat: <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" height="15px" width="15px" /> [Attack power](https://starbounder.org/Attack_power)- Base Multiplier: 1.25, 
-
-- Level Function: `separatorArmorLevelProtectionMultiplier`- Stat: <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" height="15px" width="15px" /> [Health](https://starbounder.org/Health)- Amount: 0.5, 
-
-- Level Function: `separatorArmorLevelMaxEnergyMultiplier`- Stat: <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" height="15px" width="15px" /> [Energy](https://starbounder.org/Energy)- Amount: 5, 
-
-- Level Function: `separatorArmorLevelMaxHealthMultiplier`- Stat: <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" height="15px" width="15px" /> [Defense](https://starbounder.org/Defense)- Amount: 5
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_module.png" alt="Life Support Module icon" loading="lazy" height="16px" width="auto" /> [Life Support Module](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportModule)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" height="15px" width="15px" /> [Attack power](https://starbounder.org/Attack_power) +125.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" height="15px" width="15px" /> [Health](https://starbounder.org/Health) +0.5
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" height="15px" width="15px" /> [Energy](https://starbounder.org/Energy) +5
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" height="15px" width="15px" /> [Defense](https://starbounder.org/Defense) +5
 
 ## Sources
+
+Can be crafted:
+
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png" alt="Dreamer's Plating icon" loading="lazy" height="16px" width="auto" /> Dreamer's Plating x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" height="16px" width="auto" /> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*6*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_elite_shielder.png" alt="Elite Shielder ★ icon" loading="lazy" height="16px" width="auto" /> [Elite Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/EliteShielder) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/7/7d/Refined_Violium.png" alt="Refined Violium icon" loading="lazy" height="11px" width="11px" /> [Refined Violium](https://starbounder.org/Refined_Violium) x*10*
 
 Can be bought from merchants:
 

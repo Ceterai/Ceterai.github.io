@@ -26,6 +26,13 @@ These [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), thorny <i
 
 This object **doesn't drop itself** when broken.
 
+## Loot
+
+Drops following **drop option 1** loot:
+
+- for threat level **0+**:
+- <img src="https://starbounder.org/mediawiki/images/4/4f/Plant_Fibre.png" alt="Plant Fibre icon" loading="lazy" height="15px" width="14px" /> [Plant Fibre](https://starbounder.org/Plant_Fibre) x*1* (weight: 1.0)
+
 ## Sources
 
 Found naturally in containers:

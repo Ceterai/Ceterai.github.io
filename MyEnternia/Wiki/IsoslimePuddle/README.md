@@ -23,6 +23,17 @@ A glob of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/item
 
 This object **doesn't drop itself** when broken.
 
+## Loot
+
+Drops following **drop option 1** loot:
+
+- for threat level **0+**:
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height="16px" width="auto" /> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*1* (weight: 1.0)
+
+Drops following **drop option 2** loot:
+
+- for threat level **0+**:
+
 ## Sources
 
 Found naturally in containers:

@@ -27,6 +27,11 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Command Communication Log icon" loading="lazy" height="16px" width="auto" /> [EDS Command Communication Log](https://ceterai.github.io/MyEnternia/Wiki/EDSCommandCommunicationLog)
 
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Command Communication Log icon" loading="lazy" height="16px" width="auto" /> EDS Command Communication Log x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" height="16px" width="auto" /> [EDS Database](https://ceterai.github.io/MyEnternia/Wiki/EDSDatabase) x*1*
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)

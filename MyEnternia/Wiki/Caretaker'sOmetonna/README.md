@@ -15,9 +15,10 @@ Species descriptions:
 
 - Food Value: 34
 - Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
-- Effects: 
 
-- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" height="16px" width="16px" /> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 90
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" height="16px" width="16px" /> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (90s)
 
 ## Usage
 
@@ -30,6 +31,14 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" height="16px" width="auto" /> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)
 
 ## Sources
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Caretaker's Ometonna ★ icon" loading="lazy" height="16px" width="auto" /> Caretaker's Ometonna ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/2/26/Egg.png" alt="Egg icon" loading="lazy" height="16px" width="16px" /> [Egg](https://starbounder.org/Egg) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/a/a5/Cheese.png" alt="Cheese icon" loading="lazy" height="8px" width="12px" /> [Cheese](https://starbounder.org/Cheese) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
 
 Can be bought from merchants:
 

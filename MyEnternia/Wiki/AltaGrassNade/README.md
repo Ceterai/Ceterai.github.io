@@ -12,6 +12,13 @@ Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc
 
 ## Sources
 
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.1s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/nade/ct_alta_grass_nade.png" alt="Alta Grass Nade icon" loading="lazy" height="16px" width="auto" /> Alta Grass Nade x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_grass_seeds.png" alt="Omni Grass Seeds ★ icon" loading="lazy" height="16px" width="auto" /> [Omni Grass Seeds ★](https://ceterai.github.io/MyEnternia/Wiki/OmniGrassSeeds) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_flowery_grass_seeds.png" alt="Omni Flowery Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> [Omni Flowery Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniFlowerySeeds) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_lush_grass_seeds.png" alt="Omni Lush Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> [Omni Lush Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniLushSeeds) x*1*
+
 Found naturally in containers:
 
 - <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)

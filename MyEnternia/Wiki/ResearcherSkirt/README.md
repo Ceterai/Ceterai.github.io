@@ -6,6 +6,12 @@ An official A.R.C.O. researcher's legwear. Compiled by designers from Pelizhar.
 
 ## Sources
 
+Can be crafted:
+
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Researcher Skirt icon" loading="lazy" height="16px" width="auto" /> Researcher Skirt x*1*):
+  - `cottonwool` x*2*
+  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" height="14px" width="14px" /> [Silk](https://starbounder.org/Silk) x*20*
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)

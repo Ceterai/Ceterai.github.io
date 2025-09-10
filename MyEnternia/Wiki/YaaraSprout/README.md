@@ -12,5 +12,5 @@ A floran born in a yaara grove, connected to it with their heart. This basic vil
 
 - In-game ID: `ct_yaara_tenant`
 - NPC type: `generictenant`
-- Priority: `7`
+- Priority: `8`
 - File: [`/tenants/floran/ct_yaara.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/floran/ct_yaara.tenant)

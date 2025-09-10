@@ -18,6 +18,14 @@ Species descriptions:
 
 ## Sources
 
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Birthday Cake icon" loading="lazy" height="16px" width="auto" /> Birthday Cake x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" height="16px" width="auto" /> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*2*
+  - `sugar` x*2*
+  - <img src="https://starbounder.org/mediawiki/images/2/26/Egg.png" alt="Egg icon" loading="lazy" height="16px" width="16px" /> [Egg](https://starbounder.org/Egg) x*1*
+
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)

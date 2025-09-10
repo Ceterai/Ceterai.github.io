@@ -15,17 +15,25 @@ Species descriptions:
 
 - Food Value: 25
 - Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
-- Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/happy.png:1" alt="In Love icon" loading="lazy" height="16px" width="auto" /> [In Love](https://ceterai.github.io/MyEnternia/Wiki/InLove)- Duration: 270, 
+Applies effects:
 
-- Effect: <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts)- Duration: 270, 
-
-- Effect: `slowlove`- Duration: 270, 
-
-- Effect: `invulnerable`- Duration: 5
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/happy.png:1" alt="In Love icon" loading="lazy" height="16px" width="auto" /> [In Love](https://ceterai.github.io/MyEnternia/Wiki/InLove) (270s)
+- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (270s)
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Love icon" loading="lazy" height="15px" width="15px" /> [Love](https://starbounder.org/Personality#NPC_Reactions) (270s)
+- `invulnerable` (5s)
 
 ## Sources
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Kaiter Cocktail icon" loading="lazy" height="16px" width="auto" /> Kaiter Cocktail x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height="16px" width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height="16px" width="auto" /> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" height="16px" width="auto" /> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" height="15px" width="8px" /> [Milk](https://starbounder.org/Milk) x*1*
+  - `petalblue` x*2*
+  - `grapes` x*1*
 
 Can be bought from merchants:
 

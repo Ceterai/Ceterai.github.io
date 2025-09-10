@@ -16,7 +16,25 @@ Radiomessages on pickup:
 
 - Looks like you have acquired a set of alta equipment. These usually contain a full set of armor with corresponding documentation. Due to being created in bulk, sets are often much cheaper to craft than it is to craft their components separately.
 
+## Loot
+
+When used:
+
+- for threat level **1+**:
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="C.T. Visor icon" loading="lazy" height="16px" width="auto" /> [C.T. Visor](https://ceterai.github.io/MyEnternia/Wiki/C.T.Visor) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/chest/icon.png" alt="C.T. Suit icon" loading="lazy" height="16px" width="auto" /> [C.T. Suit](https://ceterai.github.io/MyEnternia/Wiki/C.T.Suit) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="C.T. Walkers icon" loading="lazy" height="16px" width="auto" /> [C.T. Walkers](https://ceterai.github.io/MyEnternia/Wiki/C.T.Walkers) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Alternia Set icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Alternia Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-AlterniaSet) x*1* (always present)
+
 ## Sources
+
+Can be crafted:
+
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" height="16px" width="auto" /> C.T. Alternia Set x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere) x*3*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height="16px" width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*12*
+  - <img src="https://starbounder.org/mediawiki/images/8/82/Refined_Ferozium.png" alt="Refined Ferozium icon" loading="lazy" height="14px" width="14px" /> [Refined Ferozium](https://starbounder.org/Refined_Ferozium) x*20*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ceterai Project Database icon" loading="lazy" height="16px" width="auto" /> [Ceterai Project Database](https://ceterai.github.io/MyEnternia/Wiki/CeteraiProjectDatabase) x*1*
 
 Can be bought from merchants:
 

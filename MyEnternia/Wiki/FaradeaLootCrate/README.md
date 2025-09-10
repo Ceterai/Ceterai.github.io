@@ -16,6 +16,29 @@ Radiomessages on pickup:
 - Seems like the item you just picked up belongs to Faradea - an independent alta mercenary faction. Let's hope you don't find the previous owner of this item.
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height="16px" width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*1* (weight: 0.25)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" height="16px" width="auto" /> [Vortex Nade ★](https://ceterai.github.io/MyEnternia/Wiki/VortexNade) x*2* (weight: 0.15)
+- `arcademachine` x*1* (weight: 0.02)
+- `arcadeblue` x*1* (weight: 0.02)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Standing_Desk.png" alt="Standing Desk icon" loading="lazy" height="6px" width="6px" /> [Standing Desk](https://starbounder.org/Standing_Desk) x*1* (weight: 0.08)
+- <img src="https://starbounder.org/mediawiki/images/9/9e/Basic_Metal_Table.png" alt="Basic Metal Table icon" loading="lazy" height="6px" width="17.25px" /> [Basic Metal Table](https://starbounder.org/Basic_Metal_Table) x*1* (weight: 0.08)
+- <img src="https://starbounder.org/mediawiki/images/f/f9/Blue_Light.png" alt="Blue Light icon" loading="lazy" height="0.75px" width="6px" /> [Blue Light](https://starbounder.org/Blue_Light) x*1* (weight: 0.08)
+- `blueflask` x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/industrial_collar/icon.png" alt="Industrial Collar icon" loading="lazy" height="16px" width="auto" /> [Industrial Collar](https://ceterai.github.io/MyEnternia/Wiki/IndustrialCollar) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" height="16px" width="auto" /> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="Faradea Shield icon" loading="lazy" height="16px" width="auto" /> [Faradea Shield](https://ceterai.github.io/MyEnternia/Wiki/FaradeaShield) x*1* (weight: 0.0195)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_faradea_scavenger.png" alt="FD Scavenger ★ icon" loading="lazy" height="16px" width="auto" /> [FD Scavenger ★](https://ceterai.github.io/MyEnternia/Wiki/FDScavenger) x*1* (weight: 0.0005)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/erkut/icon.png" alt="Erkut R300 icon" loading="lazy" height="16px" width="auto" /> [Erkut R300](https://ceterai.github.io/MyEnternia/Wiki/ErkutR300) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" height="16px" width="auto" /> [Vortex Nade ★](https://ceterai.github.io/MyEnternia/Wiki/VortexNade) x*3* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" height="16px" width="auto" /> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" height="16px" width="auto" /> [Brawl Of Legends Poster](https://ceterai.github.io/MyEnternia/Wiki/BrawlOfLegendsPoster) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Faradea Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

@@ -6,7 +6,9 @@ This collar provides an energy shield to prevent you from receiving damage.
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" height="16px" width="auto" /> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder)
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" height="16px" width="auto" /> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder)
 
 ## Usage
 
@@ -16,7 +18,24 @@ Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" height="16px" width="auto" /> [Life Support Pack](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportPack)
 
+Can be put on a captured creature.
+
+### Combining Augments
+
+Can be combined with other augments with <img src="https://steamuserimages-a.akamaihd.net/ugc/492401650192978081/D36F8189998DD6C50ADDD04DE064D84870C0A9DE/" alt="Combineable Augments icon" width="16" height="16"/> [Combineable Augments](https://steamcommunity.com/sharedfiles/filedetails/?id=739151610) installed.
+
+### Extracting Augments
+
+Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net/ugc/170410764603380456/965B40D7069D38F5220D2BED17CFF797F73C775A/" alt="Augment Extractor icon" width="16" height="16"/> [Augment Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=855668523) installed.
+
 ## Sources
+
+Can be crafted:
+
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.45s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/protective_collar/icon.png" alt="Protective Collar icon" loading="lazy" height="16px" width="auto" /> Protective Collar x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" height="13px" width="14px" /> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" height="16px" width="auto" /> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*2*
 
 Found naturally in containers:
 

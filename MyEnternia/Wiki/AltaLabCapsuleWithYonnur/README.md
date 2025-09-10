@@ -23,7 +23,17 @@ A bionid capsule containing some luminescent material.
 
 This object **doesn't drop itself** when broken.
 
+## Loot
+
+Drops following **smash** loot:
+
 ## Sources
+
+Can be crafted:
+
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon4.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_purple_icon.png" alt="Alta Lab Capsule With Yonnur icon" loading="lazy" height="16px" width="auto" /> Alta Lab Capsule With Yonnur x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Capsule](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height="14px" width="15px" /> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*1*
 
 Found naturally in containers:
 

@@ -29,6 +29,11 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/hunter_flower/icon.png" alt="Potted Hunter Flower icon" loading="lazy" height="16px" width="auto" /> [Potted Hunter Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedHunterFlower)
 
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_hunter_flower_egg.png" alt="Hunter Flower Egg icon" loading="lazy" height="16px" width="auto" /> Hunter Flower Egg x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/hunter_flower/icon.png" alt="Potted Hunter Flower icon" loading="lazy" height="16px" width="auto" /> [Potted Hunter Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedHunterFlower) x*1*
+
 Obtained by capturing creatures with any **bugnet**:
 
 - `ct_hunter_flower`

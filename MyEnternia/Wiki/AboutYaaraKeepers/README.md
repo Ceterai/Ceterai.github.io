@@ -32,6 +32,12 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" height="16px" width="auto" /> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
 
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" height="16px" width="auto" /> About Yaara Keepers x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height="16px" width="auto" /> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" height="16px" width="auto" /> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite) x*1*
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
@@ -40,7 +46,7 @@ Can be bought from merchants:
 
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 6 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 7 items)</summary>
 
 - [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
@@ -48,6 +54,7 @@ Can be bought from merchants:
 - [Yaara Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraSprout)
 - [Yaarafinger](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger)
 - [Yaaraling](https://ceterai.github.io/MyEnternia/Wiki/Yaaraling)
+- [Yaaviling](https://ceterai.github.io/MyEnternia/Wiki/Yaaviling)
 
 </details>
 

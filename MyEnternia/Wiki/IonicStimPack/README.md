@@ -14,9 +14,9 @@ Species descriptions:
 
 ## Parameters
 
-- Effects: 
+Applies effects:
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="Ionoblockade icon" loading="lazy" height="16px" width="auto" /> [Ionoblockade](https://ceterai.github.io/MyEnternia/Wiki/Ionoblockade)- Duration: 60
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="Ionoblockade icon" loading="lazy" height="16px" width="auto" /> [Ionoblockade](https://ceterai.github.io/MyEnternia/Wiki/Ionoblockade) (60s)
 
 ## Usage
 
@@ -27,6 +27,13 @@ Can be used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere)
 
 ## Sources
+
+Can be crafted:
+
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_ionic_stim.png" alt="Ionic Stim Pack icon" loading="lazy" height="16px" width="auto" /> Ionic Stim Pack x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" height="15px" width="7px" /> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/6/6a/Static_Cell.png" alt="Static Cell icon" loading="lazy" height="14px" width="9px" /> [Static Cell](https://starbounder.org/Static_Cell) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick) x*1*
 
 Found naturally in containers:
 

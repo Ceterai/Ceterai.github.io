@@ -1,10 +1,10 @@
 # Rare Tag
 
-The tag `rare` contains 485 total entries.
+The tag `rare` contains 486 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 143 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 144 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" height="16px" width="auto" /> [Alien Mounds](https://ceterai.github.io/MyEnternia/Wiki/AlienMounds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height="16px" width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
@@ -42,6 +42,7 @@ The tag `rare` contains 485 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/gateway/icon.png" alt="Alta Ship Gateway icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Gateway](https://ceterai.github.io/MyEnternia/Wiki/AltaShipGateway)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/hatch/icon.png" alt="Alta Ship Hatch icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Hatch](https://ceterai.github.io/MyEnternia/Wiki/AltaShipHatch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/light/icon.png" alt="Alta Ship Light icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Light](https://ceterai.github.io/MyEnternia/Wiki/AltaShipLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Locker](https://ceterai.github.io/MyEnternia/Wiki/AltaShipLocker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/monitor/icon.png" alt="Alta Ship Monitor icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaShipMonitor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/shelf/icon.png" alt="Alta Ship Shelf icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Shelf](https://ceterai.github.io/MyEnternia/Wiki/AltaShipShelf)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/storage/icon.png" alt="Alta Ship Storage icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Storage](https://ceterai.github.io/MyEnternia/Wiki/AltaShipStorage)

@@ -15,6 +15,29 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height="16px" width="auto" /> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*3* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height="16px" width="auto" /> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*2* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height="16px" width="auto" /> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*1* (weight: 0.1)
+- <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" height="9px" width="12px" /> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime1/icon.png" alt="Isoslime Puddle icon" loading="lazy" height="16px" width="auto" /> [Isoslime Puddle](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePuddle) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_blob/icon.png" alt="Isoblob icon" loading="lazy" height="16px" width="auto" /> [Isoblob](https://ceterai.github.io/MyEnternia/Wiki/Isoblob) x*1* (weight: 0.01)
+- `slimechair` x*1* (weight: 0.09)
+- `slimebed` x*1* (weight: 0.07)
+- <img src="https://starbounder.org/mediawiki/images/d/da/Slime_Chest.png" alt="Slime Chest icon" loading="lazy" height="9px" width="12px" /> [Slime Chest](https://starbounder.org/Slime_Chest) x*1* (weight: 0.07)
+- `slimetorch` x*4* (weight: 0.09)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_iso_ball.png" alt="Izo Ball icon" loading="lazy" height="16px" width="auto" /> [Izo Ball](https://ceterai.github.io/MyEnternia/Wiki/IzoBall) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" height="16px" width="auto" /> [Isoblaster](https://ceterai.github.io/MyEnternia/Wiki/Isoblaster) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" height="16px" width="auto" /> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" height="16px" width="auto" /> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh) x*1* (weight: 0.02)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" height="16px" width="8px" /> [Cryonic Extract](https://starbounder.org/Cryonic_Extract) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" height="16px" width="auto" /> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

@@ -26,6 +26,12 @@ These [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), thorny <i
 
 This object **doesn't drop itself** when broken.
 
+## Loot
+
+Drops following **drop option 1** loot:
+
+- for threat level **0+**:
+
 ## Sources
 
 Found naturally in containers:

@@ -33,6 +33,13 @@ Blueprint unlocked by obtaining:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick)
 
+Can be crafted:
+
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> Omniblue Glowstick x*2*):
+  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height="14px" width="15px" /> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*3*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" height="16px" width="auto" /> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*2*
+
 Found naturally in containers:
 
 - <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" height="9.75px" width="12px" /> [Alien Chest](https://starbounder.org/Alien_Chest)

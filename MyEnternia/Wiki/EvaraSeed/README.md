@@ -14,6 +14,20 @@ Radiomessages on pickup:
 
 - I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table.
 
+## Parameters
+
+Growing stages:
+
+1. Lasts from 570 to 630 seconds.
+2. Lasts from 570 to 630 seconds.
+3. Lasts from 1670 to 1730 seconds.
+4. Can be harvested:
+   - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
+   - <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" height="16px" width="16px" /> [Cloud](https://starbounder.org/Cloud) x*2* (weight: 0.49)
+   - <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" height="16px" width="16px" /> [Cloud](https://starbounder.org/Cloud) x*1* (weight: 0.4)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed) x*1* (weight: 0.01)
+   - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" height="16px" width="16px" /> [Water](https://starbounder.org/Water) x*1* (weight: 0.1)
+
 ## Usage
 
 ### Crafting
@@ -45,6 +59,14 @@ Blueprint unlocked by obtaining:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/pod/icon.png" alt="Evara Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Evara Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EvaraEcoPod)
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> Evara Seed x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" height="16px" width="auto" /> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" height="12px" width="5.875px" /> [Cotton Seed](https://starbounder.org/Cotton_Seed) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/4/4e/Snow.png" alt="Snow icon" loading="lazy" height="10px" width="10px" /> [Snow](https://starbounder.org/Snow) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" height="15px" width="7px" /> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
 
 Drops from destroyed obstacles:
 

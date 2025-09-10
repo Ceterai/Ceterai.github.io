@@ -19,6 +19,10 @@ Radiomessages on pickup:
 
 - Shield Health: 64
 
+Applies effects on knockback:
+
+- <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" height="16px" width="16px" /> [Electrified](https://starbounder.org/Electrified)
+
 ## Sources
 
 Can be bought from merchants:

@@ -19,6 +19,36 @@ A simple serving of an alta tea. Can be picked up right away to take a closer lo
 
 </details>
 
+## Loot
+
+Drops following **break** loot:
+
+- for threat level **0+** (pool rounds: x*1* (weight: 1.0)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" height="16px" width="auto" /> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheatsyn Tea icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Tea](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" height="16px" width="auto" /> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height="16px" width="auto" /> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" height="16px" width="auto" /> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height="16px" width="auto" /> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" height="16px" width="auto" /> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Thick Calio Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Thick Calio Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ThickCalioTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Ayabaycalin Tea icon" loading="lazy" height="16px" width="auto" /> [Ayabaycalin Tea](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Carel Tea icon" loading="lazy" height="16px" width="auto" /> [Carel Tea](https://ceterai.github.io/MyEnternia/Wiki/CarelTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheamont ★ icon" loading="lazy" height="16px" width="auto" /> [Gheamont ★](https://ceterai.github.io/MyEnternia/Wiki/Gheamont) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Ciranga Tea icon" loading="lazy" height="16px" width="auto" /> [Ciranga Tea](https://ceterai.github.io/MyEnternia/Wiki/CirangaTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Riverside Surprise ★ icon" loading="lazy" height="16px" width="auto" /> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Dreamer's Tea icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Tea](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Calming Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Crimson Plant Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Crimson Plant Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CrimsonPlantTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Yae Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Yae Tea ★](https://ceterai.github.io/MyEnternia/Wiki/YaeTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Vitamin Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Vitamin Tea ★](https://ceterai.github.io/MyEnternia/Wiki/VitaminTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Exotic Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Exotic Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ExoticTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Mint-Tsay Tea icon" loading="lazy" height="16px" width="auto" /> [Mint-Tsay Tea](https://ceterai.github.io/MyEnternia/Wiki/Mint-TsayTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Ceternia Tea ★ icon" loading="lazy" height="16px" width="auto" /> [Ceternia Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" height="16px" width="auto" /> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear Tea icon" loading="lazy" height="16px" width="auto" /> [Alta Pear Tea](https://ceterai.github.io/MyEnternia/Wiki/AltaPearTea) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Poi Tea icon" loading="lazy" height="16px" width="auto" /> [Poi Tea](https://ceterai.github.io/MyEnternia/Wiki/PoiTea) x*1* (weight: 0.08)
+
 ## Sources
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).

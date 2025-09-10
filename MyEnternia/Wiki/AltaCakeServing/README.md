@@ -19,6 +19,25 @@ A simple serving of an alta cake. Can be picked up right away to take a closer l
 
 </details>
 
+## Loot
+
+Drops following **break** loot:
+
+- for threat level **0+** (pool rounds: x*1* (weight: 1.0)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" height="16px" width="auto" /> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Ion Cake icon" loading="lazy" height="16px" width="auto" /> [Ion Cake](https://ceterai.github.io/MyEnternia/Wiki/IonCake) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" height="16px" width="auto" /> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" height="16px" width="auto" /> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" height="16px" width="auto" /> [Orchid Cake](https://ceterai.github.io/MyEnternia/Wiki/OrchidCake) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" height="16px" width="auto" /> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Mira's Love ★ icon" loading="lazy" height="16px" width="auto" /> [Mira's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Mira'sLove) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Celestia's Love ★ icon" loading="lazy" height="16px" width="auto" /> [Celestia's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Celestia'sLove) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Elin's Love ★ icon" loading="lazy" height="16px" width="auto" /> [Elin's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Elin'sLove) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Birthday Cake icon" loading="lazy" height="16px" width="auto" /> [Birthday Cake](https://ceterai.github.io/MyEnternia/Wiki/BirthdayCake) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Estria's Love ★ icon" loading="lazy" height="16px" width="auto" /> [Estria's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sLove) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Berry Cake ★★ icon" loading="lazy" height="16px" width="auto" /> [Berry Cake ★★](https://ceterai.github.io/MyEnternia/Wiki/BerryCake) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Ciranga Cake ★★ icon" loading="lazy" height="16px" width="auto" /> [Ciranga Cake ★★](https://ceterai.github.io/MyEnternia/Wiki/CirangaCake) x*1* (weight: 0.08)
+
 ## Sources
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).

@@ -15,6 +15,37 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- `snowflake` x*4* (weight: 0.08)
+- <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" height="10px" width="10px" /> [Ice](https://starbounder.org/Ice) x*2* (weight: 0.08)
+- `snowball` x*4* (weight: 0.08)
+- `mediumsnowball` x*2* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/bionid.png" alt="Bionid Glowstick icon" loading="lazy" height="16px" width="auto" /> [Bionid Glowstick](https://ceterai.github.io/MyEnternia/Wiki/BionidGlowstick) x*2* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" height="16px" width="auto" /> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) x*1* (weight: 0.04)
+- `icespherechest` x*1* (weight: 0.035)
+- `icechest` x*1* (weight: 0.035)
+- `icemachine` x*1* (weight: 0.03)
+- `icebed` x*1* (weight: 0.05)
+- `icechair` x*1* (weight: 0.07)
+- `icedoor` x*1* (weight: 0.05)
+- `icetable` x*1* (weight: 0.05)
+- `alienskullhead` x*1* (weight: 0.035)
+- `iceboomerang` x*1* (weight: 0.005)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png" alt="Sona Rifle SG5 icon" loading="lazy" height="16px" width="auto" /> [Sona Rifle SG5](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5) x*1* (weight: 0.018)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/misc/sona/helmet/icon.png" alt="Sona Soldier Helmet icon" loading="lazy" height="16px" width="auto" /> [Sona Soldier Helmet](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldierHelmet) x*1* (weight: 0.018)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_brontor.png" alt="Brontor icon" loading="lazy" height="16px" width="auto" /> [Brontor](https://ceterai.github.io/MyEnternia/Wiki/Brontor) x*1* (weight: 0.004)
+- `snowcone` x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" height="16px" width="auto" /> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) x*1* (weight: 0.03)
+- `snowflakeshuriken` x*2* (weight: 0.03)
+- `snowflakeshuriken` x*3* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/sona.png" alt="Sona Soldier's Notes icon" loading="lazy" height="16px" width="auto" /> [Sona Soldier's Notes](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier'sNotes) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" height="16px" width="auto" /> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

@@ -10,6 +10,17 @@ Species descriptions:
 
 - Alta: Unlike alunika, carel is an edible crystal growing from a plant, not a plant-like crystal.
 
+## Parameters
+
+Growing stages:
+
+1. Lasts from 280 to 320 seconds.
+2. Lasts from 280 to 320 seconds.
+3. Lasts from 280 to 320 seconds.
+4. Lasts from 1860 to 1940 seconds.
+5. Can be harvested:
+`ct_carel_harvest`
+
 ## Usage
 
 ### Crafting

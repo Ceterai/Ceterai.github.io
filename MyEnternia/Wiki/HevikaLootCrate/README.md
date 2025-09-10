@@ -15,6 +15,35 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png" alt="Hevika Javelin icon" loading="lazy" height="16px" width="auto" /> [Hevika Javelin](https://ceterai.github.io/MyEnternia/Wiki/HevikaJavelin) x*2* (weight: 0.15)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_flare.png" alt="Hevika Flare icon" loading="lazy" height="16px" width="auto" /> [Hevika Flare](https://ceterai.github.io/MyEnternia/Wiki/HevikaFlare) x*3* (weight: 0.1)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*3* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" height="16px" width="auto" /> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/sample/icon.png" alt="Hevika Sample icon" loading="lazy" height="16px" width="auto" /> [Hevika Sample](https://ceterai.github.io/MyEnternia/Wiki/HevikaSample) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/bed/icon.png" alt="Hevika Bed icon" loading="lazy" height="16px" width="auto" /> [Hevika Bed](https://ceterai.github.io/MyEnternia/Wiki/HevikaBed) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chair/icon.png" alt="Hevika Chair icon" loading="lazy" height="16px" width="auto" /> [Hevika Chair](https://ceterai.github.io/MyEnternia/Wiki/HevikaChair) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/console/icon.png" alt="Hevika Console icon" loading="lazy" height="16px" width="auto" /> [Hevika Console](https://ceterai.github.io/MyEnternia/Wiki/HevikaConsole) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/hatch/icon.png" alt="Hevika Hatch icon" loading="lazy" height="16px" width="auto" /> [Hevika Hatch](https://ceterai.github.io/MyEnternia/Wiki/HevikaHatch) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/lamp/icon.png" alt="Hevika Lamp icon" loading="lazy" height="16px" width="auto" /> [Hevika Lamp](https://ceterai.github.io/MyEnternia/Wiki/HevikaLamp) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/light/icon.png" alt="Hevika Light icon" loading="lazy" height="16px" width="auto" /> [Hevika Light](https://ceterai.github.io/MyEnternia/Wiki/HevikaLight) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/monitor/icon.png" alt="Hevika Monitor icon" loading="lazy" height="16px" width="auto" /> [Hevika Monitor](https://ceterai.github.io/MyEnternia/Wiki/HevikaMonitor) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/table/icon.png" alt="Hevika Table icon" loading="lazy" height="16px" width="auto" /> [Hevika Table](https://ceterai.github.io/MyEnternia/Wiki/HevikaTable) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/terminal/icon.png" alt="Hevika Terminal icon" loading="lazy" height="16px" width="auto" /> [Hevika Terminal](https://ceterai.github.io/MyEnternia/Wiki/HevikaTerminal) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" height="16px" width="auto" /> [Hevika Turret](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurret) x*1* (weight: 0.025)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_hevika_augment.png" alt="Hevika Augment ★ icon" loading="lazy" height="16px" width="auto" /> [Hevika Augment ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaAugment) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png" alt="Kinetic Shield icon" loading="lazy" height="16px" width="auto" /> [Kinetic Shield](https://ceterai.github.io/MyEnternia/Wiki/KineticShield) x*1* (weight: 0.038)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_hevika_turret_gun.png" alt="Hevika Turret Gun ★ icon" loading="lazy" height="16px" width="auto" /> [Hevika Turret Gun ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurretGun) x*1* (weight: 0.002)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_flare.png" alt="Hevika Flare icon" loading="lazy" height="16px" width="auto" /> [Hevika Flare](https://ceterai.github.io/MyEnternia/Wiki/HevikaFlare) x*4* (weight: 0.06)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png" alt="Hevika Javelin icon" loading="lazy" height="16px" width="auto" /> [Hevika Javelin](https://ceterai.github.io/MyEnternia/Wiki/HevikaJavelin) x*4* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

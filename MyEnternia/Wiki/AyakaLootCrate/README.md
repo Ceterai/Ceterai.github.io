@@ -15,6 +15,39 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" height="16px" width="auto" /> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" height="16px" width="auto" /> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*2* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*2* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick) x*2* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_fallen/icon.png" alt="Fallen Aya icon" loading="lazy" height="16px" width="auto" /> [Fallen Aya](https://ceterai.github.io/MyEnternia/Wiki/FallenAya) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="Aya Pile icon" loading="lazy" height="16px" width="auto" /> [Aya Pile](https://ceterai.github.io/MyEnternia/Wiki/AyaPile) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob1/icon.png" alt="Ayaka Sap Blob icon" loading="lazy" height="16px" width="auto" /> [Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/AyakaSapBlob) x*1* (weight: 0.0075)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob2/icon.png" alt="Ayaka Sap Pile icon" loading="lazy" height="16px" width="auto" /> [Ayaka Sap Pile](https://ceterai.github.io/MyEnternia/Wiki/AyakaSapPile) x*1* (weight: 0.005)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height="16px" width="auto" /> [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) x*1* (weight: 0.005)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_garden_tree.png" alt="Garden Ayaka icon" loading="lazy" height="16px" width="auto" /> [Garden Ayaka](https://ceterai.github.io/MyEnternia/Wiki/GardenAyaka) x*1* (weight: 0.0025)
+- `wavebed` x*1* (weight: 0.05)
+- `wavechair` x*1* (weight: 0.06)
+- `waveswitch` x*1* (weight: 0.05)
+- `wavedoor` x*1* (weight: 0.05)
+- `wavelight` x*1* (weight: 0.06)
+- `wavetable` x*1* (weight: 0.05)
+- <img src="https://starbounder.org/mediawiki/images/3/38/Bad_Goo_Plushie.png" alt="Bad Goo Plushie icon" loading="lazy" height="8px" width="12px" /> [Bad Goo Plushie](https://starbounder.org/Bad_Goo_Plushie) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_grass_blaster.png" alt="Alta Grass Blaster ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Grass Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaGrassBlaster) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" height="16px" width="auto" /> [Aya Virma](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height="16px" width="auto" /> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" height="16px" width="auto" /> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" height="16px" width="auto" /> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height="16px" width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="A Virma's Friend icon" loading="lazy" height="16px" width="auto" /> [A Virma's Friend](https://ceterai.github.io/MyEnternia/Wiki/AVirma'sFriend) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

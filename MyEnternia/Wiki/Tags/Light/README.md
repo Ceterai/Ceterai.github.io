@@ -1,6 +1,6 @@
 # Light Tag
 
-The tag `light` contains 211 total entries.
+The tag `light` contains 213 total entries.
 
 ## Objects
 
@@ -46,7 +46,7 @@ The tag `light` contains 211 total entries.
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 160 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 162 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -59,6 +59,7 @@ The tag `light` contains 211 total entries.
 - [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)
 - [Alta Archaeologist](https://ceterai.github.io/MyEnternia/Wiki/AltaArchaeologist)
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
+- [Alta Aricologist](https://ceterai.github.io/MyEnternia/Wiki/AltaAricologist)
 - [Alta Army Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaArmyCaptain)
 - [Alta Artist](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist)
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
@@ -208,6 +209,7 @@ The tag `light` contains 211 total entries.
 - [Yaara Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraSprout)
 - [Yaarafinger](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger)
 - [Yaaraling](https://ceterai.github.io/MyEnternia/Wiki/Yaaraling)
+- [Yaaviling](https://ceterai.github.io/MyEnternia/Wiki/Yaaviling)
 
 </details>
 

@@ -25,6 +25,18 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 - Health: 1.5
 
+Growing stages:
+
+1. Lasts from 300 to 450 seconds.
+2. Lasts from 300 to 450 seconds.
+3. Lasts from 300 to 450 seconds.
+4. Lasts from 300 to 450 seconds.
+5. Lasts from 300 to 450 seconds.
+6. Lasts from 300 to 450 seconds.
+7. Lasts from 300 to 450 seconds.
+8. Lasts from 300 to 450 seconds.
+9. Grows into a full tree.
+
 ## Usage
 
 ### Crafting
@@ -57,6 +69,13 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/eco/icon.png" alt="Alta Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod)
+
+Can be crafted:
+
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" height="16px" width="auto" /> Alta Sapling x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/eco/icon.png" alt="Alta Eco Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod) x*1*
 
 Found naturally in containers:
 

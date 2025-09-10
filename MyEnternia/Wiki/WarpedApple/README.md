@@ -8,11 +8,11 @@ Calin alta cuisine. Despite its name and looks, this drink isn't actually made o
 
 - Food Value: 25
 - Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
-- Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" height="16px" width="auto" /> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)- Duration: 225, 
+Applies effects:
 
-- Effect: `ragefood`- Duration: 225
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" height="16px" width="auto" /> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) (225s)
+- <img src="https://starbounder.org/mediawiki/images/3/37/Status_Rage.png" alt="Rage icon" loading="lazy" height="16px" width="16px" /> [Rage (Food)](https://starbounder.org/Rage) (225s)
 
 ## Sources
 

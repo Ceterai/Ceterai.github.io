@@ -10,6 +10,16 @@ Species descriptions:
 
 - Alta: It's best not to disturb it too much when it ripens...
 
+## Parameters
+
+Growing stages:
+
+1. Lasts from 380 to 420 seconds.
+2. Lasts from 380 to 420 seconds.
+3. Lasts from 1600 to 1800 seconds.
+4. Can be harvested:
+`neonmelonHarvest`
+
 ## Usage
 
 ### Crafting

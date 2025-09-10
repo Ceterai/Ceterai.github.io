@@ -15,6 +15,23 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Geode icon" loading="lazy" height="11px" width="12px" /> [Geode](https://starbounder.org/Geode) x*1* (weight: 0.08)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 0.16)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/calline.png" alt="Calline Glowstick icon" loading="lazy" height="16px" width="auto" /> [Calline Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CallineGlowstick) x*2* (weight: 0.16)
+- <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" height="14px" width="15px" /> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed) x*1* (weight: 0.04)
+- <img src="https://starbounder.org/mediawiki/images/d/de/Crystal_Chest.png" alt="Crystal Treasure icon" loading="lazy" height="10.5px" width="12px" /> [Crystal Treasure](https://starbounder.org/Crystal_Chest) x*1* (weight: 0.32)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" height="16px" width="auto" /> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystal Plant Shield icon" loading="lazy" height="16px" width="auto" /> [Crystal Plant Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystalPlantShield) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" height="16px" width="auto" /> [Crystalline Sword](https://ceterai.github.io/MyEnternia/Wiki/CrystallineSword) x*1* (weight: 0.04)
+- <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="Crystal Plant icon" loading="lazy" height="12px" width="13px" /> [Crystal Plant](https://starbounder.org/Crystal_Plant) x*1* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" height="16px" width="auto" /> [Crystalline Primification](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimification) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

@@ -13,9 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Effects: 
+Applies effects:
 
-- Effect: `lightaugment1`- Duration: 120
+- `lightaugment1` (120s)
 
 ## Sources
 

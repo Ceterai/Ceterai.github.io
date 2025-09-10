@@ -20,7 +20,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
-- `paper`
+- <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" height="16px" width="16px" /> [Paper](https://starbounder.org/Paper)
 
 <details markdown="1"><summary>Can be used to craft: (Expand 111 items)</summary>
 
@@ -117,7 +117,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_astera_art.png" alt="Over The Horizon icon" loading="lazy" height="16px" width="auto" /> [Over The Horizon](https://ceterai.github.io/MyEnternia/Wiki/OverTheHorizon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling1/icon.png" alt="Overgrown Ayaka Sap Blob icon" loading="lazy" height="16px" width="auto" /> [Overgrown Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/OvergrownAyakaSapBlob)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/oxygen_mask/icon.png" alt="Oxygen Mask icon" loading="lazy" height="16px" width="auto" /> [Oxygen Mask](https://ceterai.github.io/MyEnternia/Wiki/OxygenMask)
-- `paper`
+- <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" height="16px" width="16px" /> [Paper](https://starbounder.org/Paper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/pilot_helmet/icon.png" alt="Pilot Helmet icon" loading="lazy" height="16px" width="auto" /> [Pilot Helmet](https://ceterai.github.io/MyEnternia/Wiki/PilotHelmet)
 - <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" height="16px" width="12px" /> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" height="16px" width="auto" /> [Potted Blossom Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedBlossomPlant)

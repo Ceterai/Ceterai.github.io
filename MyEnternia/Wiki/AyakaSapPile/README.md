@@ -23,6 +23,10 @@ A small pile of ionic sap.
 
 This object **doesn't drop itself** when broken.
 
+## Loot
+
+Drops following **smash** loot:
+
 ## Sources
 
 Found naturally in containers:

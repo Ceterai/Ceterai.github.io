@@ -15,6 +15,36 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height="16px" width="auto" /> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*2* (weight: 0.15)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height="16px" width="auto" /> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*2* (weight: 0.15)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/bionid.png" alt="Bionid Glowstick icon" loading="lazy" height="16px" width="auto" /> [Bionid Glowstick](https://ceterai.github.io/MyEnternia/Wiki/BionidGlowstick) x*2* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" height="16px" width="auto" /> [Tonnova Tree](https://ceterai.github.io/MyEnternia/Wiki/TonnovaTree) x*1* (weight: 0.005)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_spiral_tree.png" alt="Tonnova Spiral icon" loading="lazy" height="16px" width="auto" /> [Tonnova Spiral](https://ceterai.github.io/MyEnternia/Wiki/TonnovaSpiral) x*1* (weight: 0.005)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" height="16px" width="auto" /> [Wide Tonnova](https://ceterai.github.io/MyEnternia/Wiki/WideTonnova) x*1* (weight: 0.005)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" height="16px" width="auto" /> [Bulbonid](https://ceterai.github.io/MyEnternia/Wiki/Bulbonid) x*1* (weight: 0.025)
+- `tier4switch` x*1* (weight: 0.05)
+- `tier4chair` x*1* (weight: 0.06)
+- `tier4bed` x*1* (weight: 0.05)
+- `tier4door` x*1* (weight: 0.05)
+- `tier4light` x*1* (weight: 0.06)
+- `tier4table` x*1* (weight: 0.05)
+- `causticstaghead` x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_bionid_augment.png" alt="Bionid Augment icon" loading="lazy" height="16px" width="auto" /> [Bionid Augment](https://ceterai.github.io/MyEnternia/Wiki/BionidAugment) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" height="16px" width="auto" /> [Soniathrower](https://ceterai.github.io/MyEnternia/Wiki/Soniathrower) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" height="16px" width="auto" /> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada) x*1* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Complicated Nature of Bion icon" loading="lazy" height="16px" width="auto" /> [Complicated Nature of Bion](https://ceterai.github.io/MyEnternia/Wiki/ComplicatedNatureofBion) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" height="16px" width="auto" /> [Bionics](https://ceterai.github.io/MyEnternia/Wiki/Bionics) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bionid.png" alt="Bionid Extraction Note icon" loading="lazy" height="16px" width="auto" /> [Bionid Extraction Note](https://ceterai.github.io/MyEnternia/Wiki/BionidExtractionNote) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Neon Forest icon" loading="lazy" height="16px" width="auto" /> [The Neon Forest](https://ceterai.github.io/MyEnternia/Wiki/TheNeonForest) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

@@ -15,6 +15,49 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*2* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" height="16px" width="auto" /> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*2* (weight: 0.15)
+- `waterballoon` x*4* (weight: 0.2)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*1* (weight: 0.007)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto_twin/icon.png" alt="Verriskoywa Twin Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Twin Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinAltoFlower) x*1* (weight: 0.006)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*1* (weight: 0.007)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro_twin/icon.png" alt="Verriskoywa Twin Faro Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Twin Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinFaroFlower) x*1* (weight: 0.0065)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*1* (weight: 0.007)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko_twin/icon.png" alt="Verriskoywa Twin Miko Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Twin Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinMikoFlower) x*1* (weight: 0.0065)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*1* (weight: 0.04)
+- <img src="https://starbounder.org/mediawiki/images/1/10/Large_Cooler.png" alt="Large Cooler icon" loading="lazy" height="6px" width="12px" /> [Large Cooler](https://starbounder.org/Large_Cooler) x*1* (weight: 0.04)
+- `oasisbed` x*1* (weight: 0.04)
+- `deckchair` x*1* (weight: 0.04)
+- `reedlamp` x*1* (weight: 0.02)
+- <img src="https://starbounder.org/mediawiki/images/3/30/Turtle_Plushie.png" alt="Turtle Plushie icon" loading="lazy" height="12px" width="11px" /> [Turtle Plushie](https://starbounder.org/Turtle_Plushie) x*1* (weight: 0.01)
+- <img src="https://starbounder.org/mediawiki/images/e/ef/Numi_Plushie.png" alt="Numi Plushie icon" loading="lazy" height="12px" width="12px" /> [Numi Plushie](https://starbounder.org/Numi_Plushie) x*1* (weight: 0.01)
+- `sensorysquidhathead` x*1* (weight: 0.004)
+- `snorkelhead` x*1* (weight: 0.01)
+- `oxygentank` x*1* (weight: 0.01)
+- `divingmaskhead` x*1* (weight: 0.01)
+- `ct_head_mimic-koywa_skirt` x*1* (weight: 0.016)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" height="16px" width="auto" /> [Waterblaster](https://ceterai.github.io/MyEnternia/Wiki/Waterblaster) x*1* (weight: 0.015)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" height="16px" width="auto" /> [Barracuda's Fin](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sFin) x*1* (weight: 0.015)
+- [Barracuda's Horn](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sHorn) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png" alt="Runeva Ball icon" loading="lazy" height="16px" width="auto" /> [Runeva Ball](https://ceterai.github.io/MyEnternia/Wiki/RunevaBall) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_ryushay_ball.png" alt="Ryushay Ball icon" loading="lazy" height="16px" width="auto" /> [Ryushay Ball](https://ceterai.github.io/MyEnternia/Wiki/RyushayBall) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_vizhus_worm.png" alt="Vizhus Worm Plushie icon" loading="lazy" height="16px" width="auto" /> [Vizhus Worm Plushie](https://ceterai.github.io/MyEnternia/Wiki/VizhusWormPlushie) x*1* (weight: 0.02)
+- `reedorgan` x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" height="16px" width="auto" /> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/koywa.png" alt="River Camping Brochure icon" loading="lazy" height="16px" width="auto" /> [River Camping Brochure](https://ceterai.github.io/MyEnternia/Wiki/RiverCampingBrochure) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and The Starflower Order icon" loading="lazy" height="16px" width="auto" /> [Little Star and The Starflower Order](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandTheStarflowerOrder) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" height="16px" width="auto" /> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Observer icon" loading="lazy" height="16px" width="auto" /> [The Observer](https://ceterai.github.io/MyEnternia/Wiki/TheObserver) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

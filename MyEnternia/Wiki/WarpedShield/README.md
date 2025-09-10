@@ -21,6 +21,10 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 - Shield Health: 52
 
+Applies effects on knockback:
+
+- `weakpoison`
+
 ## Sources
 
 Can be bought from merchants:

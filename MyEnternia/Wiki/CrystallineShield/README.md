@@ -22,8 +22,15 @@ Radiomessages on pickup:
 - Shield Health: 56
 - Min time: 0.2s
 - Cooldown: 0.65s
-- Knockback: 10  
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height="16px" width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+- Knockback: 10
+
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height="16px" width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+
+Applies effects when raised:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" height="16px" width="auto" /> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator)
 
 ## Sources
 

@@ -14,9 +14,9 @@ Species descriptions:
 
 ## Parameters
 
-- Effects: 
+Applies effects:
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="Plasmoblockade icon" loading="lazy" height="16px" width="auto" /> [Plasmoblockade](https://ceterai.github.io/MyEnternia/Wiki/Plasmoblockade)- Duration: 60
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="Plasmoblockade icon" loading="lazy" height="16px" width="auto" /> [Plasmoblockade](https://ceterai.github.io/MyEnternia/Wiki/Plasmoblockade) (60s)
 
 ## Usage
 
@@ -27,6 +27,13 @@ Can be used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere)
 
 ## Sources
+
+Can be crafted:
+
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png" alt="Plasma Stim Pack icon" loading="lazy" height="16px" width="auto" /> Plasma Stim Pack x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" height="15px" width="7px" /> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" height="16px" width="8px" /> [Cryonic Extract](https://starbounder.org/Cryonic_Extract) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick) x*1*
 
 Found naturally in containers:
 

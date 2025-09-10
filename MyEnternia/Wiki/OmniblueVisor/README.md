@@ -6,7 +6,9 @@ A visor with an omniblue lightsource. Helps you see in the dark.
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_light.png" alt="Omniblue Light icon" loading="lazy" height="16px" width="auto" /> [Omniblue Light](https://ceterai.github.io/MyEnternia/Wiki/OmniblueLight)
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_light.png" alt="Omniblue Light icon" loading="lazy" height="16px" width="auto" /> [Omniblue Light](https://ceterai.github.io/MyEnternia/Wiki/OmniblueLight)
 
 ## Usage
 
@@ -18,6 +20,13 @@ Can be used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/captain_helmet/icon.png" alt="Security Captain's Helmet ★ icon" loading="lazy" height="16px" width="auto" /> [Security Captain's Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptain'sHelmet)
 
 ## Sources
+
+Can be crafted:
+
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.45s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/visor/icon.png" alt="Omniblue Visor icon" loading="lazy" height="16px" width="auto" /> Omniblue Visor x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" height="10px" width="10px" /> [Prism Shard](https://starbounder.org/Prism_Shard) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*8*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
 
 Found naturally in containers:
 

@@ -6,9 +6,29 @@ This collar provides health monitoring and a way of communication. Designed for 
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_electroblockade.png" alt="Electroblockade icon" loading="lazy" height="16px" width="auto" /> [Electroblockade](https://ceterai.github.io/MyEnternia/Wiki/Electroblockade)
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_electroblockade.png" alt="Electroblockade icon" loading="lazy" height="16px" width="auto" /> [Electroblockade](https://ceterai.github.io/MyEnternia/Wiki/Electroblockade)
+
+## Usage
+
+Can be put on a captured creature.
+
+### Combining Augments
+
+Can be combined with other augments with <img src="https://steamuserimages-a.akamaihd.net/ugc/492401650192978081/D36F8189998DD6C50ADDD04DE064D84870C0A9DE/" alt="Combineable Augments icon" width="16" height="16"/> [Combineable Augments](https://steamcommunity.com/sharedfiles/filedetails/?id=739151610) installed.
+
+### Extracting Augments
+
+Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net/ugc/170410764603380456/965B40D7069D38F5220D2BED17CFF797F73C775A/" alt="Augment Extractor icon" width="16" height="16"/> [Augment Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=855668523) installed.
 
 ## Sources
+
+Can be crafted:
+
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.65s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/industrial_collar/icon.png" alt="Industrial Collar icon" loading="lazy" height="16px" width="auto" /> Industrial Collar x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" height="16px" width="auto" /> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" height="16px" width="auto" /> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
 
 Found naturally in containers:
 

@@ -19,6 +19,23 @@ A simple serving of an alta meal. Can be picked up right away to take a closer l
 
 </details>
 
+## Loot
+
+Drops following **break** loot:
+
+- for threat level **0+** (pool rounds: x*1* (weight: 1.0)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" height="16px" width="auto" /> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" height="16px" width="auto" /> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" height="16px" width="auto" /> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Ion Risotto icon" loading="lazy" height="16px" width="auto" /> [Ion Risotto](https://ceterai.github.io/MyEnternia/Wiki/IonRisotto) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" height="16px" width="auto" /> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Venetto Prime ★ icon" loading="lazy" height="16px" width="auto" /> [Venetto Prime ★](https://ceterai.github.io/MyEnternia/Wiki/VenettoPrime) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Perfect Ion Risotto ★ icon" loading="lazy" height="16px" width="auto" /> [Perfect Ion Risotto ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectIonRisotto) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Blooming Palopias ★ icon" loading="lazy" height="16px" width="auto" /> [Blooming Palopias ★](https://ceterai.github.io/MyEnternia/Wiki/BloomingPalopias) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Juni Porridge w/ Galo ★ icon" loading="lazy" height="16px" width="auto" /> [Juni Porridge w/ Galo ★](https://ceterai.github.io/MyEnternia/Wiki/JuniPorridgewByGalo) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Calin Jam Dumplings icon" loading="lazy" height="16px" width="auto" /> [Calin Jam Dumplings](https://ceterai.github.io/MyEnternia/Wiki/CalinJamDumplings) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Graa Venetto icon" loading="lazy" height="16px" width="auto" /> [Graa Venetto](https://ceterai.github.io/MyEnternia/Wiki/GraaVenetto) x*1* (weight: 0.08)
+
 ## Sources
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).

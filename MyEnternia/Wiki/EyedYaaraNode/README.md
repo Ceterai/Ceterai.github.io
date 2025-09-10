@@ -25,6 +25,18 @@ These bulb-like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/mai
 - Stem/Stipe: `ct_yaara_baobab_stem`
 - Foliage/Cap: `ct_yaara_eye_leaves`
 
+Growing stages:
+
+1. Lasts from 320 to 480 seconds.
+2. Lasts from 320 to 480 seconds.
+3. Lasts from 320 to 480 seconds.
+4. Lasts from 320 to 480 seconds.
+5. Lasts from 320 to 480 seconds.
+6. Lasts from 320 to 480 seconds.
+7. Lasts from 320 to 480 seconds.
+8. Lasts from 320 to 480 seconds.
+9. Grows into a full tree.
+
 ## Usage
 
 ### Crafting
@@ -37,11 +49,41 @@ Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" height="16px" width="auto" /> [Wild Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraEyeSprout)
 
+## Loot
+
+Stem drops:
+
+- drop option 1
+
+  - for threat level **0+**:
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2* (weight: 1.0)
+
+Foliage drops:
+
+- drop option 1
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*2* (weight: 1.0)
+
+- drop option 2
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1* (weight: 1.0)
+
 ## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" height="16px" width="auto" /> [Crystal Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/CrystalYaaraNode)
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" height="16px" width="auto" /> Eyed Yaara Node x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="Yaara Prime Roots icon" loading="lazy" height="16px" width="auto" /> [Yaara Prime Roots](https://ceterai.github.io/MyEnternia/Wiki/YaaraPrimeRoots) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
 
 Found naturally in containers:
 

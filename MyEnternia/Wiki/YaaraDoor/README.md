@@ -21,6 +21,11 @@ A door made from interlocking vines.
 
 ## Sources
 
+Can be crafted:
+
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/door/icon.png" alt="Yaara Door icon" loading="lazy" height="16px" width="auto" /> Yaara Door x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*6*
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
@@ -29,7 +34,7 @@ Can be bought from merchants:
 
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 6 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 7 items)</summary>
 
 - [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
@@ -37,6 +42,7 @@ Can be bought from merchants:
 - [Yaara Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraSprout)
 - [Yaarafinger](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger)
 - [Yaaraling](https://ceterai.github.io/MyEnternia/Wiki/Yaaraling)
+- [Yaaviling](https://ceterai.github.io/MyEnternia/Wiki/Yaaviling)
 
 </details>
 

@@ -25,6 +25,22 @@ A greenish mushroom.
 
 This object **doesn't drop itself** when broken.
 
+## Loot
+
+Drops following **drop option 1** loot:
+
+- for threat level **0+**:
+- <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" height="9px" width="12px" /> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 1.0)
+
+Drops following **drop option 2** loot:
+
+- for threat level **0+**:
+- <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" height="9px" width="12px" /> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 1.0)
+
+Drops following **drop option 3** loot:
+
+- for threat level **0+**:
+
 ## Sources
 
 Given as rent by tenants:

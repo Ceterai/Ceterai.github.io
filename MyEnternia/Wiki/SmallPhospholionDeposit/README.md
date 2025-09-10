@@ -25,6 +25,24 @@ This moonrock formation seems suspicious.
 
 This object **doesn't drop itself** when broken.
 
+## Loot
+
+Drops following **drop option 1** loot:
+
+- for threat level **0+**:
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" height="16px" width="auto" /> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" height="10px" width="10px" /> [Moonrock](https://starbounder.org/Moonrock) x*1* (weight: 1.0)
+
+Drops following **drop option 2** loot:
+
+- for threat level **0+**:
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" height="16px" width="auto" /> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*1* (weight: 1.0)
+
+Drops following **drop option 3** loot:
+
+- for threat level **0+**:
+- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" height="10px" width="10px" /> [Moonrock](https://starbounder.org/Moonrock) x*1* (weight: 1.0)
+
 ## Sources
 
 Found naturally in containers:

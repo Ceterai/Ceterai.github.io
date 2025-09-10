@@ -24,7 +24,54 @@ A chest-like growth with a natural compartment perfectly fit for some loot.
 - Slot Count: 16  
 - Health: 1.5
 
+## Loot
+
+Contains following treasure when found naturally in biomes:
+
+- for threat level **0+**:
+  - loot pool `ct_warped_loot`:
+    - for threat level **0+** (pool rounds: x*4* (weight: 0.1), x*5* (weight: 0.4), x*6* (weight: 0.4), x*7* (weight: 0.1)):
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" height="16px" width="auto" /> [Warped Hive](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive) x*1* (weight: 0.02)
+    - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height="14px" width="15px" /> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*3* (weight: 0.1)
+    - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height="14px" width="15px" /> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*4* (weight: 0.05)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_glowbomb.png" alt="Warped Fumes icon" loading="lazy" height="16px" width="auto" /> [Warped Fumes](https://ceterai.github.io/MyEnternia/Wiki/WarpedFumes) x*3* (weight: 0.1)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" height="16px" width="auto" /> [Warped Hive](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive) x*2* (weight: 0.1)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/yonnur.png" alt="Yonnur Glowstick icon" loading="lazy" height="16px" width="auto" /> [Yonnur Glowstick](https://ceterai.github.io/MyEnternia/Wiki/YonnurGlowstick) x*2* (weight: 0.03)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_warped_smoker/icon.png" alt="Warped Smoke Source icon" loading="lazy" height="16px" width="auto" /> [Warped Smoke Source](https://ceterai.github.io/MyEnternia/Wiki/WarpedSmokeSource) x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_geyser/icon.png" alt="Nivera-Overgrown Geyser icon" loading="lazy" height="16px" width="auto" /> [Nivera-Overgrown Geyser](https://ceterai.github.io/MyEnternia/Wiki/Nivera-OvergrownGeyser) x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Young Thorns icon" loading="lazy" height="16px" width="auto" /> [Nivera Young Thorns](https://ceterai.github.io/MyEnternia/Wiki/NiveraYoungThorns) x*1* (weight: 0.005)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Rose Thorns icon" loading="lazy" height="16px" width="auto" /> [Nivera Rose Thorns](https://ceterai.github.io/MyEnternia/Wiki/NiveraRoseThorns) x*1* (weight: 0.005)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Coral Thorns icon" loading="lazy" height="16px" width="auto" /> [Nivera Coral Thorns](https://ceterai.github.io/MyEnternia/Wiki/NiveraCoralThorns) x*1* (weight: 0.005)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Twisted Thorns icon" loading="lazy" height="16px" width="auto" /> [Nivera Twisted Thorns](https://ceterai.github.io/MyEnternia/Wiki/NiveraTwistedThorns) x*1* (weight: 0.005)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/bed/icon.png" alt="Warped Bed icon" loading="lazy" height="16px" width="auto" /> [Warped Bed](https://ceterai.github.io/MyEnternia/Wiki/WarpedBed) x*1* (weight: 0.04)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chair/icon.png" alt="Warped Chair icon" loading="lazy" height="16px" width="auto" /> [Warped Chair](https://ceterai.github.io/MyEnternia/Wiki/WarpedChair) x*1* (weight: 0.04)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest) x*1* (weight: 0.04)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/door/icon.png" alt="Warped Door icon" loading="lazy" height="16px" width="auto" /> [Warped Door](https://ceterai.github.io/MyEnternia/Wiki/WarpedDoor) x*1* (weight: 0.04)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/drainer/icon.png" alt="Warped Drainer icon" loading="lazy" height="16px" width="auto" /> [Warped Drainer](https://ceterai.github.io/MyEnternia/Wiki/WarpedDrainer) x*1* (weight: 0.04)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/lamp/icon.png" alt="Warped Lamp icon" loading="lazy" height="16px" width="auto" /> [Warped Lamp](https://ceterai.github.io/MyEnternia/Wiki/WarpedLamp) x*1* (weight: 0.04)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/light/icon.png" alt="Warped Light icon" loading="lazy" height="16px" width="auto" /> [Warped Light](https://ceterai.github.io/MyEnternia/Wiki/WarpedLight) x*1* (weight: 0.04)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/table/icon.png" alt="Warped Table icon" loading="lazy" height="16px" width="auto" /> [Warped Table](https://ceterai.github.io/MyEnternia/Wiki/WarpedTable) x*1* (weight: 0.04)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_warped_augment.png" alt="Warped Augment ★ icon" loading="lazy" height="16px" width="auto" /> [Warped Augment ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedAugment) x*1* (weight: 0.015)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_warped_collar.png" alt="Poison Cloud Collar icon" loading="lazy" height="16px" width="auto" /> [Poison Cloud Collar](https://ceterai.github.io/MyEnternia/Wiki/PoisonCloudCollar) x*1* (weight: 0.015)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Warped Glowtail icon" loading="lazy" height="16px" width="auto" /> [Warped Glowtail](https://ceterai.github.io/MyEnternia/Wiki/WarpedGlowtail) x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" height="16px" width="auto" /> [Warped Gun](https://ceterai.github.io/MyEnternia/Wiki/WarpedGun) x*1* (weight: 0.02)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk.png" alt="Niverisk icon" loading="lazy" height="16px" width="auto" /> [Niverisk](https://ceterai.github.io/MyEnternia/Wiki/Niverisk) x*1* (weight: 0.02)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" height="16px" width="auto" /> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh) x*1* (weight: 0.06)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" height="16px" width="auto" /> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed) x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" height="16px" width="auto" /> [Warped Hive](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive) x*3* (weight: 0.03)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" height="16px" width="auto" /> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation) x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" height="16px" width="auto" /> [A Sentia's Crown](https://ceterai.github.io/MyEnternia/Wiki/ASentia'sCrown) x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" height="16px" width="auto" /> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment) x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" height="16px" width="auto" /> [Glowing Kingdom](https://ceterai.github.io/MyEnternia/Wiki/GlowingKingdom) x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Warped Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/WarpedLootCrate) x*1* (weight: 0.02)
+
 ## Sources
+
+Can be crafted:
+
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" height="16px" width="auto" /> Warped Chest x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" height="16px" width="auto" /> [Warped Hive](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" height="14px" width="15px" /> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*12*
 
 Found naturally in containers:
 

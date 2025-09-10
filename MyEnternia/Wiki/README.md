@@ -17,4 +17,5 @@ Navigation:
 - [Items](Items)
 - [Effects](Effects)
 - [Tenants](Tenants)
+- [Weather](Weather)
 - [Tags](Tags)

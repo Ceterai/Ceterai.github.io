@@ -14,7 +14,7 @@ Applied by following items:
 - Default Duration: 2s
 - Effect parameters: 
 
-- Particle Emitters: `love`
+- Particle Emitters: <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Love icon" loading="lazy" height="15px" width="15px" /> [Love](https://starbounder.org/Personality#NPC_Reactions)
 
 ## Technical Information
 

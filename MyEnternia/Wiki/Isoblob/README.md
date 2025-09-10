@@ -25,6 +25,10 @@ A vile bubble of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/ma
 
 This object **doesn't drop itself** when broken.
 
+## Loot
+
+Drops following **smash** loot:
+
 ## Sources
 
 Found naturally in containers:

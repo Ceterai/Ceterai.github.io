@@ -14,9 +14,10 @@ Species descriptions:
 ## Parameters
 
 - Blocking Effects: `bandageheal`, `medkitheal`, `nanowrapheal`
-- Effects: 
 
-- Effect: `bandageheal`
+Applies effects:
+
+- `bandageheal` (0s)
 
 ## Sources
 

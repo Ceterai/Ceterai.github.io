@@ -10,6 +10,18 @@ Radiomessages on pickup:
 
 - You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
 
+## Usage
+
+Can be put on a captured creature.
+
+### Combining Augments
+
+Can be combined with other augments with <img src="https://steamuserimages-a.akamaihd.net/ugc/492401650192978081/D36F8189998DD6C50ADDD04DE064D84870C0A9DE/" alt="Combineable Augments icon" width="16" height="16"/> [Combineable Augments](https://steamcommunity.com/sharedfiles/filedetails/?id=739151610) installed.
+
+### Extracting Augments
+
+Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net/ugc/170410764603380456/965B40D7069D38F5220D2BED17CFF797F73C775A/" alt="Augment Extractor icon" width="16" height="16"/> [Augment Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=855668523) installed.
+
 ## Sources
 
 Found naturally in containers:

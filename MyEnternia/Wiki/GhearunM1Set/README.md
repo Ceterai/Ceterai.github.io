@@ -16,6 +16,16 @@ Radiomessages on pickup:
 
 - Looks like you have acquired a set of alta equipment. These usually contain a full set of armor with corresponding documentation. Due to being created in bulk, sets are often much cheaper to craft than it is to craft their components separately.
 
+## Loot
+
+When used:
+
+- for threat level **1+**:
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/helmet/icon.png" alt="Ghearun M1 Helm icon" loading="lazy" height="16px" width="auto" /> [Ghearun M1 Helm](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Helm) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/chest/icon.png" alt="Ghearun M1 Chest icon" loading="lazy" height="16px" width="auto" /> [Ghearun M1 Chest](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Chest) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/legwear/icon.png" alt="Ghearun M1 Greaves icon" loading="lazy" height="16px" width="auto" /> [Ghearun M1 Greaves](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Greaves) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/back/icon.png" alt="Ghearun M1 Forcefield icon" loading="lazy" height="16px" width="auto" /> [Ghearun M1 Forcefield](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Forcefield) x*1* (always present)
+
 ## Sources
 
 Found naturally in containers:

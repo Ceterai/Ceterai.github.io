@@ -12,10 +12,6 @@ Species descriptions:
 - Alta: This mask belongs to a yaara keeper. Am I allowed to wear it?
 - Floran: Sssacred hat for ritual Floran dancess!
 
-## Parameters
-
-- Leveled Status Effects: 
-
 ## Sources
 
 Found naturally in containers:

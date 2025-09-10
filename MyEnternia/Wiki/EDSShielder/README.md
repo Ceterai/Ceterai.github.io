@@ -18,9 +18,9 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ## Parameters
 
-- Effects: 
+Applies effects:
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" height="16px" width="auto" /> [EDS Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSEnergyShield)- Duration: 60
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" height="16px" width="auto" /> [EDS Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSEnergyShield) (60s)
 
 ## Usage
 
@@ -31,6 +31,13 @@ Can be used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" height="16px" width="auto" /> [EDS Body Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSBodyArmor)
 
 ## Sources
+
+Can be crafted:
+
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.45s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_eds_shielder.png" alt="EDS Shielder ★ icon" loading="lazy" height="16px" width="auto" /> EDS Shielder ★ x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" height="10px" width="10px" /> [Prism Shard](https://starbounder.org/Prism_Shard) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/7/7d/Refined_Violium.png" alt="Refined Violium icon" loading="lazy" height="11px" width="11px" /> [Refined Violium](https://starbounder.org/Refined_Violium) x*1*
 
 Can be bought from merchants:
 

@@ -25,6 +25,18 @@ An almost spiral-like <img src="https://raw.githubusercontent.com/Ceterai/Entern
 - Stem/Stipe: `ct_tonnova_spiral_stem`
 - Foliage/Cap: `ct_tonnova_bulb`
 
+Growing stages:
+
+1. Lasts from 360 to 560 seconds.
+2. Lasts from 360 to 560 seconds.
+3. Lasts from 360 to 560 seconds.
+4. Lasts from 360 to 560 seconds.
+5. Lasts from 360 to 560 seconds.
+6. Lasts from 360 to 560 seconds.
+7. Lasts from 360 to 560 seconds.
+8. Lasts from 360 to 560 seconds.
+9. Grows into a full tree.
+
 ## Usage
 
 ### Crafting
@@ -34,11 +46,67 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" height="16px" width="auto" /> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" height="16px" width="auto" /> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber)
 
+## Loot
+
+Stem drops:
+
+- drop option 1
+
+  - for threat level **0+**:
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height="16px" width="auto" /> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*1* (weight: 1.0)
+
+- drop option 2
+
+  - for threat level **0+**:
+
+- drop option 3
+
+  - for threat level **0+**:
+
+- drop option 4
+
+  - for threat level **0+**:
+
+Foliage drops:
+
+- drop option 1
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*3* (weight: 1.0)
+
+- drop option 2
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*2* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height="16px" width="auto" /> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*1* (weight: 1.0)
+
+- drop option 3
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height="16px" width="auto" /> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*2* (weight: 1.0)
+
+- drop option 4
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*2* (weight: 1.0)
+
 ## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" height="16px" width="auto" /> [Tonnova Tree](https://ceterai.github.io/MyEnternia/Wiki/TonnovaTree)
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_spiral_tree.png" alt="Tonnova Spiral icon" loading="lazy" height="16px" width="auto" /> Tonnova Spiral x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" height="16px" width="auto" /> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*6*
+  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" height="9px" width="12px" /> [Bio Sample](https://starbounder.org/Bio_Sample) x*2*
 
 Found naturally in containers:
 

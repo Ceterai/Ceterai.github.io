@@ -23,6 +23,10 @@ A big sap bubble. Sap sticks together, forming round blobs like this one.
 
 This object **doesn't drop itself** when broken.
 
+## Loot
+
+Drops following **smash** loot:
+
 ## Sources
 
 Found naturally in containers:

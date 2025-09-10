@@ -47,6 +47,12 @@ Can be used in transmutation studies in the <img src="https://steamuserimages-a.
 
 ## Sources
 
+Can be crafted:
+
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" height="16px" width="auto" /> Phospholion x*16*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_formation/icon.png" alt="Phospholion Formation icon" loading="lazy" height="16px" width="auto" /> [Phospholion Formation](https://ceterai.github.io/MyEnternia/Wiki/PhospholionFormation) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" height="16px" width="8px" /> [Cryonic Extract](https://starbounder.org/Cryonic_Extract) x*1*
+
 Found naturally in containers:
 
 - <img src="https://starbounder.org/mediawiki/images/4/4f/Mining_Chest.png" alt="Mining Chest icon" loading="lazy" height="12px" width="18px" /> [Mining Chest](https://starbounder.org/Mining_Chest)

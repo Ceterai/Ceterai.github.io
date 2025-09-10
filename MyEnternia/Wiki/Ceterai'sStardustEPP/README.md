@@ -12,15 +12,18 @@ Radiomessages on pickup:
 
 ## Parameters
 
-- Status Effects: 
+Applies effects:
 
-- Stat: `enterniaStatusImmunity`- Amount: 1.0, 
+- `enterniaStatusImmunity` +1.0
+- `voidStatusImmunity` +1.0
+- <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" height="16px" width="16px" /> [Electric Status Immunity](https://starbounder.org/Electric_Resistance) +1.0
+- `electricResistance` +0.2
 
-- Stat: `voidStatusImmunity`- Amount: 1.0, 
+## Usage
 
-- Stat: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" height="16px" width="16px" /> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)- Amount: 1.0, 
+### Compressing
 
-- Stat: `electricResistance`- Amount: 0.2
+Can be compressed into an augment with <img src="https://steamuserimages-a.akamaihd.net/ugc/2524912417443652944/82F62A8B2AF67509CF6C97B866FD92F01C736540/" alt="EPP Effect Extractor icon" width="16" height="16"/> [EPP Effect Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3285832520) installed.
 
 ## Sources
 

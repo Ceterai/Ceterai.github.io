@@ -15,11 +15,11 @@ Species descriptions:
 
 - Food Value: 10
 - Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
-- Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/lost.png:1" alt="Confused icon" loading="lazy" height="16px" width="auto" /> [Confused](https://ceterai.github.io/MyEnternia/Wiki/Confused)- Duration: 120, 
+Applies effects:
 
-- Effect: `iceblockaugment`- Duration: 240
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/lost.png:1" alt="Confused icon" loading="lazy" height="16px" width="auto" /> [Confused](https://ceterai.github.io/MyEnternia/Wiki/Confused) (120s)
+- <img src="https://starbounder.org/mediawiki/images/8/88/Ice_Resist_Augment.png" alt="Ice Block icon" loading="lazy" height="16px" width="11px" /> [Ice Block (Augment)](https://starbounder.org/Ice_Resist_Augment) (240s)
 
 Other variants:
 
@@ -55,6 +55,13 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Viona Fresh icon" loading="lazy" height="16px" width="auto" /> [Viona Fresh](https://ceterai.github.io/MyEnternia/Wiki/VionaFresh)
 
 </details>
+
+Can be crafted:
+
+- <img src="https://starbounder.org/mediawiki/images/b/b2/Chic_Cooking_Table.png" alt="Cooking Stations icon" width="12" height="8"/> [Cooking Stations](https://starbounder.org/Cooking#Meal_Prep_Stations), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" height="16px" width="auto" /> Vermont Tea x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" height="16px" width="auto" /> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" height="16px" width="auto" /> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" height="16px" width="auto" /> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay) x*1*
 
 Can be bought from merchants:
 

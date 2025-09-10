@@ -22,6 +22,10 @@ Radiomessages on pickup:
 - Cooldown: 0.9s
 - Knockback: 10
 
+Applies effects on knockback:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_analyzed.png" alt="Analyzed icon" loading="lazy" height="16px" width="auto" /> [Analyzed](https://ceterai.github.io/MyEnternia/Wiki/Analyzed)
+
 ## Sources
 
 Can be bought from merchants:

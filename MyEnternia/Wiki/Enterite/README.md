@@ -40,6 +40,13 @@ Can be used in transmutation studies in the <img src="https://steamuserimages-a.
 
 ## Sources
 
+Can be crafted:
+
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.15s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_enterite.png" alt="Enterite icon" loading="lazy" height="16px" width="auto" /> Enterite x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/6/6a/Static_Cell.png" alt="Static Cell icon" loading="lazy" height="14px" width="9px" /> [Static Cell](https://starbounder.org/Static_Cell) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/f/f2/Hardened_Carapace.png" alt="Hardened Carapace icon" loading="lazy" height="10px" width="14px" /> [Hardened Carapace](https://starbounder.org/Hardened_Carapace) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" height="14px" width="10px" /> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*1*
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)

@@ -20,6 +20,16 @@ Can be used to craft:
 
 ## Sources
 
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.1s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" height="16px" width="auto" /> Gyera Blaster x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_grass_seeds.png" alt="Omni Grass Seeds ★ icon" loading="lazy" height="16px" width="auto" /> [Omni Grass Seeds ★](https://ceterai.github.io/MyEnternia/Wiki/OmniGrassSeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_flowery_grass_seeds.png" alt="Omni Flowery Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> [Omni Flowery Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniFlowerySeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_lush_grass_seeds.png" alt="Omni Lush Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> [Omni Lush Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniLushSeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.png" alt="Omni Thick Seeds icon" loading="lazy" height="16px" width="auto" /> [Omni Thick Seeds](https://ceterai.github.io/MyEnternia/Wiki/OmniThickSeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="Scout Emergencer icon" loading="lazy" height="16px" width="auto" /> [Scout Emergencer](https://ceterai.github.io/MyEnternia/Wiki/ScoutEmergencer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" height="16px" width="auto" /> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken) x*4*
+
 Found naturally in containers:
 
 - <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" height="9.75px" width="12px" /> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)

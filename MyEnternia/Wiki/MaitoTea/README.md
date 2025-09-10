@@ -15,13 +15,12 @@ Species descriptions:
 
 - Food Value: 10
 - Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
-- Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/sleepy.png:1" alt="Bored icon" loading="lazy" height="16px" width="auto" /> [Bored](https://ceterai.github.io/MyEnternia/Wiki/Bored)- Duration: 120, 
+Applies effects:
 
-- Effect: `regeneration1`- Duration: 180, 
-
-- Effect: `lowgrav`- Duration: 180
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/sleepy.png:1" alt="Bored icon" loading="lazy" height="16px" width="auto" /> [Bored](https://ceterai.github.io/MyEnternia/Wiki/Bored) (120s)
+- <img src="https://starbounder.org/mediawiki/images/b/b3/Status_Regeneration.png" alt="Regeneration I icon" loading="lazy" height="16px" width="16px" /> [Regeneration I](https://starbounder.org/Regeneration_(Buff)) (180s)
+- `lowgrav` (180s)
 
 Other variants:
 
@@ -58,6 +57,13 @@ Can be used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Virmakada icon" loading="lazy" height="16px" width="auto" /> [Virmakada](https://ceterai.github.io/MyEnternia/Wiki/Virmakada)
 
 </details>
+
+Can be crafted:
+
+- <img src="https://starbounder.org/mediawiki/images/b/b2/Chic_Cooking_Table.png" alt="Cooking Stations icon" width="12" height="8"/> [Cooking Stations](https://starbounder.org/Cooking#Meal_Prep_Stations), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" height="16px" width="auto" /> Maito Tea x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" height="9px" width="12px" /> [Bio Sample](https://starbounder.org/Bio_Sample) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*1*
 
 Can be bought from merchants:
 

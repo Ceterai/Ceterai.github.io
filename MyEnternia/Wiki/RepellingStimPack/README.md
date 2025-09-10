@@ -13,9 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Effects: 
+Applies effects:
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" height="16px" width="auto" /> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller)- Duration: 120
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" height="16px" width="auto" /> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller) (120s)
 
 ## Sources
 

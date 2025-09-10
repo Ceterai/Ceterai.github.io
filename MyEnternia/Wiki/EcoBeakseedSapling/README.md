@@ -10,6 +10,16 @@ Species descriptions:
 
 - Alta: A nutty fruit beloved by crunch lovers.
 
+## Parameters
+
+Growing stages:
+
+1. Lasts from 500 to 600 seconds.
+2. Lasts from 500 to 600 seconds.
+3. Lasts from 1660 to 1720 seconds.
+4. Can be harvested:
+`beakseedHarvest`
+
 ## Usage
 
 ### Crafting

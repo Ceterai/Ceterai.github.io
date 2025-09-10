@@ -15,6 +15,37 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" height="16px" width="16px" /> [Cloud](https://starbounder.org/Cloud) x*4* (weight: 0.15)
+- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" height="10px" width="10px" /> [Prism Shard](https://starbounder.org/Prism_Shard) x*2* (weight: 0.15)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ceterteal.png" alt="Ceterteal Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ceterteal Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CetertealGlowstick) x*2* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick) x*2* (weight: 0.05)
+- `rainbowbed` x*1* (weight: 0.06)
+- `rainbowchair` x*1* (weight: 0.07)
+- <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" height="12px" width="12px" /> [Rainbow Chest](https://starbounder.org/Rainbow_Chest) x*1* (weight: 0.05)
+- `rainbowdoor` x*1* (weight: 0.06)
+- `rainbowunicornstatue` x*1* (weight: 0.02)
+- `rainbowtable` x*1* (weight: 0.06)
+- <img src="https://starbounder.org/mediawiki/images/3/3e/Prism_Magenta_Lamp.png" alt="Prism Magenta Lamp icon" loading="lazy" height="10.5px" width="6px" /> [Prism Magenta Lamp](https://starbounder.org/Prism_Magenta_Lamp) x*1* (weight: 0.015)
+- <img src="https://starbounder.org/mediawiki/images/0/07/Prism_Emerald_Lamp.png" alt="Prism Emerald Lamp icon" loading="lazy" height="8px" width="6px" /> [Prism Emerald Lamp](https://starbounder.org/Prism_Emerald_Lamp) x*1* (weight: 0.015)
+- <img src="https://starbounder.org/mediawiki/images/9/93/Prism_Cyan_Lamp.png" alt="Prism Cyan Lamp icon" loading="lazy" height="10.5px" width="6px" /> [Prism Cyan Lamp](https://starbounder.org/Prism_Cyan_Lamp) x*1* (weight: 0.015)
+- `telescope` x*1* (weight: 0.005)
+- `pastelbunnyplush` x*1* (weight: 0.015)
+- `unicornplush` x*1* (weight: 0.015)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" height="16px" width="auto" /> [Arknight's Shield](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sShield) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance.png" alt="Sky Lance icon" loading="lazy" height="16px" width="auto" /> [Sky Lance](https://ceterai.github.io/MyEnternia/Wiki/SkyLance) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ceterteal.png" alt="Ceterteal Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ceterteal Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CetertealGlowstick) x*4* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick) x*4* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_eva_collar.png" alt="Evarus Collar icon" loading="lazy" height="16px" width="auto" /> [Evarus Collar](https://ceterai.github.io/MyEnternia/Wiki/EvarusCollar) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Arknight's Handbook icon" loading="lazy" height="16px" width="auto" /> [Arknight's Handbook](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sHandbook) x*1* (weight: 0.0134)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" height="16px" width="auto" /> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature) x*1* (weight: 0.0134)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" height="16px" width="auto" /> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs) x*1* (weight: 0.0132)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="Eva Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Eva Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EvaLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

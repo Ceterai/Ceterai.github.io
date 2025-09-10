@@ -21,6 +21,11 @@ A floating [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) p
 
 ## Sources
 
+Can be crafted:
+
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/platform/icon.png" alt="Gheatsyn Platform icon" loading="lazy" height="16px" width="auto" /> Gheatsyn Platform x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatsyn_crystal/icon.png" alt="Gheatsyn Crystal icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Crystal](https://ceterai.github.io/MyEnternia/Wiki/GheatsynCrystal) x*4*
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)

@@ -29,6 +29,11 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" height="16px" width="auto" /> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
 
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" height="16px" width="auto" /> Ariling Egg x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" height="16px" width="auto" /> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling) x*1*
+
 Obtained by capturing creatures with any **bugnet**:
 
 - `ct_ariling`

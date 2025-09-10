@@ -25,7 +25,53 @@ A very suspicious-looking [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/
 - Stem/Stipe: `ct_aric_shady`
 - Foliage/Cap: `ct_mooplic`
 
+Growing stages:
+
+1. Lasts from 320 to 480 seconds.
+2. Lasts from 320 to 480 seconds.
+3. Lasts from 320 to 480 seconds.
+4. Lasts from 320 to 480 seconds.
+5. Lasts from 320 to 480 seconds.
+6. Lasts from 320 to 480 seconds.
+7. Lasts from 320 to 480 seconds.
+8. Lasts from 320 to 480 seconds.
+9. Grows into a full tree.
+
+## Loot
+
+Stem drops:
+
+- drop option 1
+
+  - for threat level **0+**:
+  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" height="9px" width="12px" /> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 1.0)
+
+- drop option 2
+
+  - for threat level **0+**:
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" height="13px" width="12px" /> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
+
+- drop option 3
+
+  - for threat level **0+**:
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" height="13px" width="12px" /> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
+
+Foliage drops:
+
+- drop option 1
+
+  - for threat level **0+**:
+  - `sapling` x*1* (weight: 1.0)
+
 ## Sources
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_mooplic_shady.png" alt="Mooplic Shroom icon" loading="lazy" height="16px" width="auto" /> Mooplic Shroom x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" height="13px" width="12px" /> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*8*
+  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" height="9px" width="12px" /> [Bio Sample](https://starbounder.org/Bio_Sample) x*8*
+  - <img src="https://starbounder.org/mediawiki/images/3/3d/Venom_Sample.png" alt="Venom Sample icon" loading="lazy" height="13px" width="12px" /> [Venom Sample](https://starbounder.org/Venom_Sample) x*1*
 
 Found naturally in containers:
 

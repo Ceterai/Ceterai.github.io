@@ -22,6 +22,10 @@ Radiomessages on pickup:
 - Cooldown: 0.9s
 - Knockback: 10
 
+Applies effects on knockback:
+
+- <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" height="16px" width="16px" /> [Burning](https://starbounder.org/Burning)
+
 ## Sources
 
 Can be bought from merchants:

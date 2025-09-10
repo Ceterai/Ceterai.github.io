@@ -19,6 +19,10 @@ Radiomessages on pickup:
 
 - Shield Health: 56
 
+Applies effects on knockback:
+
+- `frostslow`
+
 ## Sources
 
 Can be bought from merchants:

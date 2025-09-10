@@ -12,6 +12,17 @@ Radiomessages on pickup:
 
 ## Sources
 
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.1s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" height="16px" width="auto" /> Yaara Wand ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_grass_seeds.png" alt="Omni Grass Seeds ★ icon" loading="lazy" height="16px" width="auto" /> [Omni Grass Seeds ★](https://ceterai.github.io/MyEnternia/Wiki/OmniGrassSeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_flowery_grass_seeds.png" alt="Omni Flowery Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> [Omni Flowery Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniFlowerySeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_lush_grass_seeds.png" alt="Omni Lush Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> [Omni Lush Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniLushSeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.png" alt="Omni Thick Seeds icon" loading="lazy" height="16px" width="auto" /> [Omni Thick Seeds](https://ceterai.github.io/MyEnternia/Wiki/OmniThickSeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_colorful_grass_seeds.png" alt="Omni Colorful Seeds ★ icon" loading="lazy" height="16px" width="auto" /> [Omni Colorful Seeds ★](https://ceterai.github.io/MyEnternia/Wiki/OmniColorfulSeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.png" alt="Omni Crimson Seeds ★ icon" loading="lazy" height="16px" width="auto" /> [Omni Crimson Seeds ★](https://ceterai.github.io/MyEnternia/Wiki/OmniCrimsonSeeds) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*16*
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" height="16px" width="auto" /> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)

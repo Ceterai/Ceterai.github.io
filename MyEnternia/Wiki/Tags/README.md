@@ -1,6 +1,6 @@
 # Tags
 
-This mod adds 387 tags.
+This mod adds 388 tags.
 
 - [Agaranic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Agaranic)
 - [Aid](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid)
@@ -162,6 +162,7 @@ This mod adds 387 tags.
 - [Ghearun](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun)
 - [Gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatorn)
 - [Gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn)
+- [Giantflower](https://ceterai.github.io/MyEnternia/Wiki/Tags/Giantflower)
 - [Gil](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil)
 - [Glitchcastle](https://ceterai.github.io/MyEnternia/Wiki/Tags/Glitchcastle)
 - [Glowstick](https://ceterai.github.io/MyEnternia/Wiki/Tags/Glowstick)

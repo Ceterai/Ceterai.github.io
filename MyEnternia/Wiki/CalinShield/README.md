@@ -24,6 +24,10 @@ Radiomessages on pickup:
 - Cooldown: 0.45s
 - Knockback: 10
 
+Applies effects on knockback:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" height="16px" width="auto" /> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+
 ## Sources
 
 Found naturally in containers:

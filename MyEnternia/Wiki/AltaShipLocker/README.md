@@ -1,6 +1,6 @@
 # Alta Ship Locker
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Locker** is a common storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Locker** is a rare storage unit.
 
 A locker. Store some stuff, why don't you?
 
@@ -31,7 +31,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_locker`
-- Power: `1.0`
-- Rarity: `Common`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage)
+- Power: `3.0`
+- Rarity: `Rare`
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage)
 - File: [`/objects/alta/ship/special/locker/ct_alta_ship_locker.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/ship/special/locker/ct_alta_ship_locker.object)

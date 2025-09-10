@@ -1,10 +1,10 @@
 # Common Tag
 
-The tag `common` contains 344 total entries.
+The tag `common` contains 340 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 207 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 204 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" height="16px" width="auto" /> [A.R.C.O. Emblem](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Emblem)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_agitate/icon.png" alt="Alta Agitational Stand icon" loading="lazy" height="16px" width="auto" /> [Alta Agitational Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaAgitationalStand)
@@ -48,10 +48,7 @@ The tag `common` contains 344 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate_stack/icon.png" alt="Alta Plate Stack icon" loading="lazy" height="16px" width="auto" /> [Alta Plate Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaPlateStack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/pot/icon.png" alt="Alta Pot icon" loading="lazy" height="16px" width="auto" /> [Alta Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaPot)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_promo/icon.png" alt="Alta Promo Stand icon" loading="lazy" height="16px" width="auto" /> [Alta Promo Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaPromoStand)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/captains_chair/icon.png" alt="Alta Ship Captain's Chair icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Captain's Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaShipCaptain'sChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/chair/icon.png" alt="Alta Ship Chair icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaShipChair)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Locker](https://ceterai.github.io/MyEnternia/Wiki/AltaShipLocker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Alta Ship S.A.I.L icon" loading="lazy" height="16px" width="auto" /> [Alta Ship S.A.I.L](https://ceterai.github.io/MyEnternia/Wiki/AltaShipS.A.I.L)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/sink/icon.png" alt="Alta Sink icon" loading="lazy" height="16px" width="auto" /> [Alta Sink](https://ceterai.github.io/MyEnternia/Wiki/AltaSink)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/spicer/icon.png" alt="Alta Spicer icon" loading="lazy" height="16px" width="auto" /> [Alta Spicer](https://ceterai.github.io/MyEnternia/Wiki/AltaSpicer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/basic/icon.png" alt="Alta Sprinkler icon" loading="lazy" height="16px" width="auto" /> [Alta Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaSprinkler)
@@ -220,7 +217,7 @@ The tag `common` contains 344 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 137 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 136 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_baton.png" alt="Alta Baton icon" loading="lazy" height="16px" width="auto" /> [Alta Baton](https://ceterai.github.io/MyEnternia/Wiki/AltaBaton)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bow/icon.png" alt="Alta Bow icon" loading="lazy" height="16px" width="auto" /> [Alta Bow](https://ceterai.github.io/MyEnternia/Wiki/AltaBow)
@@ -239,7 +236,6 @@ The tag `common` contains 344 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear icon" loading="lazy" height="16px" width="auto" /> [Alta Pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear Jam icon" loading="lazy" height="16px" width="auto" /> [Alta Pear Jam](https://ceterai.github.io/MyEnternia/Wiki/AltaPearJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon.png" alt="Alta Pick icon" loading="lazy" height="16px" width="auto" /> [Alta Pick](https://ceterai.github.io/MyEnternia/Wiki/AltaPick)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/captains_chair/icon.png" alt="Alta Ship Captain's Chair icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Captain's Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaShipCaptain'sChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/tazer/body.png" alt="Alta Tazer icon" loading="lazy" height="16px" width="auto" /> [Alta Tazer](https://ceterai.github.io/MyEnternia/Wiki/AltaTazer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/watering_can/icon.png" alt="Alta Watering Can icon" loading="lazy" height="16px" width="auto" /> [Alta Watering Can](https://ceterai.github.io/MyEnternia/Wiki/AltaWateringCan)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" height="16px" width="auto" /> [Alta's Recommendation Letter](https://ceterai.github.io/MyEnternia/Wiki/Alta'sRecommendationLetter)

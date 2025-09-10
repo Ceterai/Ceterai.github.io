@@ -13,9 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Effects: 
+Applies effects:
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Catalized icon" loading="lazy" height="16px" width="auto" /> [Catalized](https://ceterai.github.io/MyEnternia/Wiki/Catalized)- Duration: 1
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Catalized icon" loading="lazy" height="16px" width="auto" /> [Catalized](https://ceterai.github.io/MyEnternia/Wiki/Catalized) (1s)
 
 ## Sources
 

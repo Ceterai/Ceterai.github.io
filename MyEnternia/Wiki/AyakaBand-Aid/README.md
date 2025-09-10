@@ -14,11 +14,17 @@ Species descriptions:
 ## Parameters
 
 - Blocking Effects: `salveheal`, `bandageheal`, `medkitheal`, `nanowrapheal`
-- Effects: 
 
-- Effect: `bandageheal`
+Applies effects:
+
+- `bandageheal` (0s)
 
 ## Sources
+
+Can be crafted:
+
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs  Ayaka Band-Aid x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*4*
 
 Found naturally in containers:
 

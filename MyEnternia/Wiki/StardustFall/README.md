@@ -5,13 +5,13 @@ Alta: The best weather to ever be. I wish it was always snowing stardust whereve
 
 ## Parameters
 
-Threat level is around .
+Threat level is around `0.0`.
 
 Will last from `50` to `400` seconds.
 
 Will apply following effects:
 
-- `slowlove`
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Love icon" loading="lazy" height="15px" width="15px" /> [Love](https://starbounder.org/Personality#NPC_Reactions)
 
 ## Technical Information
 

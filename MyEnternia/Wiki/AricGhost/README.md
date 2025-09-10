@@ -10,7 +10,7 @@ It lurks beneath toxic mushrooms... silently.
 
 ## Technical Information
 
-- In-game ID: `ct_aric_tenant`
+- In-game ID: `ct_aric_ghost_tenant`
 - NPC type: `shadowvillager`
 - Priority: `7`
 - File: [`/tenants/other/ct_aric.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/other/ct_aric.tenant)

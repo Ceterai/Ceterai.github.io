@@ -6,7 +6,10 @@ A standard protocol power module of an [alta](https://ceterai.github.io/MyEntern
 
 ## Parameters
 
-- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" height="16px" width="auto" /> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" height="16px" width="auto" /> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics)
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" height="16px" width="auto" /> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" height="16px" width="auto" /> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics)
 
 ## Usage
 
@@ -17,6 +20,12 @@ Can be used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Android Defensystem ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidDefensystem)
 
 ## Sources
+
+Can be crafted:
+
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png) [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" height="16px" width="auto" /> Security Droid Powermod ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" height="16px" width="auto" /> [Life Support Pack](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportPack) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*720*
 
 Can be bought from merchants:
 

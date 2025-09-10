@@ -16,7 +16,26 @@ Radiomessages on pickup:
 
 - Looks like you have acquired a set of alta equipment. These usually contain a full set of armor with corresponding documentation. Due to being created in bulk, sets are often much cheaper to craft than it is to craft their components separately.
 
+## Loot
+
+When used:
+
+- for threat level **1+**:
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Dreamer's Mask icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Mask](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sMask) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png" alt="Dreamer's Plating icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Plating](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sPlating) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/legwear/icon.png" alt="Dreamer's Footwear icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Footwear](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFootwear) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Dreamer's Enhancer icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Enhancer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sEnhancer) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Dreamer Set icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Dreamer Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-DreamerSet) x*1* (always present)
+
 ## Sources
+
+Can be crafted:
+
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" height="16px" width="auto" /> Dreamer Set x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere) x*5*
+  - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" height="14px" width="10px" /> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*64*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" height="16px" width="auto" /> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*24*
+  - <img src="https://starbounder.org/mediawiki/images/7/7d/Refined_Violium.png" alt="Refined Violium icon" loading="lazy" height="11px" width="11px" /> [Refined Violium](https://starbounder.org/Refined_Violium) x*20*
 
 Can be bought from merchants:
 

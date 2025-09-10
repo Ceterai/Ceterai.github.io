@@ -22,6 +22,10 @@ Radiomessages on pickup:
 - Cooldown: 0.45s
 - Knockback: 10
 
+Applies effects when raised:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" height="16px" width="auto" /> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator)
+
 ## Sources
 
 Can be bought from merchants:

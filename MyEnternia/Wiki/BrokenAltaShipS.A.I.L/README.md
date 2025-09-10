@@ -26,7 +26,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_ai_broken`
-- Power: `1.0`
+- Power: `1.5`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaAI), [`alta_ruin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaRuin), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`citadel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common)
 - File: [`/objects/alta/ship/special/ai/ct_alta_ship_ai_broken.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/ship/special/ai/ct_alta_ship_ai_broken.object)

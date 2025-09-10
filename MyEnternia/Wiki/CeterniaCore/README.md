@@ -89,6 +89,13 @@ Can be used in transmutation studies in the <img src="https://steamuserimages-a.
 
 ## Sources
 
+Can be crafted:
+
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.15s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" height="16px" width="auto" /> Ceternia Core x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/c/c8/Living_Root.png" alt="Living Root icon" loading="lazy" height="13px" width="14px" /> [Living Root](https://starbounder.org/Living_Root) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/5/51/Phase_Matter.png" alt="Phase Matter icon" loading="lazy" height="13px" width="13px" /> [Phase Matter](https://starbounder.org/Phase_Matter) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/05/Poison.png" alt="Poison icon" loading="lazy" height="16px" width="16px" /> [Poison](https://starbounder.org/Poison) x*1*
+
 Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod)

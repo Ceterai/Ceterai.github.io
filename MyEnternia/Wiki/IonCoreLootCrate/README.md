@@ -15,6 +15,32 @@ Radiomessages on pickup:
 
 - I detected an alta loot crate in your inventory. These minipods contain random loot from related chests and pods. Altas use them for fast compact transfer, thus everything inside is packed tightly. You won't be able to put things back if you open it.
 
+## Loot
+
+When used:
+
+- for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
+- <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" height="10px" width="10px" /> [Obsidian](https://starbounder.org/Obsidian) x*2* (weight: 0.2)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" height="16px" width="auto" /> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick) x*2* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" height="16px" width="auto" /> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick) x*2* (weight: 0.1)
+- `geodebluesample` x*1* (weight: 0.04)
+- `opulentbed` x*1* (weight: 0.05)
+- `opulentchair` x*1* (weight: 0.06)
+- `opulentswitch` x*1* (weight: 0.05)
+- `opulentdoor` x*1* (weight: 0.05)
+- `opulentlight` x*1* (weight: 0.06)
+- `opulenttable` x*1* (weight: 0.05)
+- `scalpionhead` x*1* (weight: 0.02)
+- `causticstaghead` x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" height="16px" width="auto" /> [Ion Fortress](https://ceterai.github.io/MyEnternia/Wiki/IonFortress) x*1* (weight: 0.014)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" height="16px" width="auto" /> [Plasma Chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram) x*1* (weight: 0.014)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Plasmora icon" loading="lazy" height="16px" width="auto" /> [Plasmora](https://ceterai.github.io/MyEnternia/Wiki/Plasmora) x*1* (weight: 0.004)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_ion_launcher.png" alt="Ion Launcher WIP icon" loading="lazy" height="16px" width="auto" /> [Ion Launcher WIP](https://ceterai.github.io/MyEnternia/Wiki/IonLauncherWIP) x*1* (weight: 0.004)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ion_collider.png" alt="Ion Collider WIP icon" loading="lazy" height="16px" width="auto" /> [Ion Collider WIP](https://ceterai.github.io/MyEnternia/Wiki/IonColliderWIP) x*1* (weight: 0.004)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod) x*1* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" height="16px" width="auto" /> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="Ion Core Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Ion Core Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IonCoreLootCrate) x*1* (weight: 0.02)
+
 ## Sources
 
 Found naturally in containers:

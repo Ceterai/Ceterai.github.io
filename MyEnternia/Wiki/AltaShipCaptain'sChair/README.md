@@ -1,6 +1,6 @@
 # Alta Ship Captain's Chair
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/captains_chair/icon.png" alt="Alta Ship Captain's Chair icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Captain's Chair** is a common piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/captains_chair/icon.png" alt="Alta Ship Captain's Chair icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Captain's Chair** is a legendary piece of furniture.
 
 The Captain sits here to fly the ship.
 
@@ -30,8 +30,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_captains_chair`
-- Power: `1.0`
-- Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`captainschair`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Captainschair), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common)
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common)
+- Power: `3.5`
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`captainschair`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Captainschair), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/objects/alta/ship/special/captains_chair/ct_alta_ship_captains_chair.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/ship/special/captains_chair/ct_alta_ship_captains_chair.object)

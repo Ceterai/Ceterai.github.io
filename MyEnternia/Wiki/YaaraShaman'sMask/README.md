@@ -12,10 +12,6 @@ Species descriptions:
 - Alta: This mask belongs to a yaara keeper. Am I allowed to wear it?
 - Floran: A massk of Floran shaman! Very powerful, jusst like Floran!
 
-## Parameters
-
-- Leveled Status Effects: 
-
 ## Sources
 
 Found naturally in containers:

@@ -15,11 +15,11 @@ Species descriptions:
 
 - Food Value: 10
 - Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" height="16px" width="16px" /> [Full Belly](https://starbounder.org/Full_Belly)
-- Effects: 
 
-- Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/happy.png:1" alt="Happy icon" loading="lazy" height="16px" width="auto" /> [Happy](https://ceterai.github.io/MyEnternia/Wiki/Happy)- Duration: 120, 
+Applies effects:
 
-- Effect: `regeneration1`- Duration: 240
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/happy.png:1" alt="Happy icon" loading="lazy" height="16px" width="auto" /> [Happy](https://ceterai.github.io/MyEnternia/Wiki/Happy) (120s)
+- <img src="https://starbounder.org/mediawiki/images/b/b3/Status_Regeneration.png" alt="Regeneration I icon" loading="lazy" height="16px" width="16px" /> [Regeneration I](https://starbounder.org/Regeneration_(Buff)) (240s)
 
 ## Usage
 
@@ -32,6 +32,13 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Slice icon" loading="lazy" height="16px" width="auto" /> [Yaarizza Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaSlice)
 
 ## Sources
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" height="16px" width="auto" /> Viona Tea x*1*):
+  - `avesmingo` x*1*
+  - `alienfruit` x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1*
 
 Can be bought from merchants:
 

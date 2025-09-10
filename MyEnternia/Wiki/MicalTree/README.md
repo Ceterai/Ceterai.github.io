@@ -26,11 +26,33 @@ This tree consists of a special type of wood often used in decorative furniture 
 - Stem/Stipe: <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Geode icon" loading="lazy" height="11px" width="12px" /> [Geode](https://starbounder.org/Geode)
 - Foliage/Cap: `geodefoliage`
 
+Growing stages:
+
+1. Lasts from 360 to 560 seconds.
+2. Lasts from 360 to 560 seconds.
+3. Lasts from 360 to 560 seconds.
+4. Lasts from 360 to 560 seconds.
+5. Lasts from 360 to 560 seconds.
+6. Lasts from 360 to 560 seconds.
+7. Lasts from 360 to 560 seconds.
+8. Lasts from 360 to 560 seconds.
+9. Grows into a full tree.
+
 ## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling)
+
+Can be crafted:
+
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_mical_tree.png" alt="Mical Tree icon" loading="lazy" height="16px" width="auto" /> Mical Tree x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Geode icon" loading="lazy" height="11px" width="12px" /> [Geode](https://starbounder.org/Geode) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" height="10px" width="10px" /> [Obsidian](https://starbounder.org/Obsidian) x*4*
+  - `liquidlava` x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" height="16px" width="auto" /> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer) x*1*
 
 Can be bought from merchants:
 

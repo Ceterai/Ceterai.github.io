@@ -10,6 +10,22 @@ Species descriptions:
 
 - Alta: Unlike alunika, carel is an edible crystal growing from a plant, not a plant-like crystal.
 
+## Parameters
+
+Growing stages:
+
+1. Lasts from 280 to 320 seconds.
+2. Lasts from 280 to 320 seconds.
+3. Lasts from 280 to 320 seconds.
+4. Lasts from 1860 to 1940 seconds.
+5. Can be harvested:
+   - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
+   - loot pool `ct_gil_harvest` x*1* (weight: 0.89):
+     - for threat level **0+**:
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" height="16px" width="auto" /> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1* (weight: 0.89)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" height="16px" width="auto" /> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds) x*1* (weight: 0.01)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+
 ## Usage
 
 ### Crafting
