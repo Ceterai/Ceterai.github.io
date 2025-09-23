@@ -1,6 +1,6 @@
 # Crippit Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crippit.png" alt="Crippit Figurine icon" loading="lazy" height="16px" width="auto" /> **Crippit Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crippit.png" alt="Crippit Figurine icon" loading="lazy" width="auto" height="16px"/> **Crippit Figurine** is a legendary figurine.
 
 The label reads, "Moonrock crippits tend to be pretty shy in public, most likely due to not being able to find a pretty crystal shell instead."
 
@@ -31,5 +31,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_crippit_af`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crippit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crippit), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
 - File: [`/objects/alta/special/figurines/crippit/ct_crippit.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/figurines/crippit/ct_crippit.object)

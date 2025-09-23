@@ -1,6 +1,6 @@
 # Broken Alta Ship Locker
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Broken Alta Ship Locker icon" loading="lazy" height="16px" width="auto" /> **Broken Alta Ship Locker** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Broken Alta Ship Locker icon" loading="lazy" width="auto" height="16px"/> **Broken Alta Ship Locker** is a common decorative object.
 
 A locker. Store some stuff, why don't you?
 

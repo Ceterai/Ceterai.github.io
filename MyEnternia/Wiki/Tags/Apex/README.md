@@ -4,6 +4,10 @@ The tag `apex` contains 3 total entries.
 
 ## Objects
 
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Apex](https://starbounder.org/Tag:Apex)
+
 ## Tenants
 
 Following tenants require this colony tag:

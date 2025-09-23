@@ -1,6 +1,6 @@
 # CEN Referencing Guide
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height="16px" width="auto" /> **CEN Referencing Guide** is a common codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" width="auto" height="16px"/> **CEN Referencing Guide** is a common codex entry.
 
 An old document with lots of complicated words.  
 This document serves as a guide for the classification and use of CEN documents. It outlines the different categories of CEN documents, including instructions, protocols, blueprints, and documentation. It also provides guidelines for the use of these documents in various contexts.
@@ -17,20 +17,20 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height="16px" width="auto" /> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" width="auto" height="16px"/> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
 
 <details markdown="1"><summary>Can be used to craft: (Expand 10 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" height="16px" width="auto" /> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" height="16px" width="auto" /> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bionid.png" alt="Bionid Extraction Note icon" loading="lazy" height="16px" width="auto" /> [Bionid Extraction Note](https://ceterai.github.io/MyEnternia/Wiki/BionidExtractionNote)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" height="16px" width="auto" /> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/sona.png" alt="Sona Soldier's Notes icon" loading="lazy" height="16px" width="auto" /> [Sona Soldier's Notes](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier'sNotes)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Data & Datamasses icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Data & Datamasses](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Data&Datamasses)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Drones & Droids icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Drones & Droids](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Drones&Droids)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Energy icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Energy](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Energy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Scout Set icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Scout Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-ScoutSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Security Set icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Security Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-SecuritySet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"/> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" width="auto" height="16px"/> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bionid.png" alt="Bionid Extraction Note icon" loading="lazy" width="auto" height="16px"/> [Bionid Extraction Note](https://ceterai.github.io/MyEnternia/Wiki/BionidExtractionNote)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" width="auto" height="16px"/> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/sona.png" alt="Sona Soldier's Notes icon" loading="lazy" width="auto" height="16px"/> [Sona Soldier's Notes](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier'sNotes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Data & Datamasses icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Data & Datamasses](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Data&Datamasses)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Drones & Droids icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Drones & Droids](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Drones&Droids)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Energy icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Energy](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Energy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Scout Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Scout Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-ScoutSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Security Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Security Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-SecuritySet)
 
 </details>
 
@@ -38,19 +38,19 @@ Unlocks blueprints for:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height="16px" width="auto" /> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" width="auto" height="16px"/> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" height="16px" width="auto" /> CEN Referencing Guide x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" height="16px" width="auto" /> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" width="auto" height="16px"/> CEN Referencing Guide x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"/> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
-- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" height="12px" width="30px" /> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"/> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 Can be bought from merchants:
 
@@ -97,9 +97,9 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

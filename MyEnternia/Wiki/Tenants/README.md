@@ -1,166 +1,2400 @@
-# Tenants
+This mod adds a total of 161 tenants.
 
-This mod adds 162 tenants.
+## Alta
 
-- [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
-- [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
-- [A.R.C.O. Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.FieldResearcher)
-- [A.R.C.O. Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Researcher)
-- [A.R.C.O. Security Guard](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.SecurityGuard)
-- [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)
-- [Alta Aegisalt Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaAegisaltProtecta)
-- [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
-- [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)
-- [Alta Archaeologist](https://ceterai.github.io/MyEnternia/Wiki/AltaArchaeologist)
-- [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
-- [Alta Aricologist](https://ceterai.github.io/MyEnternia/Wiki/AltaAricologist)
-- [Alta Army Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaArmyCaptain)
-- [Alta Artist](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist)
-- [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
-- [Alta Bedtimer](https://ceterai.github.io/MyEnternia/Wiki/AltaBedtimer)
-- [Alta Biologist](https://ceterai.github.io/MyEnternia/Wiki/AltaBiologist)
-- [Alta Brigadier](https://ceterai.github.io/MyEnternia/Wiki/AltaBrigadier)
-- [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
-- [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
-- [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
-- [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
-- [Alta Copper Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaCopperGirl)
-- [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)
-- [Alta Designer](https://ceterai.github.io/MyEnternia/Wiki/AltaDesigner)
-- [Alta Diamond Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaDiamondProtecta)
-- [Alta Durasteel Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaDurasteelGirl)
-- [Alta Earth Fan](https://ceterai.github.io/MyEnternia/Wiki/AltaEarthFan)
-- [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
-- [Alta Executive](https://ceterai.github.io/MyEnternia/Wiki/AltaExecutive)
-- [Alta Explorer](https://ceterai.github.io/MyEnternia/Wiki/AltaExplorer)
-- [Alta Ferozium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaFeroziumProtecta)
-- [Alta Festival Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaFestivalGirl)
-- [Alta FHC Operative](https://ceterai.github.io/MyEnternia/Wiki/AltaFHCOperative)
-- [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)
-- [Alta from a Capital](https://ceterai.github.io/MyEnternia/Wiki/AltafromaCapital)
-- [Alta from the Outpost](https://ceterai.github.io/MyEnternia/Wiki/AltafromtheOutpost)
-- [Alta Gamer](https://ceterai.github.io/MyEnternia/Wiki/AltaGamer)
-- [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
-- [Alta Geologist](https://ceterai.github.io/MyEnternia/Wiki/AltaGeologist)
-- [Alta Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard)
-- [Alta Hive Keeper](https://ceterai.github.io/MyEnternia/Wiki/AltaHiveKeeper)
-- [Alta Holiday Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHolidayGirl)
-- [Alta Hula Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaHulaDancer)
-- [Alta Huntress](https://ceterai.github.io/MyEnternia/Wiki/AltaHuntress)
-- [Alta Impervium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaImperviumProtecta)
-- [Alta in a Calin Dress](https://ceterai.github.io/MyEnternia/Wiki/AltainaCalinDress)
-- [Alta Iron Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaIronGirl)
-- [Alta Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaKnight)
-- [Alta Koywa Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaKoywaDancer)
-- [Alta Lab Android](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAndroid)
-- [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
-- [Alta Lab Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard)
-- [Alta Lab Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcher)
-- [Alta Lunar Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaLunarGuard)
-- [Alta Lunar Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaLunarMiner)
-- [Alta Mechanic](https://ceterai.github.io/MyEnternia/Wiki/AltaMechanic)
-- [Alta Medic](https://ceterai.github.io/MyEnternia/Wiki/AltaMedic)
-- [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
-- [Alta Metrocop](https://ceterai.github.io/MyEnternia/Wiki/AltaMetrocop)
-- [Alta Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaMiner)
-- [Alta Neon Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonDancer)
-- [Alta NPC](https://ceterai.github.io/MyEnternia/Wiki/AltaNPC)
-- [Alta Oceanologist](https://ceterai.github.io/MyEnternia/Wiki/AltaOceanologist)
-- [Alta Office Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaOfficeWorker)
-- [Alta Official](https://ceterai.github.io/MyEnternia/Wiki/AltaOfficial)
-- [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
-- [Alta Peacekeeper](https://ceterai.github.io/MyEnternia/Wiki/AltaPeacekeeper)
-- [Alta Pirate](https://ceterai.github.io/MyEnternia/Wiki/AltaPirate)
-- [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
-- [Alta Princess](https://ceterai.github.io/MyEnternia/Wiki/AltaPrincess)
-- [Alta Protectorate Student](https://ceterai.github.io/MyEnternia/Wiki/AltaProtectorateStudent)
-- [Alta Rainbow Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaRainbowGirl)
-- [Alta Representative](https://ceterai.github.io/MyEnternia/Wiki/AltaRepresentative)
-- [Alta Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaResearcher)
-- [Alta Resort Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaResortGirl)
-- [Alta Resque Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaResqueWorker)
-- [Alta Scout](https://ceterai.github.io/MyEnternia/Wiki/AltaScout)
-- [Alta Security Android](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityAndroid)
-- [Alta Security Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCaptain)
-- [Alta Security Commander](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCommander)
-- [Alta Security Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityGuard)
-- [Alta Security Officer](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityOfficer)
-- [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
-- [Alta Social Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker)
-- [Alta Solarium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaSolariumProtecta)
-- [Alta Soldier](https://ceterai.github.io/MyEnternia/Wiki/AltaSoldier)
-- [Alta Supervisor](https://ceterai.github.io/MyEnternia/Wiki/AltaSupervisor)
-- [Alta Swimmer](https://ceterai.github.io/MyEnternia/Wiki/AltaSwimmer)
-- [Alta Titanium Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaTitaniumGirl)
-- [Alta Toxicologist](https://ceterai.github.io/MyEnternia/Wiki/AltaToxicologist)
-- [Alta Trackmate](https://ceterai.github.io/MyEnternia/Wiki/AltaTrackmate)
-- [Alta Traveller](https://ceterai.github.io/MyEnternia/Wiki/AltaTraveller)
-- [Alta Tungsten Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaTungstenGirl)
-- [Alta Vibrant Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaVibrantDancer)
-- [Alta Violium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaVioliumProtecta)
-- [Alta Volcanologist](https://ceterai.github.io/MyEnternia/Wiki/AltaVolcanologist)
-- [Aric Ghost](https://ceterai.github.io/MyEnternia/Wiki/AricGhost)
-- [Arigaran](https://ceterai.github.io/MyEnternia/Wiki/Arigaran)
-- [Arigaran Merchant](https://ceterai.github.io/MyEnternia/Wiki/ArigaranMerchant)
-- [Arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight)
-- [C.T. Android](https://ceterai.github.io/MyEnternia/Wiki/C.T.Android)
-- [Cal Merchant](https://ceterai.github.io/MyEnternia/Wiki/CalMerchant)
-- [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
-- [Ceterai Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFieldResearcher)
-- [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
-- [Citadel Guard](https://ceterai.github.io/MyEnternia/Wiki/CitadelGuard)
-- [Combat Android](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
-- [Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer)
-- [Dreamer Android](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
-- [EDS Android](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
-- [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
-- [EDS Commander](https://ceterai.github.io/MyEnternia/Wiki/EDSCommander)
-- [EDS Guard](https://ceterai.github.io/MyEnternia/Wiki/EDSGuard)
-- [EDS Heavy Soldier](https://ceterai.github.io/MyEnternia/Wiki/EDSHeavySoldier)
-- [EDS Officer](https://ceterai.github.io/MyEnternia/Wiki/EDSOfficer)
-- [EDS Researcher](https://ceterai.github.io/MyEnternia/Wiki/EDSResearcher)
-- [EDS Security](https://ceterai.github.io/MyEnternia/Wiki/EDSSecurity)
-- [Elin Guard](https://ceterai.github.io/MyEnternia/Wiki/ElinGuard)
-- [Elite Android](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid)
-- [Elite Guard](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard)
-- [Faradea Guard](https://ceterai.github.io/MyEnternia/Wiki/FaradeaGuard)
-- [Faradea Legend](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend)
-- [Faradea Merc](https://ceterai.github.io/MyEnternia/Wiki/FaradeaMerc)
-- [Faradea Scavenger](https://ceterai.github.io/MyEnternia/Wiki/FaradeaScavenger)
-- [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
-- [Ghearun Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/GhearunFieldResearcher)
-- [Ghearun Researcher](https://ceterai.github.io/MyEnternia/Wiki/GhearunResearcher)
-- [Gyera Archiver](https://ceterai.github.io/MyEnternia/Wiki/GyeraArchiver)
-- [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
-- [Hevika Archiver](https://ceterai.github.io/MyEnternia/Wiki/HevikaArchiver)
-- [Hevika Researcher](https://ceterai.github.io/MyEnternia/Wiki/HevikaResearcher)
-- [Imperial Android](https://ceterai.github.io/MyEnternia/Wiki/ImperialAndroid)
-- [Imperial Guard](https://ceterai.github.io/MyEnternia/Wiki/ImperialGuard)
-- [MKI Archiver](https://ceterai.github.io/MyEnternia/Wiki/MKIArchiver)
-- [MKI Commander](https://ceterai.github.io/MyEnternia/Wiki/MKICommander)
-- [MKI Infiltrator](https://ceterai.github.io/MyEnternia/Wiki/MKIInfiltrator)
-- [MKI Intruder](https://ceterai.github.io/MyEnternia/Wiki/MKIIntruder)
-- [MKI Navy](https://ceterai.github.io/MyEnternia/Wiki/MKINavy)
-- [MKI Officer](https://ceterai.github.io/MyEnternia/Wiki/MKIOfficer)
-- [MKI Researcher](https://ceterai.github.io/MyEnternia/Wiki/MKIResearcher)
-- [MKI Specialist](https://ceterai.github.io/MyEnternia/Wiki/MKISpecialist)
-- [Neiteru Archiver](https://ceterai.github.io/MyEnternia/Wiki/NeiteruArchiver)
-- [Neiteru Researcher](https://ceterai.github.io/MyEnternia/Wiki/NeiteruResearcher)
-- [Sona Soldier](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier)
-- [Spacedrifter](https://ceterai.github.io/MyEnternia/Wiki/Spacedrifter)
-- [Stardust Merchant](https://ceterai.github.io/MyEnternia/Wiki/StardustMerchant)
-- [Stardust Scout](https://ceterai.github.io/MyEnternia/Wiki/StardustScout)
-- [Thermounit](https://ceterai.github.io/MyEnternia/Wiki/Thermounit)
-- [Tserera Archiver](https://ceterai.github.io/MyEnternia/Wiki/TsereraArchiver)
-- [Tserera Researcher](https://ceterai.github.io/MyEnternia/Wiki/TsereraResearcher)
-- [Viona Creature](https://ceterai.github.io/MyEnternia/Wiki/VionaCreature)
-- [Viona Merchant](https://ceterai.github.io/MyEnternia/Wiki/VionaMerchant)
-- [Warped Merchant](https://ceterai.github.io/MyEnternia/Wiki/WarpedMerchant)
-- [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
-- [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
-- [Yaara Shaman](https://ceterai.github.io/MyEnternia/Wiki/YaaraShaman)
-- [Yaara Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraSprout)
-- [Yaarafinger](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger)
-- [Yaaraling](https://ceterai.github.io/MyEnternia/Wiki/Yaaraling)
-- [Yaaviling](https://ceterai.github.io/MyEnternia/Wiki/Yaaviling)
+### Casual
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/casual1.png)
+</td><td>
+
+Type: **Alta NPC**
+
+Tags: `alta` (6)
+
+Regular alta dressed up in casual attire - simple, easy to put on and maintain clothes, made according to latest protocols. These clothes don't restrict movement and are quite comfortable to wear.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/casual1.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/casual2.png)
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual14.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual10.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual6.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual7.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual8.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual9.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual5.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual13.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual11.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual15.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/casual16.png)
+
+</details>
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+</td><td>
+
+Type: **Alta in a Calin Dress**
+
+Tags: `alta` (6), `calin` (8)
+
+An alta in a beautiful calin-themed dress.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin3.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin4.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin5.png)
+
+</details>
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/capital1.png)
+</td><td>
+
+Type: **Alta from a Capital**
+
+Tags: `alta` (8), `capital` (8)
+
+Regular alta dressed up in casual attire in alta capital-themed colors.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/dancer2.png)
+</td><td>
+
+Type: **Alta Dancer**
+
+Tags: `alta` (8), `musical` (8)
+
+A professional alta dancer. Can be often seen in clubs and dancing events. Likes clothing that doesn't restrict her movement.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/dancer1.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/dancer5.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/dancer3.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/dancer2.png)
+
+</details>
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/gamer2.png)
+</td><td>
+
+Type: **Alta Gamer**
+
+Tags: `alta` (8), `party` (8)
+
+This alta is a heavy fan of gaming and various types of entertainment.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/gamer1.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/gamer2.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/gamer3.png)
+
+</details>
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Artist** (merchant)
+
+Tags: `alta` (8), `pretty` (16)
+
+An aspiring alta artist pursuing her hobby. Would you like to support her?
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Bartender** (merchant)
+
+Tags: `alta` (8), `cooking` (8), `commerce` (8)
+
+A cafe worker that can serve non-alcoholic drinks.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Gyera Botanist** (merchant)
+
+Tags: `alta` (12), `farming` (8), `garden` (8), `science` (8), `commerce` (8), `storage` (8), `rare` (6)
+
+This alta researcher is part of Iora Gyera Ordis, researching plants, farming, crystal growing, coral handling and more!.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Chef** (merchant)
+
+Tags: `alta` (8), `cooking` (20)
+
+A professional alta chef. Can cook pretty much anything.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Collectioner** (merchant)
+
+Tags: `alta` (12), `valuable` (32)
+
+A profficient collectioner with a stash of rare items. Care to have a look?
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Designer** (merchant)
+
+Tags: `alta` (8), `pretty` (8), `valuable` (16)
+
+An aspiring alta designer with some creative, well, designs right with her.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Poner** (merchant)
+
+Tags: `alta` (8), `farming` (24), `commerce` (8)
+
+An alta farmer taking care of her greenhouse. She's ready to share her goods with you!
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Gardener** (merchant)
+
+Tags: `alta` (8), `garden` (24), `commerce` (8)
+
+An alta gardener taking care of her garden. She's ready to share her goods with you!
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Gyera Archiver** (merchant)
+
+Tags: `alta` (12), `gyera` (12), `commerce` (18), `storage` (18)
+
+This alta researcher is part of Iora Gyera Ordis, focusing on preserving plant, crystal and coral species.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Party Girl** (merchant)
+
+Tags: `alta` (8), `party` (18)
+
+This alta likes to party a lot, and also help others organize their own parties too!
+
+</td></tr>
+
+</table>
+
+#### Official
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Representative**
+
+Tags: `alta` (12), `capital` (12), `executive` (12)
+
+An alta official representing a capital city.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Administrator**
+
+Tags: `alta` (12), `citadel` (12), `executive` (12)
+
+This alta official is responsible for running an alta capital from its citadel. Or at least an alta city.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Executive**
+
+Tags: `alta` (12), `city` (12), `executive` (12)
+
+An alta city official managing city frameworks.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **EDS Commander**
+
+Tags: `eds` (12), `executive` (12)
+
+An EDS official responsible for organizing operations from their command center.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Official**
+
+Tags: `alta` (12), `executive` (12)
+
+An alta official with various responsibilities in a small infrastructure.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Security Commander**
+
+Tags: `alta_security` (12), `executive` (12)
+
+A security official responsible for organizing operations from their command center.
+
+</td></tr>
+
+</table>
+
+#### Service
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Agent** (merchant)
+
+Tags: `alta` (8), `combat` (8), `storage` (8), `commerce` (8)
+
+A proffesional alta secial service member able to provide according goods.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Cargo Agent** (merchant)
+
+Tags: `alta` (8), `cargo` (12), `commerce` (12)
+
+A shipment manager able to manipulate various shipments.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **EDS Officer**
+
+Tags: `eds` (8)
+
+An EDS member responsible for most non-field EDS activity.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Merchant** (merchant)
+
+Tags: `alta` (12), `storage` (8), `commerce` (8)
+
+This versatile alta trader has quite a lot of various goods for sale.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Security Officer**
+
+Tags: `alta_security` (8)
+
+A security representative responsible for most non-field security work.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Servicer** (merchant)
+
+Tags: `commerce` (12), `alta` (12), `city` (12)
+
+A service worker that can provide you with neat essentials.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/social1.png)
+</td><td>
+
+Type: **Alta Social Worker**
+
+Tags: `alta` (8), `patriotic` (8)
+
+Altas who volunteer to clean public spaces and help people in need.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/social1.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/social2.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/social3.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/social4.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/social5.png)
+
+</details>
+
+</td></tr>
+
+</table>
+
+#### Tech
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Engineer** (merchant)
+
+Tags: `alta` (4), `electronic` (8), `electric` (8)
+
+Alta electronics and light machinery expert, that can also sell you a couple of spare parts.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Mechanic** (merchant)
+
+Tags: `alta` (4), `mechanical` (16)
+
+Alta robotics and heavy machinery expert, that can also sell you a couple of spare parts.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Miner**
+
+Tags: `alta` (8), `mining` (18)
+
+Since altas use machines to do the actual crystal mining for them, this one is meant to maintain them.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Resque Worker**
+
+Tags: `alta` (8), `wreck` (18)
+
+An alta in an easily recognizable high-vis resque uniform. In her free time, she cleans up wrecks and debris.
+
+</td></tr>
+
+</table>
+
+### Scientific
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Field Researcher**
+
+Tags: `alta` (8), `science` (18)
+
+This alta researcher is performing her independent research in order to advance progress for all altas.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Researcher**
+
+Tags: `alta` (8), `science` (18)
+
+This alta researcher is performing her independent research in order to advance progress for all altas.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Archiver** (merchant)
+
+Tags: `alta` (12), `science` (18), `commerce` (18), `storage` (18)
+
+This alta researcher is performing her independent research in order to advance progress for all altas.
+
+</td></tr>
+
+</table>
+
+#### A.R.C.O.
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **A.R.C.O. Security Guard** (guard)
+
+Tags: `combat` (12), `arco` (12)
+
+An alta security unit protecting according field researchers and other A.R.C.O. personnel.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **A.R.C.O. Field Researcher**
+
+Tags: `alta` (8), `arco` (18)
+
+This alta researcher is part of Arc Ordis, focusing on environmental studies and related technology.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **A.R.C.O. Researcher**
+
+Tags: `alta` (8), `arco` (18)
+
+This alta researcher is part of Arc Ordis, focusing on environmental studies and related technology.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **A.R.C.O. Archiver** (merchant)
+
+Tags: `alta` (12), `arco` (18), `commerce` (18), `storage` (18)
+
+This alta researcher is part of Arc Ordis, focusing on environmental studies and related technology.
+
+</td></tr>
+
+</table>
+
+#### EDS
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **EDS Researcher**
+
+Tags: `eds` (12), `science` (12)
+
+This alta researcher is part of EDS, focusing on protective technology and high-power energy.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **EDS Archiver** (merchant)
+
+Tags: `eds` (18), `commerce` (18), `storage` (18)
+
+This alta researcher is part of EDS, focusing on protective technology and high-power energy.
+
+</td></tr>
+
+</table>
+
+#### Hevika Ordis
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Hevika Researcher**
+
+Tags: `alta` (8), `hevika` (18)
+
+This alta researcher is part of Hevika Ordis, focusing on ionic energy research and hevika crystals.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Hevika Archiver** (merchant)
+
+Tags: `alta` (12), `hevika` (18), `commerce` (18), `storage` (18)
+
+This alta researcher is part of Hevika Ordis, focusing on ionic energy research and hevika crystals.
+
+</td></tr>
+
+</table>
+
+#### Ghearun
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Ghearun Field Researcher**
+
+Tags: `alta` (8), `gheatsyn` (18)
+
+This alta researcher is part of Ghearun, focusing on geological research and mining crystals.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Ghearun Researcher**
+
+Tags: `alta` (8), `gheatsyn` (18)
+
+This alta researcher is part of Ghearun, focusing on geological research and mining crystals.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Ghearun Archiver** (merchant)
+
+Tags: `alta` (12), `gheatsyn` (18), `commerce` (18), `storage` (18)
+
+This alta researcher is part of Ghearun, focusing on geological research and mining crystals.
+
+</td></tr>
+
+</table>
+
+#### Ceterai Project
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Ceterai Field Researcher**
+
+Tags: `alta` (8), `ceterai` (18)
+
+This alta researcher is part of the Ceterai Project, focusing on studying stardust, Io, and the concept of Ceterai.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Ceterai Researcher**
+
+Tags: `alta` (8), `ceterai` (18)
+
+This alta researcher is part of the Ceterai Project, focusing on studying stardust, Io, and the concept of Ceterai.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Ceterai Archiver** (merchant)
+
+Tags: `alta` (12), `ceterai` (18), `commerce` (18), `storage` (18)
+
+This alta researcher is part of the Ceterai Project, focusing on studying stardust, Io, and the concept of Ceterai.
+
+</td></tr>
+
+</table>
+
+#### Neiteru-1
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Neiteru Researcher**
+
+Tags: `alta` (8), `neiteru` (18)
+
+This alta researcher is part of Neiteru, most likely Neiteru-1, focusing on highly destructive technology and testing the limits of reality.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Neiteru Archiver** (merchant)
+
+Tags: `alta` (12), `neiteru` (18), `commerce` (18), `storage` (18)
+
+This alta researcher is part of Neiteru, most likely Neiteru-1, focusing on highly destructive technology and testing the limits of reality.
+
+</td></tr>
+
+</table>
+
+#### Alta Lab
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Lab Guard** (guard)
+
+Tags: `combat` (12), `alta_lab` (8)
+
+An alta security unit protecting general alta laboratories and their personnel.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Lab Researcher**
+
+Tags: `alta_lab` (18)
+
+This alta researcher is part of general alta research labs, focusing on general energy research.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Lab Archiver** (merchant)
+
+Tags: `alta_lab` (18), `commerce` (18), `storage` (18)
+
+This alta researcher is part of general alta research labs, focusing on general energy research.
+
+</td></tr>
+
+</table>
+
+#### Tserera
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Tserera Researcher**
+
+Tags: `alta` (8), `knowledge` (8)
+
+This alta researcher is part of Tserera, focusing on common alta tech.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Tserera Archiver** (merchant)
+
+Tags: `alta` (12), `knowledge` (12), `commerce` (18), `storage` (18)
+
+This alta researcher is part of Tserera, focusing on common alta tech.
+
+</td></tr>
+
+</table>
+
+#### Themed Researchers
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Oceanologist**
+
+Tags: `alta` (8), `ocean` (18)
+
+This alta researcher is most interested in studying aquatic environments - oceans, rivers and lakes.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Archaeologist**
+
+Tags: `alta` (8), `fossil` (18)
+
+This alta researcher is most interested in studying archaic environments - fossils, bones and dig sites.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Aricologist**
+
+Tags: `alta` (8), `aric` (18)
+
+This alta researcher is most interested in studying aric environments - mushrooms, spores and mycelium.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Biologist**
+
+Tags: `alta` (8), `cell` (18)
+
+This alta researcher is most interested in studying biological environments - cells, organic matter and physiology.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Geologist**
+
+Tags: `alta` (8), `geode` (18)
+
+This alta researcher is most interested in studying ground environments - rocks, minerals and caves.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Hive Keeper**
+
+Tags: `alta` (8), `hive` (18)
+
+This alta researcher is most interested in studying hive environments - bugs, claws and orbides.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Volcanologist**
+
+Tags: `alta` (8), `volcanic` (18)
+
+This alta researcher is most interested in studying hot environments - magma, lava and fire.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Toxicologist**
+
+Tags: `alta` (8), `toxic` (18)
+
+This alta researcher is most interested in studying toxic environments - poisons, venoms and gasses.
+
+</td></tr>
+
+</table>
+
+### Themed
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Huntress** (guard)
+
+Tags: `alta` (6), `floranhuntinggrounds` (18)
+
+Likely just an alta cosplaying floran hunters as her fascination. Likely...
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Knight** (guard)
+
+Tags: `alta` (6), `glitchcastle` (18)
+
+Likely just an alta cosplaying glitch knights as her fascination. Likely...
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Pirate** (guard)
+
+Tags: `alta` (6), `avianairship` (18)
+
+Likely just an alta cosplaying avian pirates as her fascination. Likely...
+
+</td></tr>
+
+</table>
+
+#### Travel
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Explorer**
+
+Tags: `alta` (8), `explorer` (8)
+
+An alta fully equipped to explore the furthest ends of different planets.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Traveller**
+
+Tags: `alta` (8), `traveller` (8)
+
+A regular alta traveller on a regular camping trip.
+
+</td></tr>
+
+</table>
+
+#### Order
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Peacekeeper**
+
+Tags: `alta` (8), `peacekeeper` (18)
+
+This alta is part of the interplanetary peacekeeper organization. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Protectorate Student**
+
+Tags: `alta` (8), `protectorate` (18)
+
+This alta was one of the students back at protectorate. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+</table>
+
+#### MKI
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **MKI Archiver** (merchant)
+
+Tags: `alta` (12), `apexresearchlab` (24), `storage` (12), `commerce` (18)
+
+This alta is archiving the outcomes of MiniKnog Infiltration research and can share found knowledge for a price. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **MKI Commander** (guard)
+
+Tags: `alta` (12), `apexmansion` (12)
+
+This alta is wearing an apex commander uniform to infiltrate Miniknog. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **MKI Infiltrator** (guard)
+
+Tags: `alta` (12), `apexresearchlab` (18), `combat` (18)
+
+This alta is a part of the MiniKnog Infiltration project. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **MKI Intruder** (guard)
+
+Tags: `alta` (12), `apexresearchlab` (18), `combat` (24), `tier4` (18)
+
+This alta is the final result of the MiniKnog Infiltration project. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **MKI Navy** (guard)
+
+Tags: `alta` (12), `apex` (12), `combat` (12)
+
+This alta is wearing an apex navy uniform to infiltrate Miniknog. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **MKI Officer**
+
+Tags: `alta` (8), `apex` (12)
+
+This alta is wearing an apex officer uniform to infiltrate Miniknog. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **MKI Researcher**
+
+Tags: `alta` (8), `apexresearchlab` (18)
+
+This alta is part of the MiniKnog Infiltration research group that studies Miniknog technology. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **MKI Specialist**
+
+Tags: `alta` (12), `apex` (12), `electronic` (12)
+
+This alta is wearing an apex specialist uniform to infiltrate Miniknog. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+</table>
+
+#### Human
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Lunar Guard** (guard)
+
+Tags: `alta` (12), `lunarbase` (18), `combat` (18)
+
+An alta astronaut helping human miners. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta FHC Operative** (guard)
+
+Tags: `alta` (8), `astronaut` (18)
+
+This alta is a former member of the First Human Contact initiative. After protectorate events, she no longer has to follow her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Earth Fan**
+
+Tags: `alta` (8), `office` (18)
+
+An alta in human clothes. Some might not spot the difference.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Lunar Miner**
+
+Tags: `alta` (8), `lunarbase` (18)
+
+An alta helping humans mine erchius. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Office Worker**
+
+Tags: `alta` (8), `office` (18)
+
+An alta working with papers. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/peace1.png)
+</td><td>
+
+Type: **Alta from the Outpost**
+
+Tags: `alta` (8), `outpost` (18)
+
+An alta that frequents various outposts. Often has protectorate-related insignias and clothes usually seen on other species.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/outpost1.png)
+
+</details>
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Supervisor** (guard)
+
+Tags: `alta` (8), `humanbunker` (18)
+
+An alta designated to look after humans. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+</table>
+
+#### Nature
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Cal Merchant** (merchant)
+
+Tags: `alta` (8), `commerce` (6), `crystal` (14)
+
+This alta sells lots of crystals, crystalline and crystallic objects.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Stardust Merchant** (merchant)
+
+Tags: `alta` (8), `commerce` (8), `stardust` (14)
+
+This alta sells lots of stardust-enchanted things.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Viona Merchant** (merchant)
+
+Tags: `alta` (8), `viona` (14)
+
+This alta sells items and things affected by vionia, or enchanted energy.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Warped Merchant** (merchant)
+
+Tags: `alta` (8), `commerce` (6), `warped` (14)
+
+This alta sells lots of warpted growth and related things.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Yaara Merchant** (merchant)
+
+Tags: `commerce` (8), `yaara` (14)
+
+This merchant sells lots yaara-related things.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Arigaran**
+
+Tags: `aric` (18), `combat` (18)
+
+A subtype of agarans coming from one of alterash prime planets.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Arigaran Merchant**
+
+Tags: `aric` (18), `commerce` (18)
+
+This arigaran wants to sell you stuff straight from the aric patches.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Yaara Sprout**
+
+Tags: `yaara` (18), `floran` (18)
+
+A floran born in a yaara grove, connected to it with their heart. This basic villager-type floran can give regular quests and become a basic crewmember.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Yaarafinger**
+
+Tags: `yaara` (18), `floran` (18), `legendary` (18)
+
+A floran born in a yaara grove, meant to lead other florans in their grove to prosperity and security.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Yaaraling**
+
+Tags: `yaara` (6)
+
+A diona that came together from various sentient critters of a yaara grove. Like most dionas, they're peaceful in nature.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Yaara Keeper**
+
+Tags: `yaara` (18), `floran` (18), `combat` (18)
+
+A floran born in a yaara grove, ready to defend their home.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Yaara Shaman**
+
+Tags: `yaara` (18), `floran` (18), `rare` (18)
+
+A floran born in a yaara grove, connected to it with their heart.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Aric Ghost**
+
+Tags: `aric` (18)
+
+It lurks beneath toxic mushrooms... silently.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Viona Creature**
+
+Tags: `odd` (8), `viona` (8)
+
+An undescribable being created by viona. Can it see you?..
+
+</td></tr>
+
+</table>
+
+#### Colorful
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Neon Dancer**
+
+Tags: `alta` (8), `neon` (18)
+
+An alta dancer under neon spotlights creating a vibrant show.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Princess**
+
+Tags: `alta` (8), `pastel` (18)
+
+An alta in a pricess dress. At least that's what altas think princesses look like.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Rainbow Girl** (guard)
+
+Tags: `alta` (8), `colourful` (18)
+
+A rainbow alta warrior that will defend her sisters at all costs.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Vibrant Dancer**
+
+Tags: `alta` (8), `colourful` (18), `neon` (18)
+
+An alta in a vibrant neon suit about to dance a vibrant neon dance.
+
+</td></tr>
+
+</table>
+
+#### Tropical
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Bedtimer**
+
+Tags: `alta` (8), `pastel` (6), `colourful` (6), `sea` (4)
+
+An alta on a sleepover! Why isn't she sleeping?
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Hula Dancer**
+
+Tags: `alta` (8), `koywa` (8), `human` (8)
+
+An alta dancer who grew liking to certain parts of human culture, especially hula.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+</td><td>
+
+Type: **Alta Festival Girl**
+
+Tags: `alta` (6), `island` (18)
+
+A festival visitor with a festive spirit and a pretty robe to go along with it.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin3.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin4.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin5.png)
+
+</details>
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+</td><td>
+
+Type: **Alta Koywa Dancer**
+
+Tags: `koywa` (12)
+
+A professional koywa dancer in a koywa skirt, likely performing a koywa dance.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin3.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin4.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin5.png)
+
+</details>
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+</td><td>
+
+Type: **Alta Swimmer**
+
+Tags: `alta` (6), `oasis` (18)
+
+Just an alta at the beach - swimsuits, snorkels, party stuff.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin3.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin4.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin5.png)
+
+</details>
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+</td><td>
+
+Type: **Alta Resort Girl**
+
+Tags: `alta` (6), `sea` (18)
+
+An alta visiting a riverside resort. Often in sunglasses or a beautiful sunny hat.
+
+<details>
+<summary>Examples: (Expand)</summary>
+
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin3.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin4.png)
+![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin5.png)
+
+</details>
+
+</td></tr>
+
+</table>
+
+#### Holiday
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Christmas Girl** (merchant)
+
+Tags: `alta` (12), `christmas` (18), `storage` (18), `commerce` (12)
+
+An alta dressed up in human festive clothes giving out presents. While the culture is not native to altas, she wears it either to celebrate, as cosplay, or to fit in with natives.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Holiday Girl**
+
+Tags: `alta` (6), `christmas` (8)
+
+An alta dressed up in human festive clothes. While the culture is not native to altas, she wears it either to celebrate, as cosplay, or to fit in with natives.
+
+</td></tr>
+
+</table>
+
+#### Track
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Brigadier** (guard)
+
+Tags: `alta` (12), `retroscifi` (18), `combat` (12)
+
+This alta is guarding a special interspecies team of space explorers. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Trackmate**
+
+Tags: `alta` (8), `retroscifi` (18)
+
+This alta is part of a special interspecies team of space explorers. While the uniform is not native to altas, she wears it as part of her mission.
+
+</td></tr>
+
+</table>
+
+#### Tiered
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Copper Girl**
+
+Tags: `alta` (8), `copper` (18)
+
+This alta is cosplaying as a copper warrior. Probably.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Iron Girl**
+
+Tags: `alta` (8), `tier1` (18)
+
+This alta is cosplaying as an iron warrior. Probably.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Impervium Protecta**
+
+Tags: `alta` (8), `tier10` (18)
+
+An alta protecta in impervium armor.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Tungsten Girl**
+
+Tags: `alta` (8), `tier2` (18)
+
+This alta is cosplaying as a tungsten warrior. Probably.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Titanium Girl**
+
+Tags: `alta` (8), `tier3` (18)
+
+This alta is cosplaying as a titanium warrior. Probably.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Durasteel Girl**
+
+Tags: `alta` (8), `tier4` (18)
+
+This alta is cosplaying as a durasteel warrior. Probably.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Aegisalt Protecta**
+
+Tags: `alta` (8), `tier5` (18)
+
+An alta protecta in aegisalt armor.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Ferozium Protecta**
+
+Tags: `alta` (8), `tier6` (18)
+
+An alta protecta in ferozium armor.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Violium Protecta**
+
+Tags: `alta` (8), `tier7` (18)
+
+An alta protecta in violium armor.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Solarium Protecta**
+
+Tags: `alta` (8), `tier8` (18)
+
+An alta protecta in solarium armor.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Diamond Protecta**
+
+Tags: `alta` (8), `tier9` (18)
+
+An alta protecta in diamond armor.
+
+</td></tr>
+
+</table>
+
+### Guards
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **EDS Guard** (guard)
+
+Tags: `combat` (8), `eds` (8)
+
+A generic EDS protector alta. Has different equipment based on threat level.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Faradea Guard** (guard)
+
+Tags: `combat` (8), `faradea` (8)
+
+A generic Faradea merc alta. Has different equipment based on threat level.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Guard** (guard)
+
+Tags: `combat` (8), `alta` (8)
+
+A generic protector alta. Has different equipment based on threat level.
+
+</td></tr>
+
+</table>
+
+#### Level 3
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Medic** (guard)
+
+Tags: `alta` (8), `aid` (8)
+
+An alta ready to assist other altas in need, anywhere and anytime.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Metrocop** (guard)
+
+Tags: `combat` (12), `alta` (12), `city` (12)
+
+An alta analog of human police, equipped to easily traverse the city on her legs.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Scout** (guard)
+
+Tags: `alta_scout` (12), `combat` (4)
+
+A highly versatile scouting unit able to traverse difficult landscape with exceptional ease.
+
+</td></tr>
+
+</table>
+
+#### Level 4
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Elin Guard** (guard)
+
+Tags: `alta` (12), `yaara` (12)
+
+An alta security unit guarding the Elin Gardens from intruders.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Security Guard** (guard)
+
+Tags: `alta_security` (8), `combat` (8)
+
+An alta security unit protecting vital infrastructure, commonly found in alta cities.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Security Captain** (guard)
+
+Tags: `alta_security` (12), `patriotic` (4), `combat` (8)
+
+An alta security unit commanding other units in her squad.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Thermounit** (guard)
+
+Tags: `koywa` (12), `combat` (16)
+
+A special camo unit meant to make the overgrown places on alta planets more habitable.
+
+</td></tr>
+
+</table>
+
+#### Level 5
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Arknight** (guard)
+
+Tags: `combat` (12), `rainbow` (8), `alta` (8)
+
+An order keeper from the sky above, ready to assist any alta in trouble.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Soldier** (guard)
+
+Tags: `combat` (12), `rare` (6), `alta` (12)
+
+An alta army member with universal equipment.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **EDS Security** (guard)
+
+Tags: `combat` (12), `rare` (6), `eds` (8)
+
+An EDS member with standard protective equipment.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Faradea Merc** (guard)
+
+Tags: `combat` (12), `rare` (6), `faradea` (8)
+
+A freedom-loving alta on a bounty. Or a treasure hunt. Or a contract. Or just passing by.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Sona Soldier** (guard)
+
+Tags: `alta` (8), `combat` (8), `ice` (8)
+
+An alta soldier prepared for cold environments.
+
+</td></tr>
+
+</table>
+
+#### Level 6
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Imperial Guard** (guard)
+
+Tags: `alta` (8), `combat` (12), `capital` (8)
+
+This heavily equipped alta guard is meant to protect alta capitals.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Army Captain** (guard)
+
+Tags: `combat` (8), `tier4` (8), `rare` (6), `alta` (8)
+
+This alta commands combat operations executed by regular alta army.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Dreamer** (guard)
+
+Tags: `alta` (8), `combat` (12), `opulent` (12)
+
+This alta is a dreamer. Not that kind of dreamer - this one is a powerful independant hunter, remaining in a constant state of half-dreaming.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **EDS Heavy Soldier** (guard)
+
+Tags: `combat` (12), `legendary` (6), `eds` (8)
+
+This heavily equipped EDS soldier is meant to protect highest security EDS objects.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Elite Guard** (guard)
+
+Tags: `combat` (12), `alta_ship` (8)
+
+This heavily equipped alta guard is meant to protect high security objects, like motherships and capitals.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Faradea Scavenger** (guard)
+
+Tags: `combat` (12), `legendary` (6), `faradea` (8)
+
+A highly experienced faradea merc, used to field combat and difficult adventures.
+
+</td></tr>
+
+</table>
+
+#### Level 7 and above
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Citadel Guard** (guard)
+
+Tags: `alta` (12), `citadel` (12), `combat` (12)
+
+WIP. These guards are granted the most efficient equipment Alliana has to offer - all in order to protect one of alta citadels they reside in.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Faradea Legend** (guard)
+
+Tags: `combat` (12), `legendary` (12), `faradea` (12)
+
+WIP. A true faradea merc, legendary for their deeds.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Spacedrifter** (guard)
+
+Tags: `alta_ship` (8), `combat` (14), `space` (14)
+
+WIP. An alta traveler, roaming the space and taking on cosmic adventures.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Stardust Scout** (guard)
+
+Tags: `alta` (8), `combat` (12), `space` (12), `stardust` (6)
+
+WIP. A true alta protector, following the call of stardust.
+
+</td></tr>
+
+</table>
+
+#### Unleveled
+
+#### Androids
+
+<table> <tbody valign="top">
+
+<tr valign="middle"><th>
+Sprite
+</th> <th>
+Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Android** (guard)
+
+Tags: `alta` (8), `robotics` (8)
+
+A tier 1 alta robotic, android type. Performs general preset tasks.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **A.R.C.O. Android** (guard)
+
+Tags: `alta` (8), `electronic` (12), `robotics` (8)
+
+A tier 3 alta robotic, android type. Assists during A.R.C.O. research.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Imperial Android** (guard)
+
+Tags: `alta` (8), `robotics` (8), `capital` (8)
+
+A tier 4 alta robotic, android type. Protects alta capitals alongside elite guards.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **C.T. Android** (guard)
+
+Tags: `alta` (8), `alternia` (12), `robotics` (8)
+
+A tier 4 alta robotic, android type. Assists during Project Ceterai research.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Combat Android** (guard)
+
+Tags: `alta` (8), `robotics` (8), `combat` (12), `tier4` (12)
+
+A tier 3 alta robotic, android type. Assists in various alta combat missions.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Dreamer Android** (guard)
+
+Tags: `alta` (8), `robotics` (8), `combat` (8), `opulent` (12)
+
+A tier 4 alta robotic, android type. Meant to gather the dreaming essence on enterash planets.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **EDS Android** (guard)
+
+Tags: `alta` (8), `robotics` (8), `combat` (8), `eds` (8)
+
+A tier 3 alta robotic, android type. Assists in various EDS missions.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Elite Android** (guard)
+
+Tags: `alta` (8), `robotics` (8), `alta_ship` (8)
+
+A tier 4 alta robotic, android type. Protects high security objects along elite guards.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Lab Android** (guard)
+
+Tags: `alta` (8), `robotics` (8), `alta_lab` (8)
+
+A tier 3 alta robotic, android type. Protects general alta labs.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Security Android** (guard)
+
+Tags: `alta` (8), `robotics` (8), `alta_security` (8)
+
+A tier 2 alta robotic, android type. Protects alta cities and secure objects.
+
+</td></tr>
+
+</table>

@@ -6,26 +6,30 @@ The tag `commerce` contains 43 total entries.
 
 <details markdown="1"><summary>Following objects have this colony tag: (Expand 18 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" height="16px" width="auto" /> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" height="16px" width="auto" /> [Alta Cakery](https://ceterai.github.io/MyEnternia/Wiki/AltaCakery)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/table/icon.png" alt="Alta Lab Table icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Table](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTable)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/table_mini/icon.png" alt="Alta Minitable icon" loading="lazy" height="16px" width="auto" /> [Alta Minitable](https://ceterai.github.io/MyEnternia/Wiki/AltaMinitable)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_promo/icon.png" alt="Alta Promo Stand icon" loading="lazy" height="16px" width="auto" /> [Alta Promo Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaPromoStand)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds_rare/icon.png" alt="Alta Rare Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Rare Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaRareSeedVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Table icon" loading="lazy" height="16px" width="auto" /> [Alta Scout Table](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutTable)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" height="16px" width="auto" /> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container_medium/icon.png" alt="Alta Ship Container G2 icon" loading="lazy" height="16px" width="auto" /> [Alta Ship Container G2](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainerG2)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/table/icon.png" alt="Alta Table icon" loading="lazy" height="16px" width="auto" /> [Alta Table](https://ceterai.github.io/MyEnternia/Wiki/AltaTable)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" height="16px" width="auto" /> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/sample/icon.png" alt="Bishyn Sample icon" loading="lazy" height="16px" width="auto" /> [Bishyn Sample](https://ceterai.github.io/MyEnternia/Wiki/BishynSample)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/table/icon.png" alt="Calin Table icon" loading="lazy" height="16px" width="auto" /> [Calin Table](https://ceterai.github.io/MyEnternia/Wiki/CalinTable)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/table/icon.png" alt="Gheatsyn Table icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Table](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTable)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" height="16px" width="auto" /> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/table/icon.png" alt="Hevika Table icon" loading="lazy" height="16px" width="auto" /> [Hevika Table](https://ceterai.github.io/MyEnternia/Wiki/HevikaTable)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Tea Cafe Sign icon" loading="lazy" height="16px" width="auto" /> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/botanics/icon.png" alt="Alta Botanics Vendor ★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Botanics Vendor ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cakery/icon.png" alt="Alta Cakery icon" loading="lazy" width="auto" height="16px"/> [Alta Cakery](https://ceterai.github.io/MyEnternia/Wiki/AltaCakery)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/table/icon.png" alt="Alta Lab Table icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Table](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTable)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/table_mini/icon.png" alt="Alta Minitable icon" loading="lazy" width="auto" height="16px"/> [Alta Minitable](https://ceterai.github.io/MyEnternia/Wiki/AltaMinitable)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_promo/icon.png" alt="Alta Promo Stand icon" loading="lazy" width="auto" height="16px"/> [Alta Promo Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaPromoStand)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds_rare/icon.png" alt="Alta Rare Seed Vendor ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Rare Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaRareSeedVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"/> [Alta Scout Table](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutTable)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" width="auto" height="16px"/> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container_medium/icon.png" alt="Alta Ship Container G2 icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Container G2](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainerG2)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/table/icon.png" alt="Alta Table icon" loading="lazy" width="auto" height="16px"/> [Alta Table](https://ceterai.github.io/MyEnternia/Wiki/AltaTable)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" width="auto" height="16px"/> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/sample/icon.png" alt="Bishyn Sample icon" loading="lazy" width="auto" height="16px"/> [Bishyn Sample](https://ceterai.github.io/MyEnternia/Wiki/BishynSample)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/table/icon.png" alt="Calin Table icon" loading="lazy" width="auto" height="16px"/> [Calin Table](https://ceterai.github.io/MyEnternia/Wiki/CalinTable)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/table/icon.png" alt="Gheatsyn Table icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Table](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTable)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" width="auto" height="16px"/> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/table/icon.png" alt="Hevika Table icon" loading="lazy" width="auto" height="16px"/> [Hevika Table](https://ceterai.github.io/MyEnternia/Wiki/HevikaTable)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"/> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
 
 </details>
+
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Commerce](https://starbounder.org/Tag:Commerce)
 
 ## Tenants
 

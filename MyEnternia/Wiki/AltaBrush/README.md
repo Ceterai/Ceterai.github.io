@@ -1,6 +1,6 @@
 # Alta Brush
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/brush/icon.png" alt="Alta Brush icon" loading="lazy" height="16px" width="auto" /> **Alta Brush** is a common tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/brush/icon.png" alt="Alta Brush icon" loading="lazy" width="auto" height="16px"/> **Alta Brush** is a common tool.
 
 Can be used once to excavate a fossil, with limited success.
 

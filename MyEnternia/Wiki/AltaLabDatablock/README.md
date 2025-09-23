@@ -1,6 +1,6 @@
 # Alta Lab Datablock
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Datablock icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Datablock** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Datablock icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Datablock** is an uncommon decorative object.
 
 A serverless matrix for storing large amounts of data.  
 These datablocks usually contain compacted and structured archives of information, including code, models, logs, etc.

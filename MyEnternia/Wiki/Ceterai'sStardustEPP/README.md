@@ -1,6 +1,6 @@
 # Ceterai's Stardust EPP
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/stardust_epp/icon.png" alt="Ceterai's Stardust EPP icon" loading="lazy" height="16px" width="auto" /> **Ceterai's Stardust EPP** is a legendary epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/stardust_epp/icon.png" alt="Ceterai's Stardust EPP icon" loading="lazy" width="auto" height="16px"/> **Ceterai's Stardust EPP** is a legendary enviro protection pack.
 
 Electric, Enternia and Void status immunity. +20% electric resistance. Made by Ceterai to safely travel to stardust planets.
 
@@ -16,7 +16,7 @@ Applies effects:
 
 - `enterniaStatusImmunity` +1.0
 - `voidStatusImmunity` +1.0
-- <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" height="16px" width="16px" /> [Electric Status Immunity](https://starbounder.org/Electric_Resistance) +1.0
+- <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance) +1.0
 - `electricResistance` +0.2
 
 ## Usage
@@ -24,6 +24,10 @@ Applies effects:
 ### Compressing
 
 Can be compressed into an augment with <img src="https://steamuserimages-a.akamaihd.net/ugc/2524912417443652944/82F62A8B2AF67509CF6C97B866FD92F01C736540/" alt="EPP Effect Extractor icon" width="16" height="16"/> [EPP Effect Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3285832520) installed.
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

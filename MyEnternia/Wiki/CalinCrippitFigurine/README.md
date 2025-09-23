@@ -1,6 +1,6 @@
 # Calin Crippit Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_calin_crippit.png" alt="Calin Crippit Figurine icon" loading="lazy" height="16px" width="auto" /> **Calin Crippit Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_calin_crippit.png" alt="Calin Crippit Figurine icon" loading="lazy" width="auto" height="16px"/> **Calin Crippit Figurine** is a legendary figurine.
 
 The label reads, "Calin crippits tend to be no different from regular ones - except they don't come outside as often due to the reflectiveness of their shells."
 
@@ -31,5 +31,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_calin_crippit_af`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`crippit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crippit), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
 - File: [`/objects/alta/special/figurines/crippit/ct_calin_crippit.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/figurines/crippit/ct_calin_crippit.object)

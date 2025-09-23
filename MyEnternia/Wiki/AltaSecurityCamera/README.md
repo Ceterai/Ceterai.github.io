@@ -1,9 +1,9 @@
 # Alta Security Camera
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/camera/icon.png" alt="Alta Security Camera icon" loading="lazy" height="16px" width="auto" /> **Alta Security Camera** is an uncommon wired device.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/camera/icon.png" alt="Alta Security Camera icon" loading="lazy" width="auto" height="16px"/> **Alta Security Camera** is an uncommon wiring component.
 
 A small ceiling wide-angle surveillance security camera that can be turned on or off.  
-Often found at security check points, as well as most general secured places in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" height="16px" width="auto" /> [alta cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities).
+Often found at security check points, as well as most general secured places in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"/> [alta cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities).
 
 ## Ingame
 
@@ -24,10 +24,10 @@ Often found at security check points, as well as most general secured places in 
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/camera/icon.png" alt="Alta Security Camera icon" loading="lazy" height="16px" width="auto" /> Alta Security Camera x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" height="13px" width="14px" /> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" height="16px" width="auto" /> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/camera/icon.png" alt="Alta Security Camera icon" loading="lazy" width="auto" height="16px"/> Alta Security Camera x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
 
 Can be bought from merchants:
 
@@ -41,5 +41,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_security_camera`
 - Power: `2.5`
 - Rarity: `Uncommon`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`wired`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wired)
 - File: [`/objects/alta/security/camera/ct_alta_security_camera.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/security/camera/ct_alta_security_camera.object)

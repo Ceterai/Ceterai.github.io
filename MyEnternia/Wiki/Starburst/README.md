@@ -1,6 +1,6 @@
 # Starburst ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_starburst.png" alt="Starburst ★★ icon" loading="lazy" height="16px" width="auto" /> **Starburst ★★** is a legendary one-handed electric shotgun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_starburst.png" alt="Starburst ★★ icon" loading="lazy" width="auto" height="16px"/> **Starburst ★★** is a legendary one-handed electric shotgun.
 
 Previously owned by a legendary [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight), this powerful wrist blaster seemingly just fell one day from sky. Legend says it can create tiny Stardust Bursts with its core.
 
@@ -19,7 +19,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
@@ -28,5 +28,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_starburst`
 - Power: `4.21`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arknights`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arknights), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`staris`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Staris), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arknights`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arknights), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)
 - File: [`/items/active/weapons/ranged/alta/wrist/ct_starburst.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/wrist/ct_starburst.activeitem)

@@ -1,6 +1,6 @@
 # Alta Cookdecks
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height="16px" width="auto" /> **Alta Cookdecks** is a rare crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" width="auto" height="16px"/> **Alta Cookdecks** is a rare crafting station.
 
 A station for cooking different meals, full of various cooking appliances.  
 The technology is quite complicated, and isn't very common among altas. However - still a must-have in a professional kitchen.
@@ -28,16 +28,16 @@ The technology is quite complicated, and isn't very common among altas. However 
 
 Can be crafted:
 
-- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" height="16px" width="auto" /> Alta Cookdecks x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shelf/icon.png" alt="Alta Shelf icon" loading="lazy" height="16px" width="auto" /> [Alta Shelf](https://ceterai.github.io/MyEnternia/Wiki/AltaShelf) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate_stack/icon.png" alt="Alta Plate Stack icon" loading="lazy" height="16px" width="auto" /> [Alta Plate Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaPlateStack) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/dishes/icon.png" alt="Alta Dishes icon" loading="lazy" height="16px" width="auto" /> [Alta Dishes](https://ceterai.github.io/MyEnternia/Wiki/AltaDishes) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kettle/icon.png" alt="Alta Kettle icon" loading="lazy" height="16px" width="auto" /> [Alta Kettle](https://ceterai.github.io/MyEnternia/Wiki/AltaKettle) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/microwave/icon.png" alt="Alta Microwave Oven icon" loading="lazy" height="16px" width="auto" /> [Alta Microwave Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaMicrowaveOven) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Energy Block ★](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" height="13px" width="14px" /> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" height="12px" width="14px" /> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*4*
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png" alt="Alta Cookdecks icon" loading="lazy" width="auto" height="16px"/> Alta Cookdecks x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shelf/icon.png" alt="Alta Shelf icon" loading="lazy" width="auto" height="16px"/> [Alta Shelf](https://ceterai.github.io/MyEnternia/Wiki/AltaShelf) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/plate_stack/icon.png" alt="Alta Plate Stack icon" loading="lazy" width="auto" height="16px"/> [Alta Plate Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaPlateStack) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/dishes/icon.png" alt="Alta Dishes icon" loading="lazy" width="auto" height="16px"/> [Alta Dishes](https://ceterai.github.io/MyEnternia/Wiki/AltaDishes) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kettle/icon.png" alt="Alta Kettle icon" loading="lazy" width="auto" height="16px"/> [Alta Kettle](https://ceterai.github.io/MyEnternia/Wiki/AltaKettle) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/microwave/icon.png" alt="Alta Microwave Oven icon" loading="lazy" width="auto" height="16px"/> [Alta Microwave Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaMicrowaveOven) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Energy Block ★](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"/> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*4*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

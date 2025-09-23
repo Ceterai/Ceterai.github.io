@@ -1,10 +1,10 @@
 # Super-Foamer ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon_upg.png" alt="Super-Foamer ★ icon" loading="lazy" height="16px" width="auto" /> **Super-Foamer ★** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon_upg.png" alt="Super-Foamer ★ icon" loading="lazy" width="auto" height="16px"/> **Super-Foamer ★** is a legendary tool.
 
 Spray a sticky foam that slows down enemies!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon.png" alt="Alta Foam Sprayer icon" loading="lazy" height="16px" width="auto" /> [Alta Foam Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaFoamSprayer).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon.png" alt="Alta Foam Sprayer icon" loading="lazy" width="auto" height="16px"/> [Alta Foam Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaFoamSprayer).
 
 ## Sources
 

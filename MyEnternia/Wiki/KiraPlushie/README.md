@@ -1,6 +1,6 @@
 # Kira Plushie
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_kira_plush.png" alt="Kira Plushie icon" loading="lazy" height="16px" width="auto" /> **Kira Plushie** is a common toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_kira_plush.png" alt="Kira Plushie icon" loading="lazy" width="auto" height="16px"/> **Kira Plushie** is a common toy.
 
 A plushie of a popular alta cartoon character - Kira - a friendly alien that teaches altas morals, acceptance, and good deeds.
 

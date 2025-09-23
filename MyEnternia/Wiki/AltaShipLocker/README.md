@@ -1,6 +1,6 @@
 # Alta Ship Locker
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" height="16px" width="auto" /> **Alta Ship Locker** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" width="auto" height="16px"/> **Alta Ship Locker** is a rare storage unit.
 
 A locker. Store some stuff, why don't you?
 
@@ -23,6 +23,20 @@ A locker. Store some stuff, why don't you?
 
 - Slot Count: 64  
 - Health: 2.5
+
+## Usage
+
+### Storage
+
+Can store items, slot count is outlined in parameters. Does **NOT** preserve food.
+
+#### Enhanced Storage
+
+The amount of slots can be extended by installing <img src="https://steamuserimages-a.akamaihd.net/ugc/1759188247844907066/5E39527D4F5A703B1C1A3D3C4F23912ACE01BA04/" alt="Enhanced Storage icon" width="16" height="16"/> [Enhanced Storage](https://steamcommunity.com/sharedfiles/filedetails/?id=731220462) and <img src="https://steamuserimages-a.akamaihd.net/ugc/2536171416446224897/121F4BD59A80D194E06AB1E25B7FE5DB46381E34/" alt="Enhanced Storage Patch icon" width="16" height="16"/> [My Enternia Enhanced Storage Patch](https://ceterai.github.io/MyEnternia/Mods/MyEnterniaEnhancedStoragePatch/).
+
+#### Sorting & More
+
+You can sort items and have them not drop when destroyed with <img src="https://steamuserimages-a.akamaihd.net/ugc/447365001613662375/EDF6BC015301AF4EE92EB95442DCFF0FB6D6B480/" alt="Improved Containers icon" width="16" height="16"/> [Improved Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=729427606) (if you have it installed).
 
 ## Sources
 

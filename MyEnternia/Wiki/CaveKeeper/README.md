@@ -1,11 +1,11 @@
 # Cave Keeper ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Cave Keeper ★ icon" loading="lazy" height="16px" width="auto" /> **Cave Keeper ★** is a legendary shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Cave Keeper ★ icon" loading="lazy" width="auto" height="16px"/> **Cave Keeper ★** is a legendary shield.
 
 This shield shines deemly in the dark. You can barely make out a wisper - "Stars care for you, little one..."  
 Each time you put your grip on the shield, just for a second, you feel someone's presence right behind you. Not in a scary way - you feel pleasant, safe warmth around your shoulders and neck.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" height="16px" width="auto" /> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" width="auto" height="16px"/> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield).
 
 ## Ingame
 
@@ -26,11 +26,11 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" height="16px" width="auto" /> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" width="auto" height="16px"/> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
 
 Applies effects when raised:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" height="16px" width="auto" /> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" width="auto" height="16px"/> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator)
 
 ## Sources
 

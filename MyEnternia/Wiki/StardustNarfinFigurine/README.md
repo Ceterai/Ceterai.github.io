@@ -1,6 +1,6 @@
 # Stardust Narfin Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_stardust_narfin.png" alt="Stardust Narfin Figurine icon" loading="lazy" height="16px" width="auto" /> **Stardust Narfin Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_stardust_narfin.png" alt="Stardust Narfin Figurine icon" loading="lazy" width="auto" height="16px"/> **Stardust Narfin Figurine** is a legendary figurine.
 
 The label reads, "Some consider these to actualy be mimics - creatures of pure stardust that grew up around narfins and are now mimicking their looks and behaviours."
 

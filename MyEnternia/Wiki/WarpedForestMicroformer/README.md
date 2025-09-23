@@ -1,9 +1,9 @@
 # Warped Forest Microformer ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/warped/icon.png" alt="Warped Forest Microformer ★★ icon" loading="lazy" height="16px" width="auto" /> **Warped Forest Microformer ★★** is a legendary terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/warped/icon.png" alt="Warped Forest Microformer ★★ icon" loading="lazy" width="auto" height="16px"/> **Warped Forest Microformer ★★** is a legendary terraformer.
 
 Transforms an area of a planet into a warped forest. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Warped Forest](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest) is a land covered in [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) growth. Numerous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" height="16px" width="auto" /> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera) plants can be found here, as well as luminous bushes full of [glow fibre](https://ceterai.github.io/MyEnternia/Wiki/glowfibre). Be careful though - this area is full of poison and wicked monsters!
+[Warped Forest](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest) is a land covered in [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) growth. Numerous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" width="auto" height="16px"/> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera) plants can be found here, as well as luminous bushes full of [glow fibre](https://ceterai.github.io/MyEnternia/Wiki/glowfibre). Be careful though - this area is full of poison and wicked monsters!
 
 ## Ingame
 

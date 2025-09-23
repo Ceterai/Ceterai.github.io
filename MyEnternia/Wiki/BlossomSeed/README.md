@@ -1,6 +1,6 @@
 # Blossom Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height="16px" width="auto" /> **Blossom Seed** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" width="auto" height="16px"/> **Blossom Seed** is an uncommon plantable item.
 
 A bright plant with silky fibres forming near its branches.
 
@@ -23,9 +23,9 @@ Growing stages:
 3. Lasts from 1670 to 1730 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" height="14px" width="15px" /> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*2* (weight: 0.49)
-   - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" height="14px" width="15px" /> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*1* (weight: 0.5)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height="16px" width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed) x*1* (weight: 0.01)
+   - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" width="15px" height="14px"/> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*2* (weight: 0.49)
+   - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" width="15px" height="14px"/> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*1* (weight: 0.5)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" width="auto" height="16px"/> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed) x*1* (weight: 0.01)
 
 ## Usage
 
@@ -33,45 +33,45 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" width="auto" height="16px"/> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" width="auto" height="16px"/> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/eco/icon.png" alt="Eco Cotton Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Eco Cotton Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCottonSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sort/icon.png" alt="Pink Aya Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Pink Aya Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/PinkAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/eco/icon.png" alt="Eco Cotton Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Eco Cotton Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCottonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sort/icon.png" alt="Pink Aya Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Pink Aya Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/PinkAyaSapling)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height="16px" width="auto" /> Blossom Seed x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" height="16px" width="auto" /> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" height="12px" width="5.875px" /> [Cotton Seed](https://starbounder.org/Cotton_Seed) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/6/64/Slush.png" alt="Slush icon" loading="lazy" height="10px" width="10px" /> [Slush](https://starbounder.org/Slush) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" height="15px" width="7px" /> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" width="auto" height="16px"/> Blossom Seed x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" width="auto" height="16px"/> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" width="auto" height="16px"/> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" width="5.875px" height="12px"/> [Cotton Seed](https://starbounder.org/Cotton_Seed) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/6/64/Slush.png" alt="Slush icon" loading="lazy" width="10px" height="10px"/> [Slush](https://starbounder.org/Slush) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" width="7px" height="15px"/> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/WildBlossomSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" width="auto" height="16px"/> [Wild Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/WildBlossomSeed)
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height="16px" width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" height="16px" width="auto" /> [Wild Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/WildBlossomSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" width="auto" height="16px"/> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" width="auto" height="16px"/> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/boosted/icon.png" alt="Boosted Blossom Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Blossom Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/eco/icon.png" alt="Eco Blossom Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoBlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" width="auto" height="16px"/> [Wild Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/WildBlossomSeed)
 
 </details>
 

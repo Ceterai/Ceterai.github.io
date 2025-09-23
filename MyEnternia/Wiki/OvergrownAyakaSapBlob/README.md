@@ -1,6 +1,6 @@
 # Overgrown Ayaka Sap Blob
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling1/icon.png" alt="Overgrown Ayaka Sap Blob icon" loading="lazy" height="16px" width="auto" /> **Overgrown Ayaka Sap Blob** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling1/icon.png" alt="Overgrown Ayaka Sap Blob icon" loading="lazy" width="auto" height="16px"/> **Overgrown Ayaka Sap Blob** is a common breakable object.
 
 A big glob of dripping sap, trapped in some growing roots.
 

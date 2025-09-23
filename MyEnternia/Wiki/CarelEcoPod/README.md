@@ -1,6 +1,6 @@
 # Carel Eco Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/pod/icon.png" alt="Carel Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Carel Eco Pod ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/pod/icon.png" alt="Carel Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> **Carel Eco Pod ★★** is a legendary plantable item.
 
 Contains a modified carel sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -27,7 +27,7 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" height="14px" width="15px" /> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed)
+- <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" width="15px" height="14px"/> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed)
 
 ## Sources
 

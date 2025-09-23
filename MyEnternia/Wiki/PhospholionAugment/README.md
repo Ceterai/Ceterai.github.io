@@ -1,6 +1,6 @@
 # Phospholion Augment
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_phospholion_augment.png" alt="Phospholion Augment icon" loading="lazy" height="16px" width="auto" /> **Phospholion Augment** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_phospholion_augment.png" alt="Phospholion Augment icon" loading="lazy" width="auto" height="16px"/> **Phospholion Augment** is a rare EPP augment.
 
 This mildly irradiated EPP module gives fire protection and makes you glow.
 
@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://starbounder.org/mediawiki/images/f/f2/Fire_Resist_Augment.png" alt="Fire Block icon" loading="lazy" height="16px" width="11px" /> [Fire Block (Augment)](https://starbounder.org/Fire_Resist_Augment)
+- <img src="https://starbounder.org/mediawiki/images/f/f2/Fire_Resist_Augment.png" alt="Fire Block icon" loading="lazy" width="11px" height="16px"/> [Fire Block (Augment)](https://starbounder.org/Fire_Resist_Augment)
 - `lightaugment1`
 
 ## Usage

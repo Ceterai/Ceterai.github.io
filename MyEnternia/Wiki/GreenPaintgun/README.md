@@ -1,6 +1,6 @@
 # Green Paintgun
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgungreen.png" alt="Green Paintgun icon" loading="lazy" height="16px" width="auto" /> **Green Paintgun** is an uncommon two-handed toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgungreen.png" alt="Green Paintgun icon" loading="lazy" width="auto" height="16px"/> **Green Paintgun** is an uncommon two-handed toy.
 
 This paintgun will make others green with envy.
 

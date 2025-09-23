@@ -1,10 +1,10 @@
 # Double Point MNG ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng_2.png" alt="Double Point MNG ★ icon" loading="lazy" height="16px" width="auto" /> **Double Point MNG ★** is a legendary one-handed electric machine gun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng_2.png" alt="Double Point MNG ★ icon" loading="lazy" width="auto" height="16px"/> **Double Point MNG ★** is a legendary one-handed electric machine gun.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) enhancement allows this wrist blaster to launch two Ion Minis at the same time.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) enhancement allows this wrist blaster to launch two Ion Minis at the same time.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng.png" alt="EDS MNG icon" loading="lazy" height="16px" width="auto" /> [EDS MNG](https://ceterai.github.io/MyEnternia/Wiki/EDSMNG).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng.png" alt="EDS MNG icon" loading="lazy" width="auto" height="16px"/> [EDS MNG](https://ceterai.github.io/MyEnternia/Wiki/EDSMNG).
 
 ## Ingame
 

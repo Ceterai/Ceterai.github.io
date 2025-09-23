@@ -1,11 +1,11 @@
 # Protea's Vectors ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Protea's Vectors ★ icon" loading="lazy" height="16px" width="auto" /> **Protea's Vectors ★** is a legendary leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Protea's Vectors ★ icon" loading="lazy" width="auto" height="16px"/> **Protea's Vectors ★** is a legendary leg armor piece.
 
-These protective leggings with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals once belonged to Protea. They're yours now. Enjoy!  
+These protective leggings with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals once belonged to Protea. They're yours now. Enjoy!  
 They're part of the Protea's gift to inexperienced alta scouts as means of care and support!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" height="16px" width="auto" /> [Velocity Eaters](https://ceterai.github.io/MyEnternia/Wiki/VelocityEaters).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" width="auto" height="16px"/> [Velocity Eaters](https://ceterai.github.io/MyEnternia/Wiki/VelocityEaters).
 
 ## Ingame
 
@@ -21,14 +21,20 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" height="16px" width="auto" /> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" height="16px" width="auto" /> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" width="auto" height="16px"/> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" width="auto" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
 - `fallDamageMultiplier` +0%
 - `knockbackThreshold` +3.0
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" height="15px" width="15px" /> [Attack power](https://starbounder.org/Attack_power) +110.00000000000001%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" height="15px" width="15px" /> [Health](https://starbounder.org/Health) +0.15
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" height="15px" width="15px" /> [Energy](https://starbounder.org/Energy) +5
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" height="15px" width="15px" /> [Defense](https://starbounder.org/Defense) +1
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +110.00000000000001%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +0.15
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +5
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +1
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

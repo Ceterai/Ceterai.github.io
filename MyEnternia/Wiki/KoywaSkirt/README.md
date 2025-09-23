@@ -1,6 +1,6 @@
 # Koywa Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Koywa Skirt icon" loading="lazy" height="16px" width="auto" /> **Koywa Skirt** is an uncommon leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Koywa Skirt icon" loading="lazy" width="auto" height="16px"/> **Koywa Skirt** is an uncommon leg cosmetic item.
 
 A dancing skirt made out of [koywa](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa) leaves. Perfect for a beach party!  
 While being relatively easy to make, tthese skirts are often handmade and decorated by alta carftgirls and artists.
@@ -10,6 +10,12 @@ While being relatively easy to make, tthese skirts are often handmade and decora
 Species descriptions:
 
 - Alta: It's so pretty! The koywa leaves are incredibly nice to the touch, perfect for a dancing skirt.
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

@@ -4,6 +4,10 @@ The tag `executive` contains 6 total entries.
 
 ## Objects
 
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Executive](https://starbounder.org/Tag:Executive)
+
 ## Tenants
 
 <details markdown="1"><summary>Following tenants require this colony tag: (Expand 6 items)</summary>

@@ -1,6 +1,6 @@
 # Kodorric Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric2.png" alt="Kodorric Shroom icon" loading="lazy" height="16px" width="auto" /> **Kodorric Shroom** is a common light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric2.png" alt="Kodorric Shroom icon" loading="lazy" width="auto" height="16px"/> **Kodorric Shroom** is a common light source.
 
 A toxic glowing oshroom.
 
@@ -28,18 +28,18 @@ This object **doesn't drop itself** when broken.
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" height="13px" width="12px" /> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" height="9px" width="12px" /> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"/> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 1.0)
 
 Drops following **drop option 2** loot:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" height="13px" width="12px" /> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"/> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
 
 Drops following **drop option 3** loot:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" height="13px" width="12px" /> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"/> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
 
 ## Sources
 

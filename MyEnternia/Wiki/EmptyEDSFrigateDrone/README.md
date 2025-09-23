@@ -1,6 +1,6 @@
 # Empty EDS Frigate Drone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" height="16px" width="auto" /> **Empty EDS Frigate Drone ★★★** is a legendary electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Empty EDS Frigate Drone ★★★** is a legendary electric throwable item.
 
 This huge combat machine is able to construct new drones on the fly.  
 Conveniently packed with a relatively powerful mical charge generator for self-defense, it will reserve to it in a dire situation.

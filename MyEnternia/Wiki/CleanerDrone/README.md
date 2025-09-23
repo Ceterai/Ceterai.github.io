@@ -1,6 +1,6 @@
 # Cleaner Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Cleaner Drone icon" loading="lazy" height="16px" width="auto" /> **Cleaner Drone** is an uncommon electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Cleaner Drone icon" loading="lazy" width="auto" height="16px"/> **Cleaner Drone** is an uncommon electric throwable item.
 
 An observer drone equipped with suppression tools.  
 These security helpers can usually be found assisting a security team or patrolling relatively smal areas.
@@ -29,5 +29,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_alta_security_drone-cleaner`
 - Power: `2.5`
 - Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/active/alta/spawners/drones/security.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/security.activeitem)

@@ -1,6 +1,6 @@
 # Ember Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height="16px" width="auto" /> **Ember Bud** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" width="auto" height="16px"/> **Ember Bud** is an uncommon plantable item.
 
 A warm coral bud that is slowly, but actively growing. Requires to be at least 50% in a liquid.
 
@@ -24,8 +24,8 @@ Growing stages:
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - `coralfragment` x*1* (weight: 0.89)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height="16px" width="auto" /> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud) x*1* (weight: 0.01)
-   - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" height="16px" width="16px" /> [Water](https://starbounder.org/Water) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" width="auto" height="16px"/> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud) x*1* (weight: 0.01)
+   - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" width="16px" height="16px"/> [Water](https://starbounder.org/Water) x*1* (weight: 0.1)
 
 ## Usage
 
@@ -33,30 +33,30 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" width="auto" height="16px"/> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height="16px" width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" width="auto" height="16px"/> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" width="auto" height="16px"/> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height="16px" width="auto" /> Ember Bud x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" width="auto" height="16px"/> Ember Bud x*1*):
   - `coralcreepseed` x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height="16px" width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" height="10px" width="10px" /> [Moondust](https://starbounder.org/Moondust) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" height="15px" width="7px" /> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" width="auto" height="16px"/> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" width="10px" height="10px"/> [Moondust](https://starbounder.org/Moondust) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" width="7px" height="15px"/> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
 
 Can be bought from merchants:
 
@@ -65,16 +65,16 @@ Can be bought from merchants:
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Wild Ember Bud icon" loading="lazy" height="16px" width="auto" /> [Wild Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/WildEmberBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Wild Ember Bud icon" loading="lazy" width="auto" height="16px"/> [Wild Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/WildEmberBud)
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" height="16px" width="auto" /> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" height="16px" width="auto" /> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Wild Ember Bud icon" loading="lazy" height="16px" width="auto" /> [Wild Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/WildEmberBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/boosted/icon.png" alt="Boosted Ember Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/eco/icon.png" alt="Eco Ember Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoEmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" width="auto" height="16px"/> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/pod/icon.png" alt="Ember Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ember Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmberEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/sapling/icon.png" alt="Ember Sapling icon" loading="lazy" width="auto" height="16px"/> [Ember Sapling](https://ceterai.github.io/MyEnternia/Wiki/EmberSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Wild Ember Bud icon" loading="lazy" width="auto" height="16px"/> [Wild Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/WildEmberBud)
 
 </details>
 

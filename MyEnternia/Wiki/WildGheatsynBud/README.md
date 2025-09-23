@@ -1,6 +1,6 @@
 # Wild Gheatsyn Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Wild Gheatsyn Bud icon" loading="lazy" height="16px" width="auto" /> **Wild Gheatsyn Bud** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Wild Gheatsyn Bud icon" loading="lazy" width="auto" height="16px"/> **Wild Gheatsyn Bud** is a common plantable item.
 
 A budding crystal growing through a rock.
 
@@ -21,14 +21,14 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*1* (weight: 0.89)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*1* (weight: 0.89)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud) x*1* (weight: 1.0)
 
 ## Sources
 

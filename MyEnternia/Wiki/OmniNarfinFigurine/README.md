@@ -1,6 +1,6 @@
 # Omni Narfin Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_omni_narfin.png" alt="Omni Narfin Figurine ★ icon" loading="lazy" height="16px" width="auto" /> **Omni Narfin Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_omni_narfin.png" alt="Omni Narfin Figurine ★ icon" loading="lazy" width="auto" height="16px"/> **Omni Narfin Figurine ★** is a legendary figurine.
 
 The label reads, "A narfin to rule them all. These almost celestial beings shine with beauty in the dark of space."
 

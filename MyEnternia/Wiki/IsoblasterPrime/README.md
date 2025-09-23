@@ -1,10 +1,10 @@
 # Isoblaster Prime ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" height="16px" width="auto" /> **Isoblaster Prime ★** is a legendary one-handed pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" width="auto" height="16px"/> **Isoblaster Prime ★** is a legendary one-handed pistol.
 
 This izoslime blaster has been upgraded to be even stickier!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" height="16px" width="auto" /> [Isoblaster](https://ceterai.github.io/MyEnternia/Wiki/Isoblaster).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" width="auto" height="16px"/> [Isoblaster](https://ceterai.github.io/MyEnternia/Wiki/Isoblaster).
 
 ## Ingame
 

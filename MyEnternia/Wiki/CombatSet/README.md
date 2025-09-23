@@ -1,6 +1,6 @@
 # Combat Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" height="16px" width="auto" /> **Combat Set** is a rare loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" width="auto" height="16px"/> **Combat Set** is a rare loot item.
 
 Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) army soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
@@ -21,19 +21,19 @@ Radiomessages on pickup:
 When used:
 
 - for threat level **1+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png" alt="Combat Mask icon" loading="lazy" height="16px" width="auto" /> [Combat Mask](https://ceterai.github.io/MyEnternia/Wiki/CombatMask) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Combat Uniform icon" loading="lazy" height="16px" width="auto" /> [Combat Uniform](https://ceterai.github.io/MyEnternia/Wiki/CombatUniform) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/legwear/icon.png" alt="Combat Off-Roaders icon" loading="lazy" height="16px" width="auto" /> [Combat Off-Roaders](https://ceterai.github.io/MyEnternia/Wiki/CombatOff-Roaders) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Combat Set icon" loading="lazy" height="16px" width="auto" /> [Tech Docs: Combat Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-CombatSet) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png" alt="Combat Mask icon" loading="lazy" width="auto" height="16px"/> [Combat Mask](https://ceterai.github.io/MyEnternia/Wiki/CombatMask) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Combat Uniform icon" loading="lazy" width="auto" height="16px"/> [Combat Uniform](https://ceterai.github.io/MyEnternia/Wiki/CombatUniform) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/legwear/icon.png" alt="Combat Off-Roaders icon" loading="lazy" width="auto" height="16px"/> [Combat Off-Roaders](https://ceterai.github.io/MyEnternia/Wiki/CombatOff-Roaders) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Combat Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Combat Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-CombatSet) x*1* (always present)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" height="16px" width="auto" /> Combat Set x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" height="16px" width="auto" /> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*3*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*6*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height="16px" width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*20*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" width="auto" height="16px"/> Combat Set x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*3*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*6*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*20*
 
 Can be bought from merchants:
 

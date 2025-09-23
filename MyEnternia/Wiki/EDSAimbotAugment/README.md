@@ -1,6 +1,6 @@
 # EDS Aimbot Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png" alt="EDS Aimbot Augment ★★ icon" loading="lazy" height="16px" width="auto" /> **EDS Aimbot Augment ★★** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png" alt="EDS Aimbot Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **EDS Aimbot Augment ★★** is a rare EPP augment.
 
 An EPP module that slightly boosts your physical and electric protection.
 
@@ -16,7 +16,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_rocket_aimbot.png" alt="EDS Rocket Aimbot icon" loading="lazy" height="16px" width="auto" /> [EDS Rocket Aimbot](https://ceterai.github.io/MyEnternia/Wiki/EDSRocketAimbot)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_rocket_aimbot.png" alt="EDS Rocket Aimbot icon" loading="lazy" width="auto" height="16px"/> [EDS Rocket Aimbot](https://ceterai.github.io/MyEnternia/Wiki/EDSRocketAimbot)
 
 ## Usage
 
@@ -38,15 +38,15 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.35s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png" alt="EDS Aimbot Augment ★★ icon" loading="lazy" height="16px" width="auto" /> EDS Aimbot Augment ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" height="16px" width="auto" /> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height="16px" width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" height="16px" width="16px" /> [Diamond](https://starbounder.org/Diamond) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" height="16px" width="auto" /> [EDS Database](https://ceterai.github.io/MyEnternia/Wiki/EDSDatabase) x*4*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.35s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png" alt="EDS Aimbot Augment ★★ icon" loading="lazy" width="auto" height="16px"/> EDS Aimbot Augment ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [Diamond](https://starbounder.org/Diamond) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" width="auto" height="16px"/> [EDS Database](https://ceterai.github.io/MyEnternia/Wiki/EDSDatabase) x*4*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be bought from merchants:
 
@@ -55,7 +55,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" height="16px" width="auto" /> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" width="auto" height="16px"/> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

@@ -1,9 +1,9 @@
 # Catalyst ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Catalyst ★★★ icon" loading="lazy" height="16px" width="auto" /> **Catalyst ★★★** is a legendary medical item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Catalyst ★★★ icon" loading="lazy" width="auto" height="16px"/> **Catalyst ★★★** is a legendary medical item.
 
 Removes all effects from you. All of them.  
-A very powerful enhancer developed in an unknown [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) lab. It can basically "reset" the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" height="16px" width="auto" /> [bionic](https://ceterai.github.io/MyEnternia/Wiki/Bionics) body of any alta, clearing many processes and stopping non-essential chemical reactions.
+A very powerful enhancer developed in an unknown [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) lab. It can basically "reset" the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" width="auto" height="16px"/> [bionic](https://ceterai.github.io/MyEnternia/Wiki/Bionics) body of any alta, clearing many processes and stopping non-essential chemical reactions.
 
 ## Ingame
 
@@ -15,7 +15,7 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Catalized icon" loading="lazy" height="16px" width="auto" /> [Catalized](https://ceterai.github.io/MyEnternia/Wiki/Catalized) (1s)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Catalized icon" loading="lazy" width="auto" height="16px"/> [Catalized](https://ceterai.github.io/MyEnternia/Wiki/Catalized) (1s)
 
 ## Sources
 

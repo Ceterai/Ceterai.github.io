@@ -1,10 +1,10 @@
 # Relocator-M ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon_upg.png" alt="Relocator-M ★ icon" loading="lazy" height="16px" width="auto" /> **Relocator-M ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon_upg.png" alt="Relocator-M ★ icon" loading="lazy" width="auto" height="16px"/> **Relocator-M ★** is a legendary two-handed tool.
 
 Holds up to 4 friendly creatures in stasis in order to safely relocate them.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon.png" alt="Alta Relocator icon" loading="lazy" height="16px" width="auto" /> [Alta Relocator](https://ceterai.github.io/MyEnternia/Wiki/AltaRelocator).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon.png" alt="Alta Relocator icon" loading="lazy" width="auto" height="16px"/> [Alta Relocator](https://ceterai.github.io/MyEnternia/Wiki/AltaRelocator).
 
 ## Sources
 

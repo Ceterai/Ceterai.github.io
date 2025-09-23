@@ -1,6 +1,6 @@
 # Alta Lab Guard Pads
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Alta Lab Guard Pads icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Guard Pads** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Alta Lab Guard Pads icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Guard Pads** is a rare leg armor piece.
 
 A piece of equipment worn by [alta lab guards](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard) in most [alta laboratories](https://ceterai.github.io/MyEnternia/Wiki/altalaboratories).  
 Mostly consisting of [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) and suspending materials, it provides a decent amount of protection for a guard.
@@ -15,11 +15,17 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" height="16px" width="auto" /> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" height="15px" width="15px" /> [Attack power](https://starbounder.org/Attack_power) +110.00000000000001%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" height="15px" width="15px" /> [Health](https://starbounder.org/Health) +0.2
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" height="15px" width="15px" /> [Energy](https://starbounder.org/Energy) +2
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" height="15px" width="15px" /> [Defense](https://starbounder.org/Defense) +2
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"/> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +110.00000000000001%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +0.2
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +2
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +2
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

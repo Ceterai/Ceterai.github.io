@@ -1,6 +1,6 @@
 # Lava Crippit ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_lava_crippit.png" alt="Lava Crippit ★★★ icon" loading="lazy" height="16px" width="auto" /> **Lava Crippit ★★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_lava_crippit.png" alt="Lava Crippit ★★★ icon" loading="lazy" width="auto" height="16px"/> **Lava Crippit ★★★** is a legendary figurine.
 
 The label reads, "The magma rocks are pleasantly warm on the inside, making them a perfect home for a crippit."
 
@@ -31,5 +31,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_lava_crippit_af`
 - Power: `4.55`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crippit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crippit), [`lava`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Lava), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
 - File: [`/objects/alta/special/figurines/crippit/ct_lava_crippit.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/figurines/crippit/ct_lava_crippit.object)

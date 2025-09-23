@@ -4,6 +4,10 @@ The tag `ocean` contains 1 total entries.
 
 ## Objects
 
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Ocean](https://starbounder.org/Tag:Ocean)
+
 ## Tenants
 
 Following tenants require this colony tag:

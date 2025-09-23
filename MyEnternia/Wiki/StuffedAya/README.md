@@ -1,9 +1,9 @@
 # Stuffed Aya
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Stuffed Aya icon" loading="lazy" height="16px" width="auto" /> **Stuffed Aya** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Stuffed Aya icon" loading="lazy" width="auto" height="16px"/> **Stuffed Aya** is an uncommon dish.
 
-A properly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height="16px" width="auto" /> [baked aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) stuffed with different runeva goodness. What will you get this time?  
-Its variations usualy include either <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" height="16px" width="auto" /> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) filling or a [nia jam](https://ceterai.github.io/MyEnternia/Wiki/niajam) of your choice.
+A properly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"/> [baked aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) stuffed with different runeva goodness. What will you get this time?  
+Its variations usualy include either <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"/> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) filling or a [nia jam](https://ceterai.github.io/MyEnternia/Wiki/niajam) of your choice.
 
 ## Ingame
 
@@ -18,14 +18,14 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" height="16px" width="16px" /> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (75s)
+- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"/> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (75s)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Stuffed Aya icon" loading="lazy" height="16px" width="auto" /> Stuffed Aya x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" height="16px" width="auto" /> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Stuffed Aya icon" loading="lazy" width="auto" height="16px"/> Stuffed Aya x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"/> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) x*1*
   - `sugar` x*1*
 
 Can be bought from merchants:

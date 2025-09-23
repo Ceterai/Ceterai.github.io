@@ -1,6 +1,6 @@
 # Collectioner's Trophy ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Collectioner's Trophy ★★★ icon" loading="lazy" height="16px" width="auto" /> **Collectioner's Trophy ★★★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Collectioner's Trophy ★★★ icon" loading="lazy" width="auto" height="16px"/> **Collectioner's Trophy ★★★** is a legendary decorative object.
 
 You did it! This trophy goes out to the most proficient collectioners out there! The only thing left is to write your name on it.  
 This shining titanium trophy cup with yellow rims will fit nicely with the rest of your rewards.

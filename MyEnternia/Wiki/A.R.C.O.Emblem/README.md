@@ -1,6 +1,6 @@
 # A.R.C.O. Emblem
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" height="16px" width="auto" /> **A.R.C.O. Emblem** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" width="auto" height="16px"/> **A.R.C.O. Emblem** is a common decorative object.
 
 A holographic logo of a research organization called A.R.C.O..
 

@@ -1,6 +1,6 @@
 # Lumina Trophy
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_lumina_trophy.png" alt="Lumina Trophy icon" loading="lazy" height="16px" width="auto" /> **Lumina Trophy** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_lumina_trophy.png" alt="Lumina Trophy icon" loading="lazy" width="auto" height="16px"/> **Lumina Trophy** is a legendary decorative object.
 
 The plaque reads, "Awarded for glowing brighter than daylight, enlightening the way for others."
 

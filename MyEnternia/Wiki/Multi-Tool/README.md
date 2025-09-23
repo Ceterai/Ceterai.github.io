@@ -1,11 +1,11 @@
 # Multi-Tool
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" height="16px" width="auto" /> **Multi-Tool** is an uncommon one-handed shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" width="auto" height="16px"/> **Multi-Tool** is an uncommon one-handed shortsword.
 
 **WIP**. A fancy hatchet-like tool used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scouts for traversing certain types of terrain.  
 Because it packs so many useful funtions, its considered an essential survival tool and is usually given out to almost any alta preparing for travel or outgoing task.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" height="16px" width="auto" /> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" width="auto" height="16px"/> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -21,9 +21,9 @@ Radiomessages on pickup:
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" height="16px" width="auto" /> Multi-Tool x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" height="13px" width="14px" /> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" height="10px" width="10px" /> [Prism Shard](https://starbounder.org/Prism_Shard) x*2*
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" width="auto" height="16px"/> Multi-Tool x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"/> [Prism Shard](https://starbounder.org/Prism_Shard) x*2*
 
 Can be bought from merchants:
 

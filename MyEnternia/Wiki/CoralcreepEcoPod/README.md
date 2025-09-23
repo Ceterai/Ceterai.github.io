@@ -1,6 +1,6 @@
 # Coralcreep Eco Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/coralcreep/pod/icon.png" alt="Coralcreep Eco Pod ★★ icon" loading="lazy" height="16px" width="auto" /> **Coralcreep Eco Pod ★★** is a legendary plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/coralcreep/pod/icon.png" alt="Coralcreep Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> **Coralcreep Eco Pod ★★** is a legendary plantable item.
 
 Contains a modified carel sapling, as well as all things necessary for it to ripe. Can be placed anywhere.
 
@@ -22,9 +22,9 @@ Growing stages:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - loot pool `ct_gil_harvest` x*1* (weight: 0.89):
      - for threat level **0+**:
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" height="16px" width="auto" /> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1* (weight: 0.89)
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" height="16px" width="auto" /> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds) x*1* (weight: 0.01)
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"/> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1* (weight: 0.89)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" width="auto" height="16px"/> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds) x*1* (weight: 0.01)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Usage
 
@@ -43,5 +43,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_coralcreep_eco_pod`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`coralcreep`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Coralcreep), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`coral`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Coral), [`coralcreep`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Coralcreep), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea)
 - File: [`/objects/farmables/alta/liquid/produce/coralcreep/pod/ct_coralcreep_eco_pod.object`](https://github.com/Ceterai/Enternia/blob/main/objects/farmables/alta/liquid/produce/coralcreep/pod/ct_coralcreep_eco_pod.object)

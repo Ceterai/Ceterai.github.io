@@ -1,6 +1,6 @@
 # Sona Jacketarmor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Sona Jacketarmor ★ icon" loading="lazy" height="16px" width="auto" /> **Sona Jacketarmor ★** is a rare chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Sona Jacketarmor ★ icon" loading="lazy" width="auto" height="16px"/> **Sona Jacketarmor ★** is a rare chest armor piece.
 
 A warm, armored uniform jacket usually used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) and [arknightss](https://ceterai.github.io/MyEnternia/Wiki/arknightss).  
 The in-built emergency healing system is meant to protect the wearer in case of unforseen circumstances.
@@ -15,11 +15,17 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height="16px" width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" height="15px" width="15px" /> [Attack power](https://starbounder.org/Attack_power) +112.5%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" height="15px" width="15px" /> [Health](https://starbounder.org/Health) +0.5
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" height="15px" width="15px" /> [Energy](https://starbounder.org/Energy) +5.5
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" height="15px" width="15px" /> [Defense](https://starbounder.org/Defense) +6
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" width="auto" height="16px"/> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +112.5%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +0.5
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +5.5
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +6
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

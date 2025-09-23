@@ -1,10 +1,10 @@
 # RN "Unanta" ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon_upg.png" alt="RN Unanta ★ icon" loading="lazy" height="16px" width="auto" /> **RN "Unanta" ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon_upg.png" alt="RN Unanta ★ icon" loading="lazy" width="auto" height="16px"/> **RN "Unanta" ★** is a legendary two-handed tool.
 
 Drills fast but breaks quickly. A temporary alternative to the matter manipulator.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon.png" alt="Alta Powerdrill icon" loading="lazy" height="16px" width="auto" /> [Alta Powerdrill](https://ceterai.github.io/MyEnternia/Wiki/AltaPowerdrill).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/power_drill/icon.png" alt="Alta Powerdrill icon" loading="lazy" width="auto" height="16px"/> [Alta Powerdrill](https://ceterai.github.io/MyEnternia/Wiki/AltaPowerdrill).
 
 ## Sources
 

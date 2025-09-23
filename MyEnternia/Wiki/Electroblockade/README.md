@@ -6,9 +6,9 @@ Alta:
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_electric_stim.png" alt="Electric Stim Pack icon" loading="lazy" height="16px" width="auto" /> [Electric Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ElectricStimPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/chest/icon.png" alt="Envirosuit Chestpiece icon" loading="lazy" height="16px" width="auto" /> [Envirosuit Chestpiece](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitChestpiece)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/industrial_collar/icon.png" alt="Industrial Collar icon" loading="lazy" height="16px" width="auto" /> [Industrial Collar](https://ceterai.github.io/MyEnternia/Wiki/IndustrialCollar)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_electric_stim.png" alt="Electric Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Electric Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ElectricStimPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/chest/icon.png" alt="Envirosuit Chestpiece icon" loading="lazy" width="auto" height="16px"/> [Envirosuit Chestpiece](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitChestpiece)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/industrial_collar/icon.png" alt="Industrial Collar icon" loading="lazy" width="auto" height="16px"/> [Industrial Collar](https://ceterai.github.io/MyEnternia/Wiki/IndustrialCollar)
 
 ## Parameters
 

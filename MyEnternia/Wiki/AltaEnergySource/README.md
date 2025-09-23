@@ -1,9 +1,9 @@
 # Alta Energy Source
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" height="16px" width="auto" /> **Alta Energy Source** is a rare wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" width="auto" height="16px"/> **Alta Energy Source** is a rare wiring component.
 
 Some sort of crystal energy extractor. Perhaps an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) could provide more insight.  
-G12 marking of the model refers to the general energy source capability (and size), compared to G2 ([alta energy cell](https://ceterai.github.io/MyEnternia/Wiki/altaenergycell)) and G4 (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" height="16px" width="auto" /> [alta energy block](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock)).
+G12 marking of the model refers to the general energy source capability (and size), compared to G2 ([alta energy cell](https://ceterai.github.io/MyEnternia/Wiki/altaenergycell)) and G4 (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" width="auto" height="16px"/> [alta energy block](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock)).
 
 ## Ingame
 
@@ -26,19 +26,19 @@ G12 marking of the model refers to the general energy source capability (and siz
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" height="16px" width="auto" /> [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pyramid/icon.png" alt="Alta Pyramid icon" loading="lazy" height="16px" width="auto" /> [Alta Pyramid](https://ceterai.github.io/MyEnternia/Wiki/AltaPyramid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/statues/alta/icon.png" alt="Alta Statue icon" loading="lazy" height="16px" width="auto" /> [Alta Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaStatue)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png" alt="Alta Upgrade Station icon" loading="lazy" height="16px" width="auto" /> [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" width="auto" height="16px"/> [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pyramid/icon.png" alt="Alta Pyramid icon" loading="lazy" width="auto" height="16px"/> [Alta Pyramid](https://ceterai.github.io/MyEnternia/Wiki/AltaPyramid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/statues/alta/icon.png" alt="Alta Statue icon" loading="lazy" width="auto" height="16px"/> [Alta Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaStatue)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png" alt="Alta Upgrade Station icon" loading="lazy" width="auto" height="16px"/> [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" height="16px" width="auto" /> Alta Energy Source x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" height="13px" width="14px" /> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*12*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" height="16px" width="auto" /> [Alta Energy Block ★](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock) x*1*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" width="auto" height="16px"/> Alta Energy Source x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*12*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Energy Block ★](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock) x*1*
 
 Can be bought from merchants:
 

@@ -1,6 +1,6 @@
 # Ionic Drone ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" height="16px" width="auto" /> **Ionic Drone ★★** is a rare electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" width="auto" height="16px"/> **Ionic Drone ★★** is a rare electric throwable item.
 
 An advanced armored drone filled with enternia energy. Has ranged attacks and spreads ionized clouds.  
 This model is a direct upgrade to a once commonplace alta battle drone.

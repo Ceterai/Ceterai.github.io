@@ -1,6 +1,6 @@
 # Mindframe Collar
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_mindframe_collar.png" alt="Mindframe Collar icon" loading="lazy" height="16px" width="auto" /> **Mindframe Collar** is a legendary collar.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_mindframe_collar.png" alt="Mindframe Collar icon" loading="lazy" width="auto" height="16px"/> **Mindframe Collar** is a legendary collar.
 
 A collar that causes your pet to damage nearby enemies with electricity and protects it with a force shield when low on health.
 
@@ -26,10 +26,10 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.75s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_mindframe_collar.png" alt="Mindframe Collar icon" loading="lazy" height="16px" width="auto" /> Mindframe Collar x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height="16px" width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*6*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ceterai Project Database icon" loading="lazy" height="16px" width="auto" /> [Ceterai Project Database](https://ceterai.github.io/MyEnternia/Wiki/CeteraiProjectDatabase) x*2*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.75s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_mindframe_collar.png" alt="Mindframe Collar icon" loading="lazy" width="auto" height="16px"/> Mindframe Collar x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*6*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ceterai Project Database icon" loading="lazy" width="auto" height="16px"/> [Ceterai Project Database](https://ceterai.github.io/MyEnternia/Wiki/CeteraiProjectDatabase) x*2*
 
 Can be bought from merchants:
 

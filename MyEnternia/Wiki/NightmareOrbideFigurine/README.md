@@ -1,6 +1,6 @@
 # Nightmare Orbide Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/orbide/ct_nightmare_orbide.png" alt="Nightmare Orbide Figurine icon" loading="lazy" height="16px" width="auto" /> **Nightmare Orbide Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/orbide/ct_nightmare_orbide.png" alt="Nightmare Orbide Figurine icon" loading="lazy" width="auto" height="16px"/> **Nightmare Orbide Figurine** is a legendary figurine.
 
 The label reads, "Silly altas are tought to stay inside at night, so the nightmare orbide doesn't creep up on them and scare them."
 

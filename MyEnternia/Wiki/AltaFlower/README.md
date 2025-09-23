@@ -1,6 +1,6 @@
 # Alta Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Flower icon" loading="lazy" height="16px" width="auto" /> **Alta Flower** is an uncommon head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"/> **Alta Flower** is an uncommon head cosmetic item.
 
 This fake flower made out of silk represents one of common alta colors.  
 A symbol of patriotism and innocence, this flower is often worn by some [alta social workers](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker) and [alta caretakers](https://ceterai.github.io/MyEnternia/Wiki/altacaretakers).
@@ -10,6 +10,12 @@ A symbol of patriotism and innocence, this flower is often worn by some [alta so
 Species descriptions:
 
 - Alta: I like what this flower represents. An how it sits on my hair, too.
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

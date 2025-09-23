@@ -1,6 +1,6 @@
 # Alta Soup Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/soup/icon.png" alt="Alta Soup Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Soup Serving** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/soup/icon.png" alt="Alta Soup Serving icon" loading="lazy" width="auto" height="16px"/> **Alta Soup Serving** is a legendary decorative object.
 
 A simple serving of an alta soup. Can be picked up right away to take a closer look.
 
@@ -24,13 +24,13 @@ A simple serving of an alta soup. Can be picked up right away to take a closer l
 Drops following **break** loot:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 1.0)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" height="16px" width="auto" /> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" height="16px" width="auto" /> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Staris Soup icon" loading="lazy" height="16px" width="auto" /> [Staris Soup](https://ceterai.github.io/MyEnternia/Wiki/StarisSoup) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Perfect Altasoup ★ icon" loading="lazy" height="16px" width="auto" /> [Perfect Altasoup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectAltasoup) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_maitai_soup.png" alt="Maitai Soup icon" loading="lazy" height="16px" width="auto" /> [Maitai Soup](https://ceterai.github.io/MyEnternia/Wiki/MaitaiSoup) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Perfect Minto Soup ★ icon" loading="lazy" height="16px" width="auto" /> [Perfect Minto Soup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectMintoSoup) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Perfect Staris Soup ★ icon" loading="lazy" height="16px" width="auto" /> [Perfect Staris Soup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectStarisSoup) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" width="auto" height="16px"/> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" width="auto" height="16px"/> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Staris Soup icon" loading="lazy" width="auto" height="16px"/> [Staris Soup](https://ceterai.github.io/MyEnternia/Wiki/StarisSoup) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Perfect Altasoup ★ icon" loading="lazy" width="auto" height="16px"/> [Perfect Altasoup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectAltasoup) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_maitai_soup.png" alt="Maitai Soup icon" loading="lazy" width="auto" height="16px"/> [Maitai Soup](https://ceterai.github.io/MyEnternia/Wiki/MaitaiSoup) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Perfect Minto Soup ★ icon" loading="lazy" width="auto" height="16px"/> [Perfect Minto Soup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectMintoSoup) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Perfect Staris Soup ★ icon" loading="lazy" width="auto" height="16px"/> [Perfect Staris Soup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectStarisSoup) x*1* (weight: 0.08)
 
 ## Sources
 

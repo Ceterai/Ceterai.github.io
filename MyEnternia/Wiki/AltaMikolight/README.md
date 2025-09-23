@@ -1,6 +1,6 @@
 # Alta Mikolight
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Mikolight icon" loading="lazy" height="16px" width="auto" /> **Alta Mikolight** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"/> **Alta Mikolight** is an uncommon decorative object.
 
 A neon pink light used by altas everywhere, especially in clubhouses.  
 It illuminates the space with highly-saturated dim glow, perfect for a relaxed atmosphere. The colors mix together beautifully when near each other.

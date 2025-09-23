@@ -1,8 +1,8 @@
 # Elite Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_elite_augment.png" alt="Elite Augment ★★ icon" loading="lazy" height="16px" width="auto" /> **Elite Augment ★★** is a legendary epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_elite_augment.png" alt="Elite Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Elite Augment ★★** is a legendary EPP augment.
 
-An EPP module that adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" height="16px" width="auto" /> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height="16px" width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer).
+An EPP module that adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"/> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" width="auto" height="16px"/> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer).
 
 ## Ingame
 
@@ -14,8 +14,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" height="16px" width="auto" /> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" height="16px" width="auto" /> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"/> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_emergency_healer.png" alt="Emergency Healer icon" loading="lazy" width="auto" height="16px"/> [Emergency Healer](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHealer)
 
 ## Usage
 
@@ -37,11 +37,11 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.85s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_elite_augment.png" alt="Elite Augment ★★ icon" loading="lazy" height="16px" width="auto" /> Elite Augment ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/a/a0/Refined_Aegisalt.png" alt="Refined Aegisalt icon" loading="lazy" height="13px" width="13px" /> [Refined Aegisalt](https://starbounder.org/Refined_Aegisalt) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" height="16px" width="16px" /> [Diamond](https://starbounder.org/Diamond) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" height="16px" width="auto" /> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder) x*2*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.85s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_elite_augment.png" alt="Elite Augment ★★ icon" loading="lazy" width="auto" height="16px"/> Elite Augment ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/a/a0/Refined_Aegisalt.png" alt="Refined Aegisalt icon" loading="lazy" width="13px" height="13px"/> [Refined Aegisalt](https://starbounder.org/Refined_Aegisalt) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [Diamond](https://starbounder.org/Diamond) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" width="auto" height="16px"/> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder) x*2*
 
 Can be bought from merchants:
 

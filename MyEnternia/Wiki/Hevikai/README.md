@@ -6,18 +6,18 @@ Read more about the disease: [Hevikai Incident](https://ceterai.github.io/MyEnte
 
 Important notes:
 
-- to block this effect, try to not get a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai_strike.png" alt="Hevikai Strike icon" loading="lazy" height="16px" width="auto" /> [Hevikai Strike](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStrike) twice in a row.
-- If you got sick with Hevikai, use the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png" alt="Hevikai Antidote ★★ icon" loading="lazy" height="16px" width="auto" /> [Hevikai Antidote](https://ceterai.github.io/MyEnternia/Wiki/HevikaiAntidote) to cure it in time.
+- to block this effect, try to not get a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai_strike.png" alt="Hevikai Strike icon" loading="lazy" width="auto" height="16px"/> [Hevikai Strike](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStrike) twice in a row.
+- If you got sick with Hevikai, use the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png" alt="Hevikai Antidote ★★ icon" loading="lazy" width="auto" height="16px"/> [Hevikai Antidote](https://ceterai.github.io/MyEnternia/Wiki/HevikaiAntidote) to cure it in time.
 - having [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity) increases the time you have by x2.
 - hevikai strips you of [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) (if you have it) and decreases your [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) by 20%.
 
 This effect might come in use to be able to survive on [Enterash Prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime).  
-This effect can be artificially induced using a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" height="16px" width="auto" /> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack).  
+This effect can be artificially induced using a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack).  
 Alta: 
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" height="16px" width="auto" /> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack)
 
 ## Parameters
 

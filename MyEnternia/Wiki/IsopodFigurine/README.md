@@ -1,6 +1,6 @@
 # Isopod Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/pteropod/ct_isopod.png" alt="Isopod Figurine icon" loading="lazy" height="16px" width="auto" /> **Isopod Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/pteropod/ct_isopod.png" alt="Isopod Figurine icon" loading="lazy" width="auto" height="16px"/> **Isopod Figurine** is a legendary figurine.
 
 The label reads, "Isopod's belly is full of freshly de-frozen isoslime, so it can spit it at unlucky altas on sight."
 

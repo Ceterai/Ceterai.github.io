@@ -1,6 +1,6 @@
 # Thermoprotector ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Thermoprotector ★ icon" loading="lazy" height="16px" width="auto" /> **Thermoprotector ★** is an uncommon electric shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Thermoprotector ★ icon" loading="lazy" width="auto" height="16px"/> **Thermoprotector ★** is an uncommon electric shield.
 
 An armored heat dispencer with a built-in energy generator. Better be careful around plants.  
 Often used by riverside scouts, it can often be used to heat up the environment.
@@ -24,7 +24,7 @@ Radiomessages on pickup:
 
 Applies effects on knockback:
 
-- <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" height="16px" width="16px" /> [Burning](https://starbounder.org/Burning)
+- <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"/> [Burning](https://starbounder.org/Burning)
 
 ## Sources
 

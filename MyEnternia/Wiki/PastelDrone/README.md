@@ -1,6 +1,6 @@
 # Pastel Drone ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Pastel Drone ★ icon" loading="lazy" height="16px" width="auto" /> **Pastel Drone ★** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Pastel Drone ★ icon" loading="lazy" width="auto" height="16px"/> **Pastel Drone ★** is an uncommon throwable item.
 
 An observer drone, used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scouts to scan the area.  
 While it doesn't possess any actual combative power, it's still very useful and will do anything to defend its ally.
@@ -29,5 +29,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_alta_scout_drone-pastel`
 - Power: `2.21`
 - Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_scout`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaScout), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/active/alta/spawners/drones/scout.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/scout.activeitem)

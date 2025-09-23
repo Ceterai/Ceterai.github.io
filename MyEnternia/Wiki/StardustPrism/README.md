@@ -1,8 +1,8 @@
 # Stardust Prism
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_prism/icon.png" alt="Stardust Prism icon" loading="lazy" height="16px" width="auto" /> **Stardust Prism** is a legendary breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_prism/icon.png" alt="Stardust Prism icon" loading="lazy" width="auto" height="16px"/> **Stardust Prism** is a legendary breakable object.
 
-This prism is packed with uncrystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Can be destroyed to extract it.
+This prism is packed with uncrystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Can be destroyed to extract it.
 
 ## Ingame
 
@@ -30,8 +30,8 @@ This object **doesn't drop itself** when broken.
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) x*2* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" height="10px" width="10px" /> [Prism Shard](https://starbounder.org/Prism_Shard) x*3* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) x*2* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"/> [Prism Shard](https://starbounder.org/Prism_Shard) x*3* (weight: 1.0)
 
 ## Sources
 
@@ -42,5 +42,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_stardust_prism`
 - Power: `4.0`
 - Rarity: `Legendary`
-- Colony tags: [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`staris`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Staris)
+- Colony tags: [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)
 - File: [`/objects/biome/stardust/ct_stardust_prism/ct_stardust_prism.object`](https://github.com/Ceterai/Enternia/blob/main/objects/biome/stardust/ct_stardust_prism/ct_stardust_prism.object)

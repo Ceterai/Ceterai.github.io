@@ -1,8 +1,8 @@
 # Dreamer's Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_dreamer_augment.png" alt="Dreamer's Augment ★★ icon" loading="lazy" height="16px" width="auto" /> **Dreamer's Augment ★★** is a legendary epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_dreamer_augment.png" alt="Dreamer's Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Dreamer's Augment ★★** is a legendary EPP augment.
 
-An EPP module that adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" height="16px" width="auto" /> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" height="16px" width="auto" /> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection).
+An EPP module that adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"/> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" width="auto" height="16px"/> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection).
 
 ## Ingame
 
@@ -14,8 +14,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" height="16px" width="auto" /> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" height="16px" width="auto" /> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" width="auto" height="16px"/> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"/> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
 
 ## Usage
 
@@ -37,11 +37,11 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.85s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_dreamer_augment.png" alt="Dreamer's Augment ★★ icon" loading="lazy" height="16px" width="auto" /> Dreamer's Augment ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/7/7d/Refined_Violium.png" alt="Refined Violium icon" loading="lazy" height="11px" width="11px" /> [Refined Violium](https://starbounder.org/Refined_Violium) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" height="16px" width="16px" /> [Diamond](https://starbounder.org/Diamond) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="Prototype: The Dreamer icon" loading="lazy" height="16px" width="auto" /> [Prototype: The Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Prototype-TheDreamer) x*2*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.85s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_dreamer_augment.png" alt="Dreamer's Augment ★★ icon" loading="lazy" width="auto" height="16px"/> Dreamer's Augment ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/7/7d/Refined_Violium.png" alt="Refined Violium icon" loading="lazy" width="11px" height="11px"/> [Refined Violium](https://starbounder.org/Refined_Violium) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [Diamond](https://starbounder.org/Diamond) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="Prototype: The Dreamer icon" loading="lazy" width="auto" height="16px"/> [Prototype: The Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Prototype-TheDreamer) x*2*
 
 Can be bought from merchants:
 

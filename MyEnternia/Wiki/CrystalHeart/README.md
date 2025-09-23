@@ -1,11 +1,11 @@
 # Crystal Heart ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystal Heart ★ icon" loading="lazy" height="16px" width="auto" /> **Crystal Heart ★** is a legendary shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystal Heart ★ icon" loading="lazy" width="auto" height="16px"/> **Crystal Heart ★** is a legendary shield.
 
-A crystal shield enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Now you can feel it pulsate with new energy, see the sparks come off of it into nowhere.  
+A crystal shield enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Now you can feel it pulsate with new energy, see the sparks come off of it into nowhere.  
 It's barely visible cosmic shimmer is almost hypnotizing.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Calin Shield icon" loading="lazy" height="16px" width="auto" /> [Calin Shield](https://ceterai.github.io/MyEnternia/Wiki/CalinShield).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Calin Shield icon" loading="lazy" width="auto" height="16px"/> [Calin Shield](https://ceterai.github.io/MyEnternia/Wiki/CalinShield).
 
 ## Ingame
 
@@ -26,7 +26,7 @@ Radiomessages on pickup:
 
 Applies effects on knockback:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" height="16px" width="auto" /> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
 
 ## Sources
 

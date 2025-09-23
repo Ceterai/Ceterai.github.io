@@ -1,10 +1,10 @@
 # Composite Hunter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon.png" alt="Composite Hunter icon" loading="lazy" height="16px" width="auto" /> **Composite Hunter** is an uncommon bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon.png" alt="Composite Hunter icon" loading="lazy" width="auto" height="16px"/> **Composite Hunter** is an uncommon bow.
 
 An improved tool for safely gathering glow fibres and cell matter from jellies. Do not use on anything else.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon_upg.png" alt="Enhanced Harpooner ★ icon" loading="lazy" height="16px" width="auto" /> [Enhanced Harpooner ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedHarpooner) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon_upg.png" alt="Enhanced Harpooner ★ icon" loading="lazy" width="auto" height="16px"/> [Enhanced Harpooner ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedHarpooner) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

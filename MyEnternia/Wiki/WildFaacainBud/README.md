@@ -1,6 +1,6 @@
 # Wild Faacain Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Wild Faacain Bud icon" loading="lazy" height="16px" width="auto" /> **Wild Faacain Bud** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Wild Faacain Bud icon" loading="lazy" width="auto" height="16px"/> **Wild Faacain Bud** is a common plantable item.
 
 A budding crystal growing through a rock.
 
@@ -28,7 +28,7 @@ Growing stages:
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" height="16px" width="auto" /> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" width="auto" height="16px"/> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud) x*1* (weight: 1.0)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Plasma Augment ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_plasma_augment.png" alt="Plasma Augment ★ icon" loading="lazy" height="16px" width="auto" /> **Plasma Augment ★** is a rare epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_plasma_augment.png" alt="Plasma Augment ★ icon" loading="lazy" width="auto" height="16px"/> **Plasma Augment ★** is a rare EPP augment.
 
 An EPP module that makes you periodically burst with plasma.
 
@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_mind.png" alt="Plasma Bursts icon" loading="lazy" height="16px" width="auto" /> [Plasma Bursts](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBursts)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_mind.png" alt="Plasma Bursts icon" loading="lazy" width="auto" height="16px"/> [Plasma Bursts](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBursts)
 
 ## Usage
 
@@ -36,11 +36,11 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_plasma_augment.png" alt="Plasma Augment ★ icon" loading="lazy" height="16px" width="auto" /> Plasma Augment ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" height="16px" width="auto" /> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" height="16px" width="auto" /> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" height="16px" width="auto" /> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Combat Protocol Datamass icon" loading="lazy" height="16px" width="auto" /> [Combat Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/CombatProtocolDatamass) x*4*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_plasma_augment.png" alt="Plasma Augment ★ icon" loading="lazy" width="auto" height="16px"/> Plasma Augment ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Combat Protocol Datamass icon" loading="lazy" width="auto" height="16px"/> [Combat Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/CombatProtocolDatamass) x*4*
 
 Can be bought from merchants:
 

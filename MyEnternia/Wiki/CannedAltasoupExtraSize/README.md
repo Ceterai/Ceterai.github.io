@@ -1,6 +1,6 @@
 # Canned Altasoup Extra Size
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_soup_canned.png" alt="Canned Altasoup Extra Size icon" loading="lazy" height="16px" width="auto" /> **Canned Altasoup Extra Size** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_soup_canned.png" alt="Canned Altasoup Extra Size icon" loading="lazy" width="auto" height="16px"/> **Canned Altasoup Extra Size** is an uncommon dish.
 
 This extra size can contains 50% more tastiness!  
 Hopefully the core balance is there as well.

@@ -1,6 +1,6 @@
 # Alta Scout Table
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Table icon" loading="lazy" height="16px" width="auto" /> **Alta Scout Table** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"/> **Alta Scout Table** is an uncommon decorative object.
 
 A hefty [titanium](https://ceterai.github.io/MyEnternia/Wiki/Tags/Titanium) table with maintenance panel on the side.  
 Alta scouts often use these tables for route planning, map construction and energy tool maintenance. It's broad and edgeless to provide more space.

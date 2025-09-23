@@ -1,6 +1,6 @@
 # Alta Insectarium
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/insectarium/icon.png" alt="Alta Insectarium icon" loading="lazy" height="16px" width="auto" /> **Alta Insectarium** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/insectarium/icon.png" alt="Alta Insectarium icon" loading="lazy" width="auto" height="16px"/> **Alta Insectarium** is a legendary crafting station.
 
 An alta sewing machine with additional functionality.  
 Can create folded seams and protects the operator from the needle.

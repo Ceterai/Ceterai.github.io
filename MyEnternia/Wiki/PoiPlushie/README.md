@@ -1,6 +1,6 @@
 # Poi Plushie
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_poi_plush.png" alt="Poi Plushie icon" loading="lazy" height="16px" width="auto" /> **Poi Plushie** is an uncommon toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_poi_plush.png" alt="Poi Plushie icon" loading="lazy" width="auto" height="16px"/> **Poi Plushie** is an uncommon toy.
 
 A plushie of a... slime. An alta slime. A poi, in other words.
 

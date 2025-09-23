@@ -1,11 +1,11 @@
 # Hyperblaster ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" height="16px" width="auto" /> **Hyperblaster ★** is a legendary one-handed electric pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" width="auto" height="16px"/> **Hyperblaster ★** is a legendary one-handed electric pistol.
 
-This cutting tool has been upgraded to a full-on automatic blaster that uses <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy for its pulses.
+This cutting tool has been upgraded to a full-on automatic blaster that uses <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy for its pulses.
 Now with a laser pointer.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" height="16px" width="auto" /> [Pulsecutter](https://ceterai.github.io/MyEnternia/Wiki/Pulsecutter).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" width="auto" height="16px"/> [Pulsecutter](https://ceterai.github.io/MyEnternia/Wiki/Pulsecutter).
 
 ## Ingame
 

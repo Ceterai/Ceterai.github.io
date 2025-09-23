@@ -1,6 +1,6 @@
 # Vi-Callista ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/buildscripts/ct_mimics/images/uncommon/1.png:nearidle" alt="Vi-Callista ★★ icon" loading="lazy" height="16px" width="auto" /> **Vi-Callista ★★** is a rare electric shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/buildscripts/ct_mimics/images/uncommon/1.png:nearidle" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"/> **Vi-Callista ★★** is a rare electric shield.
 
 This [crystal](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) shield is ornamented with [enchanted](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted) rims.  
 Its pristine nature is a somewhat rare effect of enchanted influence. This indicates its naturally impecable structure.
@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 Applies effects on knockback:
 
-- <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" height="16px" width="16px" /> [Electrified](https://starbounder.org/Electrified)
+- <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"/> [Electrified](https://starbounder.org/Electrified)
 
 ## Sources
 

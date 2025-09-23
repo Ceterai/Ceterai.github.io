@@ -1,6 +1,6 @@
 # Wild Tsay Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Wild Tsay Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Tsay Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Wild Tsay Seed icon" loading="lazy" width="auto" height="16px"/> **Wild Tsay Seed** is a common plantable item.
 
 Grows bitter-sour tsay fruits that when cooked properly can taste like meat.
 
@@ -36,16 +36,16 @@ Growing stages:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - loot pool `ct_tsay_harvest` x*1* (weight: 0.89):
      - for threat level **0+**:
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" height="16px" width="auto" /> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay) x*1* (weight: 0.89)
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height="16px" width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed) x*1* (weight: 0.01)
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"/> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay) x*1* (weight: 0.89)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" width="auto" height="16px"/> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed) x*1* (weight: 0.01)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" height="16px" width="auto" /> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" width="auto" height="16px"/> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed) x*1* (weight: 1.0)
 
 ## Sources
 

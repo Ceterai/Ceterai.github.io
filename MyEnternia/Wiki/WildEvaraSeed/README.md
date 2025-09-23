@@ -1,6 +1,6 @@
 # Wild Evara Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Wild Evara Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Evara Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Wild Evara Seed icon" loading="lazy" width="auto" height="16px"/> **Wild Evara Seed** is a common plantable item.
 
 An interesting plant with barely visible foam-like fruits.
 
@@ -21,17 +21,17 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" height="16px" width="16px" /> [Cloud](https://starbounder.org/Cloud) x*2* (weight: 0.49)
-   - <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" height="16px" width="16px" /> [Cloud](https://starbounder.org/Cloud) x*1* (weight: 0.4)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed) x*1* (weight: 0.01)
-   - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" height="16px" width="16px" /> [Water](https://starbounder.org/Water) x*1* (weight: 0.1)
+   - <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" width="16px" height="16px"/> [Cloud](https://starbounder.org/Cloud) x*2* (weight: 0.49)
+   - <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" width="16px" height="16px"/> [Cloud](https://starbounder.org/Cloud) x*1* (weight: 0.4)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" width="auto" height="16px"/> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed) x*1* (weight: 0.01)
+   - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" width="16px" height="16px"/> [Water](https://starbounder.org/Water) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" height="16px" width="auto" /> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" width="auto" height="16px"/> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed) x*1* (weight: 1.0)
 
 ## Sources
 

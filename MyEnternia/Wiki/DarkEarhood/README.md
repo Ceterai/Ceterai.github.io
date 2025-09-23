@@ -1,6 +1,6 @@
 # Dark Earhood
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Dark Earhood icon" loading="lazy" height="16px" width="auto" /> **Dark Earhood** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Dark Earhood icon" loading="lazy" width="auto" height="16px"/> **Dark Earhood** is a rare head cosmetic item.
 
 A cozy hood with pretty ears that will make any gamer happy.  
 Increases chances of being hugged by another alta by 500%. Which is mostly useless considering they are already at 90%.
@@ -10,6 +10,12 @@ Increases chances of being hugged by another alta by 500%. Which is mostly usele
 Species descriptions:
 
 - Alta: I would hug the stardust out of any alta wearing this.
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

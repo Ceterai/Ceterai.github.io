@@ -1,8 +1,8 @@
 # Tonna Ice Cream ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Tonna Ice Cream ★ icon" loading="lazy" height="16px" width="auto" /> **Tonna Ice Cream ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Tonna Ice Cream ★ icon" loading="lazy" width="auto" height="16px"/> **Tonna Ice Cream ★** is an uncommon dish.
 
-A well-made tonna ice cream with a soft tonna flavor and a special <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" height="16px" width="auto" /> [cryo jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam) in the middle. This is refreshing and recharging.  
+A well-made tonna ice cream with a soft tonna flavor and a special <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"/> [cryo jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam) in the middle. This is refreshing and recharging.  
 If you reach the bottom, you can find a hardened tonna casing underneath the cone. This is frozen [tonna milk](https://ceterai.github.io/MyEnternia/Wiki/tonnamilk) thickened with powder.
 
 ## Ingame
@@ -20,10 +20,10 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Tonna Ice Cream ★ icon" loading="lazy" height="16px" width="auto" /> Tonna Ice Cream ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" height="16px" width="auto" /> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" height="16px" width="auto" /> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Tonna Ice Cream ★ icon" loading="lazy" width="auto" height="16px"/> Tonna Ice Cream ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"/> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*1*
 
 Can be bought from merchants:
 
@@ -36,5 +36,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_food_mimic-tonna_ice_cream`
 - Power: `2.75`
 - Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`tonna`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonna), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`tonnova`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/buildscripts/ct_mimics/food.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/food.consumable)

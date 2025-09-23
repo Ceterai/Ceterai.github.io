@@ -10,4 +10,4 @@ The tag `scanner` contains 1 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/scanner/icon.png" alt="Alta Scanner icon" loading="lazy" height="16px" width="auto" /> [Alta Scanner](https://ceterai.github.io/MyEnternia/Wiki/AltaScanner)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/scanner/icon.png" alt="Alta Scanner icon" loading="lazy" width="auto" height="16px"/> [Alta Scanner](https://ceterai.github.io/MyEnternia/Wiki/AltaScanner)

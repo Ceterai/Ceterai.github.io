@@ -1,6 +1,6 @@
 # Ionic Narfin Figurine ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_ionic_narfin.png" alt="Ionic Narfin Figurine ★★ icon" loading="lazy" height="16px" width="auto" /> **Ionic Narfin Figurine ★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_ionic_narfin.png" alt="Ionic Narfin Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> **Ionic Narfin Figurine ★★** is a legendary figurine.
 
 The label reads, "Ionic narfins like to scratch against furry surfaces to polarize their horns."
 

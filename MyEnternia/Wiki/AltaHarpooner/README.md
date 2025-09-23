@@ -1,10 +1,10 @@
 # Alta Harpooner
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon.png" alt="Alta Harpooner icon" loading="lazy" height="16px" width="auto" /> **Alta Harpooner** is an uncommon bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon.png" alt="Alta Harpooner icon" loading="lazy" width="auto" height="16px"/> **Alta Harpooner** is an uncommon bow.
 
 A special squid capturing device with electric neutralizers - to defeat, but not over-defeat.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon_upg.png" alt="Harp-M ★ icon" loading="lazy" height="16px" width="auto" /> [Harp-M ★](https://ceterai.github.io/MyEnternia/Wiki/Harp-M) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon_upg.png" alt="Harp-M ★ icon" loading="lazy" width="auto" height="16px"/> [Harp-M ★](https://ceterai.github.io/MyEnternia/Wiki/Harp-M) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

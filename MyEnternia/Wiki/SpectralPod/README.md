@@ -1,6 +1,6 @@
 # Spectral Pod ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Spectral Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> **Spectral Pod ★★★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Spectral Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> **Spectral Pod ★★★** is a legendary decorative object.
 
 This resilient chest is made out of strforged materials.  
 It shines with slight stardust tint.
@@ -25,5 +25,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_obj_mimic-spectral_pod`
 - Power: `4.62`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`staris`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Staris), [`unique`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`unique`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique)
 - File: [`/items/buildscripts/ct_mimics/obj.object`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/obj.object)

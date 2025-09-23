@@ -1,6 +1,6 @@
 # Wild Diamond Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Wild Diamond Bud icon" loading="lazy" height="16px" width="auto" /> **Wild Diamond Bud** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Wild Diamond Bud icon" loading="lazy" width="auto" height="16px"/> **Wild Diamond Bud** is a common plantable item.
 
 A budding crystal growing through a rock.
 
@@ -21,14 +21,14 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" height="16px" width="16px" /> [Diamond](https://starbounder.org/Diamond) x*1* (weight: 0.89)
+   - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [Diamond](https://starbounder.org/Diamond) x*1* (weight: 0.89)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Diamond Bud icon" loading="lazy" height="16px" width="auto" /> [Diamond Bud](https://ceterai.github.io/MyEnternia/Wiki/DiamondBud) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Diamond Bud icon" loading="lazy" width="auto" height="16px"/> [Diamond Bud](https://ceterai.github.io/MyEnternia/Wiki/DiamondBud) x*1* (weight: 1.0)
 
 ## Sources
 

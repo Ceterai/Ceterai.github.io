@@ -1,6 +1,6 @@
 # Light Sweater Vest
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png" alt="Light Sweater Vest icon" loading="lazy" height="16px" width="auto" /> **Light Sweater Vest** is a common chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png" alt="Light Sweater Vest icon" loading="lazy" width="auto" height="16px"/> **Light Sweater Vest** is a common chest cosmetic item.
 
 A cozy goodness that will make any [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) feel at home.
 
@@ -10,15 +10,19 @@ A cozy goodness that will make any [alta](https://ceterai.github.io/MyEnternia/W
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" height="16px" width="auto" /> [Alta Sweater Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaSweaterStack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" width="auto" height="16px"/> [Alta Sweater Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaSweaterStack)
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png" alt="Light Sweater Vest icon" loading="lazy" height="16px" width="auto" /> Light Sweater Vest x*1*):
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png" alt="Light Sweater Vest icon" loading="lazy" width="auto" height="16px"/> Light Sweater Vest x*1*):
   - `cottonwool` x*2*
-  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" height="12px" width="14px" /> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
+  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"/> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
 
 Can be bought from merchants:
 

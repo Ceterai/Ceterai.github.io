@@ -1,6 +1,6 @@
 # Calin Dress Bottom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Dress Bottom icon" loading="lazy" height="16px" width="auto" /> **Calin Dress Bottom** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Dress Bottom icon" loading="lazy" width="auto" height="16px"/> **Calin Dress Bottom** is a rare leg cosmetic item.
 
 A night dress often worn to [alta clubhouses](https://ceterai.github.io/MyEnternia/Wiki/altaclubhouses). Designed by [Perizhad](https://ceterai.github.io/MyEnternia/Wiki/Perizhad).  
 Made from a high-quality material, this dress will make you the center of attention.
@@ -10,6 +10,12 @@ Made from a high-quality material, this dress will make you the center of attent
 Species descriptions:
 
 - Alta: Pretty and effective. I like the calin-like shiny rims on this dress.
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

@@ -10,4 +10,4 @@ The tag `crystal_plant` contains 1 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" height="16px" width="auto" /> [Alunika](https://ceterai.github.io/MyEnternia/Wiki/Alunika)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" width="auto" height="16px"/> [Alunika](https://ceterai.github.io/MyEnternia/Wiki/Alunika)

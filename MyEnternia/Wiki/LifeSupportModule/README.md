@@ -5,9 +5,9 @@ Alta:
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png" alt="Dreamer's Plating icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Plating](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sPlating)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" height="16px" width="auto" /> [EDS Body Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSBodyArmor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" height="16px" width="auto" /> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png" alt="Dreamer's Plating icon" loading="lazy" width="auto" height="16px"/> [Dreamer's Plating](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sPlating)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Body Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSBodyArmor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" width="auto" height="16px"/> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket)
 
 ## Parameters
 

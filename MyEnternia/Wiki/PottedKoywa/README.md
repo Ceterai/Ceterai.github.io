@@ -1,6 +1,6 @@
 # Potted Koywa
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" height="16px" width="auto" /> **Potted Koywa** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" width="auto" height="16px"/> **Potted Koywa** is a common decorative object.
 
 A seemingly unsuspecting plant in a small pot.
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" height="16px" width="auto" /> Potted Koywa x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" height="10px" width="10px" /> [Moondust](https://starbounder.org/Moondust) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/basic/icon.png" alt="Ayaka Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Ayaka Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AyakaFlowerPot) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" width="auto" height="16px"/> Potted Koywa x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" width="10px" height="10px"/> [Moondust](https://starbounder.org/Moondust) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/basic/icon.png" alt="Ayaka Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Ayaka Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AyakaFlowerPot) x*1*
 
 Can be bought from merchants:
 
@@ -35,5 +35,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_koywa_af`
 - Power: `1.0`
 - Rarity: `Common`
-- Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)
+- Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`potted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Potted)
 - File: [`/objects/alta/special/plants/pots/bushes/koywa/af.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plants/pots/bushes/koywa/af.object)

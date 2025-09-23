@@ -1,6 +1,6 @@
 # Alta Mineral Water
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="Alta Mineral Water icon" loading="lazy" height="16px" width="auto" /> **Alta Mineral Water** is a common drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="Alta Mineral Water icon" loading="lazy" width="auto" height="16px"/> **Alta Mineral Water** is a common drink.
 
 ## Ingame
 

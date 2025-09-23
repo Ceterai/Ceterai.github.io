@@ -1,8 +1,8 @@
 # Prism Wing Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_prism_wing_egg.png" alt="Prism Wing Egg icon" loading="lazy" height="16px" width="auto" /> **Prism Wing Egg** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_prism_wing_egg.png" alt="Prism Wing Egg icon" loading="lazy" width="auto" height="16px"/> **Prism Wing Egg** is an uncommon throwable item.
 
-Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/prism_wing/icon.png" alt="Prism Wing icon" loading="lazy" height="16px" width="auto" /> [prism wing](https://ceterai.github.io/MyEnternia/Wiki/PrismWing), a bug with peraly-colored wings that shine with different colors under light.  
+Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/prism_wing/icon.png" alt="Prism Wing icon" loading="lazy" width="auto" height="16px"/> [prism wing](https://ceterai.github.io/MyEnternia/Wiki/PrismWing), a bug with peraly-colored wings that shine with different colors under light.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame
@@ -17,7 +17,7 @@ Species descriptions:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/prism_wing/icon.png" alt="Prism Wing icon" loading="lazy" height="16px" width="auto" /> [Prism Wing](https://ceterai.github.io/MyEnternia/Wiki/PrismWing)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/prism_wing/icon.png" alt="Prism Wing icon" loading="lazy" width="auto" height="16px"/> [Prism Wing](https://ceterai.github.io/MyEnternia/Wiki/PrismWing)
 
 ## Sources
 

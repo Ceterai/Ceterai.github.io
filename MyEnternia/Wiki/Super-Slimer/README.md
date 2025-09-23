@@ -1,10 +1,10 @@
 # Super-Slimer ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon_upg.png" alt="Super-Slimer ★ icon" loading="lazy" height="16px" width="auto" /> **Super-Slimer ★** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon_upg.png" alt="Super-Slimer ★ icon" loading="lazy" width="auto" height="16px"/> **Super-Slimer ★** is a legendary tool.
 
 Spray a sticky foam that slows down enemies!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon.png" alt="Alta Slime Sprayer icon" loading="lazy" height="16px" width="auto" /> [Alta Slime Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSlimeSprayer).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon.png" alt="Alta Slime Sprayer icon" loading="lazy" width="auto" height="16px"/> [Alta Slime Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSlimeSprayer).
 
 ## Sources
 

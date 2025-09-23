@@ -1,8 +1,8 @@
 # Thermofrag Nade
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermofrag Nade icon" loading="lazy" height="16px" width="auto" /> **Thermofrag Nade** is an uncommon fiery throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermofrag Nade icon" loading="lazy" width="auto" height="16px"/> **Thermofrag Nade** is an uncommon fiery throwable item.
 
-A highly combustable substance made from modified <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermomix icon" loading="lazy" height="16px" width="auto" /> [thermomix](https://ceterai.github.io/MyEnternia/Wiki/Thermomix) nades. Sometimes used by riverside scouts.  
+A highly combustable substance made from modified <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermomix icon" loading="lazy" width="auto" height="16px"/> [thermomix](https://ceterai.github.io/MyEnternia/Wiki/Thermomix) nades. Sometimes used by riverside scouts.  
 The technology behind it is meant to create a fast line of fire in a contained or outlined are to prevent it from spreading.
 
 ## Ingame

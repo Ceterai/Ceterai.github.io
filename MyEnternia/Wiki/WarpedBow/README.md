@@ -1,10 +1,10 @@
 # Warped Bow ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon_upg.png" alt="Warped Bow ★ icon" loading="lazy" height="16px" width="auto" /> **Warped Bow ★** is a legendary two-handed poisonous bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon_upg.png" alt="Warped Bow ★ icon" loading="lazy" width="auto" height="16px"/> **Warped Bow ★** is a legendary two-handed poisonous bow.
 
 A bow-like growth, able to generate venomous charges when tensioned.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon.png" alt="Warped Hunter icon" loading="lazy" height="16px" width="auto" /> [Warped Hunter](https://ceterai.github.io/MyEnternia/Wiki/WarpedHunter).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon.png" alt="Warped Hunter icon" loading="lazy" width="auto" height="16px"/> [Warped Hunter](https://ceterai.github.io/MyEnternia/Wiki/WarpedHunter).
 
 ## Ingame
 

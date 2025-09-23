@@ -1,6 +1,6 @@
 # Alta Dart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/throwingdart.png" alt="Alta Dart icon" loading="lazy" height="16px" width="auto" /> **Alta Dart** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/throwingdart.png" alt="Alta Dart icon" loading="lazy" width="auto" height="16px"/> **Alta Dart** is a common throwable item.
 
 A throwing dart, aim for the bullseye.
 

@@ -1,6 +1,6 @@
 # Mical Crippit Figurine ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_mical_crippit.png" alt="Mical Crippit Figurine ★★ icon" loading="lazy" height="16px" width="auto" /> **Mical Crippit Figurine ★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_mical_crippit.png" alt="Mical Crippit Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> **Mical Crippit Figurine ★★** is a legendary figurine.
 
 The label reads, "Mical crippits are often mixed up with ruby crippits - although they live in quite different climates."
 
@@ -31,5 +31,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_mical_crippit_af`
 - Power: `4.2`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crippit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crippit), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
 - File: [`/objects/alta/special/figurines/crippit/ct_mical_crippit.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/figurines/crippit/ct_mical_crippit.object)

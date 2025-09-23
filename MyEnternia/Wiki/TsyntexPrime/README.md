@@ -1,11 +1,11 @@
 # Tsyntex Prime ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" height="16px" width="auto" /> **Tsyntex Prime ★** is a legendary one-handed poisonous pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" width="auto" height="16px"/> **Tsyntex Prime ★** is a legendary one-handed poisonous pistol.
 
-A pristine model of original tsyntex blaster with its power enhanced by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
+A pristine model of original tsyntex blaster with its power enhanced by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
 It feels a little heavier than usual, but part of that can be attributed to a different material used for casing and some of the blaster's insides.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" height="16px" width="auto" /> [Tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"/> [Tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
 
 ## Ingame
 

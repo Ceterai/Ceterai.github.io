@@ -1,6 +1,6 @@
 # Felistraza
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Felistraza icon" loading="lazy" height="16px" width="auto" /> **Felistraza** is a rare head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Felistraza icon" loading="lazy" width="auto" height="16px"/> **Felistraza** is a rare head cosmetic item.
 
 A very rare ionic flower that makes for a great hair accessory.  
 It often growns as part of a felistraze bushes, that can grow up to 2 meters in height. You can often find 3-5 flowers per bush.
@@ -10,6 +10,12 @@ It often growns as part of a felistraze bushes, that can grow up to 2 meters in 
 Species descriptions:
 
 - Alta: This is quite a find. As far as I remember, these are not usually for sale.
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

@@ -1,8 +1,8 @@
 # Aya Bee Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_aya_bee_egg.png" alt="Aya Bee Egg icon" loading="lazy" height="16px" width="auto" /> **Aya Bee Egg** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_aya_bee_egg.png" alt="Aya Bee Egg icon" loading="lazy" width="auto" height="16px"/> **Aya Bee Egg** is a common throwable item.
 
-Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" height="16px" width="auto" /> [aya bee](https://ceterai.github.io/MyEnternia/Wiki/AyaBee), commonly found around <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" height="16px" width="auto" /> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) trees.  
+Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" width="auto" height="16px"/> [aya bee](https://ceterai.github.io/MyEnternia/Wiki/AyaBee), commonly found around <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) trees.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame
@@ -17,7 +17,7 @@ Species descriptions:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" height="16px" width="auto" /> [Aya Bee](https://ceterai.github.io/MyEnternia/Wiki/AyaBee)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" width="auto" height="16px"/> [Aya Bee](https://ceterai.github.io/MyEnternia/Wiki/AyaBee)
 
 ## Sources
 

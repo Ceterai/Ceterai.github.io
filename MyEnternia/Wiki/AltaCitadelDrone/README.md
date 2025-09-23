@@ -1,6 +1,6 @@
 # Alta Citadel Drone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Citadel Drone ★★★ icon" loading="lazy" height="16px" width="auto" /> **Alta Citadel Drone ★★★** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Citadel Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Alta Citadel Drone ★★★** is a legendary throwable item.
 
 An advanced armored drone filled with enternia energy. Has ranged attacks and spreads ionized clouds.  
 This model is a direct upgrade to a once commonplace alta battle drone.
@@ -29,5 +29,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_ionic_drone-neon`
 - Power: `4.5`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`citadel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)
 - File: [`/items/active/alta/spawners/drones/ionic.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/ionic.activeitem)

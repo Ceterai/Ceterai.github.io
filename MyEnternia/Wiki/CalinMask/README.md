@@ -1,6 +1,6 @@
 # Calin Mask
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Mask icon" loading="lazy" height="16px" width="auto" /> **Calin Mask** is an uncommon head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Mask icon" loading="lazy" width="auto" height="16px"/> **Calin Mask** is an uncommon head cosmetic item.
 
 A calin crystal mask. It makes your eyes shine.  
 Make from regular refined calin crystals, it might be a bit heavy to wear and needs some time getting used to.
@@ -10,6 +10,12 @@ Make from regular refined calin crystals, it might be a bit heavy to wear and ne
 Species descriptions:
 
 - Alta: I think I can kinda see through it? If I squint hard enough?
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

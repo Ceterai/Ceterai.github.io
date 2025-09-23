@@ -1,6 +1,6 @@
 # Companion Drone ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" height="16px" width="auto" /> **Companion Drone ★★** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" width="auto" height="16px"/> **Companion Drone ★★** is an uncommon throwable item.
 
 This drone is now your personal companion! Treat it with care and support.  
 It reminds you of something, but you can't quite put your finger on it...

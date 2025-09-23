@@ -1,13 +1,13 @@
 # EDS Cannonsword ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore_2.png" alt="EDS Cannonsword ★ icon" loading="lazy" height="16px" width="auto" /> **EDS Cannonsword ★** is a legendary two-handed broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore_2.png" alt="EDS Cannonsword ★ icon" loading="lazy" width="auto" height="16px"/> **EDS Cannonsword ★** is a legendary two-handed broadsword.
 
 This weapon is now a powerful device that can hold any threat back, no matter how far away it is.  
 The enhanced CDR is now able to launch powerful [EDS rockets](https://ceterai.github.io/MyEnternia/Wiki/EDSrockets) at the targets. Packed with the _Litera-7_ homing system, it's able to find it target after a charge.
 
 _Centar Thruster_ is what causing the weapon to propell forward, with the use of mentioned rockets as push charges.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore.png" alt="EDS Claymore icon" loading="lazy" height="16px" width="auto" /> [EDS Claymore](https://ceterai.github.io/MyEnternia/Wiki/EDSClaymore).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore.png" alt="EDS Claymore icon" loading="lazy" width="auto" height="16px"/> [EDS Claymore](https://ceterai.github.io/MyEnternia/Wiki/EDSClaymore).
 
 ## Ingame
 

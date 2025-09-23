@@ -1,6 +1,6 @@
 # Shieldrone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" height="16px" width="auto" /> **Shieldrone ★★★** is an uncommon cryogenic throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Shieldrone ★★★** is an uncommon cryogenic throwable item.
 
 This drone model may not put up a fight, but it will definitely put up a shield.  
 Being one of the first drone models with an integrated energy shield, this drone is considered a staple of alta technology.

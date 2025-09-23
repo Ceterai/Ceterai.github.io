@@ -1,6 +1,6 @@
 # Berry Bobfae Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_berry_bobfae_egg.png" alt="Berry Bobfae Egg icon" loading="lazy" height="16px" width="auto" /> **Berry Bobfae Egg** is an uncommon one-handed throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_berry_bobfae_egg.png" alt="Berry Bobfae Egg icon" loading="lazy" width="auto" height="16px"/> **Berry Bobfae Egg** is an uncommon one-handed throwable item.
 
 Can be used to spawn a creature called [berry bobfae](https://ceterai.github.io/MyEnternia/Wiki/berrybobfae).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

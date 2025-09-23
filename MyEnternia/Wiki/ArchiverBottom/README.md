@@ -1,6 +1,6 @@
 # Archiver Bottom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Archiver Bottom icon" loading="lazy" height="16px" width="auto" /> **Archiver Bottom** is an uncommon leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Archiver Bottom icon" loading="lazy" width="auto" height="16px"/> **Archiver Bottom** is an uncommon leg cosmetic item.
 
 A bottom half of a scientific coat used by alta archivers. Has lots of pockets for storing all the science goods!  
 The material is pretty plain and was made to stay on well and not let most liquids get through it.
@@ -10,6 +10,12 @@ The material is pretty plain and was made to stay on well and not let most liqui
 Species descriptions:
 
 - Alta: The smell of science is coming from this piece of clothing...
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

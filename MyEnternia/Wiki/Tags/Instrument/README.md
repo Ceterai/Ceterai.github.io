@@ -10,4 +10,4 @@ The tag `instrument` contains 1 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_lira.png" alt="Lira ★★ icon" loading="lazy" height="16px" width="auto" /> [Lira ★★](https://ceterai.github.io/MyEnternia/Wiki/Lira)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_lira.png" alt="Lira ★★ icon" loading="lazy" width="auto" height="16px"/> [Lira ★★](https://ceterai.github.io/MyEnternia/Wiki/Lira)

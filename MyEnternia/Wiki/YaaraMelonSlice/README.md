@@ -1,15 +1,15 @@
 # Yaara Melon Slice
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon Slice icon" loading="lazy" height="16px" width="auto" /> **Yaara Melon Slice** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon Slice icon" loading="lazy" width="auto" height="16px"/> **Yaara Melon Slice** is a common dish.
 
-A well-prepared slice of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/watcher/icon.png" alt="Yaara Watcher icon" loading="lazy" height="16px" width="auto" /> [yaara watcher](https://ceterai.github.io/MyEnternia/Wiki/YaaraWatcher)'s eye, which is usually like five times as big as a regular <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [yaara eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye).  
+A well-prepared slice of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/watcher/icon.png" alt="Yaara Watcher icon" loading="lazy" width="auto" height="16px"/> [yaara watcher](https://ceterai.github.io/MyEnternia/Wiki/YaaraWatcher)'s eye, which is usually like five times as big as a regular <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"/> [yaara eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye).  
 It gets baked, sliced, spiced, and then baked again. After hardening a little while cooling, it gets heated up again and served with a fresh.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: I bet I could eat the whole <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon icon" loading="lazy" height="16px" width="auto" /> [yaara melon](https://ceterai.github.io/MyEnternia/Wiki/YaaraMelon). Even if I couldn't, I'd enjoy every piece!
+- Alta: I bet I could eat the whole <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon icon" loading="lazy" width="auto" height="16px"/> [yaara melon](https://ceterai.github.io/MyEnternia/Wiki/YaaraMelon). Even if I couldn't, I'd enjoy every piece!
 
 ## Parameters
 
@@ -20,9 +20,9 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon Slice icon" loading="lazy" height="16px" width="auto" /> Yaara Melon Slice x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" height="16px" width="auto" /> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon Slice icon" loading="lazy" width="auto" height="16px"/> Yaara Melon Slice x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"/> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*1*
 
 Can be bought from merchants:
 

@@ -1,6 +1,6 @@
 # Shaky Bishyn Crystal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal2/icon.png" alt="Shaky Bishyn Crystal icon" loading="lazy" height="16px" width="auto" /> **Shaky Bishyn Crystal** is an uncommon poisonous breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal2/icon.png" alt="Shaky Bishyn Crystal icon" loading="lazy" width="auto" height="16px"/> **Shaky Bishyn Crystal** is an uncommon poisonous breakable object.
 
 A crystal deposit, a bit shaky to the touch. Seems like special [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) crystals.  
 These form naturally in highly crystallic environments and tend to grow in patches on relatively plateau areas.
@@ -31,8 +31,8 @@ This object **doesn't drop itself** when broken.
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
 
 ## Sources
 

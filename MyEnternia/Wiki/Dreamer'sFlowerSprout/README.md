@@ -1,6 +1,6 @@
 # Dreamer's Flower Sprout
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" height="16px" width="auto" /> **Dreamer's Flower Sprout** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" width="auto" height="16px"/> **Dreamer's Flower Sprout** is an uncommon plantable item.
 
 A suspicious flower bush with a purple bulb in the middle. Requires to be at least 50% in a liquid.
 
@@ -23,10 +23,10 @@ Growing stages:
 3. Lasts from 1670 to 1730 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" height="14px" width="10px" /> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*2* (weight: 0.49)
-   - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" height="14px" width="10px" /> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*1* (weight: 0.4)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSprout) x*1* (weight: 0.01)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" height="16px" width="auto" /> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+   - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" width="10px" height="14px"/> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*2* (weight: 0.49)
+   - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" width="10px" height="14px"/> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*1* (weight: 0.4)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" width="auto" height="16px"/> [Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSprout) x*1* (weight: 0.01)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Usage
 
@@ -34,44 +34,44 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/boosted/icon.png" alt="Boosted Dreamer Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Dreamer Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedDreamerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" height="16px" width="auto" /> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/boosted/icon.png" alt="Boosted Dreamer Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Dreamer Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedDreamerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" width="auto" height="16px"/> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" height="16px" width="auto" /> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" height="16px" width="auto" /> Dreamer's Flower Sprout x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" height="14px" width="10px" /> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*32*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" height="16px" width="auto" /> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" height="10px" width="10px" /> [Obsidian](https://starbounder.org/Obsidian) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" height="15px" width="7px" /> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" width="auto" height="16px"/> Dreamer's Flower Sprout x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" width="10px" height="14px"/> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*32*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" width="auto" height="16px"/> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" width="10px" height="10px"/> [Obsidian](https://starbounder.org/Obsidian) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" width="7px" height="15px"/> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Wild Dreamer's Flower Sprout icon" loading="lazy" height="16px" width="auto" /> [Wild Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildDreamer'sFlowerSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Wild Dreamer's Flower Sprout icon" loading="lazy" width="auto" height="16px"/> [Wild Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildDreamer'sFlowerSprout)
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/boosted/icon.png" alt="Boosted Dreamer Sapling icon" loading="lazy" height="16px" width="auto" /> [Boosted Dreamer Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedDreamerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" height="16px" width="auto" /> [Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSprout)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" height="16px" width="auto" /> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Wild Dreamer's Flower Sprout icon" loading="lazy" height="16px" width="auto" /> [Wild Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildDreamer'sFlowerSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/boosted/icon.png" alt="Boosted Dreamer Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Dreamer Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedDreamerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/pod/icon.png" alt="Dreamer Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Dreamer Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/DreamerEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Dreamer's Flower Sprout icon" loading="lazy" width="auto" height="16px"/> [Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/eco/icon.png" alt="Eco Dreamer's Flower Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Dreamer's Flower Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDreamer'sFlowerSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/icon.png" alt="Wild Dreamer's Flower Sprout icon" loading="lazy" width="auto" height="16px"/> [Wild Dreamer's Flower Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildDreamer'sFlowerSprout)
 
 </details>
 

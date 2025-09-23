@@ -1,6 +1,6 @@
 # EDS Frigate Drone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate.png" alt="EDS Frigate Drone ★★★ icon" loading="lazy" height="16px" width="auto" /> **EDS Frigate Drone ★★★** is a legendary electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate.png" alt="EDS Frigate Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> **EDS Frigate Drone ★★★** is a legendary electric throwable item.
 
 This huge combat machine is able to construct new drones on the fly.  
 Its body is designed to be able to act as a protected carrier, with lots of compactly placed minidrones and an additional defensive drone.

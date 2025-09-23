@@ -1,8 +1,8 @@
 # Juviley Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_juviley_egg.png" alt="Juviley Egg icon" loading="lazy" height="16px" width="auto" /> **Juviley Egg** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_juviley_egg.png" alt="Juviley Egg icon" loading="lazy" width="auto" height="16px"/> **Juviley Egg** is an uncommon throwable item.
 
-Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/juviley/icon.png" alt="Juviley icon" loading="lazy" height="16px" width="auto" /> [juviley](https://ceterai.github.io/MyEnternia/Wiki/Juviley), a colorful yaara bug.  
+Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/juviley/icon.png" alt="Juviley icon" loading="lazy" width="auto" height="16px"/> [juviley](https://ceterai.github.io/MyEnternia/Wiki/Juviley), a colorful yaara bug.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame
@@ -17,7 +17,7 @@ Species descriptions:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/juviley/icon.png" alt="Juviley icon" loading="lazy" height="16px" width="auto" /> [Juviley](https://ceterai.github.io/MyEnternia/Wiki/Juviley)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/juviley/icon.png" alt="Juviley icon" loading="lazy" width="auto" height="16px"/> [Juviley](https://ceterai.github.io/MyEnternia/Wiki/Juviley)
 
 ## Sources
 

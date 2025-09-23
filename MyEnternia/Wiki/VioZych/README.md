@@ -1,6 +1,6 @@
 # Vio Zych
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/vio_zych/icon.png" alt="Vio Zych icon" loading="lazy" height="16px" width="auto" /> **Vio Zych** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/vio_zych/icon.png" alt="Vio Zych icon" loading="lazy" width="auto" height="16px"/> **Vio Zych** is an uncommon bug.
 
 An attached note reads, "A bug that loves to mix surrounding energy. Its colors reflect the amount of energy left in it."
 

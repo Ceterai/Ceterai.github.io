@@ -5,7 +5,7 @@ Alta:
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_force_shielder.png" alt="Force Shielder icon" loading="lazy" height="16px" width="auto" /> [Force Shielder](https://ceterai.github.io/MyEnternia/Wiki/ForceShielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_force_shielder.png" alt="Force Shielder icon" loading="lazy" width="auto" height="16px"/> [Force Shielder](https://ceterai.github.io/MyEnternia/Wiki/ForceShielder)
 
 ## Parameters
 

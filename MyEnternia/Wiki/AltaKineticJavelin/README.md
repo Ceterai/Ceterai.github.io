@@ -1,6 +1,6 @@
 # Alta Kinetic Javelin
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Kinetic Javelin icon" loading="lazy" height="16px" width="auto" /> **Alta Kinetic Javelin** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Kinetic Javelin icon" loading="lazy" width="auto" height="16px"/> **Alta Kinetic Javelin** is an uncommon throwable item.
 
 A simple toy dart that you can throw at a target. Or horibly miss it instead, whatever.  
 Usually manufactured in batches, these are commonly sold in entertainment stores with small safety protocols, even if classified as non-lethal.

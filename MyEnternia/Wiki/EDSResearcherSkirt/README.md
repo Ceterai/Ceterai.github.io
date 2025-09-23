@@ -1,6 +1,6 @@
 # EDS Researcher Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="EDS Researcher Skirt icon" loading="lazy" height="16px" width="auto" /> **EDS Researcher Skirt** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="EDS Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> **EDS Researcher Skirt** is a rare leg cosmetic item.
 
 An official EDS researcher's legwear. Practical and well thought-out.
 
@@ -10,6 +10,12 @@ Radiomessages on pickup:
 
 - The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

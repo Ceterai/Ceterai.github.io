@@ -1,6 +1,6 @@
 # The Stardust Orchid ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_stardust_orchid_art.png" alt="The Stardust Orchid ★ icon" loading="lazy" height="16px" width="auto" /> **The Stardust Orchid ★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_stardust_orchid_art.png" alt="The Stardust Orchid ★ icon" loading="lazy" width="auto" height="16px"/> **The Stardust Orchid ★** is a legendary decorative object.
 
 A drawing of a flower that looks oddly familiar.
 

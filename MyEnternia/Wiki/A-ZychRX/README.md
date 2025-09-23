@@ -1,11 +1,11 @@
 # A-Zych RX ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" height="16px" width="auto" /> **A-Zych RX ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" width="auto" height="16px"/> **A-Zych RX ★** is a legendary two-handed tool.
 
 Intended for sending instects to sleep. Can be used instead of a bug net.
 Charge: 20 pumps.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon.png" alt="Alta Pollen Pump icon" loading="lazy" height="16px" width="auto" /> [Alta Pollen Pump](https://ceterai.github.io/MyEnternia/Wiki/AltaPollenPump).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon.png" alt="Alta Pollen Pump icon" loading="lazy" width="auto" height="16px"/> [Alta Pollen Pump](https://ceterai.github.io/MyEnternia/Wiki/AltaPollenPump).
 
 ## Sources
 

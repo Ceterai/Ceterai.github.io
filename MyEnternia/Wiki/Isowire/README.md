@@ -1,6 +1,6 @@
 # Isowire
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/isowire.png" alt="Isowire icon" loading="lazy" height="16px" width="auto" /> **Isowire** is a common crafting material.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/isowire.png" alt="Isowire icon" loading="lazy" width="auto" height="16px"/> **Isowire** is a common crafting material.
 
 Isolated alta wires - simple, but effective both for isolating (not conducting) electricity and providing support.  
 Made almost entirely from separate parts of an ayaka tree, it utilizes its strands, sap and strong cell matter as means to conduct electricity, even if relatively poorly.

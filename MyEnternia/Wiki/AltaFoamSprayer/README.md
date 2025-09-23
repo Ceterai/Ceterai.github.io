@@ -1,10 +1,10 @@
 # Alta Foam Sprayer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon.png" alt="Alta Foam Sprayer icon" loading="lazy" height="16px" width="auto" /> **Alta Foam Sprayer** is a common tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon.png" alt="Alta Foam Sprayer icon" loading="lazy" width="auto" height="16px"/> **Alta Foam Sprayer** is a common tool.
 
 Spray a sticky foam that slows down enemies!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon_upg.png" alt="Super-Foamer ★ icon" loading="lazy" height="16px" width="auto" /> [Super-Foamer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Foamer) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon_upg.png" alt="Super-Foamer ★ icon" loading="lazy" width="auto" height="16px"/> [Super-Foamer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Foamer) at the Weapon Upgrade Anvil.
 
 ## Sources
 

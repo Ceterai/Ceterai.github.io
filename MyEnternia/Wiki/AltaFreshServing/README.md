@@ -1,6 +1,6 @@
 # Alta Fresh Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" height="16px" width="auto" /> **Alta Fresh Serving** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/fresh/icon.png" alt="Alta Fresh Serving icon" loading="lazy" width="auto" height="16px"/> **Alta Fresh Serving** is an uncommon decorative object.
 
 A simple serving of an alta fresh. Can be picked up right away to take a closer look.
 
@@ -24,16 +24,16 @@ A simple serving of an alta fresh. Can be picked up right away to take a closer 
 Drops following **break** loot:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 1.0)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" height="16px" width="auto" /> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" height="16px" width="auto" /> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" height="16px" width="auto" /> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Miko Fresh icon" loading="lazy" height="16px" width="auto" /> [Miko Fresh](https://ceterai.github.io/MyEnternia/Wiki/MikoFresh) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" height="16px" width="auto" /> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Viona Fresh icon" loading="lazy" height="16px" width="auto" /> [Viona Fresh](https://ceterai.github.io/MyEnternia/Wiki/VionaFresh) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Essence icon" loading="lazy" height="16px" width="auto" /> [Bio Essence](https://ceterai.github.io/MyEnternia/Wiki/BioEssence) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Essence icon" loading="lazy" height="16px" width="auto" /> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" height="16px" width="auto" /> [Aya Essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Markvin Fresh icon" loading="lazy" height="16px" width="auto" /> [Markvin Fresh](https://ceterai.github.io/MyEnternia/Wiki/MarkvinFresh) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" width="auto" height="16px"/> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"/> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" width="auto" height="16px"/> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Miko Fresh icon" loading="lazy" width="auto" height="16px"/> [Miko Fresh](https://ceterai.github.io/MyEnternia/Wiki/MikoFresh) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" width="auto" height="16px"/> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Viona Fresh icon" loading="lazy" width="auto" height="16px"/> [Viona Fresh](https://ceterai.github.io/MyEnternia/Wiki/VionaFresh) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Essence icon" loading="lazy" width="auto" height="16px"/> [Bio Essence](https://ceterai.github.io/MyEnternia/Wiki/BioEssence) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Essence icon" loading="lazy" width="auto" height="16px"/> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"/> [Aya Essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Markvin Fresh icon" loading="lazy" width="auto" height="16px"/> [Markvin Fresh](https://ceterai.github.io/MyEnternia/Wiki/MarkvinFresh) x*1* (weight: 0.08)
 
 ## Sources
 

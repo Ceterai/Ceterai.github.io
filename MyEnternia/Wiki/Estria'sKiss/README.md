@@ -1,11 +1,11 @@
 # Estria's Kiss ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk_2.png" alt="Estria's Kiss ★ icon" loading="lazy" height="16px" width="auto" /> **Estria's Kiss ★** is a legendary two-handed poisonous spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk_2.png" alt="Estria's Kiss ★ icon" loading="lazy" width="auto" height="16px"/> **Estria's Kiss ★** is a legendary two-handed poisonous spear.
 
-This nivera spear gives off a strong scent of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) and unknown pheromones. Holding it somehow feels a little wrong...  
+This nivera spear gives off a strong scent of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) and unknown pheromones. Holding it somehow feels a little wrong...  
 It belongs to _Estria_, one of the [queens of thorns](https://ceterai.github.io/MyEnternia/Wiki/queensofthorns). She used this spear to lure in and capture unsuspecting altas, in order to try and make friends. The venom isn't meant to be harmful to altas, as much as restrict their movement, preventing them from running away easily.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk.png" alt="Niverisk icon" loading="lazy" height="16px" width="auto" /> [Niverisk](https://ceterai.github.io/MyEnternia/Wiki/Niverisk).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk.png" alt="Niverisk icon" loading="lazy" width="auto" height="16px"/> [Niverisk](https://ceterai.github.io/MyEnternia/Wiki/Niverisk).
 
 ## Ingame
 

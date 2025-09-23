@@ -1,6 +1,6 @@
 # Pizzonna Slice
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Pizzonna Slice icon" loading="lazy" height="16px" width="auto" /> **Pizzonna Slice** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Pizzonna Slice icon" loading="lazy" width="auto" height="16px"/> **Pizzonna Slice** is a rare dish.
 
 This nia pizza slice will fill you with special pizzonnic energy. Remember that with great power comes great responsibility.  
 The pizza uses a tonna paste as a base layer, with a couple of nia fruits as main filling, with slight amounts of [nia jam](https://ceterai.github.io/MyEnternia/Wiki/niajam) as filling.
@@ -20,10 +20,10 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Pizzonna Slice icon" loading="lazy" height="16px" width="auto" /> Pizzonna Slice x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" height="16px" width="auto" /> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" height="16px" width="auto" /> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*2*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Pizzonna Slice icon" loading="lazy" width="auto" height="16px"/> Pizzonna Slice x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"/> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"/> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*2*
 
 Can be bought from merchants:
 
@@ -36,5 +36,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_food_mimic-pizzionna_slice`
 - Power: `3.0`
 - Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`tonna`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonna)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`tonnova`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova)
 - File: [`/items/buildscripts/ct_mimics/food.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/food.consumable)

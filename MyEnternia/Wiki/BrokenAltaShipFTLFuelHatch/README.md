@@ -1,6 +1,6 @@
 # Broken Alta Ship FTL Fuel Hatch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/fuel_hatch/icon.png" alt="Broken Alta Ship FTL Fuel Hatch icon" loading="lazy" height="16px" width="auto" /> **Broken Alta Ship FTL Fuel Hatch** is a common object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/fuel_hatch/icon.png" alt="Broken Alta Ship FTL Fuel Hatch icon" loading="lazy" width="auto" height="16px"/> **Broken Alta Ship FTL Fuel Hatch** is a common object.
 
 A broken FTL fuel hatch for some [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) machinery. This won't do!
 

@@ -1,6 +1,6 @@
 # Wild Blossom Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Blossom Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Wild Blossom Seed icon" loading="lazy" width="auto" height="16px"/> **Wild Blossom Seed** is a common plantable item.
 
 A bright plant with silky fibres forming near its branches.
 
@@ -21,16 +21,16 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" height="14px" width="15px" /> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*2* (weight: 0.49)
-   - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" height="14px" width="15px" /> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*1* (weight: 0.5)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height="16px" width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed) x*1* (weight: 0.01)
+   - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" width="15px" height="14px"/> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*2* (weight: 0.49)
+   - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" width="15px" height="14px"/> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*1* (weight: 0.5)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" width="auto" height="16px"/> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed) x*1* (weight: 0.01)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" height="16px" width="auto" /> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" width="auto" height="16px"/> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed) x*1* (weight: 1.0)
 
 ## Sources
 

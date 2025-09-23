@@ -4,6 +4,10 @@ The tag `tier4` contains 4 total entries.
 
 ## Objects
 
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Tier4](https://starbounder.org/Tag:Tier4)
+
 ## Tenants
 
 Following tenants require this colony tag:

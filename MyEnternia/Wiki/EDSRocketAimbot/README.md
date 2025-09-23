@@ -5,7 +5,7 @@ Alta:
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Android Defensystem ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidDefensystem)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" width="auto" height="16px"/> [EDS Android Defensystem ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidDefensystem)
 
 ## Parameters
 

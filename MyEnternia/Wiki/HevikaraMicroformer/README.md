@@ -1,6 +1,6 @@
 # Hevikara Microformer ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/hevika/icon.png" alt="Hevikara Microformer ★★★ icon" loading="lazy" height="16px" width="auto" /> **Hevikara Microformer ★★★** is a legendary terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/hevika/icon.png" alt="Hevikara Microformer ★★★ icon" loading="lazy" width="auto" height="16px"/> **Hevikara Microformer ★★★** is a legendary terraformer.
 
 Transforms an area of a planet into a hevika hall. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
 [Hevikara](https://ceterai.github.io/MyEnternia/Wiki/Hevikara) is a [crystal](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) biome full of [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals and, well, electricity they produce. Watch out.

@@ -1,6 +1,6 @@
 # Hevika Ordis Welcome Message
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> **Hevika Ordis Welcome Message** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" width="auto" height="16px"/> **Hevika Ordis Welcome Message** is a rare codex entry.
 
 An encrypted welcome guide to a workplace in a [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) laboratory.  
 It provides information about the workplace, its purpose and some basic instructions.
@@ -22,23 +22,23 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" width="auto" height="16px"/> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" width="auto" height="16px"/> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" height="16px" width="auto" /> Hevika Ordis Welcome Message x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height="16px" width="auto" /> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" height="16px" width="auto" /> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" width="auto" height="16px"/> Hevika Ordis Welcome Message x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" width="auto" height="16px"/> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite) x*1*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" height="16px" width="auto" /> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" width="auto" height="16px"/> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
 
@@ -80,7 +80,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" height="16px" width="auto" /> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

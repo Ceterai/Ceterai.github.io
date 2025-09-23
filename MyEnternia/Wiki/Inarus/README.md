@@ -1,10 +1,10 @@
 # Inarus ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram_2.png" alt="Inarus ★ icon" loading="lazy" height="16px" width="auto" /> **Inarus ★** is a legendary one-handed electric chakram.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram_2.png" alt="Inarus ★ icon" loading="lazy" width="auto" height="16px"/> **Inarus ★** is a legendary one-handed electric chakram.
 
-Fusing this chakram with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) has revealed its true form - one of the lost staris relics, scattered accross io.
+Fusing this chakram with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) has revealed its true form - one of the lost staris relics, scattered accross io.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" height="16px" width="auto" /> [Plasma Chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"/> [Plasma Chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram).
 
 ## Ingame
 

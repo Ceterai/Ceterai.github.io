@@ -1,11 +1,11 @@
 # Crystal Blade ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword_2.png" alt="Crystal Blade ★ icon" loading="lazy" height="16px" width="auto" /> **Crystal Blade ★** is a legendary one-handed shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword_2.png" alt="Crystal Blade ★ icon" loading="lazy" width="auto" height="16px"/> **Crystal Blade ★** is a legendary one-handed shortsword.
 
-A [calin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin) sword made out of refined crystals and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Seems like it's quickly gathering the energy around it...  
+A [calin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin) sword made out of refined crystals and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Seems like it's quickly gathering the energy around it...  
 The now one-sided blade is structured to put all the force on the impacting side, including alternative indent patterns.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png" alt="Calin Sword icon" loading="lazy" height="16px" width="auto" /> [Calin Sword](https://ceterai.github.io/MyEnternia/Wiki/CalinSword).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png" alt="Calin Sword icon" loading="lazy" width="auto" height="16px"/> [Calin Sword](https://ceterai.github.io/MyEnternia/Wiki/CalinSword).
 
 ## Ingame
 

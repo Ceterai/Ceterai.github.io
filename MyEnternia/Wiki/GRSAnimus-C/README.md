@@ -1,6 +1,6 @@
 # GRS "Animus-C" ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS Animus-C ★★★ icon" loading="lazy" height="16px" width="auto" /> **GRS "Animus-C" ★★★** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS Animus-C ★★★ icon" loading="lazy" width="auto" height="16px"/> **GRS "Animus-C" ★★★** is a legendary head armor piece.
 
 An Animus prototype that uses celestial energy to run, instead of relying on enternia.  
 Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
@@ -20,12 +20,18 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" height="16px" width="auto" /> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" width="auto" height="16px"/> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator)
 - `breathProtection` +1.0
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" height="15px" width="15px" /> [Attack power](https://starbounder.org/Attack_power) +118.5%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" height="15px" width="15px" /> [Health](https://starbounder.org/Health) +0.3
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" height="15px" width="15px" /> [Energy](https://starbounder.org/Energy) +4.5
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" height="15px" width="15px" /> [Defense](https://starbounder.org/Defense) +4.5
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +118.5%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +0.3
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +4.5
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +4.5
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 
@@ -41,5 +47,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_alta_security_helmet-celestia`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`celestia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Celestia), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier7armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier7Armour)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`animus`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Animus), [`celestia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Celestia), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier7armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier7Armour)
 - File: [`/items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier4/security/helmet/ct_alta_security_helmet.head)

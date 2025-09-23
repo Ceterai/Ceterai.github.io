@@ -1,16 +1,22 @@
 # Light Official Tights
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_tights/icon.png" alt="Light Official Tights icon" loading="lazy" height="16px" width="auto" /> **Light Official Tights** is a common leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_tights/icon.png" alt="Light Official Tights icon" loading="lazy" width="auto" height="16px"/> **Light Official Tights** is a common leg cosmetic item.
 
 A pair of tidy dark tights with sharp footwear. Light yet very official.
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_tights/icon.png" alt="Light Official Tights icon" loading="lazy" height="16px" width="auto" /> Light Official Tights x*1*):
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_tights/icon.png" alt="Light Official Tights icon" loading="lazy" width="auto" height="16px"/> Light Official Tights x*1*):
   - `cottonwool` x*2*
-  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" height="12px" width="14px" /> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
+  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"/> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
 
 Can be bought from merchants:
 

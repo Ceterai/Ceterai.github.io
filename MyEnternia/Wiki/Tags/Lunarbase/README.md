@@ -4,6 +4,10 @@ The tag `lunarbase` contains 2 total entries.
 
 ## Objects
 
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Lunarbase](https://starbounder.org/Tag:Lunarbase)
+
 ## Tenants
 
 Following tenants require this colony tag:

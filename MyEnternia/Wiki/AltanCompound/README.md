@@ -1,6 +1,6 @@
 # Altan Compound
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altan.png" alt="Altan Compound icon" loading="lazy" height="16px" width="auto" /> **Altan Compound** is an uncommon crafting material.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altan.png" alt="Altan Compound icon" loading="lazy" width="auto" height="16px"/> **Altan Compound** is an uncommon crafting material.
 
 The most common alta metal out there - altan. Fairly light, bendable and sturdy - with thin titanium layering protectiong your body.  
 A cloth layer makes this easy to contact with the skin.

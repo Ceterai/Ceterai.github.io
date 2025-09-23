@@ -1,10 +1,10 @@
 # Biowarper ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun_2.png" alt="Biowarper ★ icon" loading="lazy" height="16px" width="auto" /> **Biowarper ★** is a legendary two-handed poisonous shotgun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun_2.png" alt="Biowarper ★ icon" loading="lazy" width="auto" height="16px"/> **Biowarper ★** is a legendary two-handed poisonous shotgun.
 
-It looks like this [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) cannon has become alive due to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy - the warped roots have expanded and are now pulsating with life and poison.
+It looks like this [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) cannon has become alive due to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy - the warped roots have expanded and are now pulsating with life and poison.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" height="16px" width="auto" /> [Warped Gun](https://ceterai.github.io/MyEnternia/Wiki/WarpedGun).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" width="auto" height="16px"/> [Warped Gun](https://ceterai.github.io/MyEnternia/Wiki/WarpedGun).
 
 ## Ingame
 

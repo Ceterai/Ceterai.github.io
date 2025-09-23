@@ -1,6 +1,6 @@
 # Thermo Thrusters ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Thermo Thrusters ★ icon" loading="lazy" height="16px" width="auto" /> **Thermo Thrusters ★** is an uncommon fiery epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Thermo Thrusters ★ icon" loading="lazy" width="auto" height="16px"/> **Thermo Thrusters ★** is an uncommon fiery enviro protection pack.
 
 These camo-painted backthrusters blend in perfectly with koywa fields! Almost perfectly. Often used by riverside scouts.  
 The design is meant to protect the wearer with heat bursts and bost their movement at the same time.
@@ -19,7 +19,13 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" height="16px" width="auto" /> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"/> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

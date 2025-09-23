@@ -1,8 +1,14 @@
 # Tserera Researcher Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Tserera Researcher Skirt icon" loading="lazy" height="16px" width="auto" /> **Tserera Researcher Skirt** is a rare leg item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Tserera Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> **Tserera Researcher Skirt** is a rare leg cosmetic item.
 
 An official Tserera researcher's legwear. Practical and well thought-out.
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

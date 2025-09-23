@@ -1,6 +1,6 @@
 # Alta Circuit
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" height="16px" width="auto" /> **Alta Circuit** is a common wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"/> **Alta Circuit** is a common wiring component.
 
 A basic alta crystal-based tech component used in most electronics. Can be placed as a standalone element.
 
@@ -25,30 +25,30 @@ A basic alta crystal-based tech component used in most electronics. Can be place
 
 <details markdown="1"><summary>Can be used to craft: (Expand 24 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" height="16px" width="auto" /> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" height="16px" width="auto" /> [Alta Button](https://ceterai.github.io/MyEnternia/Wiki/AltaButton)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" height="16px" width="auto" /> [Alta Conserver](https://ceterai.github.io/MyEnternia/Wiki/AltaConserver)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fermenter/icon.png" alt="Alta Fermenter icon" loading="lazy" height="16px" width="auto" /> [Alta Fermenter](https://ceterai.github.io/MyEnternia/Wiki/AltaFermenter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" height="16px" width="auto" /> [Alta Icer](https://ceterai.github.io/MyEnternia/Wiki/AltaIcer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kitchener/icon.png" alt="Alta Kitchener icon" loading="lazy" height="16px" width="auto" /> [Alta Kitchener](https://ceterai.github.io/MyEnternia/Wiki/AltaKitchener)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light/icon.png" alt="Alta Light icon" loading="lazy" height="16px" width="auto" /> [Alta Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLight)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" height="16px" width="auto" /> [Alta Light Bar](https://ceterai.github.io/MyEnternia/Wiki/AltaLightBar)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" height="16px" width="auto" /> [Alta Light Switch](https://ceterai.github.io/MyEnternia/Wiki/AltaLightSwitch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" height="16px" width="auto" /> [Alta Milker](https://ceterai.github.io/MyEnternia/Wiki/AltaMilker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/mixer/icon.png" alt="Alta Mixer icon" loading="lazy" height="16px" width="auto" /> [Alta Mixer](https://ceterai.github.io/MyEnternia/Wiki/AltaMixer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/oven/icon.png" alt="Alta Oven icon" loading="lazy" height="16px" width="auto" /> [Alta Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaOven)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/roaster/icon.png" alt="Alta Roaster icon" loading="lazy" height="16px" width="auto" /> [Alta Roaster](https://ceterai.github.io/MyEnternia/Wiki/AltaRoaster)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" height="16px" width="auto" /> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" height="16px" width="auto" /> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/step/icon.png" alt="Alta Step icon" loading="lazy" height="16px" width="auto" /> [Alta Step](https://ceterai.github.io/MyEnternia/Wiki/AltaStep)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/stove/icon.png" alt="Alta Stove icon" loading="lazy" height="16px" width="auto" /> [Alta Stove](https://ceterai.github.io/MyEnternia/Wiki/AltaStove)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/switch/icon.png" alt="Alta Switch icon" loading="lazy" height="16px" width="auto" /> [Alta Switch](https://ceterai.github.io/MyEnternia/Wiki/AltaSwitch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" height="16px" width="auto" /> [Alta Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaTerminal)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/touchpad/icon.png" alt="Alta Touchpad icon" loading="lazy" height="16px" width="auto" /> [Alta Touchpad](https://ceterai.github.io/MyEnternia/Wiki/AltaTouchpad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" height="16px" width="auto" /> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/vent/icon.png" alt="Alta Vent icon" loading="lazy" height="16px" width="auto" /> [Alta Vent](https://ceterai.github.io/MyEnternia/Wiki/AltaVent)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/washer/icon.png" alt="Alta Washer icon" loading="lazy" height="16px" width="auto" /> [Alta Washer](https://ceterai.github.io/MyEnternia/Wiki/AltaWasher)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/blender/icon.png" alt="Alta Blender icon" loading="lazy" width="auto" height="16px"/> [Alta Blender](https://ceterai.github.io/MyEnternia/Wiki/AltaBlender)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"/> [Alta Button](https://ceterai.github.io/MyEnternia/Wiki/AltaButton)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" width="auto" height="16px"/> [Alta Conserver](https://ceterai.github.io/MyEnternia/Wiki/AltaConserver)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fermenter/icon.png" alt="Alta Fermenter icon" loading="lazy" width="auto" height="16px"/> [Alta Fermenter](https://ceterai.github.io/MyEnternia/Wiki/AltaFermenter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" width="auto" height="16px"/> [Alta Icer](https://ceterai.github.io/MyEnternia/Wiki/AltaIcer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kitchener/icon.png" alt="Alta Kitchener icon" loading="lazy" width="auto" height="16px"/> [Alta Kitchener](https://ceterai.github.io/MyEnternia/Wiki/AltaKitchener)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light/icon.png" alt="Alta Light icon" loading="lazy" width="auto" height="16px"/> [Alta Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" width="auto" height="16px"/> [Alta Light Bar](https://ceterai.github.io/MyEnternia/Wiki/AltaLightBar)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" width="auto" height="16px"/> [Alta Light Switch](https://ceterai.github.io/MyEnternia/Wiki/AltaLightSwitch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" width="auto" height="16px"/> [Alta Milker](https://ceterai.github.io/MyEnternia/Wiki/AltaMilker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/mixer/icon.png" alt="Alta Mixer icon" loading="lazy" width="auto" height="16px"/> [Alta Mixer](https://ceterai.github.io/MyEnternia/Wiki/AltaMixer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/oven/icon.png" alt="Alta Oven icon" loading="lazy" width="auto" height="16px"/> [Alta Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaOven)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/roaster/icon.png" alt="Alta Roaster icon" loading="lazy" width="auto" height="16px"/> [Alta Roaster](https://ceterai.github.io/MyEnternia/Wiki/AltaRoaster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" width="auto" height="16px"/> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" width="auto" height="16px"/> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/step/icon.png" alt="Alta Step icon" loading="lazy" width="auto" height="16px"/> [Alta Step](https://ceterai.github.io/MyEnternia/Wiki/AltaStep)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/stove/icon.png" alt="Alta Stove icon" loading="lazy" width="auto" height="16px"/> [Alta Stove](https://ceterai.github.io/MyEnternia/Wiki/AltaStove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/switch/icon.png" alt="Alta Switch icon" loading="lazy" width="auto" height="16px"/> [Alta Switch](https://ceterai.github.io/MyEnternia/Wiki/AltaSwitch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaTerminal)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/touchpad/icon.png" alt="Alta Touchpad icon" loading="lazy" width="auto" height="16px"/> [Alta Touchpad](https://ceterai.github.io/MyEnternia/Wiki/AltaTouchpad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" width="auto" height="16px"/> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/vent/icon.png" alt="Alta Vent icon" loading="lazy" width="auto" height="16px"/> [Alta Vent](https://ceterai.github.io/MyEnternia/Wiki/AltaVent)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/washer/icon.png" alt="Alta Washer icon" loading="lazy" width="auto" height="16px"/> [Alta Washer](https://ceterai.github.io/MyEnternia/Wiki/AltaWasher)
 
 </details>
 
@@ -56,10 +56,10 @@ A basic alta crystal-based tech component used in most electronics. Can be place
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" height="16px" width="auto" /> Alta Circuit x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" height="16px" width="auto" /> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" height="16px" width="auto" /> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"/> Alta Circuit x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"/> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
 
 Can be bought from merchants:
 

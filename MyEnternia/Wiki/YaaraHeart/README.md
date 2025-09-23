@@ -1,6 +1,6 @@
 # Yaara Heart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_heart/icon.png" alt="Yaara Heart icon" loading="lazy" height="16px" width="auto" /> **Yaara Heart** is a rare electric trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_heart/icon.png" alt="Yaara Heart icon" loading="lazy" width="auto" height="16px"/> **Yaara Heart** is a rare electric trap.
 
 A gigantic flower surrounded by ionized thorns. Looks like it's somehow important.  
 These mysterious yet beautiful flower crowns hold a lot of concentrated ceternia energy. Although due to surrounding spikes gathering it might be a tricky process...
@@ -9,7 +9,7 @@ These mysterious yet beautiful flower crowns hold a lot of concentrated ceternia
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: This is one of the hearts of the surrounding yaara. I can gather <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [yaara roots](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" height="16px" width="auto" /> [ceternia cores](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) from it.
+- Alta: This is one of the hearts of the surrounding yaara. I can gather <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"/> [yaara roots](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"/> [ceternia cores](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) from it.
 - Apex: A big flower with sharp vines around it. Better not to touch them.
 - Avian: This flower is so magnificent!! Better be careful though, those spikes are sharp.
 - Floran: Thisss big flower isss the heart of this place. Connected to everything. Floran show ressspect.
@@ -32,30 +32,30 @@ This object **doesn't drop itself** when broken.
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yaara/icon.png" alt="Yaara Sample icon" loading="lazy" height="16px" width="auto" /> [Yaara Sample](https://ceterai.github.io/MyEnternia/Wiki/YaaraSample)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yaara/icon.png" alt="Yaara Sample icon" loading="lazy" width="auto" height="16px"/> [Yaara Sample](https://ceterai.github.io/MyEnternia/Wiki/YaaraSample)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" height="16px" width="auto" /> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) x*4* (weight: 1.0)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*3* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"/> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) x*4* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"/> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*3* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
 
 Drops following **drop option 2** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" height="16px" width="auto" /> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) x*4* (weight: 1.0)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*2* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"/> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) x*4* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"/> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*2* (weight: 1.0)
 
 Drops following **drop option 3** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" height="16px" width="auto" /> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) x*4* (weight: 1.0)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*3* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"/> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) x*4* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"/> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*3* (weight: 1.0)
 
 ## Sources
 

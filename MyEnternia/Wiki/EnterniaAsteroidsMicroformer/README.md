@@ -1,9 +1,9 @@
 # Enternia Asteroids Microformer ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/astera/icon.png" alt="Enternia Asteroids Microformer ★★★ icon" loading="lazy" height="16px" width="auto" /> **Enternia Asteroids Microformer ★★★** is a legendary terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/astera/icon.png" alt="Enternia Asteroids Microformer ★★★ icon" loading="lazy" width="auto" height="16px"/> **Enternia Asteroids Microformer ★★★** is a legendary terraformer.
 
 Transforms an area of a planet into astera. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Enternia Asteroids](https://ceterai.github.io/MyEnternia/Wiki/EnterniaAsteroids) are massive rocks made mostly of [moonrock](https://ceterai.github.io/MyEnternia/Wiki/moonrock) and [obsidian](https://ceterai.github.io/MyEnternia/Wiki/obsidian), that are floating peacefully amidst the spacelands of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera). Here you can find tier 5 ores like [aegisalt ore](https://ceterai.github.io/MyEnternia/Wiki/aegisaltore), [ferozium ore](https://ceterai.github.io/MyEnternia/Wiki/feroziumore) and [violium ore](https://ceterai.github.io/MyEnternia/Wiki/violiumore).
+[Enternia Asteroids](https://ceterai.github.io/MyEnternia/Wiki/EnterniaAsteroids) are massive rocks made mostly of [moonrock](https://ceterai.github.io/MyEnternia/Wiki/moonrock) and [obsidian](https://ceterai.github.io/MyEnternia/Wiki/Tags/Obsidian), that are floating peacefully amidst the spacelands of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera). Here you can find tier 5 ores like [aegisalt ore](https://ceterai.github.io/MyEnternia/Wiki/aegisaltore), [ferozium ore](https://ceterai.github.io/MyEnternia/Wiki/feroziumore) and [violium ore](https://ceterai.github.io/MyEnternia/Wiki/violiumore).
 
 However, something is odd about these "rocks"... Do you feel tired?
 

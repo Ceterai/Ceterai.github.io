@@ -1,6 +1,6 @@
 # Anglure's Lamp ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_anglure_lamp.png" alt="Anglure's Lamp ★ icon" loading="lazy" height="16px" width="auto" /> **Anglure's Lamp ★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_anglure_lamp.png" alt="Anglure's Lamp ★ icon" loading="lazy" width="auto" height="16px"/> **Anglure's Lamp ★** is a rare decorative object.
 
 A direct replica on an anglure's lure, now serving you as a lamp! The plaque reads, "Not all light is a good omen."
 

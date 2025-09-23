@@ -5,8 +5,8 @@ Alta:
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png" alt="C.T. Mindframe ★ icon" loading="lazy" height="16px" width="auto" /> [C.T. Mindframe ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.Mindframe)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/elin/helmet/icon.png" alt="Elin Guard Helmet ★ icon" loading="lazy" height="16px" width="auto" /> [Elin Guard Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png" alt="C.T. Mindframe ★ icon" loading="lazy" width="auto" height="16px"/> [C.T. Mindframe ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.Mindframe)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/elin/helmet/icon.png" alt="Elin Guard Helmet ★ icon" loading="lazy" width="auto" height="16px"/> [Elin Guard Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardHelmet)
 
 ## Parameters
 

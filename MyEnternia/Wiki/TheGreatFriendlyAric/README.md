@@ -1,6 +1,6 @@
 # The Great Friendly Aric
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_aric_art.png" alt="The Great Friendly Aric icon" loading="lazy" height="16px" width="auto" /> **The Great Friendly Aric** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_aric_art.png" alt="The Great Friendly Aric icon" loading="lazy" width="auto" height="16px"/> **The Great Friendly Aric** is a common decorative object.
 
 A friendly picture of a happy mushroom tree greeting the daylight sky.
 

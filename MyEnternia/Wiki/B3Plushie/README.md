@@ -1,6 +1,6 @@
 # B3 Plushie
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/starlight/ct_b803_plush.png" alt="B3 Plushie icon" loading="lazy" height="16px" width="auto" /> **B3 Plushie** is an essential toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/starlight/ct_b803_plush.png" alt="B3 Plushie icon" loading="lazy" width="auto" height="16px"/> **B3 Plushie** is an essential toy.
 
 A small plushie of a childhood friend... It looks relaxed.
 

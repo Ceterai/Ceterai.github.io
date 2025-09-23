@@ -1,6 +1,6 @@
 # Ionic Rain
 
-The ionized droples fall onto you, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" height="16px" width="auto" /> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock). Be careful!  
+The ionized droples fall onto you, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock). Be careful!  
 Alta: I like it when it's raining. Especially if I don't have to go outside and can just watch it through the window.
 
 ## Parameters
@@ -11,8 +11,8 @@ Will last from `40` to `100` seconds.
 
 Will apply following effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" height="16px" width="auto" /> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock)
-- <img src="https://starbounder.org/mediawiki/images/4/48/Status_Wet.png" alt="Wet icon" loading="lazy" height="16px" width="16px" /> [Wet](https://starbounder.org/Wet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock)
+- <img src="https://starbounder.org/mediawiki/images/4/48/Status_Wet.png" alt="Wet icon" loading="lazy" width="16px" height="16px"/> [Wet](https://starbounder.org/Wet)
 
 ## Technical Information
 

@@ -1,6 +1,6 @@
 # Alta Comm Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Comm Set icon" loading="lazy" height="16px" width="auto" /> **Alta Comm Set** is a common head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Comm Set icon" loading="lazy" width="auto" height="16px"/> **Alta Comm Set** is a common head armor piece.
 
 This ordinary communication set doesn't take a lot of space on your head, yet still provides simple protection. Like a headset, but useful.  
 These are usually worn by supervisors and agents on space stations.
@@ -10,6 +10,12 @@ These are usually worn by supervisors and agents on space stations.
 Species descriptions:
 
 - Alta: That little eye screen displays so much useful info!
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Stardust Hood
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Stardust Hood icon" loading="lazy" height="16px" width="auto" /> **Stardust Hood** is a legendary head item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Stardust Hood icon" loading="lazy" width="auto" height="16px"/> **Stardust Hood** is a legendary head cosmetic item.
 
 This magical hood is glittering with stardust colors!  
 Very soft it the touch, it was sewed by Celestia herself to make an alta happy.
@@ -10,6 +10,12 @@ Very soft it the touch, it was sewed by Celestia herself to make an alta happy.
 Species descriptions:
 
 - Alta: Oaaa~~ ❤
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

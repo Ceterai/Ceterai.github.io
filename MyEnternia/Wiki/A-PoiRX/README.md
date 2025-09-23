@@ -1,10 +1,10 @@
 # A-Poi RX ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" height="16px" width="auto" /> **A-Poi RX ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" width="auto" height="16px"/> **A-Poi RX ★** is a legendary two-handed tool.
 
 Spreades a harmless solution that turns residue slime into foam on contact.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon.png" alt="Alta Slime Cleaner icon" loading="lazy" height="16px" width="auto" /> [Alta Slime Cleaner](https://ceterai.github.io/MyEnternia/Wiki/AltaSlimeCleaner).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon.png" alt="Alta Slime Cleaner icon" loading="lazy" width="auto" height="16px"/> [Alta Slime Cleaner](https://ceterai.github.io/MyEnternia/Wiki/AltaSlimeCleaner).
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Alta Ship S.A.I.L
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Alta Ship S.A.I.L icon" loading="lazy" height="16px" width="auto" /> **Alta Ship S.A.I.L** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Alta Ship S.A.I.L icon" loading="lazy" width="auto" height="16px"/> **Alta Ship S.A.I.L** is a legendary decorative object.
 
 Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.
 

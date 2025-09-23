@@ -1,6 +1,6 @@
 # Alternia Crystal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" height="16px" width="auto" /> **Alternia Crystal** is a rare electric breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"/> **Alternia Crystal** is a rare electric breakable object.
 
 Found in [esetera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Esetera) depths and in [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), this blueish crystal deposit is highly ionized. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)-scan for more.  
 At its core, this crystal is filled with plasma, while usually safe to outside touch, the ionization brings the energy outside, making any contact potentially dangerous.
@@ -31,22 +31,22 @@ This object **doesn't drop itself** when broken.
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" height="16px" width="auto" /> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1* (weight: 1.0)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" height="16px" width="auto" /> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"/> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"/> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
 
 Drops following **drop option 2** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" height="16px" width="auto" /> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"/> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
 
 Drops following **drop option 3** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" height="16px" width="auto" /> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"/> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
 
 ## Sources
 

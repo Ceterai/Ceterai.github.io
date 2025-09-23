@@ -1,6 +1,6 @@
 # Potted Faro Koywa Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height="16px" width="auto" /> **Potted Faro Koywa Flower** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" width="auto" height="16px"/> **Potted Faro Koywa Flower** is a common decorative object.
 
 A seemingly unsuspecting flower in a tall pot.
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" height="16px" width="auto" /> Potted Faro Koywa Flower x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" height="16px" width="auto" /> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" height="10px" width="10px" /> [Moondust](https://starbounder.org/Moondust) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/tall/icon.png" alt="Alta Tall Flower Pot icon" loading="lazy" height="16px" width="auto" /> [Alta Tall Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaTallFlowerPot) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" width="auto" height="16px"/> Potted Faro Koywa Flower x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" width="10px" height="10px"/> [Moondust](https://starbounder.org/Moondust) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/tall/icon.png" alt="Alta Tall Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Alta Tall Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaTallFlowerPot) x*1*
 
 Can be bought from merchants:
 
@@ -35,5 +35,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_faro_flower_af`
 - Power: `1.5`
 - Rarity: `Common`
-- Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`flower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Flower), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)
+- Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`flower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Flower), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`potted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Potted)
 - File: [`/objects/alta/special/plants/pots/flowers/faro/af.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plants/pots/flowers/faro/af.object)

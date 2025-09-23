@@ -5,9 +5,9 @@ Alta:
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Alta Lab Guard Pads icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Guard Pads](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuardPads)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Enviroleggings icon" loading="lazy" height="16px" width="auto" /> [Enviroleggings](https://ceterai.github.io/MyEnternia/Wiki/Enviroleggings)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="Thermoarmor ★ icon" loading="lazy" height="16px" width="auto" /> [Thermoarmor ★](https://ceterai.github.io/MyEnternia/Wiki/Thermoarmor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Alta Lab Guard Pads icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Guard Pads](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuardPads)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Enviroleggings icon" loading="lazy" width="auto" height="16px"/> [Enviroleggings](https://ceterai.github.io/MyEnternia/Wiki/Enviroleggings)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="Thermoarmor ★ icon" loading="lazy" width="auto" height="16px"/> [Thermoarmor ★](https://ceterai.github.io/MyEnternia/Wiki/Thermoarmor)
 
 ## Parameters
 

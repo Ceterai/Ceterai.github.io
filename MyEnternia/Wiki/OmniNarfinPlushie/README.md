@@ -1,6 +1,6 @@
 # Omni Narfin Plushie
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_omni_narfin_plush.png" alt="Omni Narfin Plushie icon" loading="lazy" height="16px" width="auto" /> **Omni Narfin Plushie** is a legendary toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_omni_narfin_plush.png" alt="Omni Narfin Plushie icon" loading="lazy" width="auto" height="16px"/> **Omni Narfin Plushie** is a legendary toy.
 
 A hand-made plushie of a very rare narfin species. Made specificaly to make your day.
 

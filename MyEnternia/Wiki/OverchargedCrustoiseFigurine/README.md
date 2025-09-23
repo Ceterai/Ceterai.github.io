@@ -1,6 +1,6 @@
 # Overcharged Crustoise Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crustoise/ct_overcharged_crustoise.png" alt="Overcharged Crustoise Figurine ★ icon" loading="lazy" height="16px" width="auto" /> **Overcharged Crustoise Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crustoise/ct_overcharged_crustoise.png" alt="Overcharged Crustoise Figurine ★ icon" loading="lazy" width="auto" height="16px"/> **Overcharged Crustoise Figurine ★** is a legendary figurine.
 
 The label reads, "The crystals on the shell of this crustoise instantly become polarized to their limits as soon as the creature senses a threat."
 

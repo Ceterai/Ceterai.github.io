@@ -1,8 +1,8 @@
 # Enternia Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_enternia_augment.png" alt="Enternia Augment ★★ icon" loading="lazy" height="16px" width="auto" /> **Enternia Augment ★★** is a legendary epp augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_enternia_augment.png" alt="Enternia Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Enternia Augment ★★** is a legendary EPP augment.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" height="16px" width="auto" /> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP), condenced into an augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" width="auto" height="16px"/> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP), condenced into an augment.
 Adds 18% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity).  
 _Starburst Rework: _[Deadly Static](https://ceterai.github.io/MyEnternia/Wiki/DeadlyStatic)_ immunity._
 
@@ -16,7 +16,7 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="Ionoblockade icon" loading="lazy" height="16px" width="auto" /> [Ionoblockade](https://ceterai.github.io/MyEnternia/Wiki/Ionoblockade)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="Ionoblockade icon" loading="lazy" width="auto" height="16px"/> [Ionoblockade](https://ceterai.github.io/MyEnternia/Wiki/Ionoblockade)
 
 ## Usage
 
@@ -38,11 +38,11 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.85s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_enternia_augment.png" alt="Enternia Augment ★★ icon" loading="lazy" height="16px" width="auto" /> Enternia Augment ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere) x*3*
-  - <img src="https://starbounder.org/mediawiki/images/7/7d/Refined_Violium.png" alt="Refined Violium icon" loading="lazy" height="11px" width="11px" /> [Refined Violium](https://starbounder.org/Refined_Violium) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" height="16px" width="16px" /> [Diamond](https://starbounder.org/Diamond) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="Prototype: The Dreamer icon" loading="lazy" height="16px" width="auto" /> [Prototype: The Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Prototype-TheDreamer) x*1*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.85s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_enternia_augment.png" alt="Enternia Augment ★★ icon" loading="lazy" width="auto" height="16px"/> Enternia Augment ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere) x*3*
+  - <img src="https://starbounder.org/mediawiki/images/7/7d/Refined_Violium.png" alt="Refined Violium icon" loading="lazy" width="11px" height="11px"/> [Refined Violium](https://starbounder.org/Refined_Violium) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [Diamond](https://starbounder.org/Diamond) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="Prototype: The Dreamer icon" loading="lazy" width="auto" height="16px"/> [Prototype: The Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Prototype-TheDreamer) x*1*
 
 Can be bought from merchants:
 

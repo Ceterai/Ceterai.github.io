@@ -6,8 +6,8 @@ Alta: A standard protocol energy shield. Used quite often for basic alta protect
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_combat_shielder.png" alt="Combat Shielder ★ icon" loading="lazy" height="16px" width="auto" /> [Combat Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/CombatShielder)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_energy_shielder.png" alt="Energy Shielder ★ icon" loading="lazy" height="16px" width="auto" /> [Energy Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyShielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_combat_shielder.png" alt="Combat Shielder ★ icon" loading="lazy" width="auto" height="16px"/> [Combat Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/CombatShielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_energy_shielder.png" alt="Energy Shielder ★ icon" loading="lazy" width="auto" height="16px"/> [Energy Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyShielder)
 
 ## Parameters
 

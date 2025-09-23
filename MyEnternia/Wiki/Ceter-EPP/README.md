@@ -1,6 +1,6 @@
 # Ceter-EPP
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" height="16px" width="auto" /> **Ceter-EPP** is a legendary epp item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" width="auto" height="16px"/> **Ceter-EPP** is a legendary enviro protection pack.
 
 An EPP with an augment slot. Adds 25% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity).
 
@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_impulse_block.png" alt="Pulsoblockade icon" loading="lazy" height="16px" width="auto" /> [Pulsoblockade](https://ceterai.github.io/MyEnternia/Wiki/Pulsoblockade)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_impulse_block.png" alt="Pulsoblockade icon" loading="lazy" width="auto" height="16px"/> [Pulsoblockade](https://ceterai.github.io/MyEnternia/Wiki/Pulsoblockade)
 
 ## Usage
 
@@ -22,15 +22,19 @@ Applies effects:
 
 Can be compressed into an augment with <img src="https://steamuserimages-a.akamaihd.net/ugc/2524912417443652944/82F62A8B2AF67509CF6C97B866FD92F01C736540/" alt="EPP Effect Extractor icon" width="16" height="16"/> [EPP Effect Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3285832520) installed.
 
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
+
 ## Sources
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" height="16px" width="auto" /> Ceter-EPP x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" height="16px" width="auto" /> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" height="16px" width="auto" /> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*8*
-  - <img src="https://starbounder.org/mediawiki/images/a/a0/Refined_Aegisalt.png" alt="Refined Aegisalt icon" loading="lazy" height="13px" width="13px" /> [Refined Aegisalt](https://starbounder.org/Refined_Aegisalt) x*6*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" height="16px" width="auto" /> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder) x*1*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" width="auto" height="16px"/> Ceter-EPP x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*8*
+  - <img src="https://starbounder.org/mediawiki/images/a/a0/Refined_Aegisalt.png" alt="Refined Aegisalt icon" loading="lazy" width="13px" height="13px"/> [Refined Aegisalt](https://starbounder.org/Refined_Aegisalt) x*6*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" width="auto" height="16px"/> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder) x*1*
 
 Can be bought from merchants:
 

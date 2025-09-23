@@ -1,6 +1,6 @@
 # Hevika Researcher Coat
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Hevika Researcher Coat icon" loading="lazy" height="16px" width="auto" /> **Hevika Researcher Coat** is a rare chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Hevika Researcher Coat icon" loading="lazy" width="auto" height="16px"/> **Hevika Researcher Coat** is a rare chest cosmetic item.
 
 An official Hevika Ordis researcher's coat. Practical and well thought-out.  
 Just like other pieces of alta laboratory attire, this one provides full body coverage with optional gloves to complete the set.
@@ -10,6 +10,12 @@ Just like other pieces of alta laboratory attire, this one provides full body co
 Species descriptions:
 
 - Alta: A nice middleground between official-ness and practicality.
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 

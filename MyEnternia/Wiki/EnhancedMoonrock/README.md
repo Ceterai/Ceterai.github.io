@@ -1,6 +1,6 @@
 # Enhanced Moonrock
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enhancedmoonrock/icon.png" alt="Enhanced Moonrock icon" loading="lazy" height="16px" width="auto" /> **Enhanced Moonrock** is a rare breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enhancedmoonrock/icon.png" alt="Enhanced Moonrock icon" loading="lazy" width="auto" height="16px"/> **Enhanced Moonrock** is a rare breakable object.
 
 This moonrock formation seems suspicious.
 
@@ -30,8 +30,8 @@ This object **doesn't drop itself** when broken.
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_enterite.png" alt="Enterite icon" loading="lazy" height="16px" width="auto" /> [Enterite](https://ceterai.github.io/MyEnternia/Wiki/Enterite) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" height="10px" width="10px" /> [Moonrock](https://starbounder.org/Moonrock) x*2* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_enterite.png" alt="Enterite icon" loading="lazy" width="auto" height="16px"/> [Enterite](https://ceterai.github.io/MyEnternia/Wiki/Enterite) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"/> [Moonrock](https://starbounder.org/Moonrock) x*2* (weight: 1.0)
 
 ## Sources
 

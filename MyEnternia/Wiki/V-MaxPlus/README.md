@@ -1,6 +1,6 @@
 # V-Max Plus
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_vmax.png" alt="V-Max Plus icon" loading="lazy" height="16px" width="auto" /> **V-Max Plus** is a rare drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_vmax.png" alt="V-Max Plus icon" loading="lazy" width="auto" height="16px"/> **V-Max Plus** is a rare drink.
 
 This edition of V-Max contains extra amount of vitamins!  
 Full focus on health, this drink was meant with sprot-related activities in mind. But, since alta organisms behave differently when it comes to sports, the reaction to non-bionicas might be a bit surprizing.
@@ -9,7 +9,7 @@ Full focus on health, this drink was meant with sprot-related activities in mind
 
 Species descriptions:
 
-- Alta: This goes well with heavier meals, like pies or pizza, or even sweet desserts like cakes, or the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Tonna Split icon" loading="lazy" height="16px" width="auto" /> [tonna split](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplit).
+- Alta: This goes well with heavier meals, like pies or pizza, or even sweet desserts like cakes, or the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Tonna Split icon" loading="lazy" width="auto" height="16px"/> [tonna split](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplit).
 
 ## Sources
 

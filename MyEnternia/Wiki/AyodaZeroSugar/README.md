@@ -1,6 +1,6 @@
 # Ayoda Zero Sugar
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_aya_soda_zero.png" alt="Ayoda Zero Sugar icon" loading="lazy" height="16px" width="auto" /> **Ayoda Zero Sugar** is a common drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_aya_soda_zero.png" alt="Ayoda Zero Sugar icon" loading="lazy" width="auto" height="16px"/> **Ayoda Zero Sugar** is a common drink.
 
 A special Ayoda edition that contains zero sugar. Perfect for your workout!  
 You might think that the point is kinda lost with a zero sugar aya, but that's not true, since ayas themselves do not contain actual sugar to begin with.
@@ -9,7 +9,7 @@ You might think that the point is kinda lost with a zero sugar aya, but that's n
 
 Species descriptions:
 
-- Alta: Wouldn't call it better than an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" height="16px" width="auto" /> [aya essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence) or a proper <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" height="16px" width="auto" /> [aya punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch), but it's definitely up there.
+- Alta: Wouldn't call it better than an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"/> [aya essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence) or a proper <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" width="auto" height="16px"/> [aya punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch), but it's definitely up there.
 
 ## Sources
 

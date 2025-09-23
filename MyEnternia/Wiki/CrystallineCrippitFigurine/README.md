@@ -1,6 +1,6 @@
 # Crystalline Crippit Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crystalline_crippit.png" alt="Crystalline Crippit Figurine icon" loading="lazy" height="16px" width="auto" /> **Crystalline Crippit Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crystalline_crippit.png" alt="Crystalline Crippit Figurine icon" loading="lazy" width="auto" height="16px"/> **Crystalline Crippit Figurine** is a legendary figurine.
 
 The label reads, "The crystal shell of this crippit has started to turn into its prime form - so beautiful, and so protective!"
 
@@ -31,5 +31,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_crystalline_crippit_af`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crippit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crippit), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
 - File: [`/objects/alta/special/figurines/crippit/ct_crystalline_crippit.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/figurines/crippit/ct_crystalline_crippit.object)

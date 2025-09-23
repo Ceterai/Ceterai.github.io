@@ -10,4 +10,4 @@ The tag `vortex` contains 1 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" height="16px" width="auto" /> [Vortex Nade ★](https://ceterai.github.io/MyEnternia/Wiki/VortexNade)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" width="auto" height="16px"/> [Vortex Nade ★](https://ceterai.github.io/MyEnternia/Wiki/VortexNade)

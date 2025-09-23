@@ -1,11 +1,11 @@
 # Scout Protector ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Scout Protector ★ icon" loading="lazy" height="16px" width="auto" /> **Scout Protector ★** is a legendary one-handed electric unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Scout Protector ★ icon" loading="lazy" width="auto" height="16px"/> **Scout Protector ★** is a legendary one-handed electric unique weapon.
 
-This special tool with advanced mechanisms uses <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy for its charges. Anything to protect an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).  
+This special tool with advanced mechanisms uses <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy for its charges. Anything to protect an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).  
 The casing of this improved version is made from [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix). This ensures sturdines of the tool while making it lighter and more resistant to temperature changes.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="Scout Emergencer icon" loading="lazy" height="16px" width="auto" /> [Scout Emergencer](https://ceterai.github.io/MyEnternia/Wiki/ScoutEmergencer).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="Scout Emergencer icon" loading="lazy" width="auto" height="16px"/> [Scout Emergencer](https://ceterai.github.io/MyEnternia/Wiki/ScoutEmergencer).
 
 ## Ingame
 

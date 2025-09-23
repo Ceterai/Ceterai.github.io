@@ -1,6 +1,6 @@
 # Engineer Drone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" height="16px" width="auto" /> **Engineer Drone ★★★** is a rare fiery throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Engineer Drone ★★★** is a rare fiery throwable item.
 
 A massive technical drone able to repair anything, even itself. Slightly more resistant to [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice).  
 And while repair and construction are this drone's main functions, it can put up quite the fight.

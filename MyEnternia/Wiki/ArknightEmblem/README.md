@@ -1,6 +1,6 @@
 # Arknight Emblem
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arknight/body.png" alt="Arknight Emblem icon" loading="lazy" height="16px" width="auto" /> **Arknight Emblem** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arknight/body.png" alt="Arknight Emblem icon" loading="lazy" width="auto" height="16px"/> **Arknight Emblem** is a common decorative object.
 
 The titanium triangle is the symbol of arknight protection - vigilant altas up in the sky are watching over, keeping the order.
 

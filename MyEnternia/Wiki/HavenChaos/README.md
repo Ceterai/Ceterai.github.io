@@ -1,10 +1,10 @@
 # Haven Chaos ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm_2.png" alt="Haven Chaos ★ icon" loading="lazy" height="16px" width="auto" /> **Haven Chaos ★** is a legendary two-handed poisonous rocket launcher.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm_2.png" alt="Haven Chaos ★ icon" loading="lazy" width="auto" height="16px"/> **Haven Chaos ★** is a legendary two-handed poisonous rocket launcher.
 
-A powerful generator of haven toxins, now enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.
+A powerful generator of haven toxins, now enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" height="16px" width="auto" /> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" width="auto" height="16px"/> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm).
 
 ## Ingame
 

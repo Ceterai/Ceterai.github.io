@@ -2,7 +2,7 @@
 
  **Bion-Aid** is an uncommon medical item.
 
-A professional aid set with additional healing compatability for alta bodies.  
+A professional aid set with additional healing compatibility for alta bodies.  
 The base material is comprized from a specific bionic mix, made to be accepted by an alta organism.
 
 ## Ingame

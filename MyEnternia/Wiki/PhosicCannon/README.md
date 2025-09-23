@@ -1,10 +1,10 @@
 # Phosic Cannon ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator_2.png" alt="Phosic Cannon ★ icon" loading="lazy" height="16px" width="auto" /> **Phosic Cannon ★** is a legendary two-handed fiery grenade launcher.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator_2.png" alt="Phosic Cannon ★ icon" loading="lazy" width="auto" height="16px"/> **Phosic Cannon ★** is a legendary two-handed fiery grenade launcher.
 
-The <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" height="16px" width="auto" /> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) in this cannon have been enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Its [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) now bursts with energy!
+The <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) in this cannon have been enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Its [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) now bursts with energy!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png" alt="Phospholiator icon" loading="lazy" height="16px" width="auto" /> [Phospholiator](https://ceterai.github.io/MyEnternia/Wiki/Phospholiator).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png" alt="Phospholiator icon" loading="lazy" width="auto" height="16px"/> [Phospholiator](https://ceterai.github.io/MyEnternia/Wiki/Phospholiator).
 
 ## Ingame
 

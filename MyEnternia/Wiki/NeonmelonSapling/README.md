@@ -1,6 +1,6 @@
 # Neonmelon Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/sapling/icon.png" alt="Neonmelon Sapling icon" loading="lazy" height="16px" width="auto" /> **Neonmelon Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/sapling/icon.png" alt="Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"/> **Neonmelon Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -25,8 +25,8 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" height="16px" width="auto" /> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/cultivated/icon.png" alt="Cultivated Neonmelon Sapling icon" loading="lazy" height="16px" width="auto" /> [Cultivated Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedNeonmelonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/cultivated/icon.png" alt="Cultivated Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedNeonmelonSapling)
 
 ## Sources
 

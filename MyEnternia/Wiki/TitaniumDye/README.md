@@ -1,6 +1,6 @@
 # Titanium Dye
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/dyes/alta/ct_titanium_dye.png" alt="Titanium Dye icon" loading="lazy" height="16px" width="auto" /> **Titanium Dye** is a common clothing dye.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/dyes/alta/ct_titanium_dye.png" alt="Titanium Dye icon" loading="lazy" width="auto" height="16px"/> **Titanium Dye** is a common clothing dye.
 
 This coloured dye can be applied to a piece of armour or clothing with a right-click.  
 This dye imitates the shades of a piece of regular titanium, often used by the Miniknog.

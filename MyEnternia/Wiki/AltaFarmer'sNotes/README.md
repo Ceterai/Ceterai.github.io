@@ -1,6 +1,6 @@
 # Alta Farmer's Notes
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" height="16px" width="auto" /> **Alta Farmer's Notes** is a common codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" width="auto" height="16px"/> **Alta Farmer's Notes** is a common codex entry.
 
 A read-me notice attached to the dendrarium. You can print it to save to your codex. _(Unlocks initial farming tool recipes)_  
 The notice goes over a pretty broad set of tasks that dendrarium helps performing.
@@ -17,20 +17,20 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/bucket/icon.png" alt="Alta Bucket icon" loading="lazy" height="16px" width="auto" /> [Alta Bucket](https://ceterai.github.io/MyEnternia/Wiki/AltaBucket)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/hoe/icon.png" alt="Alta Hoe icon" loading="lazy" height="16px" width="auto" /> [Alta Hoe](https://ceterai.github.io/MyEnternia/Wiki/AltaHoe)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/bucket/icon.png" alt="Alta Bucket icon" loading="lazy" width="auto" height="16px"/> [Alta Bucket](https://ceterai.github.io/MyEnternia/Wiki/AltaBucket)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/hoe/icon.png" alt="Alta Hoe icon" loading="lazy" width="auto" height="16px"/> [Alta Hoe](https://ceterai.github.io/MyEnternia/Wiki/AltaHoe)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png" alt="Alta Dendrarium icon" loading="lazy" height="16px" width="auto" /> [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png" alt="Alta Dendrarium icon" loading="lazy" width="auto" height="16px"/> [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" height="16px" width="auto" /> Alta Farmer's Notes x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" height="16px" width="16px" /> [Paper](https://starbounder.org/Paper) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" height="16px" width="auto" /> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" width="auto" height="16px"/> Alta Farmer's Notes x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"/> [Paper](https://starbounder.org/Paper) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"/> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
 
 Can be bought from merchants:
 

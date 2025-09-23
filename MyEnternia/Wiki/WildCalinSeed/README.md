@@ -1,6 +1,6 @@
 # Wild Calin Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Wild Calin Seed icon" loading="lazy" height="16px" width="auto" /> **Wild Calin Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Wild Calin Seed icon" loading="lazy" width="auto" height="16px"/> **Wild Calin Seed** is a common plantable item.
 
 A wild crystal plant that produces small, blue-ish crystals.
 
@@ -21,16 +21,16 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" height="16px" width="12px" /> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 0.89)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Calin Seed icon" loading="lazy" height="16px" width="auto" /> [Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/CalinSeed) x*1* (weight: 0.01)
-   - <img src="https://starbounder.org/mediawiki/images/9/93/Crystal_Block.png" alt="Crystal Block icon" loading="lazy" height="13px" width="14px" /> [Crystal Block](https://starbounder.org/Crystal_Block) x*1* (weight: 0.1)
+   - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 0.89)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Calin Seed icon" loading="lazy" width="auto" height="16px"/> [Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/CalinSeed) x*1* (weight: 0.01)
+   - <img src="https://starbounder.org/mediawiki/images/9/93/Crystal_Block.png" alt="Crystal Block icon" loading="lazy" width="14px" height="13px"/> [Crystal Block](https://starbounder.org/Crystal_Block) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Calin Seed icon" loading="lazy" height="16px" width="auto" /> [Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/CalinSeed) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/icon.png" alt="Calin Seed icon" loading="lazy" width="auto" height="16px"/> [Calin Seed](https://ceterai.github.io/MyEnternia/Wiki/CalinSeed) x*1* (weight: 1.0)
 
 ## Sources
 

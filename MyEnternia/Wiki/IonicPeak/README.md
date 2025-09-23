@@ -1,6 +1,6 @@
 # Ionic Peak
 
-You feel very nauseous. Millions of invisible [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) specs travel through your body, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_stroke.png" alt="Ionic Stroke icon" loading="lazy" height="16px" width="auto" /> [Ionic Stroke](https://ceterai.github.io/MyEnternia/Wiki/IonicStroke).  
+You feel very nauseous. Millions of invisible [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) specs travel through your body, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_stroke.png" alt="Ionic Stroke icon" loading="lazy" width="auto" height="16px"/> [Ionic Stroke](https://ceterai.github.io/MyEnternia/Wiki/IonicStroke).  
 The biggest danger of this wheather condition comes from it's invisibleness - you might not notice the difference until it's too late.  
 Alta: It's like eternal heat but instead you feel completely drained and tired. Not a very pleasant thing ro experience.
 
@@ -12,7 +12,7 @@ Will last from `50` to `400` seconds.
 
 Will apply following effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_stroke.png" alt="Ionic Stroke icon" loading="lazy" height="16px" width="auto" /> [Ionic Stroke](https://ceterai.github.io/MyEnternia/Wiki/IonicStroke)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_stroke.png" alt="Ionic Stroke icon" loading="lazy" width="auto" height="16px"/> [Ionic Stroke](https://ceterai.github.io/MyEnternia/Wiki/IonicStroke)
 
 ## Technical Information
 

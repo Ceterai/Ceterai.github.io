@@ -1,6 +1,6 @@
 # Alta Lab Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Lab Drone icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Drone** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Lab Drone icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Drone** is a rare throwable item.
 
 An advanced armored drone filled with enternia energy. Has ranged attacks and spreads ionized clouds.  
 This model is a direct upgrade to a once commonplace alta battle drone.
@@ -30,5 +30,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_ionic_drone-lab`
 - Power: `3.0`
 - Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)
 - File: [`/items/active/alta/spawners/drones/ionic.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/ionic.activeitem)

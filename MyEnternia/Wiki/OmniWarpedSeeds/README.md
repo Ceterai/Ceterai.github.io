@@ -1,6 +1,6 @@
 # Omni Warped Seeds ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.png" alt="Omni Warped Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> **Omni Warped Seeds ★★** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.png" alt="Omni Warped Seeds ★★ icon" loading="lazy" width="auto" height="16px"/> **Omni Warped Seeds ★★** is an uncommon throwable item.
 
 Toss these on any ground to grow tiny warped roots!
 
@@ -8,9 +8,9 @@ Toss these on any ground to grow tiny warped roots!
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.3s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.png" alt="Omni Warped Seeds ★★ icon" loading="lazy" height="16px" width="auto" /> Omni Warped Seeds ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_warped_grass_seeds.png" alt="Warped Grass Seeds icon" loading="lazy" height="16px" width="auto" /> [Warped Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/WarpedGrassSeeds) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" height="16px" width="auto" /> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.3s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.png" alt="Omni Warped Seeds ★★ icon" loading="lazy" width="auto" height="16px"/> Omni Warped Seeds ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_warped_grass_seeds.png" alt="Warped Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Warped Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/WarpedGrassSeeds) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"/> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
 
 Can be bought from merchants:
 

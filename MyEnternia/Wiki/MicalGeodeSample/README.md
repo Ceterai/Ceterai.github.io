@@ -1,6 +1,6 @@
 # Mical Geode Sample
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Mical Geode Sample icon" loading="lazy" height="16px" width="auto" /> **Mical Geode Sample** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Mical Geode Sample icon" loading="lazy" width="auto" height="16px"/> **Mical Geode Sample** is a legendary decorative object.
 
 A pretty, red geode. The crystals contained in this specimen are a natural mical formation.  
 While mical crystals don't usually grow inside rocks, mical geodes can rarely be found as a result of magma creating big bubbles of air when cooling.

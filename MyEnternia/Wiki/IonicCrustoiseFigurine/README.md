@@ -1,6 +1,6 @@
 # Ionic Crustoise Figurine ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crustoise/ct_ionic_crustoise.png" alt="Ionic Crustoise Figurine ★★ icon" loading="lazy" height="16px" width="auto" /> **Ionic Crustoise Figurine ★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crustoise/ct_ionic_crustoise.png" alt="Ionic Crustoise Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> **Ionic Crustoise Figurine ★★** is a legendary figurine.
 
 The label reads, "This powerful creature increases its abilities using the ionic energy around it."
 

@@ -1,6 +1,6 @@
 # Homely Gardens
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alterash_art.png" alt="Homely Gardens icon" loading="lazy" height="16px" width="auto" /> **Homely Gardens** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alterash_art.png" alt="Homely Gardens icon" loading="lazy" width="auto" height="16px"/> **Homely Gardens** is a rare decorative object.
 
 A big picture with a beautiful alterash gardens landscape. It looks somewhat familiar.
 

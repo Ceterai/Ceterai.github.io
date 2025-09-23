@@ -1,11 +1,11 @@
 # Faradeus Prime ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" height="16px" width="auto" /> **Faradeus Prime ★** is a legendary one-handed electric machine gun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"/> **Faradeus Prime ★** is a legendary one-handed electric machine gun.
 
-These [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) weapons were enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" height="16px" width="auto" /> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, increasing their potential to the maximum.  
+These [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) weapons were enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, increasing their potential to the maximum.  
 A find like this is pretty rare even among the mercs, but can sometimes be seen being wielded by some [faradea legends](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend).
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" height="16px" width="auto" /> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" width="auto" height="16px"/> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus).
 
 ## Ingame
 
@@ -32,5 +32,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_faradeus-upgrade`
 - Power: `3.85`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`faradea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`machinePistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/MachinePistol), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`faradea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`machinepistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Machinepistol), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/active/weapons/ranged/alta/blaster/ct_faradeus.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.activeitem)

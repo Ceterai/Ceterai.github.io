@@ -8,7 +8,7 @@ Alta:
 - Default Duration: 60s
 - Effect parameters: 
 
-- Range: 3- Type: <img src="/damage/ct_plasma.png" alt="Plasma icon" loading="lazy" height="16px" width="16px" /> [Plasma](Alternia#damage)- Damage Multiplier: 1- Cooldown: 4.0
+- Range: 3- Type: <img src="/damage/ct_plasma.png" alt="Plasma icon" loading="lazy" width="16px" height="16px"/> [Plasma](Alternia#damage)- Damage Multiplier: 1- Cooldown: 4.0
 
 ## Technical Information
 

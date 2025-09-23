@@ -1,11 +1,11 @@
 # Scout's Lightwear
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Scout's Lightwear icon" loading="lazy" height="16px" width="auto" /> **Scout's Lightwear** is an uncommon chest item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Scout's Lightwear icon" loading="lazy" width="auto" height="16px"/> **Scout's Lightwear** is an uncommon chest armor piece.
 
 Regular protective wear of [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scouts on [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets.  
-The wrist mechanisms are meant to be connected to any equiped proto-gear, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" height="16px" width="auto" /> [protospears](https://ceterai.github.io/MyEnternia/Wiki/Protospear), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" height="16px" width="auto" /> [protomasks](https://ceterai.github.io/MyEnternia/Wiki/Protomask) or even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" height="16px" width="auto" /> [velocity eaters](https://ceterai.github.io/MyEnternia/Wiki/VelocityEaters).
+The wrist mechanisms are meant to be connected to any equiped proto-gear, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"/> [protospears](https://ceterai.github.io/MyEnternia/Wiki/Protospear), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" width="auto" height="16px"/> [protomasks](https://ceterai.github.io/MyEnternia/Wiki/Protomask) or even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" width="auto" height="16px"/> [velocity eaters](https://ceterai.github.io/MyEnternia/Wiki/VelocityEaters).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" height="16px" width="auto" /> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" width="auto" height="16px"/> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -17,20 +17,26 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" height="16px" width="auto" /> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" height="15px" width="15px" /> [Attack power](https://starbounder.org/Attack_power) +125.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" height="15px" width="15px" /> [Health](https://starbounder.org/Health) +0.5
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" height="15px" width="15px" /> [Energy](https://starbounder.org/Energy) +5
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" height="15px" width="15px" /> [Defense](https://starbounder.org/Defense) +5
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" width="auto" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +125.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +0.5
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +5
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +5
+
+## Usage
+
+### Dyeing
+
+Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
 
 ## Sources
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Scout's Lightwear icon" loading="lazy" height="16px" width="auto" /> Scout's Lightwear x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" height="13px" width="14px" /> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*10*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height="16px" width="auto" /> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" height="14px" width="14px" /> [Silk](https://starbounder.org/Silk) x*1*
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Scout's Lightwear icon" loading="lazy" width="auto" height="16px"/> Scout's Lightwear x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*10*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"/> [Silk](https://starbounder.org/Silk) x*1*
 
 Can be bought from merchants:
 
@@ -39,8 +45,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png" alt="Metrocop Set icon" loading="lazy" height="16px" width="auto" /> [Metrocop Set](https://ceterai.github.io/MyEnternia/Wiki/MetrocopSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png" alt="Scout Set icon" loading="lazy" height="16px" width="auto" /> [Scout Set](https://ceterai.github.io/MyEnternia/Wiki/ScoutSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png" alt="Metrocop Set icon" loading="lazy" width="auto" height="16px"/> [Metrocop Set](https://ceterai.github.io/MyEnternia/Wiki/MetrocopSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png" alt="Scout Set icon" loading="lazy" width="auto" height="16px"/> [Scout Set](https://ceterai.github.io/MyEnternia/Wiki/ScoutSet)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

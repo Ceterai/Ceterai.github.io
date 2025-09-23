@@ -1,6 +1,6 @@
 # Star Catcher
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/star_catcher/icon.png" alt="Star Catcher icon" loading="lazy" height="16px" width="auto" /> **Star Catcher** is a legendary two-handed fishing rod.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/star_catcher/icon.png" alt="Star Catcher icon" loading="lazy" width="auto" height="16px"/> **Star Catcher** is a legendary two-handed fishing rod.
 
 A stellar tool full of stardust energy. Its default lure glows in the dark.
 

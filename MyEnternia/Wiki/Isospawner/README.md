@@ -1,8 +1,8 @@
 # Isospawner
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_spawner/icon.png" alt="Isospawner icon" loading="lazy" height="16px" width="auto" /> **Isospawner** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_spawner/icon.png" alt="Isospawner icon" loading="lazy" width="auto" height="16px"/> **Isospawner** is a common breakable object.
 
-A vile pile of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" height="16px" width="auto" /> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime). There's something moving inside.
+A vile pile of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime). There's something moving inside.
 
 ## Ingame
 

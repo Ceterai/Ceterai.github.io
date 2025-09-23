@@ -1,6 +1,6 @@
 # Elin Bug ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/elin_bug/icon.png" alt="Elin Bug ★ icon" loading="lazy" height="16px" width="auto" /> **Elin Bug ★** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/elin_bug/icon.png" alt="Elin Bug ★ icon" loading="lazy" width="auto" height="16px"/> **Elin Bug ★** is an uncommon bug.
 
 An attached note reads, "These pretty bugs often light up the few darker spots of elin gardens."
 

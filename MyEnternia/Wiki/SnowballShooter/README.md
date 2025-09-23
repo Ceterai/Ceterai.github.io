@@ -1,6 +1,6 @@
 # Snowball Shooter
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/snowgun.png" alt="Snowball Shooter icon" loading="lazy" height="16px" width="auto" /> **Snowball Shooter** is an uncommon two-handed cryogenic toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/snowgun.png" alt="Snowball Shooter icon" loading="lazy" width="auto" height="16px"/> **Snowball Shooter** is an uncommon two-handed cryogenic toy.
 
 Powered by snow, it's fully automatic and keeps your gloves dry.
 

@@ -1,10 +1,10 @@
 # Energy Grappler ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon_upg.png" alt="Energy Grappler ★ icon" loading="lazy" height="16px" width="auto" /> **Energy Grappler ★** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon_upg.png" alt="Energy Grappler ★ icon" loading="lazy" width="auto" height="16px"/> **Energy Grappler ★** is a legendary tool.
 
 Oh my god, whee! This is so fun!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon.png" alt="Alta Grappler icon" loading="lazy" height="16px" width="auto" /> [Alta Grappler](https://ceterai.github.io/MyEnternia/Wiki/AltaGrappler).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon.png" alt="Alta Grappler icon" loading="lazy" width="auto" height="16px"/> [Alta Grappler](https://ceterai.github.io/MyEnternia/Wiki/AltaGrappler).
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Kinetic Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Kinetic Drone icon" loading="lazy" height="16px" width="auto" /> **Kinetic Drone** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Kinetic Drone icon" loading="lazy" width="auto" height="16px"/> **Kinetic Drone** is a common throwable item.
 
 Small armored [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) drone. Usually nests inside larger drones.  
 These compact flying robots are not that much smaller than a rebular alta drone, but enough to be able to fit in much smaller spaces.
@@ -13,8 +13,6 @@ Species descriptions:
 
 Radiomessages on pickup:
 
-- The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
-Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
 ## Sources
@@ -31,5 +29,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_alta_mini_drone-kinetic`
 - Power: `0.5`
 - Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`energy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Energy), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)
 - File: [`/items/active/alta/spawners/drones/mini.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/drones/mini.activeitem)

@@ -1,6 +1,6 @@
 # Time Drifter Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" height="16px" width="auto" /> **Time Drifter Figurine** is an essential figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" width="auto" height="16px"/> **Time Drifter Figurine** is an essential figurine.
 
 The label reads, "A Time Drifter's Reward."  
 This particular figurine seems to be limited edition - almost as if it was made specifically for someone... special.

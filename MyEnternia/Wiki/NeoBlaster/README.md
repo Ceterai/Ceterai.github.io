@@ -1,6 +1,6 @@
 # Neo Blaster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" height="16px" width="auto" /> **Neo Blaster** is a legendary one-handed pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" width="auto" height="16px"/> **Neo Blaster** is a legendary one-handed pistol.
 
 A plasma blaster that can produce physical bullets from its own energy. Hold LMB for a charged shot.  
 While the origins of the tool are outside of alta production, a small alta energy tool production decided to give their spin on the style, in form of a handy blaster.
@@ -19,9 +19,9 @@ Radiomessages on pickup:
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon2.png) [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" height="16px" width="auto" /> Neo Blaster x*1*):
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon2.png) [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" width="auto" height="16px"/> Neo Blaster x*1*):
   - `neopistol` x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" height="16px" width="auto" /> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*1780*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*1780*
 
 Can be bought from merchants:
 
@@ -31,7 +31,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" height="16px" width="auto" /> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
@@ -40,5 +40,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_neoblaster`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`neo`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Neo), [`peacekeepers`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Peacekeepers), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`peacekeeper`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Peacekeeper), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/active/weapons/ranged/alta/blaster/ct_neoblaster.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.activeitem)

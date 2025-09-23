@@ -1,9 +1,9 @@
 # Tavriya Microformer ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/tavriya/icon.png" alt="Tavriya Microformer ★★ icon" loading="lazy" height="16px" width="auto" /> **Tavriya Microformer ★★** is a legendary terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/tavriya/icon.png" alt="Tavriya Microformer ★★ icon" loading="lazy" width="auto" height="16px"/> **Tavriya Microformer ★★** is a legendary terraformer.
 
 Transforms an area of a planet into a snowy alterash prime land. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya) are plains and canyons full of ice and snow covering otherwise barren [moonrock](https://ceterai.github.io/MyEnternia/Wiki/moonrock) base layer. Under the surface, you might find rare [isostratums](https://ceterai.github.io/MyEnternia/Wiki/isostratums) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" height="16px" width="auto" /> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) formations.  
+[Tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya) are plains and canyons full of ice and snow covering otherwise barren [moonrock](https://ceterai.github.io/MyEnternia/Wiki/moonrock) base layer. Under the surface, you might find rare [isostratums](https://ceterai.github.io/MyEnternia/Wiki/isostratums) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) formations.  
 The climate here is usually colder than on the rest of the planet, and contains higher levels of ionization.
 
 ## Ingame

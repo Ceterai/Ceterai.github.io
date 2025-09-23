@@ -1,6 +1,6 @@
 # Alta Lab Desk
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Desk icon" loading="lazy" height="16px" width="auto" /> **Alta Lab Desk** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Desk icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Desk** is an uncommon decorative object.
 
 This full-pack desk compensates its weight with usefulness.  
 Even so, desk are not the most common piece of furniture among altas because they aren't particularly modular, light-weight or simplistic.

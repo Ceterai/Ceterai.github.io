@@ -1,6 +1,6 @@
 # Aric Sporgus Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/sporgus/ct_aric_sporgus.png" alt="Aric Sporgus Figurine ★ icon" loading="lazy" height="16px" width="auto" /> **Aric Sporgus Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/sporgus/ct_aric_sporgus.png" alt="Aric Sporgus Figurine ★ icon" loading="lazy" width="auto" height="16px"/> **Aric Sporgus Figurine ★** is a legendary figurine.
 
 The label reads, "This prime sporgus grew up in perfect spore-filled toxic conditions."
 

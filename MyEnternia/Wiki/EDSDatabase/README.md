@@ -1,6 +1,6 @@
 # EDS Database
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" height="16px" width="auto" /> **EDS Database** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" width="auto" height="16px"/> **EDS Database** is a rare codex entry.
 
 A list of short descriptions of unknown technology. It seems like it's missing some entries. Code on the back reads 'CEN-411'.  
 This document provides detailed information on the Elerune Defensive Systems (EDS) technology and its various components.
@@ -24,26 +24,26 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" height="16px" width="auto" /> [EDS Database](https://ceterai.github.io/MyEnternia/Wiki/EDSDatabase)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" width="auto" height="16px"/> [EDS Database](https://ceterai.github.io/MyEnternia/Wiki/EDSDatabase)
 
 <details markdown="1"><summary>Can be used to craft: (Expand 16 items)</summary>
 
 - `ct_alta_constructor3`
 - `ct_alta_crafting_station6`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_eds_ai_chip.png" alt="EDS A.I. Chip ★ icon" loading="lazy" height="16px" width="auto" /> [EDS A.I. Chip ★](https://ceterai.github.io/MyEnternia/Wiki/EDSA.I.Chip)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png" alt="EDS Aimbot Augment ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS Aimbot Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSAimbotAugment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Android Defensystem ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidDefensystem)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_head/icon.png" alt="EDS Android Head ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidHead)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/eds.png" alt="EDS Android ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Android ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" height="16px" width="auto" /> [EDS Armored Greaves](https://ceterai.github.io/MyEnternia/Wiki/EDSArmoredGreaves)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_augment.png" alt="EDS Augment icon" loading="lazy" height="16px" width="auto" /> [EDS Augment](https://ceterai.github.io/MyEnternia/Wiki/EDSAugment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Command Communication Log icon" loading="lazy" height="16px" width="auto" /> [EDS Command Communication Log](https://ceterai.github.io/MyEnternia/Wiki/EDSCommandCommunicationLog)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" height="16px" width="auto" /> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet_mk2/icon.png" alt="EDS MkII Helmet ★★ icon" loading="lazy" height="16px" width="auto" /> [EDS MkII Helmet ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSMkIIHelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/proto_helmet/icon.png" alt="EDS Proto Helmet ★ icon" loading="lazy" height="16px" width="auto" /> [EDS Proto Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/EDSProtoHelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Server Connector Log icon" loading="lazy" height="16px" width="auto" /> [EDS Server Connector Log](https://ceterai.github.io/MyEnternia/Wiki/EDSServerConnectorLog)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Status Analysis icon" loading="lazy" height="16px" width="auto" /> [EDS Status Analysis](https://ceterai.github.io/MyEnternia/Wiki/EDSStatusAnalysis)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ionic_augment.png" alt="Ionic Augment ★ icon" loading="lazy" height="16px" width="auto" /> [Ionic Augment ★](https://ceterai.github.io/MyEnternia/Wiki/IonicAugment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_eds_ai_chip.png" alt="EDS A.I. Chip ★ icon" loading="lazy" width="auto" height="16px"/> [EDS A.I. Chip ★](https://ceterai.github.io/MyEnternia/Wiki/EDSA.I.Chip)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png" alt="EDS Aimbot Augment ★★ icon" loading="lazy" width="auto" height="16px"/> [EDS Aimbot Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSAimbotAugment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" width="auto" height="16px"/> [EDS Android Defensystem ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidDefensystem)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_head/icon.png" alt="EDS Android Head ★ icon" loading="lazy" width="auto" height="16px"/> [EDS Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidHead)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/eds.png" alt="EDS Android ★ icon" loading="lazy" width="auto" height="16px"/> [EDS Android ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" width="auto" height="16px"/> [EDS Armored Greaves](https://ceterai.github.io/MyEnternia/Wiki/EDSArmoredGreaves)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_augment.png" alt="EDS Augment icon" loading="lazy" width="auto" height="16px"/> [EDS Augment](https://ceterai.github.io/MyEnternia/Wiki/EDSAugment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Command Communication Log icon" loading="lazy" width="auto" height="16px"/> [EDS Command Communication Log](https://ceterai.github.io/MyEnternia/Wiki/EDSCommandCommunicationLog)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" width="auto" height="16px"/> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet_mk2/icon.png" alt="EDS MkII Helmet ★★ icon" loading="lazy" width="auto" height="16px"/> [EDS MkII Helmet ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSMkIIHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/proto_helmet/icon.png" alt="EDS Proto Helmet ★ icon" loading="lazy" width="auto" height="16px"/> [EDS Proto Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/EDSProtoHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Server Connector Log icon" loading="lazy" width="auto" height="16px"/> [EDS Server Connector Log](https://ceterai.github.io/MyEnternia/Wiki/EDSServerConnectorLog)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Status Analysis icon" loading="lazy" width="auto" height="16px"/> [EDS Status Analysis](https://ceterai.github.io/MyEnternia/Wiki/EDSStatusAnalysis)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ionic_augment.png" alt="Ionic Augment ★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Augment ★](https://ceterai.github.io/MyEnternia/Wiki/IonicAugment)
 
 </details>
 
@@ -51,24 +51,24 @@ Unlocks blueprints for:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" height="16px" width="auto" /> [EDS Database](https://ceterai.github.io/MyEnternia/Wiki/EDSDatabase)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" width="auto" height="16px"/> [EDS Database](https://ceterai.github.io/MyEnternia/Wiki/EDSDatabase)
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" height="16px" width="auto" /> EDS Database x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" height="16px" width="auto" /> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" height="16px" width="auto" /> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*1*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Database icon" loading="lazy" width="auto" height="16px"/> EDS Database x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*1*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" height="16px" width="auto" /> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
-- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" height="12px" width="30px" /> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"/> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" height="16px" width="auto" /> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

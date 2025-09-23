@@ -1,6 +1,6 @@
 # Io's Trophy ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_io_trophy.png" alt="Io's Trophy ★ icon" loading="lazy" height="16px" width="auto" /> **Io's Trophy ★** is an essential decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_io_trophy.png" alt="Io's Trophy ★ icon" loading="lazy" width="auto" height="16px"/> **Io's Trophy ★** is an essential decorative object.
 
 The plaque reads, "Awarded to a being of stars and dreams, for all the courage and determination. Io is watching after you, little one."
 

@@ -4,6 +4,10 @@ The tag `apexresearchlab` contains 4 total entries.
 
 ## Objects
 
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Apexresearchlab](https://starbounder.org/Tag:Apexresearchlab)
+
 ## Tenants
 
 Following tenants require this colony tag:
