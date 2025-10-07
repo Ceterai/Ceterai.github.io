@@ -11,6 +11,13 @@ Species descriptions:
 
 - Alta: Where does it get its minerals from?..
 
+## Parameters
+
+### Critter
+
+Critters can be _relocated_ with a _relocator_, and some of them _drop resources_ when hunted down with a _bow_.  
+Look if the critter's shell or outer layer has grow a crystal or bionic matter on it, and remove it carefully to not damage the critter.
+
 ## Usage
 
 ### Crafting

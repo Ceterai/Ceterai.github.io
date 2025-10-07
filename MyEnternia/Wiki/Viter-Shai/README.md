@@ -10,6 +10,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Promises Of Vitero
+
+Launches Dragon Fire charges from energy particles.
+Press - bursts with small Dragon Fire charges;
+Hold - launches a Dragon Fire rocket.
+
+### Aina Veritas
+
+Launches a Fire Boomerang on press, and Remote Sticky Nades on hold.
+
 ## Sources
 
 Can be bought from merchants:

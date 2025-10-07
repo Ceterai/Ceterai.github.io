@@ -1,7 +1,6 @@
 # Catalized
 
-Completely removes all effects from an entity. Useful for debugging.  
-Alta: 
+Completely removes all effects from an entity. Useful for debugging.
 
 Applied by following items:
 

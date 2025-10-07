@@ -1,10 +1,10 @@
 # Crafting Tag
 
-The tag `crafting` contains 20 total entries.
+The tag `crafting` contains 19 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 20 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 19 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/aquarium/icon.png" alt="Alta Aquarium icon" loading="lazy" width="auto" height="16px"/> [Alta Aquarium](https://ceterai.github.io/MyEnternia/Wiki/AltaAquarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/architect_station/icon.png" alt="Alta Architect Station icon" loading="lazy" width="auto" height="16px"/> [Alta Architect Station](https://ceterai.github.io/MyEnternia/Wiki/AltaArchitectStation)
@@ -25,7 +25,6 @@ The tag `crafting` contains 20 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/terrarium/icon.png" alt="Alta Terrarium icon" loading="lazy" width="auto" height="16px"/> [Alta Terrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaTerrarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png" alt="Alta Upgrade Station icon" loading="lazy" width="auto" height="16px"/> [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/workshop/icon1.png" alt="Alta Workshop icon" loading="lazy" width="auto" height="16px"/> [Alta Workshop](https://ceterai.github.io/MyEnternia/Wiki/AltaWorkshop)
-- `ct_deprecation_station`
 
 </details>
 

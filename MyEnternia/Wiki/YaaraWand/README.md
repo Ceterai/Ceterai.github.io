@@ -10,6 +10,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Gardener's Dream
+
+Press to disperse seeds! Hold to change seed type. Available: grass, flowers, crimson, colorful, lush and thick.
+
 ## Sources
 
 Can be crafted:

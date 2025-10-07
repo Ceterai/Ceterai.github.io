@@ -12,6 +12,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Aric Spores
+
+This tool will always return to you after being thrown. On impact, it spreads poisonous spores everywhere.
+
 ## Sources
 
 Found naturally in containers:

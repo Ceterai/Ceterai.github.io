@@ -24,7 +24,7 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
 - <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"/> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 19 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 16 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
@@ -32,12 +32,9 @@ Found naturally in containers:
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Explorer](https://ceterai.github.io/MyEnternia/Wiki/AltaExplorer)
 - [Alta from a Capital](https://ceterai.github.io/MyEnternia/Wiki/AltafromaCapital)
-- [Alta Gold Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaGoldKnight)
 - [Alta Holiday Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHolidayGirl)
 - [Alta Huntress](https://ceterai.github.io/MyEnternia/Wiki/AltaHuntress)
-- [Alta Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaKnight)
 - [Alta NPC](https://ceterai.github.io/MyEnternia/Wiki/AltaNPC)
-- [Alta Pirate](https://ceterai.github.io/MyEnternia/Wiki/AltaPirate)
 - [Alta Protectorate Student](https://ceterai.github.io/MyEnternia/Wiki/AltaProtectorateStudent)
 - [Alta Shadow Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaShadowGardener)
 - [Alta Snow Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowGirl)

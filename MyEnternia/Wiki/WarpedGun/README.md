@@ -14,6 +14,18 @@ Radiomessages on pickup:
 - Beware of the warped items you just acquired. Warped is a form of wild growth found mainly on alterash planets, that tends to spread uncontrollably and contaminate everything in its path.  
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
 
+## Parameters
+
+### Poison Core
+
+Can launch Poison Sweeps on press and Poison Rockets on hold.
+
+### Venomous Barrage
+
+Able to turn its venom into explosive charges.
+Press - launch an Acid Nade;
+Hold - launch a Poison Cloud Nade.
+
 ## Sources
 
 Found naturally in containers:

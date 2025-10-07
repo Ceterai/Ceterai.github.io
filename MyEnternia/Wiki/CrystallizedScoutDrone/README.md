@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### Crystal-Covered
+
+Will swoop at enemies when in range. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+Be careful not to poke your finger on one of the crystals! If you have fingers, that is.
+
+### Defective Drone
+
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_defective.png" alt="Defective icon" loading="lazy" width="auto" height="16px"/> [Defective](https://ceterai.github.io/MyEnternia/Wiki/Defective), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_light.png" alt="Omniblue Light icon" loading="lazy" width="auto" height="16px"/> [Omniblue Light](https://ceterai.github.io/MyEnternia/Wiki/OmniblueLight).
+Deals [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) damage on touch, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis).  
+Don't stand too close to it or else you might get "stung".
+
 ## Sources
 
 Can be bought from merchants:

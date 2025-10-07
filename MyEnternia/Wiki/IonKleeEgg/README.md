@@ -11,6 +11,13 @@ Species descriptions:
 
 - Alta: This klee looks like it spent too much time near the planet's core. Do klees ever go that deep?
 
+## Parameters
+
+### Small Bean
+
+This small critter or bug can be caught with a bug net and put in a bottle.  
+This will turn them into a collectable item valued by many collectionists, one of which could be yourself.
+
 ## Usage
 
 ### Crafting

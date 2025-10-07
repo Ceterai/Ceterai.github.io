@@ -40,24 +40,23 @@ Can be bought from merchants:
 
 - [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 20 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 19 items)</summary>
 
+- [Alta Albino Shark Cosplayer](https://ceterai.github.io/MyEnternia/Wiki/AltaAlbinoSharkCosplayer)
 - [Alta Alien Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaAlienGirl)
-- [Alta Banana](https://ceterai.github.io/MyEnternia/Wiki/AltaBanana)
 - [Alta Bedtimer](https://ceterai.github.io/MyEnternia/Wiki/AltaBedtimer)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)
 - [Alta Dinogirl](https://ceterai.github.io/MyEnternia/Wiki/AltaDinogirl)
 - [Alta Festival Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaFestivalGirl)
 - [Alta Floran Prisoner](https://ceterai.github.io/MyEnternia/Wiki/AltaFloranPrisoner)
 - [Alta Gamer](https://ceterai.github.io/MyEnternia/Wiki/AltaGamer)
-- [Alta Househead](https://ceterai.github.io/MyEnternia/Wiki/AltaHousehead)
 - [Alta Hula Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaHulaDancer)
 - [Alta in a Calin Dress](https://ceterai.github.io/MyEnternia/Wiki/AltainaCalinDress)
 - [Alta Koywa Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaKoywaDancer)
 - [Alta Neon Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonDancer)
 - [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
-- [Alta Plantain Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantainGirl)
 - [Alta Resort Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaResortGirl)
+- [Alta Shark Cosplayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSharkCosplayer)
 - [Alta Slimegirl](https://ceterai.github.io/MyEnternia/Wiki/AltaSlimegirl)
 - [Alta Swimmer](https://ceterai.github.io/MyEnternia/Wiki/AltaSwimmer)
 - [Alta Vibrant Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaVibrantDancer)

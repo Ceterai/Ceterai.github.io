@@ -6,7 +6,7 @@ An alta dressed up in warm clothes for the cold. These blue scarfs are given out
 
 - Category: casual
 - Possible species: alta
-- Colony tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light) (1), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door) (1), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) (6), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) (8)
+- Colony tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light) (1), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door) (1), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) (8), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) (6)
 
 ## Tenant
 

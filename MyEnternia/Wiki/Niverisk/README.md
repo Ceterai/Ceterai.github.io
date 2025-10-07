@@ -19,6 +19,19 @@ Radiomessages on pickup:
 - Beware of the warped items you just acquired. Warped is a form of wild growth found mainly on alterash planets, that tends to spread uncontrollably and contaminate everything in its path.  
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
 
+## Parameters
+
+### Estria's Wrath
+
+**WIP**. A sequence of 4 (+1) light strikes. Hold to perform a Super Heavy Slash.
+Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus electric damage.  
+Seems like its previous owner could handle it with ease, but numerous spikes might not make it as easy for someone less experienced.
+
+### Circles Of Love
+
+Hold to perform a venom-spreading spear spin.  
+Moderately poisonous, its main purpose is to immobilize its victims.
+
 ## Sources
 
 Found naturally in containers:

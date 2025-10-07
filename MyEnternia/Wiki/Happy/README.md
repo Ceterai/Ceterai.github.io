@@ -1,7 +1,6 @@
 # Happy
 
-What is this tingling feeling in your heart?  
-Alta: 
+What is this tingling feeling in your heart?
 
 Applied by following items:
 

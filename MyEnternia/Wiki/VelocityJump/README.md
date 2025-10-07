@@ -1,7 +1,6 @@
 # Velocity Jump
 
-Increases jump height and decreases fall damage by 50%.  
-Alta: 
+Increases jump height and decreases fall damage by 50%.
 
 <details markdown="1"><summary>Applied by following items: (Expand 12 items)</summary>
 

@@ -7,6 +7,12 @@ Charge: 200 blocks.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/quick_builder/icon.png" alt="Alta Quick Builder icon" loading="lazy" width="auto" height="16px"/> [Alta Quick Builder](https://ceterai.github.io/MyEnternia/Wiki/AltaQuickBuilder).
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
 ## Sources
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).

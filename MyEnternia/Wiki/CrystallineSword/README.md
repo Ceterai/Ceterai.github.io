@@ -17,6 +17,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Calline Blade
+
+WIP. A sequence of 4 (+1) light strikes. Hold to perform a Hold Strike.
+Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
+Each swing contributes to the charge, with the handle being isolated enough to not let it harm the wielder. Unfortunately, this blocks any protosystem-like infusions.
+
+### Sinara's Leap
+
+Hold to perform a Blink Slash.  
+Not entirely know how exactly this is possible. Perhaps this is just momentary movement illusion.
+
 ## Sources
 
 Found naturally in containers:

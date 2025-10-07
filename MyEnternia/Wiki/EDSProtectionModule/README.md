@@ -1,7 +1,6 @@
 # EDS Protection Module
 
-Adds 10% electric resistance and 2 defense.  
-Alta: 
+Adds 10% electric resistance and 2 defense.
 
 <details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
 

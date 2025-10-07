@@ -77,6 +77,10 @@ Species descriptions:
 
 </details>
 
+### Refining
+
+Can be refined in a <img src="https://starbounder.org/mediawiki/images/2/2a/Refinery.gif" alt="Refinery icon" width="12" height="12"/> [Refinery](https://starbounder.org/Refinery) into pixels.
+
 ## Sources
 
 Can be crafted:

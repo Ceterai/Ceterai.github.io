@@ -1,7 +1,5 @@
 # Overtension
 
-Alta: 
-
 ## Parameters
 
 - Blocking Stat: `ionicStatusImmunity`

@@ -1,7 +1,6 @@
 # Life Support System
 
-Constantly heals you by 1% each second.  
-Alta: 
+Constantly heals you by 1% each second.
 
 <details markdown="1"><summary>Applied by following items: (Expand 13 items)</summary>
 

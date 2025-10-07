@@ -1,7 +1,6 @@
 # Orbital Strike
 
-If you can hear the siren, run to the nearest shelter! A massive airstrike is incoming, and will cover the surface in deadly missiles! This is not a drill!!  
-Alta: 
+If you can hear the siren, run to the nearest shelter! A massive airstrike is incoming, and will cover the surface in deadly missiles! This is not a drill!!
 
 ## Parameters
 

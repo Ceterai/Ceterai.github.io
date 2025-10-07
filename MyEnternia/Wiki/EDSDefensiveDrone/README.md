@@ -17,6 +17,19 @@ Radiomessages on pickup:
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### Defensive Mechanisms
+
+Will fire charges made from crystal energy when in range. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+Mical concentrators are a good at accumulating lost of energy into a single charge. And also at making it to look menacingly red.
+
+### EDS Drone
+
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" width="auto" height="16px"/> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder).
+Deals [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) damage on touch, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock).  
+Its heavy armored structure was designed and manufactured by EDS.
+
 ## Sources
 
 Found naturally in containers:

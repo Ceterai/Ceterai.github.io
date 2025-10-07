@@ -10,6 +10,14 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Energy Controller
+
+Intergrated tech that allows you to take control of 3 [Magmorbs](https://ceterai.github.io/MyEnternia/Wiki/Magmorbs).
+Press - launch a [Magmorb](https://ceterai.github.io/MyEnternia/Wiki/Magmorb);
+Hold - create a Magma Shield.
+
 ## Sources
 
 Can be bought from merchants:

@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Dream Siphon
+
+**WIP**. A sequence of 4 light physical strikes. Hold to perform a Super Heavy Slash.  
+Every strike recharges energy slightly.  
+What tech drives this tool? Is this even technology to begin with? Are dreamers able to comprehend the inner workings of their own tools?..
+
+### Nightcharge
+
+Hold to perform a spear charge.  
+This can only be done with enough energy harvested... Or if you have enough by yourself already. Except... no amount of energy is really enough, right, dreamer?..
+
 ## Sources
 
 Can be bought from merchants:

@@ -15,6 +15,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Pulsive Halter
+
+Provides full auto cannon bursts of high-velocity [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) that are able to pierce through targets.
+
+### Troposwitch
+
+Troposphere analog as core.
+Press - change attachments: none, laser, flashlight;
+Hold - perform an Impulse Discharge.
+
 ## Sources
 
 Can be bought from merchants:

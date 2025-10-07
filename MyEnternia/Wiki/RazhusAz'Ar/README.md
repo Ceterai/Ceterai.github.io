@@ -17,6 +17,14 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Refined Bishyn Blade
+
+A sequence of 4 (+1) light strikes. Hold to perform a Hold Super-Strike.
+Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) damage.  
+The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are [diamonds](https://ceterai.github.io/MyEnternia/Wiki/Tags/Diamond) and [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals.
+
 ## Sources
 
 Can be bought from merchants:

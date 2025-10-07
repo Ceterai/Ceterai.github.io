@@ -1,7 +1,6 @@
 # Sad
 
-I... feel you...  
-Alta: 
+I... feel you...
 
 ## Parameters
 

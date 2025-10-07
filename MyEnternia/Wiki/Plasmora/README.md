@@ -15,6 +15,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Plasmic Barrage
+
+Cover your target in plasma! Press the button for a 4-shot semiauto burst of plasma, hold to wind a Plasmar - a powerful plasma charge.
+
 ## Sources
 
 Found naturally in containers:

@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### Drone Spawner
+
+Constantly spawns <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"/> [minidrones](https://ceterai.github.io/MyEnternia/Wiki/Minidrone). Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+It's hard to imagine all these tiny drones are being constructed on the fly.
+
+### Enviro Drone
+
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"/> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection).
+Deals physical damage on touch.  
+This drone was developed to operate in unsafe conditions.
+
 ## Sources
 
 Can be bought from merchants:

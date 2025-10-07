@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/underworld/icon.png" alt="Antorash Plains Microformer ★★ icon" loading="lazy" width="auto" height="16px"/> **Antorash Plains Microformer ★★** is a legendary terraformer.
 
 Transforms an area of a planet into an underworld forest. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Antorash Plains](https://ceterai.github.io/MyEnternia/Wiki/AntorashPlains) are A common place in the Alterash Underworlds. The nature here highly reflects nature in [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/alterashgardens), although highly saturated with blueish hues due to lack of light.
+[Antorash Plains](https://ceterai.github.io/MyEnternia/Wiki/AntorashPlains) are A common place in the Alterash Underworlds. The nature here highly reflects nature in [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens), although highly saturated with blueish hues due to lack of light.
 
 ## Ingame
 

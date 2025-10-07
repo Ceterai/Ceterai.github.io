@@ -35,20 +35,19 @@ Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" width="auto" height="16px"/> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 16 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 15 items)</summary>
 
+- [Alta Albino Shark Cosplayer](https://ceterai.github.io/MyEnternia/Wiki/AltaAlbinoSharkCosplayer)
 - [Alta Alien Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaAlienGirl)
-- [Alta Banana](https://ceterai.github.io/MyEnternia/Wiki/AltaBanana)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)
 - [Alta Dinogirl](https://ceterai.github.io/MyEnternia/Wiki/AltaDinogirl)
 - [Alta Gamer](https://ceterai.github.io/MyEnternia/Wiki/AltaGamer)
-- [Alta Househead](https://ceterai.github.io/MyEnternia/Wiki/AltaHousehead)
 - [Alta Hula Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaHulaDancer)
 - [Alta in a Calin Dress](https://ceterai.github.io/MyEnternia/Wiki/AltainaCalinDress)
 - [Alta Koywa Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaKoywaDancer)
 - [Alta Neon Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonDancer)
 - [Alta Party Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPartyGirl)
-- [Alta Plantain Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantainGirl)
+- [Alta Shark Cosplayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSharkCosplayer)
 - [Alta Vibrant Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaVibrantDancer)
 - [Alta Warped Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaWarpedGirl)
 - [Viona Creature](https://ceterai.github.io/MyEnternia/Wiki/VionaCreature)

@@ -12,6 +12,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Plasmastrains
+
+The core of this blaster is able to generate Plasmic Strains able to change their form.
+
 ## Sources
 
 Can be bought from merchants:

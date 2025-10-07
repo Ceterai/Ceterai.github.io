@@ -17,6 +17,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Viona Resonation
+
+A sequence of 3 heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/BladeCharge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).  
+The special resonation creates slight energy vibrations between the twins, providing additional power to each hit.
+
+### Resonation
+
+Raises an ice pillar in front of you.  
+The impact from this special attack quickly dissipates, as not all viona combinations are able to exist for extended periods of time.
+
 ## Sources
 
 Found naturally in containers:

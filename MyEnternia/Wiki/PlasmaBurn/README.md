@@ -1,7 +1,6 @@
 # Plasma Burn
 
-Repeatedly damages you with pure [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma). Having [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity) blocks the effect, [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes the damage, [Fire Status Immunity](https://ceterai.github.io/MyEnternia/Wiki/FireStatusImmunity) decreases the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.  
-Alta: 
+Repeatedly damages you with pure [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma). Having [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity) blocks the effect, [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes the damage, [Fire Status Immunity](https://ceterai.github.io/MyEnternia/Wiki/FireStatusImmunity) decreases the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.
 
 ## Parameters
 

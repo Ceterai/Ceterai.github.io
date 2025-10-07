@@ -1,7 +1,6 @@
 # Force Field Autoshielder
 
-Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_force_shield.png" alt="Force Shield icon" loading="lazy" width="auto" height="16px"/> [Force Shield](https://ceterai.github.io/MyEnternia/Wiki/ForceShield) to you when your health is lower than 25%.  
-Alta: 
+Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_force_shield.png" alt="Force Shield icon" loading="lazy" width="auto" height="16px"/> [Force Shield](https://ceterai.github.io/MyEnternia/Wiki/ForceShield) to you when your health is lower than 25%.
 
 Applied by following items:
 

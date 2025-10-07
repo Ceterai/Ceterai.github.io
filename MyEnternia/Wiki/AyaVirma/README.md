@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" width="auto" height="16px"/> **Aya Virma** is an uncommon one-handed poisonous unique weapon.
 
-A live poisonous ivy that can be rarely found in [Ayaka Forests](https://ceterai.github.io/MyEnternia/Wiki/AyakaForests)... Can it understand you?..
+A live poisonous ivy that can be rarely found in [Ayaka Forests](https://ceterai.github.io/MyEnternia/Wiki/AyakaForest)... Can it understand you?..
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm) at the Weapon Upgrade Anvil.
 
@@ -11,6 +11,12 @@ Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/
 Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
+
+## Parameters
+
+### Poisonous Ivy
+
+Charges poisonous Vine Strains at an enemy.
 
 ## Sources
 

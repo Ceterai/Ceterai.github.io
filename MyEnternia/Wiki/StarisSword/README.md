@@ -15,6 +15,13 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Uvi-Staa
+
+**WIP**. A sequence of 3 light strikes. Hold to perform a Heavy Slash. Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+The blade shines different from the rest of the sword. Perhaps it's due to different concentrations of specks and energy in them.
+
 ## Sources
 
 Can be bought from merchants:

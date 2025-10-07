@@ -10,6 +10,14 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Stardust Explosion
+
+This [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight) blaster runs on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
+Press - create a Stardust Burst;
+Hold - launch a Phase Sphere.
+
 ## Sources
 
 Can be bought from merchants:

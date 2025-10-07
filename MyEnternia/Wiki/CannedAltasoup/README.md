@@ -28,7 +28,7 @@ Can be bought from merchants:
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 19 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 16 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
@@ -36,12 +36,9 @@ Can be bought from merchants:
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Explorer](https://ceterai.github.io/MyEnternia/Wiki/AltaExplorer)
 - [Alta from a Capital](https://ceterai.github.io/MyEnternia/Wiki/AltafromaCapital)
-- [Alta Gold Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaGoldKnight)
 - [Alta Holiday Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHolidayGirl)
 - [Alta Huntress](https://ceterai.github.io/MyEnternia/Wiki/AltaHuntress)
-- [Alta Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaKnight)
 - [Alta NPC](https://ceterai.github.io/MyEnternia/Wiki/AltaNPC)
-- [Alta Pirate](https://ceterai.github.io/MyEnternia/Wiki/AltaPirate)
 - [Alta Protectorate Student](https://ceterai.github.io/MyEnternia/Wiki/AltaProtectorateStudent)
 - [Alta Shadow Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaShadowGardener)
 - [Alta Snow Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowGirl)

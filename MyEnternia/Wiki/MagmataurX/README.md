@@ -10,6 +10,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Magmablast
+
+Instead of storing rockets, this tool generates and launches actual fireballs instead.
+
 ## Sources
 
 Can be bought from merchants:

@@ -26,6 +26,15 @@ Applies effects on knockback:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_analyzed.png" alt="Analyzed icon" loading="lazy" width="auto" height="16px"/> [Analyzed](https://ceterai.github.io/MyEnternia/Wiki/Analyzed)
 
+### Guardian's Dome
+
+Hold to charge up an Ionic Damage Field.
+Activate block fast enough (parry time) to perform a perfect block.
+
+### Adaptive Shield
+
+Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_analyzed.png" alt="Analyzed icon" loading="lazy" width="auto" height="16px"/> [Analyzed](https://ceterai.github.io/MyEnternia/Wiki/Analyzed) to enemies on hit, making them weaker.
+
 ## Sources
 
 Can be bought from merchants:

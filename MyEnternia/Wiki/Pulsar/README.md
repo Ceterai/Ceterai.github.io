@@ -10,6 +10,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Pulsar Charge
+
+Creates semiauto bursts of [Impulse Charges](https://ceterai.github.io/MyEnternia/Wiki/ImpulseCharges) using [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia) energy.
+
+### Twin Pulse
+
+Generates syncronized Twin Impulses with different power.
+Press - launch a Twin Impulse;
+Hold - shotgun burst of Twin Impulses.
+
 ## Sources
 
 Can be crafted:

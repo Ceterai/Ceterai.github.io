@@ -17,6 +17,16 @@ Radiomessages on pickup:
 - The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 
+## Parameters
+
+### Vermilliada
+
+Generates periodic bursts of condenced burning energy using the enhanced energen, model "VerMi-6".
+
+### Physnade
+
+Launches a simple physical nade.
+
 ## Sources
 
 Can be crafted:

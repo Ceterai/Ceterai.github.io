@@ -15,6 +15,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Octavia's Wrath
+
+**WIP**. Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+You can hear harmonical humming coming from this instrument.
+
+### Melody Of The Stars
+
+Hold to perform a magical composition using the stardust energy.  
+Perhaps this isn't a very intended feature, but a very useful one instead.
+
 ## Sources
 
 Can be bought from merchants:

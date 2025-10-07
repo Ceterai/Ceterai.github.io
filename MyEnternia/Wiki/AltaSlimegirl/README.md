@@ -20,9 +20,10 @@ Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/stardust.png" alt="Stardust Glowstick icon" loading="lazy" width="auto" height="16px"/> [Stardust Glowstick](https://ceterai.github.io/MyEnternia/Wiki/StardustGlowstick) x*2* (weight: 0.1)
-- `reefshake` x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" width="auto" height="16px"/> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh) x*1* (weight: 0.1)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"/> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh) x*1* (weight: 0.1)
+- `reefshake` x*1* (weight: 0.25)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" width="auto" height="16px"/> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"/> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh) x*1* (weight: 0.05)
+- `seashell7` x*1* (weight: 0.1)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"/> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti) x*1* (weight: 0.05)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Crystal Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Crystal Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/CrystalIceCream) x*1* (weight: 0.05)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" width="auto" height="16px"/> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea) x*1* (weight: 0.05)

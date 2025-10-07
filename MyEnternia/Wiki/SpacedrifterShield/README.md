@@ -22,6 +22,11 @@ Radiomessages on pickup:
 - Cooldown: 0.9s
 - Knockback: 10
 
+### Ice Charge
+
+Raise to launch an Ice Shockwave, hold to charge a Traveling Ice Wave.
+Activate block fast enough (parry time) to perform a perfect block.
+
 ## Sources
 
 Found naturally in containers:

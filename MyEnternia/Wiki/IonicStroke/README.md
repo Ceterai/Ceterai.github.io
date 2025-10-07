@@ -1,7 +1,6 @@
 # Ionic Stroke
 
-Quickly degrades your energy. Once out of energy, damages you repeatedly with [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) electricity.  
-Alta: 
+Quickly degrades your energy. Once out of energy, damages you repeatedly with [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) electricity.
 
 Applied by following weather:
 

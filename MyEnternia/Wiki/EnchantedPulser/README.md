@@ -18,6 +18,15 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Super Wobblenaut
+
+The power has unleashed!
+Press - now 50% more accurate, 4 blasts instead of 3.
+Hold - the size of the Wobbleshot has increased.  
+It's important to not overhold to not create an out-of-control [miazma](https://ceterai.github.io/MyEnternia/Wiki/miazma). Thankfully, there seems to be a limiter preventing exactly that.
+
 ## Sources
 
 Can be bought from merchants:

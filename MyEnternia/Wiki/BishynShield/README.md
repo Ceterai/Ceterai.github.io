@@ -34,6 +34,12 @@ Applies effects on knockback:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"/> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned)
 
+### Redistribution
+
+Provides an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"/> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection) status effect when raised.  
+Inflicts <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"/> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned) on hit.  
+Activate block fast enough (parry time) to perform a perfect block.
+
 ## Sources
 
 Found naturally in containers:

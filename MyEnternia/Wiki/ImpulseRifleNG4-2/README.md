@@ -17,6 +17,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Impulse Blast
+
+An improved core allows for optimized energy manipulation.
+Firemodes: charge, semiauto, single.
+
+### Security Switch Mk2
+
+Adapted tool body offers more options.
+Press - change attachments: none, laser, stabilizer (x1.25 dmg);
+Hold - change firemodes.
+
 ## Sources
 
 Can be crafted:

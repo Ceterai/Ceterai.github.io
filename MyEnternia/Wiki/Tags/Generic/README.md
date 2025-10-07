@@ -1,10 +1,10 @@
 # Generic Tag
 
-The tag `generic` contains 109 total entries.
+The tag `generic` contains 108 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 97 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 96 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"/> [Alternia Crystal](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)
@@ -16,7 +16,6 @@ The tag `generic` contains 109 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" width="auto" height="16px"/> [Bulbonid](https://ceterai.github.io/MyEnternia/Wiki/Bulbonid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric5.png" alt="Bushy Kodorric Shroom icon" loading="lazy" width="auto" height="16px"/> [Bushy Kodorric Shroom](https://ceterai.github.io/MyEnternia/Wiki/BushyKodorricShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic4.png" alt="Cool Agaranic Shroom icon" loading="lazy" width="auto" height="16px"/> [Cool Agaranic Shroom](https://ceterai.github.io/MyEnternia/Wiki/CoolAgaranicShroom)
-- `ct_deprecation_station`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling2/icon.png" alt="Dripping Ayaka Sap Blob icon" loading="lazy" width="auto" height="16px"/> [Dripping Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/DrippingAyakaSapBlob)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/elin_bug/icon.png" alt="Elin Bug ★ icon" loading="lazy" width="auto" height="16px"/> [Elin Bug ★](https://ceterai.github.io/MyEnternia/Wiki/ElinBug)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" width="auto" height="16px"/> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)

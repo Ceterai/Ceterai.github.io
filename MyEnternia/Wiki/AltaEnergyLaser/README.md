@@ -4,6 +4,12 @@
 
 A disposable mining tool that drills with a focused microwave beam.
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
 ## Sources
 
 Can be crafted:

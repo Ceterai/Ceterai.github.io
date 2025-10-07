@@ -1,10 +1,10 @@
 # Common Tag
 
-The tag `common` contains 338 total entries.
+The tag `common` contains 337 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 203 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 202 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Emblem](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Emblem)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_agitate/icon.png" alt="Alta Agitational Stand icon" loading="lazy" width="auto" height="16px"/> [Alta Agitational Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaAgitationalStand)
@@ -81,7 +81,6 @@ The tag `common` contains 338 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic4.png" alt="Cool Agaranic Shroom icon" loading="lazy" width="auto" height="16px"/> [Cool Agaranic Shroom](https://ceterai.github.io/MyEnternia/Wiki/CoolAgaranicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crimson_tree.png" alt="Crimson Ayaka icon" loading="lazy" width="auto" height="16px"/> [Crimson Ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrimsonAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/calin/icon.png" alt="Crystal Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Crystal Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CrystalFlowerPot)
-- `ct_deprecation_station`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling2/icon.png" alt="Dripping Ayaka Sap Blob icon" loading="lazy" width="auto" height="16px"/> [Dripping Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/DrippingAyakaSapBlob)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/eds/body.png" alt="EDS Emblem icon" loading="lazy" width="auto" height="16px"/> [EDS Emblem](https://ceterai.github.io/MyEnternia/Wiki/EDSEmblem)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/terminal/icon.png" alt="EDS Terminal icon" loading="lazy" width="auto" height="16px"/> [EDS Terminal](https://ceterai.github.io/MyEnternia/Wiki/EDSTerminal)

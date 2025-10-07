@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Dual Blast
+
+Able to switch resulting energy from [plasma balls](https://ceterai.github.io/MyEnternia/Wiki/plasmaballs) to accelerated [ions](https://ceterai.github.io/MyEnternia/Wiki/ions).
+Firemodes: [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic).
+
+### Intertwined
+
+A bi-energy switch with additional attachments.
+Press - change attachments: none, laser, flashlight;
+Hold - change firemodes.
+
 ## Sources
 
 Can be bought from merchants:

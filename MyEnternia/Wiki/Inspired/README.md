@@ -1,7 +1,6 @@
 # Inspired
 
-Your mind is filled with ideas and the desire to make them a reality.  
-Alta: 
+Your mind is filled with ideas and the desire to make them a reality.
 
 ## Parameters
 

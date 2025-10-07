@@ -1,7 +1,6 @@
 # Elite Autoshielder
 
-Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" width="auto" height="16px"/> [Static Shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield) to you when your health is lower than 20%.  
-Alta: 
+Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" width="auto" height="16px"/> [Static Shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield) to you when your health is lower than 20%.
 
 Applied by following items:
 

@@ -6,6 +6,12 @@ Holds up to 3 friendly creatures in stasis in order to safely relocate them.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/relocator/icon_upg.png" alt="Relocator-M ★ icon" loading="lazy" width="auto" height="16px"/> [Relocator-M ★](https://ceterai.github.io/MyEnternia/Wiki/Relocator-M) at the Weapon Upgrade Anvil.
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
 ## Sources
 
 Can be crafted:

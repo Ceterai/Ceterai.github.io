@@ -7,6 +7,12 @@ Charge: 20 pumps.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" width="auto" height="16px"/> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX) at the Weapon Upgrade Anvil.
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
 ## Sources
 
 Can be crafted:

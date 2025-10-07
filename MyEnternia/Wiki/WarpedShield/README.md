@@ -25,6 +25,10 @@ Applies effects on knockback:
 
 - `weakpoison`
 
+### Venomous Sight
+
+Applies poison to its targets on knockback.
+
 ## Sources
 
 Can be bought from merchants:

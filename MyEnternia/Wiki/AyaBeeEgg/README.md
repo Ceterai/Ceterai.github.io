@@ -11,6 +11,13 @@ Species descriptions:
 
 - Alta: A cute little aya bee, ready to go eat some ripe ayas right from a tree.
 
+## Parameters
+
+### Small Bean
+
+This small critter or bug can be caught with a bug net and put in a bottle.  
+This will turn them into a collectable item valued by many collectionists, one of which could be yourself.
+
 ## Usage
 
 ### Crafting

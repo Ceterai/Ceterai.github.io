@@ -12,6 +12,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Superconductor Prime
+
+An advanced cooling mechanism that's able to generate a stream of cold gas mass with a 2x further reach.
+
 ## Sources
 
 Can be bought from merchants:

@@ -12,6 +12,15 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Starstrains
+
+This device now generates Staris Strains instead of plasmic ones:
+
+- max amount: 10 (instead of 8)
+- max length: 24 (instead of 20)
+
 ## Sources
 
 Can be bought from merchants:

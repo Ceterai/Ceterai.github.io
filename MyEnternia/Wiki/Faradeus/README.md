@@ -18,6 +18,12 @@ Radiomessages on pickup:
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 - Seems like the item you just picked up belongs to Faradea - an independent alta mercenary faction. Let's hope you don't find the previous owner of this item.
 
+## Parameters
+
+### Mission Clear
+
+Instructions are simple - just hold the trigger until mission is clear! For an experienced [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) merc this is the only outcome.
+
 ## Sources
 
 Found naturally in containers:

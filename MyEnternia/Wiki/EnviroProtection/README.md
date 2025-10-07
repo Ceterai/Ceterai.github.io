@@ -1,7 +1,6 @@
 # Enviro Protection
 
-Increases your [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) resistance by 15%.  
-Alta: 
+Increases your [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) resistance by 15%.
 
 Applied by following items:
 

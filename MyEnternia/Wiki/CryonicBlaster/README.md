@@ -15,6 +15,16 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Cryo-Blitz
+
+Swiftly projects a burst of icy plasma charges onto the targets.
+
+### Secondary Ability
+
+Launches a shrapnel blast pack.
+
 ## Sources
 
 Can be bought from merchants:

@@ -24,6 +24,11 @@ Radiomessages on pickup:
 - Cooldown: 0.9s
 - Knockback: 10
 
+### Ionic Stand
+
+Hold to lauch a traveling Ionic Wave.
+Activate block fast enough (parry time) to perform a perfect block.
+
 ## Sources
 
 Found naturally in containers:

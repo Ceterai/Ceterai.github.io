@@ -1,8 +1,7 @@
 # Ionized Air
 
 Slowly degrades your energy. Once out of energy, damages you repeatedly with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) strikes.  
-While in water, damages you regardless and twice as fast.  
-Alta: 
+While in water, damages you regardless and twice as fast.
 
 ## Parameters
 

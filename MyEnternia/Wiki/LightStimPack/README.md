@@ -30,19 +30,12 @@ Can be bought from merchants:
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 43 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 32 items)</summary>
 
 - [A.R.C.O. Security Guard](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.SecurityGuard)
-- [Alta Aegisalt Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaAegisaltProtecta)
 - [Alta Army Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaArmyCaptain)
 - [Alta Brigadier](https://ceterai.github.io/MyEnternia/Wiki/AltaBrigadier)
-- [Alta Copper Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaCopperGirl)
-- [Alta Diamond Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaDiamondProtecta)
-- [Alta Durasteel Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaDurasteelGirl)
-- [Alta Ferozium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaFeroziumProtecta)
 - [Alta Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard)
-- [Alta Impervium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaImperviumProtecta)
-- [Alta Iron Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaIronGirl)
 - [Alta Lab Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard)
 - [Alta Mechanic](https://ceterai.github.io/MyEnternia/Wiki/AltaMechanic)
 - [Alta Metrocop](https://ceterai.github.io/MyEnternia/Wiki/AltaMetrocop)
@@ -51,11 +44,7 @@ Can be bought from merchants:
 - [Alta Scout](https://ceterai.github.io/MyEnternia/Wiki/AltaScout)
 - [Alta Security Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCaptain)
 - [Alta Security Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityGuard)
-- [Alta Solarium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaSolariumProtecta)
 - [Alta Soldier](https://ceterai.github.io/MyEnternia/Wiki/AltaSoldier)
-- [Alta Titanium Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaTitaniumGirl)
-- [Alta Tungsten Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaTungstenGirl)
-- [Alta Violium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaVioliumProtecta)
 - [Arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight)
 - [Citadel Guard](https://ceterai.github.io/MyEnternia/Wiki/CitadelGuard)
 - [Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer)

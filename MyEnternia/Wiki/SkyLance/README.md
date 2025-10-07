@@ -12,6 +12,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Soneva Charge
+
+Ice-cold blasts swipe through the air.
+Firemodes: single, semiauto.
+
+### Sky Lancer
+
+[Arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight)'s arsenal.
+Press - change attachments: none, laser, stabilizer (x1.25 dmg);
+Hold - launch an Icy Cloud Nade.
+
 ## Sources
 
 Found naturally in containers:

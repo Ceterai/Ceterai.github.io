@@ -17,6 +17,13 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Super Toolset
+
+**WIP**. Launch a grapple blade (broken). Hold to enter a mining state.  
+In full, the toolset includes a pick end, a chop end, a retractable switch end, incarvings for attachments, a keyring, a retractable long handle and an inner slot for small parts or other things. It also has proper isolation, fully protecting the wielder from possible contact hazards.
+
 ## Sources
 
 Can be crafted:

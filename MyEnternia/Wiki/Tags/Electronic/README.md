@@ -1,10 +1,10 @@
 # Electronic Tag
 
-The tag `electronic` contains 48 total entries.
+The tag `electronic` contains 47 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 42 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 41 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_agitate/icon.png" alt="Alta Agitational Stand icon" loading="lazy" width="auto" height="16px"/> [Alta Agitational Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaAgitationalStand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
@@ -35,7 +35,6 @@ The tag `electronic` contains 48 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/terminal/icon.png" alt="Bishyn Terminal icon" loading="lazy" width="auto" height="16px"/> [Bishyn Terminal](https://ceterai.github.io/MyEnternia/Wiki/BishynTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/clubdecks/icon.png" alt="Calin Club Decks icon" loading="lazy" width="auto" height="16px"/> [Calin Club Decks](https://ceterai.github.io/MyEnternia/Wiki/CalinClubDecks)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/terminal/icon.png" alt="Calin Terminal icon" loading="lazy" width="auto" height="16px"/> [Calin Terminal](https://ceterai.github.io/MyEnternia/Wiki/CalinTerminal)
-- `ct_deprecation_station`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/status_pods/defense_pod/icon.png" alt="EDS Defense Pod icon" loading="lazy" width="auto" height="16px"/> [EDS Defense Pod](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensePod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/energy_condenser/icon.png" alt="EDS Dispensing Pod icon" loading="lazy" width="auto" height="16px"/> [EDS Dispensing Pod](https://ceterai.github.io/MyEnternia/Wiki/EDSDispensingPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/lifechamber/icon.png" alt="EDS Lifechamber icon" loading="lazy" width="auto" height="16px"/> [EDS Lifechamber](https://ceterai.github.io/MyEnternia/Wiki/EDSLifechamber)

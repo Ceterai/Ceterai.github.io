@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Ceternia Tea ★ icon" loading="lazy" width="auto" height="16px"/> **Ceternia Tea ★** is an uncommon drink.
 
 Perhaps a tad too much life in this one. You can feel its stare and menacing presence.  
-Freshly made from various roots and flowers commonly found in [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/yaaragroves), like [ialistas](https://ceterai.github.io/MyEnternia/Wiki/ialistas), [bayuns](https://ceterai.github.io/MyEnternia/Wiki/bayuns) and [caloyas](https://ceterai.github.io/MyEnternia/Wiki/caloyas).
+Freshly made from various roots and flowers commonly found in [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove), like [ialistas](https://ceterai.github.io/MyEnternia/Wiki/ialistas), [bayuns](https://ceterai.github.io/MyEnternia/Wiki/bayuns) and [caloyas](https://ceterai.github.io/MyEnternia/Wiki/caloyas).
 
 ## Ingame
 

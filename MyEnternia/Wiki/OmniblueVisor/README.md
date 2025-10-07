@@ -37,19 +37,12 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
 - <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"/> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 45 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 34 items)</summary>
 
 - [A.R.C.O. Security Guard](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.SecurityGuard)
-- [Alta Aegisalt Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaAegisaltProtecta)
 - [Alta Army Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaArmyCaptain)
 - [Alta Brigadier](https://ceterai.github.io/MyEnternia/Wiki/AltaBrigadier)
-- [Alta Copper Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaCopperGirl)
-- [Alta Diamond Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaDiamondProtecta)
-- [Alta Durasteel Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaDurasteelGirl)
-- [Alta Ferozium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaFeroziumProtecta)
 - [Alta Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard)
-- [Alta Impervium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaImperviumProtecta)
-- [Alta Iron Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaIronGirl)
 - [Alta Lab Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard)
 - [Alta Mechanic](https://ceterai.github.io/MyEnternia/Wiki/AltaMechanic)
 - [Alta Metrocop](https://ceterai.github.io/MyEnternia/Wiki/AltaMetrocop)
@@ -59,11 +52,7 @@ Found naturally in containers:
 - [Alta Security Android](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityAndroid)
 - [Alta Security Captain](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCaptain)
 - [Alta Security Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityGuard)
-- [Alta Solarium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaSolariumProtecta)
 - [Alta Soldier](https://ceterai.github.io/MyEnternia/Wiki/AltaSoldier)
-- [Alta Titanium Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaTitaniumGirl)
-- [Alta Tungsten Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaTungstenGirl)
-- [Alta Violium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaVioliumProtecta)
 - [Arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight)
 - [Citadel Guard](https://ceterai.github.io/MyEnternia/Wiki/CitadelGuard)
 - [Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer)

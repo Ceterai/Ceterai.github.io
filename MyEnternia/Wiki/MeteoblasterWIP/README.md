@@ -12,6 +12,16 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Meteoblast
+
+Launches powerful meteorite shards called [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera)'s Shards.
+
+### Secondary Ability
+
+Alternative ability of the item, activated with right mouse button.
+
 ## Sources
 
 Found naturally in containers:

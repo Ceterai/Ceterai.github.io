@@ -12,6 +12,20 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Phosiblast
+
+Creates bursts of Phosic Blasts.
+Press - burst with irradiated fireballs;
+Hold - burst with Phosic Blasts.
+
+### Phosic Patronage
+
+This weapon is packed with nades.
+Press - launch a Sticky Firenade;
+Hold - burst with Fire Mines.
+
 ## Sources
 
 Found naturally in containers:

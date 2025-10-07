@@ -12,6 +12,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Slime Blast
+
+Press to squirt slime! Hold to charge up sizeable [isoslime balls](https://ceterai.github.io/MyEnternia/Wiki/isoslimeballs), but be careful - they're quite messy.
+
 ## Sources
 
 Found naturally in containers:

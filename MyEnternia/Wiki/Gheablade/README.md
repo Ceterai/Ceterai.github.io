@@ -17,6 +17,14 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Gheaflux
+
+**WIP**. A sequence of 3 light strikes. Hold to perform a Heavy Slash.
+Enters a charged state every 10 seconds, making next 4 hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
+Each piece of gheatsyn in proximity starts to slowly resonate with the blade of the tool...
+
 ## Sources
 
 Found naturally in containers:

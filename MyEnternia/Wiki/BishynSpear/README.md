@@ -17,6 +17,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Bishyn Blade
+
+**WIP**. A sequence of 3 light strikes. Hold to perform a Hold Strike.
+Enters a charged state every 10 seconds, making next 4 hits deal bonus [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) damage.  
+The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are [diamonds](https://ceterai.github.io/MyEnternia/Wiki/Tags/Diamond) and [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals.
+
+### Spearing
+
+Hold to perform a rocket spear ability.  
+This technology is part of the design, however not without flaws. It requires an energy source to function, but has poor compatibility with usual alta tech.
+
 ## Sources
 
 Found naturally in containers:

@@ -21,6 +21,17 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Plasmic Razor
+
+The rim of this tool is made out of plasma. Can provide up to 4 combo hits, with the last 2 applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"/> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).  
+The combo itself is very familiar to any alta soldier as it follows standard [combat protocols](https://ceterai.github.io/MyEnternia/Wiki/combatprotocols).
+
+### Energy Aura
+
+Hold to create an Energy Aura.
+
 ## Sources
 
 Can be crafted:

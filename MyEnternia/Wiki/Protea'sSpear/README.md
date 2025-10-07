@@ -17,6 +17,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Protea's Gift
+
+A sequence of 4 (+1) light strikes. Hold to perform a Super Heavy Slash.
+Hold to launch yourself into the air.  
+With enhanced capabilities, the tool is able to concentrate enough energy to produce additional output, mainly in form of small, ionized clouds.
+
+### Stardust Seeker
+
+Rotates the spear rapidly and launches it forward on release. Now 30% faster charge and flying speed.  
+This is due to the enhancement allowing more stardust to go through and fill up with energy much quicker, but it also means higher energy costs in return for speed and power.
+
 ## Sources
 
 Can be bought from merchants:

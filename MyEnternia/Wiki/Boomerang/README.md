@@ -3,7 +3,7 @@
  **Boomerang** is a common boomerang.
 
 A simple alta toy with powerful thrusters. You won't use it for hurting anyone, right?  
-Its simple shape and common alta colors make it a staple in alta culture and a common item at [alterash riverside](https://ceterai.github.io/MyEnternia/Wiki/alterashriverside) resorts.
+Its simple shape and common alta colors make it a staple in alta culture and a common item at [alterash riverside](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides) resorts.
 
 ## Ingame
 

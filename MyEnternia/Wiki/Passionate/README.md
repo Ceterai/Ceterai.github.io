@@ -1,7 +1,6 @@
 # Passionate
 
-An amazing feeling of being in the moment over something you enjoy.  
-Alta: 
+An amazing feeling of being in the moment over something you enjoy.
 
 Applied by following items:
 

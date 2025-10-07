@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### Careful
+
+Will avoid the battle if confronted. Will charge at enemy and explode on destruction.  
+It's not cowardous to be able to properly assess the situation.
+
+### Protective Drone
+
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoprotector.png" alt="Autoprotector icon" loading="lazy" width="auto" height="16px"/> [Autoprotector](https://ceterai.github.io/MyEnternia/Wiki/Autoprotector), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"/> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller).
+Deals [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) damage on touch, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis).  
+Has medium armor mostly made from titanium, and thus might appear slightly bulkier in size, and provides additional assistance as opposed to regular protected drones.
+
 ## Sources
 
 Found naturally in containers:

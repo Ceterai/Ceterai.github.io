@@ -1,7 +1,6 @@
 # Energy Generator
 
-Constantly replenishes your energy by 2% each second.  
-Alta: 
+Constantly replenishes your energy by 2% each second.
 
 <details markdown="1"><summary>Applied by following items: (Expand 7 items)</summary>
 

@@ -66,7 +66,6 @@ Given as rent by tenants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
-- [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 
 Drops from destroyed obstacles:

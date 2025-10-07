@@ -17,6 +17,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Plasma Blast
+
+A standard [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) discharger.
+Firemodes: auto, semiauto, single.
+
+### Combat Switch
+
+A combat-specific set of functions.
+Press - launch a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_plasma_nade.png" alt="Plasma Nade icon" loading="lazy" width="auto" height="16px"/> [Plasma Nade](https://ceterai.github.io/MyEnternia/Wiki/PlasmaNade);
+Hold - change firemodes.
+
 ## Sources
 
 Can be crafted:

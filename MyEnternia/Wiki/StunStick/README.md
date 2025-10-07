@@ -18,6 +18,13 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Plasmic Halter
+
+**WIP**. A sequence of 3 light stun strikes. Hold to perform a Halter Strike.  
+The retractable **springrope** holding the head of the stunstick 
+
 ## Sources
 
 Can be crafted:

@@ -11,6 +11,18 @@ Species descriptions:
 
 - Alta: Its tiny crystal looks like it's about to tip the snail over...
 
+## Parameters
+
+### Critter
+
+Critters can be _relocated_ with a _relocator_, and some of them _drop resources_ when hunted down with a _bow_.  
+Look if the critter's shell or outer layer has grow a crystal or bionic matter on it, and remove it carefully to not damage the critter.
+
+### Small Bean
+
+This small critter or bug can be caught with a bug net and put in a bottle.  
+This will turn them into a collectable item valued by many collectionists, one of which could be yourself.
+
 ## Usage
 
 ### Crafting

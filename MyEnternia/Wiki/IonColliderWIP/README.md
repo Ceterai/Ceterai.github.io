@@ -10,6 +10,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Wobblenaut
+
+Weird enchanted innards make this weapon shoot bursts or [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) plasma on the button press, and launch weird wobbly [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) spheres on hold.
+
 ## Sources
 
 Found naturally in containers:

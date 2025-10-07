@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### ^#20f080;Elite^reset; Arsenal
+
+Can launch semi-auto bursts of 4 [Pulsings](https://ceterai.github.io/MyEnternia/Wiki/Pulsings) or charge up a powerful [Proto-Pulsar](https://ceterai.github.io/MyEnternia/Wiki/Proto-Pulsar). Will charge at enemy and explode on destruction.  
+Such arsenal was designed to work under most environmental conditions.
+
+### ^#20f080;Elite^reset; Armor
+
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder).
+Deals physical damage on touch.  
+Heavy armor comes with increased overall mass, as well as higher armor rates.
+
 ## Usage
 
 ### Crafting

@@ -17,6 +17,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Dual Resonation
+
+A sequence of 4 (+1) heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/BladeCharge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab)  
+Full resonation engaged! A perfect viona anomaly to rule them all.
+
+### Enchanted Resonation
+
+Raises an electric pillar in front of you.  
+With increased power comes increased gravity of the situation you're in, and increased risk of sudden mini-anomalies, or **miazmas**.
+
 ## Sources
 
 Can be bought from merchants:

@@ -10,6 +10,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Lunar Guardian
+
+An ability that launches a controllable chakram using integrated mechanisms.
+
 ## Sources
 
 Can be bought from merchants:

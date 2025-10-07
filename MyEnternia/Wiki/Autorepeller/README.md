@@ -1,7 +1,6 @@
 # Autorepeller
 
-Launches an [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) wave around you whenever you're hit.  
-Alta: 
+Launches an [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) wave around you whenever you're hit.
 
 Applied by following items:
 

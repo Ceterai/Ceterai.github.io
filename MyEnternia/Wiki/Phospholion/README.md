@@ -45,6 +45,10 @@ Species descriptions:
 
 Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222215988/C71087FFAD0A5FB9FE3532EC34F3A2D2D37DD7B7/" alt="Tier 2 Mine icon" width="14.5" height="8.125"/> [Tier 2 Mine Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
 
+### Refining
+
+Can be refined in a <img src="https://starbounder.org/mediawiki/images/2/2a/Refinery.gif" alt="Refinery icon" width="12" height="12"/> [Refinery](https://starbounder.org/Refinery) into pixels.
+
 ## Sources
 
 Can be crafted:

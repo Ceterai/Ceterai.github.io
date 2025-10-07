@@ -15,6 +15,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Clear Crackling Cut
+
+The energy-generated "blade" of this tool deals electric damage on impact. Be careful!
+
 ## Sources
 
 Can be crafted:

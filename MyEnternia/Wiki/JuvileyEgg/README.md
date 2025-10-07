@@ -11,6 +11,13 @@ Species descriptions:
 
 - Alta: Holding a live juviley in your hand feels very heartwarming and nice.
 
+## Parameters
+
+### Small Bean
+
+This small critter or bug can be caught with a bug net and put in a bottle.  
+This will turn them into a collectable item valued by many collectionists, one of which could be yourself.
+
 ## Usage
 
 ### Crafting

@@ -15,6 +15,16 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Cavegrace
+
+The aerodynamic shape of the horn allows to make smooth, yet slow hits on the target.
+
+### Secondary Ability
+
+Launches a poison wave, dealing damage to all targets in its path.
+
 ## Sources
 
 Found naturally in containers:

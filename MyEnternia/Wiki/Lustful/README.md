@@ -1,7 +1,6 @@
 # Lustful
 
-I think you had enough of sweet drinks.  
-Alta: 
+I think you had enough of sweet drinks.
 
 Applied by following items:
 

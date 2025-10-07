@@ -15,6 +15,13 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Neoload
+
+A standard neo arsenal feature - press the button for short semiauto bursts of plasma, hold for a charged shotgun shot.  
+The imported mechanisms used in this blaster are able to concentrate energy and then separate it into physical pellets.
+
 ## Sources
 
 Can be crafted:

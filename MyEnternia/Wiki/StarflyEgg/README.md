@@ -11,6 +11,13 @@ Species descriptions:
 
 - Alta: It feels pretty sturdy to the touch, and leaves some stardust glitter on you when it leaves.
 
+## Parameters
+
+### Small Bean
+
+This small critter or bug can be caught with a bug net and put in a bottle.  
+This will turn them into a collectable item valued by many collectionists, one of which could be yourself.
+
 ## Usage
 
 ### Crafting

@@ -17,6 +17,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Perfect Strike
+
+A sequence of 4 _(+1)_ heavy strikes. Hold to perform an _Fang Discharge_.  
+The fin is pretty heavy, so any of this might take some additional effort.
+
+### Steelspin
+
+Hold to perform an electric Super Spin Slash.  
+The inertia makes it much easier to execute then regular attacks.
+
 ## Sources
 
 Can be bought from merchants:

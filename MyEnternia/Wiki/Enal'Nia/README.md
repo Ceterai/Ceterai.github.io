@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Nia Blast
+
+Generates powerful blasts of plasma with accelerated ions.
+Firemodes: burst, semiauto.
+
+### Nia Erea Desit
+
+Enhance the spread of energy flowing through this blaster.
+Press - change attachments: none, laser, flashlight;
+Hold - launch Electro-Cloud Nade.
+
 ## Sources
 
 Can be bought from merchants:

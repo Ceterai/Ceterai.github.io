@@ -12,6 +12,19 @@ Radiomessages on pickup:
 - The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 
+## Parameters
+
+### One-Blast Snipe
+
+Easy, frequent silenced shots are the main advantage.
+Firemodes: single, semiauto.
+
+### Elerune Tactics
+
+Tools tuned for tactical operations.
+Press - change attachments: none, laser, stabilizer (x1.25 dmg);
+Hold - change firemodes.
+
 ## Sources
 
 Found naturally in containers:

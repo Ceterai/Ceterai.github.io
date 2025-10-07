@@ -7,6 +7,12 @@ Charge: 200 blocks.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/quick_builder/icon_upg.png" alt="Enhanced Builder ★ icon" loading="lazy" width="auto" height="16px"/> [Enhanced Builder ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedBuilder) at the Weapon Upgrade Anvil.
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
 ## Sources
 
 Can be crafted:

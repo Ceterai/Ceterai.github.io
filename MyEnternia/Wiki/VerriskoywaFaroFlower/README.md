@@ -79,6 +79,10 @@ Can be bought from merchants:
 
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 
+Given as rent by tenants:
+
+- [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)

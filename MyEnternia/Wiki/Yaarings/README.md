@@ -55,11 +55,10 @@ Can be bought from merchants:
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 11 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 10 items)</summary>
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
-- [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
 - [Yaara Merchant](https://ceterai.github.io/MyEnternia/Wiki/YaaraMerchant)

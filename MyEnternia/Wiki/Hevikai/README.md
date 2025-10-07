@@ -12,8 +12,7 @@ Important notes:
 - hevikai strips you of [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) (if you have it) and decreases your [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) by 20%.
 
 This effect might come in use to be able to survive on [Enterash Prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime).  
-This effect can be artificially induced using a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack).  
-Alta: 
+This effect can be artificially induced using a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack).
 
 Applied by following items:
 

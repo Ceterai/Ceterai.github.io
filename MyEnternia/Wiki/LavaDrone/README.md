@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### Fire Cannon
+
+Can charge up a powerful [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) rocket. Periodically disperses [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) clouds around it. Will explode with [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) particles on destruction.  
+Using the heat from outside environment, it can generate according charges with a set of properly configured <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore).
+
+### Magma-Robot
+
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics).
+Deals [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage on touch, applying [Burning](https://ceterai.github.io/MyEnternia/Wiki/Burning).  
+Due to used materials and airtight design, it's almost completely resistant to lava.
+
 ## Sources
 
 Can be bought from merchants:

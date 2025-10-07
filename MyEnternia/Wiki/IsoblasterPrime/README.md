@@ -12,6 +12,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Slime Barrage
+
+Press to burst with slime! Hold to charge up a semiauto burst of [isoslime balls](https://ceterai.github.io/MyEnternia/Wiki/isoslimeballs). Now charges 40% faster too.
+
 ## Sources
 
 Can be bought from merchants:

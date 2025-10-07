@@ -1,7 +1,6 @@
 # Crystal-Poisoned
 
-Decreases your electric and poison resistance by 15%.  
-Alta: 
+Decreases your electric and poison resistance by 15%.
 
 <details markdown="1"><summary>Applied by following items: (Expand 8 items)</summary>
 

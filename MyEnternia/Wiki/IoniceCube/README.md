@@ -52,6 +52,10 @@ Species descriptions:
 
 </details>
 
+### Liquid Extraction
+
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x0000025E4508D7C0>` (if you have it installed).
+
 ## Sources
 
 Blueprint unlocked by obtaining:

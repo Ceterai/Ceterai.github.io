@@ -1,7 +1,6 @@
 # Bored
 
-It feels like an infinity...  
-Alta: 
+It feels like an infinity...
 
 Applied by following items:
 

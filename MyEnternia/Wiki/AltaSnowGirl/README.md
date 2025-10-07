@@ -6,7 +6,7 @@ An alta cosplaying as a snowgirl. Nothing to see here. Move along.
 
 - Category: casual
 - Possible species: alta
-- Colony tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light) (1), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door) (1), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) (10), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) (18)
+- Colony tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light) (1), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door) (1), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) (12), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) (24)
 
 ## Tenant
 

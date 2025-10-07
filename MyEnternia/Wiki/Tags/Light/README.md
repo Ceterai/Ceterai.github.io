@@ -1,6 +1,6 @@
 # Light Tag
 
-The tag `light` contains 226 total entries.
+The tag `light` contains 228 total entries.
 
 ## Objects
 
@@ -50,7 +50,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 175 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 177 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -60,6 +60,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 - [Alta Administrator](https://ceterai.github.io/MyEnternia/Wiki/AltaAdministrator)
 - [Alta Aegisalt Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaAegisaltProtecta)
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Albino Shark Cosplayer](https://ceterai.github.io/MyEnternia/Wiki/AltaAlbinoSharkCosplayer)
 - [Alta Alien Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaAlienGirl)
 - [Alta Android](https://ceterai.github.io/MyEnternia/Wiki/AltaAndroid)
 - [Alta Archaeologist](https://ceterai.github.io/MyEnternia/Wiki/AltaArchaeologist)
@@ -144,6 +145,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 - [Alta Security Officer](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityOfficer)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 - [Alta Shadow Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaShadowGardener)
+- [Alta Shark Cosplayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSharkCosplayer)
 - [Alta Slimegirl](https://ceterai.github.io/MyEnternia/Wiki/AltaSlimegirl)
 - [Alta Snow Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowGirl)
 - [Alta Social Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker)

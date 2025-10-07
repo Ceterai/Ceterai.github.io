@@ -1,8 +1,7 @@
 # Ionoblockade
 
 Adds 18% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity).  
-With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRework) - adds immunity to [Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic) and [Deadly Static](https://ceterai.github.io/MyEnternia/Wiki/DeadlyStatic).  
-Alta: 
+With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRework) - adds immunity to [Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic) and [Deadly Static](https://ceterai.github.io/MyEnternia/Wiki/DeadlyStatic).
 
 Applied by following items:
 

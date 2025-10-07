@@ -17,6 +17,19 @@ Radiomessages on pickup:
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### Transformer
+
+Will fire semi-auto bursts of 3 [ionic charges](https://ceterai.github.io/MyEnternia/Wiki/ioniccharges) when in range. Will transform into an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" width="auto" height="16px"/> [EDS droid](https://ceterai.github.io/MyEnternia/Wiki/EDSDroid) on low health.  
+If one approach wasn't effective enough, it will try a different one...
+
+### Basic Drone
+
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics).
+Deals physical damage on touch.  
+Basic drones and droids usually don't have any kind of energy shields or armor regeneration, and cannot see targets through liquids.
+
 ## Sources
 
 Can be crafted:

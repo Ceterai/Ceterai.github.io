@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Ionic Blast
+
+Fires multiple [Ionic Charges](https://ceterai.github.io/MyEnternia/Wiki/IonicCharges) on activation.
+Firemodes: burst, semiauto.
+
+### Tactical Ambush
+
+Full set of tools to be ready.
+Press - change attachments: none, laser, flashlight, stabilizer (x1.25 dmg);
+Hold - launch an Electro-Cloud Nade.
+
 ## Sources
 
 Can be crafted:

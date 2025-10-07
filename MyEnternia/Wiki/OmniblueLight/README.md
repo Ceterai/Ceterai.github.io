@@ -1,7 +1,6 @@
 # Omniblue Light
 
-Creates a slight beam of special blue light in front of you. Acts as a head lamp.  
-Alta: 
+Creates a slight beam of special blue light in front of you. Acts as a head lamp.
 
 <details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
 

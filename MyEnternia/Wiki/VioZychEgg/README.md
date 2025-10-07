@@ -11,6 +11,13 @@ Species descriptions:
 
 - Alta: Is it true that these bugs are slowly gathering all the energies around them, and mixing them together? Is that what makes viona meadows become enchanted?
 
+## Parameters
+
+### Small Bean
+
+This small critter or bug can be caught with a bug net and put in a bottle.  
+This will turn them into a collectable item valued by many collectionists, one of which could be yourself.
+
 ## Usage
 
 ### Crafting

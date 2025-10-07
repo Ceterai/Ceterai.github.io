@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### Careful
+
+Will avoid the battle if confronted. Will charge at enemy and explode on destruction.  
+It's not cowardous to be able to properly assess the situation.
+
+### Alert Drone
+
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), Bright Visor.
+Deals physical damage on touch.  
+Will call in reinforcements on alert.
+
 ## Sources
 
 Can be crafted:

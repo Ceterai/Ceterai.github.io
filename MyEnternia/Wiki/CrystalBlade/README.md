@@ -17,6 +17,14 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Crystal Might
+
+A sequence of 4 (+1) light strikes. Hold to perform a [Trail Dash](https://ceterai.github.io/MyEnternia/Wiki/TrailDash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).  
+Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
+The new energy flow is able to concentrate faster, building up at the impact rim.
+
 ## Sources
 
 Can be bought from merchants:

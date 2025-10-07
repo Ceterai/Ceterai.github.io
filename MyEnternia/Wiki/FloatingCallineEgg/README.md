@@ -11,6 +11,18 @@ Species descriptions:
 
 - Alta: It glows in the dark slightly... More, than usual charged crystals...
 
+## Parameters
+
+### Critter
+
+Critters can be _relocated_ with a _relocator_, and some of them _drop resources_ when hunted down with a _bow_.  
+Look if the critter's shell or outer layer has grow a crystal or bionic matter on it, and remove it carefully to not damage the critter.
+
+### Glowing Elemental
+
+Elementals can be caught with a bugnet and thrown again to act as a glowstick!  
+The shape of the elemental doesn't change, but be careful while throwing it.
+
 ## Sources
 
 Obtained by capturing creatures with any **bugnet**:

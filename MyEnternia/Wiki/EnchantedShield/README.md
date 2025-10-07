@@ -23,6 +23,10 @@ Applies effects on knockback:
 
 - `frostslow`
 
+### Freezing Sight
+
+Applies slowness to its targets on knockback.
+
 ## Sources
 
 Can be bought from merchants:

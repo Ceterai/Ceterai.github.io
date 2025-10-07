@@ -17,6 +17,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Protocharge
+
+**WIP**. A sequence of 3 light strikes. Hold to launch yourself into the air.  
+This set of strikes was taught to most altas by Protea herself. It combines speed and proper attacking directions, compensating for a lack of sharpness.
+
+### Energy Seeker
+
+Rotates the spear rapidly and launches it forward on release.  
+Unlike most special abilities, this technique doesn't just simply consume energy - it transforms it into the very charges used to launch it forward.
+
 ## Sources
 
 Found naturally in containers:

@@ -1,7 +1,6 @@
 # Confused
 
-You have no idea what's happening.  
-Alta: 
+You have no idea what's happening.
 
 Applied by following items:
 

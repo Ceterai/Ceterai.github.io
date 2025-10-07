@@ -1,7 +1,6 @@
 # Autoprotector
 
-Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" width="auto" height="16px"/> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection) to you when your health is lower than 30%.  
-Alta: 
+Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" width="auto" height="16px"/> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection) to you when your health is lower than 30%.
 
 Applied by following items:
 

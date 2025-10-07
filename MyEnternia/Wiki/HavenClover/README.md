@@ -18,6 +18,14 @@ Radiomessages on pickup:
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 - The item you just got seems to have come for alterash haven - flowery areas on alterash planets that tend to have higher levels of toxicity than surrounding nature. Although it equals to toxicity levels on most green planets, it's not a usual sight here, so I would recommend being careful.
 
+## Parameters
+
+### Colorstrike
+
+A sequence of 4 (+1) light strikes. Hold to perform a Super Heavy Slash.
+Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus electric damage.  
+The clover concentrates its power on the ends of the petals, making them more yellow than ever.
+
 ## Sources
 
 Can be bought from merchants:

@@ -13,6 +13,18 @@ Radiomessages on pickup:
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 - The item you just got seems to have come for alterash haven - flowery areas on alterash planets that tend to have higher levels of toxicity than surrounding nature. Although it equals to toxicity levels on most green planets, it's not a usual sight here, so I would recommend being careful.
 
+## Parameters
+
+### Toxin Core
+
+The poisonous generator of this cannon makes it spread toxic plasma on activation.
+
+### Ex-Pollinator
+
+This cannon is able to accumulate so much energy it can create toxin clouds.
+Press to release toxins around you;
+Hold to charge a slow powerful cloud.
+
 ## Sources
 
 Found naturally in containers:

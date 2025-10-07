@@ -17,6 +17,13 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Emergency
+
+A set of emergency tools to save a scout's life. Press the button to create a discharge that will stun a monster, or hold it to launch an [Emergencer Signal](https://ceterai.github.io/MyEnternia/Wiki/EmergencerSignal).  
+These signals are generated from an energy charge produced by putting effort on the respective triggering levers. It also consumes part of acquired energy from the suit if available, as well as the slowly-recharging energy cells.
+
 ## Usage
 
 ### Crafting

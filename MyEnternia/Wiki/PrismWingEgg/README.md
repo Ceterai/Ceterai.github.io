@@ -11,6 +11,13 @@ Species descriptions:
 
 - Alta: It's so calm... Doesn't even try to fly away. I guess it doesn't see me as a threat? That's a pleasant thought.
 
+## Parameters
+
+### Small Bean
+
+This small critter or bug can be caught with a bug net and put in a bottle.  
+This will turn them into a collectable item valued by many collectionists, one of which could be yourself.
+
 ## Usage
 
 ### Crafting

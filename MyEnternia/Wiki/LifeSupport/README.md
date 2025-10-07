@@ -1,7 +1,6 @@
 # Life Support
 
-Constantly heals you by 2% each second.  
-Alta: 
+Constantly heals you by 2% each second.
 
 Applied by following items:
 

@@ -10,6 +10,20 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Ionic Barrage
+
+Covers the target in [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) strikes.
+Press - a shotgun burst of Paired [Ionic Charges](https://ceterai.github.io/MyEnternia/Wiki/IonicCharges);
+Hold - charges an electric Ion Rocket.
+
+### Ion Discharge
+
+Has an inbuilt ion discharger.
+Press - energy discarge in form of 3 [Ion Blasts](https://ceterai.github.io/MyEnternia/Wiki/IonBlasts);
+Hold - launch an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ionic_nade.png" alt="Ion Nade icon" loading="lazy" width="auto" height="16px"/> [Ion Nade](https://ceterai.github.io/MyEnternia/Wiki/IonNade).
+
 ## Sources
 
 Can be crafted:

@@ -10,6 +10,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Nata's Impulse
+
+Blasts accelerated [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) enhanced with plasma. Hold to charge up power, speed and knockback.
+
+### Nata's Havoc
+
+Everything else you need in a blaster.
+Press - change attachments: none, laser, stabilizer (x1.25 dmg);
+Hold - launch a Shockbomb.
+
 ## Sources
 
 Can be bought from merchants:

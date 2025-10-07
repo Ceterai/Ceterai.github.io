@@ -15,6 +15,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### ^#20f080;Elite^reset; Formation
+
+**WIP**. Hold to hold out the stunner.  
+All elite guards operating a stunner are trained in a way to get the most of this tool capabilities.
+
+### Stunnerhalt
+
+Creates an electric barrier in front of you.  
+A function designed to set up a line of defense and protection whenever needed.
+
 ## Sources
 
 Can be crafted:

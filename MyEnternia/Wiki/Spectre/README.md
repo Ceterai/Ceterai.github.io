@@ -15,6 +15,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Spectral Tear
+
+A sequence of 3 heavy strikes. Each strike changes the element. Hold to create a [Traveling Slash](https://ceterai.github.io/MyEnternia/Wiki/TravelingSlash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+The element changes are affecting the _Spectral Tear_ immediately, but might take time to spread onto [Spectral Wave](https://ceterai.github.io/MyEnternia/Wiki/SpectralWave) as well.
+
+### Spectral Wave
+
+Launches an elemental shockwave. The element is affected by the main ability, but needs a reset to go in action.  
+This ability creates a vertical spectral projection that imitates a pillar of elemental matter. It requires a significant amount of energy to do so.
+
 ## Sources
 
 Can be bought from merchants:

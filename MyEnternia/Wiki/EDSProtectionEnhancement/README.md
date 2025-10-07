@@ -1,7 +1,6 @@
 # EDS Protection Enhancement
 
-Adds 15% electric resistance and 3 defense.  
-Alta: 
+Adds 15% electric resistance and 3 defense.
 
 Applied by following items:
 

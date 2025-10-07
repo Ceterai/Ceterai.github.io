@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Koywa Loot Crate** is a common loot item.
 
-Contains random loot from [alterash riversides](https://ceterai.github.io/MyEnternia/Wiki/alterashriversides) and [flooded alterash caves](https://ceterai.github.io/MyEnternia/Wiki/floodedalterashcaves) chests.  
+Contains random loot from [alterash riversides](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides) and [flooded alterash caves](https://ceterai.github.io/MyEnternia/Wiki/FloodedAlterashCaves) chests.  
 Mostly beach-related and swimming attire. These crates can commonly be found on riverside resorts as rentable beach packs, but can be used for other purposes too.
 
 ## Ingame

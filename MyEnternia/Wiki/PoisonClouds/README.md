@@ -1,7 +1,6 @@
 # Poison Clouds
 
-Periodically burst with poisonous clouds.  
-Alta: 
+Periodically burst with poisonous clouds.
 
 Applied by following items:
 

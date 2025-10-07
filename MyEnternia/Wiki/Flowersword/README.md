@@ -18,6 +18,14 @@ Radiomessages on pickup:
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 - The item you just got seems to have come for alterash haven - flowery areas on alterash planets that tend to have higher levels of toxicity than surrounding nature. Although it equals to toxicity levels on most green planets, it's not a usual sight here, so I would recommend being careful.
 
+## Parameters
+
+### Havencolor
+
+**WIP**. A sequence of 3 light strikes. Hold to perform a Heavy Slash.
+Enters a charged state every 10 seconds, making next 4 hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
+This sword's fibres are thriving with oxigen and ceternia energy, producing waves of toxic impulses that provide additional power to each hit.
+
 ## Sources
 
 Found naturally in containers:

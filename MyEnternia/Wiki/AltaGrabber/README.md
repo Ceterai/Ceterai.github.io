@@ -6,6 +6,12 @@ Holds a friendly creature in stasis in order to safely relocate it.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/grabber/icon_upg.png" alt="Multigrabber ★ icon" loading="lazy" width="auto" height="16px"/> [Multigrabber ★](https://ceterai.github.io/MyEnternia/Wiki/Multigrabber) at the Weapon Upgrade Anvil.
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
 ## Sources
 
 Can be crafted:

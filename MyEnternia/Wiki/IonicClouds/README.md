@@ -1,7 +1,6 @@
 # Ionic Clouds
 
-Periodically burst with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) clouds.  
-Alta: 
+Periodically burst with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) clouds.
 
 Applied by following items:
 

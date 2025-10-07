@@ -26,6 +26,11 @@ Applies effects when raised:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" width="auto" height="16px"/> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator)
 
+### Power Activation
+
+Provides an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" width="auto" height="16px"/> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator) status effect when raised.
+Activate block fast enough (parry time) to perform a perfect block.
+
 ## Sources
 
 Can be bought from merchants:

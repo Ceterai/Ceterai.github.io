@@ -1,8 +1,7 @@
 # Electroblockade
 
 Adds 15% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) and [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).  
-With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRework) - adds immunity to [Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic).  
-Alta: 
+With [Starburst Rework](https://ceterai.github.io/MyEnternia/Wiki/StarburstRework) - adds immunity to [Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic).
 
 Applied by following items:
 

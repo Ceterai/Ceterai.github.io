@@ -24,6 +24,10 @@ Radiomessages on pickup:
 - Cooldown: 0.7s
 - Knockback: 16
 
+### Armored Shield
+
+Activate block fast enough (parry time) to perform a perfect block.
+
 ## Sources
 
 Found naturally in containers:

@@ -17,6 +17,13 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Gheablast
+
+Tsyntex under phosic pressure allows to launch semiauto bursts of impulses on press, and create [gheatsyn charges](https://ceterai.github.io/MyEnternia/Wiki/gheatsyncharges) on hold.  
+This was proven less effective against rogue or annoying drones, but more so towards unsuspecting poi, who didn't deserve this. Should never be used against altas too.
+
 ## Sources
 
 Can be crafted:

@@ -14,6 +14,16 @@ Radiomessages on pickup:
 - Beware of the warped items you just acquired. Warped is a form of wild growth found mainly on alterash planets, that tends to spread uncontrollably and contaminate everything in its path.  
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
+### Secondary Ability
+
+Alternative ability of the item, activated with right mouse button.
+
 ## Sources
 
 Can be bought from merchants:

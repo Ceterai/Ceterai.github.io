@@ -15,6 +15,17 @@ Radiomessages on pickup:
 
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### Friendly Helper
+
+This small robotic helper was designed to help altas in their daily work, and thus isn't a threat.  
+Can be relocated with a Relocator.
+
+### Persistent
+
+Whenever you leave, it will wait for you to come back! _(Doesn't despawn.)_
+
 ## Sources
 
 Found naturally in containers:

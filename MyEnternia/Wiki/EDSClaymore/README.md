@@ -17,6 +17,16 @@ Radiomessages on pickup:
 - The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 
+## Parameters
+
+### Bastion Strike
+
+A sequence of _3_ heavy strikes. Hold to perform a [Rising Slash](https://ceterai.github.io/MyEnternia/Wiki/RisingSlash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).
+
+### Elerune CDR Blast
+
+Launches stabilizing Ion Rockets that deal electric damage.
+
 ## Usage
 
 ### Crafting

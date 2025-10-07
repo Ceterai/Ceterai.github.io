@@ -1,7 +1,6 @@
 # Curious
 
-Ohh, what's that?  
-Alta: 
+Ohh, what's that?
 
 Applied by following items:
 

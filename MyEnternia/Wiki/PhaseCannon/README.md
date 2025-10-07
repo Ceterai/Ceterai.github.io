@@ -15,6 +15,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Phasebeam
+
+A powerful beam of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, able to polarize everything in its path.  
+A powerful generator is able to produce a continous stream while using a relatively small amount of energy.
+
+### Phase Charge
+
+Charges up a sphere and launches it forward at a low speed.  
+This sphere is a point of concentrated energy, able to exist for a prolonged periods of time.
+
 ## Sources
 
 Can be bought from merchants:

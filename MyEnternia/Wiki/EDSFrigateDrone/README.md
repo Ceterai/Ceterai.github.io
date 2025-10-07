@@ -17,6 +17,19 @@ Radiomessages on pickup:
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 - Seems like you've acquired an Alta Robotic, or simply a Drone Spawner. You can activate it to deploy a friendly drone (or droid). Unfortunately, you won't be able to further control it or deactivate it back.
 
+## Parameters
+
+### Drone Spawner
+
+Constantly spawns <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"/> [minidrones](https://ceterai.github.io/MyEnternia/Wiki/Minidrone) when aggroed. Will turn into [empty frigate drone](https://ceterai.github.io/MyEnternia/Wiki/emptyfrigatedrone) on low health by releasing a [defensive drone](https://ceterai.github.io/MyEnternia/Wiki/defensivedrone).  
+It's hard to imagine all these tiny drones are being constructed on the fly.
+
+### EDS Drone
+
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" width="auto" height="16px"/> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_rocket_aimbot.png" alt="EDS Rocket Aimbot icon" loading="lazy" width="auto" height="16px"/> [EDS Rocket Aimbot](https://ceterai.github.io/MyEnternia/Wiki/EDSRocketAimbot).
+Deals physical damage on touch.  
+Its heavy armored structure was designed and manufactured by EDS.
+
 ## Sources
 
 Can be bought from merchants:

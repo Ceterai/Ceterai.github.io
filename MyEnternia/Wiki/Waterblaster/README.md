@@ -4,6 +4,12 @@
 
 Shoots happy water sprinkles. Hold LMB to charge a water balloon!
 
+## Parameters
+
+### Waterblast
+
+Press to squirt some water or hold to launch a water ball!
+
 ## Sources
 
 Found naturally in containers:

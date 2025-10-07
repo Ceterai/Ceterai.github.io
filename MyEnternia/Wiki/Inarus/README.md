@@ -12,6 +12,13 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Staris Chakram
+
+This ability makes chakram's owner able to manipulate its trajectory.
+Now has more distance and spin time.
+
 ## Sources
 
 Can be bought from merchants:

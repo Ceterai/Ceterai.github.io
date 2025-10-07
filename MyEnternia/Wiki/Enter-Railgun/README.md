@@ -15,6 +15,16 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Avida-Rail
+
+Creates powerful ionic charges able to quicly travel on significant distances thanks to advanced rail technology.
+
+### Avida's Mark
+
+Markes the taget to assist in aiming. Pretty useful with such a heavy thing.
+
 ## Sources
 
 Can be crafted:

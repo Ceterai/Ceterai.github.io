@@ -17,6 +17,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Sinara's Blade
+
+A sequence of 4 (+1) heavy strikes. Hold to perform a Super Spin Slash.  
+This refined, almost razor-sharp blade spins in your hand, creating a light show with its reflective surface, signing off in a dance of destruction.
+
+### Sinara's Blast
+
+Hold to perform a Blink Explosion.  
+This abrupt release of energy leads to an even more effective result.
+
 ## Sources
 
 Can be bought from merchants:

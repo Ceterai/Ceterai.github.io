@@ -1,7 +1,5 @@
 # Thorn Burst
 
-Alta: 
-
 ## Parameters
 
 - Default Duration: 60s

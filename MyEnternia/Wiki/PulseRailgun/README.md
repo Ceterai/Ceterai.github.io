@@ -17,6 +17,16 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
+### Secondary Ability
+
+Alternative ability of the item, activated with right mouse button.
+
 ## Sources
 
 Can be bought from merchants:

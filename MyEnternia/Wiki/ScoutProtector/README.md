@@ -17,6 +17,15 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Extra Emergency
+
+An improved set of emergency tools. Now includes a flashlight.
+Press - the discharge now dissipates 4x longer.
+Hold - 2x Emergencer Signals, now also charges 30% faster.  
+All enhanced capabilities are partially achieved due to the slightly increased size of the tool, allowing for more energy cell elements and receptors.
+
 ## Sources
 
 Can be bought from merchants:

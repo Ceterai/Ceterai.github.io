@@ -4,6 +4,12 @@
 
 A big net that uses different light bion compounds for its handle and net itself.
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
 ## Sources
 
 Can be crafted:

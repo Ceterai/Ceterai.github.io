@@ -14,6 +14,12 @@ Radiomessages on pickup:
 - Beware of the warped items you just acquired. Warped is a form of wild growth found mainly on alterash planets, that tends to spread uncontrollably and contaminate everything in its path.  
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
 
+## Parameters
+
+### Venomous Kiss
+
+Exposes its tentacles one by one, each touch equally dangerous.
+
 ## Sources
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).

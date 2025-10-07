@@ -10,6 +10,20 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Icy Spikes
+
+Sona energy flows within this tool.
+Press - a semiauto burst of [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) plasma;
+Hold - launches an Ice Burster.
+
+### Armored Crest
+
+Brontorous defences powered by [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse).
+Press - launches a [Proto-Pulsar](https://ceterai.github.io/MyEnternia/Wiki/Proto-Pulsar);
+Hold - a shotgun burst of Sticky Plasma.
+
 ## Sources
 
 Found naturally in containers:

@@ -12,6 +12,16 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Bishyn Barrage
+
+[Bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) crystals are poisonous - they deal physical damage while applying special effects. Press to burst with shards, hold for a shard discharge.
+
+### Bishyn Discharge
+
+A powerful poisonous discharge - press for a shotgun-like burst of poison, hold to launch a proximity mine.
+
 ## Sources
 
 Found naturally in containers:

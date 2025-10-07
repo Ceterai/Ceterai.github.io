@@ -17,6 +17,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Impulse Blast
+
+A standard [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) blast with high precision.
+Firemodes: charge, semiauto.
+
+### Security Switch
+
+All a security unit needs with a rifle.
+Press - change attachments: none, flashlight;
+Hold - change firemodes.
+
 ## Sources
 
 Can be bought from merchants:

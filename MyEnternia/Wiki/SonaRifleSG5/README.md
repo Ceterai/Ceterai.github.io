@@ -17,6 +17,21 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Cryo Blast
+
+Phosicore of this weapon can produce sona energy.  
+Firemodes: burst, auto, charge.  
+Letting it hold on the charge mode will produce a cryoplasma rocket and launch it at a decent speed.
+
+### Tactical Cryonics
+
+A set of functions for tavriya environments.  
+Press - launch an Ice Cloud Nade;  
+Hold - change firemodes.  
+Works especially well against targets vulnerable to low temperatures.
+
 ## Sources
 
 Found naturally in containers:

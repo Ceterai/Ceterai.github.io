@@ -1,6 +1,6 @@
 # Ocean Tag
 
-The tag `ocean` contains 1 total entries.
+The tag `ocean` contains 3 total entries.
 
 ## Objects
 
@@ -12,6 +12,8 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Ocean](https
 
 Following tenants require this colony tag:
 
+- [Alta Albino Shark Cosplayer](https://ceterai.github.io/MyEnternia/Wiki/AltaAlbinoSharkCosplayer)
 - [Alta Oceanologist](https://ceterai.github.io/MyEnternia/Wiki/AltaOceanologist)
+- [Alta Shark Cosplayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSharkCosplayer)
 
 ## Items

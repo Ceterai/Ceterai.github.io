@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Ark Flight
+
+**WIP**. A sequence of 4 (+1) light strikes. Hold to perform a Super Heavy Slash. Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus electric damage.  
+This smooth flow of circular swings helps you stay in balance regardless of you position. The halberd also has an in-built impulse compensator to account for the electric busrts.
+
+### Aeroflux
+
+Performs a spear flurry.  
+A quick elemental superhit performed with an electric halberd.
+
 ## Sources
 
 Can be bought from merchants:

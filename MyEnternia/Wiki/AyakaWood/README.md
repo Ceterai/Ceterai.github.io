@@ -142,6 +142,10 @@ Unlocks blueprints for:
 
 Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222210874/D1234F8997CB79002D71C6D025A022E401BD3979/" alt="Tier 1 Farm icon" width="14.5" height="8.125"/> [Tier 1 Farm Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
 
+### Refining
+
+Can be refined in a <img src="https://starbounder.org/mediawiki/images/2/2a/Refinery.gif" alt="Refinery icon" width="12" height="12"/> [Refinery](https://starbounder.org/Refinery) into pixels.
+
 ## Sources
 
 Blueprint unlocked by obtaining:

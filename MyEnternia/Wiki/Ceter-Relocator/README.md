@@ -4,6 +4,12 @@
 
 Holds up to 4 friendly creatures in stasis in order to safely relocate them.
 
+## Parameters
+
+### Primary Ability
+
+Main ability of the item, activated with left mouse button.
+
 ## Sources
 
 Can be crafted:

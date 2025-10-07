@@ -11,6 +11,18 @@ Radiomessages on pickup:
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 - Seems like the item you just picked up belongs to Faradea - an independent alta mercenary faction. Let's hope you don't find the previous owner of this item.
 
+## Parameters
+
+### Monster Hunter
+
+This blaster fires rare, powerful blasts. Perfect for hunting down a huge monster.
+
+### Scavenger's Arsenal
+
+A scavenger is ready for everything.
+Press - change attachments: none, flashlight, laser, stabilizer (x1.25 dmg);
+Hold - launch a Static Nade.
+
 ## Sources
 
 Found naturally in containers:

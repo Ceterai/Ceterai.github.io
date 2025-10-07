@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" width="auto" height="16px"/> **Barracuda's Fin** is an uncommon two-handed broadsword.
 
 All what's left from a mysterious beast. If it's this big, who knows what a giant this was...  
-**Staris Ghura**, or the **Barracuda**, is a smaller subspecies of a powerful moster species of **Megasharks**, known by altas as **Kaghurao**. Cudas can get small enough to be able to live in [alterash riversides](https://ceterai.github.io/MyEnternia/Wiki/alterashriversides) and [flooded alterash caves](https://ceterai.github.io/MyEnternia/Wiki/floodedalterashcaves), but such a sight is still pretty rare, therefore finding a trophy like this is quite an accomplisment.
+**Staris Ghura**, or the **Barracuda**, is a smaller subspecies of a powerful moster species of **Megasharks**, known by altas as **Kaghurao**. Cudas can get small enough to be able to live in [alterash riversides](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides) and [flooded alterash caves](https://ceterai.github.io/MyEnternia/Wiki/FloodedAlterashCaves), but such a sight is still pretty rare, therefore finding a trophy like this is quite an accomplisment.
 
 Barracudas' fins are pretty powerful and surprisingly easy to swing, and the sturdy bone spikes are hard enough to dent some metals.
 
@@ -18,6 +18,18 @@ Species descriptions:
 Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
+
+## Parameters
+
+### Jaw Strike
+
+A sequence of 3 heavy strikes. Hold to perform a _Fang Discharge_.  
+The fin is pretty heavy, so any of this might take some additional effort.
+
+### Finspin
+
+Hold to perform a Spin Slash.  
+The inertia makes it much easier to execute then regular attacks.
 
 ## Sources
 

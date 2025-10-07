@@ -17,6 +17,14 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Gheaflux Prime
+
+A sequence of 4 (+1) light strikes. Hold to perform a Super Heavy Slash.
+Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus electric damage.  
+The clover concentrates its power on the ends of the petals, making them more yellow than ever.
+
 ## Sources
 
 Can be bought from merchants:

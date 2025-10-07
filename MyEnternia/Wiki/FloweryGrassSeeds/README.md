@@ -40,6 +40,10 @@ Can be bought from merchants:
 - [Alta Poner](https://ceterai.github.io/MyEnternia/Wiki/AltaPoner)
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
 
+Given as rent by tenants:
+
+- [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
+
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/other/seed.png" alt="Alta Seed Pack icon" loading="lazy" width="auto" height="16px"/> [Alta Seed Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedPack)

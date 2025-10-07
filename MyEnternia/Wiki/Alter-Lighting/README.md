@@ -15,6 +15,18 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Primary Ability
+
+An energy crack that deals electric damage at the point of culmination, but also deals half-damage on general collision.  
+This is only possible with the use of advanced power redirectors and multiple alter-spheres.
+
+### Secondary Ability
+
+Quicly launch an energy charge forward. Can bounce off of surfaces.  
+It requires a significant amount of power to generate, thus leaving no place for smaller adjacent features.
+
 ## Sources
 
 Can be crafted:

@@ -99,6 +99,14 @@ Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc
 
 Can be used in transmutation studies in the <img src="https://steamuserimages-a.akamaihd.net/ugc/778476510222210874/D1234F8997CB79002D71C6D025A022E401BD3979/" alt="Tier 1 Farm icon" width="14.5" height="8.125"/> [Tier 1 Farm Transmutation Table](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104) or higher (if you have Equivalent Exchange installed).
 
+### Liquid Extraction
+
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x0000025E4508D520>` (if you have it installed).
+
+### Refining
+
+Can be refined in a <img src="https://starbounder.org/mediawiki/images/2/2a/Refinery.gif" alt="Refinery icon" width="12" height="12"/> [Refinery](https://starbounder.org/Refinery) into pixels.
+
 ## Sources
 
 Blueprint unlocked by obtaining:

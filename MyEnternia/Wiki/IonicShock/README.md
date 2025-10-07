@@ -1,7 +1,6 @@
 # Ionic Shock
 
-Repeatedly damages you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) electricity. Having [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity) blocks the effect, [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.  
-Alta: 
+Repeatedly damages you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) electricity. Having [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity) blocks the effect, [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.
 
 Applied by following items:
 

@@ -1,7 +1,6 @@
 # Force Shield
 
-An energy shield that will expire once broken or overtime.  
-Alta: 
+An energy shield that will expire once broken or overtime.
 
 Applied by following items:
 

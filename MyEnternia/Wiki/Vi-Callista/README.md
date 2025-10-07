@@ -23,6 +23,10 @@ Applies effects on knockback:
 
 - <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"/> [Electrified](https://starbounder.org/Electrified)
 
+### Vi-Charged Panels
+
+Applies [Electrified](https://ceterai.github.io/MyEnternia/Wiki/Electrified) to its targets on knockback.
+
 ## Sources
 
 Can be bought from merchants:

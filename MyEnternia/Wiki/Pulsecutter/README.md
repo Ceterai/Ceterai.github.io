@@ -12,6 +12,12 @@ Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
 
+## Parameters
+
+### Minicharges
+
+Launches a series of small cutting [Pulsings](https://ceterai.github.io/MyEnternia/Wiki/Pulsings) on press and charges a proper long [Impulse Charge](https://ceterai.github.io/MyEnternia/Wiki/ImpulseCharge) on hold.
+
 ## Sources
 
 Can be crafted:

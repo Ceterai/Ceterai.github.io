@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Enchanted Loot Crate** is an uncommon loot item.
 
-Contains random loot from [enchanted meadow](https://ceterai.github.io/MyEnternia/Wiki/enchantedmeadow) chests.  
+Contains random loot from [enchanted meadow](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadows) chests.  
 Better be cautious, since the create is full of items contaminated with unstable [vionia](https://ceterai.github.io/MyEnternia/Wiki/vionia).
 
 ## Ingame
