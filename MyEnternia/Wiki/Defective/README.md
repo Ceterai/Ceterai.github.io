@@ -4,12 +4,16 @@ Repeatedly damages enemies around you with electricity. Damage is dependant on y
 
 ## Parameters
 
-- Default Duration: 0s
-- Effect parameters: 
+Default Duration:  
+Effect parameters:
 
-- Animation: 
-
-  - Particles: `sparks`- Bolt Interval: 1.0- Jump Distance: 2- Damage From Max Health: `True`- Damage From Max Health Percent: 0.05- Damage Clamp: `True`
+- Animation:
+  - Particles:  `sparks`
+- Bolt Interval: 1.0
+- Jump Distance: 2
+- Damage From Max Health: `True`
+- Damage From Max Health Percent: 0.05
+- Damage Clamp: `True`
 
 ## Technical Information
 

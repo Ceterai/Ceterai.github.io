@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> **Bionid** is an uncommon crafting material.
 
 These biocrystals are a complex combination of cells and crystal molecules called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid). Can be refined into different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound).  
-This organic material is often obtained from biocrystal growth, like tonnovas, bulbonid stems, and rarely in form of simple deposits. It's natural luminescent abilities make it easy to detect, but it's complex bion connectios require special tools break apart. For this reason, materials made from bion compounds are very sturdy and agile, making it perfect for producing things like bulletproof cloth.
+This organic material is often obtained from biocrystal growth, like tonnovas, bulbonid stems, and rarely in form of simple deposits. It's natural luminescent abilities make it easy to detect, but it's complex bion connections require special tools to break apart. For this reason, materials made from bion compounds are very sturdy and agile, making it perfect for producing things like bulletproof cloth.
 
 Bionid is a natural <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" width="auto" height="16px"/> [bionic](https://ceterai.github.io/MyEnternia/Wiki/Bionics), and its bioluminescent glow comes from its ability to effectively turn energy into light-producing chemical reactions.  
 Even if not really crystallic, alta commonly call its more structured variations an organic crystal, or **biotsyn**. These variations are often found in [tonnovas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova), as opposed to a more "pure" variant that can be found in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" width="auto" height="16px"/> [bulbonid](https://ceterai.github.io/MyEnternia/Wiki/Bulbonid) stems.
@@ -20,7 +20,7 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 13 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_bionid_augment.png" alt="Bionid Augment icon" loading="lazy" width="auto" height="16px"/> [Bionid Augment](https://ceterai.github.io/MyEnternia/Wiki/BionidAugment)
@@ -30,6 +30,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" width="auto" height="16px"/> [Bulbonid](https://ceterai.github.io/MyEnternia/Wiki/Bulbonid)
 - `ct_aid_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"/> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_spiral_tree.png" alt="Tonnova Spiral icon" loading="lazy" width="auto" height="16px"/> [Tonnova Spiral](https://ceterai.github.io/MyEnternia/Wiki/TonnovaSpiral)

@@ -21,7 +21,8 @@ An automated security turret powered by hevika crystals.
 
 ## Parameters
 
-- Slot Count: 0  
+- Slot Count:
+
 - Health: 8
 
 This object **doesn't drop itself** when broken.

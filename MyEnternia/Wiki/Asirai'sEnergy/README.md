@@ -4,10 +4,13 @@ Damages nearby enemies with electricity.
 
 ## Parameters
 
-- Default Duration: 0.8s
-- Effect parameters: 
+Default Duration: 0.8s  
+Effect parameters:
 
-- Bolt Interval: 0.5- Jump Distance: 10- Health Damage Factor: 0.1- Damage Clamp Range: 5, 15
+- Bolt Interval: 0.5
+- Jump Distance: 10
+- Health Damage Factor: 0.1
+- Damage Clamp Range:  5,  15
 
 ## Technical Information
 

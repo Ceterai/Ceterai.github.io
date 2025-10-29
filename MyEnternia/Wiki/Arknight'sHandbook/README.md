@@ -15,6 +15,24 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+According to the [Arknight Protocol](https://ceterai.github.io/MyEnternia/Wiki/ArknightProtocol), my duties include patrolling, general help and coordination, as well as emergencies and missions.
+
+As a proper [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight), I should be able to quickly recognize threats and respond to other altas' calls for help.
+
+On regular patrolling, I should be aware of my surroundings both in above and below, on the ground.
+
+In case a threat occurs on the ground, I can use the deploy pod, a manual dispatch, or an evamech if I'm in a squad.
+
+In case of a threat from above, I can use an AAP (anti-airthreat protection) to neutralize the threat.
+
+On group missions, I should always coordinate with my squad to bring us success.
+
+I should also be aware of general information regarding the region I'm in so I can help lost altas find their home.
+
+Every [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) matters.
+
 ## Usage
 
 ### Crafting

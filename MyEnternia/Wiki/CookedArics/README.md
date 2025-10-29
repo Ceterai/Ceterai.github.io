@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Arics icon" loading="lazy" width="auto" height="16px"/> **Cooked Arics** is a common dish.
 
 Simple cooked edible arics. While they are quite easy to cook, it takes some proficiency to prepare them because aof possible microtoxins.  
-These are usualy made in large portions, roasted in a high-temperature grill, spiced, and often sliced down before serving.
+These are usually made in large portions, roasted in a high-temperature grill, spiced, and often sliced down before serving.
 
 ## Ingame
 
@@ -14,7 +14,6 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects: 
 
 ## Sources
 

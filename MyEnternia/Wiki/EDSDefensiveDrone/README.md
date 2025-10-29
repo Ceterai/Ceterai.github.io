@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/defensive.png" alt="EDS Defensive Drone ★ icon" loading="lazy" width="auto" height="16px"/> **EDS Defensive Drone ★** is a legendary throwable item.
 
-Hightech reinforced drone, model R300. Has powerful ranged attacks and protective shields.  
+High-tech reinforced drone, model R300. Has powerful ranged attacks and protective shields.  
 Another staple of technological advancement for altas. However, fully relying on unstable energy is rarely a good option, so this model leaves room for improvement.
 
 ## Ingame

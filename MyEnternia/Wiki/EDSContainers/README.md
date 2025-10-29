@@ -21,7 +21,8 @@ An [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) crate containing ca
 
 ## Parameters
 
-- Slot Count: 24  
+- Slot Count: 24
+
 - Health: 4.0
 
 ## Usage

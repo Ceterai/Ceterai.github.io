@@ -20,13 +20,16 @@ Applied by following items:
 
 ## Parameters
 
-- Blocking Stat: `hevikaiStatusImmunity`
-- Default Duration: 600s
-- Effect parameters: 
+Blocking Stat: `hevikaiStatusImmunity`  
+Default Duration: 600s  
+Effect parameters:
 
-- Animation: 
-
-  - Particles: `ember`- Semi Immunity: `plasmaStatusImmunity`- Radio Message: `ct_hevikai_msg`- Electric Resistance: -0.2- Remove Electric Status Immunity: `True`
+- Animation:
+  - Particles:  `ember`
+- Semi Immunity: `plasmaStatusImmunity`
+- Radio Message: `ct_hevikai_msg`
+- Electric Resistance: -0.2
+- Remove Electric Status Immunity: `True`
 
 ## Technical Information
 

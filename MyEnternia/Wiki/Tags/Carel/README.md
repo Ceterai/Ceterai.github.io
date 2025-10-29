@@ -1,12 +1,16 @@
 # Carel Tag
 
-The tag `carel` contains 8 total entries.
+The tag `carel` contains 12 total entries.
 
 ## Objects
 
 Following objects have this colony tag:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/boosted/icon.png" alt="Boosted Carel Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Carel Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedCarelSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/pod/icon.png" alt="Carel Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Carel Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CarelEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/sapling/icon.png" alt="Carel Sapling icon" loading="lazy" width="auto" height="16px"/> [Carel Sapling](https://ceterai.github.io/MyEnternia/Wiki/CarelSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/cultivated/icon.png" alt="Cultivated Carel Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Carel Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedCarelSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/eco/icon.png" alt="Eco Carel Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Carel Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCarelSapling)
 
 ## Tenants
 

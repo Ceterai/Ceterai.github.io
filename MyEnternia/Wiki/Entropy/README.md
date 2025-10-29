@@ -21,11 +21,35 @@ Radiomessages on pickup:
 
 Provides full auto cannon bursts of high-velocity [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) that are able to pierce through targets.
 
+Parameters:
+
+- Class: `AltaRanged`
+- Base Dps: 9
+- Energy Usage: 36
+- Fire Time: 0.5
+- Press Type: `burst`
+- Press Params:
+  - Type: `ct_impulse_medium`
+  - Count: 5
+- Hold Time Max:
+
 ### Troposwitch
 
 Troposphere analog as core.
 Press - change attachments: none, laser, flashlight;
 Hold - perform an Impulse Discharge.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 9
+- Energy Usage: 40
+- Fire Time: 0.1
+- Hold Type: `discharge`
+- Hold Params:
+  - Type: `ct_impulse_wave_blast`
+- Press Attachments: `True`
+- Attachments:  `none`,  `flashlight`,  `stabilizer`
 
 ## Sources
 

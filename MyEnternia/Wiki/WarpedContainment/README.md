@@ -18,6 +18,28 @@ These can either be crafted or found in random alta pods on alterash planets.
 - Beware of the warped items you just acquired. Warped is a form of wild growth found mainly on alterash planets, that tends to spread uncontrollably and contaminate everything in its path.  
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
 
+### Contents
+
+[Warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) growth is an uncontrollable, constantly mutating and slowly expanding plant matter.
+
+While mostly harmless by itself, the dangers of warped climate comes from both expansion and other warped-compatible life that appears in it.
+
+It's very hard to control the warped expansion, but it can be contained with certain precautions.
+
+Still, its containment is one of primary goals as of right now, since it endangers [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove) it expands on.
+
+The warped growth itself consists of [glow fibres](https://ceterai.github.io/MyEnternia/Wiki/glowfibres) and [yonnur](https://ceterai.github.io/MyEnternia/Wiki/yonnur).
+
+[Yonnur](https://ceterai.github.io/MyEnternia/Wiki/Yonnur) is a bioluminescent liquid that is often used by altas for illumination, in things like an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_purple_icon.png" alt="Alta Lab Capsule With Yonnur icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Capsule With Yonnur](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithYonnur).
+
+In order to properly contain the growth, all glow fibre veins and bulbs containing yonnur need to be properly frozen or curdled.
+
+This can be done via specialized alta devices, or with cryogenic materials like [cryonic extracts](https://ceterai.github.io/MyEnternia/Wiki/cryonicextracts) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
+
+As for the warped-compatible life, it includes venomous plants like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" width="auto" height="16px"/> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" width="auto" height="16px"/> [warped hives](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive), [warped hive trees](https://ceterai.github.io/MyEnternia/Wiki/warpedhivetrees) and monsters like [warped flies](https://ceterai.github.io/MyEnternia/Wiki/warpedflies), [bruteflies](https://ceterai.github.io/MyEnternia/Wiki/bruteflies), [warped sporgus](https://ceterai.github.io/MyEnternia/Wiki/warpedsporgus), [warped anglures](https://ceterai.github.io/MyEnternia/Wiki/warpedanglures), but it can also contain mostly harmless plants, like [archulins](https://ceterai.github.io/MyEnternia/Wiki/archulins).
+
+[Archulins](https://ceterai.github.io/MyEnternia/Wiki/Archulins) are bitter berries that can be used as cooking ingredients for simple alta dishes like [archilibites](https://ceterai.github.io/MyEnternia/Wiki/archilibites).
+
 ## Usage
 
 ### Crafting

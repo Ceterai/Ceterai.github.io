@@ -27,6 +27,20 @@ A sequence of 4 (+1) light strikes. Hold to perform a Super Heavy Slash.
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus electric damage.  
 Filled with Estria's pheromones and venom, these attacks present a lesser threat to robotic creatures, but are quite effective against pretty much anyone else.
 
+Parameters:
+
+- Hold Damage Config:
+  - Timeout Group: `hold`
+  - Timeout: 0.5
+- Damage Config:
+  - Damage Source Kind: `<elementalType>spear`
+  - Knockback Mode: `aim`
+  - Knockback: 10
+  - Timeout Group: `primary`
+- Fire Time: 0.6
+- Hold Damage Multiplier: 0.1
+- Base Dps: 12
+
 ### Circles Of Lust
 
 Hold to perform a venom-spreading spear spin.  

@@ -15,6 +15,18 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Viona energy, or vionia for short, is a magical whirlpool of energies, that comes together to create a miracle. Each miracle is a surprise, and can be pretty unpredictable, if you're not very careful.
+
+Sometimes silly little altas might get careless and play with vionia and forget about caution. A pretty floating miazma will appear, and start slowly glowing with magic of the unknown.
+
+And right when the magic reaches its peak, the miracle will happen! The colorful miazmas will cover enchanted little alta in sparkles and lights, and something about her will change.
+
+She will look at herself in the mirror, and realize that she now has a pair of fluffy animal ears, or shiny fur all over her body! Horns, tails, funny eyes, just about anything could happen!
+
+So be careful, silly altas, and don't play with vionia and tricky miazmas too much!
+
 ## Usage
 
 ### Crafting

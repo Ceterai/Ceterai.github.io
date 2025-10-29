@@ -23,5 +23,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_felistraza_art`
 - Power: `3.0`
 - Rarity: `Rare`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/objects/alta/special/paintings/ct_felistraza_art.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/paintings/ct_felistraza_art.object)

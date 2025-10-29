@@ -21,11 +21,21 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Vermilliada
 
-Generates periodic bursts of condenced burning energy using the enhanced energen, model "VerMi-6".
+Generates periodic bursts of condensed burning energy using the enhanced energen, model "VerMi-6".
+
+Parameters:
+
+- Projectile Type: `fireplasma`
+- Base Dps: 10
+- Energy Usage: 40
 
 ### Physnade
 
 Launches a simple physical nade.
+
+Parameters:
+
+- Projectile Type: `grenade`
 
 ## Sources
 

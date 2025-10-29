@@ -22,7 +22,8 @@ Viona riversides, also known as Enchanted Beaches, are riverbends and lake crate
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `colourfulstem`
 - Foliage/Cap: `colourfulpalm`
 

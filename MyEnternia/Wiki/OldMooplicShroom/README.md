@@ -8,7 +8,7 @@ A very weary <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/o
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: The worn down looks of the mooplic in this eco chamber are actually a common occurance.
+- Alta: The worn down looks of the mooplic in this eco chamber are actually a common occurrence.
 - Apex: I can plant this to grow a tree.
 - Avian: I can grow a tree by planting this sapling.
 - Floran: Floran plant cute sssapling, grow big bad evil tree!
@@ -21,7 +21,8 @@ A very weary <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/o
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_shady_old`
 - Foliage/Cap: `ct_mooplic`
 

@@ -18,6 +18,20 @@ Intergrated tech that allows you to take control of 3 [Plasmic Orbs](https://cet
 Press - launch a [Plasmic Orb](https://ceterai.github.io/MyEnternia/Wiki/PlasmicOrb);
 Hold - create a Plasma Shield.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.33
+- Type: `ct_plasmorb`
+- Params:
+  - Return On Hit: `True`
+  - Ignore Terrain:
+  - Control Force: 140
+  - Pickup Distance: 1.5
+  - Snap Distance: 4.0
+- Shield Knockback: 10
+
 ## Sources
 
 Can be crafted:

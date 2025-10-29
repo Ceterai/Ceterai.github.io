@@ -19,13 +19,14 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"/> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 50 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 52 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" width="auto" height="16px"/> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/android_head/icon.png" alt="C.T. Android Head ★ icon" loading="lazy" width="auto" height="16px"/> [C.T. Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.AndroidHead)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png" alt="C.T. Mindframe ★ icon" loading="lazy" width="auto" height="16px"/> [C.T. Mindframe ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.Mindframe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" width="auto" height="16px"/> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" width="auto" height="16px"/> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
+- `congealedAcid`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crunchy Pie icon" loading="lazy" width="auto" height="16px"/> [Crunchy Pie](https://ceterai.github.io/MyEnternia/Wiki/CrunchyPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" width="auto" height="16px"/> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Crystal Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Crystal Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/CrystalIceCream)
@@ -59,6 +60,7 @@ Unlocks blueprints for:
 - <img src="https://starbounder.org/mediawiki/images/1/1d/Javelin.png" alt="Javelin icon" loading="lazy" width="27px" height="3px"/> [Javelin](https://starbounder.org/Javelin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"/> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" width="auto" height="16px"/> [Neo Blaster](https://ceterai.github.io/MyEnternia/Wiki/NeoBlaster)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle.png" alt="Plasma Rifle NG5 icon" loading="lazy" width="auto" height="16px"/> [Plasma Rifle NG5](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"/> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/captain_helmet/icon.png" alt="Security Captain's Helmet ★ icon" loading="lazy" width="auto" height="16px"/> [Security Captain's Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptain'sHelmet)
@@ -76,7 +78,7 @@ Unlocks blueprints for:
 
 ### Liquid Extraction
 
-Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x0000025E4508D3D0>` (if you have it installed).
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x000001DE510F0DA0>` (if you have it installed).
 
 ### Refining
 

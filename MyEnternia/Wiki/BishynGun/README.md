@@ -18,9 +18,45 @@ Radiomessages on pickup:
 
 [Bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) crystals are poisonous - they deal physical damage while applying special effects. Press to burst with shards, hold for a shard discharge.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.9
+- Press Type: `burst`
+- Press Params:
+  - Type: `ct_bishyn_shard`
+  - Inaccuracy: 0.18
+  - Params:
+    - Knockback: 20
+    - Time To Live: 5.0
+- Hold Type: `clouds`
+- Hold Params:
+  - Type: `ct_bishyn_shard`
+  - Inaccuracy: 1.81
+  - Count: 12
+
 ### Bishyn Discharge
 
 A powerful poisonous discharge - press for a shotgun-like burst of poison, hold to launch a proximity mine.
+
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 36
+- Fire Time: 0.9
+- Press Type: `burst`
+- Press Params:
+  - Type: `acidsweep`
+  - Inaccuracy: 0.11
+  - Params:
+    - Knockback: 20
+    - Time To Live: 5.0
+  - Count: 3
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `poisonproximitymine`
+  - Inaccuracy: 0.01
 
 ## Sources
 

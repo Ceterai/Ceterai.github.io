@@ -15,6 +15,41 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+The capital <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"/> [alta cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities) are massive metropolises, where a tall <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"/> [alta citadel](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels) serves as the administrative center.
+
+The structure of such cities most often resembles fortresses, with several layers of defense, most often in the form of defensive walls, dividing the cities into "rings", generally octagonal in shape.
+
+Thus, the borders of the capitals are also surrounded by a wall, also called the "first line of defense". All subsequent lines are named in a similar way.
+
+Each defense line is equipped with a higher level of protection and is most often guarded by special [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard). In addition, so-called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"/> ["imperial generators"](https://ceterai.github.io/MyEnternia/Wiki/ImperialGenerator) are evenly distributed along the lines of the walls, propagating special energy waves over a long distance.
+
+These waves increase the effectiveness of alta equipment and thereby strengthen all the guards on the line.
+
+A similar effect is achieved through the use of portable <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"/> [elite generators](https://ceterai.github.io/MyEnternia/Wiki/EliteGenerator).
+
+In addition to elite guards, capital cities are guarded by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/elite.png" alt="Elite Drone icon" loading="lazy" width="auto" height="16px"/> [elite drones](https://ceterai.github.io/MyEnternia/Wiki/EliteDrone) and various <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png" alt="Elite Droid icon" loading="lazy" width="auto" height="16px"/> [elite droids](https://ceterai.github.io/MyEnternia/Wiki/EliteDroid), including <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/elite.png" alt="Elite Android ★ icon" loading="lazy" width="auto" height="16px"/> [elite androids](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid) capable of autonomously enhancing themselves and surrounding defenders.
+
+[Metrocops](https://ceterai.github.io/MyEnternia/Wiki/Metrocops) and [medics](https://ceterai.github.io/MyEnternia/Wiki/medics) are equipped with auxiliary equipment that allows them to easily move from rooftop to rooftop and quickly arrive at hard-to-reach places.
+
+All protective forces and law enforcement officers work harmoniously together to ensure the safety and comfortable life of all capital citizens.
+
+The capital itself is filled with life. Similar in infrastructure and atmosphere to other alta cities, it is replete with starry colors instead of the usual crystalline hue.
+
+This is because the crystal gardens in alta capitals are usually filled with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> [stardust crystals](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal) instead of regular ones.
+The situation is similar with vegetation - very often along the capital streets and among the capital parks you can find <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" width="auto" height="16px"/> [blossoming ayakas](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka) and even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" width="auto" height="16px"/> [stardust ayakas](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka).
+
+It is in the capitals that new trends are most often formed and the most popular modeling and entertainment companies are based.
+
+And although fashion is considered a rather small industry in [alta culture](https://ceterai.github.io/MyEnternia/Wiki/altaculture), the same cannot be said about entertainment and leisure.
+
+Endless clubs, entertainment centers and friend circles, as well as constant events and gatherings fill the city with joy and fun.
+
+In addition to social life in alta capitals, just as in other alta cities, there is a high level of social responsibility.
+
+Volunteer altas engaged in regular cleaning, general errands and simply helping other altas, are the pride of the community and very often form social associations, promoting cleanliness, order and understanding, and with the support of administrative forces help build a bright future for each alta.
+
 ## Usage
 
 ### Crafting

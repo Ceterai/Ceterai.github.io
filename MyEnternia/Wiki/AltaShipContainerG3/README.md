@@ -21,7 +21,8 @@ A shipping container. Probably doesn't contain a ship.
 
 ## Parameters
 
-- Slot Count: 64  
+- Slot Count: 64
+
 - Health: 12
 
 ## Usage

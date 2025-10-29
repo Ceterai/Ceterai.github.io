@@ -21,7 +21,8 @@ A twisted [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova) spik
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_tonnova_stem`
 - Foliage/Cap: `ct_tonnova_blob`
 

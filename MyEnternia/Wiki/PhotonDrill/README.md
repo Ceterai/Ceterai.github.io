@@ -10,6 +10,30 @@ A disposable mining tool that drills with a focused microwave beam.
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Scripts:  `/items/active/unsorted/laserminer/beammine.lua`
+- Class: `BeamMine`
+- Beam Length: 20
+- Cooldown Time: 0.5
+- Energy Usage: 20.0
+- Damage Interval: 0.1
+- Tile Damage: 20.0
+- Harvest Level: 99
+- Chain:
+  - Start Offset: 
+  - Segment Image: `/items/active/unsorted/laserminer/beam/beam.png`
+  - End Segment Image: `/items/active/unsorted/laserminer/beam/beamend.png`
+  - Segment Size: 0.48
+  - Overdraw Length: 0.2
+  - Taper:
+  - Waveform:
+    - Frequency: 1.0
+    - Amplitude: 0.125
+    - Movement: 80.0
+  - Fullbright: `True`
+  - Light:  135,  91,  84
+
 ## Sources
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).

@@ -16,6 +16,22 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+It is still unclear how to properly categorize bion as a material because of its origins and a complicated nature.
+
+On one hand, it shows strong metal qualities, while having a crystallic molecular structure, and reacts to electricity in a similar way to a lot of specific crystal families.
+
+On the other hand, bion molecules often form in otherwise organic lifeforms, the best example being natural biocrystals - [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova) plants.
+
+Tonnovas themselves are quite interesting in their biology too, as biocrystals and biocrystallic connections are incredibly rare in nature and are mostly found in cold highly-ionized environments, like on [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets.
+
+So far most prominent known biocrystal species of plants and creatures are tonnovas, [hevaltors](https://ceterai.github.io/MyEnternia/Wiki/hevaltors), [bionflies](https://ceterai.github.io/MyEnternia/Wiki/bionflies), _excriduras_ and rare organic crystal deposits.
+
+The most prominent example of this will always be us - altas, as our bionic nature mostly consists of biocrystallic and biometallic nature.
+
+The concept of bionic creatures, or bionicas, is one of the most common ones in researched subjects, and is the best source of data for said research.
+
 ## Usage
 
 ### Crafting

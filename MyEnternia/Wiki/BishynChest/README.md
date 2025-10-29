@@ -21,7 +21,8 @@ A scary looking crystal chest.
 
 ## Parameters
 
-- Slot Count: 16  
+- Slot Count: 16
+
 - Health: 1.5
 
 ## Usage

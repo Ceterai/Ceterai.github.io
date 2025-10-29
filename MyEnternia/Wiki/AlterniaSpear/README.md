@@ -18,9 +18,36 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Power: 4
+- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
+- Class: `AsiraiAttack`
+- Step Damage Config: 
+- Base Damage Factor: 1.35
+- Knockback: 5, 
+- Base Damage Factor: 1.1
+- Knockback: -5, 
+- Base Damage Factor: 1.55
+- Knockback:, 
+- Base Damage Factor: 2.2
+- Knockback: 15
+- Status Effects:  `paralysis`
+- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
+- Projectile Count:
+
 ### Energy Seeker
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Power: 4
+- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
+- Class: `AsiraiSpin`
+- Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
+- Damage Config:
+
 
 ## Sources
 

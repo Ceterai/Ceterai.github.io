@@ -21,7 +21,8 @@ This [corplic shroom](https://ceterai.github.io/MyEnternia/Wiki/corplicshroom) h
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_mutant_giant`
 - Foliage/Cap: `ct_coroplic`
 

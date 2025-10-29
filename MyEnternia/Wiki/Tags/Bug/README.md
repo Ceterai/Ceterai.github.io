@@ -1,6 +1,6 @@
 # Bug Tag
 
-The tag `bug` contains 16 total entries.
+The tag `bug` contains 17 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `bug` contains 16 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 17 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/alto_zych/icon.png" alt="Alto Zych icon" loading="lazy" width="auto" height="16px"/> [Alto Zych](https://ceterai.github.io/MyEnternia/Wiki/AltoZych)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" width="auto" height="16px"/> [Aya Bee](https://ceterai.github.io/MyEnternia/Wiki/AyaBee)
@@ -26,5 +26,6 @@ The tag `bug` contains 16 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/strizychar/icon.png" alt="Strizychar icon" loading="lazy" width="auto" height="16px"/> [Strizychar](https://ceterai.github.io/MyEnternia/Wiki/Strizychar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/unwarped_fly/icon.png" alt="Unwarped Fly icon" loading="lazy" width="auto" height="16px"/> [Unwarped Fly](https://ceterai.github.io/MyEnternia/Wiki/UnwarpedFly)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/vio_zych/icon.png" alt="Vio Zych icon" loading="lazy" width="auto" height="16px"/> [Vio Zych](https://ceterai.github.io/MyEnternia/Wiki/VioZych)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"/> [Warped Spider](https://ceterai.github.io/MyEnternia/Wiki/WarpedSpider)
 
 </details>

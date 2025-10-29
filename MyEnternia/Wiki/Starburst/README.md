@@ -18,6 +18,20 @@ This [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight) blaster runs
 Press - create a Stardust Burst;
 Hold - launch a Phase Sphere.
 
+Parameters:
+
+- Base Dps: 5
+- Energy Usage: 20
+- Fire Time: 0.48
+- Press Type: `burst`
+- Press Params:
+  - Type: `ct_staris_small`
+  - Inaccuracy: 0.26
+- Hold Type: `rocket`
+- Hold Params:
+  - Type: `chargedbustershot`
+  - Inaccuracy:
+
 ## Sources
 
 Can be bought from merchants:

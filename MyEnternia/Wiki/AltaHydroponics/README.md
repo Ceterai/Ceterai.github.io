@@ -16,6 +16,18 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+A water-based farming solution that aims to replace soil entirely with moisture, making the environment more flexible and easy to maintain. Highly suitable for lab environments and temperature-sensitive plants.
+
+Approaches like this one often require more complex liquid cycles, thus more advanced sprinkling systems are usually used. Always make sure to provide your plant with a proper liquid mixture to make it prosper.
+
+Alta Lab Sprinkler
+This watering solution is made specifically for experimental environments and has an additional level of isolation to it. Specifically, it can be used in hydroponic trays and eco pods.
+
+Alta Lab Eco Pod
+An experimental device designed to keep warped plants contained, bionic plants cooled and aric plants toxified. Pretty compact in structure, but requires a proper sprinkling system to work.
+
 ## Usage
 
 ### Crafting

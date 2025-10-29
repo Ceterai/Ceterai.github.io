@@ -16,6 +16,20 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+This report provides further insight into specifics of certain types and variations of tavriya climate, as well as the discovery of Izo-Algae, as part of the Cryocoral Project.
+
+We're continuing to look into ways of possible ways of acquiring cryonic extract from the discovered specimens, and ways to cultivate them to make the process more efficient and scalable.
+
+Pure cryonic extract has proven to be more efficient at certain tasks than another, much more available cryonic - izon.  
+While doesn't seem to be universally better than izon, the tests and experiments have shown better performance when it comes to creating coolants and ice-polarized energy tools.  
+However, izon continues to be better at warped containment, general cooling and organic usages, such as in cooking. Unlike pure cryonic extract, izon is alta-safe, which would be a priority in most cases.
+
+Currently, the most prominent location of natural habitat for Izo-Algae seems to be in warmer areas of tavriya, where temperature tends to raise just below the melting point of snow during seasonal temperature peaks.
+
+This might deem "warm tavriya" zones as uniquely valuable because of this currently precious resource.
+
 ## Usage
 
 ### Crafting

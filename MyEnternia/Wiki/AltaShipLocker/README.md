@@ -21,7 +21,8 @@ A locker. Store some stuff, why don't you?
 
 ## Parameters
 
-- Slot Count: 64  
+- Slot Count: 64
+
 - Health: 2.5
 
 ## Usage

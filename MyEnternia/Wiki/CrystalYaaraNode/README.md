@@ -21,7 +21,8 @@ A short, yet beautiful <img src="https://raw.githubusercontent.com/Ceterai/Enter
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_yaara_node_stem`
 - Foliage/Cap: `ct_yaara_crystal_leaves`
 

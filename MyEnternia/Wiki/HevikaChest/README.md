@@ -21,7 +21,8 @@ A seemingly upside-down container powered by the <img src="https://raw.githubuse
 
 ## Parameters
 
-- Slot Count: 24  
+- Slot Count: 24
+
 - Health: 1.5
 
 ## Usage

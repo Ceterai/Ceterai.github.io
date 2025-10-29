@@ -10,6 +10,27 @@ Holds up to 6 friendly creatures in stasis in order to safely relocate them.
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Scripts:  `/items/active/unsorted/relocator/relocate.lua`
+- Class: `Relocate`
+- Max Storage: 6
+- Max Range: 20
+- Cooldown Time: 0.5
+- Beam Return Time: 0.1
+- Chain:
+  - Start Offset: 
+  - Segment Image: `/items/active/unsorted/relocator/beam/beam.png`
+  - End Segment Image: `/items/active/unsorted/relocator/beam/beamend.png`
+  - Segment Size: 0.48
+  - Overdraw Length: 0.2
+  - Taper:
+  - Waveform:
+    - Frequency: 2.0
+    - Amplitude:
+    - Movement:
+  - Fullbright: `True`
+
 ## Sources
 
 Can be crafted:

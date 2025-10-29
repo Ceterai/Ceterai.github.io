@@ -16,6 +16,14 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+H i, 3h th i s y0Our gift. Sleep well, dreamer.
+
+!-20-ae-/I_+-11-8o-AM THE=LORD OF THE FALLEN. thE EdGe OF TOmMORoW IS COMMING.
+
+- the rest of the data is seemingly corrupted -
+
 ## Usage
 
 ### Crafting

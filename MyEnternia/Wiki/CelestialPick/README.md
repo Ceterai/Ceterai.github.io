@@ -10,9 +10,35 @@ A mining tool unlike anything you've seen in other media.
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Layer: `foreground`
+- Activating Fire Mode: `primary`
+- Energy Usage: 5
+- Requisite Animation States:
+  - Blade: `active`
+- Windup Animation States:
+  - Blade: `activating`
+- On Leave Animation States:
+  - Blade: `deactivating`
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Layer: `background`
+- Activating Fire Mode: `alt`
+- Energy Usage: 5
+- Requisite Animation States:
+  - Blade: `active`
+- Windup Animation States:
+  - Blade: `activating`
+- On Leave Animation States:
+  - Blade: `deactivating`
+- Inactive Animation States:
+  - Blade: `inactive`
 
 ## Sources
 

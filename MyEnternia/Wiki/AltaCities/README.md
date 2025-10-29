@@ -15,6 +15,26 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Alta cities are relatively small but highly urbanized settlements that can occasionally be found on [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets. Despite their size and short buildings, such cities have fairly large populations.  
+This is mainly due to the rather dense structure of such cities, where instead of wide road lanes, endless parking lots and large squares, preferences go to small parks, sunny alleys and small streets with tram lines.
+
+Autotrains are the main way to quickly travel around such cities. Not very fast, but incredibly convenient, free fruits of a well-thought-out public transport infrastructure, occasionally passing quietly from stop to stop, they hardly bother countless alta pedestrians.
+
+In such small cities there is usually a relaxed, homely atmosphere, and it is not so easy to find an alta in a hurry, because all the necessary places are always nearby.
+
+Order and protection in alta cities are maintained by special [alta guards](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard) and [alta metrocops](https://ceterai.github.io/MyEnternia/Wiki/AltaMetrocop), as well as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" width="auto" height="16px"/> [security drones](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/security.png" alt="Security Android icon" loading="lazy" width="auto" height="16px"/> [security androids](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroid).  
+Metrocops keep order, and guards and robots guard and protect the city.
+
+And to maintain cleanliness in the cities, regular cleaning events are carried out, to which [alta volunteers](https://ceterai.github.io/MyEnternia/Wiki/altavolunteers) and [alta social workers](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker) are invited.
+
+Altas live in small multi-story buildings, most often up to four above-ground and two underground floors.
+
+In addition to vital and economically necessary buildings, alta cities are teeming with entertainment centers and clubs where altas spend time playing games with friends and enjoying life.
+
+Such a pastime smoothes out the atmosphere in the city, and increases the overall level of quality of life and satisfaction with its conditions, and numerous parks and common natural areas, along with cleanliness and order, are very pleasing to the eye.
+
 ## Usage
 
 ### Crafting

@@ -4,6 +4,16 @@
 
 This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains some sort of appeal.
 
+## Ingame
+
+### Contents
+
+...To put it simply - it seems like ET14 just doesn't hold enough energy under CEN-7.
+
+As if even the power of Enternia is not enough to make this work!
+
+Maybe if we could pass it under CEN-6, or even... no protocol? - C.M.
+
 ## Usage
 
 ### Crafting

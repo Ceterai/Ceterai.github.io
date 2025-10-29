@@ -11,6 +11,20 @@ Species descriptions:
 
 - Alta: Will I... be able to control myself, while it's on?..
 
+### Contents
+
+Dreamers are energy-enhanced alta travelers, drowned in enternia, not really conscious but not unconscious either, stuck in their own dreams.
+
+Dreamer's Mask - Mask worn by the one who's able to withstand the consuming power of enternia. WIP - has Omniblue Vision.
+
+Dreamer's Plating - Will protect you with ionic bursts whenever you receive damage. WIP - includes Life Support Module.
+
+Dreamer's Footwear - This energy legwear refills your energy when you lose your health. WIP - has Longfall (-75% fall damage).
+
+[Enter](https://ceterai.github.io/MyEnternia/Wiki/Enter)-EPP - Provides full immunity to ionic and electric statuses, gives +20% electric resist (WIP). Allows walking safely on [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) planets.
+
+> Note: be cautious, since effects like Energiser, Autorepeller, Life Support System, Autoprotector, Autoanalyzer, Omniblue Light and Energy Support System can be blocked by EMI attacks.
+
 ## Usage
 
 ### Crafting

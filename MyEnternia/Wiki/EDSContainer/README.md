@@ -21,7 +21,8 @@ A small [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) cargo crate. N
 
 ## Parameters
 
-- Slot Count: 16  
+- Slot Count: 16
+
 - Health: 4.0
 
 ## Usage

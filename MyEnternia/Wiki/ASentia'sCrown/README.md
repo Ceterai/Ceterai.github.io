@@ -18,6 +18,45 @@ Radiomessages on pickup:
 - Beware of the warped items you just acquired. Warped is a form of wild growth found mainly on alterash planets, that tends to spread uncontrollably and contaminate everything in its path.  
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
 
+### Contents
+
+Once upon a time, a little nivera sentia named Kria, was growing herself a beautiful nivera garden. She put a lot of effort into it, into decorating everything and looking after it the most she could.
+
+She was very proud of her work, and was spending days amongst the carefully cut bushes and archulin berries.
+
+This way, Kria felt lonely one day. She spent so much time on this garden, but had no friends to show it to, to invite over so they can too appreciate its beauty, and relax among the pretty bushes Kria spent so much time taking care of.
+
+And thus, lonely sentia decided to make some friends. She knew, that there are altas living nearby, just around the warped forest she was living in. But, there was a problem.
+
+Kria didn't exactly know how to make friends to begin with. She heard, that altas tend to like delicious food and to play different games.
+
+But Kria didn't really know any games, and she knew that altas might be afraid of her...
+
+And so, hopeful sentia came up with a plan. She decided to bake a lot of tasty pies to lure in innocent altas, but to make sure they don't run away she added a little bit of her venom to each pie, so it paralyzes altas when they eat it.
+
+"This way", Kria thought, "they won't be able to run away and will have to become friends with me!"
+
+As she carried out her plan, she started to catch more and more altas into her trap, paralyzing them and dragging them into her pretty garden, that now was their prison.  
+And at first, successful sentia was happy with the results. She was talking to devastated altas she caught, and showing them around the garden.
+
+Eventually, she finally noticed how unhappy and sad her new "friends" were, so she became worried for them decided to try and fix that.
+
+Kria tried to bake more delicious food for them, and even started to bring them various gifts she was able to find, but nothing seemed to work, nothing was making poor altas any happier.  
+"I don't understand!" - she cried in devastation. "I'm bringing you food, and gift, and letting you walk around freely in my garden, why are you unhappy?!"  
+One of altas then walked up to her, and silently gave Kria a crown she make from the nivera bushes sentia spent so much time taking care of.
+
+The crown was covered in thorns. "Here is my gift to you, Kria. Wear it, and you will understand."
+
+Kria listened and put on the crown. The thorns hurt a lot, and so she wanted to take it off almost immediately. And as soon as she tried, she finally understood.
+
+"You... can't just force a friendship on someone like that. Even if you think you're doing something good, like giving a gift."
+
+With these words, sad but determined sentia let go all the altas she caught, and apologized to each one.
+
+"I will keep wearing this crown", she said, "as a reminder and a sign to other sentias. So I will never do this again. It hurts, but not as much as I've hurt all those altas I've deceived."
+
+Some say she wears the crown to this day, and has made many actual alta friends since then. The end.
+
 ## Usage
 
 ### Crafting

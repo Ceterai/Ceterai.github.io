@@ -21,7 +21,8 @@ An [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) ripe with f
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_ayaka_garden_stem`
 - Foliage/Cap: `ct_ayaka_garden_leaves`
 

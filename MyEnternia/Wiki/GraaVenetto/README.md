@@ -19,7 +19,6 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 ## Parameters
 
 - Food Value: 60
-- Blocking Effects: 
 
 ## Sources
 

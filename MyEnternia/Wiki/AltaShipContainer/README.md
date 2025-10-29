@@ -21,7 +21,8 @@ A small cargo crate. No doubt it has cargo in it.
 
 ## Parameters
 
-- Slot Count: 16  
+- Slot Count: 16
+
 - Health: 4.0
 
 ## Usage

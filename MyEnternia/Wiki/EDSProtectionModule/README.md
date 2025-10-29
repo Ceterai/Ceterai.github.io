@@ -15,10 +15,11 @@ Adds 10% electric resistance and 2 defense.
 
 ## Parameters
 
-- Default Duration: 5s
-- Effect parameters: 
+Default Duration: 5s  
+Effect parameters:
 
-- Electric Resistance: 0.1- Protection: 2
+- Electric Resistance: 0.1
+- Protection: 2
 
 ## Technical Information
 

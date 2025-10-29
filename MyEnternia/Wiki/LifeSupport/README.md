@@ -8,11 +8,12 @@ Applied by following items:
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 1s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration: 1s  
+Effect parameters:
 
-- Heal Base: 0.005- Heal Time: 0.25
+- Heal Base: 0.005
+- Heal Time: 0.25
 
 ## Technical Information
 

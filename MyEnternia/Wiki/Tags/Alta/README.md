@@ -1,10 +1,10 @@
 # Alta Tag
 
-The tag `alta` contains 1339 total entries.
+The tag `alta` contains 1370 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 459 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 462 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"/> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/garden/icon.png" alt="A-Prime Gardens Microformer ★ icon" loading="lazy" width="auto" height="16px"/> [A-Prime Gardens Microformer ★](https://ceterai.github.io/MyEnternia/Wiki/A-PrimeGardensMicroformer)
@@ -285,6 +285,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ceterai/pod/icon.png" alt="Ceterai Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ceterai Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/CeteraiPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/pod/icon.png" alt="Ceternia Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Ceternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" width="auto" height="16px"/> [Ceternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSample)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_ceternity_poster.png" alt="Ceternity Poster icon" loading="lazy" width="auto" height="16px"/> [Ceternity Poster](https://ceterai.github.io/MyEnternia/Wiki/CeternityPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Citadel Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CitadelPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/pod/icon.png" alt="Cocola Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Cocola Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CocolaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Collectioner's Prize ★ icon" loading="lazy" width="auto" height="16px"/> [Collectioner's Prize ★](https://ceterai.github.io/MyEnternia/Wiki/Collectioner'sPrize)
@@ -362,6 +363,8 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/pod/icon.png" alt="Gil Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Gil Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/GilEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/gyera/icon.png" alt="Gyera Sprinkler icon" loading="lazy" width="auto" height="16px"/> [Gyera Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/GyeraSprinkler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" width="auto" height="16px"/> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"/> [Halloween Poster](https://ceterai.github.io/MyEnternia/Wiki/HalloweenPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_harrowing_poster.png" alt="Harrowing Poster icon" loading="lazy" width="auto" height="16px"/> [Harrowing Poster](https://ceterai.github.io/MyEnternia/Wiki/HarrowingPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/bed/icon.png" alt="Hevika Bed icon" loading="lazy" width="auto" height="16px"/> [Hevika Bed](https://ceterai.github.io/MyEnternia/Wiki/HevikaBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chair/icon.png" alt="Hevika Chair icon" loading="lazy" width="auto" height="16px"/> [Hevika Chair](https://ceterai.github.io/MyEnternia/Wiki/HevikaChair)
@@ -470,7 +473,7 @@ The tag `alta` contains 1339 total entries.
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 142 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 147 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -493,6 +496,8 @@ The tag `alta` contains 1339 total entries.
 - [Alta Biologist](https://ceterai.github.io/MyEnternia/Wiki/AltaBiologist)
 - [Alta Brigadier](https://ceterai.github.io/MyEnternia/Wiki/AltaBrigadier)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
+- [Alta Ceternity Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaCeternityGirl)
+- [Alta Ceternity Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaCeternityMerchant)
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 - [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
@@ -518,6 +523,8 @@ The tag `alta` contains 1339 total entries.
 - [Alta Geologist](https://ceterai.github.io/MyEnternia/Wiki/AltaGeologist)
 - [Alta Gold Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaGoldKnight)
 - [Alta Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard)
+- [Alta Halloween Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHalloweenGirl)
+- [Alta Harrowing Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHarrowingGirl)
 - [Alta Hive Keeper](https://ceterai.github.io/MyEnternia/Wiki/AltaHiveKeeper)
 - [Alta Holiday Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHolidayGirl)
 - [Alta Househead](https://ceterai.github.io/MyEnternia/Wiki/AltaHousehead)
@@ -561,6 +568,7 @@ The tag `alta` contains 1339 total entries.
 - [Alta Social Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker)
 - [Alta Solarium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaSolariumProtecta)
 - [Alta Soldier](https://ceterai.github.io/MyEnternia/Wiki/AltaSoldier)
+- [Alta Spooky Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSpookyGirl)
 - [Alta Stone Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaStoneGardener)
 - [Alta Supervisor](https://ceterai.github.io/MyEnternia/Wiki/AltaSupervisor)
 - [Alta Swimmer](https://ceterai.github.io/MyEnternia/Wiki/AltaSwimmer)
@@ -619,8 +627,9 @@ The tag `alta` contains 1339 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 738 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 761 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"/> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" width="auto" height="16px"/> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" width="auto" height="16px"/> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="A.R.C.O. Researcher Coat icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.ResearcherCoat)
@@ -630,6 +639,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" width="auto" height="16px"/> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png" alt="Albino Mask icon" loading="lazy" width="auto" height="16px"/> [Albino Mask](https://ceterai.github.io/MyEnternia/Wiki/AlbinoMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"/> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" width="auto" height="16px"/> [Alien Mounds](https://ceterai.github.io/MyEnternia/Wiki/AlienMounds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Alien Pearls icon" loading="lazy" width="auto" height="16px"/> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"/> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" width="auto" height="16px"/> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
@@ -651,6 +661,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon.png" alt="Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> [Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/AltaFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"/> [Alta Flower](https://ceterai.github.io/MyEnternia/Wiki/AltaFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon.png" alt="Alta Foam Sprayer icon" loading="lazy" width="auto" height="16px"/> [Alta Foam Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaFoamSprayer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_art.png" alt="Alta Format icon" loading="lazy" width="auto" height="16px"/> [Alta Format](https://ceterai.github.io/MyEnternia/Wiki/AltaFormat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/grabber/icon.png" alt="Alta Grabber icon" loading="lazy" width="auto" height="16px"/> [Alta Grabber](https://ceterai.github.io/MyEnternia/Wiki/AltaGrabber)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon.png" alt="Alta Grappler icon" loading="lazy" width="auto" height="16px"/> [Alta Grappler](https://ceterai.github.io/MyEnternia/Wiki/AltaGrappler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon.png" alt="Alta Harpooner icon" loading="lazy" width="auto" height="16px"/> [Alta Harpooner](https://ceterai.github.io/MyEnternia/Wiki/AltaHarpooner)
@@ -700,6 +711,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_alternia_cocktail.png" alt="Alternia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Alternia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCocktail)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" width="auto" height="16px"/> [Alunika](https://ceterai.github.io/MyEnternia/Wiki/Alunika)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika Jam icon" loading="lazy" width="auto" height="16px"/> [Alunika Jam](https://ceterai.github.io/MyEnternia/Wiki/AlunikaJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_yaara_art.png" alt="Among The Grove icon" loading="lazy" width="auto" height="16px"/> [Among The Grove](https://ceterai.github.io/MyEnternia/Wiki/AmongTheGrove)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" width="auto" height="16px"/> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Archi Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Archi Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/ArchiIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Archiver Bottom icon" loading="lazy" width="auto" height="16px"/> [Archiver Bottom](https://ceterai.github.io/MyEnternia/Wiki/ArchiverBottom)
@@ -810,6 +822,8 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ceternia_augment.png" alt="Ceternia Augment ★★ icon" loading="lazy" width="auto" height="16px"/> [Ceternia Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_ceternia_cocktail.png" alt="Ceternia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Ceternia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCocktail)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Ceternia Tea ★ icon" loading="lazy" width="auto" height="16px"/> [Ceternia Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_ceternity_candy.png" alt="Ceternity Candy icon" loading="lazy" width="auto" height="16px"/> [Ceternity Candy](https://ceterai.github.io/MyEnternia/Wiki/CeternityCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_ceternity_poster.png" alt="Ceternity Poster icon" loading="lazy" width="auto" height="16px"/> [Ceternity Poster](https://ceterai.github.io/MyEnternia/Wiki/CeternityPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ceterteal.png" alt="Ceterteal Glowstick icon" loading="lazy" width="auto" height="16px"/> [Ceterteal Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CetertealGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Ciranga Cake ★★ icon" loading="lazy" width="auto" height="16px"/> [Ciranga Cake ★★](https://ceterai.github.io/MyEnternia/Wiki/CirangaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Ciranga Pie ★ icon" loading="lazy" width="auto" height="16px"/> [Ciranga Pie ★](https://ceterai.github.io/MyEnternia/Wiki/CirangaPie)
@@ -921,6 +935,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_elite_stunner.png" alt="Elite Stunner ★ icon" loading="lazy" width="auto" height="16px"/> [Elite Stunner ★](https://ceterai.github.io/MyEnternia/Wiki/EliteStunner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> [Empty EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmptyEDSFrigateDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Enal'Nia ★★ icon" loading="lazy" width="auto" height="16px"/> [Enal'Nia ★★](https://ceterai.github.io/MyEnternia/Wiki/Enal'Nia)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_abstract_art.png" alt="Enchanted Sunset icon" loading="lazy" width="auto" height="16px"/> [Enchanted Sunset](https://ceterai.github.io/MyEnternia/Wiki/EnchantedSunset)
 - [Energo-Orbit ★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Orbit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon_upg.png" alt="Energy Grappler ★ icon" loading="lazy" width="auto" height="16px"/> [Energy Grappler ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyGrappler)
@@ -968,6 +983,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" width="auto" height="16px"/> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"/> [Faradeus Prime ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeusPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_faradea_scavenger.png" alt="FD Scavenger ★ icon" loading="lazy" width="auto" height="16px"/> [FD Scavenger ★](https://ceterai.github.io/MyEnternia/Wiki/FDScavenger)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_felistraza_art.png" alt="Felistraza Beauty icon" loading="lazy" width="auto" height="16px"/> [Felistraza Beauty](https://ceterai.github.io/MyEnternia/Wiki/FelistrazaBeauty)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/capture/filled_pod/icon.png" alt="Filled Capture Pod icon" loading="lazy" width="auto" height="16px"/> [Filled Capture Pod](https://ceterai.github.io/MyEnternia/Wiki/FilledCapturePod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" width="auto" height="16px"/> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" width="auto" height="16px"/> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
@@ -1019,9 +1035,11 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" width="auto" height="16px"/> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" width="auto" height="16px"/> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_alta_testing_ball.png" alt="Gyrocore icon" loading="lazy" width="auto" height="16px"/> [Gyrocore](https://ceterai.github.io/MyEnternia/Wiki/Gyrocore)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"/> [Halloween Poster](https://ceterai.github.io/MyEnternia/Wiki/HalloweenPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" width="auto" height="16px"/> [Halter Compact ★](https://ceterai.github.io/MyEnternia/Wiki/HalterCompact)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Handmade Thermomix icon" loading="lazy" width="auto" height="16px"/> [Handmade Thermomix](https://ceterai.github.io/MyEnternia/Wiki/HandmadeThermomix)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon_upg.png" alt="Harp-M ★ icon" loading="lazy" width="auto" height="16px"/> [Harp-M ★](https://ceterai.github.io/MyEnternia/Wiki/Harp-M)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_harrowing_poster.png" alt="Harrowing Poster icon" loading="lazy" width="auto" height="16px"/> [Harrowing Poster](https://ceterai.github.io/MyEnternia/Wiki/HarrowingPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" width="auto" height="16px"/> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"/> [Haven Pouches](https://ceterai.github.io/MyEnternia/Wiki/HavenPouches)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" width="auto" height="16px"/> [Haven Tiller](https://ceterai.github.io/MyEnternia/Wiki/HavenTiller)
@@ -1037,6 +1055,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Hive Curry icon" loading="lazy" width="auto" height="16px"/> [Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/HiveCurry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/hologlasses/icon.png" alt="Hologlasses icon" loading="lazy" width="auto" height="16px"/> [Hologlasses](https://ceterai.github.io/MyEnternia/Wiki/Hologlasses)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alterash_art.png" alt="Homely Gardens icon" loading="lazy" width="auto" height="16px"/> [Homely Gardens](https://ceterai.github.io/MyEnternia/Wiki/HomelyGardens)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Hot Yaarings icon" loading="lazy" width="auto" height="16px"/> [Hot Yaarings](https://ceterai.github.io/MyEnternia/Wiki/HotYaarings)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" width="auto" height="16px"/> [Hyperblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Hyperblaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Iced Aya Dessert ★ icon" loading="lazy" width="auto" height="16px"/> [Iced Aya Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedAyaDessert)
@@ -1098,6 +1117,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Markvin Fresh icon" loading="lazy" width="auto" height="16px"/> [Markvin Fresh](https://ceterai.github.io/MyEnternia/Wiki/MarkvinFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" width="auto" height="16px"/> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png" alt="Metrocop Set icon" loading="lazy" width="auto" height="16px"/> [Metrocop Set](https://ceterai.github.io/MyEnternia/Wiki/MetrocopSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_miazma_candy.png" alt="Miazma Candy icon" loading="lazy" width="auto" height="16px"/> [Miazma Candy](https://ceterai.github.io/MyEnternia/Wiki/MiazmaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/mical.png" alt="Mical Glowstick icon" loading="lazy" width="auto" height="16px"/> [Mical Glowstick](https://ceterai.github.io/MyEnternia/Wiki/MicalGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Miko Candy icon" loading="lazy" width="auto" height="16px"/> [Miko Candy](https://ceterai.github.io/MyEnternia/Wiki/MikoCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Miko Fresh icon" loading="lazy" width="auto" height="16px"/> [Miko Fresh](https://ceterai.github.io/MyEnternia/Wiki/MikoFresh)
@@ -1122,6 +1142,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Neiteru-1 Researcher Coat icon" loading="lazy" width="auto" height="16px"/> [Neiteru-1 Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/Neiteru-1ResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Neiteru-1 Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> [Neiteru-1 Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/Neiteru-1ResearcherSkirt)
 - [Neo-MP ★](https://ceterai.github.io/MyEnternia/Wiki/Neo-MP)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_neonjack_candy.png" alt="Neonjack Candy icon" loading="lazy" width="auto" height="16px"/> [Neonjack Candy](https://ceterai.github.io/MyEnternia/Wiki/NeonjackCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_ngx000.png" alt="NGX-000 ★★ icon" loading="lazy" width="auto" height="16px"/> [NGX-000 ★★](https://ceterai.github.io/MyEnternia/Wiki/NGX-000)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Nia Assorti icon" loading="lazy" width="auto" height="16px"/> [Nia Assorti](https://ceterai.github.io/MyEnternia/Wiki/NiaAssorti)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
@@ -1133,7 +1154,10 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" width="auto" height="16px"/> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Onitti Motsu Soup icon" loading="lazy" width="auto" height="16px"/> [Onitti Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/OnittiMotsuSoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" width="auto" height="16px"/> [Orchid Cake](https://ceterai.github.io/MyEnternia/Wiki/OrchidCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"/> [Orchid Candy](https://ceterai.github.io/MyEnternia/Wiki/OrchidCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/trans.png" alt="Orchid Drone ★★ icon" loading="lazy" width="auto" height="16px"/> [Orchid Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/OrchidDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_pumpkin_candy.png" alt="Orchid's Pumpkin Candy icon" loading="lazy" width="auto" height="16px"/> [Orchid's Pumpkin Candy](https://ceterai.github.io/MyEnternia/Wiki/Orchid'sPumpkinCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_astera_art.png" alt="Over The Horizon icon" loading="lazy" width="auto" height="16px"/> [Over The Horizon](https://ceterai.github.io/MyEnternia/Wiki/OverTheHorizon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/oxygen_mask/icon.png" alt="Oxygen Mask icon" loading="lazy" width="auto" height="16px"/> [Oxygen Mask](https://ceterai.github.io/MyEnternia/Wiki/OxygenMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" width="auto" height="16px"/> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" width="auto" height="16px"/> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh)
@@ -1241,8 +1265,10 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_spacedrifter_shield.png" alt="Spacedrifter Shield icon" loading="lazy" width="auto" height="16px"/> [Spacedrifter Shield](https://ceterai.github.io/MyEnternia/Wiki/SpacedrifterShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_spectre.png" alt="Spectre icon" loading="lazy" width="auto" height="16px"/> [Spectre](https://ceterai.github.io/MyEnternia/Wiki/Spectre)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_scout_art.png" alt="Speed And Safety icon" loading="lazy" width="auto" height="16px"/> [Speed And Safety](https://ceterai.github.io/MyEnternia/Wiki/SpeedAndSafety)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" width="auto" height="16px"/> [Spice-Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/Spice-HiveCurry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/spider.png" alt="Spider Droid icon" loading="lazy" width="auto" height="16px"/> [Spider Droid](https://ceterai.github.io/MyEnternia/Wiki/SpiderDroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_spider_candy.png" alt="Spidy Candy icon" loading="lazy" width="auto" height="16px"/> [Spidy Candy](https://ceterai.github.io/MyEnternia/Wiki/SpidyCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Split Surprize ★ icon" loading="lazy" width="auto" height="16px"/> [Split Surprize ★](https://ceterai.github.io/MyEnternia/Wiki/SplitSurprize)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" width="auto" height="16px"/> [Stalker Droid ★](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_starburst.png" alt="Starburst ★★ icon" loading="lazy" width="auto" height="16px"/> [Starburst ★★](https://ceterai.github.io/MyEnternia/Wiki/Starburst)
@@ -1279,6 +1305,8 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Scout Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Scout Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-ScoutSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Security Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Security Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-SecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Tech Drone icon" loading="lazy" width="auto" height="16px"/> [Tech Drone](https://ceterai.github.io/MyEnternia/Wiki/TechDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_aric_art.png" alt="The Great Friendly Aric icon" loading="lazy" width="auto" height="16px"/> [The Great Friendly Aric](https://ceterai.github.io/MyEnternia/Wiki/TheGreatFriendlyAric)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_stardust_orchid_art.png" alt="The Stardust Orchid ★ icon" loading="lazy" width="auto" height="16px"/> [The Stardust Orchid ★](https://ceterai.github.io/MyEnternia/Wiki/TheStardustOrchid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="Thermo Helmet ★ icon" loading="lazy" width="auto" height="16px"/> [Thermo Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/ThermoHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Thermo Thrusters ★ icon" loading="lazy" width="auto" height="16px"/> [Thermo Thrusters ★](https://ceterai.github.io/MyEnternia/Wiki/ThermoThrusters)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="Thermoarmor ★ icon" loading="lazy" width="auto" height="16px"/> [Thermoarmor ★](https://ceterai.github.io/MyEnternia/Wiki/Thermoarmor)
@@ -1318,6 +1346,7 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" width="auto" height="16px"/> [Tsyntex Prime ★](https://ceterai.github.io/MyEnternia/Wiki/TsyntexPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" width="auto" height="16px"/> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon_upg.png" alt="Ultrafast Cutter ★ icon" loading="lazy" width="auto" height="16px"/> [Ultrafast Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/UltrafastCutter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_minimal_art.png" alt="Unanswered icon" loading="lazy" width="auto" height="16px"/> [Unanswered](https://ceterai.github.io/MyEnternia/Wiki/Unanswered)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_vmax.png" alt="V-Max icon" loading="lazy" width="auto" height="16px"/> [V-Max](https://ceterai.github.io/MyEnternia/Wiki/V-Max)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_vmax.png" alt="V-Max Plus icon" loading="lazy" width="auto" height="16px"/> [V-Max Plus](https://ceterai.github.io/MyEnternia/Wiki/V-MaxPlus)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Velocity Eaters icon" loading="lazy" width="auto" height="16px"/> [Velocity Eaters](https://ceterai.github.io/MyEnternia/Wiki/VelocityEaters)
@@ -1341,9 +1370,11 @@ The tag `alta` contains 1339 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Waffle Chip Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Waffle Chip Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/WaffleChipIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/helpers/waiter.png" alt="Waiter icon" loading="lazy" width="auto" height="16px"/> [Waiter](https://ceterai.github.io/MyEnternia/Wiki/Waiter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" width="auto" height="16px"/> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_candy.png" alt="Warpy Candy icon" loading="lazy" width="auto" height="16px"/> [Warpy Candy](https://ceterai.github.io/MyEnternia/Wiki/WarpyCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Watcher Drone icon" loading="lazy" width="auto" height="16px"/> [Watcher Drone](https://ceterai.github.io/MyEnternia/Wiki/WatcherDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_winged_halberd.png" alt="Winged Halberd ★ icon" loading="lazy" width="auto" height="16px"/> [Winged Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/WingedHalberd)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Yaa Candy icon" loading="lazy" width="auto" height="16px"/> [Yaa Candy](https://ceterai.github.io/MyEnternia/Wiki/YaaCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_yaajack_candy.png" alt="Yaajack Candy icon" loading="lazy" width="auto" height="16px"/> [Yaajack Candy](https://ceterai.github.io/MyEnternia/Wiki/YaajackCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Yaara Mash icon" loading="lazy" width="auto" height="16px"/> [Yaara Mash](https://ceterai.github.io/MyEnternia/Wiki/YaaraMash)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon icon" loading="lazy" width="auto" height="16px"/> [Yaara Melon](https://ceterai.github.io/MyEnternia/Wiki/YaaraMelon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon Slice icon" loading="lazy" width="auto" height="16px"/> [Yaara Melon Slice](https://ceterai.github.io/MyEnternia/Wiki/YaaraMelonSlice)

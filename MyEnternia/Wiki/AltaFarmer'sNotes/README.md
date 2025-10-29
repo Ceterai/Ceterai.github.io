@@ -11,6 +11,27 @@ Species descriptions:
 
 - Alta: Useful when getting started at a dendrarium.
 
+### Contents
+
+Hey there! Alasta here, posting a short helpful notice to go along with the default dendrarium model as permitted by common blueprint storage and main datacenter.
+
+This is to get you started with this station and tell you what to do with it.
+
+The dendrarium is meant for all things flora:
+- Farming, or working with crops, like tilling and watering them;
+- Lumbering, or cutting down bigger plants;
+- Mawing, or cutting down smaller plants;
+- Fertilizing, or adding healthy vitamins for plants;
+- Potting, or planting miniature plants, like flowers, into portable containers;
+- Boosting, or genetically or chemically modifying plants for new and better results;
+- Replanting, or extracting healthy seeds, tubers and sprouts from fruits;
+- Eco-engineering, or designing suitable eco pods.
+
+Farming
+
+This includes basic tools like watering cans and tillers, which you'll be able to unlock by crafting new available recipes.
+It also includes automatic water sprinklers, unlockable with advanced Altaponics RI.
+
 ## Usage
 
 ### Crafting

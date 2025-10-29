@@ -128,15 +128,13 @@ Found naturally in containers:
 
 </details>
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 16 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 14 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
-- [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Explorer](https://ceterai.github.io/MyEnternia/Wiki/AltaExplorer)
 - [Alta from a Capital](https://ceterai.github.io/MyEnternia/Wiki/AltafromaCapital)
-- [Alta Holiday Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHolidayGirl)
 - [Alta Huntress](https://ceterai.github.io/MyEnternia/Wiki/AltaHuntress)
 - [Alta NPC](https://ceterai.github.io/MyEnternia/Wiki/AltaNPC)
 - [Alta Protectorate Student](https://ceterai.github.io/MyEnternia/Wiki/AltaProtectorateStudent)

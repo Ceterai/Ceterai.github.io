@@ -8,8 +8,8 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 5s
-- Effect parameters: 
+Default Duration: 5s  
+Effect parameters:
 
 - Hevikai Status Immunity: `True`
 

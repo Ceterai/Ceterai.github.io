@@ -95,7 +95,7 @@ Drops from destroyed obstacles:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Wild Gil Seeds icon" loading="lazy" width="auto" height="16px"/> [Wild Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/WildGilSeeds)
 
-<details markdown="1"><summary>Can be harvested from: (Expand 18 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 16 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)
@@ -110,8 +110,6 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" width="auto" height="16px"/> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod/icon.png" alt="In Jelly Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [In Jelly Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/InJellyEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/pod/icon.png" alt="Neonmelon Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Neonmelon Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/pod/icon.png" alt="Oculemon Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Oculemon Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/OculemonEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/reefpod/pod/icon.png" alt="Reefpod Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Reefpod Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/ReefpodEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/thornfruit/pod/icon.png" alt="Thornfruit Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Thornfruit Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ThornfruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Wild Gil Seeds icon" loading="lazy" width="auto" height="16px"/> [Wild Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/WildGilSeeds)

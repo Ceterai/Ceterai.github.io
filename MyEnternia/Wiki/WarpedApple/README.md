@@ -1,13 +1,13 @@
 # Warped Apple
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/special/ct_warped_apple.png" alt="Warped Apple icon" loading="lazy" width="auto" height="16px"/> **Warped Apple** is a legendary drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/WIP/ct_warped_apple.png" alt="Warped Apple icon" loading="lazy" width="auto" height="16px"/> **Warped Apple** is a legendary drink.
 
 Calin alta cuisine. Despite its name and looks, this drink isn't actually made out of poisonous warped roots. Duh.
 
 ## Parameters
 
 - Food Value: 25
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
 
 Applies effects:
 
@@ -23,4 +23,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_warped_apple`
 - Power: `0.5`
 - Rarity: `Legendary`
-- File: [`/items/generic/food/other/special/ct_warped_apple.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/special/ct_warped_apple.consumable)
+- File: [`/items/generic/food/other/WIP/ct_warped_apple.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/WIP/ct_warped_apple.consumable)

@@ -9,10 +9,12 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 5s
-- Effect parameters: 
+Default Duration: 5s  
+Effect parameters:
 
-- Electric Resistance: 0.25- Impulse Status Immunity: `True`- Electric Status Immunity: `True`
+- Electric Resistance: 0.25
+- Impulse Status Immunity: `True`
+- Electric Status Immunity: `True`
 
 ## Technical Information
 

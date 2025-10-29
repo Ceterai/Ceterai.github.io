@@ -14,13 +14,17 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 24 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 28 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" width="auto" height="16px"/> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/sapling/icon.png" alt="Azura Sapling icon" loading="lazy" width="auto" height="16px"/> [Azura Sapling](https://ceterai.github.io/MyEnternia/Wiki/AzuraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" width="auto" height="16px"/> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/cultivated/icon.png" alt="Cultivated Beakseed Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Beakseed Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedBeakseedSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/cultivated/icon.png" alt="Cultivated Carel Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Carel Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedCarelSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/cultivated/icon.png" alt="Cultivated Gil Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedGilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/cultivated/icon.png" alt="Cultivated Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedNeonmelonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/cultivated/icon.png" alt="Cultivated Oculemon Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Oculemon Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedOculemonSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/cultivated/icon.png" alt="Cultivated Tsay Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedTsaySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/cultivated/icon.png" alt="Cultivated Yaara Eye Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedYaaraEyeSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/dream/sapling/icon.png" alt="Dreamer's Flower Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Dreamer's Flower Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sFlowerSapling)
@@ -49,11 +53,16 @@ Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc
 
 ## Sources
 
-Blueprint unlocked by obtaining:
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/sapling/icon.png" alt="Beakseed Sapling icon" loading="lazy" width="auto" height="16px"/> [Beakseed Sapling](https://ceterai.github.io/MyEnternia/Wiki/BeakseedSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/sapling/icon.png" alt="Carel Sapling icon" loading="lazy" width="auto" height="16px"/> [Carel Sapling](https://ceterai.github.io/MyEnternia/Wiki/CarelSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/sapling/icon.png" alt="Gil Sapling icon" loading="lazy" width="auto" height="16px"/> [Gil Sapling](https://ceterai.github.io/MyEnternia/Wiki/GilSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/sapling/icon.png" alt="Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"/> [Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/sapling/icon.png" alt="Oculemon Sapling icon" loading="lazy" width="auto" height="16px"/> [Oculemon Sapling](https://ceterai.github.io/MyEnternia/Wiki/OculemonSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/sapling/icon.png" alt="Tsay Sapling icon" loading="lazy" width="auto" height="16px"/> [Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/TsaySapling)
+
+</details>
 
 Can be crafted:
 

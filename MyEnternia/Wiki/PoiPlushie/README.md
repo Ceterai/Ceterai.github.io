@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_poi_plush.png" alt="Poi Plushie icon" loading="lazy" width="auto" height="16px"/> **Poi Plushie** is an uncommon toy.
 
-A plushie of a... slime. An alta slime. A poi, in other words.
+A plushie of a... slime. An alta slime. A poi, in other words.  
+Pois are known for their gelatinous bodies and playful nature. This plushie is a safe way to enjoy their charm without the mess.
 
 ## Ingame
 

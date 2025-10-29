@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_alternia_augment.png" alt="Alternia Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Alternia Augment ★★** is a legendary EPP augment.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" width="auto" height="16px"/> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP), condenced into an augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" width="auto" height="16px"/> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP), condensed into an augment.
 Adds 20% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity).  
 _Starburst Rework: _[Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic)_ immunity._
 

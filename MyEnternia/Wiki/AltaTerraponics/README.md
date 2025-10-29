@@ -16,6 +16,18 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+The main principle of alterash-based terraponics is to make sure the soil is enriched with the rest of resources used by the plant, including minerals and vitamins, but also moisture, slime, microorganisms, air, soap bubbles and other materials ingested by some plants.
+
+The only exclusions that can't be consistently maintained within the soil are light and any wave rays that the plant is used to, meaning those have to be separately added to the environment depending on the level of isolation.
+
+Alta Eco Pod
+When it comes to mostly isolated environments, an eco pod could be a great exaple, providing properly enriched soil, ventilated air and simulated starlight to the plant.
+
+Iora Gyera Sprinkler
+This autowatering solution has the ability to mix the ionized water passing through it with liquid fertilizers and bubbles, as well as air bubbles to make the water airy, allowing the plant to both drink and breathe.
+
 ## Usage
 
 ### Crafting

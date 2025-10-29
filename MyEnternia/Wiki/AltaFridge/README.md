@@ -22,7 +22,8 @@ The technology behind such appliances is pretty simple, as it runs on cryonic ex
 
 ## Parameters
 
-- Slot Count: 32  
+- Slot Count: 32
+
 - Health: 1.5
 
 ## Usage

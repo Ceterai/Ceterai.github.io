@@ -18,9 +18,29 @@ Radiomessages on pickup:
 
 Launches powerful meteorite shards called [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera)'s Shards.
 
+Parameters:
+
+- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
+- Class: `GunFire`
+- Fire Time: 1.0
+- Base Dps: 9
+- Energy Usage: 32
+- Inaccuracy: 0.12
+- Projectile Count: 1
+- Fire Type: `auto`
+- Projectile Type: `rocketshell`
+- Projectile Parameters:
+  - Knockback: 40
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Elemental Config:
+  - Electric:
+    - Projectile Type: `exmachinarocket`
 
 ## Sources
 

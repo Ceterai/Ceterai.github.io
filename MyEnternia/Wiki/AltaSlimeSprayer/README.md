@@ -12,6 +12,21 @@ Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
+- Class: `GunFire`
+- Fire Time: 0.15
+- Base Dps: 10
+- Energy Usage: 28
+- Projectile Count: 1
+- Inaccuracy: 0.1
+- Fire Type: `auto`
+- Projectile Type: `ct_slime_spray`
+- Projectile Parameters:
+  - Knockback Range:  10,  40
+- Muzzle Flash Variants: 1
+
 ## Sources
 
 Can be crafted:

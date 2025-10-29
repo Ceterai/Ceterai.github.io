@@ -9,7 +9,7 @@ Developed by Tserera, this device provides visual analysis right to your eyes!
 Applies effects:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"/> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem)
-- `breathProtection` +1.0
+- <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [Breath Protection](https://starbounder.org/Breathing_EPP)
 
 ## Usage
 

@@ -21,6 +21,10 @@ Radiomessages on pickup:
 
 Swiftly projects a burst of icy plasma charges onto the targets.
 
+Parameters:
+
+- Projectile Type: `iceplasma`
+
 ### Secondary Ability
 
 Launches a shrapnel blast pack.

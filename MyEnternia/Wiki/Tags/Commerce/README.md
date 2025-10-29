@@ -1,6 +1,6 @@
 # Commerce Tag
 
-The tag `commerce` contains 43 total entries.
+The tag `commerce` contains 44 total entries.
 
 ## Objects
 
@@ -33,13 +33,14 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Commerce](ht
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 25 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 26 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
+- [Alta Ceternity Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaCeternityMerchant)
 - [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)

@@ -18,6 +18,19 @@ Radiomessages on pickup:
 
 This ability makes chakram's owner able to manipulate its trajectory.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.6
+- Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"/> [Plasma Chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram)
+- Params:
+  - Damage Repeat Timeout: 0.2
+  - Return On Hit:
+  - Pickup Distance: 1.0
+  - Hover Max Distance: 15
+  - Hover Time: 0.8
+
 ## Sources
 
 Found naturally in containers:

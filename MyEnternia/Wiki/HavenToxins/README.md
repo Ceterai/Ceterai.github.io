@@ -16,6 +16,14 @@ Radiomessages on pickup:
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 - The item you just got seems to have come for alterash haven - flowery areas on alterash planets that tend to have higher levels of toxicity than surrounding nature. Although it equals to toxicity levels on most green planets, it's not a usual sight here, so I would recommend being careful.
 
+### Contents
+
+While [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) nature looks a lot like regular flowery fields, all of those flowers are based on organic materials that are comparably more toxic than regular ionic iora nature.
+
+That's the main reason why haven growth is never mentioned in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"/> [Gyera Park Guides](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide) - it is simply incompatible with the usual contents.
+
+It needs to be mentioned that haven toxins are far less powerful or harmful compared to [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) toxins, even when compared to edible <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"/> [aric sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings).
+
 ## Usage
 
 ### Crafting

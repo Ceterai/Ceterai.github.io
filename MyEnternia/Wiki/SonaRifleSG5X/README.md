@@ -23,9 +23,49 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Base Dps: 8
+- Fire Time: 0.15
+- Energy Usage: 32
+- Default Fire Type: `burst`
+- Fire Types:
+  - Auto:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `iceplasma`
+    - Hold Time Max:
+  - Charge:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `iceplasma`
+    - Hold Type: `rocket`
+    - Hold Params:
+      - Type: `iceplasmarocket`
+  - Burst:
+    - Press Type: `burst`
+    - Press Params:
+      - Type: `iceplasma`
+      - Count: 3
+      - Sound: `primary_hold`
+      - Fire Time: 0.65
+    - Hold Time Max:
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 8
+- Energy Usage: 36
+- Fire Time: 0.5
+- Press Type: `nade`
+- Press Params:
+  - Type: `icecloudgrenade`
+- Hold Firemodes: `True`
+- Fire Types:  `auto`,  `charge`,  `burst`
 
 ## Sources
 

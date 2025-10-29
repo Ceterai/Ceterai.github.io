@@ -22,7 +22,8 @@ Widely used in alta security bases for quick and authorized access during emerge
 
 ## Parameters
 
-- Slot Count: 9  
+- Slot Count: 9
+
 - Health: 2.0
 
 ## Usage

@@ -1,6 +1,6 @@
 # Collectibles
 
-This mod adds 87 collectibles.
+This mod adds 88 collectibles.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" width="auto" height="16px"/> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
@@ -86,6 +86,7 @@ This mod adds 87 collectibles.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/vio_zych/icon.png" alt="Vio Zych icon" loading="lazy" width="auto" height="16px"/> [Vio Zych](https://ceterai.github.io/MyEnternia/Wiki/VioZych)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/anglure/ct_warped_anglure.png" alt="Warped Anglure Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Warped Anglure Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedAnglureFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/warped/icon.png" alt="Warped Sample icon" loading="lazy" width="auto" height="16px"/> [Warped Sample](https://ceterai.github.io/MyEnternia/Wiki/WarpedSample)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"/> [Warped Spider](https://ceterai.github.io/MyEnternia/Wiki/WarpedSpider)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/sporgus/ct_warped_sporgus.png" alt="Warped Sporgus Figurine icon" loading="lazy" width="auto" height="16px"/> [Warped Sporgus Figurine](https://ceterai.github.io/MyEnternia/Wiki/WarpedSporgusFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yaara/icon.png" alt="Yaara Sample icon" loading="lazy" width="auto" height="16px"/> [Yaara Sample](https://ceterai.github.io/MyEnternia/Wiki/YaaraSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yonnur/icon.png" alt="Yonnur Sample icon" loading="lazy" width="auto" height="16px"/> [Yonnur Sample](https://ceterai.github.io/MyEnternia/Wiki/YonnurSample)

@@ -10,6 +10,18 @@ A big net that uses different light bion compounds for its handle and net itself
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Scripts:  `/items/active/weapons/melee/meleeslash.lua`
+- Class: `MeleeSlash`
+- Fire Time: 0.5
+- Base Dps: 0.01
+- Damage Config:
+  - Damage Source Kind: `bugnet`
+  - Knockback:
+  - Knockback Mode: `facing`
+  - Timeout Group: `primary`
+
 ## Sources
 
 Can be crafted:

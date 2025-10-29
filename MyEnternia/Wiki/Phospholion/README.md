@@ -15,7 +15,7 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 21 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 22 items)</summary>
 
 - `greydye`
 - <img src="https://starbounder.org/mediawiki/images/3/35/Hive_Bed.png" alt="Hive Bed icon" loading="lazy" width="18.5px" height="5.5px"/> [Hive Bed](https://starbounder.org/Hive_Bed)
@@ -34,6 +34,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Phospholion Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/PhospholionLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/phospholion/icon.png" alt="Phospholion Sample ★★ icon" loading="lazy" width="auto" height="16px"/> [Phospholion Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/PhospholionSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_phosphonade.png" alt="Phosphonade icon" loading="lazy" width="auto" height="16px"/> [Phosphonade](https://ceterai.github.io/MyEnternia/Wiki/Phosphonade)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit3/icon.png" alt="Sharp Phospholion Deposit icon" loading="lazy" width="auto" height="16px"/> [Sharp Phospholion Deposit](https://ceterai.github.io/MyEnternia/Wiki/SharpPhospholionDeposit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit2/icon.png" alt="Shiny Phospholion Deposit icon" loading="lazy" width="auto" height="16px"/> [Shiny Phospholion Deposit](https://ceterai.github.io/MyEnternia/Wiki/ShinyPhospholionDeposit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit1/icon.png" alt="Small Phospholion Deposit icon" loading="lazy" width="auto" height="16px"/> [Small Phospholion Deposit](https://ceterai.github.io/MyEnternia/Wiki/SmallPhospholionDeposit)

@@ -1,6 +1,6 @@
 # Dessert Tag
 
-The tag `dessert` contains 45 total entries.
+The tag `dessert` contains 53 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `dessert` contains 45 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 45 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 53 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" width="auto" height="16px"/> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove)
@@ -26,6 +26,7 @@ The tag `dessert` contains 45 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Candy-Aya Chip Ice Cream ★ icon" loading="lazy" width="auto" height="16px"/> [Candy-Aya Chip Ice Cream ★](https://ceterai.github.io/MyEnternia/Wiki/Candy-AyaChipIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Carel Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Carel Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/CarelIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Celestia's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Celestia'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_ceternity_candy.png" alt="Ceternity Candy icon" loading="lazy" width="auto" height="16px"/> [Ceternity Candy](https://ceterai.github.io/MyEnternia/Wiki/CeternityCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Ciranga Cake ★★ icon" loading="lazy" width="auto" height="16px"/> [Ciranga Cake ★★](https://ceterai.github.io/MyEnternia/Wiki/CirangaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" width="auto" height="16px"/> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Crystal Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Crystal Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/CrystalIceCream)
@@ -36,11 +37,16 @@ The tag `dessert` contains 45 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Iced Tsay Dessert ★ icon" loading="lazy" width="auto" height="16px"/> [Iced Tsay Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedTsayDessert)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Ion Cake icon" loading="lazy" width="auto" height="16px"/> [Ion Cake](https://ceterai.github.io/MyEnternia/Wiki/IonCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Keromix Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Keromix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/KeromixIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_miazma_candy.png" alt="Miazma Candy icon" loading="lazy" width="auto" height="16px"/> [Miazma Candy](https://ceterai.github.io/MyEnternia/Wiki/MiazmaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Miko Candy icon" loading="lazy" width="auto" height="16px"/> [Miko Candy](https://ceterai.github.io/MyEnternia/Wiki/MikoCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Mira's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Mira's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Mira'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_neonjack_candy.png" alt="Neonjack Candy icon" loading="lazy" width="auto" height="16px"/> [Neonjack Candy](https://ceterai.github.io/MyEnternia/Wiki/NeonjackCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" width="auto" height="16px"/> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" width="auto" height="16px"/> [Orchid Cake](https://ceterai.github.io/MyEnternia/Wiki/OrchidCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"/> [Orchid Candy](https://ceterai.github.io/MyEnternia/Wiki/OrchidCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_pumpkin_candy.png" alt="Orchid's Pumpkin Candy icon" loading="lazy" width="auto" height="16px"/> [Orchid's Pumpkin Candy](https://ceterai.github.io/MyEnternia/Wiki/Orchid'sPumpkinCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" width="auto" height="16px"/> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_spider_candy.png" alt="Spidy Candy icon" loading="lazy" width="auto" height="16px"/> [Spidy Candy](https://ceterai.github.io/MyEnternia/Wiki/SpidyCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Split Surprize ★ icon" loading="lazy" width="auto" height="16px"/> [Split Surprize ★](https://ceterai.github.io/MyEnternia/Wiki/SplitSurprize)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Strish Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Strish Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/StrishIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"/> [Sunset Crumble](https://ceterai.github.io/MyEnternia/Wiki/SunsetCrumble)
@@ -52,7 +58,9 @@ The tag `dessert` contains 45 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Virmix Dessert ★ icon" loading="lazy" width="auto" height="16px"/> [Virmix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/VirmixDessert)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Waffle Chip Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Waffle Chip Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/WaffleChipIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_candy.png" alt="Warpy Candy icon" loading="lazy" width="auto" height="16px"/> [Warpy Candy](https://ceterai.github.io/MyEnternia/Wiki/WarpyCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Yaa Candy icon" loading="lazy" width="auto" height="16px"/> [Yaa Candy](https://ceterai.github.io/MyEnternia/Wiki/YaaCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_yaajack_candy.png" alt="Yaajack Candy icon" loading="lazy" width="auto" height="16px"/> [Yaajack Candy](https://ceterai.github.io/MyEnternia/Wiki/YaajackCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"/> [Zandarm Prime ★](https://ceterai.github.io/MyEnternia/Wiki/ZandarmPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" width="auto" height="16px"/> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
 

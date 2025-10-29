@@ -22,6 +22,39 @@ Radiomessages on pickup:
 **WIP**. A sequence of 3 light strikes. Hold to perform a Heavy Slash. Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 The blade shines different from the rest of the sword. Perhaps it's due to different concentrations of specks and energy in them.
 
+Parameters:
+
+- Fire Time: 0.625
+- Base Dps: 7
+- Damage Config:
+  - Damage Source Kind: `shortsword`
+  - Timeout: 0.5
+- Steps: 
+- Damage Factor: 1.0
+- Energy Factor:
+- Knockback: 10.0
+- Swoosh: `swoosh_small1`
+- Swoosh Offset:  -1.0,  -0.25,  2.5,  2.0
+- Swoosh Sound: `primary_press`, 
+- Damage Factor: 0.6
+- Energy Factor:
+- Knockback: 20.0
+- Swoosh: `swoosh_small2`
+- Swoosh Offset: ,  -0.5,  2.5,  1.0
+- Swoosh Sound: `primary_press2`, 
+- Damage Factor: 1.4
+- Energy Factor:
+- Knockback: 10.0
+- Swoosh: `swoosh_small2`
+- Swoosh Offset: ,  -0.25,  2.5,  1.0
+- Swoosh Sound: `primary_press`, 
+- Damage Factor: 1.3
+- Energy Factor:
+- Knockback: 25.0
+- Swoosh: `swoosh_small1`
+- Swoosh Offset:  -0.5,  -0.75,  2.0,  1.5
+- Swoosh Sound: `primary_press`
+
 ## Sources
 
 Can be bought from merchants:

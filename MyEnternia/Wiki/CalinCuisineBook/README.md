@@ -15,6 +15,18 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+[Calin cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), as the name suggests, is based on edible [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/crystallic) ingredients.
+
+Most common produce like [carels](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel) figure in almost every calin dish out there.
+
+But due to the sheer variety of crystals in [Io](https://ceterai.github.io/MyEnternia/Wiki/Io), some dishes can use very rare finds in their recipes.
+
+As an example, [Jinighat](https://ceterai.github.io/MyEnternia/Wiki/Jinighat) is an advanced alta dish that uses very rare crystals in its recipe, called [cojils](https://ceterai.github.io/MyEnternia/Wiki/cojils).
+
+[Cojil](https://ceterai.github.io/MyEnternia/Wiki/Cojil) is a soury-hot crystal that can be found in volcanic underwater environments.
+
 ## Usage
 
 ### Crafting

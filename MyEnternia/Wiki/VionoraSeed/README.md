@@ -39,6 +39,7 @@ Unlocks blueprints for:
 
 Can be used to craft:
 
+- <img src="https://starbounder.org/mediawiki/images/c/c6/Beakseed_Crop.png" alt="Beakseed Seed icon" loading="lazy" width="6px" height="12.25px"/> [Beakseed Seed](https://starbounder.org/Beakseed_Seed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVionoraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/pod/icon.png" alt="Vionora Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Vionora Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VionoraEcoPod)

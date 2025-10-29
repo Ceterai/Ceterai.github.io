@@ -21,7 +21,8 @@ A chest-like growth with a natural compartment perfectly fit for some loot.
 
 ## Parameters
 
-- Slot Count: 16  
+- Slot Count: 16
+
 - Health: 1.5
 
 ## Usage

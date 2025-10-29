@@ -24,6 +24,14 @@ Radiomessages on pickup:
 Launch for a further grapple blade (broken). Hold to enter a faster mining state.  
 This one got enhanced with extra switches and was re-weighted to make each swing much easier to perform, resulting in faster mining times.
 
+Parameters:
+
+- Tool Range: 3.5
+- Fire Time: 0.625
+- Block Radius: 2
+- Tile Damage: 1.8
+- Base Dps: 6
+
 ## Sources
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).

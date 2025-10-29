@@ -9,13 +9,20 @@ Applied by following items:
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 0s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration:  
+Effect parameters:
 
-- Animation: 
-
-  - Particles: `sparks`- Bolt Interval: 0.5- Jump Distance: 8- Projectile: `ct_ionic_small`- Status Effects: `frostslow`- Damage From Max Energy: `True`- Damage From Max Energy Percent: 0.05- Damage Clamp: `True`- Damage Clamp Range: 1, 15
+- Animation:
+  - Particles:  `sparks`
+- Bolt Interval: 0.5
+- Jump Distance: 8
+- Projectile: `ct_ionic_small`
+- Status Effects:  `frostslow`
+- Damage From Max Energy: `True`
+- Damage From Max Energy Percent: 0.05
+- Damage Clamp: `True`
+- Damage Clamp Range:  1,  15
 
 ## Technical Information
 

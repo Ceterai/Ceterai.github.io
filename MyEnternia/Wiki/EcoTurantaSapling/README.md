@@ -29,6 +29,7 @@ Growing stages:
 
 Unlocks blueprints for:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/sapling/icon.png" alt="Beakseed Sapling icon" loading="lazy" width="auto" height="16px"/> [Beakseed Sapling](https://ceterai.github.io/MyEnternia/Wiki/BeakseedSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 
 Can be used to craft:

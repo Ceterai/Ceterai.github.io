@@ -12,6 +12,27 @@ An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Scripts:  `/items/active/unsorted/relocator/relocate.lua`
+- Class: `Relocate`
+- Max Storage: 1
+- Max Range: 20
+- Cooldown Time: 0.5
+- Beam Return Time: 0.1
+- Chain:
+  - Start Offset: 
+  - Segment Image: `/items/active/unsorted/relocator/beam/beam.png`
+  - End Segment Image: `/items/active/unsorted/relocator/beam/beamend.png`
+  - Segment Size: 0.48
+  - Overdraw Length: 0.2
+  - Taper:
+  - Waveform:
+    - Frequency: 2.0
+    - Amplitude:
+    - Movement:
+  - Fullbright: `True`
+
 ## Sources
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).

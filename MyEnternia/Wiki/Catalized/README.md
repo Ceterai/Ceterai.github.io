@@ -8,10 +8,7 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 1s
-- Effect parameters: 
-
-
+Default Duration: 1s
 
 ## Technical Information
 

@@ -12,6 +12,26 @@ Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Scripts:  `/items/active/alta/tools/durability.lua`
+- Class: `LimitedShot`
+- Fire Offset:  2.5,  0.25
+- Energy Per Shot: 45
+- Cooldown Time: 0.35
+- Inaccuracy: 0.01
+- Draw Frame Selector: `pollenpumpImageSelector`
+- Draw Power Multiplier: `pollenpumpPowerMultiplier`
+- Draw Speed Multiplier: `pollenpumpTimeMultiplier`
+- Projectile Type: `pollenpumpgas`
+- Power Projectile Type: `pollenpumpgasspray`
+- Power Projectile Time:  1.0,  60
+- Projectile Parameters:
+  - Damage Kind: `bugnet`
+  - Speed: 5
+  - Power: 6.5
+- Draw Arm Frames:  `swim.2`,  `swimIdle.1`
+
 ## Sources
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).

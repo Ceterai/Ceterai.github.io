@@ -16,11 +16,13 @@ Constantly replenishes your energy by 2% each second.
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 1s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration: 1s  
+Effect parameters:
 
-- Heal Stat: `energy`- Heal Base: 0.005- Heal Time: 0.25
+- Heal Stat: `energy`
+- Heal Base: 0.005
+- Heal Time: 0.25
 
 ## Technical Information
 

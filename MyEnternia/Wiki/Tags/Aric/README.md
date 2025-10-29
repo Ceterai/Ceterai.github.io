@@ -1,10 +1,10 @@
 # Aric Tag
 
-The tag `aric` contains 24 total entries.
+The tag `aric` contains 25 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" width="auto" height="16px"/> [Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_coroplic_mutant.png" alt="Coroplic Shroom icon" loading="lazy" width="auto" height="16px"/> [Coroplic Shroom](https://ceterai.github.io/MyEnternia/Wiki/CoroplicShroom)
@@ -17,6 +17,7 @@ The tag `aric` contains 24 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_perolic_glow.png" alt="Perolic Shroom icon" loading="lazy" width="auto" height="16px"/> [Perolic Shroom](https://ceterai.github.io/MyEnternia/Wiki/PerolicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"/> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb_spots.png" alt="Spotful Akollic Shroom icon" loading="lazy" width="auto" height="16px"/> [Spotful Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/SpotfulAkollicShroom)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_aric_art.png" alt="The Great Friendly Aric icon" loading="lazy" width="auto" height="16px"/> [The Great Friendly Aric](https://ceterai.github.io/MyEnternia/Wiki/TheGreatFriendlyAric)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_vyralic_twisted_undone.png" alt="Undone Vyralic Shroom icon" loading="lazy" width="auto" height="16px"/> [Undone Vyralic Shroom](https://ceterai.github.io/MyEnternia/Wiki/UndoneVyralicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_vyralic_twisted.png" alt="Vyralic Shroom icon" loading="lazy" width="auto" height="16px"/> [Vyralic Shroom](https://ceterai.github.io/MyEnternia/Wiki/VyralicShroom)
 

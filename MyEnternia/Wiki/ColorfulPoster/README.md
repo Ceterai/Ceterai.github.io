@@ -11,6 +11,26 @@ Species descriptions:
 
 - Alta: This girl got changed by viona... It's sad, but I'm glad that she's happy, and that she likes her new tail! I hope I could visit this party and hang out with them.
 
+### Contents
+
+Hi, sis!! Wanna throw a party together?!
+
+My name is Cristia, and I'm the partyleader of a viona alta corfal for viona-affected altas!
+
+Our caretaker, Kona, decided to help us organize a party, so I decided to invite everyone to it via these invitations, so we can all hang out together!
+
+Kona is a little worried, but she also says that viona doesn't spread from alta to alta, so I think it should be alright!
+
+Hope you will come!!
+
+Can't wait to see you,
+
+Cristia the Magician Girl ❤
+
+- - -
+
+P.S. If you do come, I'll let you pet my fluffy tail, hehe ^^ (I got it because of viona, and it's really cool!) ❤
+
 ## Usage
 
 ### Crafting

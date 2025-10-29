@@ -17,6 +17,34 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+[Runeva cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine) is based on the triad of commonly found alta fruits - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"/> [aya](https://ceterai.github.io/MyEnternia/Wiki/Aya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"/> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"/> [tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay). Together, these three ingredients are able to produce a vast variety of tastes and textures.
+
+Something as simple as a [runeva assorti](https://ceterai.github.io/MyEnternia/Wiki/runevaassorti) can have different feelings to it depending on ratios and preparation methods.
+
+This book is meant to describe and help with the most popular runeva dishes to date.
+
+More complicated examples, like [Gil Tarts](https://ceterai.github.io/MyEnternia/Wiki/GilTarts), [Soyi](https://ceterai.github.io/MyEnternia/Wiki/Soyi), [Aya Prime](https://ceterai.github.io/MyEnternia/Wiki/AyaPrime), [Green Bites](https://ceterai.github.io/MyEnternia/Wiki/GreenBites), [Gil Seed Cookies](https://ceterai.github.io/MyEnternia/Wiki/GilSeedCookies), [Powder Chip Cookies](https://ceterai.github.io/MyEnternia/Wiki/PowderChipCookies), [Tsay-Gil Jam](https://ceterai.github.io/MyEnternia/Wiki/Tsay-GilJam), [Alterash Breeze](https://ceterai.github.io/MyEnternia/Wiki/AlterashBreeze) and [Allibanas](https://ceterai.github.io/MyEnternia/Wiki/Allibanas) will be looked into in the next issue of the book.
+
+[Runeva Assorti](https://ceterai.github.io/MyEnternia/Wiki/RunevaAssorti) is similar to the aya-tsay <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"/> [assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti), except it includes slightly fermented gil covers and aya-boiled dried tsays to add to their sweetness. Usually all of this gets in slices and layed out in triplets.
+
+[Gil Tarts](https://ceterai.github.io/MyEnternia/Wiki/GilTarts) are sweet gil desserts, that involve the gil pulp with no seeds. Instead, the seeds are sprinkled on top and mashed to add to the bottom cover. Tarts as a type of desserts were initially brought in by outsiders, but have slowly found their popularity among some altas.
+
+[Soyi](https://ceterai.github.io/MyEnternia/Wiki/Soyi) is a popular alta dessert that consists of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"/> [baked aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) & gil powder covered in gil oil and some <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [ionic ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment).
+
+[Aya Prime](https://ceterai.github.io/MyEnternia/Wiki/AyaPrime) is a semi-baked boiled aya, mashed and put back into its cover, creating an illusion of a regular alta. This is often used as a surprise dish or as a party trick.
+
+[Green Bites](https://ceterai.github.io/MyEnternia/Wiki/GreenBites) are cut dried tsays presented as chips. The complexity of the recipe varies from place to place, but home-made bites can be pretty easy to make.
+
+[Gil Seed Cookies](https://ceterai.github.io/MyEnternia/Wiki/GilSeedCookies) and [Powder Chip Cookies](https://ceterai.github.io/MyEnternia/Wiki/PowderChipCookies) are pretty self-explanatory in their meaning, but can get a bit tedious to bake alone.
+
+[Tsay-Gil Jam](https://ceterai.github.io/MyEnternia/Wiki/Tsay-GilJam) is a pretty bitter yet soft jam that sticks well to many dishes and gives them a nice aftertaste.
+
+[Alterash Breeze](https://ceterai.github.io/MyEnternia/Wiki/AlterashBreeze) is a refreshing drink that smells similar to [blossoming ayaka valleys](https://ceterai.github.io/MyEnternia/Wiki/blossomingayakavalleys) found on [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets.
+
+[Allibanas](https://ceterai.github.io/MyEnternia/Wiki/Allibanas) are small dishes named after [Alliana](https://ceterai.github.io/MyEnternia/Wiki/Alliana). They're served warm and are meant to be eaten right away.
+
 ## Usage
 
 ### Crafting

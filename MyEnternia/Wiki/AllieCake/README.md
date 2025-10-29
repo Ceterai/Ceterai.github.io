@@ -1,13 +1,13 @@
 # Allie Cake
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/special/ct_allie_cake.png" alt="Allie Cake icon" loading="lazy" width="auto" height="16px"/> **Allie Cake** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/WIP/ct_allie_cake.png" alt="Allie Cake icon" loading="lazy" width="auto" height="16px"/> **Allie Cake** is a legendary dish.
 
 Runeva alta cuisine. This delicious cake is named after the first and the biggest alta capital and its empress.
 
 ## Parameters
 
 - Food Value: 100
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
 
 Applies effects:
 
@@ -24,4 +24,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_allie_cake`
 - Power: `0.5`
 - Rarity: `Legendary`
-- File: [`/items/generic/food/other/special/ct_allie_cake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/special/ct_allie_cake.consumable)
+- File: [`/items/generic/food/other/WIP/ct_allie_cake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/WIP/ct_allie_cake.consumable)

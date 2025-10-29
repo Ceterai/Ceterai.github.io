@@ -21,7 +21,8 @@ An armored automated security turret. Seems like anyone could become its target.
 
 ## Parameters
 
-- Slot Count: 0  
+- Slot Count:
+
 - Health: 12
 
 This object **doesn't drop itself** when broken.

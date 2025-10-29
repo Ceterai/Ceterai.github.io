@@ -22,7 +22,8 @@ Similar to regular hive stalks, this one was adapted to grow on alterash planets
 
 ## Parameters
 
-- Health: 4.5  
+- Health: 4.5
+
 - Stem/Stipe: `hive`
 - Foliage/Cap: `hive`
 

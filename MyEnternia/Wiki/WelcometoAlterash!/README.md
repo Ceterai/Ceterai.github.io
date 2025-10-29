@@ -13,6 +13,12 @@ Species descriptions:
 
 - Alta: Ashal to you too, little card!
 
+### Contents
+
+Ashal!
+
+Have a nice stay!
+
 ## Usage
 
 ### Crafting

@@ -21,7 +21,8 @@ These [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) "trees" are 
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_yaara_node_stem`
 - Foliage/Cap: `ct_yaara_leaves`
 

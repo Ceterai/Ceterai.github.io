@@ -4,12 +4,12 @@ Decreases your defense by 3.
 
 ## Parameters
 
-- Default Duration: 10s
-- Effect parameters: 
+Default Duration: 10s  
+Effect parameters:
 
-- Protection: -3- Animation: 
-
-  - States: `shield`
+- Protection: -3
+- Animation:
+  - States:  `shield`
 
 ## Technical Information
 

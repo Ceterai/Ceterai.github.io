@@ -12,14 +12,14 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 5s
-- Effect parameters: 
+Default Duration: 5s  
+Effect parameters:
 
-- Movement Parameters: 
-
-  - Liquid Impedance: 0.1  - Liquid Force: 150  - Liquid Jump Profile: 
-
-  - Jump Speed: 150.0
+- Movement Parameters:
+  - Liquid Impedance: 0.1
+  - Liquid Force: 150
+  - Liquid Jump Profile:
+    - Jump Speed: 150.0
 
 ## Technical Information
 

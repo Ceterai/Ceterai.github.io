@@ -23,5 +23,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_astera_art`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`astera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)
 - File: [`/objects/alta/special/paintings/ct_astera_art.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/paintings/ct_astera_art.object)

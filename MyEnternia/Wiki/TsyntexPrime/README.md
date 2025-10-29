@@ -24,6 +24,27 @@ Radiomessages on pickup:
 Semiauto [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) bursts on press (+1 blast per burst), or 2x [gheatsyn charges](https://ceterai.github.io/MyEnternia/Wiki/gheatsyncharges) on hold (40% faster charge). The hold damage increases by 0.2% for every <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [gheatsyn shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) in inventory (max 300 or 60%).  
 Now packing a special accelerator module ran on stardust, it speeds up tsyntex significantly, improving overall performace of this tool.
 
+Parameters:
+
+- Fire Time: 0.1
+- Hold Type: `semi`
+- Hold Params:
+  - Count: 2
+  - Inaccuracy: 0.01
+  - Item Bonus:
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
+    - Damage Factor: 0.002
+    - Max: 300
+  - Type: `ct_gheatsyn_charge`
+- Press Params:
+  - Count: 4
+  - Inaccuracy: 0.04
+  - Type: `ct_impulse_small`
+- Hold Time Max: 0.45
+- Base Dps: 4
+- Energy Usage: 16
+- Press Type: `semi`
+
 ## Sources
 
 Can be bought from merchants:

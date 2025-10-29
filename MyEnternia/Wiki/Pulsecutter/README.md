@@ -18,6 +18,21 @@ Radiomessages on pickup:
 
 Launches a series of small cutting [Pulsings](https://ceterai.github.io/MyEnternia/Wiki/Pulsings) on press and charges a proper long [Impulse Charge](https://ceterai.github.io/MyEnternia/Wiki/ImpulseCharge) on hold.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.2
+- Press Type: `semi`
+- Press Params:
+  - Type: `ct_impulse_small`
+  - Inaccuracy: 0.01
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `ct_impulse_medium`
+  - Inaccuracy: 0.01
+- Hold Time Max: 0.75
+
 ## Sources
 
 Can be crafted:

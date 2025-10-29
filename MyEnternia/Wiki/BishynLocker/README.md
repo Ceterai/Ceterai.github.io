@@ -21,7 +21,8 @@ A locker with crystal sliding doors.
 
 ## Parameters
 
-- Slot Count: 48  
+- Slot Count: 48
+
 - Health: 1.5
 
 ## Usage

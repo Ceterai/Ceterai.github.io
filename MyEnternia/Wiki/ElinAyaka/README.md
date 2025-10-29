@@ -21,7 +21,8 @@ A special variation of [ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/a
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_ayaka_prime_stem`
 - Foliage/Cap: `ct_ayaka_blossom_leaves`
 

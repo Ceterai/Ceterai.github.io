@@ -12,6 +12,21 @@ An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Inaccuracy: 0.1
+- Fire Time: 0.12
+- Muzzle Flash Variants: 1
+- Fire Type: `auto`
+- Projectile Parameters:
+  - Knockback Range:  10,  40
+- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
+- Projectile Type: `ct_foam_spray`
+- Base Dps: 10
+- Projectile Count: 1
+- Class: `GunFire`
+- Energy Usage: 28
+
 ## Sources
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).

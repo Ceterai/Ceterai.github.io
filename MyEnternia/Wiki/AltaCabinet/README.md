@@ -22,7 +22,8 @@ Most basic alta furniture is designed to be simple, lightweight, and, most impor
 
 ## Parameters
 
-- Slot Count: 9  
+- Slot Count: 9
+
 - Health: 1.5
 
 ## Usage

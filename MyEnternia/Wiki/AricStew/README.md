@@ -14,7 +14,6 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 40
-- Blocking Effects: 
 
 ## Sources
 

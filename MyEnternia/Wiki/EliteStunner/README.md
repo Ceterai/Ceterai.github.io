@@ -22,6 +22,11 @@ Radiomessages on pickup:
 **WIP**. Hold to hold out the stunner.  
 All elite guards operating a stunner are trained in a way to get the most of this tool capabilities.
 
+Parameters:
+
+- Fire Time: 0.95
+- Base Dps: 10.5
+
 ### Stunnerhalt
 
 Creates an electric barrier in front of you.  

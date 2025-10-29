@@ -18,10 +18,11 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"/> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/sapling/icon.png" alt="Alternia Sapling icon" loading="lazy" width="auto" height="16px"/> [Alternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Calin Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CalinEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/pod/icon.png" alt="Carel Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Carel Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CarelEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/pod/icon.png" alt="Diamond Eco Pod ★★★★ icon" loading="lazy" width="auto" height="16px"/> [Diamond Eco Pod ★★★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/eco/icon.png" alt="Eco Diamond Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Diamond Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoDiamondSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Eco Faacain Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoFaacainSapling)
@@ -38,12 +39,13 @@ Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc
 
 ## Sources
 
-<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"/> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/sapling/icon.png" alt="Alternia Sapling icon" loading="lazy" width="auto" height="16px"/> [Alternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/sapling/icon.png" alt="Calin Sapling icon" loading="lazy" width="auto" height="16px"/> [Calin Sapling](https://ceterai.github.io/MyEnternia/Wiki/CalinSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/sapling/icon.png" alt="Diamond Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Diamond Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/DiamondSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/eco/icon.png" alt="Eco Carel Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Carel Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCarelSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" width="auto" height="16px"/> [Faacain Sapling](https://ceterai.github.io/MyEnternia/Wiki/FaacainSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/sapling/icon.png" alt="Gheatsyn Sapling icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/GheatsynSapling)
 

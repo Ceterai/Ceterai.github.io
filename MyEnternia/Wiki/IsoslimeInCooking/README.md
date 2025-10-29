@@ -15,6 +15,19 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+[Izopoi](https://ceterai.github.io/MyEnternia/Wiki/Tags/Izopoi), or isoslime, is a generally inedible material that, with proper preparation, can become a great cooking ingredient.
+
+To be clear, even unprepared, izopoi is not inedible in its true sense; instead, it just passes the system with no damage to it whatsoever, but doesn't get properly digested either.
+
+For this reason, this book will explain ways to cook with izopoi to make it as edible and tasty as possible.
+
+The easiest way to cook izopoi is to turn it into <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"/> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam).  
+To do this, you'll need to separate the izo (cryo) layer of the slime from its poi (slime) layer first. This way adding and mixing proper proportions will become much easier.
+
+Izo Jam is a popular cooking ingredient in itself, used in many different cold desserts, for example in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream).
+
 ## Usage
 
 ### Crafting

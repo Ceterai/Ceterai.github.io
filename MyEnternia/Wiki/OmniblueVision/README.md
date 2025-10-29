@@ -19,11 +19,8 @@ Creates a strong beam of blue light in front of you as well as slightly lights u
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 5s
-- Effect parameters: 
-
-
+Blocking Stat: `emiJam`  
+Default Duration: 5s
 
 ## Technical Information
 

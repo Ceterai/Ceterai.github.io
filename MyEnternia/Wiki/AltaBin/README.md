@@ -22,7 +22,8 @@ Altas actively keep their cities clean, volunteering for social work and helping
 
 ## Parameters
 
-- Slot Count: 9  
+- Slot Count: 9
+
 - Health: 1.5
 
 ## Usage

@@ -18,6 +18,21 @@ Radiomessages on pickup:
 
 Press to squirt slime! Hold to charge up sizeable [isoslime balls](https://ceterai.github.io/MyEnternia/Wiki/isoslimeballs), but be careful - they're quite messy.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.2
+- Press Type: `blast`
+- Press Params:
+  - Type: `ct_isoslime_squirt`
+  - Inaccuracy:
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `ct_isoslime_charge`
+  - Inaccuracy: 0.01
+- Hold Time Max: 0.55
+
 ## Sources
 
 Found naturally in containers:

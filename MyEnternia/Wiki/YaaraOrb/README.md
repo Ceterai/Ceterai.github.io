@@ -21,10 +21,17 @@ A glowing orb. It looks like there's room to store things inside.
 
 ## Parameters
 
-- Slot Count: 16  
+- Slot Count: 16
+
 - Health: 1.5
 
 ## Usage
+
+### Crafting
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 
 ### Storage
 

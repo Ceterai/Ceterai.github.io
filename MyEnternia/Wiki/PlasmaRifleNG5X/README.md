@@ -23,9 +23,52 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Base Dps: 8
+- Fire Time: 0.1
+- Energy Usage: 32
+- Burst Params:
+  - Count: 3
+  - Interval: 0.1
+- Default Fire Type: `auto`
+- Fire Types:
+  - Auto:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_plasma_medium`
+      - Sound: `auto`
+    - Hold Time Max:
+  - Semi:
+    - Press Type: `semi`
+    - Press Params:
+      - Type: `ct_plasma_medium`
+      - Count: 3
+      - Interval: 0.1
+    - Hold Time Max:
+  - Single:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_plasma_medium`
+      - Fire Time: 0.45
+      - Inaccuracy: 0.02
+    - Hold Time Max:
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 8
+- Energy Usage: 36
+- Fire Time: 0.8
+- Press Type: `nade`
+- Press Params:
+  - Type: `ct_plasma_nade_charge`
+- Hold Firemodes: `True`
+- Fire Types:  `auto`,  `semi`,  `single`
 
 ## Sources
 

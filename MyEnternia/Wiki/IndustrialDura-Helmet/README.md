@@ -8,8 +8,8 @@ This helmet provides full protection from [poison](https://ceterai.github.io/MyE
 
 Applies effects:
 
-- `poisonStatusImmunity` +1.0
-- `fireStatusImmunity` +1.0
+- `poisonStatusImmunity`
+- `fireStatusImmunity`
 - <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +117.5%
 - <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +0.4
 - <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +2

@@ -15,6 +15,20 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Altas were different from Celestia's flowers. They quickly came together and started building, exploring, creating. There were a lot of them, too. Very soon they found ways to make more of themselves, spreading across the world, expanding and doing what they could to help those little flowers.
+
+And as Celestia asked, altas treated them with love and care. The flowers were deeply grateful and all decided to help altas live in peace and prosperity.
+
+And very slowly, the small alta birthplace turned into a magnificent megacity, and their civilization expanded to other planets as well.
+
+While continuing to explore and learn, altas together with Celestia's flowers were having fun, spending time together and enjoying their seemingly meaningless lives.
+
+"Perhaps, this is why I'm here" - one of them thought for a brief moment - "to enjoy this life I have, my Io's gift."
+
+And then that thought dissipated in ceternia, as she went on, smiling towards the sky, knowing that Celestia is somewhere up there, watching her, smiling back.
+
 ## Usage
 
 ### Crafting

@@ -25,6 +25,20 @@ A sequence of 4 (+1) light strikes. Hold to perform a Hold Super-Strike.
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) damage.  
 The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are [diamonds](https://ceterai.github.io/MyEnternia/Wiki/Tags/Diamond) and [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals.
 
+Parameters:
+
+- Hold Damage Config:
+  - Timeout Group: `hold`
+  - Timeout: 0.5
+- Damage Config:
+  - Damage Source Kind: `<elementalType>spear`
+  - Knockback Mode: `aim`
+  - Knockback: 10
+  - Timeout Group: `primary`
+- Fire Time: 0.6
+- Hold Damage Multiplier: 0.1
+- Base Dps: 12
+
 ## Sources
 
 Can be bought from merchants:

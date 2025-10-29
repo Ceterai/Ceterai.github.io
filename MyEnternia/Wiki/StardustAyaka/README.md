@@ -21,7 +21,8 @@ This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/b
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_ayaka_crystal_stem`
 - Foliage/Cap: `ct_ayaka_prime_leaves`
 

@@ -10,6 +10,22 @@ Shoots happy water sprinkles. Hold LMB to charge a water balloon!
 
 Press to squirt some water or hold to launch a water ball!
 
+Parameters:
+
+- Base Dps:
+- Energy Usage: 16
+- Fire Time: 0.1
+- Press Type: `burst`
+- Press Params:
+  - Type: `squirt`
+  - Inaccuracy: 0.04
+  - Count: 3
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `waterballoon`
+  - Inaccuracy: 0.01
+- Hold Time Max: 0.55
+
 ## Sources
 
 Found naturally in containers:

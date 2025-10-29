@@ -20,11 +20,42 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 Can launch Poison Sweeps on press and Poison Rockets on hold.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.9
+- Press Type: `burst`
+- Press Params:
+  - Type: `acidsweep`
+  - Inaccuracy: 0.21
+  - Params:
+    - Knockback: 5
+    - Time To Live: 5.0
+  - Count: 5
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `poisonplasmarocket`
+  - Inaccuracy: 0.01
+
 ### Venomous Barrage
 
 Able to turn its venom into explosive charges.
 Press - launch an Acid Nade;
 Hold - launch a Poison Cloud Nade.
+
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 36
+- Fire Time: 0.9
+- Press Type: `nade`
+- Press Params:
+  - Type: `acidgrenade`
+- Hold Type: `nade`
+- Hold Params:
+  - Type: `poisoncloudgrenade`
+- Hold Time Max: 0.55
 
 ## Sources
 

@@ -16,6 +16,20 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+A.R.C.O. RESEARCH COMPILATION
+
+Welcome to A.R.C.O. - one of the biggest and efficient alta research and exploration compounds!
+
+Found in Alliana, A.R.C.O. laboratories have expanded throughout many ionic systems since then and are now covering a great number of [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets.
+
+The latest goals of the company were exploring and researching the nature of different [crystallic](https://ceterai.github.io/MyEnternia/Wiki/crystallic) systems found in alterash prime undergrounds.  
+Since most types of [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) in [esetera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Esetera) and below exist in hazardous environments, A.R.C.O. presents a new protective gear set - the A.R.C.O. [Envirosuit](https://ceterai.github.io/MyEnternia/Wiki/Envirosuit)!  
+Please see appropriate research, descriptions and instructions below.
+
+- the rest of the data is encrypted -
+
 ## Usage
 
 ### Crafting

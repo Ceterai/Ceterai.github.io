@@ -13,6 +13,18 @@ These can either be crafted or found in random alta pods on alterash planets.
 - The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 
+### Contents
+
+Strangely enough, this message history doesn't contain any plain written messages at all.
+
+Instead, this just looks like a complete back-and-forth of different technical commands that you would usually see in a programming code.
+
+Why would command centers with real people communicate with each other this way?
+
+...Is there no one there? Just... machines talking to each other?..
+
+What happened?..
+
 ## Usage
 
 ### Crafting

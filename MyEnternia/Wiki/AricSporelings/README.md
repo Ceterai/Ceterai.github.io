@@ -11,6 +11,19 @@ Species descriptions:
 
 - Alta: I would find this more useful if it a bit more... concise.
 
+### Contents
+
+This doc describes ways to distinguish edible, safe, toxic and poisonous [arics](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric).
+
+As aric shrooms don't have a standardized genome due to extensive rate and size of mutations, it can be hard to know whether or not a particular aric is safe to eat or even be around.
+
+Let's start with spores. If you're able to see them at all, this might not be a good sign to begin with.  
+However, if you're able to determine that they're coming from capsule-like appendages or are too big to enter your system, they're not a threat and are likely edible.
+
+If an aric's presence looks very unappealing and defensive, chances are it's entirely edible. Dangerous types of aric generally have glowing parts and/or defensive patterns like spikes or false crystals.
+
+As an example, small [agaranics](https://ceterai.github.io/MyEnternia/Wiki/Tags/Agaranic) are mostly edible, while most [kodorrics](https://ceterai.github.io/MyEnternia/Wiki/Tags/Kodorric) are not.
+
 ## Usage
 
 ### Crafting

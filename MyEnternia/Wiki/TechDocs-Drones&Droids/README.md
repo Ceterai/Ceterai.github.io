@@ -11,6 +11,26 @@ Species descriptions:
 
 - Alta: A good reminder that I shouldn't forget to maintain my drone.
 
+### Contents
+
+Automated Defensive Mobile Units are levitating drones of any EDS-related series.  
+Functionality of each model may vary in accordance to goal tasks that the drone needs to perform.
+
+As such, this documentation includes industrial and military-grade models, as well as their respective description.
+
+ADMU-MD110, Scout Drone - Observer drone with basic functionality and a titanium frame.
+
+ADMU-MD153, Shield Drone - A medium-size titanium drone, provides protection to other ADM units in unsafe environments.
+
+ADMU-MD181, Sentry Drone - Levitating combat system with titanium frame and a hidden layer of EDS armor, assuring functionality in harsh environments.
+
+ADMU-MA224, Battle Drone - Electrified drone with an EDS armor frame, produced for defensive purposes.
+
+ADMU-MA300R, Defensive Drone R300 - High-tech defensive EDS-armored drone, able to spread ionization through the air for stabilization purposes.
+
+ADMU-MA340, Engineer Drone - An upgrade of MD181 with full EDS armor, repurposed for construction works and as a carrier for smaller drones.  
+
+
 ## Usage
 
 ### Crafting

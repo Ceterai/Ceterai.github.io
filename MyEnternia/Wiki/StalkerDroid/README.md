@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" width="auto" height="16px"/> **Stalker Droid ★** is a legendary poisonous throwable item.
 
-This hightech droid has an integrated invisibility tech prototype. Can teleport, slightly giving away its location.  
+This high-tech droid has an integrated invisibility tech prototype. Can teleport, slightly giving away its location.  
 Many stalker droids are used as a safe surveillance for the research of various wild creatures.
 
 ## Ingame
@@ -26,7 +26,7 @@ The launch process of charges is muffled to increase the stealth effect of the m
 
 Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), Camouflage 50%.
 Deals physical damage on touch.  
-While the technology behind this isn't perfect, making these droids completely invisible could have unexpected sideffects for its allies.
+While the technology behind this isn't perfect, making these droids completely invisible could have unexpected side effects for its allies.
 
 ## Sources
 

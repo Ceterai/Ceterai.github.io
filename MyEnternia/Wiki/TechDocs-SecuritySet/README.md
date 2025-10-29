@@ -11,6 +11,20 @@ Species descriptions:
 
 - Alta: The V1V set is a testament to the alta's commitment to safeguarding our communities.
 
+### Contents
+
+Security operatives are general surveillance units and guards restricting access or protecting vital civilian objects.
+
+They are wearing V1V - medium class composite armor - and are equipped with impulse rifles and tasers.
+
+Security Helmet - A full protection helmet utilizing visors to fully isolate the head. Has an integrated Energiser - a light energy regen system.
+
+Security Armor - A medium set of titanium armor with a special tech - Autorepeller, which returns melee damage whenever the wearer is attacked.
+
+Security Greaves - A pair of armor-plated boots that provide additional safety to a security guard by halfing the fall damage.
+
+> Note: be cautious, since effects like Energiser, Autorepeller, Life Support System, Autoprotector, Autoanalyzer, Omniblue Light and Energy Support System can be blocked by EMI attacks.
+
 ## Usage
 
 ### Crafting

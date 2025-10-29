@@ -11,6 +11,12 @@ Species descriptions:
 
 - Alta: Energy is the primary ingredient of life. I should make sure I always have enough of it.
 
+### Contents
+
+Altas use crystals to produce, store and gather energy and to convert it to electricity. As such, most alta energy sources are crystal-driven.
+
+Altas distinguish three types of electric energy: ceternia, alternia and enternia.
+
 ## Usage
 
 ### Crafting

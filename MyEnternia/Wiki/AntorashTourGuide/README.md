@@ -15,6 +15,17 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Welcome to [Antorash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Antorash)!  
+Also called The Underworld, this is a surface-like place, located in the depths of [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets, lit up mostly by crystals and other natural underground light sources.
+
+Enjoy your time traversing [antorash plains](https://ceterai.github.io/MyEnternia/Wiki/AntorashPlains), or relaxing among the crystals of [starforests](https://ceterai.github.io/MyEnternia/Wiki/Starforest).
+
+If you stumble upon an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"/> [alta city](https://ceterai.github.io/MyEnternia/Wiki/AltaCities), be sure to check in with a [security guard](https://ceterai.github.io/MyEnternia/Wiki/securityguard) to register your visit.
+
+Also, stay away from [warped forests](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest). These places have been proven to be somewhat dangerous to [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).
+
 ## Usage
 
 ### Crafting

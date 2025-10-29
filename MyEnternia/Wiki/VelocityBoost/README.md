@@ -10,8 +10,8 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 5s
-- Effect parameters: 
+Default Duration: 5s  
+Effect parameters:
 
 - Add Jump: 0.5
 

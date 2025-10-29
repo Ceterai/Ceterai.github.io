@@ -28,7 +28,7 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warphive Sapl. ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Warphive Sapl. ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarphiveSapl.)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" width="auto" height="16px"/> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
 
 Can be used to craft:

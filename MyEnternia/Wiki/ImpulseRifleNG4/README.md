@@ -24,11 +24,45 @@ Radiomessages on pickup:
 A standard [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) blast with high precision.
 Firemodes: charge, semiauto.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.8
+- Default Fire Type: `charge`
+- Fire Types:
+  - Charge:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Sound: `primary_press`
+      - Inaccuracy: 0.005
+    - Hold Type: `blast`
+    - Hold Params:
+      - Type: `ct_impulse_large`
+      - Sound: `primary_hold`
+      - Inaccuracy: 0.005
+    - Hold Start: `charge`
+    - Hold Loop: `charging`
+  - Semi:
+    - Press Type: `semi`
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Count: 2
+      - Interval: 0.1
+      - Inaccuracy: 0.005
+    - Hold Time Max:
+
 ### Security Switch
 
 All a security unit needs with a rifle.
 Press - change attachments: none, flashlight;
 Hold - change firemodes.
+
+Parameters:
+
+- Fire Types:  `charge`,  `semi`
+- Attachments:  `none`,  `flashlight`
 
 ## Usage
 

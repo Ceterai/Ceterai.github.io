@@ -18,6 +18,26 @@ Radiomessages on pickup:
 
 Charges poisonous Vine Strains at an enemy.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.2
+- Inaccuracy: 0.01
+- Chain:
+  - Taper: 0.5
+  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_aya_virma_s.png`
+  - End Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_aya_virma_e.png`
+  - Segment Size: 1.0
+- Max Projectiles: 8
+- Max Length: 20
+- Guide Projectiles: `True`
+- Projectile Type: `ct_plasma_strain`
+- Projectile Parameters:
+  - Knockback: 5
+  - Speed: 40
+  - Time To Live: 10
+
 ## Sources
 
 Found naturally in containers:

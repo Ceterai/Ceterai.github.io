@@ -4,6 +4,21 @@
 
 This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains some personal notes.
 
+## Ingame
+
+### Contents
+
+Tia thinks that the two of us can handle this, but I'm not as optimistic. Now, that Mira is...
+
+I told Tia that I'll make sure all 'doorways' no longer have an energy source. Obviously, I can't just pretend like I did that, I'll have to remove them for real.  
+But. Something tells me we'll need someone else's help.  
+I'll make sure to send an SOS signal to everywhere I can reach without her noticing.  
+
+
+...Please. If you're reading this. The energy sources used by 'doorways' are the same sources still installed in the generators on Crimsash satellites.
+
+Find the generator, charge the backdoor and find us. I'll try to hold her back as long as possible. - C.M.
+
 ## Usage
 
 ### Crafting

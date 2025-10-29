@@ -30,6 +30,7 @@ Growing stages:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Calin Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCalinSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/sapling/icon.png" alt="Carel Sapling icon" loading="lazy" width="auto" height="16px"/> [Carel Sapling](https://ceterai.github.io/MyEnternia/Wiki/CarelSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/icon.png" alt="Gheatsyn Bud icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Bud](https://ceterai.github.io/MyEnternia/Wiki/GheatsynBud)
 
 Can be used to craft:

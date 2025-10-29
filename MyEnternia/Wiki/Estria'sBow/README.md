@@ -16,9 +16,22 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Projectile Type: `heartarrow`
+- Power Projectile Type: `chargedheartarrow`
+- Projectile Parameters:
+  - Power: 6.5
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Projectile Type: `heartarrow`
+- Projectile Parameters:
+  - Power: 8.125
 
 ## Sources
 

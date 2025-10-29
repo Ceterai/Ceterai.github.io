@@ -22,6 +22,41 @@ Radiomessages on pickup:
 A sequence of 3 heavy strikes. Each strike changes the element. Hold to create a [Traveling Slash](https://ceterai.github.io/MyEnternia/Wiki/TravelingSlash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 The element changes are affecting the _Spectral Tear_ immediately, but might take time to spread onto [Spectral Wave](https://ceterai.github.io/MyEnternia/Wiki/SpectralWave) as well.
 
+Parameters:
+
+- Class: `TravelingSlash`
+- Base Dps: 12
+- Fire Time: 1.2
+- Energy Usage: 32
+- Damage Config:
+  - Item Bonus:
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
+    - Damage Factor: 0.005
+    - Max: 120
+- Switch Element Config: 
+- Element: `fire`
+- Sprite: `/items/active/weapons/melee/alta/heavy/ct_spectre_2.png`, 
+- Element: `electric`
+- Sprite: `/items/active/weapons/melee/alta/heavy/ct_spectre_3.png`, 
+- Element: `poison`
+- Sprite: `/items/active/weapons/melee/alta/heavy/ct_spectre.png`
+- Steps: 
+- Damage Factor: 1.0
+- Energy Factor:
+- Knockback: 10.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0, 
+- Damage Factor: 1.4
+- Energy Factor:
+- Knockback: 5.0
+- Swoosh: `swoosh2`
+- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0, 
+- Damage Factor: 0.6
+- Energy Factor:
+- Knockback: 25.0
+- Swoosh: `swoosh3`
+- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
+
 ### Spectral Wave
 
 Launches an elemental shockwave. The element is affected by the main ability, but needs a reset to go in action.  

@@ -16,6 +16,19 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+[Yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) megaplants grow to sizes so big, they tend to develop their own small ecosystem with its own flora and fauna.
+
+This way, some yaara groves tend to get inhabited by what altas call Yaara Keepers - primitive and aggressive humanoid plant creatures making the grove their home and protecting it from threats.
+
+The two biggest threats here being [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) and [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped).
+
+Yaara keepers consider altas a threat because altas try to utilize and "invade" [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove), sometimes saturating them with "blue fire" - [alternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia).
+
+Obviously, yaara keepers are also hostile towards warped, since warped expansion is a serious threat to yaara existence.  
+This is why one of the main points of negotiation between altas and yaara keepers is <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" width="auto" height="16px"/> [warped containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment).
+
 ## Usage
 
 ### Crafting

@@ -1,6 +1,6 @@
 # Astera Tag
 
-The tag `astera` contains 13 total entries.
+The tag `astera` contains 14 total entries.
 
 ## Objects
 
@@ -8,6 +8,7 @@ Following objects have this colony tag:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/astera/icon.png" alt="Astera Microformer ★★ icon" loading="lazy" width="auto" height="16px"/> [Astera Microformer ★★](https://ceterai.github.io/MyEnternia/Wiki/AsteraMicroformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/astera/icon.png" alt="Enternia Asteroids Microformer ★★★ icon" loading="lazy" width="auto" height="16px"/> [Enternia Asteroids Microformer ★★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaAsteroidsMicroformer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_astera_art.png" alt="Over The Horizon icon" loading="lazy" width="auto" height="16px"/> [Over The Horizon](https://ceterai.github.io/MyEnternia/Wiki/OverTheHorizon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/sapling/icon.png" alt="Stardust Sapling ★★★ icon" loading="lazy" width="auto" height="16px"/> [Stardust Sapling ★★★](https://ceterai.github.io/MyEnternia/Wiki/StardustSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" width="auto" height="16px"/> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
 

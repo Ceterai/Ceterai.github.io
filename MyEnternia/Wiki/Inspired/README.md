@@ -4,10 +4,10 @@ Your mind is filled with ideas and the desire to make them a reality.
 
 ## Parameters
 
-- Default Duration: 2s
-- Effect parameters: 
+Default Duration: 2s  
+Effect parameters:
 
-- Particle Emitters: `inspiration`
+- Particle Emitters:  `inspiration`
 
 ## Technical Information
 

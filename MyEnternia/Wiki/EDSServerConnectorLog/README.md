@@ -18,6 +18,27 @@ These can either be crafted or found in random alta pods on alterash planets.
 - The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 
+### Contents
+
+Error #264: EDS server address error
+#error264\008\%^%$\=432^&+%^678$^\%78+$`231
+Performing automatic reboot . . .
+CPU Cooling . . .
+Client: Creation . . .
+Loading textures . . .
+Client: Synchronization . . .
+Loading the system . . .
+System synchronization . . .
+Loading resources . . .
+Resource synchronization . . .
+Program loading . . .
+System software overhaul . . .
+Preliminary preparation . . .
+
+Reboot unsuccessful. Will perform a retry #2016533 in 60 seconds.
+
+Continuing autopilot mode until successful connection is established.
+
 ## Usage
 
 ### Crafting

@@ -17,6 +17,21 @@ Radiomessages on pickup:
 - Beware of the warped items you just acquired. Warped is a form of wild growth found mainly on alterash planets, that tends to spread uncontrollably and contaminate everything in its path.  
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
 
+### Contents
+
+Once upon a time, there was a very colorful kingdom. It was deep under the ground, where no light reaches from the surface.
+
+But it wasn't dark in the kingdom. If anything, it was quite the opposite - the glow that was coming from it was illuminating everything around it, sometimes reaching as far as the ceiling of the cave.
+
+There was no one living in that kingdom, too. No altas that is. The creatures that lived there were very colorful too, just like the rest of it!  
+When the creatures grew hungry, they drank the very special essence from the glowing plants of the kingdom, that was making it so glowy.  
+The sap was making them glow too, and they were glowing together with everything else around them.  
+This way, some of the creatures learned how to have their own glowing essence, and stopped taking it from plants around them.
+
+No longer relied on the kingdom, they have spread into the wapred forests around them, filling them with beatiful glow, and guarding it from intruders.
+
+So be careful, silly altas, and don't go alone to a warped forest, its inhabitors don't really like starnge, lonely visitors...
+
 ## Usage
 
 ### Crafting

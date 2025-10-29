@@ -20,6 +20,19 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 Compact phosicore of this weapon is able to rapidly generate small accelerated [Ions](https://ceterai.github.io/MyEnternia/Wiki/Ions).
 
+Parameters:
+
+- Hold Time Min: 0.9
+- Fire Time: 0.11
+- Press Params:
+  - Count: 2
+  - Inaccuracy: 0.06
+  - Type: `ct_ionic_small`
+- Hold Time Max:
+- Base Dps: 4
+- Energy Usage: 16
+- Press Type: `blast`
+
 ## Sources
 
 Can be bought from merchants:

@@ -36,20 +36,18 @@ Can be bought from merchants:
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 29 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 27 items)</summary>
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
 - [Alta Albino Shark Cosplayer](https://ceterai.github.io/MyEnternia/Wiki/AltaAlbinoSharkCosplayer)
 - [Alta Alien Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaAlienGirl)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
-- [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)
 - [Alta Dinogirl](https://ceterai.github.io/MyEnternia/Wiki/AltaDinogirl)
 - [Alta Engineer](https://ceterai.github.io/MyEnternia/Wiki/AltaEngineer)
 - [Alta Explorer](https://ceterai.github.io/MyEnternia/Wiki/AltaExplorer)
 - [Alta from a Capital](https://ceterai.github.io/MyEnternia/Wiki/AltafromaCapital)
 - [Alta Gamer](https://ceterai.github.io/MyEnternia/Wiki/AltaGamer)
-- [Alta Holiday Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHolidayGirl)
 - [Alta Hula Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaHulaDancer)
 - [Alta Huntress](https://ceterai.github.io/MyEnternia/Wiki/AltaHuntress)
 - [Alta in a Calin Dress](https://ceterai.github.io/MyEnternia/Wiki/AltainaCalinDress)

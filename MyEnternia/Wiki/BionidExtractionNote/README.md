@@ -11,6 +11,16 @@ Species descriptions:
 
 - Alta: Some of the aspects described in the document are very similar to _Bionid-C2-Prias-7_, which I think was the most common variety in my area. Both of these are classified as corrosive, so lots of similarities. I think these are all called _"Nerigid"_ for short?
 
+### Contents
+
+Local bionid subtype is increasingly reactive to sunlight and general radiation. Given the environment, some of the area is already exposed to rich phospholion deposits in the upper layers of esetera.
+
+There is noticeable visual difference between safe state bionid and unstable one, exposed to the deposits.
+
+This implies that this specific bionid variation could be used to determine radioactive presence in the area, but it also means that the extraction should be done in radio-low areas, with further refinement process.
+
+This bionid variation cannot be used as a direct building material due to its unstable abilities.
+
 ## Usage
 
 ### Crafting

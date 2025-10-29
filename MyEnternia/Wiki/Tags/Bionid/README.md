@@ -1,11 +1,12 @@
 # Bionid Tag
 
-The tag `bionid` contains 23 total entries.
+The tag `bionid` contains 24 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 13 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"/> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bion/icon.png" alt="Bion Sample ★★ icon" loading="lazy" width="auto" height="16px"/> [Bion Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/BionSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bionid/icon.png" alt="Bionid Sample ★★ icon" loading="lazy" width="auto" height="16px"/> [Bionid Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/BionidSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/bionid_snail/icon.png" alt="Bionid Snail icon" loading="lazy" width="auto" height="16px"/> [Bionid Snail](https://ceterai.github.io/MyEnternia/Wiki/BionidSnail)

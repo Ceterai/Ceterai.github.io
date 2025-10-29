@@ -24,7 +24,8 @@ More information on ayakas, their nature and how they're maintained, can be foun
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_ayaka_stem`
 - Foliage/Cap: `ct_ayaka_prime_leaves`
 

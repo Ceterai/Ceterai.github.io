@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Tonna Bowl icon" loading="lazy" width="auto" height="16px"/> **Tonna Bowl** is an uncommon dish.
 
-This fulfilling dish is relatively easy to make, but requires quite a lot of tonnas and _blue buds_. Usualy served with a big spoon.  
+This fulfilling dish is relatively easy to make, but requires quite a lot of tonnas and _blue buds_. usually served with a big spoon.  
 While it looks like a lot, most of it is basically whipped [tonna fruit](https://ceterai.github.io/MyEnternia/Wiki/tonnafruit) with blue buds and some spices for texture and flavor.
 
 ## Ingame
@@ -14,7 +14,6 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 24
-- Blocking Effects: 
 
 Applies effects:
 

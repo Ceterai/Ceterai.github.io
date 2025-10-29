@@ -22,10 +22,51 @@ Radiomessages on pickup:
 **WIP**. Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 You can hear harmonical humming coming from this instrument.
 
+Parameters:
+
+- Class: `SpearStab`
+- Fire Time: 0.6
+- Base Dps: 12
+- Damage Config:
+  - Damage Source Kind: `<elementalType>spear`
+  - Knockback Mode: `aim`
+  - Knockback: 10
+  - Timeout Group: `primary`
+- Hold Damage Multiplier: 0.1
+- Hold Damage Config:
+  - Timeout Group: `hold`
+  - Timeout: 0.5
+
 ### Melody Of The Stars
 
 Hold to perform a magical composition using the stardust energy.  
 Perhaps this isn't a very intended feature, but a very useful one instead.
+
+Parameters:
+
+- Scripts:  `/items/active/weapons/ranged/beamfire.lua`,  `/items/active/weapons/ranged/gunfire.lua`
+- Class: `BeamFire`
+- Base Dps: 11
+- Fire Time: 0.2
+- Energy Usage: 40
+- Damage Config:
+  - Damage Source Kind: `plasma`
+  - Knockback: 2
+- Beam Length: 50
+- Chain:
+  - Start Offset: 
+  - Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
+  - End Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
+  - Segment Size: 1.0
+  - Overdraw Length:
+  - Taper:
+  - Jitter: 0.125
+  - Waveform:
+    - Frequency: 1.0
+    - Amplitude: 0.25
+    - Movement:
+  - Fullbright: `True`
+  - Light:  249,  21,  207
 
 ## Sources
 

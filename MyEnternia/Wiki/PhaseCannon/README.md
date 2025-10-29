@@ -22,10 +22,61 @@ Radiomessages on pickup:
 A powerful beam of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, able to polarize everything in its path.  
 A powerful generator is able to produce a continous stream while using a relatively small amount of energy.
 
+Parameters:
+
+- Class: `BeamFire`
+- Scripts:  `/items/active/weapons/ranged/beamfire.lua`,  `/items/active/weapons/ranged/gunfire.lua`
+- Base Dps: 12
+- Fire Time: 0.2
+- Energy Usage: 44
+- Damage Config:
+  - Damage Source Kind: `plasma`
+  - Knockback: 2
+- Beam Length: 50
+- Chain:
+  - Start Offset: 
+  - Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
+  - End Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
+  - Segment Size: 1.0
+  - Overdraw Length:
+  - Taper:
+  - Jitter: 0.125
+  - Waveform:
+    - Frequency: 1.0
+    - Amplitude: 0.25
+    - Movement:
+  - Fullbright: `True`
+  - Light:  249,  21,  207
+
 ### Phase Charge
 
 Charges up a sphere and launches it forward at a low speed.  
 This sphere is a point of concentrated energy, able to exist for a prolonged periods of time.
+
+Parameters:
+
+- Scripts:  `/items/active/weapons/ranged/alta/ranged.lua`
+- Class: `AltaRanged`
+- Base Dps: 12
+- Fire Time: 0.9
+- Energy Usage: 48
+- Press Type: `blast`
+- Press Params:
+  - Type: `chargeshotsmall`
+  - Inaccuracy:
+  - Params:
+    - Speed: 20
+    - Knockback:
+    - Time To Live: 5.0
+- Hold Type: `clouds`
+- Hold Params:
+  - Type: `chargeshotlarge`
+  - Inaccuracy:
+  - Count: 1
+  - Params:
+    - Speed: 10
+    - Knockback:
+    - Time To Live: 5.0
 
 ## Sources
 

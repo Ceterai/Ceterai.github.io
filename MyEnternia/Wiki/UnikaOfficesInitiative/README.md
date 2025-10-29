@@ -13,6 +13,20 @@ Species descriptions:
 
 - Alta: A great choice for any office space.
 
+### Contents
+
+< UNIKA ORD. >  
+Any busy office environment should stay clean, simple, effective and professional.  
+All of those styling requirements can be achieved with Unika Office Furniture - made from robust, easy to maintain materials, including beautiful refined [bishyn crystals](https://ceterai.github.io/MyEnternia/Wiki/bishyncrystals)!
+
+If you're worried about getting any amount of [crystal poisoning](https://ceterai.github.io/MyEnternia/Wiki/crystalpoisoning) - don't!  
+The crystals are properly refined and desaturated, and contain safe levels of energy.  
+All extracted poison particles are used as a polish material for the surface parts, giving them pretty gloss and making them nice to the touch!
+
+Current set is accomplished in a modern-esque maxi-mini style called [Seturna](https://ceterai.github.io/MyEnternia/Wiki/Seturna) and provides proper wholesome, finished look to a space of almost any size.
+
+If you're interested or have any questions - contact us at ---undecodable code string---
+
 ## Usage
 
 ### Crafting

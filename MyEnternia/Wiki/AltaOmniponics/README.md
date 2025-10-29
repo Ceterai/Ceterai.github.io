@@ -16,6 +16,13 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+Celestial energy and radiation can very rarely be used as a singular source of essential plant-growing materials. Even still, omniponics show that there can be real usage in that, even if the demand for it is sparse.
+Still, omnipowerful stream-based plant growing is one of the greatest achievements of alta science.
+
+Alta Omni Eco Pods are the best piece of implementation for this technique as of now, with further developments by several research groups happening in real time.
+
 ## Usage
 
 ### Crafting

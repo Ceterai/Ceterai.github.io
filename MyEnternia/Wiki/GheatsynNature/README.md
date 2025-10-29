@@ -15,6 +15,32 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Beautiful green crystals hang from the ceiling, slowly dripping onto the ground, creating new formations with each crystal drip.
+
+Much like stalactites and stalagmites, gheatsyn crystals grow and shrink, slowly accumulating and spreading in an endless cycle of transformation.
+
+Unlike most ordinary crystals, gheatsyn almost doesn't shine and doesn't shimmer with beautiful reflections, and it is as if some kind of dark mass has accumulated inside it.
+
+This mass - liquid gheatsyn - will instantly harden as soon as it comes into contact with electricity, and the crystal will sparkle with bright colors again.
+
+At such moments, you can safely break it without getting burned by its liquid form.
+
+This is one of the reasons why most alta drilling and mining tools apply a stable voltage level with each strike - harmless to an alta, but enough to affect the entire crystal, or at least a sufficient part of it.
+
+Sometimes such tools have settings that allow you to increase the current, but these should be used with extreme caution.
+
+Gheatsyn grows differently in different conditions. For example, in [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatorn), it is mixed with cave rocks, sometimes becoming noticeably more difficult to extract.
+
+At the same time, gheatsyn growing in [gheaprisms](https://ceterai.github.io/MyEnternia/Wiki/gheaprisms) is quite fragile, but is very difficult to handle with electricity, since it grows in a rather specific atmosphere, which creates a fairly high resistance to any current.
+
+In any conditions, this extraction is worth it - gheatsyn is an incredibly convenient and flexible material that has a whole variety of uses.
+
+The only pity is that it cannot be used for decoration in its pure form.
+
+It would be unpleasant if your beautiful necklace spilled on you and burned you, simply because electricity got into it.
+
 ## Usage
 
 ### Crafting

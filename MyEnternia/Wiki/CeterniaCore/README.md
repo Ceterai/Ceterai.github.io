@@ -15,7 +15,7 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 59 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 60 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" width="auto" height="16px"/> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
@@ -65,6 +65,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_obsidian_crippit.png" alt="Obsidian Crippit Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> [Obsidian Crippit Figurine ★★](https://ceterai.github.io/MyEnternia/Wiki/ObsidianCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_omni_narfin.png" alt="Omni Narfin Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Omni Narfin Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/OmniNarfinFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crustoise/ct_overcharged_crustoise.png" alt="Overcharged Crustoise Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Overcharged Crustoise Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrustoiseFigurine)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_poptop_claw.png" alt="Poptop's Claw ★ icon" loading="lazy" width="auto" height="16px"/> [Poptop's Claw ★](https://ceterai.github.io/MyEnternia/Wiki/Poptop'sClaw)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_prism_crippit.png" alt="Prism Crippit Figurine ★★★ icon" loading="lazy" width="auto" height="16px"/> [Prism Crippit Figurine ★★★](https://ceterai.github.io/MyEnternia/Wiki/PrismCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_stardust_crippit.png" alt="Stardust Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Stardust Crippit Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/StardustCrippitFigurine)

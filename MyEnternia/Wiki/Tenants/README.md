@@ -1,4 +1,6 @@
-This mod adds a total of 161 tenants.
+# Tenants
+
+This mod adds a total of 182 tenants.
 
 ## Alta
 
@@ -123,6 +125,30 @@ This alta is a heavy fan of gaming and various types of entertainment.
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/gamer3.png)
 
 </details>
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Snow Girl**
+
+Tags: `alta` (12), `ice` (24)
+
+An alta cosplaying as a snowgirl. Nothing to see here. Move along.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Warm Girl**
+
+Tags: `alta` (8), `ice` (6)
+
+An alta dressed up in warm clothes for the cold. These blue scarfs are given out by local outposts to help keep altas warm.
 
 </td></tr>
 
@@ -544,7 +570,7 @@ This alta researcher is performing her independent research in order to advance 
 
 </table>
 
-#### A.R.C.O.
+#### A.R.C.O
 
 <table> <tbody valign="top">
 
@@ -1004,6 +1030,90 @@ Description </th></tr>
 
 </td><td>
 
+Type: **Alta Alien Girl**
+
+Tags: `alta` (6), `alien` (18)
+
+An alta cosplaying as an alien creature.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Warped Girl**
+
+Tags: `alta` (6), `warped` (18)
+
+An alta cosplaying as a warped creature.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Albino Shark Cosplayer**
+
+Tags: `alta` (6), `ocean` (18)
+
+An alta cosplaying a monster from human history. Allegedly.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Banana**
+
+Tags: `alta` (6), `apexvillage` (18)
+
+An alta cosplaying a monster from apex history. Allegedly.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Dinogirl**
+
+Tags: `alta` (6), `gnome` (18)
+
+An alta cosplaying a monster from human history. Allegedly.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Gold Knight** (guard)
+
+Tags: `alta` (6), `hoard` (18)
+
+Likely just an alta cosplaying glitch knights as her fascination. Likely...
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Househead**
+
+Tags: `alta` (12), `gnome` (24)
+
+An alta cosplaying as a house. Yes, really.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
 Type: **Alta Huntress** (guard)
 
 Tags: `alta` (6), `floranhuntinggrounds` (18)
@@ -1033,6 +1143,30 @@ Type: **Alta Pirate** (guard)
 Tags: `alta` (6), `avianairship` (18)
 
 Likely just an alta cosplaying avian pirates as her fascination. Likely...
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Plantain Girl**
+
+Tags: `alta` (12), `apexvillage` (24)
+
+An alta cosplaying a super hero from apex folklore.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Shark Cosplayer**
+
+Tags: `alta` (6), `ocean` (18)
+
+An alta cosplaying a monster from human history. Allegedly.
 
 </td></tr>
 
@@ -1391,6 +1525,30 @@ This merchant sells lots yaara-related things.
 
 </td><td>
 
+Type: **Alta Shadow Gardener**
+
+Tags: `alta` (6), `dark` (8)
+
+An alta watching over a dark stone garden.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Stone Gardener**
+
+Tags: `alta` (6), `stonecave` (8)
+
+An alta watching over a stone garden.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
 Type: **Arigaran**
 
 Tags: `aric` (18), `combat` (18)
@@ -1444,6 +1602,18 @@ Type: **Yaaraling**
 Tags: `yaara` (6)
 
 A diona that came together from various sentient critters of a yaara grove. Like most dionas, they're peaceful in nature.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Yaaviling**
+
+Tags: `yaara` (12), `giantflower` (12)
+
+A diona that came together from various sentient critters of a yaara grove. This one has a yaara eye growing on top of it.
 
 </td></tr>
 
@@ -1663,6 +1833,18 @@ Just an alta at the beach - swimsuits, snorkels, party stuff.
 
 <tr><td valign="middle" align="middle">
 
+</td><td>
+
+Type: **Alta Floran Prisoner**
+
+Tags: `alta` (8), `floranprison` (10)
+
+Yaara keepers have captured an alta and are holding her in their prison. She seems to be in good health, but is likely very scared and confused. Perhaps you can help her find a way out of this place.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
 </td><td>
 
@@ -1685,6 +1867,18 @@ An alta visiting a riverside resort. Often in sunglasses or a beautiful sunny ha
 
 </td></tr>
 
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Slimegirl**
+
+Tags: `alta` (8), `slime` (10)
+
+An alta on a sleepover! Why isn't she sleeping?
+
+</td></tr>
+
 </table>
 
 #### Holiday
@@ -1695,6 +1889,66 @@ An alta visiting a riverside resort. Often in sunglasses or a beautiful sunny ha
 Sprite
 </th> <th>
 Description </th></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Ceternity Girl**
+
+Tags: `alta` (4), `ceternity` (10)
+
+An alta dressed up in spooky clothes. She's celebrating Ceternity!
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Halloween Girl**
+
+Tags: `alta` (4), `halloween` (10)
+
+An alta dressed up in spooky clothes. She's celebrating Ceternity! Or Halloween, as known among humans.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Harrowing Girl**
+
+Tags: `alta` (4), `harrowing` (10)
+
+An alta dressed up in spooky clothes. She's celebrating Ceternity! Or The Harrowing, as known among elithian alliance species.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Ceternity Merchant** (merchant)
+
+Tags: `alta` (4), `ceternity` (16), `storage` (18), `commerce` (12)
+
+This alta is celebrating Ceternity, and she's selling some festive goods!
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Spooky Girl**
+
+Tags: `alta` (4), `spooky` (10)
+
+An alta dressed up in spooky clothes. She's celebrating Ceternity!
+
+</td></tr>
 
 <tr><td valign="middle" align="middle">
 

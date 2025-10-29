@@ -11,6 +11,18 @@ Species descriptions:
 
 - Alta: I can't believe this project is actually real...
 
+### Contents
+
+Researchers of one of the most advanced [alta projects](https://ceterai.github.io/MyEnternia/Wiki/altaprojects) use special equipment that allows them to enhance their [energy usage](https://ceterai.github.io/MyEnternia/Wiki/energyusage) and use highly [electric environments](https://ceterai.github.io/MyEnternia/Wiki/electricenvironments) to their advantage.
+
+[C.T. Alternia](https://ceterai.github.io/MyEnternia/Wiki/C.T.Alternia) [Visor](https://ceterai.github.io/MyEnternia/Wiki/Visor) - A C.T. series helmet. Has a built-in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"/> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision) device. This is the first model in the helmet series.
+
+[C.T. Alternia](https://ceterai.github.io/MyEnternia/Wiki/C.T.Alternia) [Suit](https://ceterai.github.io/MyEnternia/Wiki/Suit) - A high-capacity energy suit with advanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"/> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem) integrated into its front side.
+
+[C.T. Alternia](https://ceterai.github.io/MyEnternia/Wiki/C.T.Alternia) [Walkers](https://ceterai.github.io/MyEnternia/Wiki/Walkers) - Mechanical legwear with additional energy [capacitors](https://ceterai.github.io/MyEnternia/Wiki/capacitors) providing [Max Energy Boost](https://ceterai.github.io/MyEnternia/Wiki/MaxEnergyBoost).
+
+> [Note](https://ceterai.github.io/MyEnternia/Wiki/Note): be cautious, since effects like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"/> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"/> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem) can be blocked by [EMI attacks](https://ceterai.github.io/MyEnternia/Wiki/EMIattacks).
+
 ## Usage
 
 ### Crafting

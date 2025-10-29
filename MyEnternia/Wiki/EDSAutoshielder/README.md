@@ -10,13 +10,15 @@ Applied by following items:
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 10s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration: 10s  
+Effect parameters:
 
-- Effect Config: 
-
-  - Name: `EDS Shield`  - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" width="auto" height="16px"/> [EDS Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSEnergyShield)  - Duration: 24- Energy Usage: 20
+- Effect Config:
+  - Name: `EDS Shield`
+  - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" width="auto" height="16px"/> [EDS Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSEnergyShield)
+  - Duration: 24
+- Energy Usage: 20
 
 ## Technical Information
 

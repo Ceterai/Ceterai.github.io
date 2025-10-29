@@ -24,6 +24,20 @@ Radiomessages on pickup:
 Tsyntex under phosic pressure allows to launch semiauto bursts of impulses on press, and create [gheatsyn charges](https://ceterai.github.io/MyEnternia/Wiki/gheatsyncharges) on hold.  
 This was proven less effective against rogue or annoying drones, but more so towards unsuspecting poi, who didn't deserve this. Should never be used against altas too.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.1
+- Press Type: `semi`
+- Press Params:
+  - Type: `ct_impulse_small`
+  - Inaccuracy: 0.04
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `ct_gheatsyn_charge`
+  - Inaccuracy: 0.01
+
 ## Sources
 
 Can be crafted:

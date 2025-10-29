@@ -46,12 +46,11 @@ Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc
 
 ## Sources
 
-<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"/> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/sapling/icon.png" alt="Cocola Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Cocola Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/CocolaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/sapling/icon.png" alt="Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"/> [Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/sapling/icon.png" alt="Ruka 14-2 Sapling icon" loading="lazy" width="auto" height="16px"/> [Ruka 14-2 Sapling](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Sapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/sapling/icon.png" alt="Turanta Sapling icon" loading="lazy" width="auto" height="16px"/> [Turanta Sapling](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/sapling/icon.png" alt="Verriskoywa Sapling icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSapling)

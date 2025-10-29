@@ -19,11 +19,37 @@ Radiomessages on pickup:
 Ice-cold blasts swipe through the air.
 Firemodes: single, semiauto.
 
+Parameters:
+
+- Class: `AltaRanged`
+- Base Dps: 9
+- Energy Usage: 32
+- Fire Time: 1.6
+- Press Type: `snipe`
+- Press Params:
+  - Type: `iceplasma`
+- Hold Type: `semi`
+- Hold Params:
+  - Type: `iceplasma`
+  - Count: 2
+
 ### Sky Lancer
 
 [Arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight)'s arsenal.
 Press - change attachments: none, laser, stabilizer (x1.25 dmg);
 Hold - launch an Icy Cloud Nade.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 9
+- Energy Usage: 32
+- Fire Time: 0.5
+- Hold Type: `nade`
+- Hold Params:
+  - Type: `icecloudgrenade`
+- Press Attachments: `True`
+- Attachments:  `none`,  `laser`,  `stabilizer`
 
 ## Sources
 

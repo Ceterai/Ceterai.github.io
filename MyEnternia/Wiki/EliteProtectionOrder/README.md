@@ -16,6 +16,16 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+MOTHERSHIP 'ALDERON' > Comm Center > Handle F9-A3BA12F9 > Order #231042
+
+The order for: 'Elite Set Battalion Equipment' has been completed successfully. Please check in with the attached details for final confirmation.
+
+Source: Alliana Citadel
+
+- the rest of the data is encrypted -
+
 ## Usage
 
 ### Crafting

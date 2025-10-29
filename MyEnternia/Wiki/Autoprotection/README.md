@@ -4,8 +4,8 @@ Temporary increases your defense by 4.
 
 ## Parameters
 
-- Default Duration: 30s
-- Effect parameters: 
+Default Duration: 30s  
+Effect parameters:
 
 - Protection: 4
 

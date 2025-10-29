@@ -23,5 +23,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_yaara_art`
 - Power: `2.5`
 - Rarity: `Uncommon`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)
 - File: [`/objects/alta/special/paintings/ct_yaara_art.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/paintings/ct_yaara_art.object)

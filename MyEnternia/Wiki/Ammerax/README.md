@@ -24,10 +24,48 @@ Radiomessages on pickup:
 This tool feels your intent, your tension, and it simply goes along with it. Hold to launch yourself forward.  
 Each combo hit of this tool collect energy and releases it in form of electric bursts on the forth combo hit.
 
+Parameters:
+
+- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
+- Combo Cooldown: 1.0
+- Hold Cooldown: 1.6
+- Max Dash Time: 0.25
+- Fire Time: 2.5
+- Step Damage Config: 
+- Base Damage Factor: 1.35
+- Knockback: 5, 
+- Base Damage Factor: 1.1
+- Knockback: -5, 
+- Base Damage Factor: 1.55
+- Knockback:, 
+- Base Damage Factor: 2.2
+- Knockback: 15
+- Status Effects:  `paralysis`
+- Damage Config:
+  - Damage Source Kind: `axe`
+- Projectile Parameters:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"/> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"/> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
+- Hold Energy Usage: 30
+- Power: 16
+- Dash Max Speed: 120
+- Base Dps: 6
+- Energy Usage: 50
+
 ### Enternia Discharge
 
 A powerful charge of ionic energy is gathering around the handle, and gets discharged from the blade on impact.  
 This process creates special energy circulation dynamic that fills the air around you with static.
+
+Parameters:
+
+- Damage Config:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"/> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension)
+- Projectile Parameters:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"/> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
+  - Knockback: 25
+  - Time To Live: 2.5
+- Power: 4
+- Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
 
 ## Sources
 

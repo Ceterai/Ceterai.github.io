@@ -20,7 +20,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"/> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" width="auto" height="16px"/> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 58 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 59 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/spicer/icon.png" alt="Alta Spicer icon" loading="lazy" width="auto" height="16px"/> [Alta Spicer](https://ceterai.github.io/MyEnternia/Wiki/AltaSpicer)
@@ -29,6 +29,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"/> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
+- `congealedWater`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_yaara_collar.png" alt="Conscious Collar icon" loading="lazy" width="auto" height="16px"/> [Conscious Collar](https://ceterai.github.io/MyEnternia/Wiki/ConsciousCollar)
 - `ct_alta_crafting_station4`
 - `ct_food_mimic`
@@ -93,7 +94,7 @@ Can be used in transmutation studies in the <img src="https://steamuserimages-a.
 
 ### Liquid Extraction
 
-Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x0000025E4508D910>` (if you have it installed).
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x000001DE510F12E0>` (if you have it installed).
 
 ## Sources
 

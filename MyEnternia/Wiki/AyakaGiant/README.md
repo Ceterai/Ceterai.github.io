@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" width="auto" height="16px"/> **Ayaka Giant** is an uncommon tree sapling.
 
-A very rare type of [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) that can grow to enormous hights.
+A very rare type of [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) that can grow to enormous heights.
 
 ## Ingame
 
@@ -21,7 +21,8 @@ A very rare type of [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayaka
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_ayaka_giant_stem`
 - Foliage/Cap: `ct_ayaka_prime_leaves`
 

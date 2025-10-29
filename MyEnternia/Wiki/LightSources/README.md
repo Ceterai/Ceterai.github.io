@@ -1,6 +1,6 @@
 # Light Sources
 
-This mod adds 28 light sources.
+This mod adds 30 light sources.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/light/icon.png" alt="Alta Lab Light icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLabLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" alt="Alta Lamp icon" loading="lazy" width="auto" height="16px"/> [Alta Lamp](https://ceterai.github.io/MyEnternia/Wiki/AltaLamp)
@@ -21,6 +21,8 @@ This mod adds 28 light sources.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric4.png" alt="Gloopy Kodorric Shroom icon" loading="lazy" width="auto" height="16px"/> [Gloopy Kodorric Shroom](https://ceterai.github.io/MyEnternia/Wiki/GloopyKodorricShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/lamp/icon.png" alt="Hevika Lamp icon" loading="lazy" width="auto" height="16px"/> [Hevika Lamp](https://ceterai.github.io/MyEnternia/Wiki/HevikaLamp)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/light/icon.png" alt="Hevika Light icon" loading="lazy" width="auto" height="16px"/> [Hevika Light](https://ceterai.github.io/MyEnternia/Wiki/HevikaLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric2.png" alt="Kodorric Shroom icon" loading="lazy" width="auto" height="16px"/> [Kodorric Shroom](https://ceterai.github.io/MyEnternia/Wiki/KodorricShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> [Stardust Crystal](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric1.png" alt="Thin Kodorric Shroom icon" loading="lazy" width="auto" height="16px"/> [Thin Kodorric Shroom](https://ceterai.github.io/MyEnternia/Wiki/ThinKodorricShroom)

@@ -15,6 +15,26 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+[Esetera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Esetera), or The Empty Place, is an underground abyss on [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets. A gargantuan space, formed by the unstable ionized nature of [Io Structs](https://ceterai.github.io/MyEnternia/Wiki/IoStructs).
+
+[Altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) generally use this space to hide their laboratories and facilities from kaiter scouting groups and military squads.
+
+Most of these structures can be found nearly halfway down to the bottom, almost engraved into the massive natural pillars that literally "hold" the surface of the planet.
+
+This is due to the fact that Esetera Depths possesses even more danger due to its instability and numerous hazards.
+
+The bottom of Esetera, or its actual "surface", is called [Esetera Depths](https://ceterai.github.io/MyEnternia/Wiki/EseteraDepths). Apart from ubiquitous dangers, the surface is strewn with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"/> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal), as well as numerous deep caves that sometimes can lead right to the core of the planet.
+
+These caves, also known as Esetera Caves, act as a natural shield, protecting the core of the planet from high ionization.
+
+[Esetera Caves](https://ceterai.github.io/MyEnternia/Wiki/EseteraCaves) are regular deep caves with mostly hard-to-break materials. Contains the largest amount of ionic crystals.
+
+The air in Esetera Depths and Esetera Caves is overcharged, meaning that without special protection, the player will constantly experience negative effects.
+
+This effect is absent near the [Ion Core](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) of the planet.
+
 ## Usage
 
 ### Crafting

@@ -22,10 +22,24 @@ Radiomessages on pickup:
 An energy crack that deals electric damage at the point of culmination, but also deals half-damage on general collision.  
 This is only possible with the use of advanced power redirectors and multiple alter-spheres.
 
+Parameters:
+
+- Fire Time: 0.9
+- Base Dps: 16
+- Crack Dps: 16
+- Chain Dps: 8
+- Energy Usage: 44
+
 ### Secondary Ability
 
-Quicly launch an energy charge forward. Can bounce off of surfaces.  
+Quickly launch an energy charge forward. Can bounce off of surfaces.  
 It requires a significant amount of power to generate, thus leaving no place for smaller adjacent features.
+
+Parameters:
+
+- Fire Time: 1.2
+- Base Dps: 16
+- Energy Usage: 48
 
 ## Sources
 

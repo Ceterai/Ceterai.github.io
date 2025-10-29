@@ -4,7 +4,11 @@ The tag `painting` contains 12 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 12 items)</summary>
+## Tenants
+
+## Items
+
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"/> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" width="auto" height="16px"/> [Alien Mounds](https://ceterai.github.io/MyEnternia/Wiki/AlienMounds)
@@ -20,7 +24,3 @@ The tag `painting` contains 12 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_minimal_art.png" alt="Unanswered icon" loading="lazy" width="auto" height="16px"/> [Unanswered](https://ceterai.github.io/MyEnternia/Wiki/Unanswered)
 
 </details>
-
-## Tenants
-
-## Items

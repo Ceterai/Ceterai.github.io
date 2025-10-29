@@ -17,10 +17,11 @@ Decreases your electric and poison resistance by 15%.
 
 ## Parameters
 
-- Default Duration: 30s
-- Effect parameters: 
+Default Duration: 30s  
+Effect parameters:
 
-- Electric Resistance: -0.15- Poison Resistance: -0.15
+- Electric Resistance: -0.15
+- Poison Resistance: -0.15
 
 ## Technical Information
 

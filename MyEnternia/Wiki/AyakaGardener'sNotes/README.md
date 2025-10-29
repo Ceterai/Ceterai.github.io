@@ -13,6 +13,35 @@ Species descriptions:
 
 - Alta: This must've taken a lot of time to write...
 
+### Contents
+
+[Ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/Ayakatrees) are generally relatively easy to grow and maintain. This is true for almost all ayaka tree types with small exceptions.
+
+When it comes to the difference between cultivated and wild ayakas, it's significantly hard to cultivate rare ayaka species, as most of them require very specific conditions to exist.
+
+This is also true when it comes to fruitfulness. <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"/> [Ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya), the fruit of ayaka, are very hard to cultivate, thus [Ayaka Forests](https://ceterai.github.io/MyEnternia/Wiki/AyakaForest) and [Alterash Gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens) remain the main sources.
+
+The most common species, or the common ayaka tree, however, is pretty cultivation-friendly and can grow almost anywhere.
+
+Besides, the all-new [alta eco chambers](https://ceterai.github.io/MyEnternia/Wiki/altaecochambers) are able to provide most requirements for even the most rare ayaka species, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" width="auto" height="16px"/> [stardust ayakas](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" width="auto" height="16px"/> [Elin ayakas](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka) and even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" width="auto" height="16px"/> [ayaka giants](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant).
+
+When taking care of wild forest ayakas, make sure to be aware of and careful around <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" width="auto" height="16px"/> [aya virmas](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma) - live poisonous ivy that sometimes grows among [ayaka bushes](https://ceterai.github.io/MyEnternia/Wiki/ayakabushes).  
+While mostly docile, they can get pretty touchy, especially during their mating season.
+
+Their poison is not meant to hurt you as much as immobilize, so be wary to not step on one.
+
+Most common uses for ayakas, aside from ayas, come from the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood).
+
+It's mostly used as a building material for light objects, decorations and as casing for small devices and electronics, like an energy cell, due to good isolation. It's also a good impulse accelerator.
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) can also be refined into paper, or, in very rare cases, used as a cooking ingredient, primarily due to its nutritious fibres and ayaka sap.
+
+[Ayaka sap](https://ceterai.github.io/MyEnternia/Wiki/Ayakasap) is a tingy ionic ferment that has a vast variety of uses among altas. It is a common cooking ingredient, as well as a good connective material and ionic accelerator.
+
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"/> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) is often used as printing material or a cooking ingredient, and as plasma accelerator.
+
+Common cooking recipes from ayaka byproducts include: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" width="auto" height="16px"/> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"/> [Bluesweet Punch](https://ceterai.github.io/MyEnternia/Wiki/BluesweetPunch), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Aya Mash icon" loading="lazy" width="auto" height="16px"/> [Aya Mash](https://ceterai.github.io/MyEnternia/Wiki/AyaMash), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Blue Boil icon" loading="lazy" width="auto" height="16px"/> [Blue Boil](https://ceterai.github.io/MyEnternia/Wiki/BlueBoil), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"/> [Runeva Jam](https://ceterai.github.io/MyEnternia/Wiki/RunevaJam), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"/> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"/> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"/> [Aya Essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Essence icon" loading="lazy" width="auto" height="16px"/> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence), etc.
+
 ## Usage
 
 ### Crafting

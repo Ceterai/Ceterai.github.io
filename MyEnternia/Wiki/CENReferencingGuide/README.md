@@ -11,6 +11,29 @@ Species descriptions:
 
 - Alta: Your guide to everything alta. Rule-wise, that is.
 
+### Contents
+
+Any descriptive document classified as CEN should fall under and is required to only be used as an instance of one of the following categories:
+
+- instructions;
+- protocols;
+- blueprints;
+- documentation.
+
+CEN-1 - General Instructions. Provides general guidelines for the use of CEN documents and their classification.
+
+CEN-2 - Base Protocols. A system of basic alta protocols to follow at all times.
+
+CEN-3 - Era-Bionica. Main alta blueprint, its subtypes and standards.
+
+...unsafe compounds.
+
+CEN-6 - Low Safety Protocol. Provides security standards to ensure safe working conditions and is meant for use in regular environments.
+
+CEN-7 - High Safety Protocol. Provides maximum security measures and rules to ensure safe conditions during dangerous experiments, emergencies and lockdowns.
+
+CEN-8 - Voltage Handling Protocol...
+
 ## Usage
 
 ### Crafting

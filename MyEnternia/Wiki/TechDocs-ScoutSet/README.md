@@ -11,6 +11,19 @@ Species descriptions:
 
 - Alta: Becoming a scout is a rite of passage for many aspiring [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).
 
+### Contents
+
+Scouts are lightweight exploration units.
+
+They are not meant for combat, therefore the main focuses of their equipment are mobility, speed and survivability.  
+Next page contains information on assigned equipment.
+
+Protective Mask (Protomask) - A light titanium mask meant to protect most vital facial regions. Produces an omniblue-colored light to provide additional visibility.
+
+Scout's Lightwear - A small set of titanium armor with special indentations that ease movement and are particularly good for swimming.
+
+Longfall Legwear (Velocity Eaters) - A pair of specialized boots that provide a jump boost as well as half the damage received from a fall.
+
 ## Usage
 
 ### Crafting

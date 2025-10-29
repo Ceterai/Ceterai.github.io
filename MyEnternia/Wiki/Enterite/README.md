@@ -15,7 +15,7 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 14 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 15 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/ship/icon.png" alt="Alta Ship Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_astera_tear.png" alt="Astera's Tear icon" loading="lazy" width="auto" height="16px"/> [Astera's Tear](https://ceterai.github.io/MyEnternia/Wiki/Astera'sTear)
@@ -30,6 +30,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ionic_nade.png" alt="Ion Nade icon" loading="lazy" width="auto" height="16px"/> [Ion Nade](https://ceterai.github.io/MyEnternia/Wiki/IonNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon.png" alt="Ionic Cutter icon" loading="lazy" width="auto" height="16px"/> [Ionic Cutter](https://ceterai.github.io/MyEnternia/Wiki/IonicCutter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" width="auto" height="16px"/> [Meteoblaster WIP](https://ceterai.github.io/MyEnternia/Wiki/MeteoblasterWIP)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
 
 </details>

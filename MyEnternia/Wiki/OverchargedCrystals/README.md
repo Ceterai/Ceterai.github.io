@@ -15,12 +15,16 @@ Repeatedly damages enemies around you with rapid [Pulsings](https://ceterai.gith
 
 ## Parameters
 
-- Default Duration: 0s
-- Effect parameters: 
+Default Duration:  
+Effect parameters:
 
-- Animation: 
-
-  - Particles: `sparks`- Bolt Interval: 1.0- Jump Distance: 2- Projectile: `ct_impulse_small`- Damage Base: 10- Damage Clamp: `True`
+- Animation:
+  - Particles:  `sparks`
+- Bolt Interval: 1.0
+- Jump Distance: 2
+- Projectile: `ct_impulse_small`
+- Damage Base: 10
+- Damage Clamp: `True`
 
 ## Technical Information
 

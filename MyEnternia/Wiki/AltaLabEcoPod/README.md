@@ -22,7 +22,8 @@ The capabilities are rather limited, yet even still this is a fascinating peace 
 
 ## Parameters
 
-- Slot Count: 1  
+- Slot Count: 1
+
 - Health: 3.0
 
 ## Usage

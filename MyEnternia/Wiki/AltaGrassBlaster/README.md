@@ -16,6 +16,20 @@ Radiomessages on pickup:
 
 Press to disperse seeds!
 
+Parameters:
+
+- Class: `AltaBlasterSwitch`
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.4
+- Default Fire Type: `grass`
+- Fire Types:
+  - Grass:
+    - Hold Time Max:
+    - Type: `blast`
+    - Params:
+      - Type: `ct_omni_grass_spray`
+
 ## Sources
 
 Blueprint unlocked by obtaining:

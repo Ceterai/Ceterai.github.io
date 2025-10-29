@@ -21,7 +21,8 @@ An enormous [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) shroom w
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_mutant`
 - Foliage/Cap: `ct_coroplic`
 

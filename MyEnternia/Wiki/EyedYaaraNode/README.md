@@ -21,7 +21,8 @@ These bulb-like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/mai
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_yaara_baobab_stem`
 - Foliage/Cap: `ct_yaara_eye_leaves`
 

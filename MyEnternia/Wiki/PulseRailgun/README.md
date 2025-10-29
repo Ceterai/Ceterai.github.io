@@ -23,9 +23,44 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.8
+- Fire Types:
+  - Charge:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Inaccuracy: 0.005
+    - Hold Type: `blast`
+    - Hold Params:
+      - Type: `ct_impulse_large`
+      - Inaccuracy: 0.005
+  - Semi:
+    - Press Type: `semi`
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Count: 3
+      - Interval: 0.1
+      - Inaccuracy: 0.005
+    - Hold Time Max:
+  - Single:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Inaccuracy: 0.005
+    - Hold Time Max:
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Fire Types:  `charge`,  `semi`,  `single`
+- Attachments:  `none`,  `laser`,  `stabilizer`
 
 ## Sources
 

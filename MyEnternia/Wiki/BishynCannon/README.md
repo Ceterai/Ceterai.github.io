@@ -18,9 +18,45 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.9
+- Press Type: `burst`
+- Press Params:
+  - Type: `ct_bishyn_shard`
+  - Inaccuracy: 0.18
+  - Params:
+    - Knockback: 20
+    - Time To Live: 5.0
+- Hold Type: `clouds`
+- Hold Params:
+  - Type: `ct_bishyn_shard`
+  - Inaccuracy: 1.81
+  - Count: 12
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 36
+- Fire Time: 0.9
+- Press Type: `burst`
+- Press Params:
+  - Type: `acidsweep`
+  - Inaccuracy: 0.11
+  - Params:
+    - Knockback: 20
+    - Time To Live: 5.0
+  - Count: 3
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `poisonproximitymine`
+  - Inaccuracy: 0.01
 
 ## Sources
 

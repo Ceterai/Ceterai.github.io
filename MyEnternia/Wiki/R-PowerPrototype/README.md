@@ -21,9 +21,17 @@ Radiomessages on pickup:
 
 Launches a special mix of toxins and enhanced slime as a rocket.
 
+Parameters:
+
+- Projectile Type: `poisonplasmarocket`
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Projectile Type: `guidedrocket`
 
 ## Sources
 

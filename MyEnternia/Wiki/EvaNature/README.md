@@ -16,6 +16,25 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+Believe it or not, eva areas do have a whole variety of life, with its own light and tangly cosmic flora, and its own aviary and ethereal fauna.
+
+These two groups are not necessarily interconnected, and seem to mostly have different origins and an incomplete overlap in areas of habitat.
+
+Therefore, each group is often researched separately unless for study-specific reasons.
+
+**Eva Flora** mostly consists of alien grass types, _lumena pods_, [arch-lilies](https://ceterai.github.io/MyEnternia/Wiki/arch-lilies) and other small [alien growth](https://ceterai.github.io/MyEnternia/Wiki/aliengrowth), with its main origin being meteorites with preserved microlife.
+
+These meteorites are coming in from beyond the asteroid layer of the planet, with the majority burning down in the atmosphere. Some, however, get practically stuck in eva clouds, breaking the fall.
+
+**Eva Fauna**, on the other hand, is mostly natural to the area and had slowly developed over the years of living in the sky realm.
+
+This includes different types of skyfish and aerojellies, who like to make homes inside eva clouds and mostly feed on the energy impulses of the ionized atmosphere.  
+It's worth noting that there are some species alien to the area that are slowly adopting their new home, and altas are trying their best to make that transition as easy as possible.
+
+In general, the species of both worlds can be relatively hard to come by, as they heavily depend on the presence and amount of clouds, as well as other climate-related characteristics.
+
 ## Usage
 
 ### Crafting

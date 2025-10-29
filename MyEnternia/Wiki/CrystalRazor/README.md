@@ -24,6 +24,40 @@ Radiomessages on pickup:
 A sequence of 4 (+1) heavy strikes. Hold to perform a Super Spin Slash.  
 This refined, almost razor-sharp blade spins in your hand, creating a light show with its reflective surface, signing off in a dance of destruction.
 
+Parameters:
+
+- Damage Config:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- Fire Time: 0.9
+- Energy Usage: 32
+- Base Dps: 12
+- Steps: 
+- Damage Factor: 1.0
+- Energy Factor:
+- Knockback: 20.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0
+- Swoosh Sound: `lazer`, 
+- Damage Factor: 0.6
+- Energy Factor:
+- Knockback: 15.0
+- Swoosh: `swoosh2`
+- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
+- Swoosh Sound: `lazer`, 
+- Damage Factor: 1.2
+- Energy Factor:
+- Knockback: 25.0
+- Swoosh: `swoosh3`
+- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
+- Swoosh Sound: `lazer`, 
+- Damage Factor: 1.6
+- Energy Factor:
+- Knockback: 35.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
+- Swoosh Sound: `primary_hold`
+- Class: `Parry`
+
 ### Sinara's Blast
 
 Hold to perform a Blink Explosion.  

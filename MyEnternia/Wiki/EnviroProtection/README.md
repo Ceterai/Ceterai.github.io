@@ -10,10 +10,11 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 30s
-- Effect parameters: 
+Default Duration: 30s  
+Effect parameters:
 
-- Fire Resistance: 0.15- Poison Resistance: 0.15
+- Fire Resistance: 0.15
+- Poison Resistance: 0.15
 
 ## Technical Information
 

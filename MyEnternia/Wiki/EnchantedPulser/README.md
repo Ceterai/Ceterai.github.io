@@ -27,6 +27,29 @@ Press - now 50% more accurate, 4 blasts instead of 3.
 Hold - the size of the Wobbleshot has increased.  
 It's important to not overhold to not create an out-of-control [miazma](https://ceterai.github.io/MyEnternia/Wiki/miazma). Thankfully, there seems to be a limiter preventing exactly that.
 
+Parameters:
+
+- Fire Time: 0.2
+- Hold Type: `blast`
+- Hold Params:
+  - Inaccuracy: 0.01
+  - Params:
+    - Time To Live: 5.0
+    - Damage Kind: `iceplasma`
+  - Type: `wobbleshot`
+- Press Params:
+  - Count: 4
+  - Inaccuracy: 0.0225
+  - Params:
+    - Time To Live: 5.0
+    - Damage Kind: `iceplasma`
+    - Speed: 60
+  - Type: `blueplasmabullet`
+- Hold Time Max: 0.55
+- Base Dps: 3
+- Energy Usage: 14
+- Press Type: `semi`
+
 ## Sources
 
 Can be bought from merchants:

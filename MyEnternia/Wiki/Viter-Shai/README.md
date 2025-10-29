@@ -18,9 +18,37 @@ Launches Dragon Fire charges from energy particles.
 Press - bursts with small Dragon Fire charges;
 Hold - launches a Dragon Fire rocket.
 
+Parameters:
+
+- Base Dps: 9
+- Energy Usage: 36
+- Fire Time: 0.9
+- Press Type: `burst`
+- Press Params:
+  - Type: `dragonfiresmall`
+  - Inaccuracy: 0.11
+- Hold Type: `rocket`
+- Hold Params:
+  - Type: `dragonfirelarge`
+
 ### Aina Veritas
 
 Launches a Fire Boomerang on press, and Remote Sticky Nades on hold.
+
+Parameters:
+
+- Base Dps: 9
+- Energy Usage: 40
+- Fire Time: 2.2
+- Press Type: `nade`
+- Press Params:
+  - Type: `fireboomerang_l6`
+- Hold Type: `burst`
+- Hold Params:
+  - Type: `remotestickygrenade`
+  - Inaccuracy: 0.26
+  - Count: 3
+- Hold Time Max: 0.55
 
 ## Sources
 

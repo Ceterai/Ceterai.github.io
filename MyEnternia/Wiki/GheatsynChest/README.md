@@ -21,7 +21,8 @@ A simple dark [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn
 
 ## Parameters
 
-- Slot Count: 16  
+- Slot Count: 16
+
 - Health: 1.5
 
 ## Usage

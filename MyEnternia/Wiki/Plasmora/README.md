@@ -21,6 +21,20 @@ Radiomessages on pickup:
 
 Cover your target in plasma! Press the button for a 4-shot semiauto burst of plasma, hold to wind a Plasmar - a powerful plasma charge.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.1
+- Press Type: `semi`
+- Press Params:
+  - Type: `ct_plasma_small`
+  - Inaccuracy: 0.02
+  - Count: 4
+- Hold Type: `rocket`
+- Hold Params:
+  - Type: `ct_plasma_large`
+
 ## Sources
 
 Found naturally in containers:

@@ -33,7 +33,7 @@ Unlocks blueprints for:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warphive Sapl. ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Warphive Sapl. ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarphiveSapl.)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/eco/icon.png" alt="Eco Warped Hive Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Eco Warped Hive Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoWarpedHiveSapling)
 
 ## Sources

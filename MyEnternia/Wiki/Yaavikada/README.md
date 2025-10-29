@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaavikada icon" loading="lazy" width="auto" height="16px"/> **Yaavikada** is an uncommon dish.
 
-Even though is looks like any other _alta kada_, this is actualy a full-on baked assorti in a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon icon" loading="lazy" width="auto" height="16px"/> [yaara melon](https://ceterai.github.io/MyEnternia/Wiki/YaaraMelon) skin.  
+Even though is looks like any other _alta kada_, this is actually a full-on baked assorti in a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaara Melon icon" loading="lazy" width="auto" height="16px"/> [yaara melon](https://ceterai.github.io/MyEnternia/Wiki/YaaraMelon) skin.  
 As something in between a kada and an assorti, this is similarly difficult to prepare and would require a chef's hand to make it work.
 
 ## Ingame
@@ -14,7 +14,6 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 24
-- Blocking Effects: 
 
 Applies effects:
 

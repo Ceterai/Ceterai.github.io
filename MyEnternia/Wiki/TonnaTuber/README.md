@@ -36,13 +36,17 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/sapling/icon.png" alt="Tonna Sapling icon" loading="lazy" width="auto" height="16px"/> [Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/TonnaSapling)
 
-Can be used to craft:
+<details markdown="1"><summary>Can be used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/boosted/icon.png" alt="Boosted Tonna Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTonnaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" width="auto" height="16px"/> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/eco/icon.png" alt="Eco Tonna Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTonnaSapling)
+- `neonmelonseed`
+- `oculemonseed`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/pod/icon.png" alt="Tonna Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Tonna Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/TonnaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/sapling/icon.png" alt="Tonna Sapling icon" loading="lazy" width="auto" height="16px"/> [Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/TonnaSapling)
+
+</details>
 
 ## Sources
 

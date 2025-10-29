@@ -16,11 +16,40 @@ Radiomessages on pickup:
 
 Creates semiauto bursts of [Impulse Charges](https://ceterai.github.io/MyEnternia/Wiki/ImpulseCharges) using [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia) energy.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.65
+- Press Type: `semi`
+- Press Params:
+  - Type: `ct_impulse_medium`
+  - Inaccuracy: 0.04
+  - Params:
+    - Knockback: 20
+    - Time To Live: 5.0
+- Hold Time Min: 0.9
+- Hold Time Max:
+
 ### Twin Pulse
 
 Generates syncronized Twin Impulses with different power.
 Press - launch a Twin Impulse;
 Hold - shotgun burst of Twin Impulses.
+
+Parameters:
+
+- Base Dps: 10
+- Energy Usage: 40
+- Fire Time: 0.9
+- Press Type: `rocket`
+- Press Params:
+  - Type: `ct_impulse_large`
+- Hold Type: `burst`
+- Hold Params:
+  - Type: `ct_impulse_large`
+  - Inaccuracy: 0.21
+  - Count: 3
 
 ## Sources
 

@@ -21,7 +21,8 @@ A bulb of irradiated <img src="https://raw.githubusercontent.com/Ceterai/Enterni
 
 ## Parameters
 
-- Knockback: 10  
+- Knockback: 10
+
 - Health: 4
 
 This object **doesn't drop itself** when broken.

@@ -18,6 +18,26 @@ Radiomessages on pickup:
 
 The core of this blaster is able to generate Plasmic Strains able to change their form.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.2
+- Inaccuracy: 0.01
+- Chain:
+  - Taper: 0.5
+  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_estralis_vi_s.png`
+  - End Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_estralis_vi_e.png`
+  - Segment Size: 1.0
+- Max Projectiles: 8
+- Max Length: 20
+- Guide Projectiles: `True`
+- Projectile Type: `ct_plasma_strain`
+- Projectile Parameters:
+  - Knockback: 5
+  - Speed: 40
+  - Time To Live: 10
+
 ## Sources
 
 Can be bought from merchants:

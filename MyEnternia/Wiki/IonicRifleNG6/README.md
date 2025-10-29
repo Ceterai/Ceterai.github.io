@@ -22,11 +22,38 @@ Radiomessages on pickup:
 Fires multiple [Ionic Charges](https://ceterai.github.io/MyEnternia/Wiki/IonicCharges) on activation.
 Firemodes: burst, semiauto.
 
+Parameters:
+
+- Class: `AltaRanged`
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.65
+- Press Type: `burst`
+- Press Params:
+  - Type: `ct_ionic_medium`
+  - Count: 5
+- Hold Type: `semi`
+- Hold Params:
+  - Type: `ct_ionic_medium`
+  - Count: 6
+
 ### Tactical Ambush
 
 Full set of tools to be ready.
 Press - change attachments: none, laser, flashlight, stabilizer (x1.25 dmg);
 Hold - launch an Electro-Cloud Nade.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 8
+- Energy Usage: 36
+- Fire Time: 0.1
+- Hold Type: `nade`
+- Hold Params:
+  - Type: `electriccloudgrenade`
+- Press Attachments: `True`
+- Attachments:  `none`,  `laser`,  `flashlight`,  `stabilizer`
 
 ## Sources
 

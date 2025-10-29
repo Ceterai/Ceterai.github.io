@@ -26,6 +26,24 @@ Press - the discharge now dissipates 4x longer.
 Hold - 2x Emergencer Signals, now also charges 30% faster.  
 All enhanced capabilities are partially achieved due to the slightly increased size of the tool, allowing for more energy cell elements and receptors.
 
+Parameters:
+
+- Fire Time: 1.2
+- Hold Type: `rocket`
+- Hold Params:
+  - Interval: 0.1
+  - Count: 2
+  - Type: `ct_emergencer_charge`
+- Press Params:
+  - Params:
+    - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+    - Speed: 5
+    - Time To Live: 2.0
+- Hold Time Max: 0.55
+- Base Dps: 1.5
+- Energy Usage: 10
+- Press Type: `tazer`
+
 ## Sources
 
 Can be bought from merchants:

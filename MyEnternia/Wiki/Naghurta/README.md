@@ -16,6 +16,11 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Base Dps: 10
+- Energy Usage: 30
+
 ## Sources
 
 Can be bought from merchants:

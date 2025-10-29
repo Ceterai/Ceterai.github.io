@@ -22,7 +22,8 @@ Its design is quite similar to most washing machines, and is quite careful with 
 
 ## Parameters
 
-- Slot Count: 9  
+- Slot Count: 9
+
 - Health: 1.5
 
 ## Usage

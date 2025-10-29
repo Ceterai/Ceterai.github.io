@@ -15,13 +15,21 @@ Applied by following weather:
 
 ## Parameters
 
-- Blocking Stat: `ionicStatusImmunity`
-- Default Duration: 2.5s
-- Effect parameters: 
+Blocking Stat: `ionicStatusImmunity`  
+Default Duration: 2.5s  
+Effect parameters:
 
-- Interval: 1.4- Jump Distance: 8- Health Percentage: 0.04- Damage Clamp Range: 2, 8- Damage Kind: <img src="/damage/ct_ionic.png" alt="Ionic icon" loading="lazy" width="16px" height="16px"/> [Ionic](Enternia#damage)- Animation: 
-
-  - Directives: `fade=5000c0=0.25`  - Particles: `sparks_dense`  - Lights: `dim`- Semi Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)- Vulnerability: `hevikai`
+- Interval: 1.4
+- Jump Distance: 8
+- Health Percentage: 0.04
+- Damage Clamp Range:  2,  8
+- Damage Kind: <img src="/damage/ct_ionic.png" alt="Ionic icon" loading="lazy" width="16px" height="16px"/> [Ionic](Enternia#damage)
+- Animation:
+  - Directives: `fade=5000c0=0.25`
+  - Particles:  `sparks_dense`
+  - Lights:  `dim`
+- Semi Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
+- Vulnerability: `hevikai`
 
 ## Technical Information
 

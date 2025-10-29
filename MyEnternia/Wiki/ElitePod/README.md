@@ -22,7 +22,8 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 ## Parameters
 
-- Slot Count: 24  
+- Slot Count: 24
+
 - Health: 5.5
 
 ## Usage

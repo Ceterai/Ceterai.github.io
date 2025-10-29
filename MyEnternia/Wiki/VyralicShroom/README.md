@@ -21,7 +21,8 @@ A willowy [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) shroom tha
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_twisted`
 - Foliage/Cap: `ct_vyralic`
 

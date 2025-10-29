@@ -11,6 +11,18 @@ Species descriptions:
 
 - Alta: The EDS sure has the defense part covered.
 
+### Contents
+
+A reinforced set of armor focused on ultra-protection against active threats, manufactured by EDS.
+
+EDS Helmet - An advanced security helmet with integrated EDS Autoshielder.
+
+EDS Body Armor - This improved version of security armor now has a Life Support Module integrated into it.
+
+EDS Armored Greaves - Defensive legwear with added EDS Protection Module providing extra physical and electricity protection.
+
+> Note: be cautious, since effects like EDS Autoshielder and Life Support Module can be blocked by EMI attacks.
+
 ## Usage
 
 ### Crafting

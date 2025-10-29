@@ -39,6 +39,7 @@ Unlocks blueprints for:
 
 Can be used to craft:
 
+- `neonmelonseed`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/sapling/icon.png" alt="Ruka 14-2 Sapling icon" loading="lazy" width="auto" height="16px"/> [Ruka 14-2 Sapling](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Sapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/eco/icon.png" alt="Ruka 14-E Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Ruka 14-E Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-ESapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Ruka 16 Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/Ruka16Sapling)

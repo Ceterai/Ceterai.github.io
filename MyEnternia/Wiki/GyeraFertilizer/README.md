@@ -18,9 +18,10 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"/> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 18 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 19 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/pod/icon.png" alt="Aya Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Aya Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AyaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/pod/icon.png" alt="Beakseed Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Beakseed Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/BeakseedEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/pod/icon.png" alt="Blossom Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Blossom Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/BlossomEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/fertile/icon.png" alt="Fertile Aya Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Fertile Aya Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileAyaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/fertile/icon.png" alt="Fertile Gil Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Fertile Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileGilSapling)

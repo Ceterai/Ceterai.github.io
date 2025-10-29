@@ -8,10 +8,15 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 0s
-- Effect parameters: 
+Default Duration:  
+Effect parameters:
 
-- Play Sound: `False`- Bolt Interval: 4.0- Jump Distance: 30- Projectile: `homingrocket`- Speed: 40- Damage Base: 64
+- Play Sound:
+- Bolt Interval: 4.0
+- Jump Distance: 30
+- Projectile: `homingrocket`
+- Speed: 40
+- Damage Base: 64
 
 ## Technical Information
 

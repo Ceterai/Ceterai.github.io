@@ -16,6 +16,35 @@ Radiomessages on pickup:
 
 Press to disperse seeds! Hold to change seed type. Available: regular grass, flowery, lush and thick.
 
+Parameters:
+
+- Class: `AltaBlasterSwitch`
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.3
+- Default Fire Type: `grass`
+- Fire Types:
+  - Grass:
+    - Type: `blast`
+    - Params:
+      - Type: `ct_omni_grass_spray`
+    - Hold Time Max: 0.75
+  - Flowery:
+    - Type: `blast`
+    - Params:
+      - Type: `ct_omni_flowery_grass_spray`
+    - Hold Time Max: 0.75
+  - Lush:
+    - Type: `blast`
+    - Params:
+      - Type: `ct_omni_lush_grass_spray`
+    - Hold Time Max: 0.75
+  - Thick:
+    - Type: `blast`
+    - Params:
+      - Type: `ct_omni_thick_grass_spray`
+    - Hold Time Max: 0.75
+
 ## Usage
 
 ### Crafting

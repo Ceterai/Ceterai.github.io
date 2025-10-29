@@ -21,7 +21,8 @@ An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/bio
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_bulb_spots`
 - Foliage/Cap: `ct_akollic`
 

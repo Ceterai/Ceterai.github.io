@@ -19,9 +19,40 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.1
+- Press Type: `blast`
+- Press Params:
+  - Type: `poisonplasma`
+  - Inaccuracy: 0.11
+  - Params:
+    - Knockback: 5
+    - Time To Live: 5.0
+- Hold Time Max:
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 40
+- Fire Time: 0.9
+- Press Type: `clouds`
+- Press Params:
+  - Type: `smallpoisoncloud`
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `largepoisoncloud`
+  - Inaccuracy:
+  - Params:
+    - Knockback: 5
+    - Time To Live: 8.0
+    - Speed: 15.0
 
 ## Sources
 

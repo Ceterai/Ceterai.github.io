@@ -23,6 +23,20 @@ Radiomessages on pickup:
 Every strike recharges energy slightly.  
 What tech drives this tool? Is this even technology to begin with? Are dreamers able to comprehend the inner workings of their own tools?..
 
+Parameters:
+
+- Fire Time: 0.6
+- Base Dps: 12
+- Damage Config:
+  - Damage Source Kind: `spear`
+  - Knockback Mode: `aim`
+  - Knockback: 10
+  - Timeout Group: `primary`
+- Hold Damage Multiplier: 0.1
+- Hold Damage Config:
+  - Timeout Group: `hold`
+  - Timeout: 0.5
+
 ### Nightcharge
 
 Hold to perform a spear charge.  

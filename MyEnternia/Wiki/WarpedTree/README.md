@@ -22,7 +22,8 @@ In nature, it's unknown whether this tree was ever "un-warped" or grew after are
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_warped_yaara_stem`
 - Foliage/Cap: `ct_yaara_leaves`
 

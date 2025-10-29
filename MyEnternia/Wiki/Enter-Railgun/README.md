@@ -19,7 +19,12 @@ Radiomessages on pickup:
 
 ### Avida-Rail
 
-Creates powerful ionic charges able to quicly travel on significant distances thanks to advanced rail technology.
+Creates powerful ionic charges able to quickly travel on significant distances thanks to advanced rail technology.
+
+Parameters:
+
+- Base Dps: 10
+- Energy Usage: 40
 
 ### Avida's Mark
 

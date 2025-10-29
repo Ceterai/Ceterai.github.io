@@ -21,7 +21,8 @@ A minifridge that seems to be running on crystal energy from [gheatsyn](https://
 
 ## Parameters
 
-- Slot Count: 12  
+- Slot Count: 12
+
 - Health: 1.5
 
 ## Usage

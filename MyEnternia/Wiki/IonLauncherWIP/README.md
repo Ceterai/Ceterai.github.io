@@ -16,9 +16,35 @@ Radiomessages on pickup:
 
 Launches stabilizing Ion Rockets that deal electric damage.
 
+Parameters:
+
+- Base Dps: 9
+- Energy Usage: 36
+- Fire Time: 1.2
+- Press Type: `blast`
+- Press Params:
+  - Type: `ct_ionic_large`
+  - Inaccuracy:
+  - Params:
+    - Time To Live: 5.0
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `ct_ionic_large`
+  - Inaccuracy: 0.02
+  - Params:
+    - Knockback: 15
+    - Time To Live: 5.0
+  - Count: 2
+  - Interval: 0.1
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Elemental Config:
+
 
 ## Sources
 

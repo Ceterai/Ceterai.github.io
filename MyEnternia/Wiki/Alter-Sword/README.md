@@ -26,6 +26,54 @@ Radiomessages on pickup:
 Can provide up to 5 (+1) combo hits, with 3rd & 4th applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"/> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), and the last one - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"/> [Overcharged Air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).  
 The combo itself is very familiar to any alta soldier as it follows standard [combat protocols](https://ceterai.github.io/MyEnternia/Wiki/combatprotocols).
 
+Parameters:
+
+- Damage Config:
+  - Base Damage: 22.5
+  - Knockback: 40
+  - Damage Source Kind: `electricbroadsword`
+  - Knockback Mode: `facing`
+  - Timeout: 0.5
+- Fire Time: 0.9
+- Hold Params:
+  - Cooldown Time: 0.5
+  - Energy Factor: 1.0
+  - Charge Border: `b0e0fc88`
+  - Charge Time: 0.7
+- Energy Usage: 36
+- Hold Time Max: 0.3
+- Base Dps: 13
+- Steps: 
+- Damage Factor: 1.0
+- Energy Factor: 0.5
+- Knockback: 10.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0, 
+- Damage Factor: 0.4
+- Energy Factor: 0.2
+- Knockback: 5.0
+- Swoosh: `swoosh2`
+- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0, 
+- Damage Factor: 1.1
+- Energy Factor: 0.55
+- Knockback: 20.0
+- Swoosh: `swoosh3`
+- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
+- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"/> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), 
+- Damage Factor: 1.3
+- Energy Factor: 0.65
+- Knockback: 25.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0
+- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"/> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), 
+- Damage Factor: 1.3
+- Energy Factor: 0.35
+- Knockback: 10.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0
+- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"/> [Overcharged Air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir)
+- Class: `BladeCharge`
+
 ### Enhanced Energy Aura
 
 Hold to create an Enhanced Energy Aura.

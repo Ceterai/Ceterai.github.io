@@ -15,6 +15,32 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Altas are proud of their space construction industry. Spaceships of all sizes and purposes, divided by categories, models and types.
+
+Prowling the expanses of space over long distances, for short flights, for trade, for recreation.
+
+Space stations, starships, cruisers and even the [Al'deron](https://ceterai.github.io/MyEnternia/Wiki/Al'deron) mothership are the pride of many [alta architects](https://ceterai.github.io/MyEnternia/Wiki/altaarchitects) and [alta scientists](https://ceterai.github.io/MyEnternia/Wiki/altascientists).
+
+All ships, as is customary among altas, are subject to their own general standards and protocols.
+
+Both in the form of communication rules and designations, and in the form of requirements for equipment and technologies.
+
+So, in the case of any space mechanisms, the main conditions are always air-tightness, certain levels of reliability and stability, convenience and modularity.
+
+Many parts of a typical alta spaceship can exist on their own, rather than as an integral part of the ship itself.
+
+Good examples of such part technologies would be [alta ship shelves](https://ceterai.github.io/MyEnternia/Wiki/altashipshelves), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/table/icon.png" alt="Alta Ship Table icon" loading="lazy" width="auto" height="16px"/> [alta ship tables](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTable), and even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/bed/icon.png" alt="Alta Ship Bed icon" loading="lazy" width="auto" height="16px"/> [alta ship beds](https://ceterai.github.io/MyEnternia/Wiki/AltaShipBed) with protective screens.
+
+If air-tight, many ship devices can continue to operate in any conditions - both underwater and in the vacuum of space. This includes both <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" width="auto" height="16px"/> [alta ship terminals](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTerminal) and the simplest [alta ship lamps](https://ceterai.github.io/MyEnternia/Wiki/altashiplamps).
+
+But the main example of tightness and reliability are [alta ship gateways](https://ceterai.github.io/MyEnternia/Wiki/altashipgateways) - massive blast-proof structures that can keep most problems on the other side.
+
+In the case of cargo ships, the main objects on board will be the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" width="auto" height="16px"/> [alta ship containers](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer) - sealed pods with many fastenings and protective mechanisms.
+
+Although regular <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" width="auto" height="16px"/> [alta ship pods](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod) are also suitable for carrying cargo, containers provide additional protection and greater capacity due to the ease of manual handling - containers are designed specifically for operating cargo-carrying mechanisms, while pods are designed for direct use by altas.
+
 ## Usage
 
 ### Crafting

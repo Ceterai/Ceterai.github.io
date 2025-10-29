@@ -15,6 +15,20 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Alta research has come a long way. From stardust, to crystals, to nature, to culture, to oceans, to space.
+
+They have created cities, laboratories, mines, factions, companies, even their own subspecies, and even their own enemies.
+
+They've come a long way, so long that a lot of them forgot their original purpose.
+
+They've become their own thing, with each alta finding her purpose the same way as the ones that came before them.
+
+What does the future hold for them? Only the time will show.
+
+- Ceterai
+
 ## Usage
 
 ### Crafting

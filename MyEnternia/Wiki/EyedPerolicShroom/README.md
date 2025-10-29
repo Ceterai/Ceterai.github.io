@@ -21,7 +21,8 @@ This unedible-looking shroom is a variation of <img src="https://raw.githubuserc
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_glow_eyes`
 - Foliage/Cap: `ct_perolic`
 

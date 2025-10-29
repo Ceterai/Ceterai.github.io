@@ -1,6 +1,6 @@
 # Door Tag
 
-The tag `door` contains 200 total entries.
+The tag `door` contains 205 total entries.
 
 ## Objects
 
@@ -38,7 +38,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 177 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 182 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -62,6 +62,8 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 - [Alta Biologist](https://ceterai.github.io/MyEnternia/Wiki/AltaBiologist)
 - [Alta Brigadier](https://ceterai.github.io/MyEnternia/Wiki/AltaBrigadier)
 - [Alta Cargo Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaCargoAgent)
+- [Alta Ceternity Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaCeternityGirl)
+- [Alta Ceternity Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaCeternityMerchant)
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
 - [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
@@ -87,6 +89,8 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 - [Alta Geologist](https://ceterai.github.io/MyEnternia/Wiki/AltaGeologist)
 - [Alta Gold Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaGoldKnight)
 - [Alta Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard)
+- [Alta Halloween Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHalloweenGirl)
+- [Alta Harrowing Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHarrowingGirl)
 - [Alta Hive Keeper](https://ceterai.github.io/MyEnternia/Wiki/AltaHiveKeeper)
 - [Alta Holiday Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHolidayGirl)
 - [Alta Househead](https://ceterai.github.io/MyEnternia/Wiki/AltaHousehead)
@@ -139,6 +143,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 - [Alta Social Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker)
 - [Alta Solarium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaSolariumProtecta)
 - [Alta Soldier](https://ceterai.github.io/MyEnternia/Wiki/AltaSoldier)
+- [Alta Spooky Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSpookyGirl)
 - [Alta Stone Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaStoneGardener)
 - [Alta Supervisor](https://ceterai.github.io/MyEnternia/Wiki/AltaSupervisor)
 - [Alta Swimmer](https://ceterai.github.io/MyEnternia/Wiki/AltaSwimmer)

@@ -24,6 +24,26 @@ Radiomessages on pickup:
 Weird enchanted innards make this weapon shoot bursts or [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) plasma on the button press, and launch weird wobbly [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) spheres on hold.  
 These spheres seem to contain a weird magnetic anomaly, very similar in its behaviour to common [miazmas](https://ceterai.github.io/MyEnternia/Wiki/miazmas).
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 14
+- Fire Time: 0.2
+- Press Type: `semi`
+- Press Params:
+  - Type: `blueplasmabullet`
+  - Inaccuracy: 0.045
+  - Params:
+    - Damage Kind: `iceplasma`
+    - Speed: 60
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `miniwobbleshot`
+  - Params:
+    - Damage Kind: `iceplasma`
+  - Inaccuracy: 0.01
+- Hold Time Max: 0.55
+
 ## Sources
 
 Found naturally in containers:

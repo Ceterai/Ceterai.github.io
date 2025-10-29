@@ -21,7 +21,8 @@ A nice, spacious, wall-mounted storage solution.
 
 ## Parameters
 
-- Slot Count: 48  
+- Slot Count: 48
+
 - Health: 3.0
 
 ## Usage

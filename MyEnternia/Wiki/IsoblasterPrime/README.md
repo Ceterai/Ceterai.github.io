@@ -18,6 +18,21 @@ Radiomessages on pickup:
 
 Press to burst with slime! Hold to charge up a semiauto burst of [isoslime balls](https://ceterai.github.io/MyEnternia/Wiki/isoslimeballs). Now charges 40% faster too.
 
+Parameters:
+
+- Fire Time: 0.2
+- Hold Type: `semi`
+- Hold Params:
+  - Type: `ct_isoslime_charge`
+  - Inaccuracy: 0.01
+- Press Params:
+  - Type: `ct_isoslime_squirt`
+  - Inaccuracy:
+- Hold Time Max: 0.35
+- Base Dps: 4
+- Energy Usage: 16
+- Press Type: `semi`
+
 ## Sources
 
 Can be bought from merchants:

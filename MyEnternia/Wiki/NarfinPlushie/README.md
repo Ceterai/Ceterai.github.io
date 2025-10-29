@@ -2,13 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_astral_narfin_plush.png" alt="Narfin Plushie icon" loading="lazy" width="auto" height="16px"/> **Narfin Plushie** is a rare toy.
 
-A cute narfin plush toy for your plush toy collection.
+A cute narfin plush toy for your plush toy collection.  
+These plushies are popular among altas for their therapeutic properties and exceptional softness.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: Narfins are pretty neat as it is, this plushie is that much better, so soft and cuddly!
+- Alta: Narfins are pretty neat as they are, this plushie is that much better, so soft and cuddly!
 
 ## Sources
 

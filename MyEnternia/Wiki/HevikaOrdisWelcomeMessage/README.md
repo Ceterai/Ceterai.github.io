@@ -16,6 +16,28 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+< HEVIKA ORDIS, Confidential >
+
+Welcome to your new workplace, Saya! We're glad to have you as part of the team.
+
+[Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdis) is a Technological Advances Company focused on [crystal](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal)-related research. Its primary goal is studying and utilizing [alternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia)-charged and [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals, plasmic overcharges, as well as the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) phenomenon.
+
+Currently, our products are the only [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) technology able to safely extract and generate [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) energy using <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"/> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal) instead of natural [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) sources.
+
+Your current designation is Farros-III HO3a, Sight 1.
+
+The reception, lobby and cafeteria are located at the first (top) floor. Your personal labcab is 117 (floor 2), main lab is 112 (same floor).
+
+Please receive your access datamass at the reception, then the rest of equipment at the ecab on the same floor as your labcab.
+
+I hope you'll enjoy your time with us.
+
+Feel free to ask any questions!
+
+- Unia, Hevika Ordis Coordinator at Farros-III HO3a-12
+
 ## Usage
 
 ### Crafting

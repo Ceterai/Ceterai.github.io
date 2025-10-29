@@ -21,7 +21,8 @@ An almost spiral-like <img src="https://raw.githubusercontent.com/Ceterai/Entern
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_tonnova_spiral_stem`
 - Foliage/Cap: `ct_tonnova_bulb`
 

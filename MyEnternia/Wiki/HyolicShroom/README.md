@@ -21,7 +21,8 @@ An [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) sprout that grows
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_growth`
 - Foliage/Cap: `ct_hyolic`
 

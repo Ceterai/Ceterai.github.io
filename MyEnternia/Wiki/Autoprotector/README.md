@@ -11,13 +11,15 @@ Applied by following items:
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 10s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration: 10s  
+Effect parameters:
 
-- Effect Config: 
-
-  - Name: `Autoprotection`  - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" width="auto" height="16px"/> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection)  - Min Health Percent: 0.3  - Duration: 10
+- Effect Config:
+  - Name: `Autoprotection`
+  - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" width="auto" height="16px"/> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection)
+  - Min Health Percent: 0.3
+  - Duration: 10
 
 ## Technical Information
 

@@ -24,11 +24,46 @@ Radiomessages on pickup:
 An improved core allows for optimized energy manipulation.
 Firemodes: charge, semiauto, single.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.8
+- Fire Types:
+  - Charge:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Inaccuracy: 0.005
+    - Hold Type: `blast`
+    - Hold Params:
+      - Type: `ct_impulse_large`
+      - Inaccuracy: 0.005
+  - Semi:
+    - Press Type: `semi`
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Count: 3
+      - Interval: 0.1
+      - Inaccuracy: 0.005
+    - Hold Time Max:
+  - Single:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Inaccuracy: 0.005
+    - Hold Time Max:
+
 ### Security Switch Mk2
 
 Adapted tool body offers more options.
 Press - change attachments: none, laser, stabilizer (x1.25 dmg);
 Hold - change firemodes.
+
+Parameters:
+
+- Fire Types:  `charge`,  `semi`,  `single`
+- Attachments:  `none`,  `laser`,  `stabilizer`
 
 ## Sources
 

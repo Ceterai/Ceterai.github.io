@@ -24,6 +24,17 @@ Radiomessages on pickup:
 
 Instructions are simple - just hold the trigger until mission is clear! For an experienced [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) merc this is the only outcome.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 12
+- Fire Time: 0.11
+- Press Type: `blast`
+- Press Params:
+  - Type: `ct_plasma_small`
+- Hold Time Min: 0.9
+- Hold Time Max:
+
 ## Sources
 
 Found naturally in containers:

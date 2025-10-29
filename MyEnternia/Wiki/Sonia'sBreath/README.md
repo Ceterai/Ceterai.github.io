@@ -18,6 +18,23 @@ Radiomessages on pickup:
 
 An advanced cooling mechanism that's able to generate a stream of cold gas mass with a 2x further reach.
 
+Parameters:
+
+- Hold Cooldown:
+- Fire Time: 0.065
+- Hold Type: `thrower`
+- Hold Params:
+  - Interval:
+  - Params:
+    - Time To Live: 0.98
+    - Animation Cycle: 1
+  - Type: `icethrower`
+- Hold Time Max:
+- Loop: `True`
+- Base Dps: 4
+- Energy Usage: 16
+- Hold Time Min:
+
 ## Sources
 
 Can be bought from merchants:

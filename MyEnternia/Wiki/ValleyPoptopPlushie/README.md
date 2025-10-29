@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_valley_poptop_plush.png" alt="Valley Poptop Plushie ★ icon" loading="lazy" width="auto" height="16px"/> **Valley Poptop Plushie ★** is a rare toy.
 
-A big poptop plushie in pastel colors.
+A big poptop plushie in pastel colors.  
+Poptops are known for their deceptive cuteness and melody humming. This plushie is a safe way to enjoy their charm without the risk of being bitten or getting stepped on.
 
 ## Ingame
 

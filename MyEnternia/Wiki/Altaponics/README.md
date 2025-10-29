@@ -16,6 +16,19 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+Altaponics is the basic science around soil-based farming in artificial environments. It aims to improve and advance the most straight-forward techniques for growing herbal plants that require soil, water and air to exist, as well as starlight, additional vitamins and minerals.
+
+The main approaches revolve around creating a semi-isolated environment filled with a proper soil mixture, as well as a watering system that suits the plant's needs. The air and starlight are expected to be naturally accessible from outside, meaning that basic altaponics are not meant for airless and everdark environments.
+
+Alta Plant Pod
+An all-purpose device meant to provide all the resources mentioned in the first section of the instruction.
+This is the next step in tech level after regular flower pots - mainly the composite and bion ones - as it also provides a level of isolation and temperature regulation often required.
+
+Alta Sprinkler
+The main part of the plant pod watering system, that can also be used as a standalone device, meant for watering crops in bigger farming environments. It operates by regularly dispersing water through the soil. Make sure the water has a way to exit the soil, to make sure it doesn't become stale.
+
 ## Usage
 
 ### Crafting

@@ -16,6 +16,22 @@ Radiomessages on pickup:
 - Beware of the warped items you just acquired. Warped is a form of wild growth found mainly on alterash planets, that tends to spread uncontrollably and contaminate everything in its path.  
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
 
+### Contents
+
+"Why would you cultivate a nivera plant?" you might ask, dear sister.
+
+The answer to that is relatively simple - to expand our knowledge of the warped phenomenon, but most importantly - to improve our medicine in the process!
+
+Nivera plants are a valuable resource as they are already, with their venom in tiny doses being used in many technical products.
+
+It also shows huge potential for usage in various medicine, and as such, nivera cultivation should lead to new discoveries and research, as well as developing safe variations of nivera, full on medical ingredients!
+
+If you wish to be a part of this new initiative, sign up for free nivera samples and join our nivera cultivation master class!
+
+And if you want to proceed on your own, please find appropriate instructions and protocol references on the back of the poster.
+
+For Alliana!
+
 ## Usage
 
 ### Crafting

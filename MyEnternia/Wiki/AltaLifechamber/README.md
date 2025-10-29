@@ -14,7 +14,7 @@ A healing station made by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags
 - Floran: Way smaller than thorn podsss on my planet.
 - Glitch: Cautious. Devices like these are not to be trusted.
 - Human: Is it dangerous to go in? Well, only one way to find out!
-- Hylotl: An inclosed tall capsule with semi-transparent glass. Fancy.
+- Hylotl: An enclosed tall capsule with semi-transparent glass. Fancy.
 - Novakid: Ain't afraid of no booth I tell ya. Let's try it!
 
 </details>

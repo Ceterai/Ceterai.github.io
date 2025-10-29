@@ -25,6 +25,20 @@ Radiomessages on pickup:
 Enters a charged state every 10 seconds, making next 4 hits deal bonus [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) damage.  
 The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are [diamonds](https://ceterai.github.io/MyEnternia/Wiki/Tags/Diamond) and [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals.
 
+Parameters:
+
+- Fire Time: 0.6
+- Base Dps: 12
+- Damage Config:
+  - Damage Source Kind: `<elementalType>spear`
+  - Knockback Mode: `aim`
+  - Knockback: 10
+  - Timeout Group: `primary`
+- Hold Damage Multiplier: 0.1
+- Hold Damage Config:
+  - Timeout Group: `hold`
+  - Timeout: 0.5
+
 ### Spearing
 
 Hold to perform a rocket spear ability.  

@@ -22,11 +22,38 @@ Radiomessages on pickup:
 Generates powerful blasts of plasma with accelerated ions.
 Firemodes: burst, semiauto.
 
+Parameters:
+
+- Class: `AltaRanged`
+- Base Dps: 10
+- Energy Usage: 40
+- Fire Time: 0.8
+- Press Type: `burst`
+- Press Params:
+  - Type: `ct_plasma_medium`
+  - Count: 5
+- Hold Type: `semi`
+- Hold Params:
+  - Type: `ct_ionic_medium`
+  - Count: 5
+
 ### Nia Erea Desit
 
 Enhance the spread of energy flowing through this blaster.
 Press - change attachments: none, laser, flashlight;
 Hold - launch Electro-Cloud Nade.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 10
+- Energy Usage: 44
+- Fire Time: 0.1
+- Hold Type: `nade`
+- Hold Params:
+  - Type: `electriccloudgrenade`
+- Press Attachments: `True`
+- Attachments:  `none`,  `laser`,  `flashlight`
 
 ## Sources
 

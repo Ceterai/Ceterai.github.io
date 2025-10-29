@@ -15,7 +15,7 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 57 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 58 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Botanics Guide ★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" width="auto" height="16px"/> [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter)
@@ -71,6 +71,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" width="auto" height="16px"/> [Hevika Turret](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurret)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ion_collider.png" alt="Ion Collider WIP icon" loading="lazy" width="auto" height="16px"/> [Ion Collider WIP](https://ceterai.github.io/MyEnternia/Wiki/IonColliderWIP)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_plasma_nade.png" alt="Plasma Nade icon" loading="lazy" width="auto" height="16px"/> [Plasma Nade](https://ceterai.github.io/MyEnternia/Wiki/PlasmaNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Staris Soup icon" loading="lazy" width="auto" height="16px"/> [Staris Soup](https://ceterai.github.io/MyEnternia/Wiki/StarisSoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" width="auto" height="16px"/> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)

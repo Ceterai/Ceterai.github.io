@@ -20,12 +20,17 @@ Analyzes enemies around you, applying <img src="https://raw.githubusercontent.co
 
 ## Parameters
 
-- Default Duration: 0s
-- Effect parameters: 
+Default Duration:  
+Effect parameters:
 
-- Play Sound: `False`- Bolt Interval: 2.0- Jump Distance: 10- Projectile: `invisibleprojectile`- Projectile Params: 
-
-  - Damage Kind: `nodamage`- Status Effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_analyzed.png" alt="Analyzed icon" loading="lazy" width="auto" height="16px"/> [Analyzed](https://ceterai.github.io/MyEnternia/Wiki/Analyzed)- Speed: 150
+- Play Sound:
+- Bolt Interval: 2.0
+- Jump Distance: 10
+- Projectile: `invisibleprojectile`
+- Projectile Params:
+  - Damage Kind: `nodamage`
+- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_analyzed.png" alt="Analyzed icon" loading="lazy" width="auto" height="16px"/> [Analyzed](https://ceterai.github.io/MyEnternia/Wiki/Analyzed)
+- Speed: 150
 
 ## Technical Information
 

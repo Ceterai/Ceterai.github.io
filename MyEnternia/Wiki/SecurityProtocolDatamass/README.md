@@ -16,6 +16,24 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+SECURITY PROTOCOL DOCUMENTATION
+
+The goal of this document is to describe present security protocols as well as lockdown and quarantine related scenarios.  
+This should also be referenced as a security guard guide for general purposes.
+
+The data includes a full blueprint list for all necessary equipment.
+
+All mentioned guidelines were approved by all 4 alta mothers:
+
+Alderon Commander Mira;  
+Alta-1 Empress Alliana;  
+Staris Mother Celestia;  
+Garden Mother Elin.
+
+As well as by the majority of creators.
+
 ## Usage
 
 ### Crafting

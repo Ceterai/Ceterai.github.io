@@ -21,7 +21,8 @@ A highly reinforced airtight pod that can be used as a chest.
 
 ## Parameters
 
-- Slot Count: 24  
+- Slot Count: 24
+
 - Health: 6.0
 
 ## Usage

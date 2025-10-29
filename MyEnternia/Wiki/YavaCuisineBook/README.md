@@ -15,6 +15,12 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+[Yava cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine) is not as common among altas, used to crystals and pulps, compared to other cuisines.
+
+As the name suggests, this is a herb-based cuisine filled with various vitamins and natural textures.
+
 ## Usage
 
 ### Crafting

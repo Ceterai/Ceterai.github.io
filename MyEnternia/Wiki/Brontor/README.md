@@ -18,11 +18,41 @@ Sona energy flows within this tool.
 Press - a semiauto burst of [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) plasma;
 Hold - launches an Ice Burster.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.65
+- Press Type: `semi`
+- Press Params:
+  - Type: `iceplasma`
+  - Inaccuracy: 0.04
+  - Params:
+    - Knockback: 20
+    - Time To Live: 5.0
+- Hold Type: `nade`
+- Hold Params:
+  - Type: `iceburster`
+
 ### Armored Crest
 
 Brontorous defences powered by [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse).
 Press - launches a [Proto-Pulsar](https://ceterai.github.io/MyEnternia/Wiki/Proto-Pulsar);
 Hold - a shotgun burst of Sticky Plasma.
+
+Parameters:
+
+- Base Dps: 10
+- Energy Usage: 40
+- Fire Time: 0.9
+- Press Type: `rocket`
+- Press Params:
+  - Type: `ct_impulse_large`
+- Hold Type: `burst`
+- Hold Params:
+  - Type: `stickyplasma`
+  - Inaccuracy: 0.01
+  - Count: 3
 
 ## Sources
 

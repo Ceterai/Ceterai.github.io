@@ -18,6 +18,23 @@ Radiomessages on pickup:
 
 This cooling mechanism is able to generate a stream of cold gas mass.
 
+Parameters:
+
+- Base Dps: 4.5
+- Energy Usage: 16
+- Fire Time: 0.065
+- Hold Type: `thrower`
+- Hold Params:
+  - Type: `icethrower`
+  - Params:
+    - Animation Cycle: 0.45
+    - Time To Live:  0.4,  0.55
+  - Interval:
+- Hold Time Min:
+- Hold Time Max:
+- Hold Cooldown:
+- Loop: `True`
+
 ## Sources
 
 Found naturally in containers:

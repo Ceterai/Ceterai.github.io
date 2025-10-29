@@ -25,12 +25,52 @@ Phosicore of this weapon can produce sona energy.
 Firemodes: burst, auto, charge.  
 Letting it hold on the charge mode will produce a cryoplasma rocket and launch it at a decent speed.
 
+Parameters:
+
+- Base Dps: 8
+- Fire Time: 0.15
+- Energy Usage: 32
+- Default Fire Type: `burst`
+- Fire Types:
+  - Auto:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `iceplasma`
+    - Hold Time Max:
+  - Charge:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `iceplasma`
+    - Hold Type: `rocket`
+    - Hold Params:
+      - Type: `iceplasmarocket`
+  - Burst:
+    - Press Type: `burst`
+    - Press Params:
+      - Type: `iceplasma`
+      - Count: 3
+      - Sound: `primary_hold`
+      - Fire Time: 0.65
+    - Hold Time Max:
+
 ### Tactical Cryonics
 
 A set of functions for tavriya environments.  
 Press - launch an Ice Cloud Nade;  
 Hold - change firemodes.  
 Works especially well against targets vulnerable to low temperatures.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 8
+- Energy Usage: 36
+- Fire Time: 0.5
+- Press Type: `nade`
+- Press Params:
+  - Type: `icecloudgrenade`
+- Hold Firemodes: `True`
+- Fire Types:  `auto`,  `charge`,  `burst`
 
 ## Sources
 

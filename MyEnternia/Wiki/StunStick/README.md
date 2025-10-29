@@ -25,6 +25,19 @@ Radiomessages on pickup:
 **WIP**. A sequence of 3 light stun strikes. Hold to perform a Halter Strike.  
 The retractable **springrope** holding the head of the stunstick 
 
+Parameters:
+
+- Class: `WhipCrack`
+- Fire Time: 0.625
+- Base Dps: 6
+- Chain Dps: 1.0
+- Crack Dps: 7.2
+- Damage Config:
+  - Damage Source Kind: `electric`
+  - Timeout Group: `primary`
+  - Timeout: 0.3
+- Projectile Type: `whipcrackelectric`
+
 ## Sources
 
 Can be crafted:

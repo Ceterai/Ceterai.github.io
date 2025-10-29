@@ -1,6 +1,6 @@
 # Legendary Tag
 
-The tag `legendary` contains 591 total entries.
+The tag `legendary` contains 593 total entries.
 
 ## Objects
 
@@ -202,7 +202,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 405 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 407 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/astera.png" alt="A Spacedrifter's Adventure icon" loading="lazy" width="auto" height="16px"/> [A Spacedrifter's Adventure](https://ceterai.github.io/MyEnternia/Wiki/ASpacedrifter'sAdventure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" width="auto" height="16px"/> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX)
@@ -499,6 +499,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png" alt="Orange Kinetic Shield icon" loading="lazy" width="auto" height="16px"/> [Orange Kinetic Shield](https://ceterai.github.io/MyEnternia/Wiki/OrangeKineticShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" width="auto" height="16px"/> [Orchid Cake](https://ceterai.github.io/MyEnternia/Wiki/OrchidCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/scan/ore_detector/icon.png" alt="Ore Detector icon" loading="lazy" width="auto" height="16px"/> [Ore Detector](https://ceterai.github.io/MyEnternia/Wiki/OreDetector)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_astera_art.png" alt="Over The Horizon icon" loading="lazy" width="auto" height="16px"/> [Over The Horizon](https://ceterai.github.io/MyEnternia/Wiki/OverTheHorizon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" width="auto" height="16px"/> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" width="auto" height="16px"/> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Perfect Altasoup ★ icon" loading="lazy" width="auto" height="16px"/> [Perfect Altasoup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectAltasoup)
@@ -578,6 +579,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon_upg.png" alt="Super-Slimer ★ icon" loading="lazy" width="auto" height="16px"/> [Super-Slimer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Slimer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon_upg.png" alt="Superdrill ★ icon" loading="lazy" width="auto" height="16px"/> [Superdrill ★](https://ceterai.github.io/MyEnternia/Wiki/Superdrill)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Observer icon" loading="lazy" width="auto" height="16px"/> [The Observer](https://ceterai.github.io/MyEnternia/Wiki/TheObserver)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_stardust_orchid_art.png" alt="The Stardust Orchid ★ icon" loading="lazy" width="auto" height="16px"/> [The Stardust Orchid ★](https://ceterai.github.io/MyEnternia/Wiki/TheStardustOrchid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier4.png" alt="Tier 4 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 4 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier4Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonna Meringue icon" loading="lazy" width="auto" height="16px"/> [Tonna Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnaMeringue)

@@ -17,11 +17,33 @@ Radiomessages on pickup:
 
 This blaster fires rare, powerful blasts. Perfect for hunting down a huge monster.
 
+Parameters:
+
+- Class: `AltaRanged`
+- Base Dps: 10
+- Energy Usage: 36
+- Fire Time: 1.6
+- Press Type: `snipe`
+- Press Params:
+  - Type: `ct_ionic_medium`
+- Hold Time Max:
+
 ### Scavenger's Arsenal
 
 A scavenger is ready for everything.
 Press - change attachments: none, flashlight, laser, stabilizer (x1.25 dmg);
 Hold - launch a Static Nade.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 10
+- Energy Usage: 36
+- Fire Time: 0.5
+- Hold Type: `nade`
+- Hold Params:
+  - Type: `electriccloudgrenade`
+- Press Attachments: `True`
 
 ## Sources
 

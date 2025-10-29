@@ -11,6 +11,12 @@ Species descriptions:
 
 - Alta: A general guide to data storage and transfer. "Don't forget to back up your data!"
 
+### Contents
+
+Datamass is a data storage device, useful for saving and transferring useful or technical information like documents and databases.
+
+Datamasses often contain data understood by other alta technology, like blueprints and recipes that can be understood by a crafting station or a terminal.
+
 ## Usage
 
 ### Crafting

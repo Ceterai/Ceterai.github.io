@@ -17,8 +17,8 @@ Decreases fall damage by 75%.
 
 ## Parameters
 
-- Default Duration: 1.0s
-- Effect parameters: 
+Default Duration: 1.0s  
+Effect parameters:
 
 - Fall Damage Multiplier: 0.25
 

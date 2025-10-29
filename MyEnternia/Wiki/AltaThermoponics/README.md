@@ -16,6 +16,12 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+Thermal plant feeding seemed to be impossible until recently. Even still, it can only be used for a tiny variety of plants, that can survive off of direct energy feeding. These plants often are energy-based, belonging to one of the rarest plant type there are.
+
+Due to energy conversion efficiency, scientists are trying their best to develop new plants, able to produce common resources from sheer energy - multiple research groups interested in this caused a new subprofession to appear - Alta Thermobotanist, or Alta Niaraia.
+
 ## Usage
 
 ### Crafting

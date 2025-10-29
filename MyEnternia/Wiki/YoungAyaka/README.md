@@ -24,7 +24,8 @@ More information on ayakas, their nature and how they're maintained, can be foun
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_young_ayaka_short_stem`
 - Foliage/Cap: `ct_young_ayaka_leaves`
 

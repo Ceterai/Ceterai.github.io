@@ -15,6 +15,14 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+There's a powerful virmamancer living in the woods, the legends say she rules over all virmas in those woods and they do anything she wants on just a single command.
+
+Not many know, but the virmamancer is actually just a kind little alta gardener, who loved growing and studying plants so much she was able to find a common language even with the wild virmas in the forest.
+
+They quickly became great friends, and were able to live together despite seemingly ominous language barriers.
+
 ## Usage
 
 ### Crafting

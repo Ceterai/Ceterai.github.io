@@ -15,6 +15,29 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Access codes to most of alta laboratories operate according to standardized protocols and principles.
+
+Most often they depend on the direction of the laboratory and the research group using it.
+
+Laboratories focused on the study and production of energy very often have many [energy locks](https://ceterai.github.io/MyEnternia/Wiki/energylocks) in addition to the usual protocols, especially if they are locally produced.
+
+Such labs, in addition to the usual equipment such as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"/> [alta lab capsules](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" width="auto" height="16px"/> [alta lab terminals](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" width="auto" height="16px"/> [alta lab servers](https://ceterai.github.io/MyEnternia/Wiki/AltaLabServer), are usually filled with special energy equipment such as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"/> [alta lab amplifiers](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier), most often used in the development of terraformers, or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"/> [alta lab capsules](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule), the main purpose of which is most often either to simply contain energy fuel or synthesis of energy in vacuum space.
+
+Medical laboratories, on the other hand, most often have a large number of advanced models of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" width="auto" height="16px"/> [alta lifechambers](https://ceterai.github.io/MyEnternia/Wiki/AltaLifechamber) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/bed/icon.png" alt="Alta Lab Bed icon" loading="lazy" width="auto" height="16px"/> [alta lab beds](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBed), allowing not only to perform dangerous operations, but also to send altas into medical stasis, keeping them alive.  
+Similar equipment, but for plants, can be found in botanical research gardens - [alta lab eco chambers](https://ceterai.github.io/MyEnternia/Wiki/altalabecochambers) designed to support life for specimens that require non-standard conditions.
+
+Thus, complexes with similar equipment can be easily found in places where the research industry is concentrated - on the islands of [esetera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Esetera), among [astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera) asteroids and occasionally near the moderate [ion cores](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) of planets.
+
+Occasionally, general laboratories and research centers can be found on the surface, but such complexes more often than not use other types of equipment.
+
+Some scientific companies and organizations use their own developed equipment, such as [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdis) and [Ghearun](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun).
+
+In such cases, access and security technologies are based on the company's own protocols, in addition to the mandatory ones.
+
+The calling card of alta labs is considered to be the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"/> [alta lab pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod) - a standard model used almost everywhere due to its properties.
+
 ## Usage
 
 ### Crafting

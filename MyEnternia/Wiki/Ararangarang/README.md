@@ -20,6 +20,19 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.6
+- Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"/> [Ararang](https://ceterai.github.io/MyEnternia/Wiki/Ararang)
+- Params:
+  - Knockback:
+  - Ignore Terrain:
+  - Control Force: 30
+  - Pickup Distance: 1.0
+  - Snap Distance: 2.0
+
 ## Sources
 
 Can be bought from merchants:

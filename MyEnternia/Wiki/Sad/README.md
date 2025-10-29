@@ -4,10 +4,10 @@ I... feel you...
 
 ## Parameters
 
-- Default Duration: 2s
-- Effect parameters: 
+Default Duration: 2s  
+Effect parameters:
 
-- Particle Emitters: `sadness`
+- Particle Emitters:  `sadness`
 
 ## Technical Information
 

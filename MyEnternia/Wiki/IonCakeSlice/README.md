@@ -1,13 +1,13 @@
 # Ion Cake Slice
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/special/ct_ion_cake_slice.png" alt="Ion Cake Slice icon" loading="lazy" width="auto" height="16px"/> **Ion Cake Slice** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/WIP/ct_ion_cake_slice.png" alt="Ion Cake Slice icon" loading="lazy" width="auto" height="16px"/> **Ion Cake Slice** is a legendary dish.
 
 Nia alta cuisine. A bright colored cake most appropriate for parties and special occasions.
 
 ## Parameters
 
 - Food Value: 90
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
 
 Applies effects:
 
@@ -22,4 +22,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_ion_cake_slice`
 - Power: `0.5`
 - Rarity: `Legendary`
-- File: [`/items/generic/food/other/special/ct_ion_cake_slice.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/special/ct_ion_cake_slice.consumable)
+- File: [`/items/generic/food/other/WIP/ct_ion_cake_slice.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/WIP/ct_ion_cake_slice.consumable)

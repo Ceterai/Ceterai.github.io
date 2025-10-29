@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Extra Toppings Slice icon" loading="lazy" width="auto" height="16px"/> **Yaarizza Extra Toppings Slice** is a legendary dish.
 
 This yaarizza ended up with extra toppings. More deliciousness for you I guess!  
-The recipe itself is not much different from the original, with the only signeficant change being extra generosity.
+The recipe itself is not much different from the original, with the only significant change being extra generosity.
 
 ## Ingame
 
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 45
-- Blocking Effects: <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
 
 Applies effects:
 

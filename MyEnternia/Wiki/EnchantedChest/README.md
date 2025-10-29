@@ -21,7 +21,8 @@ A spherical natural growth with some space inside.
 
 ## Parameters
 
-- Slot Count: 16  
+- Slot Count: 16
+
 - Health: 1.5
 
 ## Usage

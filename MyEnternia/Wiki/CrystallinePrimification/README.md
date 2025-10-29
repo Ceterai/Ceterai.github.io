@@ -15,14 +15,32 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Primification is the process of amplifying the energy or power within an entity by releasing its capabilities.
+
+Altas call certain things "Prime" whenever they enter their true or enhanced form.
+
+Thus, [Crystalline Prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/CrystallinePrime) is an energy-enhanced [Crystalline](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline) environment, full of charged crystalline bushes.
+
+The process can result in the growth of large, powerful crystals. These can be harvested for their energy and used in various applications, including energy storage and weaponry.
+
+The process of primification can also lead to the development of new crystalline species, which can have unique properties and abilities.
+
+This phenomenon can occur naturally on terraformed moonlike planets, or on similar Io structs like alterash prime planets.
+
+More information is available in the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Altas & Crystals icon" loading="lazy" width="auto" height="16px"/> [Altas & Crystals](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) database, since crystalline is a [calin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin) subtype.
+
+...The ebook ends with a large list of references to various crystalline prime-related topics, including the properties of different types of crystals, their uses in technology and energy production, and their role in the ecosystem of crystalline prime environments.
+
 ## Usage
 
 ### Crafting
 
 Unlocks blueprints for:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/carel/sapling/icon.png" alt="Carel Sapling icon" loading="lazy" width="auto" height="16px"/> [Carel Sapling](https://ceterai.github.io/MyEnternia/Wiki/CarelSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" width="auto" height="16px"/> [Crystalline Primification](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimification)
-- `ct_carel_sapling`
 
 ## Sources
 

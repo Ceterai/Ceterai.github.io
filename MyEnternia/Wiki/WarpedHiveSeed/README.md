@@ -46,7 +46,7 @@ Unlocks blueprints for:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warphive Sapl. ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Warphive Sapl. ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarphiveSapl.)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/eco/icon.png" alt="Eco Warped Hive Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Eco Warped Hive Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoWarpedHiveSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Ela Sprout icon" loading="lazy" width="auto" height="16px"/> [Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/ElaSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/pod/icon.png" alt="Warped Hive Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Warped Hive Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveEcoPod)
@@ -89,7 +89,7 @@ Drops from destroyed obstacles:
 
 <details markdown="1"><summary>Can be harvested from: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warped Hive Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Warped Hive Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarpedHiveSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/boosted/icon.png" alt="Boosted Warphive Sapl. ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Warphive Sapl. ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedWarphiveSapl.)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/eco/icon.png" alt="Eco Warped Hive Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Eco Warped Hive Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoWarpedHiveSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" width="auto" height="16px"/> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/pod/icon.png" alt="Warped Hive Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Warped Hive Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveEcoPod)

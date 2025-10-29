@@ -21,7 +21,8 @@ The cabinet made of plant fibre stretched between four large vines.
 
 ## Parameters
 
-- Slot Count: 40  
+- Slot Count: 40
+
 - Health: 1.5
 
 ## Usage

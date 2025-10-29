@@ -12,6 +12,102 @@ Radiomessages on pickup:
 - Welcome to the "My Enternia" mod! This book will help you explore and will navigate you through main content via tasks and challenges!  
 Last pages briefly describe common things and concepts found in the mod, so feel free to check it out anytime! And if you're lost, you can always check in with mod's wiki.
 
+### Contents
+
+
+
+
+
+
+
+
+
+
+
+  
+ MY ENTERNIA
+
+
+
+
+
+
+
+
+
+
+
+ A MOD GUIDE
+
+Here's a list of stuff you could try to achieve!
+
+- [ ] Craft the Alta Crafting Station! Need to start with something, and this neat little table will give you a way around it! _Can be found in tier 1 Inventor's Table._  
+- [ ] _Max it out!_ Welp, not so easy now, huh. Might want to explore? _Datamasses can be found in random chests or in Alta Datacenter._
+
+EXPLORE: ALTERASH (T3-4)
+
+- [ ] Reach and explore an [alterash planet](https://ceterai.github.io/MyEnternia/Wiki/alterashplanet)! This is where the mod progression starts! _Can be found near Temperate Stars._
+
+- [ ] Dig deep and explore [antorash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Antorash)! An underworld deep in alterash caves, with secret labs and bunkers! _Or... Should you try and reach the asteroids?.._
+
+EXPLORE: ALTERASH PRIME (T4-5)
+
+- [ ] Reach and explore an [alterash prime planet](https://ceterai.github.io/MyEnternia/Wiki/alterashprimeplanet)! Is it me, or is it getting cold in here?.. _Can be found near Frozen Stars._
+
+- [ ] Explore the [esetera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Esetera). SO MANY CRYSTALS!! AND COLORS!!! _Be careful not to fall too deep though..._
+
+- [ ] Reach the [ion core](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore). Tier 5 materials, lots of treasure... Wait, what's this? _Some things are yet to be understood._
+
+CRAFT YOURSELF T6 ARMOR!
+
+- [ ] <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"/> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) fills <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" width="auto" height="16px"/> [Elite Set](https://ceterai.github.io/MyEnternia/Wiki/EliteSet) with protective energy! _Can be found in Yaara Groves on alterash planets._
+
+- [ ] Those Alternia Set parts require some potent <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"/> [Alternia Shards](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard)! _Can be found in Hevika Caves on alterash prime planets._
+
+- [ ] Let all that <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_enterite.png" alt="Enterite icon" loading="lazy" width="auto" height="16px"/> [Enterite](https://ceterai.github.io/MyEnternia/Wiki/Enterite) send you to sleep, Dreamer! _Can be found on asteroids of alterash prime planets._
+
+MOD CONCEPTS AND FACTIONS
+
+[Alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)  
+Altas are an artificial humanoid species that can commonly be found around [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets. These bionic creatures are primarily focused on crystal-related research.
+
+[Io](https://ceterai.github.io/MyEnternia/Wiki/Io)  
+Io is a type of celestial environments high on electric charges and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). This is where planets like [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) are usually forming. Altas consider Io to be a its own being, rather than a vague area in space.
+
+[Yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)  
+Yaara Groves are huge underground megaplants, that spread into large distances and form their own microclimate with different plants and creatures inside.
+
+[Warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)  
+A constantly spreading plant-like matter, that "warps" the surroundings it contaminates. Can often be quite poisonous, and, in some cases, bioluminescent.
+
+[Enchanted](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted)  
+Also known as Viona, enchanted areas are anomalous places where different types of energy merge and combine, creating a highly unstable environment.
+
+[EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)  
+A militaristic alta faction centered around protecting altas against various threats. Lately, something went wrong with their command centers, leading to defensive technology going rogue.
+
+[Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea)  
+A freedom-loving faction of mercenaries, rarely found in the wild. Unlike most altas, faradea mercs' lifestyle revolves around roaming the planet, scavenging for treasure.
+
+[Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera)  
+The rare asteroids beyond the stardust eva sky, that hide rare, yet powerful treasure.
+
+Since altas are a very research-centered species, you will find many scientific alta factions along the way. For example:
+
+- [A.R.C.O.](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arco)  
+- [Ghearun](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun)  
+- [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdis)  
+- [Tserera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tserera)  
+- [Neiteru-1](https://ceterai.github.io/MyEnternia/Wiki/Neiteru-1)  
+- [Yava Gyera Ordis](https://ceterai.github.io/MyEnternia/Wiki/YavaGyeraOrdis)  
+- [Project C.T.](https://ceterai.github.io/MyEnternia/Wiki/ProjectC.T.)  
+
+
+ALTA SCANNER
+
+Create the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/scanner/icon.png" alt="Alta Scanner icon" loading="lazy" width="auto" height="16px"/> [Alta Scanner](https://ceterai.github.io/MyEnternia/Wiki/AltaScanner) at the crafting station and use it to scan any items and objects in your possesion to reveal their extended lore, usage and additional parameters, like colony tags!  
+
+
 ## Usage
 
 ### Crafting

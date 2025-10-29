@@ -8,10 +8,10 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 2s
-- Effect parameters: 
+Default Duration: 2s  
+Effect parameters:
 
-- Particle Emitters: `lust`
+- Particle Emitters:  `lust`
 
 ## Technical Information
 

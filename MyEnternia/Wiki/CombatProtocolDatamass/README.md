@@ -16,6 +16,14 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+COMBAT PROTOCOL DOCUMENTATION
+
+The goal of this document is to describe present combat protocols as well as weaponized conflict and special operations related guidelines.
+
+Note, that starting with discovery of stardust energy capabilities and the Enternia phenomenon, all Enternia-related technology should be marked Enter-technology.
+
 ## Usage
 
 ### Crafting

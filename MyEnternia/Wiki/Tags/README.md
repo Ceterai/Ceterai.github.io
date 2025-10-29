@@ -1,6 +1,6 @@
 # Tags
 
-This mod adds 375 tags.
+This mod adds 381 tags.
 
 - [Agaranic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Agaranic)
 - [Aid](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid)
@@ -74,6 +74,7 @@ This mod adds 375 tags.
 - [Cell](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cell)
 - [Ceterai](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai)
 - [Ceternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia)
+- [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity)
 - [Chakram](https://ceterai.github.io/MyEnternia/Wiki/Tags/Chakram)
 - [Christmas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Christmas)
 - [Citadel](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel)
@@ -172,7 +173,9 @@ This mod adds 375 tags.
 - [Gsr](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gsr)
 - [Gyera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera)
 - [Halberd](https://ceterai.github.io/MyEnternia/Wiki/Tags/Halberd)
+- [Halloween](https://ceterai.github.io/MyEnternia/Wiki/Tags/Halloween)
 - [Hammer](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hammer)
+- [Harrowing](https://ceterai.github.io/MyEnternia/Wiki/Tags/Harrowing)
 - [Haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven)
 - [Hazard](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hazard)
 - [Hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika)
@@ -236,6 +239,7 @@ This mod adds 375 tags.
 - [Office](https://ceterai.github.io/MyEnternia/Wiki/Tags/Office)
 - [Omni](https://ceterai.github.io/MyEnternia/Wiki/Tags/Omni)
 - [Opulent](https://ceterai.github.io/MyEnternia/Wiki/Tags/Opulent)
+- [Orchid](https://ceterai.github.io/MyEnternia/Wiki/Tags/Orchid)
 - [Outpost](https://ceterai.github.io/MyEnternia/Wiki/Tags/Outpost)
 - [Painting](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting)
 - [Party](https://ceterai.github.io/MyEnternia/Wiki/Tags/Party)
@@ -255,6 +259,7 @@ This mod adds 375 tags.
 - [Pod](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pod)
 - [Poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison)
 - [Portal](https://ceterai.github.io/MyEnternia/Wiki/Tags/Portal)
+- [Poster](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poster)
 - [Potted](https://ceterai.github.io/MyEnternia/Wiki/Tags/Potted)
 - [Pretty](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)
 - [Prism](https://ceterai.github.io/MyEnternia/Wiki/Tags/Prism)
@@ -302,6 +307,7 @@ This mod adds 375 tags.
 - [Spear](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear)
 - [Specops](https://ceterai.github.io/MyEnternia/Wiki/Tags/Specops)
 - [Spice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spice)
+- [Spooky](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spooky)
 - [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)
 - [Stew](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stew)
 - [Stonecave](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stonecave)

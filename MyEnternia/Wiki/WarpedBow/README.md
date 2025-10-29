@@ -18,9 +18,30 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Fire Offset:  1.75,  0.125
+- Draw Frame Selector: `poisonBowImageSelector`
+- Draw Arm Frames:  `rotation`,  `swim.2`,  `swimIdle.1`
+- Projectile Type: `poisonarrow`
+- Power Projectile Type: `chargedpoisonarrow`
+- Projectile Parameters:
+  - Power: 6.5
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Fire Offset:  1.75,  0.125
+- Draw Frame Selector: `poisonBowImageSelectorNoPower`
+- Draw Arm Frames:  `rotation`,  `swim.2`,  `swimIdle.1`
+- Projectile Type: `poisonarrow`
+- Projectile Parameters:
+  - Power: 8.125
+- Split Delay: 0.2
+- Split Angle: 2
 
 ## Sources
 

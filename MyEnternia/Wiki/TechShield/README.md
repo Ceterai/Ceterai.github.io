@@ -4,11 +4,12 @@ An energy shield that will expire once broken or overtime.
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 10s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration: 10s  
+Effect parameters:
 
-- Shield Base: 60.0- Shield From Health Percent: 0.5
+- Shield Base: 60.0
+- Shield From Health Percent: 0.5
 
 ## Technical Information
 

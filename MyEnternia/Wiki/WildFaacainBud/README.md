@@ -21,7 +21,7 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - `corefragment` x*1* (weight: 0.89)
+   - `corefragmentore` x*1* (weight: 0.89)
 
 ## Loot
 

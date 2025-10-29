@@ -22,7 +22,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"/> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"/> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 64 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 65 items)</summary>
 
 - <img src="https://starbounder.org/mediawiki/images/9/95/Alien_Wood_Sap.png" alt="Alien Wood Sap icon" loading="lazy" width="10px" height="14px"/> [Alien Wood Sap](https://starbounder.org/Alien_Wood_Sap)
 - `alienfruitjam`
@@ -40,6 +40,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"/> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
 - `beakseedjam`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_colorful_grass_seeds.png" alt="Colorful Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Colorful Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/ColorfulGrassSeeds)
+- `congealedAcid`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"/> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
 - `ct_aid_mimic`
 - `ct_alta_crafting_station2`
@@ -101,7 +102,7 @@ Can be used in transmutation studies in the <img src="https://steamuserimages-a.
 
 ### Liquid Extraction
 
-Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x0000025E4508D520>` (if you have it installed).
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x000001DE510F0EF0>` (if you have it installed).
 
 ### Refining
 
@@ -158,7 +159,7 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling3/icon.png" alt="Hanging Ayaka Sap Blob icon" loading="lazy" width="auto" height="16px"/> [Hanging Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/HangingAyakaSapBlob)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_sap_blob_ceiling1/icon.png" alt="Overgrown Ayaka Sap Blob icon" loading="lazy" width="auto" height="16px"/> [Overgrown Ayaka Sap Blob](https://ceterai.github.io/MyEnternia/Wiki/OvergrownAyakaSapBlob)
 
-<details markdown="1"><summary>Can be harvested from: (Expand 125 items)</summary>
+<details markdown="1"><summary>Can be harvested from: (Expand 123 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)
@@ -234,8 +235,6 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/sapling/icon.png" alt="Jelly Sapling icon" loading="lazy" width="auto" height="16px"/> [Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/JellySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/mixed/icon.png" alt="Mixed Gil Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Mixed Gil Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedGilSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/mixed/icon.png" alt="Mixed Tsay Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Mixed Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/MixedTsaySapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/pod/icon.png" alt="Neonmelon Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Neonmelon Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/pod/icon.png" alt="Oculemon Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Oculemon Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/OculemonEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sort/icon.png" alt="Pink Aya Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Pink Aya Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/PinkAyaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/reefpod/pod/icon.png" alt="Reefpod Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Reefpod Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/ReefpodEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/sapling/icon.png" alt="Ruka 14-2 Sapling icon" loading="lazy" width="auto" height="16px"/> [Ruka 14-2 Sapling](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Sapling)

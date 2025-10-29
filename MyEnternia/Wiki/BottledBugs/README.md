@@ -1,6 +1,6 @@
 # Bottled Bugs
 
-This mod adds 16 bottled bugs.
+This mod adds 17 bottled bugs.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/alto_zych/icon.png" alt="Alto Zych icon" loading="lazy" width="auto" height="16px"/> [Alto Zych](https://ceterai.github.io/MyEnternia/Wiki/AltoZych)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" width="auto" height="16px"/> [Aya Bee](https://ceterai.github.io/MyEnternia/Wiki/AyaBee)
@@ -18,3 +18,4 @@ This mod adds 16 bottled bugs.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/strizychar/icon.png" alt="Strizychar icon" loading="lazy" width="auto" height="16px"/> [Strizychar](https://ceterai.github.io/MyEnternia/Wiki/Strizychar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/unwarped_fly/icon.png" alt="Unwarped Fly icon" loading="lazy" width="auto" height="16px"/> [Unwarped Fly](https://ceterai.github.io/MyEnternia/Wiki/UnwarpedFly)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/vio_zych/icon.png" alt="Vio Zych icon" loading="lazy" width="auto" height="16px"/> [Vio Zych](https://ceterai.github.io/MyEnternia/Wiki/VioZych)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"/> [Warped Spider](https://ceterai.github.io/MyEnternia/Wiki/WarpedSpider)

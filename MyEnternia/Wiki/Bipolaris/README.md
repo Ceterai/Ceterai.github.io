@@ -22,11 +22,36 @@ Radiomessages on pickup:
 Able to switch resulting energy from [plasma balls](https://ceterai.github.io/MyEnternia/Wiki/plasmaballs) to accelerated [ions](https://ceterai.github.io/MyEnternia/Wiki/ions).
 Firemodes: [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic).
 
+Parameters:
+
+- Fire Time: 0.1
+- Base Dps: 9
+- Energy Usage: 36
+- Default Fire Type: `plasma`
+- Fire Types:
+  - Plasma:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_plasma_medium`
+      - Sound: `plasma`
+    - Hold Time Max:
+  - Ionic:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_ionic_medium`
+      - Sound: `ionic`
+    - Hold Time Max:
+
 ### Intertwined
 
 A bi-energy switch with additional attachments.
 Press - change attachments: none, laser, flashlight;
 Hold - change firemodes.
+
+Parameters:
+
+- Fire Types:  `plasma`,  `ionic`
+- Attachments:  `none`,  `laser`,  `stabilizer`
 
 ## Sources
 

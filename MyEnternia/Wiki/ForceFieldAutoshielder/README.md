@@ -10,13 +10,16 @@ Applied by following items:
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 10s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration: 10s  
+Effect parameters:
 
-- Effect Config: 
-
-  - Name: `Force Shield`  - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_force_shield.png" alt="Force Shield icon" loading="lazy" width="auto" height="16px"/> [Force Shield](https://ceterai.github.io/MyEnternia/Wiki/ForceShield)  - Duration: 12- Cooldown: 40- Energy Usage: 20
+- Effect Config:
+  - Name: `Force Shield`
+  - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_force_shield.png" alt="Force Shield icon" loading="lazy" width="auto" height="16px"/> [Force Shield](https://ceterai.github.io/MyEnternia/Wiki/ForceShield)
+  - Duration: 12
+- Cooldown: 40
+- Energy Usage: 20
 
 ## Technical Information
 

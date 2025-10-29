@@ -19,11 +19,38 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 Easy, frequent silenced shots are the main advantage.
 Firemodes: single, semiauto.
 
+Parameters:
+
+- Base Dps: 10
+- Energy Usage: 36
+- Fire Time: 1.2
+- Default Fire Type: `single`
+- Fire Types:
+  - Single:
+    - Press Type: `snipe`
+    - Press Params:
+      - Type: `ct_ionic_medium`
+      - Inaccuracy:
+    - Hold Time Max:
+  - Semi:
+    - Press Type: `semi`
+    - Press Params:
+      - Type: `ct_ionic_medium`
+      - Count: 3
+      - Interval: 0.1
+      - Inaccuracy: 0.005
+    - Hold Time Max:
+
 ### Elerune Tactics
 
 Tools tuned for tactical operations.
 Press - change attachments: none, laser, stabilizer (x1.25 dmg);
 Hold - change firemodes.
+
+Parameters:
+
+- Fire Types:  `single`,  `semi`
+- Attachments:  `none`,  `laser`,  `stabilizer`
 
 ## Sources
 

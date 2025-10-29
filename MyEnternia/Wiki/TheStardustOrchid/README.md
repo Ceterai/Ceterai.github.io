@@ -8,7 +8,7 @@ A drawing of a flower that looks oddly familiar.
 
 Species descriptions:
 
-- Alta: This... Wasn't this dranw by... By Ceterai herself?..
+- Alta: This... Wasn't this drawn by... By Ceterai herself?..
 
 ## Sources
 
@@ -23,5 +23,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_stardust_orchid_art`
 - Power: `4.4`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)
 - File: [`/objects/alta/special/paintings/ct_stardust_orchid_art.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/paintings/ct_stardust_orchid_art.object)

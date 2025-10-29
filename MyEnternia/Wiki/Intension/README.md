@@ -2,11 +2,12 @@
 
 ## Parameters
 
-- Blocking Stat: `ionicStatusImmunity`
-- Default Duration: 4s
-- Effect parameters: 
+Blocking Stat: `ionicStatusImmunity`  
+Default Duration: 4s  
+Effect parameters:
 
-- Modified Stat: `electricResistance`- Modified Value: 0.1
+- Modified Stat: `electricResistance`
+- Modified Value: 0.1
 
 ## Technical Information
 

@@ -16,6 +16,33 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+Regional sensors have detected an increase in incidents, with most miazmas growing up to the G2 standard size, which is an acceptable size for single miazmas.
+
+However, the readings show that with the amount and frequency of appearance, some of the anomalies are starting to appear in dangerously close proximity of each other.
+
+In better cases, some anomalies ended up merging into a bigger size class miazma.
+
+In worse cases, explosions and frostblasts have been reported in the area by the monitoring team.
+
+Monitoring equipment:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier) ID: AIN-ndr29fd6  
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal) ID: AIC-cr6bnb30
+
+Responsible team: A.R.C.O. RS-68 "Santia"
+
+Further report:
+
+A [Neiteru](https://ceterai.github.io/MyEnternia/Wiki/Tags/Neiteru) research group got involved, and proceeded to collect samples for their recent ["Neviona"](https://ceterai.github.io/MyEnternia/Wiki/Neviona) project.
+
+They have also provided help in finding proper samples for our cause, including capturing a live anomaly using their experimental equipment.
+
+The sample should be held under the High Containment Protocol, according to their documentation. This should significantly boost our research.
+
+As far as we're aware, Neiteru were already able to successfully use a live miazma before, in a project called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"/> ["Vionos Twins"](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins), so let's keep our hopes up.
+
 ## Usage
 
 ### Crafting

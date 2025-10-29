@@ -11,6 +11,18 @@ Species descriptions:
 
 - Alta: I can't wait to go to this party! I should probably prepare my swimming gear...
 
+### Contents
+
+This season we're hosting a special event at our party camp!
+
+Here, in the middle of [alterash riversides](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides), one biggest thing to have is... swimming attire! Especially now that an official beach resort "Auroza" is finally open!!!
+
+Come to the grand opening and receive gifts for participating in the party events!
+
+Grab your <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"/> [waterblaster](https://ceterai.github.io/MyEnternia/Wiki/Waterblaster), your floatie and your [snorkel](https://ceterai.github.io/MyEnternia/Wiki/snorkel), and don't forget your [bikini top](https://ceterai.github.io/MyEnternia/Wiki/bikinitop)! ..And [bikini bottom](https://ceterai.github.io/MyEnternia/Wiki/bikinibottom) too, obviously. Your choice.
+
+The fun starts now!
+
 ## Usage
 
 ### Crafting

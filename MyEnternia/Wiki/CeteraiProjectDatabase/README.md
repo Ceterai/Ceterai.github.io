@@ -16,6 +16,35 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+PROJECT 'CETERAI' TECHNOLOGY (CT) DEVELOPMENTS DOCUMENTATION
+
+The goal of this document is to maintain a full list of technology, relevant to and used in development of the project. All entries are assigned according ids, ordered by registration date and relevant connections to other entries.  
+In accordance to the document, all ids must be issued in CTN format (thr. CEN-202).
+
+ %1^ ^-----R%%5-1.1 ! %1^ ^------ ---
+
+#--R#ST-ad#------
+
+CT17, Static Field - ionized field able to convert energy acquired through CEN-6 or CEN-7 protocol into directional electrified pulses. Primary use estimated for CT22-45 and ET3-16 (thr. CEN-7).
+
+CT24 (ET0), Elerune Defensive System - Elerune-related project establishing planetary protection for the time of the project development, providing safe conditions for the development. All EDS-related developments are marked as Enter-technology (ET, thr. CEN-7).
+
+CT27, Ceter-Sphere - t...n!l%
+
+CT28, R%%5-2.1 ! %4^ ^------ ---
+
+--42 1CT32 %2
+
+CT35, Vortex Backdoor - high-range one-way teleportation device with fixed destination. Has a pyramid-like shape as a design feature. Requires CEN-24 blueprint to activate.
+
+CT44, Ceter-Set - Industrial Full-Package Bodysuit for Work in Unsafe Environments. Current model: IFBWUE-7Mi. Provides a basic level of protection and is designed to assist during exploration, research and operations in potentially dangerous environments.
+
+CT45, Mind frame - t...n!l%.
+
+CT63, Vortex Battery - a high-volume energy accumulator. Can be used to power energy-expensive devices like CT35.
+
 ## Usage
 
 ### Crafting

@@ -15,6 +15,38 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+"I want to go on an adventure!.." - an eepy alta thought, as she went to sleep early to spend as much time as possible in the realm of dreams, miracles, and pure magic.
+
+She pushed a bag of moondust she found on the beach under her pillow full of eva clouds, and fell asleep, holding on tightly to her favourite poi plushie, gifted to her by her caretaker.
+
+As she fell deeper into slumber, a tiny speck of stardust began to glow from inside the plushie, creating a dim, cozy light around her.
+
+...She found herself stranded in the middle of astera, with no other alta in sight. Thankfully, she had nothing to fear - she was brave, had her full gear with her, and was ready for absolutely anything!
+
+Her trusty helmet was shining brightly, reflecting the light of a nearby star, her sturdy heavy equipment was designed to let her breathe in space, and to help her get around by jumping, using the trusty thrusters.
+
+Lastly, her reactive, super-heavy super-functional mech shield, protector of altas, was calling out to her.
+
+"Go forth, little hero", it whispered, "the stars await you!"
+
+"Is th-this what it's like to be a spacedrifter?" - silly alta wondered in awe.
+
+There was nothing holding her back. The vasts of cosmos were lying under her feet like a magical, infinite stardust carpet.
+
+...And before long, she was sliding through space, jumping from asteroid to asteroid, from ship to ship, from planet to planet.
+
+She saw many worlds, many weird plants, alien creatures, making new friends along the way.
+
+The thrill of the travel, the fight, the treasure - she felt it all, following the whispers of her magical shield, until the very moment the adventure had to come to an end.
+
+She said goodbye to all of her new friends, and layed on small pile of moondust in the middle of a pretty garden.
+
+Then she closed her eyes...
+
+And woke up in her bed, with her plushie still in her hands. Excited for the brand new day, she got up, still thinking of what it's like to be a spacedrifter...
+
 ## Usage
 
 ### Crafting

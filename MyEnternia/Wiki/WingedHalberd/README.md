@@ -23,6 +23,20 @@ Radiomessages on pickup:
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus electric damage.  
 This smooth flow of circular swings helps you stay in balance regardless of you position. The halberd also has an in-built impulse compensator to account for the electric busrts.
 
+Parameters:
+
+- Fire Time: 0.6
+- Base Dps: 12
+- Damage Config:
+  - Damage Source Kind: `<elementalType>spear`
+  - Knockback Mode: `aim`
+  - Knockback: 10
+  - Timeout Group: `primary`
+- Hold Damage Multiplier: 0.1
+- Hold Damage Config:
+  - Timeout Group: `hold`
+  - Timeout: 0.5
+
 ### Aeroflux
 
 Performs a spear flurry.  

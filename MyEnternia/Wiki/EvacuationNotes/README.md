@@ -4,6 +4,18 @@
 
 This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains a short report on a hasty evacuation.
 
+## Ingame
+
+### Contents
+
+We're leaving immediately. There's no point in taking everything, so I'll just take what's most important. Some data will be required for further research.
+
+I won't turn off the EDS to protect what's left. And who knows, maybe someday we'll come back.
+
+Maya made sure that all 35's are missing the energy source, so no one could enter even if they get through the EDS.
+
+I hope we still have a chance. - C.T.
+
 ## Usage
 
 ### Crafting

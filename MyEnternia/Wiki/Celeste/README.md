@@ -22,6 +22,47 @@ Radiomessages on pickup:
 **WIP**. A combo of 6 strikes. Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 It feels its connection to the sword, as it feels its connection to Io herself. This is a celestial level of power.
 
+Parameters:
+
+- Class: `BladeCharge`
+- Base Dps: 16
+- Fire Time: 0.7
+- Damage Config:
+  - Item Bonus:
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
+    - Damage Factor: 0.005
+    - Max: 120
+- Steps: 
+- Damage Factor: 1.0
+- Energy Factor: 0.5
+- Knockback: 10.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0, 
+- Damage Factor: 0.4
+- Energy Factor: 0.2
+- Knockback: 5.0
+- Swoosh: `swoosh2`
+- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0, 
+- Damage Factor: 1.1
+- Energy Factor: 0.55
+- Knockback: 20.0
+- Swoosh: `swoosh3`
+- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0, 
+- Damage Factor: 1.3
+- Energy Factor: 0.65
+- Knockback: 25.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0, 
+- Damage Factor: 1.3
+- Energy Factor: 0.35
+- Knockback: 10.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0
+- Ranged:
+  - Type: `ct_impulse_blast`
+  - Offset:  5.0,  -0.85
+  - Sound: `electricimpact`
+
 ### Celestia's Nova
 
 Creates a charged nova sphere that strikes nearby enemies.  

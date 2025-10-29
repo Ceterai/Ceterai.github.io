@@ -15,6 +15,32 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Have you ever wondered what it would be like to be a powerful being?
+
+To explore the expanses of the galaxy without any restrictions. At last, to be outside the power of such a seemingly integral part of the lives of many beings as time.
+
+You probably imagined how much could be done if you had certain powers, how much life as a whole would be transformed for the better. There's so much you could do.
+
+In this case, the answer to this question will be somewhat... unexpected for you. Being a powerful being is boring.
+
+I don't even remember how it all started. And was there ever a... beginning.
+
+For as long as I can remember, I have always traveled through endless worlds, witnessing the countless rise and fall of seemingly powerful civilizations.
+
+Having an unlimited supply of time, values become completely different, many things cease to surprise or even have any significance.
+
+And trying to influence, let's call it, the balance of the universe, naively believing that with your strength it will finally be possible to build an ideal society/world is stupid and very short-sighted.
+
+It is very easy to upset the balance of the universe; the intervention of any powerful force will certainly lead to irreversible consequences and, believe me, no matter how good the intentions are, it will not be possible to calculate future events and take control of the entire situation.
+
+So dreams of power with which you can change the world are nothing more than an illusion, the reality of which you convince yourself.
+
+The phrase “with great power comes great responsibility” captures the essence of things exactly.
+
+Therefore, the longer I exist, the stronger the feeling within me that observing limitless universes without interfering with their life process is what I was created for.
+
 ## Usage
 
 ### Crafting

@@ -26,6 +26,39 @@ A sequence of 4 (+1) light strikes. Hold to perform a Super Heavy Slash.
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus electric damage.  
 The clover concentrates its power on the ends of the petals, making them more yellow than ever.
 
+Parameters:
+
+- Damage Config:
+  - Damage Source Kind: `shortsword`
+  - Timeout: 0.5
+- Fire Time: 0.625
+- Base Dps: 6
+- Steps: 
+- Damage Factor: 1.0
+- Energy Factor:
+- Knockback: 10.0
+- Swoosh: `swoosh_small1`
+- Swoosh Offset:  -1.0,  -0.25,  2.5,  2.0
+- Swoosh Sound: `primary_press`, 
+- Damage Factor: 0.6
+- Energy Factor:
+- Knockback: 20.0
+- Swoosh: `swoosh_small2`
+- Swoosh Offset: ,  -0.5,  2.5,  1.0
+- Swoosh Sound: `primary_press2`, 
+- Damage Factor: 1.4
+- Energy Factor:
+- Knockback: 10.0
+- Swoosh: `swoosh_small2`
+- Swoosh Offset: ,  -0.25,  2.5,  1.0
+- Swoosh Sound: `primary_press`, 
+- Damage Factor: 1.3
+- Energy Factor:
+- Knockback: 25.0
+- Swoosh: `swoosh_small1`
+- Swoosh Offset:  -0.5,  -0.75,  2.0,  1.5
+- Swoosh Sound: `primary_press`
+
 ## Sources
 
 Can be bought from merchants:

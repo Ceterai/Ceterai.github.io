@@ -15,6 +15,29 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+"I want to be a beautiful orchid, I want to travel around Io, have adventures, and make a lot of interesting friends!" - the little star dreamed joyfully.
+
+Celestia called her exactly that - her little Stardust Orchid.
+
+For her, all of her star children were like small, twinkling flowers full of life, so she really liked this nickname.
+
+Over time, many stars also began to like this idea, and they began to name themselves after various outlandish flowers, and sometimes simply asked Celestia to choose which flower suited them best.
+
+The stars themselves traveled a lot, and therefore knew a whole bunch of different rare, mysterious and bizarre flowers and simply beautiful plants.
+
+They began to get together and tell mom about the new flowers they found, and if they could, show them.
+
+Mom remembered all this, and then helped them come up with nicknames for themselves, to be like the little Orchid.
+
+When there were as many as twelve star-flowers, they got together and created their own small corner, a small flower bed for their flower friends - and decided to make the Orchid the main one in it.  
+She didn't know how right it would be, but they asked very strongly and she agreed. This club for friends was called the Starflower Order.
+
+Each star in it began to do something to help equip their order-flower bed and make the life of the other stars a little better.
+
+Some were engaged in science, some were engaged in protecting the innocent and those in danger, some mentored less experienced stars and helped them find themselves, some were engaged in adventures in search of gifts and finds for the order, and some simply decorated the flowerbed and tried to make it as cozy and pleasant as possible for others.
+
 ## Usage
 
 ### Crafting

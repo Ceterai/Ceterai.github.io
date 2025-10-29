@@ -15,11 +15,8 @@ Creates a slight beam of special blue light in front of you. Acts as a head lamp
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 5s
-- Effect parameters: 
-
-
+Blocking Stat: `emiJam`  
+Default Duration: 5s
 
 ## Technical Information
 

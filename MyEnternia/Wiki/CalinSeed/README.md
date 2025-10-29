@@ -36,13 +36,16 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/sapling/icon.png" alt="Calin Sapling icon" loading="lazy" width="auto" height="16px"/> [Calin Sapling](https://ceterai.github.io/MyEnternia/Wiki/CalinSapling)
 
-Can be used to craft:
+<details markdown="1"><summary>Can be used to craft: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/icon.png" alt="Alternia Seed icon" loading="lazy" width="auto" height="16px"/> [Alternia Seed](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/boosted/icon.png" alt="Boosted Calin Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Calin Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCalinSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/pod/icon.png" alt="Calin Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Calin Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/CalinEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/sapling/icon.png" alt="Calin Sapling icon" loading="lazy" width="auto" height="16px"/> [Calin Sapling](https://ceterai.github.io/MyEnternia/Wiki/CalinSapling)
+- <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" width="15px" height="14px"/> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/calin/eco/icon.png" alt="Eco Calin Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Eco Calin Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoCalinSapling)
+
+</details>
 
 ## Sources
 

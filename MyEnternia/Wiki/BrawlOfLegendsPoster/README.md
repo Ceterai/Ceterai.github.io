@@ -16,6 +16,17 @@ Radiomessages on pickup:
 
 - Seems like the item you just picked up belongs to Faradea - an independent alta mercenary faction. Let's hope you don't find the previous owner of this item.
 
+### Contents
+
+Are you brave enough to face the best Faradea Legends around?  
+Come to this season's Brawl of Legends - Intrepid Stars!
+
+In this season, [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) mercs from all around can compete in a series of battles against each other to determine a new [Faradea Legend](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend).
+
+Engage in regulated combat with other [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) and opponents of crowd's choice and prove that you are the true Legend!
+
+This tournament's grand prize is a new, pristine <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_faradea_scavenger.png" alt="FD Scavenger ★ icon" loading="lazy" width="auto" height="16px"/> [F.D. Scavenger](https://ceterai.github.io/MyEnternia/Wiki/FDScavenger)!
+
 ## Usage
 
 ### Crafting

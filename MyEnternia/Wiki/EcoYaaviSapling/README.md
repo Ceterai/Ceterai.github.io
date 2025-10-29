@@ -32,6 +32,7 @@ Growing stages:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/sapling/icon.png" alt="Oculemon Sapling icon" loading="lazy" width="auto" height="16px"/> [Oculemon Sapling](https://ceterai.github.io/MyEnternia/Wiki/OculemonSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/yaavi/icon.png" alt="Potted Yaavi icon" loading="lazy" width="auto" height="16px"/> [Potted Yaavi](https://ceterai.github.io/MyEnternia/Wiki/PottedYaavi)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sort/icon.png" alt="Special Yaara Eye Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Special Yaara Eye Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/SpecialYaaraEyeSapling)
 

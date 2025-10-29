@@ -14,9 +14,9 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- `enterniaStatusImmunity` +1.0
-- `voidStatusImmunity` +1.0
-- <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance) +1.0
+- `enterniaStatusImmunity`
+- `voidStatusImmunity`
+- <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
 - `electricResistance` +0.2
 
 ## Usage

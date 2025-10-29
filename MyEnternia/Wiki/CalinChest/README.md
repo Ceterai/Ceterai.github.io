@@ -21,7 +21,8 @@ A dark metal pod chest.
 
 ## Parameters
 
-- Slot Count: 24  
+- Slot Count: 24
+
 - Health: 1.5
 
 ## Usage

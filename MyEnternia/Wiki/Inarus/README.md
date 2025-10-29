@@ -19,6 +19,19 @@ Radiomessages on pickup:
 This ability makes chakram's owner able to manipulate its trajectory.
 Now has more distance and spin time.
 
+Parameters:
+
+- Energy Usage: 16
+- Params:
+  - Hover Max Distance: 18
+  - Damage Repeat Timeout: 0.2
+  - Hover Time: 1.0
+  - Pickup Distance: 1.0
+  - Return On Hit:
+- Type: `ct_inarus`
+- Fire Time: 0.6
+- Base Dps: 4
+
 ## Sources
 
 Can be bought from merchants:

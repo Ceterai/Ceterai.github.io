@@ -15,6 +15,17 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+[Nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), or energy cuisine, is popular among sporty altas and makes up a big part of the [Enia Diet](https://ceterai.github.io/MyEnternia/Wiki/EniaDiet).
+
+Some nia dishes, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" width="auto" height="16px"/> [ometonnas](https://ceterai.github.io/MyEnternia/Wiki/Ometonna), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" width="auto" height="16px"/> [zandarm tarts](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" width="auto" height="16px"/> [tonna shakes](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake), don't fall under that category.
+
+A great example of that would be [shokkas](https://ceterai.github.io/MyEnternia/Wiki/shokkas). [Shokka](https://ceterai.github.io/MyEnternia/Wiki/Shokka) is a sweet meaty satisfying nia stew that is similar in texture to the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Blue Boil icon" loading="lazy" width="auto" height="16px"/> [blue boil](https://ceterai.github.io/MyEnternia/Wiki/BlueBoil).  
+It takes time to process, mostly leaving poor altas full to the brim, only willing to lie on the bed until the effect wears off.
+
+[Corfal caretakers](https://ceterai.github.io/MyEnternia/Wiki/Corfalcaretakers) use this as a pacifier method for very energetic unbehaving altas.
+
 ## Usage
 
 ### Crafting

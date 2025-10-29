@@ -13,7 +13,7 @@ Species descriptions:
 
 ## Parameters
 
-- Blocking Effects: `bandageheal`
+- Blocking Effects:  `bandageheal`
 
 Applies effects:
 

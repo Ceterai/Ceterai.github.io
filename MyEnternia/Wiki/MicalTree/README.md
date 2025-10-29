@@ -22,7 +22,8 @@ This tree consists of a special type of wood often used in decorative furniture 
 
 ## Parameters
 
-- Health: 7.5  
+- Health: 7.5
+
 - Stem/Stipe: <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Geode icon" loading="lazy" width="12px" height="11px"/> [Geode](https://starbounder.org/Geode)
 - Foliage/Cap: `geodefoliage`
 

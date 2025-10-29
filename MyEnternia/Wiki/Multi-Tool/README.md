@@ -24,6 +24,14 @@ Radiomessages on pickup:
 **WIP**. Launch a grapple blade (broken). Hold to enter a mining state.  
 In full, the toolset includes a pick end, a chop end, a retractable switch end, incarvings for attachments, a keyring, a retractable long handle and an inner slot for small parts or other things. It also has proper isolation, fully protecting the wielder from possible contact hazards.
 
+Parameters:
+
+- Fire Time: 0.625
+- Base Dps: 6
+- Tool Range: 3.5
+- Block Radius: 2
+- Tile Damage: 1.8
+
 ## Sources
 
 Can be crafted:

@@ -10,10 +10,10 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 2s
-- Effect parameters: 
+Default Duration: 2s  
+Effect parameters:
 
-- Particle Emitters: <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Love icon" loading="lazy" width="15px" height="15px"/> [Love](https://starbounder.org/Personality#NPC_Reactions)
+- Particle Emitters:  <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Love icon" loading="lazy" width="15px" height="15px"/> [Love](https://starbounder.org/Personality#NPC_Reactions)
 
 ## Technical Information
 

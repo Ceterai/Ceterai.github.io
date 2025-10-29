@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_enternia_augment.png" alt="Enternia Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Enternia Augment ★★** is a legendary EPP augment.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" width="auto" height="16px"/> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP), condenced into an augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" width="auto" height="16px"/> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP), condensed into an augment.
 Adds 18% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity).  
 _Starburst Rework: _[Deadly Static](https://ceterai.github.io/MyEnternia/Wiki/DeadlyStatic)_ immunity._
 

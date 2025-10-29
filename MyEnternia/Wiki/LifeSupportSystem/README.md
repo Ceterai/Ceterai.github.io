@@ -22,9 +22,9 @@ Constantly heals you by 1% each second.
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 1s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration: 1s  
+Effect parameters:
 
 - Heal Time: 0.5
 

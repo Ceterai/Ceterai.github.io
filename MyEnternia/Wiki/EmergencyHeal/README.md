@@ -4,11 +4,12 @@ Heals you up almost immediately.
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 2s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration: 2s  
+Effect parameters:
 
-- Heal Base: 0.025- Heal Time: 0.05
+- Heal Base: 0.025
+- Heal Time: 0.05
 
 ## Technical Information
 

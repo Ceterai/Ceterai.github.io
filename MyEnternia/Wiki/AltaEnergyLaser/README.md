@@ -10,6 +10,30 @@ A disposable mining tool that drills with a focused microwave beam.
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Scripts:  `/items/active/unsorted/laserminer/beammine.lua`
+- Class: `BeamMine`
+- Beam Length: 20
+- Cooldown Time: 0.5
+- Energy Usage: 20.0
+- Damage Interval: 0.1
+- Tile Damage: 20.0
+- Harvest Level: 99
+- Chain:
+  - Start Offset: 
+  - Segment Image: `/items/active/alta/tools/mine/energy_drill/beam/beam.png`
+  - End Segment Image: `/items/active/alta/tools/mine/energy_drill/beam/beamend.png`
+  - Segment Size: 0.48
+  - Overdraw Length: 0.2
+  - Taper:
+  - Waveform:
+    - Frequency: 1.0
+    - Amplitude: 0.125
+    - Movement: 80.0
+  - Fullbright: `True`
+  - Light:  135,  91,  84
+
 ## Sources
 
 Can be crafted:

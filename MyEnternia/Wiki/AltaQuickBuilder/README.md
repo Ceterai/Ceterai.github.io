@@ -13,6 +13,22 @@ Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Scripts:  `/items/active/alta/tools/durability.lua`
+- Class: `LimitedShot`
+- Fire Offset:  2.5,  0.25
+- Energy Per Shot: 45
+- Cooldown Time: 0.35
+- Inaccuracy: 0.01
+- Draw Frame Selector: `pollenpumpImageSelector`
+- Draw Power Multiplier: `pollenpumpPowerMultiplier`
+- Draw Speed Multiplier: `pollenpumpTimeMultiplier`
+- Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
+- Power Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
+- Power Projectile Time:  1.0, 
+- Draw Arm Frames:  `swim.2`,  `swimIdle.1`
+
 ## Sources
 
 Can be crafted:

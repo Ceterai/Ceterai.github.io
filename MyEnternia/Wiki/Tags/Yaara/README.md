@@ -1,11 +1,12 @@
 # Yaara Tag
 
-The tag `yaara` contains 80 total entries.
+The tag `yaara` contains 83 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 38 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 40 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_yaara_art.png" alt="Among The Grove icon" loading="lazy" width="auto" height="16px"/> [Among The Grove](https://ceterai.github.io/MyEnternia/Wiki/AmongTheGrove)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Yaara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Yaavi Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaviSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" width="auto" height="16px"/> [Crystal Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/CrystalYaaraNode)
@@ -13,6 +14,7 @@ The tag `yaara` contains 80 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/eco/icon.png" alt="Eco Yaara Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Eco Yaara Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" width="auto" height="16px"/> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/juviley/icon.png" alt="Juviley icon" loading="lazy" width="auto" height="16px"/> [Juviley](https://ceterai.github.io/MyEnternia/Wiki/Juviley)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/hunter_flower/icon.png" alt="Potted Hunter Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Hunter Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedHunterFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Yaara Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraFlower)
@@ -64,7 +66,7 @@ The tag `yaara` contains 80 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 34 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 35 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" width="auto" height="16px"/> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Boiled Lookers icon" loading="lazy" width="auto" height="16px"/> [Boiled Lookers](https://ceterai.github.io/MyEnternia/Wiki/BoiledLookers)
@@ -77,6 +79,7 @@ The tag `yaara` contains 80 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"/> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" width="auto" height="16px"/> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"/> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_yaajack_candy.png" alt="Yaajack Candy icon" loading="lazy" width="auto" height="16px"/> [Yaajack Candy](https://ceterai.github.io/MyEnternia/Wiki/YaajackCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Body Vine ★ icon" loading="lazy" width="auto" height="16px"/> [Yaara Body Vine ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraBodyVine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"/> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Guard ★ icon" loading="lazy" width="auto" height="16px"/> [Yaara Keeper's Guard ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper'sGuard)

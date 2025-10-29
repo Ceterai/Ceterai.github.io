@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"/> **Tsay** is a common food item.
 
 A very sour, slightly bitter, sometimes sweet fruit. What a mix.  
-A well-balanced flavor great for soury products. For example, altas often substitute lemons with tsays in their lemonades and sodas as a more common and thus more affordable alterative.  
-As a unique sideffect, when properly cooked, tsay can acquire a savory, almost meaty taste, making it a great multipurpose ingredient in cooking.
+A well-balanced flavor great for soury products. For example, altas often substitute lemons with tsays in their lemonades and sodas as a more common and thus more affordable alternative.  
+As a unique side effect, when properly cooked, tsay can acquire a savory, almost meaty taste, making it a great multipurpose ingredient in cooking.
 
 ## Ingame
 

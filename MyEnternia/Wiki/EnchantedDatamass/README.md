@@ -16,6 +16,20 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+Viona energy flowing through this land can change its surrounding. This is why it is not recommended to visit [vionostera](https://ceterai.github.io/MyEnternia/Wiki/vionostera) without special equipment.
+
+The viona phenomenon happens when two or more types of energy with high levels of presence are persistent throughout the area, causing them to mix, resulting in sometimes unpredictable reactions and behaviours.
+
+If you see anything strange in a viona territory, that is likely an enchanted anomaly caused by the viona-saturated energy, or simply vionia.
+
+Vionia has a potential to be an efficient power source, and thus is a frequent subject of interest for research for groups like [Neiteru-1](https://ceterai.github.io/MyEnternia/Wiki/Neiteru-1).
+
+Many scientific groups are also interested in developing means to either resist, or even "de-enchant" viona, although so far few attempts have been completely successful.
+
+This is why, in its current state, [ion cores](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) of [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets still require constant monitoring - rare explosions of vionia activity put the core's stability in danger, and fully getting rid of such cases is a priority for many safety and research teams.
+
 ## Usage
 
 ### Crafting

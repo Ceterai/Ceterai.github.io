@@ -18,9 +18,43 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 0.9
+- Press Type: `burst`
+- Press Params:
+  - Type: `fireplasma`
+  - Inaccuracy: 0.11
+  - Params:
+    - Knockback: 20
+    - Time To Live: 5.0
+- Hold Type: `burst`
+- Hold Params:
+  - Type: `firestickygrenade`
+  - Inaccuracy: 0.21
+  - Count: 3
+
 ### Secondary Ability
 
 Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Base Dps: 8
+- Energy Usage: 36
+- Fire Time: 0.9
+- Press Type: `burst`
+- Press Params:
+  - Type: `firestickygrenade`
+  - Inaccuracy: 0.08
+  - Count: 1
+- Hold Type: `burst`
+- Hold Params:
+  - Type: `fireproximitymine`
+  - Inaccuracy: 0.21
+  - Count: 3
 
 ## Sources
 

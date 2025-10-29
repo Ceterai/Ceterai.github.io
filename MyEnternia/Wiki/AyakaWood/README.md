@@ -22,7 +22,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
 - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"/> [Paper](https://starbounder.org/Paper)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 111 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 114 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"/> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" width="auto" height="16px"/> [Alien Mounds](https://ceterai.github.io/MyEnternia/Wiki/AlienMounds)
@@ -94,6 +94,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/basic/icon.png" alt="Ayaka Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Ayaka Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AyakaFlowerPot)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" width="auto" height="16px"/> [Ayaka Giant](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" width="auto" height="16px"/> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_ceternity_poster.png" alt="Ceternity Poster icon" loading="lazy" width="auto" height="16px"/> [Ceternity Poster](https://ceterai.github.io/MyEnternia/Wiki/CeternityPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_colorful_grass_seeds.png" alt="Colorful Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Colorful Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/ColorfulGrassSeeds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_crimson_grass_seeds.png" alt="Crimson Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Crimson Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/CrimsonGrassSeeds)
 - `ct_aid_mimic`
@@ -106,6 +107,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_flowery_grass_seeds.png" alt="Flowery Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Flowery Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/FloweryGrassSeeds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_grass_seeds.png" alt="Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/GrassSeeds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" width="auto" height="16px"/> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"/> [Halloween Poster](https://ceterai.github.io/MyEnternia/Wiki/HalloweenPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_harrowing_poster.png" alt="Harrowing Poster icon" loading="lazy" width="auto" height="16px"/> [Harrowing Poster](https://ceterai.github.io/MyEnternia/Wiki/HarrowingPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_flare.png" alt="Hevika Flare icon" loading="lazy" width="auto" height="16px"/> [Hevika Flare](https://ceterai.github.io/MyEnternia/Wiki/HevikaFlare)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alterash_art.png" alt="Homely Gardens icon" loading="lazy" width="auto" height="16px"/> [Homely Gardens](https://ceterai.github.io/MyEnternia/Wiki/HomelyGardens)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)

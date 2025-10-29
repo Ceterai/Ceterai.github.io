@@ -16,6 +16,29 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+The core stability has regular fluctuations as usual, and the ion radiation seems to be still so far.
+
+All readings are stable, the [ion core](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) energy will be at its peak in approx. 14 hours.
+
+Monitoring equipment:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier) ID: AIN-35af1f20  
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal) ID: AIC-f4f1904c
+
+Responsible team: A.R.C.O. RS-17 "Vera"
+
+Further report:
+
+An energy device found during scouting by an [Arco](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arco) scout, codename <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" width="auto" height="16px"/> ["Ion Fortress"](https://ceterai.github.io/MyEnternia/Wiki/IonFortress), as well as a deprecated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"/> [plasma chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram).
+
+All findings went to the coordination center.
+
+No anomalies detected during the scouting, as well as no [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) energy this time.
+
+Last time an enchanted item was found, along with a small-size anomaly, which could be a potential threat to the core's stability.
+
 ## Usage
 
 ### Crafting

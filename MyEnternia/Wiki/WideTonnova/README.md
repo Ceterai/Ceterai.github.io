@@ -21,7 +21,8 @@ A pretty wide <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_tonnova_wide_stem`
 - Foliage/Cap: `ct_tonnova_blob`
 

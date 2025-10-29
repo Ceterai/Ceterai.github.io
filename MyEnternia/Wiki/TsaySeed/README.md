@@ -46,11 +46,13 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/sapling/icon.png" alt="Tsay Sapling icon" loading="lazy" width="auto" height="16px"/> [Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/TsaySapling)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/other/seed.png" alt="Alta Seed Pack icon" loading="lazy" width="auto" height="16px"/> [Alta Seed Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedPack)
+- <img src="https://starbounder.org/mediawiki/images/c/c6/Beakseed_Crop.png" alt="Beakseed Seed icon" loading="lazy" width="6px" height="12.25px"/> [Beakseed Seed](https://starbounder.org/Beakseed_Seed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
+- <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" width="15px" height="14px"/> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/cultivated/icon.png" alt="Cultivated Tsay Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedTsaySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/eco/icon.png" alt="Eco Tsay Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoTsaySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/fertile/icon.png" alt="Fertile Tsay Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Fertile Tsay Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/FertileTsaySapling)

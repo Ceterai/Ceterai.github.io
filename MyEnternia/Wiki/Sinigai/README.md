@@ -22,6 +22,33 @@ Radiomessages on pickup:
 **WIP**. A sequence of 3 light strikes. Hold to perform a Heavy Slash. Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 The blinking state briefly puts you into a wormhole, allowing you to shift to a close location almost immediately. A very dangerous piece of stardust-based tech.
 
+Parameters:
+
+- Fire Time: 0.625
+- Base Dps: 8
+- Steps: 
+- Damage Factor: 1.0
+- Energy Factor:
+- Knockback: 10.0
+- Swoosh: `swoosh_small1`
+- Swoosh Offset:  -1.0,  -0.25,  2.5,  2.0
+- Swoosh Sound: `primary_press`, 
+- Damage Factor: 0.6
+- Energy Factor:
+- Knockback: 20.0
+- Swoosh: `swoosh_small2`
+- Swoosh Offset: ,  -0.5,  2.5,  1.0
+- Swoosh Sound: `primary_press2`, 
+- Damage Factor: 1.4
+- Energy Factor:
+- Knockback: 10.0
+- Swoosh: `swoosh_small2`
+- Swoosh Offset: ,  -0.25,  2.5,  1.0
+- Swoosh Sound: `primary_press`
+- Damage Config:
+  - Damage Source Kind: `shortsword`
+  - Timeout: 0.5
+
 ## Sources
 
 Can be bought from merchants:

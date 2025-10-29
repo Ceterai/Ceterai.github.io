@@ -13,6 +13,14 @@ These can either be crafted or found in random alta pods on alterash planets.
 - The item you've just picked up seems to have visual EDS markings on it. EDS is an alta formation focused on protecting altas from all possible threats, and thus all related items and objects often reflect that goal in their characteristics.  
 Unfortunately, it seems like EDS's automated defence system went out of control recently, so I'd suggest avoiding contact with still active facilities.
 
+### Contents
+
+...No response. Still. Constant retries are so useless at this point it's probably a better idea to take decisive measures.
+
+The whole EDS system has officially gone out of control. Or, as server status says, 'in autopilot mode'.
+
+Hopefully this reaches Alliana soon, the situation in already dangerous regions might become lethal if EDS goes rogue and decides to attack researchers.
+
 ## Usage
 
 ### Crafting

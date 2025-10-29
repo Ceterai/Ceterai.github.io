@@ -24,11 +24,54 @@ Radiomessages on pickup:
 A standard [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) discharger.
 Firemodes: auto, semiauto, single.
 
+Parameters:
+
+- Base Dps: 8
+- Fire Time: 0.1
+- Energy Usage: 32
+- Burst Params:
+  - Count: 3
+  - Interval: 0.1
+- Default Fire Type: `auto`
+- Fire Types:
+  - Auto:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_plasma_medium`
+      - Sound: `auto`
+    - Hold Time Max:
+  - Semi:
+    - Press Type: `semi`
+    - Press Params:
+      - Type: `ct_plasma_medium`
+      - Count: 3
+      - Interval: 0.1
+    - Hold Time Max:
+  - Single:
+    - Press Type: `blast`
+    - Press Params:
+      - Type: `ct_plasma_medium`
+      - Fire Time: 0.45
+      - Inaccuracy: 0.02
+    - Hold Time Max:
+
 ### Combat Switch
 
 A combat-specific set of functions.
 Press - launch a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_plasma_nade.png" alt="Plasma Nade icon" loading="lazy" width="auto" height="16px"/> [Plasma Nade](https://ceterai.github.io/MyEnternia/Wiki/PlasmaNade);
 Hold - change firemodes.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 8
+- Energy Usage: 36
+- Fire Time: 0.8
+- Press Type: `nade`
+- Press Params:
+  - Type: `ct_plasma_nade_charge`
+- Hold Firemodes: `True`
+- Fire Types:  `auto`,  `semi`,  `single`
 
 ## Sources
 

@@ -15,6 +15,25 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+The sky above [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) always sparkled with a mysterious starry glow.
+
+No matter when you raise your head, it always seems as if above you, high in the sky, there is an endless, crystal-clear ocean, full of coral caramel reefs, beautiful clots of sugar foam and magical, distant dreams and wishes.
+
+Many altas are familiar with the desire to get out into the quiet [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens), lie down in the grass covered with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), and, carefree looking at the sky, dream about anything at all.
+
+After all, somewhere up there, in the distance, brave heavenly guardians fly behind the clouds and protect sisters in trouble!
+
+And even further, on asteroids, great alta scientists are developing advanced technologies and moving forward the progress of the entire civilization!
+
+And behind the asteroids, even further, fearless and free [spacedrifters](https://ceterai.github.io/MyEnternia/Wiki/Spacedrifter) plow through space itself!
+
+And somewhere out there, among the stars, [Celestia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Celestia) wanders, lovingly caring for each alta.  
+And farthest from all, in every star, around it and everywhere, there is [Io](https://ceterai.github.io/MyEnternia/Wiki/Io) herself, quietly observing the world and the passage of time.
+
+"Who but her could make my wish come true? Please, help me, dear Io!" - silly alta thinks, closing her eyes, and, filled with determination and good mood, goes on about her day.
+
 ## Usage
 
 ### Crafting

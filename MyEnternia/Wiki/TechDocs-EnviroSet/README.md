@@ -11,6 +11,24 @@ Species descriptions:
 
 - Alta: Makes you feel safe and secure in hazardous places.
 
+### Contents
+
+Just like any other science-and-research alta company, A.R.C.O. is giving special attention to the protection of its researchers.
+
+Unlike other companies, A.R.C.O. were able to design a number of exceptional protective equipment that became popular outside of it.
+
+Now, A.R.C.O. enviro suits are just as popular in interplanetary use as Tserera energy cells.
+
+Envirosuit Helmet - An enclosed bionid helm with breathing filters. Has an integrated Energiser - a light energy regen system.
+
+Envirosuit Chestpiece - An enclosed hybrid suit made out of filtered bionid strands and an Electroblockade layer to protect from most electric burns.
+
+Enviroleggings - Protective legwear providing additional defense against [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) and [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire).
+
+Enviroprotector - Provides Life Support and emergency Force Shield.
+
+> Note: be cautious, since effects like Energiser, Autorepeller, Life Support System, Autoprotector, Autoanalyzer, Omniblue Light and Energy Support System can be blocked by EMI attacks.
+
 ## Usage
 
 ### Crafting

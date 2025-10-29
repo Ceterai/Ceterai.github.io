@@ -22,7 +22,8 @@ While some of the species are able to bloom with bright pink flowers, rare speci
 
 ## Parameters
 
-- Health: 1.5  
+- Health: 1.5
+
 - Stem/Stipe: `ct_warped_yaara_stem`
 - Foliage/Cap: `ct_yaara_leaves`
 

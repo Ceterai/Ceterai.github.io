@@ -23,6 +23,13 @@ Radiomessages on pickup:
 Enters a charged state every 10 seconds, making next 4 hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
 Mysterious markings on the handle reference a unique combat system, or rather a less-known variation of it.
 
+Parameters:
+
+- Fire Time: 0.9
+- Base Dps: 6
+- Damage Config:
+  - Knockback: 25
+
 ## Sources
 
 Can be bought from merchants:

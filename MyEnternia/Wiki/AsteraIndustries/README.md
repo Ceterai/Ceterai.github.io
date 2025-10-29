@@ -16,6 +16,21 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+By astera, [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) usually mean a cosmic area surrounding any [Io structs](https://ceterai.github.io/MyEnternia/Wiki/Iostructs), most commonly [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets.
+
+More often than not such spaces are filled with asteroids rich on minerals, [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), and alien life forms.
+
+That's why it's not uncommon to find different alta industries scattered throughout astera.
+
+These industries include [alta space stations](https://ceterai.github.io/MyEnternia/Wiki/altaspacestations) for bypassing ships, mining facilities that gather the minerals and crystals from all around, and research labs where altas perform cosmos-related studies and experiments.  
+This is where a lot of stardust-related research comes from, as well as research about astera itself, the Io structs and the moon-like nature of [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) and [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash) planets.
+
+Since performing research and other work in such environments is not particularly easy, many astera-based organizations and teams have formed an alliance meant for sharing resources and providing technological help to each other.
+
+This alliance is currently known as Astera Industries, or _Astera Ordis_ for short.
+
 ## Usage
 
 ### Crafting

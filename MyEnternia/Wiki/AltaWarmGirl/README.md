@@ -36,4 +36,4 @@ Can periodically provide following items as rent:
 - In-game ID: `ct_alta_warm_tenant`
 - NPC type: `ct_alta_warm_girl`
 - Priority: `5`
-- File: [`/tenants/alta/themed/holiday/warm.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/themed/holiday/warm.tenant)
+- File: [`/tenants/alta/events/xmas/warm.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/events/xmas/warm.tenant)

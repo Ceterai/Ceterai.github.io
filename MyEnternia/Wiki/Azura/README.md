@@ -22,7 +22,8 @@ This tree consists of a special type of wood often used in decorative furniture 
 
 ## Parameters
 
-- Health: 7.5  
+- Health: 7.5
+
 - Stem/Stipe: `alienstriped`
 - Foliage/Cap: `alienbigleaf`
 

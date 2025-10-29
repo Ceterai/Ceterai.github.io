@@ -21,7 +21,8 @@ A very suspicious-looking [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_shady`
 - Foliage/Cap: `ct_mooplic`
 

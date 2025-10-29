@@ -16,6 +16,16 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+Ecoponics are a mixed plant-growing technique that involves full isolation with use of mixtures instead of solid ground or full-on liquids. Expect to use materials like tar, soft clay, mycelium and jelatine.
+
+Very often you might also notice that eco pods used for ecoponics are filled with various growth aside from the center plant itself - this is due to the fact that some plants require whole eco systems to function, aside from soil, light, liquids, rays, minerals or air.
+
+The biggest sources for plants that require ecoponics are enterash and enterash prime planets, which might sound surprizing due to their lack of ecology as a whole. This isn't actually true, and they do have ecosystems!
+
+This misconception is mostly because those ecosystems are very different to what you're used to see here, on alterash planets. Enterash rocks are riddled with microscopic fossils and crab-like insects, which play important roles in some plants' life cycles.
+
 ## Usage
 
 ### Crafting

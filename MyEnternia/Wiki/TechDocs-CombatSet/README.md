@@ -11,6 +11,18 @@ Species descriptions:
 
 - Alta: This set looks quite advanced. I wonder how well it would protect me in a fight?
 
+### Contents
+
+Unlike most alta combat armor, this set is designed for on-ground and air combat. Maybe not as suitable for space.
+
+Alta Combat Mask - An alta army helmet-like mask, covering face and profile completely and supplying a Life Support System.
+
+Alta Combat Uniform - An bulletproof cape with high neck and a weather jacket. Provides Emergency Healer system that can save a life of an alta.
+
+Alta Combat Off-Roaders - Sleek heat-preserving legwear with bionid footing suitable for hard-to-traverse terrain. Includes Velocity Jump mechanisms.
+
+> Note: be cautious, since effects like Emergency Healer and Life Support System can be blocked by EMI attacks.
+
 ## Usage
 
 ### Crafting

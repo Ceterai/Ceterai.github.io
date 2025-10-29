@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_omni_narfin_plush.png" alt="Omni Narfin Plushie icon" loading="lazy" width="auto" height="16px"/> **Omni Narfin Plushie** is a legendary toy.
 
-A hand-made plushie of a very rare narfin species. Made specificaly to make your day.
+A hand-made plushie of a very rare narfin species. Made specificaly to make your day.  
+Omni narfins are a rare subspecies of narfin known for their unique coloration and friendly nature. This plushie is a delightful representation of these gentle creatures.
 
 ## Ingame
 

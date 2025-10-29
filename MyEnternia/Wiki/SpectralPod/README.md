@@ -13,7 +13,8 @@ Species descriptions:
 
 ## Parameters
 
-- Slot Count: 24  
+- Slot Count: 24
+
 - Health: 6.0
 
 ## Sources

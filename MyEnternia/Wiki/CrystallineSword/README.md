@@ -25,6 +25,31 @@ WIP. A sequence of 4 (+1) light strikes. Hold to perform a Hold Strike.
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
 Each swing contributes to the charge, with the handle being isolated enough to not let it harm the wielder. Unfortunately, this blocks any protosystem-like infusions.
 
+Parameters:
+
+- Class: `Parry`
+- Base Dps: 12
+- Fire Time: 0.9
+- Energy Usage: 32
+- Steps: 
+- Damage Factor: 1.0
+- Energy Factor:
+- Knockback: 10.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0, 
+- Damage Factor: 1.4
+- Energy Factor:
+- Knockback: 5.0
+- Swoosh: `swoosh2`
+- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0, 
+- Damage Factor: 0.6
+- Energy Factor:
+- Knockback: 25.0
+- Swoosh: `swoosh3`
+- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
+- Damage Config:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+
 ### Sinara's Leap
 
 Hold to perform a Blink Slash.  

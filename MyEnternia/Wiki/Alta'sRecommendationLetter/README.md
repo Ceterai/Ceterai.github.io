@@ -16,6 +16,18 @@ Radiomessages on pickup:
 - You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
 These can either be crafted or found in random alta pods on alterash planets.
 
+### Contents
+
+Hi Tifa! I'm glad to inform you that our review found an extensive list of positions available for you! Please review the list below and let me know if any option suits you.  
+- coordinator  
+- general servicer  
+- social worker (cleaning and/or gardening positions)  
+- caretaker (advanced)
+
+Your request was approved by Alliana Citadel and local Elin Gardens and we can't wait to be working with you!  
+Let's show poor lost altas care, love and support together!  
+- Aria S., Corfal Coordinator
+
 ## Usage
 
 ### Crafting

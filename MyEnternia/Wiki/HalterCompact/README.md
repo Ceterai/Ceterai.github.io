@@ -24,6 +24,19 @@ Radiomessages on pickup:
 A sequence of 4 (+1) light strikes. Hold to perform a Charged Halter Strike.  
 Although a lot of improvements are purely technical and don't rely on stardust directly, all energy-related enhancements, including stun power, do highly depend on it.
 
+Parameters:
+
+- Damage Config:
+  - Damage Source Kind: `electric`
+  - Timeout Group: `primary`
+  - Timeout: 0.3
+- Crack Dps: 7.2
+- Fire Time: 0.625
+- Projectile Type: `whipcrackelectric`
+- Base Dps: 6
+- Chain Dps: 1.0
+- Class: `WhipCrack`
+
 ## Sources
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).

@@ -18,11 +18,37 @@ Radiomessages on pickup:
 
 Main ability of the item, activated with left mouse button.
 
+Parameters:
+
+- Class: `AltaRanged`
+- Base Dps: 9
+- Energy Usage: 32
+- Fire Time: 1.6
+- Press Type: `snipe`
+- Press Params:
+  - Type: `iceplasma`
+- Hold Type: `semi`
+- Hold Params:
+  - Type: `iceplasma`
+  - Count: 2
+
 ### Heaven's Gaze
 
 [Arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight)'s arsenal.
 Press - change attachments: none, laser, stabilizer (x1.25 dmg);
 Hold - launch an Icy Cloud Nade.
+
+Parameters:
+
+- Press Attachments: `True`
+- Fire Time: 0.5
+- Hold Type: `nade`
+- Hold Params:
+  - Type: `icecloudgrenade`
+- Attachments:  `none`,  `laser`,  `stabilizer`
+- Base Dps: 9
+- Class: `AltaSwitch`
+- Energy Usage: 32
 
 ## Sources
 

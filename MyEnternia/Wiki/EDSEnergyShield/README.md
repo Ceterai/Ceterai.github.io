@@ -10,11 +10,13 @@ Applied by following items:
 
 ## Parameters
 
-- Blocking Stat: `emiJam`
-- Default Duration: 20s
-- Effect parameters: 
+Blocking Stat: `emiJam`  
+Default Duration: 20s  
+Effect parameters:
 
-- Shield Base: 100.0- Shield From Health Percent: 0.35- Visuals: `border=2;b8182499;b81824ff`
+- Shield Base: 100.0
+- Shield From Health Percent: 0.35
+- Visuals: `border=2;b8182499;b81824ff`
 
 ## Technical Information
 

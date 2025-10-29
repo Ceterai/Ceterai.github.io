@@ -18,6 +18,20 @@ Intergrated tech that allows you to take control of 3 [Magmorbs](https://ceterai
 Press - launch a [Magmorb](https://ceterai.github.io/MyEnternia/Wiki/Magmorb);
 Hold - create a Magma Shield.
 
+Parameters:
+
+- Base Dps: 5
+- Energy Usage: 20
+- Fire Time: 0.33
+- Type: `ct_magmorb`
+- Params:
+  - Return On Hit: `True`
+  - Ignore Terrain:
+  - Control Force: 140
+  - Pickup Distance: 1.5
+  - Snap Distance: 4.0
+- Shield Knockback: 10
+
 ## Sources
 
 Can be bought from merchants:

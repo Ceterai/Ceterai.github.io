@@ -16,6 +16,19 @@ Radiomessages on pickup:
 
 Instead of storing rockets, this tool generates and launches actual fireballs instead.
 
+Parameters:
+
+- Base Dps: 4
+- Energy Usage: 16
+- Fire Time: 0.8
+- Press Type: `rocket`
+- Press Params:
+  - Type: `fireguidedrocket`
+- Hold Type: `rocket`
+- Hold Params:
+  - Type: `fireplasmarocket`
+- Hold Time Max: 0.9
+
 ## Sources
 
 Can be bought from merchants:

@@ -21,7 +21,8 @@ This [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) shroom has a bu
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_glow_bursting`
 - Foliage/Cap: `ct_perolic`
 

@@ -21,7 +21,8 @@ A sizeable, wide [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) shr
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_bulb`
 - Foliage/Cap: `ct_akollic`
 

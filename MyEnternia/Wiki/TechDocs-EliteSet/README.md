@@ -11,6 +11,18 @@ Species descriptions:
 
 - Alta: The pinnacle of alta engineering for elite operatives.
 
+### Contents
+
+Elite security units are usually protecting high-importance objects, like the Citadel of the main alta capital Alliana, or the biggest alta mothership Al'deron.
+
+Elite Ceter-Helm - A full protection helmet with a special Autoprotector system integrated into its system.
+
+Elite Guard Armor - An ultra heavy class of armor meant to protect the life of its wearer at all costs. Has a Life Support System installed.
+
+Elite Energy Greaves - This ceternia-enhanced legwear reduces any fall damage by 75%.
+
+> Note: be cautious, since effects like Autoprotector and Life Support System can be blocked by EMI attacks.
+
 ## Usage
 
 ### Crafting

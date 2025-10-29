@@ -15,6 +15,14 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+Taking care of flowers is a fairly distinct process to simple farming or plant growing, as it focuses quite a lot on the blooming stage of the plant, rather than on its ripening of maturing. This is because blooming can be quite a complex process in itself, sometimes requiring professional care to get right.
+
+The high demand on flowers, aside from their beauty, can be explained by the usefulness of its produce - like petals and powder for most plants, but also resources like emulsions, extracts and seeds (for the bloom-seed plants). Some flowers are cherished for their mobility - like yaara hunters and aya virmas!
+
+Make sure you have a double-layered pot to keep your plant in. If its roots require light, crystal-sided or transparent pots are recommended, while temperature-sensitive plants prefer multi-layered bion pots instead. Composite pots can provide proper environmental isolation and are mostly used for toxic plants, like aric sporelings.
+
 ## Usage
 
 ### Crafting

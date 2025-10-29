@@ -38,6 +38,7 @@ Growing stages:
 
 Unlocks blueprints for:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/sapling/icon.png" alt="Beakseed Sapling icon" loading="lazy" width="auto" height="16px"/> [Beakseed Sapling](https://ceterai.github.io/MyEnternia/Wiki/BeakseedSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
 
 ## Sources

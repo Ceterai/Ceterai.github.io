@@ -9,10 +9,13 @@ Applied by following items:
 
 ## Parameters
 
-- Default Duration: 60s
-- Effect parameters: 
+Default Duration: 60s  
+Effect parameters:
 
-- Range: 3- Type: `smallelectriccloud`- Damage Multiplier: 1- Cooldown: 4.0
+- Range: 3
+- Type: `smallelectriccloud`
+- Damage Multiplier: 1
+- Cooldown: 4.0
 
 ## Technical Information
 

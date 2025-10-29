@@ -24,10 +24,38 @@ Radiomessages on pickup:
 **WIP**. A sequence of 3 light strikes. Hold to launch yourself into the air.  
 This set of strikes was taught to most altas by Protea herself. It combines speed and proper attacking directions, compensating for a lack of sharpness.
 
+Parameters:
+
+- Fire Time: 0.6
+- Base Dps: 12
+- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
+- Class: `AsiraiAttack`
+- Step Damage Config: 
+- Base Damage Factor: 1.35
+- Knockback: 5, 
+- Base Damage Factor: 1.1
+- Knockback: -5, 
+- Base Damage Factor: 1.55
+- Knockback:, 
+- Base Damage Factor: 2.2
+- Knockback: 15
+- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
+- Projectile Count:
+
 ### Energy Seeker
 
 Rotates the spear rapidly and launches it forward on release.  
 Unlike most special abilities, this technique doesn't just simply consume energy - it transforms it into the very charges used to launch it forward.
+
+Parameters:
+
+- Power: 4
+- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
+- Class: `AsiraiSpin`
+- Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
+- Damage Config:
+
 
 ## Sources
 

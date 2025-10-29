@@ -1,10 +1,10 @@
 # Generic Tag
 
-The tag `generic` contains 108 total entries.
+The tag `generic` contains 110 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 96 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 98 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"/> [Alternia Crystal](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)
@@ -46,6 +46,8 @@ The tag `generic` contains 108 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime2/icon.png" alt="Isoslime Pile icon" loading="lazy" width="auto" height="16px"/> [Isoslime Pile](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePile)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime1/icon.png" alt="Isoslime Puddle icon" loading="lazy" width="auto" height="16px"/> [Isoslime Puddle](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePuddle)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_spawner/icon.png" alt="Isospawner icon" loading="lazy" width="auto" height="16px"/> [Isospawner](https://ceterai.github.io/MyEnternia/Wiki/Isospawner)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/juviley/icon.png" alt="Juviley icon" loading="lazy" width="auto" height="16px"/> [Juviley](https://ceterai.github.io/MyEnternia/Wiki/Juviley)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee/icon.png" alt="Klee icon" loading="lazy" width="auto" height="16px"/> [Klee](https://ceterai.github.io/MyEnternia/Wiki/Klee)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee_prime/icon.png" alt="Klee Prime icon" loading="lazy" width="auto" height="16px"/> [Klee Prime](https://ceterai.github.io/MyEnternia/Wiki/KleePrime)

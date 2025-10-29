@@ -15,6 +15,17 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+While alterash planets mainly consist of moonrock, moonstone and moondust, they are usually filled with an abundance of additional resources, which are used by some plants, crystals, mushrooms and animals to prosper.
+
+Because of this, when growing rare plants in an isolated environment, you might find that some of them experience complications during growth, some might refuse to bloom, or ripe, or even grow at all.
+Some plants can die during the process, unable to receive elements essential for their survival.
+
+This is why you might turn to enhancing your soils with additional components, making them much more useful to the plant growing in them. Keep in mind that the same enrichment process might not work for different plants, so choose your recipe carefully and don't generalize.
+
+Professional alta bio engineers use pre-defined mixtures manufactured on a factory level, but manual enrichment can be done locally by carefully following the instructions.
+
 ## Usage
 
 ### Crafting

@@ -16,11 +16,52 @@ Radiomessages on pickup:
 
 Blasts accelerated [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) enhanced with plasma. Hold to charge up power, speed and knockback.
 
+Parameters:
+
+- Class: `AltaRanged`
+- Base Dps: 11
+- Energy Usage: 40
+- Fire Time: 2.0
+- Press Type: `snipe`
+- Press Params:
+  - Type: `railgunlightning`
+  - Params:
+    - Time To Live: 5
+    - Knockback: 20
+    - Speed: 160
+    - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- Hold Type: `snipe`
+- Hold Params:
+  - Type: `railgunlightning`
+  - Params:
+    - Time To Live: 5
+    - Knockback: 40
+    - Speed: 200
+    - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+
 ### Nata's Havoc
 
 Everything else you need in a blaster.
 Press - change attachments: none, laser, stabilizer (x1.25 dmg);
 Hold - launch a Shockbomb.
+
+Parameters:
+
+- Class: `AltaSwitch`
+- Base Dps: 11
+- Energy Usage: 40
+- Fire Time: 0.5
+- Hold Type: `nade`
+- Hold Params:
+  - Type: `shockbomb`
+- Press Attachments: `True`
+- Lazer Params:
+  - Offset:  3.375, 
+  - Color:  255, ,  128
+  - Length: 64
+  - Segments: 8
+  - Angle:
+- Attachments:  `none`,  `laser`,  `stabilizer`
 
 ## Sources
 

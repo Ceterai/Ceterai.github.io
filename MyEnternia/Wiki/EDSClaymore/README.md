@@ -23,9 +23,52 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 A sequence of _3_ heavy strikes. Hold to perform a [Rising Slash](https://ceterai.github.io/MyEnternia/Wiki/RisingSlash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).
 
+Parameters:
+
+- Class: `RisingSlash`
+- Base Dps: 12
+- Fire Time: 1.2
+- Energy Usage: 32
+- Hold Params:
+  - Cooldown Time: 0.2
+  - Energy Factor: 1.0
+- Steps: 
+- Damage Factor: 1.0
+- Energy Factor:
+- Knockback: 20.0
+- Swoosh: `swoosh1`
+- Swoosh Offset:  0.75, ,  4.25,  5.0, 
+- Damage Factor: 0.6
+- Energy Factor:
+- Knockback: 15.0
+- Swoosh: `swoosh2`
+- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0, 
+- Damage Factor: 1.2
+- Energy Factor:
+- Knockback: 30.0
+- Swoosh: `swoosh3`
+- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
+
 ### Elerune CDR Blast
 
 Launches stabilizing Ion Rockets that deal electric damage.
+
+Parameters:
+
+- Scripts:  `/items/active/weapons/ranged/alta/ranged.lua`
+- Class: `AltaRanged`
+- Base Dps: 8
+- Energy Usage: 32
+- Fire Time: 1.2
+- Press Type: `none`
+- Hold Type: `blast`
+- Hold Params:
+  - Type: `ct_ionic_large`
+  - Params:
+    - Knockback: 15
+    - Time To Live: 5.0
+  - Offset:  -0.45,  5.0
+  - Count: 1
 
 ## Usage
 

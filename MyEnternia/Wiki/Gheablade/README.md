@@ -25,6 +25,17 @@ Radiomessages on pickup:
 Enters a charged state every 10 seconds, making next 4 hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
 Each piece of gheatsyn in proximity starts to slowly resonate with the blade of the tool...
 
+Parameters:
+
+- Fire Time: 0.9
+- Base Dps: 6
+- Damage Config:
+  - Knockback: 25
+  - Item Bonus:
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
+    - Damage Factor: 0.005
+    - Max: 120
+
 ## Sources
 
 Found naturally in containers:

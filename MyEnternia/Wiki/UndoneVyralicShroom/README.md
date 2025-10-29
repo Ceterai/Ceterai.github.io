@@ -21,7 +21,8 @@ An un-twisted variation of a <img src="https://raw.githubusercontent.com/Ceterai
 
 ## Parameters
 
-- Health: 2.5  
+- Health: 2.5
+
 - Stem/Stipe: `ct_aric_twisted_undone`
 - Foliage/Cap: `ct_vyralic`
 

@@ -15,6 +15,17 @@ Radiomessages on pickup:
 
 - You've found an alta ebook - a collimator electronic reader usually used as a reusable substitute for books. Often crafted in alta datacenters.
 
+### Contents
+
+"Do crystals have a mom?" - asked the little star excitedly. "They certainly do!" - the voice answered her - "Everything in this world has one mom in common."
+"Wow! And who is this?!" - the star's voice became even more excited.
+
+"It's Io, silly!" - the voice answered warmly and giggled slightly - "She is the mother of everyone and everything, because even the smallest crystal is almost the same star as you, just much smaller... well, and perhaps not as sociable." - the voice chuckled cheerfully again, and the hand of its owner reached out to the star and began to stroke her head.
+
+"Remember, my little flower, crystals are your good friends, so don't be mean to them." - the voice pointed out to her.
+"I know! I'm already friends with them, I really like them!" - the star answered her joyfully.
+"That's good. Always remember that in any crystal, even just a stone, there can be a small speck of stardust. And even though not all things in this world are alive, all things have their own value, and everything has its own meaning."
+
 ## Usage
 
 ### Crafting
