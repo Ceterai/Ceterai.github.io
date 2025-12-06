@@ -1,6 +1,6 @@
 # Ebook Tag
 
-The tag `ebook` contains 40 total entries.
+The tag `ebook` contains 44 total entries.
 
 ## Objects
 
@@ -8,8 +8,9 @@ The tag `ebook` contains 40 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 40 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 44 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="A Perfect Riverside Date icon" loading="lazy" width="auto" height="16px"/> [A Perfect Riverside Date](https://ceterai.github.io/MyEnternia/Wiki/APerfectRiversideDate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" width="auto" height="16px"/> [A Sentia's Crown](https://ceterai.github.io/MyEnternia/Wiki/ASentia'sCrown)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/astera.png" alt="A Spacedrifter's Adventure icon" loading="lazy" width="auto" height="16px"/> [A Spacedrifter's Adventure](https://ceterai.github.io/MyEnternia/Wiki/ASpacedrifter'sAdventure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="A Virma's Friend icon" loading="lazy" width="auto" height="16px"/> [A Virma's Friend](https://ceterai.github.io/MyEnternia/Wiki/AVirma'sFriend)
@@ -43,11 +44,14 @@ The tag `ebook` contains 40 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"/> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and The Starflower Order icon" loading="lazy" width="auto" height="16px"/> [Little Star and The Starflower Order](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandTheStarflowerOrder)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"/> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"/> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"/> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" width="auto" height="16px"/> [The Miracles of Vionia](https://ceterai.github.io/MyEnternia/Wiki/TheMiraclesofVionia)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Neon Forest icon" loading="lazy" width="auto" height="16px"/> [The Neon Forest](https://ceterai.github.io/MyEnternia/Wiki/TheNeonForest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Observer icon" loading="lazy" width="auto" height="16px"/> [The Observer](https://ceterai.github.io/MyEnternia/Wiki/TheObserver)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" width="auto" height="16px"/> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="What Is Esetera icon" loading="lazy" width="auto" height="16px"/> [What Is Esetera](https://ceterai.github.io/MyEnternia/Wiki/WhatIsEsetera)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"/> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 

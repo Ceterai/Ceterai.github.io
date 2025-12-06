@@ -32,7 +32,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Alto Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedAltoKoywaFlower)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 19 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 20 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/flower/icon.png" alt="Alta Flower Bed icon" loading="lazy" width="auto" height="16px"/> [Alta Flower Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"/> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
@@ -50,6 +50,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Alto Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedAltoKoywaFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" width="auto" height="16px"/> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"/> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Roundsalad icon" loading="lazy" width="auto" height="16px"/> [Roundsalad](https://ceterai.github.io/MyEnternia/Wiki/Roundsalad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto_twin/icon.png" alt="Verriskoywa Twin Alto Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Twin Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinAltoFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" width="auto" height="16px"/> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Slice icon" loading="lazy" width="auto" height="16px"/> [Yaarizza Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaSlice)

@@ -11,16 +11,6 @@ Species descriptions:
 
 - Alta: A spicy meal for spicy meal lovers.
 
-## Parameters
-
-- Food Value: 50
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"/> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (330s)
-- <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"/> [Burning](https://starbounder.org/Burning) (15s)
-
 ## Sources
 
 Can be crafted:
@@ -44,7 +34,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_minto_soup-maitai`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)
 - File: [`/items/generic/food/tier4/ct_minto_soup.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_minto_soup.consumable)

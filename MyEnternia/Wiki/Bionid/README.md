@@ -20,8 +20,9 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 14 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 16 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="A Perfect Riverside Date icon" loading="lazy" width="auto" height="16px"/> [A Perfect Riverside Date](https://ceterai.github.io/MyEnternia/Wiki/APerfectRiversideDate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_bionid_augment.png" alt="Bionid Augment icon" loading="lazy" width="auto" height="16px"/> [Bionid Augment](https://ceterai.github.io/MyEnternia/Wiki/BionidAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/bionid.png" alt="Bionid Glowstick icon" loading="lazy" width="auto" height="16px"/> [Bionid Glowstick](https://ceterai.github.io/MyEnternia/Wiki/BionidGlowstick)
@@ -32,6 +33,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
 - <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"/> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_spiral_tree.png" alt="Tonnova Spiral icon" loading="lazy" width="auto" height="16px"/> [Tonnova Spiral](https://ceterai.github.io/MyEnternia/Wiki/TonnovaSpiral)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" width="auto" height="16px"/> [Tonnova Tree](https://ceterai.github.io/MyEnternia/Wiki/TonnovaTree)

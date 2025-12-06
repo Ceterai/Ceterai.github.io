@@ -1,6 +1,6 @@
 # Spawner Tag
 
-The tag `spawner` contains 141 total entries.
+The tag `spawner` contains 140 total entries.
 
 ## Objects
 
@@ -15,7 +15,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 137 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 136 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Citadel Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Citadel Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadelDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_jelly_egg.png" alt="Alta Jelly Egg icon" loading="lazy" width="auto" height="16px"/> [Alta Jelly Egg](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEgg)
@@ -47,7 +47,6 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crystal_poptop_egg.png" alt="Crystal Poptop Egg icon" loading="lazy" width="auto" height="16px"/> [Crystal Poptop Egg](https://ceterai.github.io/MyEnternia/Wiki/CrystalPoptopEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crystalline_crippit_egg.png" alt="Crystalline Crippit Egg ★ icon" loading="lazy" width="auto" height="16px"/> [Crystalline Crippit Egg ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallineCrippitEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" width="auto" height="16px"/> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)
-- `ct_alto_zich_egg`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/dreamer.png" alt="Dreamer Android ★ icon" loading="lazy" width="auto" height="16px"/> [Dreamer Android ★](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/eds.png" alt="EDS Android ★ icon" loading="lazy" width="auto" height="16px"/> [EDS Android ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" width="auto" height="16px"/> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)

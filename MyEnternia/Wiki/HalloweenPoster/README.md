@@ -7,9 +7,18 @@ A poster featuring a pumpkin, the biggest mascot of the Halloween event. The des
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Happy spooky season!~
+- Apex: Human autumn celebration featuring themed symbols.
+- Avian: A carved face for human festivities.
+- Floran: Orange fruit face! Floran thinksss it looksss funny.
+- Glitch: Curious. Humans celebrate similarly to altas.
+- Human: Classic jack-o'-lantern! Nice seeing altas appreciate it.
+- Hylotl: Different species, similar seasonal celebration themes.
+- Novakid: A pumpkin poster!
+
+</details>
 
 ## Sources
 
@@ -17,6 +26,7 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 
 Can be crafted:
 
@@ -37,6 +47,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_halloween_poster`
 - Power: `1.5`
 - Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`poster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poster)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`poster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poster)
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`halloween`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Halloween)
 - File: [`/objects/alta/special/events/ceternity/ct_halloween_poster.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/events/ceternity/ct_halloween_poster.object)

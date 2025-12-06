@@ -15,7 +15,7 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 153 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 152 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arco.png" alt="A.R.C.O. Research icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Research](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/tray/icon.png" alt="Alta Hydroponic Tray icon" loading="lazy" width="auto" height="16px"/> [Alta Hydroponic Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponicTray)
@@ -169,7 +169,6 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_vitershai.png" alt="Viter-Shai ★ icon" loading="lazy" width="auto" height="16px"/> [Viter-Shai ★](https://ceterai.github.io/MyEnternia/Wiki/Viter-Shai)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" width="auto" height="16px"/> [Warped Gun](https://ceterai.github.io/MyEnternia/Wiki/WarpedGun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Watcher Drone icon" loading="lazy" width="auto" height="16px"/> [Watcher Drone](https://ceterai.github.io/MyEnternia/Wiki/WatcherDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"/> [Waterblaster](https://ceterai.github.io/MyEnternia/Wiki/Waterblaster)
 
 </details>
 

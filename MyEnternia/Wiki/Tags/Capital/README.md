@@ -7,8 +7,8 @@ The tag `capital` contains 19 total entries.
 Following objects have this colony tag:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" width="auto" height="16px"/> [Alta Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaLennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" width="auto" height="16px"/> [Alta Stardust Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaStardustBed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/lenn/statue/icon.png" alt="Lenn Statue icon" loading="lazy" width="auto" height="16px"/> [Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/LennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" width="auto" height="16px"/> [Potted Blossom Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedBlossomPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" width="auto" height="16px"/> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 

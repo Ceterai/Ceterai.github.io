@@ -23,23 +23,23 @@ This device now generates Staris Strains instead of plasmic ones:
 
 Parameters:
 
-- Inaccuracy: 0.01
-- Chain:
-  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_estralis_vi_2_s.png`
-  - End Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_estralis_vi_2_e.png`
-  - Segment Size: 1.0
-  - Taper: 0.5
-- Max Projectiles: 10
-- Max Length: 24
-- Fire Time: 0.2
-- Guide Projectiles: `True`
 - Projectile Type: `ct_plasma_strain`
 - Base Dps: 4
 - Projectile Parameters:
   - Knockback: 5
   - Speed: 40
   - Time To Live: 10
+- Fire Time: 0.2
+- Chain:
+  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_estralis_vi_2_s.png`
+  - End Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_estralis_vi_2_e.png`
+  - Taper: 0.5
+  - Segment Size: 1.0
+- Guide Projectiles: `True`
+- Max Projectiles: 10
 - Energy Usage: 16
+- Max Length: 24
+- Inaccuracy: 0.01
 
 ## Sources
 

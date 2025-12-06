@@ -2,7 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/silk_brush/icon.png" alt="Silk Brush icon" loading="lazy" width="auto" height="16px"/> **Silk Brush** is an uncommon tool.
 
-Can be used once to excavate a fossil, with moderate success.
+Can be used once to excavate a fossil, with moderate success.  
+Silk-bristled fossil brush offering better precision than basic brushes. The soft yet durable silk fibers allow for careful excavation without damaging delicate fossil structures. Popular among alta field researchers and amateur paleontologists.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: Silk bristles feel so smooth! Much better than the basic brush for careful work~
 
 ## Sources
 

@@ -54,7 +54,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_niatto_motsu-perfect`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)
 - File: [`/items/generic/food/tier3/ct_niatto_motsu.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_niatto_motsu.consumable)

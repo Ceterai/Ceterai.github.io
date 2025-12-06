@@ -41,7 +41,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_aya_baked-yaara`
-- Power: `2.0`
+- Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`mash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mash), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier1/ct_aya_baked.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_aya_baked.consumable)

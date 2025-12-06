@@ -20,7 +20,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"/> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 9 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
 - `ct_alta_crafting_station8`
@@ -30,6 +30,7 @@ Unlocks blueprints for:
 - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"/> [Milk](https://starbounder.org/Milk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" width="auto" height="16px"/> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"/> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Roundsalad icon" loading="lazy" width="auto" height="16px"/> [Roundsalad](https://ceterai.github.io/MyEnternia/Wiki/Roundsalad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"/> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
 
 </details>

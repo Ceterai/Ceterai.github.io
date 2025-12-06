@@ -1,6 +1,6 @@
 # Docs Tag
 
-The tag `docs` contains 24 total entries.
+The tag `docs` contains 25 total entries.
 
 ## Objects
 
@@ -8,10 +8,11 @@ The tag `docs` contains 24 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 24 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 25 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" width="auto" height="16px"/> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" width="auto" height="16px"/> [Alta Farmer's Notes](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmer'sNotes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Alta New Year - Lann 10 icon" loading="lazy" width="auto" height="16px"/> [Alta New Year - Lann 10](https://ceterai.github.io/MyEnternia/Wiki/AltaNewYear-Lann10)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"/> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" width="auto" height="16px"/> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bionid.png" alt="Bionid Extraction Note icon" loading="lazy" width="auto" height="16px"/> [Bionid Extraction Note](https://ceterai.github.io/MyEnternia/Wiki/BionidExtractionNote)

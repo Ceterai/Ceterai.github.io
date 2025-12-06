@@ -41,7 +41,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_aya_baked-xenopod`
-- Power: `1.5`
+- Power: `1.0`
 - Rarity: `Common`
-- Tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`bakery`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bakery), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common)
+- Tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`bakery`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bakery), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit)
 - File: [`/items/generic/food/tier1/ct_aya_baked.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_aya_baked.consumable)

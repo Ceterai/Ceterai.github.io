@@ -73,5 +73,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_soil_enrichment-codex`
 - Power: `1.0`
 - Rarity: `Rare`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/codex/alta/ct_alta_soil_enrichment.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_alta_soil_enrichment.codex)

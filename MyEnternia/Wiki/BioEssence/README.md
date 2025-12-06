@@ -51,7 +51,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_bio_fresh-essence`
-- Power: `2.0`
+- Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`extract`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Extract), [`fresh`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fresh), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier1/ct_bio_fresh.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_bio_fresh.consumable)

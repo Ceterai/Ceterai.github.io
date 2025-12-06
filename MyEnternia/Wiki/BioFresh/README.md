@@ -99,7 +99,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bio_fresh`
-- Power: `1.5`
+- Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`extract`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Extract), [`fresh`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fresh), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier1/ct_bio_fresh.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_bio_fresh.consumable)

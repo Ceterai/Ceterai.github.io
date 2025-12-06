@@ -1,6 +1,6 @@
 # Crafting Stations
 
-This mod adds 40 crafting stations.
+This mod adds 42 crafting stations.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/aquarium/icon.png" alt="Alta Aquarium icon" loading="lazy" width="auto" height="16px"/> [Alta Aquarium](https://ceterai.github.io/MyEnternia/Wiki/AltaAquarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/architect_station/icon.png" alt="Alta Architect Station icon" loading="lazy" width="auto" height="16px"/> [Alta Architect Station](https://ceterai.github.io/MyEnternia/Wiki/AltaArchitectStation)
@@ -17,6 +17,7 @@ This mod adds 40 crafting stations.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bench/icon1.png" alt="Alta Emergency Bench icon" loading="lazy" width="auto" height="16px"/> [Alta Emergency Bench](https://ceterai.github.io/MyEnternia/Wiki/AltaEmergencyBench)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/energy_station/icon.png" alt="Alta Energy Station icon" loading="lazy" width="auto" height="16px"/> [Alta Energy Station](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fermenter/icon.png" alt="Alta Fermenter icon" loading="lazy" width="auto" height="16px"/> [Alta Fermenter](https://ceterai.github.io/MyEnternia/Wiki/AltaFermenter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/festive_station/icon.png" alt="Alta Festive Station icon" loading="lazy" width="auto" height="16px"/> [Alta Festive Station](https://ceterai.github.io/MyEnternia/Wiki/AltaFestiveStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" width="auto" height="16px"/> [Alta Icer](https://ceterai.github.io/MyEnternia/Wiki/AltaIcer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/insectarium/icon.png" alt="Alta Insectarium icon" loading="lazy" width="auto" height="16px"/> [Alta Insectarium](https://ceterai.github.io/MyEnternia/Wiki/AltaInsectarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/ionomelter/icon.png" alt="Alta Ionomelter icon" loading="lazy" width="auto" height="16px"/> [Alta Ionomelter](https://ceterai.github.io/MyEnternia/Wiki/AltaIonomelter)
@@ -40,5 +41,6 @@ This mod adds 40 crafting stations.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/stove/icon.png" alt="Alta Stove icon" loading="lazy" width="auto" height="16px"/> [Alta Stove](https://ceterai.github.io/MyEnternia/Wiki/AltaStove)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/tailor/icon.png" alt="Alta Tailor icon" loading="lazy" width="auto" height="16px"/> [Alta Tailor](https://ceterai.github.io/MyEnternia/Wiki/AltaTailor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/terrarium/icon.png" alt="Alta Terrarium icon" loading="lazy" width="auto" height="16px"/> [Alta Terrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaTerrarium)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/toymaker/icon.png" alt="Alta Toymaker icon" loading="lazy" width="auto" height="16px"/> [Alta Toymaker](https://ceterai.github.io/MyEnternia/Wiki/AltaToymaker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png" alt="Alta Upgrade Station icon" loading="lazy" width="auto" height="16px"/> [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/workshop/icon1.png" alt="Alta Workshop icon" loading="lazy" width="auto" height="16px"/> [Alta Workshop](https://ceterai.github.io/MyEnternia/Wiki/AltaWorkshop)

@@ -11,17 +11,6 @@ Species descriptions:
 
 - Alta: The most lucky you can get with a nia cocktail, I believe.
 
-## Parameters
-
-- Food Value: 30
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `lowgrav` (180s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"/> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (180s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"/> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (180s)
-
 ## Sources
 
 Can be crafted:
@@ -48,7 +37,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_nia_cocktail-stardust`
-- Power: `3.85`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cocktail`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cocktail), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)
 - File: [`/items/generic/food/tier4/ct_nia_cocktail.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_nia_cocktail.consumable)

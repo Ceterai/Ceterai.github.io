@@ -1,6 +1,6 @@
 # Electric Tag
 
-The tag `electric` contains 113 total entries.
+The tag `electric` contains 114 total entries.
 
 ## Objects
 
@@ -31,9 +31,10 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 98 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 99 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"/> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_charger.png" alt="Alta Charger icon" loading="lazy" width="auto" height="16px"/> [Alta Charger](https://ceterai.github.io/MyEnternia/Wiki/AltaCharger)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"/> [Alta Flare Blaster](https://ceterai.github.io/MyEnternia/Wiki/AltaFlareBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/tazer/body.png" alt="Alta Tazer icon" loading="lazy" width="auto" height="16px"/> [Alta Tazer](https://ceterai.github.io/MyEnternia/Wiki/AltaTazer)
 - [Alter-Lighting ★★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Lighting)

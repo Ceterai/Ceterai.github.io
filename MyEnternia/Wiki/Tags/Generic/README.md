@@ -1,6 +1,6 @@
 # Generic Tag
 
-The tag `generic` contains 110 total entries.
+The tag `generic` contains 112 total entries.
 
 ## Objects
 
@@ -111,12 +111,14 @@ The tag `generic` contains 110 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/alto_zych/icon.png" alt="Alto Zych icon" loading="lazy" width="auto" height="16px"/> [Alto Zych](https://ceterai.github.io/MyEnternia/Wiki/AltoZych)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" width="auto" height="16px"/> [Aya Bee](https://ceterai.github.io/MyEnternia/Wiki/AyaBee)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/elin_bug/icon.png" alt="Elin Bug ★ icon" loading="lazy" width="auto" height="16px"/> [Elin Bug ★](https://ceterai.github.io/MyEnternia/Wiki/ElinBug)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/ion_klee/icon.png" alt="Ion Klee icon" loading="lazy" width="auto" height="16px"/> [Ion Klee](https://ceterai.github.io/MyEnternia/Wiki/IonKlee)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/juviley/icon.png" alt="Juviley icon" loading="lazy" width="auto" height="16px"/> [Juviley](https://ceterai.github.io/MyEnternia/Wiki/Juviley)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee/icon.png" alt="Klee icon" loading="lazy" width="auto" height="16px"/> [Klee](https://ceterai.github.io/MyEnternia/Wiki/Klee)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee_prime/icon.png" alt="Klee Prime icon" loading="lazy" width="auto" height="16px"/> [Klee Prime](https://ceterai.github.io/MyEnternia/Wiki/KleePrime)

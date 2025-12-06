@@ -13,14 +13,6 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 25
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) (225s)
-- <img src="https://starbounder.org/mediawiki/images/3/37/Status_Rage.png" alt="Rage icon" loading="lazy" width="16px" height="16px"/> [Rage (Food)](https://starbounder.org/Rage) (225s)
-
 Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Glowarp ★ icon" loading="lazy" width="auto" height="16px"/> [Glowarp ★](https://ceterai.github.io/MyEnternia/Wiki/Glowarp)
@@ -66,7 +58,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_cocktail`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`cocktail`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cocktail), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/items/generic/food/tier4/ct_warped_cocktail.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_warped_cocktail.consumable)

@@ -19,7 +19,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"/> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 17 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 18 items)</summary>
 
 - `2kbpotage`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" width="auto" height="16px"/> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie)
@@ -36,6 +36,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" width="auto" height="16px"/> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
 - `quichelorraine`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"/> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonasweet.png" alt="Sonasweet icon" loading="lazy" width="auto" height="16px"/> [Sonasweet](https://ceterai.github.io/MyEnternia/Wiki/Sonasweet)
 - `tomatosoup`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" width="auto" height="16px"/> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
 

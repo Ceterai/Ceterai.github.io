@@ -1,6 +1,6 @@
 # Ionic Dart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/purple/throwingdart.png" alt="Ionic Dart icon" loading="lazy" width="auto" height="16px"/> **Ionic Dart** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart_ionic.png" alt="Ionic Dart icon" loading="lazy" width="auto" height="16px"/> **Ionic Dart** is a common throwable item.
 
 A throwing dart, aim for the bullseye.
 
@@ -13,4 +13,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_dart_ionic`
 - Power: `1.0`
 - Rarity: `Common`
-- File: [`/items/active/alta/toys/dart/purple/throwingdart.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/dart/purple/throwingdart.thrownitem)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`throwing_dart`](https://ceterai.github.io/MyEnternia/Wiki/Tags/ThrowingDart), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)
+- File: [`/items/active/alta/toys/dart/ct_alta_dart_ionic.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/dart/ct_alta_dart_ionic.thrownitem)

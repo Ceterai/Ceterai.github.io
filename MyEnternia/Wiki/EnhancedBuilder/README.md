@@ -15,19 +15,19 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Draw Arm Frames:  `swim.2`,  `swimIdle.1`
-- Inaccuracy: 0.01
 - Draw Speed Multiplier: `pollenpumpTimeMultiplier`
-- Power Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
-- Draw Frame Selector: `pollenpumpImageSelector`
 - Power Projectile Time:  1.0, 
-- Energy Per Shot: 45
-- Cooldown Time: 0.1
-- Scripts:  `/items/active/alta/tools/durability.lua`
 - Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
+- Draw Arm Frames:  `swim.2`,  `swimIdle.1`
+- Draw Frame Selector: `pollenpumpImageSelector`
+- Energy Per Shot: 45
 - Draw Power Multiplier: `pollenpumpPowerMultiplier`
 - Class: `LimitedShot`
+- Inaccuracy: 0.01
 - Fire Offset:  2.5,  0.25
+- Cooldown Time: 0.1
+- Power Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
+- Scripts:  `/items/active/alta/tools/durability.lua`
 
 ## Sources
 

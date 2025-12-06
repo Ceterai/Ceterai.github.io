@@ -14,18 +14,18 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Inaccuracy: 0.1
-- Fire Time: 0.12
-- Muzzle Flash Variants: 1
-- Fire Type: `auto`
-- Projectile Parameters:
-  - Knockback Range:  10,  40
-- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
 - Projectile Type: `ct_slime_spray`
 - Base Dps: 10
+- Projectile Parameters:
+  - Knockback Range:  10,  40
 - Projectile Count: 1
 - Class: `GunFire`
+- Fire Type: `auto`
+- Fire Time: 0.12
+- Inaccuracy: 0.1
+- Muzzle Flash Variants: 1
 - Energy Usage: 28
+- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
 
 ## Sources
 

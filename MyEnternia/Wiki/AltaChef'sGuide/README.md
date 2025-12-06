@@ -97,5 +97,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_food_2-codex`
 - Power: `1.0`
 - Rarity: `Rare`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Tags: [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/codex/alta/ct_alta_food_2.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_alta_food_2.codex)

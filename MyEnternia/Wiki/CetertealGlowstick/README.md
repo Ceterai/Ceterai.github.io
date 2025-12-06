@@ -23,6 +23,7 @@ Unlocks blueprints for:
 
 Can be used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart_ceterteal.png" alt="Ceterteal Dart icon" loading="lazy" width="auto" height="16px"/> [Ceterteal Dart](https://ceterai.github.io/MyEnternia/Wiki/CetertealDart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Impulse Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ImpulseStimPack)
 
 ## Sources

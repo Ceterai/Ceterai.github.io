@@ -1,10 +1,10 @@
 # Nature Tag
 
-The tag `nature` contains 333 total entries.
+The tag `nature` contains 334 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 313 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 314 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" width="auto" height="16px"/> [Akollic Shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/sapling/icon.png" alt="Alternia Sapling icon" loading="lazy" width="auto" height="16px"/> [Alternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSapling)
@@ -210,6 +210,7 @@ The tag `nature` contains 333 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/pink/icon.png" alt="Potted Pink Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Pink Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedPinkFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" width="auto" height="16px"/> [Potted Poppy Prime](https://ceterai.github.io/MyEnternia/Wiki/PottedPoppyPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/red/icon.png" alt="Potted Red Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Red Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedRedFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/sona/icon.png" alt="Potted Sonava icon" loading="lazy" width="auto" height="16px"/> [Potted Sonava](https://ceterai.github.io/MyEnternia/Wiki/PottedSonava)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"/> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/tsay/icon.png" alt="Potted Tsay icon" loading="lazy" width="auto" height="16px"/> [Potted Tsay](https://ceterai.github.io/MyEnternia/Wiki/PottedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" width="auto" height="16px"/> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush)

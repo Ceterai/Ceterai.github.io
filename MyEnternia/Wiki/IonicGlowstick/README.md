@@ -23,6 +23,7 @@ Unlocks blueprints for:
 
 Can be used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart_ionic.png" alt="Ionic Dart icon" loading="lazy" width="auto" height="16px"/> [Ionic Dart](https://ceterai.github.io/MyEnternia/Wiki/IonicDart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_ionic_stim.png" alt="Ionic Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Ionic Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/IonicStimPack)
 
 ## Sources

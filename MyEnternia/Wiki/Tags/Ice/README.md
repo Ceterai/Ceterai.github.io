@@ -16,6 +16,7 @@ Following tenants require this colony tag:
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 35 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/ct_alta_snowthrower.png" alt="Alta Snowthrower icon" loading="lazy" width="auto" height="16px"/> [Alta Snowthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowthrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Archi Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Archi Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/ArchiIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Ayamix Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Ayamix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyamixIceCream)
@@ -39,7 +40,6 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_oni_nerus.png" alt="Oni-Nerus ★ icon" loading="lazy" width="auto" height="16px"/> [Oni-Nerus ★](https://ceterai.github.io/MyEnternia/Wiki/Oni-Nerus)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" width="auto" height="16px"/> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance.png" alt="Sky Lance icon" loading="lazy" width="auto" height="16px"/> [Sky Lance](https://ceterai.github.io/MyEnternia/Wiki/SkyLance)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/snowgun.png" alt="Snowball Shooter icon" loading="lazy" width="auto" height="16px"/> [Snowball Shooter](https://ceterai.github.io/MyEnternia/Wiki/SnowballShooter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png" alt="Sona Rifle SG5 icon" loading="lazy" width="auto" height="16px"/> [Sona Rifle SG5](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle_2.png" alt="Sona Rifle SG5X ★ icon" loading="lazy" width="auto" height="16px"/> [Sona Rifle SG5X ★](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5X)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" width="auto" height="16px"/> [Sonia's Breath ★](https://ceterai.github.io/MyEnternia/Wiki/Sonia'sBreath)

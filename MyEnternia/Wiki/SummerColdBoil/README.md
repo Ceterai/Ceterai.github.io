@@ -30,7 +30,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" width="auto" height="16px"/> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"/> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" width="auto" height="16px"/> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Special Mimosa ★★ icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa ★★](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
 
 ## Sources
 
@@ -54,7 +54,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_gil_tsay_stew-boil`
-- Power: `2.5`
+- Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`stew`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stew), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/tier3/ct_gil_tsay_stew.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_gil_tsay_stew.consumable)

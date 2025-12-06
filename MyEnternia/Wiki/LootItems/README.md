@@ -1,6 +1,6 @@
 # Loot Items
 
-This mod adds 48 loot items.
+This mod adds 49 loot items.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/farming.png" alt="Advanced Farming Pack icon" loading="lazy" width="auto" height="16px"/> [Advanced Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AdvancedFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" width="auto" height="16px"/> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
@@ -42,6 +42,7 @@ This mod adds 48 loot items.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"/> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Tier 0 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 0 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier0Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 1 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 2 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier2Pad)

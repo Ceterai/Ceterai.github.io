@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_baton.png" alt="Alta Baton icon" loading="lazy" width="auto" height="16px"/> **Alta Baton** is a common one-handed shortsword.
 
-A sturdy one-handed baton.
+A sturdy one-handed baton. Often used as base for more complex tools.
 
 ## Ingame
 

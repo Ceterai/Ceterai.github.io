@@ -13,13 +13,6 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 50
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"/> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (315s)
-
 Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_maitai_soup.png" alt="Maitai Soup icon" loading="lazy" width="auto" height="16px"/> [Maitai Soup](https://ceterai.github.io/MyEnternia/Wiki/MaitaiSoup)
@@ -64,7 +57,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_minto_soup`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)
 - File: [`/items/generic/food/tier4/ct_minto_soup.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_minto_soup.consumable)

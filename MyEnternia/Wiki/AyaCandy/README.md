@@ -74,7 +74,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_aya_candy`
-- Power: `2.5`
+- Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/tier2/ct_aya_candy.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_aya_candy.consumable)

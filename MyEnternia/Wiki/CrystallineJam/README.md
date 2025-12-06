@@ -52,7 +52,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_crystal_jam-calline`
-- Power: `2.0`
+- Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`jam`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Jam), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/tier1/ct_crystal_jam.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_crystal_jam.consumable)

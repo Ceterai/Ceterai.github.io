@@ -4,7 +4,11 @@ The tag `plushie` contains 9 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 9 items)</summary>
+## Tenants
+
+## Items
+
+<details markdown="1"><summary>Following items have this item tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_aya_virma_plush.png" alt="Aya Virma Plushie icon" loading="lazy" width="auto" height="16px"/> [Aya Virma Plushie](https://ceterai.github.io/MyEnternia/Wiki/AyaVirmaPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/starlight/ct_b803_plush.png" alt="B3 Plushie icon" loading="lazy" width="auto" height="16px"/> [B3 Plushie](https://ceterai.github.io/MyEnternia/Wiki/B3Plushie)
@@ -17,7 +21,3 @@ The tag `plushie` contains 9 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_valley_poptop_plush.png" alt="Valley Poptop Plushie ★ icon" loading="lazy" width="auto" height="16px"/> [Valley Poptop Plushie ★](https://ceterai.github.io/MyEnternia/Wiki/ValleyPoptopPlushie)
 
 </details>
-
-## Tenants
-
-## Items

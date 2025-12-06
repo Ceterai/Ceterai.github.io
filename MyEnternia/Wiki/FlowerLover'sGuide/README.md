@@ -68,5 +68,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_flowers-codex`
 - Power: `1.0`
 - Rarity: `Uncommon`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/codex/alta/ct_alta_flowers.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_alta_flowers.codex)

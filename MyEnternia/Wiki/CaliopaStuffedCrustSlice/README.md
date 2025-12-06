@@ -49,7 +49,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_caliopa-stuffed`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`carel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pizza`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pizza)
 - File: [`/items/generic/food/tier3/ct_caliopa.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_caliopa.consumable)

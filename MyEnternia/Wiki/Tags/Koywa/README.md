@@ -1,6 +1,6 @@
 # Koywa Tag
 
-The tag `koywa` contains 43 total entries.
+The tag `koywa` contains 45 total entries.
 
 ## Objects
 
@@ -47,7 +47,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"/> [Alta Charlotte](https://ceterai.github.io/MyEnternia/Wiki/AltaCharlotte)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Birthday Cake icon" loading="lazy" width="auto" height="16px"/> [Birthday Cake](https://ceterai.github.io/MyEnternia/Wiki/BirthdayCake)
@@ -57,6 +57,8 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Koywa Skirt icon" loading="lazy" width="auto" height="16px"/> [Koywa Skirt](https://ceterai.github.io/MyEnternia/Wiki/KoywaSkirt)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" width="auto" height="16px"/> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifesapling icon" loading="lazy" width="auto" height="16px"/> [Lifesapling](https://ceterai.github.io/MyEnternia/Wiki/Lifesapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"/> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Miko Fresh icon" loading="lazy" width="auto" height="16px"/> [Miko Fresh](https://ceterai.github.io/MyEnternia/Wiki/MikoFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/koywa.png" alt="River Camping Brochure icon" loading="lazy" width="auto" height="16px"/> [River Camping Brochure](https://ceterai.github.io/MyEnternia/Wiki/RiverCampingBrochure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"/> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise)

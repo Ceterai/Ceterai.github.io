@@ -19,8 +19,12 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 15 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 20 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/cannon/icon.png" alt="Alta Bubble Cannon icon" loading="lazy" width="auto" height="16px"/> [Alta Bubble Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbleCannon)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/basic/icon.png" alt="Alta Bubble Wand icon" loading="lazy" width="auto" height="16px"/> [Alta Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbleWand)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/blaster/icon.png" alt="Alta Bubbler icon" loading="lazy" width="auto" height="16px"/> [Alta Bubbler](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbler)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"/> [Alta Neon Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonBubbleWand)
 - `congealedAcid`
 - `ct_alta_crafting_station7`
 - `ct_food_mimic`
@@ -32,6 +36,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer)
 - <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"/> [Slime Blob](https://starbounder.org/Slime_Blob)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/stardust/icon.png" alt="Stardust Bubble Wand icon" loading="lazy" width="auto" height="16px"/> [Stardust Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/StardustBubbleWand)
 - <img src="https://starbounder.org/mediawiki/images/6/6a/Static_Cell.png" alt="Static Cell icon" loading="lazy" width="9px" height="14px"/> [Static Cell](https://starbounder.org/Static_Cell)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" width="auto" height="16px"/> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"/> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
@@ -41,7 +46,7 @@ Species descriptions:
 
 ### Liquid Extraction
 
-Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x000001DE510F1040>` (if you have it installed).
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x00000241890DB5C0>` (if you have it installed).
 
 ## Sources
 

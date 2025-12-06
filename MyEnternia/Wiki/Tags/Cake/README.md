@@ -1,6 +1,6 @@
 # Cake Tag
 
-The tag `cake` contains 13 total entries.
+The tag `cake` contains 15 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `cake` contains 13 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 15 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" width="auto" height="16px"/> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove)
@@ -23,5 +23,7 @@ The tag `cake` contains 13 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" width="auto" height="16px"/> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" width="auto" height="16px"/> [Orchid Cake](https://ceterai.github.io/MyEnternia/Wiki/OrchidCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" width="auto" height="16px"/> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Cake](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCake)
 
 </details>

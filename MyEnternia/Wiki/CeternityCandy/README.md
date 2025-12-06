@@ -13,6 +13,10 @@ Species descriptions:
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.05s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_ceternity_candy.png" alt="Ceternity Candy icon" loading="lazy" width="auto" height="16px"/> Ceternity Candy x*1*):
@@ -38,5 +42,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_ceternity_candy`
 - Power: `1.0`
 - Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ceternity`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`candy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Candy), [`ceternity`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/items/generic/food/events/ceternity/ct_ceternity_candy.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/events/ceternity/ct_ceternity_candy.consumable)

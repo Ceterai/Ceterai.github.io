@@ -18,9 +18,11 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 
 Can periodically provide following items as rent:
 
-- for threat level **0+** (pool rounds: x*1* (weight: 0.85), x*2* (weight: 0.15)):
-- `holidayspirit` x*1* (weight: 0.04)
-- `holidayspirit` x*2* (weight: 0.04)
+- for threat level **0+**:
+- `holidayspirit` x*3* (weight: 0.3)
+- `holidayspirit` x*4* (weight: 0.4)
+- `holidayspirit` x*5* (weight: 0.3)
+- `holidayspirit` x*6* (weight: 0.2)
 
 ## Technical Information
 

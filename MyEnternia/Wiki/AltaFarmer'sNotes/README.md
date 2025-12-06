@@ -65,5 +65,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_farming-codex`
 - Power: `1.0`
 - Rarity: `Common`
-- Tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs)
+- Tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming)
 - File: [`/codex/alta/ct_alta_farming.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_alta_farming.codex)

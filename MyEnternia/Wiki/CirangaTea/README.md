@@ -52,7 +52,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_tea-alien`
-- Power: `2.5`
+- Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`tea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tea), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/tier2/ct_gheatsyn_tea.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_gheatsyn_tea.consumable)

@@ -23,6 +23,7 @@ Unlocks blueprints for:
 
 Can be used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart_omniblue.png" alt="Omniblue Dart icon" loading="lazy" width="auto" height="16px"/> [Omniblue Dart](https://ceterai.github.io/MyEnternia/Wiki/OmniblueDart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png" alt="Plasma Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Plasma Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/PlasmaStimPack)
 
 ## Sources

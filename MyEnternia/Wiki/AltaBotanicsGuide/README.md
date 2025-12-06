@@ -24,6 +24,7 @@ This guide is meant to quickly start you on more complicated side of dealing wit
 Plant Types
 
 The lifeforms covered by alta botanics can be divided into following family groups:
+
 - Herbal Plants
 - Aquatic Herbal Plants
 - Crystal Plants
@@ -58,6 +59,7 @@ Advanced Floral Enhancement Appliances and Applications, or Advanced Alta FEA, a
 Altaponic Techniques
 
 These are approaches used by altas to grow various types of plants, as flexible solutions to the problem of finding the right conditions to grow a plant. These include:
+
 - Terraponics;
 - Hydroponics;
 - Ecoponics;
@@ -104,5 +106,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_botanics-codex`
 - Power: `1.0`
 - Rarity: `Rare`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/codex/alta/ct_alta_botanics.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_alta_botanics.codex)

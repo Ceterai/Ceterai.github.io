@@ -20,5 +20,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_altan`
 - Power: `1.0`
 - Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`altan`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Altan), [`armor`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Armor), [`cloth`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cloth), [`compound`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Compound), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`titanium`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Titanium), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`armor`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Armor), [`cloth`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cloth), [`compound`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Compound), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`titanium`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Titanium), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/crafting/alta/altan.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/alta/altan.item)

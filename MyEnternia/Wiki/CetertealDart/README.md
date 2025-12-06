@@ -1,6 +1,6 @@
 # Ceterteal Dart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/green/throwingdart.png" alt="Ceterteal Dart icon" loading="lazy" width="auto" height="16px"/> **Ceterteal Dart** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart_ceterteal.png" alt="Ceterteal Dart icon" loading="lazy" width="auto" height="16px"/> **Ceterteal Dart** is a common throwable item.
 
 A throwing dart, aim for the bullseye.
 
@@ -13,4 +13,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_dart_ceterteal`
 - Power: `1.0`
 - Rarity: `Common`
-- File: [`/items/active/alta/toys/dart/green/throwingdart.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/dart/green/throwingdart.thrownitem)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`throwing_dart`](https://ceterai.github.io/MyEnternia/Wiki/Tags/ThrowingDart), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)
+- File: [`/items/active/alta/toys/dart/ct_alta_dart_ceterteal.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/dart/ct_alta_dart_ceterteal.thrownitem)

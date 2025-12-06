@@ -25,5 +25,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_boko_plush`
 - Power: `1.5`
 - Rarity: `Common`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)
 - File: [`/objects/alta/special/plushies/ct_boko_plush.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plushies/ct_boko_plush.object)

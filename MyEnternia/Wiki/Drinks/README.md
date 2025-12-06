@@ -1,6 +1,6 @@
 # Drinks
 
-This mod adds 74 drinks.
+This mod adds 77 drinks.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="AirPlus Water icon" loading="lazy" width="auto" height="16px"/> [AirPlus Water](https://ceterai.github.io/MyEnternia/Wiki/AirPlusWater)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="Alta Mineral Water icon" loading="lazy" width="auto" height="16px"/> [Alta Mineral Water](https://ceterai.github.io/MyEnternia/Wiki/AltaMineralWater)
@@ -40,6 +40,7 @@ This mod adds 74 drinks.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Gillimon Punch icon" loading="lazy" width="auto" height="16px"/> [Gillimon Punch](https://ceterai.github.io/MyEnternia/Wiki/GillimonPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Glowarp ★ icon" loading="lazy" width="auto" height="16px"/> [Glowarp ★](https://ceterai.github.io/MyEnternia/Wiki/Glowarp)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" width="auto" height="16px"/> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Hot Sona Milk icon" loading="lazy" width="auto" height="16px"/> [Hot Sona Milk](https://ceterai.github.io/MyEnternia/Wiki/HotSonaMilk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Essence icon" loading="lazy" width="auto" height="16px"/> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"/> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="Jelloed Water icon" loading="lazy" width="auto" height="16px"/> [Jelloed Water](https://ceterai.github.io/MyEnternia/Wiki/JelloedWater)
@@ -59,8 +60,10 @@ This mod adds 74 drinks.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Perfect Tonna Shake icon" loading="lazy" width="auto" height="16px"/> [Perfect Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/PerfectTonnaShake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Prism Punch icon" loading="lazy" width="auto" height="16px"/> [Prism Punch](https://ceterai.github.io/MyEnternia/Wiki/PrismPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"/> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_sparkles.png" alt="Special Sparkles ★★★ icon" loading="lazy" width="auto" height="16px"/> [Special Sparkles ★★★](https://ceterai.github.io/MyEnternia/Wiki/SpecialSparkles)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"/> [Staris Cocktail ★](https://ceterai.github.io/MyEnternia/Wiki/StarisCocktail)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Thick Calio Tea ★ icon" loading="lazy" width="auto" height="16px"/> [Thick Calio Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ThickCalioTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"/> [Thick Sona Milk ★](https://ceterai.github.io/MyEnternia/Wiki/ThickSonaMilk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" width="auto" height="16px"/> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_tsay_cola.png" alt="Tsay-Cola icon" loading="lazy" width="auto" height="16px"/> [Tsay-Cola](https://ceterai.github.io/MyEnternia/Wiki/Tsay-Cola)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_tsay_cola.png" alt="Tsay-Pop icon" loading="lazy" width="auto" height="16px"/> [Tsay-Pop](https://ceterai.github.io/MyEnternia/Wiki/Tsay-Pop)

@@ -1,6 +1,6 @@
 # Tier5Clothing Tag
 
-The tag `tier5clothing` contains 26 total entries.
+The tag `tier5clothing` contains 27 total entries.
 
 ## Objects
 
@@ -8,12 +8,13 @@ The tag `tier5clothing` contains 26 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 26 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 27 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="A.R.C.O. Researcher Coat icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.ResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="A.R.C.O. Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.ResearcherSkirt)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Alta Lab Researcher Coat icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Alta Lab Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcherSkirt)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/alta_scarf/icon.png" alt="Alta Scarf icon" loading="lazy" width="auto" height="16px"/> [Alta Scarf](https://ceterai.github.io/MyEnternia/Wiki/AltaScarf)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="C.T. Researcher Coat icon" loading="lazy" width="auto" height="16px"/> [C.T. Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/C.T.ResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="C.T. Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> [C.T. Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/C.T.ResearcherSkirt)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png" alt="EDS Duty Beret icon" loading="lazy" width="auto" height="16px"/> [EDS Duty Beret](https://ceterai.github.io/MyEnternia/Wiki/EDSDutyBeret)

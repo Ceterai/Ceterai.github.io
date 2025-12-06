@@ -33,13 +33,17 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" width="auto" height="16px"/> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" width="auto" height="16px"/> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
-Can be used to craft:
+<details markdown="1"><summary>Can be used to craft: (Expand 7 items)</summary>
 
 - `ct_food_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gil-Tsay Stew icon" loading="lazy" width="auto" height="16px"/> [Gil-Tsay Stew](https://ceterai.github.io/MyEnternia/Wiki/Gil-TsayStew)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"/> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" width="auto" height="16px"/> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" width="auto" height="16px"/> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_milebites.png" alt="Milebites ★★ icon" loading="lazy" width="auto" height="16px"/> [Milebites ★★](https://ceterai.github.io/MyEnternia/Wiki/Milebites)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sonaveil Pie ★ icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Pie ★](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPie)
+
+</details>
 
 ## Sources
 
@@ -80,7 +84,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gillikada`
-- Power: `1.5`
+- Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`kada`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Kada), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine)
 - File: [`/items/generic/food/tier1/ct_gillikada.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_gillikada.consumable)

@@ -1,6 +1,6 @@
 # Dessert Tag
 
-The tag `dessert` contains 53 total entries.
+The tag `dessert` contains 55 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `dessert` contains 53 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 53 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 55 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" width="auto" height="16px"/> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove)
@@ -46,6 +46,8 @@ The tag `dessert` contains 53 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"/> [Orchid Candy](https://ceterai.github.io/MyEnternia/Wiki/OrchidCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_pumpkin_candy.png" alt="Orchid's Pumpkin Candy icon" loading="lazy" width="auto" height="16px"/> [Orchid's Pumpkin Candy](https://ceterai.github.io/MyEnternia/Wiki/Orchid'sPumpkinCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" width="auto" height="16px"/> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Cake](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_spider_candy.png" alt="Spidy Candy icon" loading="lazy" width="auto" height="16px"/> [Spidy Candy](https://ceterai.github.io/MyEnternia/Wiki/SpidyCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Split Surprize ★ icon" loading="lazy" width="auto" height="16px"/> [Split Surprize ★](https://ceterai.github.io/MyEnternia/Wiki/SplitSurprize)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Strish Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Strish Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/StrishIceCream)

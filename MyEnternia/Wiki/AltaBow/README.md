@@ -1,6 +1,6 @@
 # Alta Bow
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bow/icon.png" alt="Alta Bow icon" loading="lazy" width="auto" height="16px"/> **Alta Bow** is a common two-handed toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/basic/icon.png" alt="Alta Bow icon" loading="lazy" width="auto" height="16px"/> **Alta Bow** is a common two-handed toy.
 
 A simple toy used by some of the younger faradea mercs for competitive games.
 
@@ -20,4 +20,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`bow`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bow), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
-- File: [`/items/active/alta/toys/bow/ct_alta_bow.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/bow/ct_alta_bow.activeitem)
+- File: [`/items/active/alta/toys/bows/basic/ct_alta_bow.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/bows/basic/ct_alta_bow.activeitem)

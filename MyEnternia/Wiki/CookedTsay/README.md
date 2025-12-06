@@ -30,14 +30,15 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" width="auto" height="16px"/> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 6 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Altasoup icon" loading="lazy" width="auto" height="16px"/> [Altasoup](https://ceterai.github.io/MyEnternia/Wiki/Altasoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"/> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 - `ct_food_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gil-Tsay Stew icon" loading="lazy" width="auto" height="16px"/> [Gil-Tsay Stew](https://ceterai.github.io/MyEnternia/Wiki/Gil-TsayStew)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_milebites.png" alt="Milebites ★★ icon" loading="lazy" width="auto" height="16px"/> [Milebites ★★](https://ceterai.github.io/MyEnternia/Wiki/Milebites)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" width="auto" height="16px"/> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Special Mimosa ★★ icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa ★★](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
 
 </details>
 
@@ -69,7 +70,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tsay_cooked`
-- Power: `1.5`
+- Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay)
 - File: [`/items/generic/food/tier1/ct_tsay_cooked.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_tsay_cooked.consumable)

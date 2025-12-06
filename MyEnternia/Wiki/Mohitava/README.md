@@ -13,14 +13,6 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 25
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `lowgrav` (180s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"/> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (180s)
-
 Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava Deluxe ★ icon" loading="lazy" width="auto" height="16px"/> [Mohitava Deluxe ★](https://ceterai.github.io/MyEnternia/Wiki/MohitavaDeluxe)
@@ -35,7 +27,7 @@ Can be used to craft:
 
 ## Sources
 
-<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 13 items)</summary>
+<details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 15 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"/> [Ayabaycalin Punch ★](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Exotic Punch icon" loading="lazy" width="auto" height="16px"/> [Exotic Punch](https://ceterai.github.io/MyEnternia/Wiki/ExoticPunch)
@@ -47,6 +39,8 @@ Can be used to craft:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Onitti Motsu Soup icon" loading="lazy" width="auto" height="16px"/> [Onitti Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/OnittiMotsuSoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Perfect Onitti Motsu icon" loading="lazy" width="auto" height="16px"/> [Perfect Onitti Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectOnittiMotsu)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Prism Punch icon" loading="lazy" width="auto" height="16px"/> [Prism Punch](https://ceterai.github.io/MyEnternia/Wiki/PrismPunch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"/> [Round Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/RoundBanquet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Roundsalad icon" loading="lazy" width="auto" height="16px"/> [Roundsalad](https://ceterai.github.io/MyEnternia/Wiki/Roundsalad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Extra Toppings Slice icon" loading="lazy" width="auto" height="16px"/> [Yaarizza Extra Toppings Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaExtraToppingsSlice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Slice icon" loading="lazy" width="auto" height="16px"/> [Yaarizza Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaSlice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"/> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
@@ -74,7 +68,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_mohitava_cocktail`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cocktail`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cocktail), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier4/ct_mohitava_cocktail.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_mohitava_cocktail.consumable)

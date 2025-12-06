@@ -26,16 +26,16 @@ Although a lot of improvements are purely technical and don't rely on stardust d
 
 Parameters:
 
-- Damage Config:
-  - Damage Source Kind: `electric`
-  - Timeout Group: `primary`
-  - Timeout: 0.3
-- Crack Dps: 7.2
-- Fire Time: 0.625
 - Projectile Type: `whipcrackelectric`
 - Base Dps: 6
 - Chain Dps: 1.0
 - Class: `WhipCrack`
+- Fire Time: 0.625
+- Crack Dps: 7.2
+- Damage Config:
+  - Damage Source Kind: `electric`
+  - Timeout Group: `primary`
+  - Timeout: 0.3
 
 ## Sources
 

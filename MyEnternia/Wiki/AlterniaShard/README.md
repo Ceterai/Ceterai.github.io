@@ -15,16 +15,16 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 58 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 61 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Botanics Guide ★](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" width="auto" height="16px"/> [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" width="auto" height="16px"/> [Alta Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaLennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"/> [Alternia Crystal](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/alternia/icon.png" alt="Alternia Sample ★★ icon" loading="lazy" width="auto" height="16px"/> [Alternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" width="auto" height="16px"/> [Arknight's Shield](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_prime_tree.png" alt="Ayaka Prime icon" loading="lazy" width="auto" height="16px"/> [Ayaka Prime](https://ceterai.github.io/MyEnternia/Wiki/AyakaPrime)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/starlight/ct_b803_af.png" alt="B3 icon" loading="lazy" width="auto" height="16px"/> [B3](https://ceterai.github.io/MyEnternia/Wiki/B3)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/bed/icon.png" alt="Bishyn Bed icon" loading="lazy" width="auto" height="16px"/> [Bishyn Bed](https://ceterai.github.io/MyEnternia/Wiki/BishynBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chair/icon.png" alt="Bishyn Chair icon" loading="lazy" width="auto" height="16px"/> [Bishyn Chair](https://ceterai.github.io/MyEnternia/Wiki/BishynChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" width="auto" height="16px"/> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
@@ -34,6 +34,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/sample/icon.png" alt="Bishyn Sample icon" loading="lazy" width="auto" height="16px"/> [Bishyn Sample](https://ceterai.github.io/MyEnternia/Wiki/BishynSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/table/icon.png" alt="Bishyn Table icon" loading="lazy" width="auto" height="16px"/> [Bishyn Table](https://ceterai.github.io/MyEnternia/Wiki/BishynTable)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/light/icon.png" alt="Bishyn Wall Light icon" loading="lazy" width="auto" height="16px"/> [Bishyn Wall Light](https://ceterai.github.io/MyEnternia/Wiki/BishynWallLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/maximus/cagorta/icon.png" alt="Cagorta Statue icon" loading="lazy" width="auto" height="16px"/> [Cagorta Statue](https://ceterai.github.io/MyEnternia/Wiki/CagortaStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/bed/icon.png" alt="Calin Bed icon" loading="lazy" width="auto" height="16px"/> [Calin Bed](https://ceterai.github.io/MyEnternia/Wiki/CalinBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chair/icon.png" alt="Calin Chair icon" loading="lazy" width="auto" height="16px"/> [Calin Chair](https://ceterai.github.io/MyEnternia/Wiki/CalinChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/chest/icon.png" alt="Calin Chest icon" loading="lazy" width="auto" height="16px"/> [Calin Chest](https://ceterai.github.io/MyEnternia/Wiki/CalinChest)
@@ -53,6 +54,7 @@ Species descriptions:
 - `ct_cetereye`
 - `ct_starsteel`
 - `ct_tool_mimic`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/artizzi/icon.png" alt="Elu'nya & Ael'tiri Statue icon" loading="lazy" width="auto" height="16px"/> [Elu'nya & Ael'tiri Statue](https://ceterai.github.io/MyEnternia/Wiki/Elu'nya&Ael'tiriStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy1/icon.png" alt="Frozen Energy Charge icon" loading="lazy" width="auto" height="16px"/> [Frozen Energy Charge](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyCharge)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy2/icon.png" alt="Frozen Energy Impulse icon" loading="lazy" width="auto" height="16px"/> [Frozen Energy Impulse](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyImpulse)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy3/icon.png" alt="Frozen Energy Spark icon" loading="lazy" width="auto" height="16px"/> [Frozen Energy Spark](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergySpark)
@@ -71,10 +73,11 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" width="auto" height="16px"/> [Hevika Turret](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurret)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ion_collider.png" alt="Ion Collider WIP icon" loading="lazy" width="auto" height="16px"/> [Ion Collider WIP](https://ceterai.github.io/MyEnternia/Wiki/IonColliderWIP)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/lenn/statue/icon.png" alt="Lenn Statue icon" loading="lazy" width="auto" height="16px"/> [Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/LennStatue)
 - <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_plasma_nade.png" alt="Plasma Nade icon" loading="lazy" width="auto" height="16px"/> [Plasma Nade](https://ceterai.github.io/MyEnternia/Wiki/PlasmaNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Staris Soup icon" loading="lazy" width="auto" height="16px"/> [Staris Soup](https://ceterai.github.io/MyEnternia/Wiki/StarisSoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" width="auto" height="16px"/> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/lenn/af/icon.png" alt="Time Drifter Figurine icon" loading="lazy" width="auto" height="16px"/> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
 
 </details>
 

@@ -13,16 +13,6 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 25
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/happy.png:1" alt="In Love icon" loading="lazy" width="auto" height="16px"/> [In Love](https://ceterai.github.io/MyEnternia/Wiki/InLove) (270s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"/> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (270s)
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Love icon" loading="lazy" width="15px" height="15px"/> [Love](https://starbounder.org/Personality#NPC_Reactions) (270s)
-- `invulnerable` (5s)
-
 Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"/> [Yuri Deluxe ★](https://ceterai.github.io/MyEnternia/Wiki/YuriDeluxe)
@@ -57,7 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_yuri_cocktail`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cocktail`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cocktail), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`love`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Love), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier4/ct_yuri_cocktail.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_yuri_cocktail.consumable)

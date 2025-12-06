@@ -1,6 +1,6 @@
 # Wearables
 
-This mod adds 188 wearables.
+This mod adds 190 wearables.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="A.R.C.O. Researcher Coat icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.ResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="A.R.C.O. Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.ResearcherSkirt)
@@ -15,6 +15,7 @@ This mod adds 188 wearables.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Alta Lab Researcher Coat icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Alta Lab Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcherSkirt)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Pall icon" loading="lazy" width="auto" height="16px"/> [Alta Pall](https://ceterai.github.io/MyEnternia/Wiki/AltaPall)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/alta_scarf/icon.png" alt="Alta Scarf icon" loading="lazy" width="auto" height="16px"/> [Alta Scarf](https://ceterai.github.io/MyEnternia/Wiki/AltaScarf)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" width="auto" height="16px"/> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/halogen_pack/icon.png" alt="Altered Halogen Pack icon" loading="lazy" width="auto" height="16px"/> [Altered Halogen Pack](https://ceterai.github.io/MyEnternia/Wiki/AlteredHalogenPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Archiver Bottom icon" loading="lazy" width="auto" height="16px"/> [Archiver Bottom](https://ceterai.github.io/MyEnternia/Wiki/ArchiverBottom)
@@ -163,6 +164,7 @@ This mod adds 188 wearables.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Sona Jacketarmor ★ icon" loading="lazy" width="auto" height="16px"/> [Sona Jacketarmor ★](https://ceterai.github.io/MyEnternia/Wiki/SonaJacketarmor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/legwear/icon.png" alt="Sona Legarmor ★ icon" loading="lazy" width="auto" height="16px"/> [Sona Legarmor ★](https://ceterai.github.io/MyEnternia/Wiki/SonaLegarmor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/misc/sona/helmet/icon.png" alt="Sona Soldier Helmet icon" loading="lazy" width="auto" height="16px"/> [Sona Soldier Helmet](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldierHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/scarf/icon.png" alt="Sonaveil Scarf icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Scarf](https://ceterai.github.io/MyEnternia/Wiki/SonaveilScarf)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="Space Helmet icon" loading="lazy" width="auto" height="16px"/> [Space Helmet](https://ceterai.github.io/MyEnternia/Wiki/SpaceHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Stardust Cape icon" loading="lazy" width="auto" height="16px"/> [Stardust Cape](https://ceterai.github.io/MyEnternia/Wiki/StardustCape)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Stardust Hood icon" loading="lazy" width="auto" height="16px"/> [Stardust Hood](https://ceterai.github.io/MyEnternia/Wiki/StardustHood)

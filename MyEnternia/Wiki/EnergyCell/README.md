@@ -16,7 +16,7 @@ Species descriptions:
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 124 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 127 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" width="auto" height="16px"/> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
@@ -24,6 +24,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" width="auto" height="16px"/> [Alta Cooler](https://ceterai.github.io/MyEnternia/Wiki/AltaCooler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/eco/icon.png" alt="Alta Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Energy Block ★](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/flashlight/icon.png" alt="Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> [Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/AltaFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fridge/icon.png" alt="Alta Fridge icon" loading="lazy" width="auto" height="16px"/> [Alta Fridge](https://ceterai.github.io/MyEnternia/Wiki/AltaFridge)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/gateway/icon.png" alt="Alta Gateway icon" loading="lazy" width="auto" height="16px"/> [Alta Gateway](https://ceterai.github.io/MyEnternia/Wiki/AltaGateway)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/hand_dryer/icon.png" alt="Alta Hand Dryer icon" loading="lazy" width="auto" height="16px"/> [Alta Hand Dryer](https://ceterai.github.io/MyEnternia/Wiki/AltaHandDryer)
@@ -60,6 +61,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" width="auto" height="16px"/> [Alta Milker](https://ceterai.github.io/MyEnternia/Wiki/AltaMilker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/mixer/icon.png" alt="Alta Mixer icon" loading="lazy" width="auto" height="16px"/> [Alta Mixer](https://ceterai.github.io/MyEnternia/Wiki/AltaMixer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/monitor/icon.png" alt="Alta Monitor icon" loading="lazy" width="auto" height="16px"/> [Alta Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaMonitor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"/> [Alta Neon Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonBubbleWand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/bed/icon.png" alt="Alta Plant Tray icon" loading="lazy" width="auto" height="16px"/> [Alta Plant Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantTray)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/roaster/icon.png" alt="Alta Roaster icon" loading="lazy" width="auto" height="16px"/> [Alta Roaster](https://ceterai.github.io/MyEnternia/Wiki/AltaRoaster)
@@ -83,6 +85,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/slicer/icon.png" alt="Alta Slicer icon" loading="lazy" width="auto" height="16px"/> [Alta Slicer](https://ceterai.github.io/MyEnternia/Wiki/AltaSlicer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/teleporter/icon.png" alt="Alta Teleporter icon" loading="lazy" width="auto" height="16px"/> [Alta Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaTeleporter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/halogen_pack/icon.png" alt="Altered Halogen Pack icon" loading="lazy" width="auto" height="16px"/> [Altered Halogen Pack](https://ceterai.github.io/MyEnternia/Wiki/AlteredHalogenPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/starlight/ct_b803_af.png" alt="B3 icon" loading="lazy" width="auto" height="16px"/> [B3](https://ceterai.github.io/MyEnternia/Wiki/B3)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/door/icon.png" alt="Bishyn Door icon" loading="lazy" width="auto" height="16px"/> [Bishyn Door](https://ceterai.github.io/MyEnternia/Wiki/BishynDoor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/hatch/icon.png" alt="Bishyn Hatch icon" loading="lazy" width="auto" height="16px"/> [Bishyn Hatch](https://ceterai.github.io/MyEnternia/Wiki/BishynHatch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/lamp/icon.png" alt="Bishyn Lamp icon" loading="lazy" width="auto" height="16px"/> [Bishyn Lamp](https://ceterai.github.io/MyEnternia/Wiki/BishynLamp)
@@ -117,6 +120,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/industrial_collar/icon.png" alt="Industrial Collar icon" loading="lazy" width="auto" height="16px"/> [Industrial Collar](https://ceterai.github.io/MyEnternia/Wiki/IndustrialCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/misc/industrial/helmet/icon.png" alt="Industrial Dura-Helmet icon" loading="lazy" width="auto" height="16px"/> [Industrial Dura-Helmet](https://ceterai.github.io/MyEnternia/Wiki/IndustrialDura-Helmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/IonicDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/lenn/statue/icon.png" alt="Lenn Statue icon" loading="lazy" width="auto" height="16px"/> [Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/LennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"/> [Minidrone](https://ceterai.github.io/MyEnternia/Wiki/Minidrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/oxygen_mask/icon.png" alt="Oxygen Mask icon" loading="lazy" width="auto" height="16px"/> [Oxygen Mask](https://ceterai.github.io/MyEnternia/Wiki/OxygenMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/pilot_helmet/icon.png" alt="Pilot Helmet icon" loading="lazy" width="auto" height="16px"/> [Pilot Helmet](https://ceterai.github.io/MyEnternia/Wiki/PilotHelmet)
@@ -139,7 +143,6 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Security Protocol Datamass icon" loading="lazy" width="auto" height="16px"/> [Security Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/SecurityProtocolDatamass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"/> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" width="auto" height="16px"/> [Stun Stick](https://ceterai.github.io/MyEnternia/Wiki/StunStick)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" width="auto" height="16px"/> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/backdoor/icon.png" alt="Unknown Device icon" loading="lazy" width="auto" height="16px"/> [Unknown Device](https://ceterai.github.io/MyEnternia/Wiki/UnknownDevice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Watcher Drone icon" loading="lazy" width="auto" height="16px"/> [Watcher Drone](https://ceterai.github.io/MyEnternia/Wiki/WatcherDrone)
 

@@ -1,6 +1,6 @@
 # Salad Tag
 
-The tag `salad` contains 4 total entries.
+The tag `salad` contains 6 total entries.
 
 ## Objects
 
@@ -8,9 +8,13 @@ The tag `salad` contains 4 total entries.
 
 ## Items
 
-Following items have this item tag:
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" width="auto" height="16px"/> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" width="auto" height="16px"/> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Lenn's Mimosa ★ icon" loading="lazy" width="auto" height="16px"/> [Lenn's Mimosa ★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"/> [Lenn's Mimosa ★★★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"/> [Round Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/RoundBanquet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Roundsalad icon" loading="lazy" width="auto" height="16px"/> [Roundsalad](https://ceterai.github.io/MyEnternia/Wiki/Roundsalad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Special Mimosa ★★ icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa ★★](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
+
+</details>

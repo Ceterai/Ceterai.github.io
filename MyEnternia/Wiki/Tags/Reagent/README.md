@@ -1,6 +1,6 @@
 # Reagent Tag
 
-The tag `reagent` contains 31 total entries.
+The tag `reagent` contains 27 total entries.
 
 ## Objects
 
@@ -13,7 +13,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 29 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 25 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altan.png" alt="Altan Compound icon" loading="lazy" width="auto" height="16px"/> [Altan Compound](https://ceterai.github.io/MyEnternia/Wiki/AltanCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere)
@@ -25,10 +25,6 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"/> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/composite.png" alt="Composite Armor icon" loading="lazy" width="auto" height="16px"/> [Composite Armor](https://ceterai.github.io/MyEnternia/Wiki/CompositeArmor)
-- `ct_cetereye`
-- `ct_starfire`
-- `ct_starmatter`
-- `ct_starsteel`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell)

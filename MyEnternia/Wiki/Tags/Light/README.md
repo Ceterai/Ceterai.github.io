@@ -1,10 +1,10 @@
 # Light Tag
 
-The tag `light` contains 235 total entries.
+The tag `light` contains 239 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 37 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 41 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"/> [Alta Altolight](https://ceterai.github.io/MyEnternia/Wiki/AltaAltolight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier)
@@ -21,10 +21,12 @@ The tag `light` contains 235 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" width="auto" height="16px"/> [Alta Light Bar](https://ceterai.github.io/MyEnternia/Wiki/AltaLightBar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"/> [Alta Mikolight](https://ceterai.github.io/MyEnternia/Wiki/AltaMikolight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/light/icon.png" alt="Alta Ship Light icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Light](https://ceterai.github.io/MyEnternia/Wiki/AltaShipLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/national_day/lights/icon.png" alt="Alta String Lights icon" loading="lazy" width="auto" height="16px"/> [Alta String Lights](https://ceterai.github.io/MyEnternia/Wiki/AltaStringLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/lamp/icon.png" alt="Bishyn Lamp icon" loading="lazy" width="auto" height="16px"/> [Bishyn Lamp](https://ceterai.github.io/MyEnternia/Wiki/BishynLamp)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/light/icon.png" alt="Bishyn Wall Light icon" loading="lazy" width="auto" height="16px"/> [Bishyn Wall Light](https://ceterai.github.io/MyEnternia/Wiki/BishynWallLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" width="auto" height="16px"/> [Bulbonid](https://ceterai.github.io/MyEnternia/Wiki/Bulbonid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/lamp/icon.png" alt="Calin Lamp icon" loading="lazy" width="auto" height="16px"/> [Calin Lamp](https://ceterai.github.io/MyEnternia/Wiki/CalinLamp)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/lights/icon.png" alt="Ceternity Lights icon" loading="lazy" width="auto" height="16px"/> [Ceternity Lights](https://ceterai.github.io/MyEnternia/Wiki/CeternityLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/lamppost/icon.png" alt="EDS Lamppost icon" loading="lazy" width="auto" height="16px"/> [EDS Lamppost](https://ceterai.github.io/MyEnternia/Wiki/EDSLamppost)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/lifechamber/icon.png" alt="EDS Lifechamber icon" loading="lazy" width="auto" height="16px"/> [EDS Lifechamber](https://ceterai.github.io/MyEnternia/Wiki/EDSLifechamber)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/lamp/icon.png" alt="Gheatsyn Lamp icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Lamp](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLamp)
@@ -34,8 +36,10 @@ The tag `light` contains 235 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/light/icon.png" alt="Hevika Light icon" loading="lazy" width="auto" height="16px"/> [Hevika Light](https://ceterai.github.io/MyEnternia/Wiki/HevikaLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Lights](https://ceterai.github.io/MyEnternia/Wiki/SonaveilLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Spectral Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Spectral Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/SpectralPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> [Stardust Crystal](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/new_year/lights/icon.png" alt="Stardust Lights icon" loading="lazy" width="auto" height="16px"/> [Stardust Lights](https://ceterai.github.io/MyEnternia/Wiki/StardustLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_prism/icon.png" alt="Stardust Prism icon" loading="lazy" width="auto" height="16px"/> [Stardust Prism](https://ceterai.github.io/MyEnternia/Wiki/StardustPrism)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/backdoor/icon.png" alt="Unknown Device icon" loading="lazy" width="auto" height="16px"/> [Unknown Device](https://ceterai.github.io/MyEnternia/Wiki/UnknownDevice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/lamp/icon.png" alt="Warped Lamp icon" loading="lazy" width="auto" height="16px"/> [Warped Lamp](https://ceterai.github.io/MyEnternia/Wiki/WarpedLamp)

@@ -11,16 +11,6 @@ Species descriptions:
 
 - Alta: Something you would expect from a perfectly cooked dish.
 
-## Parameters
-
-- Food Value: 65
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"/> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (315s)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/determined.png:1" alt="Determined icon" loading="lazy" width="auto" height="16px"/> [Determined](https://ceterai.github.io/MyEnternia/Wiki/Determined) (270s)
-
 ## Sources
 
 Can be crafted:
@@ -45,7 +35,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_staris_soup-perfect`
-- Power: `3.85`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)
 - File: [`/items/generic/food/tier4/ct_staris_soup.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_staris_soup.consumable)

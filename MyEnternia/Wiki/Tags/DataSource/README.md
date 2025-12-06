@@ -1,6 +1,6 @@
 # Data Source Tag
 
-The tag `data_source` contains 94 total entries.
+The tag `data_source` contains 97 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `data_source` contains 94 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 94 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 97 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" width="auto" height="16px"/> [A Sentia's Crown](https://ceterai.github.io/MyEnternia/Wiki/ASentia'sCrown)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/astera.png" alt="A Spacedrifter's Adventure icon" loading="lazy" width="auto" height="16px"/> [A Spacedrifter's Adventure](https://ceterai.github.io/MyEnternia/Wiki/ASpacedrifter'sAdventure)
@@ -79,11 +79,13 @@ The tag `data_source` contains 94 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"/> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" width="auto" height="16px"/> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"/> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"/> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="Prototype: The Dreamer icon" loading="lazy" width="auto" height="16px"/> [Prototype: The Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Prototype-TheDreamer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/koywa.png" alt="River Camping Brochure icon" loading="lazy" width="auto" height="16px"/> [River Camping Brochure](https://ceterai.github.io/MyEnternia/Wiki/RiverCampingBrochure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"/> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Security Protocol Datamass icon" loading="lazy" width="auto" height="16px"/> [Security Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/SecurityProtocolDatamass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/sona.png" alt="Sona Soldier's Notes icon" loading="lazy" width="auto" height="16px"/> [Sona Soldier's Notes](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier'sNotes)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Alternia Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Alternia Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-AlterniaSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Combat Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Combat Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-CombatSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Data & Datamasses icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Data & Datamasses](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Data&Datamasses)
@@ -99,6 +101,7 @@ The tag `data_source` contains 94 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Neon Forest icon" loading="lazy" width="auto" height="16px"/> [The Neon Forest](https://ceterai.github.io/MyEnternia/Wiki/TheNeonForest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Observer icon" loading="lazy" width="auto" height="16px"/> [The Observer](https://ceterai.github.io/MyEnternia/Wiki/TheObserver)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="The Sky Above Us icon" loading="lazy" width="auto" height="16px"/> [The Sky Above Us](https://ceterai.github.io/MyEnternia/Wiki/TheSkyAboveUs)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Unika Offices Initiative icon" loading="lazy" width="auto" height="16px"/> [Unika Offices Initiative](https://ceterai.github.io/MyEnternia/Wiki/UnikaOfficesInitiative)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"/> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" width="auto" height="16px"/> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment)

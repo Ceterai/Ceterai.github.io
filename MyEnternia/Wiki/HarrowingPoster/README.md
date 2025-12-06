@@ -7,9 +7,18 @@ A poster featuring a simple grimace, the mascot of The Harrowing event. The desi
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Happy spooky season!~
+- Apex: Elithian celebration with minimalist design.
+- Avian: A simple grimacing face for elithian holiday.
+- Floran: Sssimple ssspooky face!
+- Glitch: Observant. Elithians share appreciation for mysterious celebrations.
+- Human: That grimace is pretty creepy!
+- Hylotl: Minimalist approach shows elithian aesthetic philosophy.
+- Novakid: That grimace sure looks eerie!
+
+</details>
 
 ## Sources
 
@@ -17,6 +26,7 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 
 Can be crafted:
 
@@ -37,6 +47,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_harrowing_poster`
 - Power: `1.5`
 - Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`poster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poster)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`poster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poster)
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`harrowing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Harrowing)
 - File: [`/objects/alta/special/events/ceternity/ct_harrowing_poster.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/events/ceternity/ct_harrowing_poster.object)

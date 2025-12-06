@@ -1,6 +1,6 @@
 # Monster Egg Tag
 
-The tag `monster_egg` contains 83 total entries.
+The tag `monster_egg` contains 82 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `monster_egg` contains 83 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 83 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 82 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_jelly_egg.png" alt="Alta Jelly Egg icon" loading="lazy" width="auto" height="16px"/> [Alta Jelly Egg](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_scab_egg.png" alt="Alta Scab Egg icon" loading="lazy" width="auto" height="16px"/> [Alta Scab Egg](https://ceterai.github.io/MyEnternia/Wiki/AltaScabEgg)
@@ -31,7 +31,6 @@ The tag `monster_egg` contains 83 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crippit_egg.png" alt="Crippit Egg icon" loading="lazy" width="auto" height="16px"/> [Crippit Egg](https://ceterai.github.io/MyEnternia/Wiki/CrippitEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crystal_poptop_egg.png" alt="Crystal Poptop Egg icon" loading="lazy" width="auto" height="16px"/> [Crystal Poptop Egg](https://ceterai.github.io/MyEnternia/Wiki/CrystalPoptopEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crystalline_crippit_egg.png" alt="Crystalline Crippit Egg ★ icon" loading="lazy" width="auto" height="16px"/> [Crystalline Crippit Egg ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallineCrippitEgg)
-- `ct_alto_zich_egg`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_eds_scab_egg.png" alt="EDS Scab Egg icon" loading="lazy" width="auto" height="16px"/> [EDS Scab Egg](https://ceterai.github.io/MyEnternia/Wiki/EDSScabEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_eeriss_egg.png" alt="Eeriss Egg ★ icon" loading="lazy" width="auto" height="16px"/> [Eeriss Egg ★](https://ceterai.github.io/MyEnternia/Wiki/EerissEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_elin_bug_egg.png" alt="Elin Bug Egg ★ icon" loading="lazy" width="auto" height="16px"/> [Elin Bug Egg ★](https://ceterai.github.io/MyEnternia/Wiki/ElinBugEgg)

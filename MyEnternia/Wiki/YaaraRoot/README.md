@@ -20,7 +20,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"/> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" width="auto" height="16px"/> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 59 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 61 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/spicer/icon.png" alt="Alta Spicer icon" loading="lazy" width="auto" height="16px"/> [Alta Spicer](https://ceterai.github.io/MyEnternia/Wiki/AltaSpicer)
@@ -58,7 +58,9 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.png" alt="Omni Warped Seeds ★★ icon" loading="lazy" width="auto" height="16px"/> [Omni Warped Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniWarpedSeeds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Onitti Motsu Soup icon" loading="lazy" width="auto" height="16px"/> [Onitti Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/OnittiMotsuSoup)
 - <img src="https://starbounder.org/mediawiki/images/4/4f/Plant_Fibre.png" alt="Plant Fibre icon" loading="lazy" width="14px" height="15px"/> [Plant Fibre](https://starbounder.org/Plant_Fibre)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_poi_plush.png" alt="Poi Plushie icon" loading="lazy" width="auto" height="16px"/> [Poi Plushie](https://ceterai.github.io/MyEnternia/Wiki/PoiPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" width="auto" height="16px"/> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Roundsalad icon" loading="lazy" width="auto" height="16px"/> [Roundsalad](https://ceterai.github.io/MyEnternia/Wiki/Roundsalad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" width="auto" height="16px"/> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Verriskoywa Seed icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"/> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
@@ -94,7 +96,7 @@ Can be used in transmutation studies in the <img src="https://steamuserimages-a.
 
 ### Liquid Extraction
 
-Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x000001DE510F12E0>` (if you have it installed).
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x00000241890DB860>` (if you have it installed).
 
 ## Sources
 

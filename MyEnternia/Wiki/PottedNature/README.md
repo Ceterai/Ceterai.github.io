@@ -1,6 +1,6 @@
 # Potted Nature
 
-This mod adds 39 potted nature.
+This mod adds 40 potted nature.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/crystal/icon.png" alt="Alta Crystal Bed icon" loading="lazy" width="auto" height="16px"/> [Alta Crystal Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaCrystalBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/eco/icon.png" alt="Alta Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod)
@@ -31,6 +31,7 @@ This mod adds 39 potted nature.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/pink/icon.png" alt="Potted Pink Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Pink Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedPinkFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" width="auto" height="16px"/> [Potted Poppy Prime](https://ceterai.github.io/MyEnternia/Wiki/PottedPoppyPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/red/icon.png" alt="Potted Red Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Red Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedRedFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/sona/icon.png" alt="Potted Sonava icon" loading="lazy" width="auto" height="16px"/> [Potted Sonava](https://ceterai.github.io/MyEnternia/Wiki/PottedSonava)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" width="auto" height="16px"/> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"/> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Toxic Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedToxicFlower)

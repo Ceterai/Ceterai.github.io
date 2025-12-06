@@ -1,12 +1,13 @@
 # Stardust Tag
 
-The tag `stardust` contains 41 total entries.
+The tag `stardust` contains 44 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 19 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 21 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" width="auto" height="16px"/> [Alta Stardust Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaStardustBed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/artizzi/icon.png" alt="Elu'nya & Ael'tiri Statue icon" loading="lazy" width="auto" height="16px"/> [Elu'nya & Ael'tiri Statue](https://ceterai.github.io/MyEnternia/Wiki/Elu'nya&Ael'tiriStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_omni_narfin.png" alt="Omni Narfin Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Omni Narfin Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/OmniNarfinFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_omni_narfin_plush.png" alt="Omni Narfin Plushie icon" loading="lazy" width="auto" height="16px"/> [Omni Narfin Plushie](https://ceterai.github.io/MyEnternia/Wiki/OmniNarfinPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" width="auto" height="16px"/> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
@@ -17,6 +18,7 @@ The tag `stardust` contains 41 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_stardust_crippit.png" alt="Stardust Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Stardust Crippit Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/StardustCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> [Stardust Crystal](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/new_year/lights/icon.png" alt="Stardust Lights icon" loading="lazy" width="auto" height="16px"/> [Stardust Lights](https://ceterai.github.io/MyEnternia/Wiki/StardustLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_stardust_narfin.png" alt="Stardust Narfin Figurine icon" loading="lazy" width="auto" height="16px"/> [Stardust Narfin Figurine](https://ceterai.github.io/MyEnternia/Wiki/StardustNarfinFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_prism/icon.png" alt="Stardust Prism icon" loading="lazy" width="auto" height="16px"/> [Stardust Prism](https://ceterai.github.io/MyEnternia/Wiki/StardustPrism)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/stardust/icon.png" alt="Stardust Sample ★ icon" loading="lazy" width="auto" height="16px"/> [Stardust Sample ★](https://ceterai.github.io/MyEnternia/Wiki/StardustSample)
@@ -37,7 +39,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 20 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 21 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_astralis.png" alt="Astralis ★★ icon" loading="lazy" width="auto" height="16px"/> [Astralis ★★](https://ceterai.github.io/MyEnternia/Wiki/Astralis)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_celeste.png" alt="Celeste ★★★ icon" loading="lazy" width="auto" height="16px"/> [Celeste ★★★](https://ceterai.github.io/MyEnternia/Wiki/Celeste)
@@ -54,6 +56,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Stardust Cape icon" loading="lazy" width="auto" height="16px"/> [Stardust Cape](https://ceterai.github.io/MyEnternia/Wiki/StardustCape)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Stardust Drone icon" loading="lazy" width="auto" height="16px"/> [Stardust Drone](https://ceterai.github.io/MyEnternia/Wiki/StardustDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/ct_stardust_firework.png" alt="Stardust Firework icon" loading="lazy" width="auto" height="16px"/> [Stardust Firework](https://ceterai.github.io/MyEnternia/Wiki/StardustFirework)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/stardust.png" alt="Stardust Glowstick icon" loading="lazy" width="auto" height="16px"/> [Stardust Glowstick](https://ceterai.github.io/MyEnternia/Wiki/StardustGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Stardust Hood icon" loading="lazy" width="auto" height="16px"/> [Stardust Hood](https://ceterai.github.io/MyEnternia/Wiki/StardustHood)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"/> [Staris Cocktail ★](https://ceterai.github.io/MyEnternia/Wiki/StarisCocktail)

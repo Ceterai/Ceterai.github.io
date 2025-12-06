@@ -22,7 +22,8 @@ Can be crafted:
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaavi Ice Cream icon" loading="lazy" width="auto" height="16px"/> Yaavi Ice Cream x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"/> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"/> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"/> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*1*
+  - `snowball` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"/> [Milk](https://starbounder.org/Milk) x*1*
 
 Can be bought from merchants:
 

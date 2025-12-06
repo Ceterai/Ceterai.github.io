@@ -28,21 +28,6 @@ The combo itself is very familiar to any alta soldier as it follows standard [co
 
 Parameters:
 
-- Damage Config:
-  - Base Damage: 22.5
-  - Knockback: 40
-  - Damage Source Kind: `electricbroadsword`
-  - Knockback Mode: `facing`
-  - Timeout: 0.5
-- Fire Time: 0.9
-- Hold Params:
-  - Cooldown Time: 0.5
-  - Energy Factor: 1.0
-  - Charge Border: `b0e0fc88`
-  - Charge Time: 0.7
-- Energy Usage: 36
-- Hold Time Max: 0.3
-- Base Dps: 13
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor: 0.5
@@ -72,7 +57,22 @@ Parameters:
 - Swoosh: `swoosh1`
 - Swoosh Offset:  0.75, ,  4.25,  5.0
 - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"/> [Overcharged Air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir)
+- Hold Time Max: 0.3
+- Base Dps: 13
 - Class: `BladeCharge`
+- Fire Time: 0.9
+- Hold Params:
+  - Charge Border: `b0e0fc88`
+  - Cooldown Time: 0.5
+  - Charge Time: 0.7
+  - Energy Factor: 1.0
+- Energy Usage: 36
+- Damage Config:
+  - Base Damage: 22.5
+  - Knockback: 40
+  - Damage Source Kind: `electricbroadsword`
+  - Knockback Mode: `facing`
+  - Timeout: 0.5
 
 ### Enhanced Energy Aura
 

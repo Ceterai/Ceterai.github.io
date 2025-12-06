@@ -80,5 +80,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_lenn-codex`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`lenn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Lenn), [`time_drifter`](https://ceterai.github.io/MyEnternia/Wiki/Tags/TimeDrifter)
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`time_drifter`](https://ceterai.github.io/MyEnternia/Wiki/Tags/TimeDrifter)
 - File: [`/codex/alta/ct_lenn.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_lenn.codex)

@@ -1,6 +1,6 @@
 # Ayaka Plane
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/plane/paperplane.png" alt="Ayaka Plane icon" loading="lazy" width="auto" height="16px"/> **Ayaka Plane** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_ayaka_plane.png" alt="Ayaka Plane icon" loading="lazy" width="auto" height="16px"/> **Ayaka Plane** is a common throwable item.
 
 A small plane made out of ayaka paper. Just don't be too wasteful!
 
@@ -10,7 +10,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 
 ## Technical Information
 
-- In-game ID: `ct_paper_plane`
+- In-game ID: `ct_ayaka_plane`
 - Power: `0.5`
 - Rarity: `Common`
-- File: [`/items/active/alta/toys/plane/paperplane.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/plane/paperplane.thrownitem)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`paper_plane`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PaperPlane), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)
+- File: [`/items/active/alta/toys/paper/plane/ct_ayaka_plane.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/paper/plane/ct_ayaka_plane.thrownitem)

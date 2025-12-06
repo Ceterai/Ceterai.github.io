@@ -1,6 +1,6 @@
 # Weapon Tag
 
-The tag `weapon` contains 144 total entries.
+The tag `weapon` contains 146 total entries.
 
 ## Objects
 
@@ -8,11 +8,12 @@ The tag `weapon` contains 144 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 144 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 146 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"/> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_baton.png" alt="Alta Baton icon" loading="lazy" width="auto" height="16px"/> [Alta Baton](https://ceterai.github.io/MyEnternia/Wiki/AltaBaton)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bow/icon.png" alt="Alta Bow icon" loading="lazy" width="auto" height="16px"/> [Alta Bow](https://ceterai.github.io/MyEnternia/Wiki/AltaBow)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/basic/icon.png" alt="Alta Bow icon" loading="lazy" width="auto" height="16px"/> [Alta Bow](https://ceterai.github.io/MyEnternia/Wiki/AltaBow)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_charger.png" alt="Alta Charger icon" loading="lazy" width="auto" height="16px"/> [Alta Charger](https://ceterai.github.io/MyEnternia/Wiki/AltaCharger)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"/> [Alta Flare Blaster](https://ceterai.github.io/MyEnternia/Wiki/AltaFlareBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_grass_blaster.png" alt="Alta Grass Blaster ★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Grass Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaGrassBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon.png" alt="Alta Harpooner icon" loading="lazy" width="auto" height="16px"/> [Alta Harpooner](https://ceterai.github.io/MyEnternia/Wiki/AltaHarpooner)
@@ -69,7 +70,7 @@ The tag `weapon` contains 144 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" width="auto" height="16px"/> [Estralis Vi](https://ceterai.github.io/MyEnternia/Wiki/EstralisVi)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/love/cupidsbowicon.png" alt="Estria's Bow icon" loading="lazy" width="auto" height="16px"/> [Estria's Bow](https://ceterai.github.io/MyEnternia/Wiki/Estria'sBow)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/love/icon.png" alt="Estria's Bow icon" loading="lazy" width="auto" height="16px"/> [Estria's Bow](https://ceterai.github.io/MyEnternia/Wiki/Estria'sBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk_2.png" alt="Estria's Kiss ★ icon" loading="lazy" width="auto" height="16px"/> [Estria's Kiss ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sKiss)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance_2.png" alt="Eva Linn ★ icon" loading="lazy" width="auto" height="16px"/> [Eva Linn ★](https://ceterai.github.io/MyEnternia/Wiki/EvaLinn)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" width="auto" height="16px"/> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus)
@@ -154,5 +155,6 @@ The tag `weapon` contains 144 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon.png" alt="Warped Hunter icon" loading="lazy" width="auto" height="16px"/> [Warped Hunter](https://ceterai.github.io/MyEnternia/Wiki/WarpedHunter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_winged_halberd.png" alt="Winged Halberd ★ icon" loading="lazy" width="auto" height="16px"/> [Winged Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/WingedHalberd)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"/> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/body.png:default.1" alt="Zephyr Spark Launcher icon" loading="lazy" width="auto" height="16px"/> [Zephyr Spark Launcher](https://ceterai.github.io/MyEnternia/Wiki/ZephyrSparkLauncher)
 
 </details>

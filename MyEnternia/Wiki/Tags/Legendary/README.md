@@ -1,10 +1,10 @@
 # Legendary Tag
 
-The tag `legendary` contains 593 total entries.
+The tag `legendary` contains 595 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 182 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 181 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/garden/icon.png" alt="A-Prime Gardens Microformer ★ icon" loading="lazy" width="auto" height="16px"/> [A-Prime Gardens Microformer ★](https://ceterai.github.io/MyEnternia/Wiki/A-PrimeGardensMicroformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
@@ -17,6 +17,7 @@ The tag `legendary` contains 593 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cocktail/icon.png" alt="Alta Cocktail Serving icon" loading="lazy" width="auto" height="16px"/> [Alta Cocktail Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCocktailServing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" width="auto" height="16px"/> [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/energy_station/icon.png" alt="Alta Energy Station icon" loading="lazy" width="auto" height="16px"/> [Alta Energy Station](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyStation)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/festive_station/icon.png" alt="Alta Festive Station icon" loading="lazy" width="auto" height="16px"/> [Alta Festive Station](https://ceterai.github.io/MyEnternia/Wiki/AltaFestiveStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/insectarium/icon.png" alt="Alta Insectarium icon" loading="lazy" width="auto" height="16px"/> [Alta Insectarium](https://ceterai.github.io/MyEnternia/Wiki/AltaInsectarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/ionomelter/icon.png" alt="Alta Ionomelter icon" loading="lazy" width="auto" height="16px"/> [Alta Ionomelter](https://ceterai.github.io/MyEnternia/Wiki/AltaIonomelter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/pod_alta/icon.png" alt="Alta Jelly Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Jelly Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEcoPod)
@@ -38,8 +39,6 @@ The tag `legendary` contains 593 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" width="auto" height="16px"/> [Alta Stardust Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaStardustBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/stellarium/icon.png" alt="Alta Stellarium icon" loading="lazy" width="auto" height="16px"/> [Alta Stellarium](https://ceterai.github.io/MyEnternia/Wiki/AltaStellarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/super/icon.png" alt="Alta Super Sprinkler icon" loading="lazy" width="auto" height="16px"/> [Alta Super Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaSuperSprinkler)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/tailor/icon.png" alt="Alta Tailor icon" loading="lazy" width="auto" height="16px"/> [Alta Tailor](https://ceterai.github.io/MyEnternia/Wiki/AltaTailor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/terrarium/icon.png" alt="Alta Terrarium icon" loading="lazy" width="auto" height="16px"/> [Alta Terrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaTerrarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_alta_trophy.png" alt="Alta Trophy ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Trophy ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/garden/icon.png" alt="Alterash Gardens Microformer icon" loading="lazy" width="auto" height="16px"/> [Alterash Gardens Microformer](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardensMicroformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/haven/icon.png" alt="Alterash Haven Microformer ★ icon" loading="lazy" width="auto" height="16px"/> [Alterash Haven Microformer ★](https://ceterai.github.io/MyEnternia/Wiki/AlterashHavenMicroformer)
@@ -202,7 +201,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 407 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 410 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/astera.png" alt="A Spacedrifter's Adventure icon" loading="lazy" width="auto" height="16px"/> [A Spacedrifter's Adventure](https://ceterai.github.io/MyEnternia/Wiki/ASpacedrifter'sAdventure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" width="auto" height="16px"/> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX)
@@ -317,9 +316,6 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" width="auto" height="16px"/> [Crystal Razor ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalRazor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" width="auto" height="16px"/> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" width="auto" height="16px"/> [Crystalline Sword](https://ceterai.github.io/MyEnternia/Wiki/CrystallineSword)
-- `ct_starfire`
-- `ct_starmatter`
-- `ct_starsteel`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_deprecation_device/icon.png" alt="Deprecation Device icon" loading="lazy" width="auto" height="16px"/> [Deprecation Device](https://ceterai.github.io/MyEnternia/Wiki/DeprecationDevice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_deprecation_horns/icon.png" alt="Deprecation Horns icon" loading="lazy" width="auto" height="16px"/> [Deprecation Horns](https://ceterai.github.io/MyEnternia/Wiki/DeprecationHorns)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng_2.png" alt="Double Point MNG ★ icon" loading="lazy" width="auto" height="16px"/> [Double Point MNG ★](https://ceterai.github.io/MyEnternia/Wiki/DoublePointMNG)
@@ -463,7 +459,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Larva Motsu icon" loading="lazy" width="auto" height="16px"/> [Larva Motsu](https://ceterai.github.io/MyEnternia/Wiki/LarvaMotsu)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_lava_crippit_egg.png" alt="Lava Crippit Egg icon" loading="lazy" width="auto" height="16px"/> [Lava Crippit Egg](https://ceterai.github.io/MyEnternia/Wiki/LavaCrippitEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png" alt="Lava Drone ★★ icon" loading="lazy" width="auto" height="16px"/> [Lava Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/LavaDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Lenn's Mimosa ★ icon" loading="lazy" width="auto" height="16px"/> [Lenn's Mimosa ★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"/> [Lenn's Mimosa ★★★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" width="auto" height="16px"/> [Life, Value And Meaning](https://ceterai.github.io/MyEnternia/Wiki/Life,ValueAndMeaning)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_lira.png" alt="Lira ★★ icon" loading="lazy" width="auto" height="16px"/> [Lira ★★](https://ceterai.github.io/MyEnternia/Wiki/Lira)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"/> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
@@ -493,6 +489,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk.png" alt="Niverisk icon" loading="lazy" width="auto" height="16px"/> [Niverisk](https://ceterai.github.io/MyEnternia/Wiki/Niverisk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_obsidian_crippit_egg.png" alt="Obsidian Crippit Egg icon" loading="lazy" width="auto" height="16px"/> [Obsidian Crippit Egg](https://ceterai.github.io/MyEnternia/Wiki/ObsidianCrippitEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_omni_narfin_egg.png" alt="Omni Narfin Egg ★★ icon" loading="lazy" width="auto" height="16px"/> [Omni Narfin Egg ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniNarfinEgg)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_omni_narfin_plush.png" alt="Omni Narfin Plushie icon" loading="lazy" width="auto" height="16px"/> [Omni Narfin Plushie](https://ceterai.github.io/MyEnternia/Wiki/OmniNarfinPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_oni_nerus.png" alt="Oni-Nerus ★ icon" loading="lazy" width="auto" height="16px"/> [Oni-Nerus ★](https://ceterai.github.io/MyEnternia/Wiki/Oni-Nerus)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" width="auto" height="16px"/> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Onitti Motsu Soup icon" loading="lazy" width="auto" height="16px"/> [Onitti Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/OnittiMotsuSoup)
@@ -547,11 +544,16 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance.png" alt="Sky Lance icon" loading="lazy" width="auto" height="16px"/> [Sky Lance](https://ceterai.github.io/MyEnternia/Wiki/SkyLance)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png" alt="Sona Rifle SG5 icon" loading="lazy" width="auto" height="16px"/> [Sona Rifle SG5](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle_2.png" alt="Sona Rifle SG5X ★ icon" loading="lazy" width="auto" height="16px"/> [Sona Rifle SG5X ★](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5X)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Cake](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/scarf/icon.png" alt="Sonaveil Scarf icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Scarf](https://ceterai.github.io/MyEnternia/Wiki/SonaveilScarf)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" width="auto" height="16px"/> [Sonia's Breath ★](https://ceterai.github.io/MyEnternia/Wiki/Sonia'sBreath)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" width="auto" height="16px"/> [Soniathrower](https://ceterai.github.io/MyEnternia/Wiki/Soniathrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="Space Helmet icon" loading="lazy" width="auto" height="16px"/> [Space Helmet](https://ceterai.github.io/MyEnternia/Wiki/SpaceHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_spacedrifter_shield.png" alt="Spacedrifter Shield icon" loading="lazy" width="auto" height="16px"/> [Spacedrifter Shield](https://ceterai.github.io/MyEnternia/Wiki/SpacedrifterShield)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Special Mimosa ★★ icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa ★★](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_sparkles.png" alt="Special Sparkles ★★★ icon" loading="lazy" width="auto" height="16px"/> [Special Sparkles ★★★](https://ceterai.github.io/MyEnternia/Wiki/SpecialSparkles)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_spectre.png" alt="Spectre icon" loading="lazy" width="auto" height="16px"/> [Spectre](https://ceterai.github.io/MyEnternia/Wiki/Spectre)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" width="auto" height="16px"/> [Spice-Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/Spice-HiveCurry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Split Surprize ★ icon" loading="lazy" width="auto" height="16px"/> [Split Surprize ★](https://ceterai.github.io/MyEnternia/Wiki/SplitSurprize)
@@ -603,7 +605,6 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Warped Cocktail icon" loading="lazy" width="auto" height="16px"/> [Warped Cocktail](https://ceterai.github.io/MyEnternia/Wiki/WarpedCocktail)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" width="auto" height="16px"/> [Warped Gun](https://ceterai.github.io/MyEnternia/Wiki/WarpedGun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon.png" alt="Warped Hunter icon" loading="lazy" width="auto" height="16px"/> [Warped Hunter](https://ceterai.github.io/MyEnternia/Wiki/WarpedHunter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"/> [Waterblaster](https://ceterai.github.io/MyEnternia/Wiki/Waterblaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_winged_halberd.png" alt="Winged Halberd ★ icon" loading="lazy" width="auto" height="16px"/> [Winged Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/WingedHalberd)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"/> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaarafinger's Crown ★ icon" loading="lazy" width="auto" height="16px"/> [Yaarafinger's Crown ★](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger'sCrown)
@@ -611,5 +612,6 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Slice icon" loading="lazy" width="auto" height="16px"/> [Yaarizza Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaSlice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Cocktail icon" loading="lazy" width="auto" height="16px"/> [Yuri Cocktail](https://ceterai.github.io/MyEnternia/Wiki/YuriCocktail)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"/> [Yuri Deluxe ★](https://ceterai.github.io/MyEnternia/Wiki/YuriDeluxe)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/body.png:default.1" alt="Zephyr Spark Launcher icon" loading="lazy" width="auto" height="16px"/> [Zephyr Spark Launcher](https://ceterai.github.io/MyEnternia/Wiki/ZephyrSparkLauncher)
 
 </details>

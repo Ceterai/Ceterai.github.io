@@ -18,6 +18,10 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.05s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_candy.png" alt="Warpy Candy icon" loading="lazy" width="auto" height="16px"/> Warpy Candy x*1*):
@@ -43,5 +47,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_warped_candy`
 - Power: `1.0`
 - Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ceternity`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`candy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Candy), [`ceternity`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)
 - File: [`/items/generic/food/events/ceternity/ct_warped_candy.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/events/ceternity/ct_warped_candy.consumable)

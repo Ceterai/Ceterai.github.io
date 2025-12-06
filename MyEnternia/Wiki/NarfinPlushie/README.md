@@ -33,5 +33,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_astral_narfin_plush`
 - Power: `3.0`
 - Rarity: `Rare`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/objects/alta/special/plushies/ct_astral_narfin_plush.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plushies/ct_astral_narfin_plush.object)

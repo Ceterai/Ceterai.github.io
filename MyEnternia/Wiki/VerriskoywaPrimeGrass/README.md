@@ -31,7 +31,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" width="auto" height="16px"/> [Potted Koywa](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa_tall/icon.png" alt="Potted Koywa Bush icon" loading="lazy" width="auto" height="16px"/> [Potted Koywa Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywaBush)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 11 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" width="auto" height="16px"/> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm)
@@ -40,6 +40,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa_tall/icon.png" alt="Potted Koywa Bush icon" loading="lazy" width="auto" height="16px"/> [Potted Koywa Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywaBush)
 - `reed`
 - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" width="15px" height="14px"/> [Silk Fibre](https://starbounder.org/Silk_Fibre)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Cake](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sonaveil Pie ★ icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Pie ★](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="Verriskoywa Bushy Grass icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Bushy Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaBushyGrass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/lush/icon.png" alt="Verriskoywa Lush Grass icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Lush Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaLushGrass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Verriskoywa Seed icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSeed)

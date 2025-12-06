@@ -1,6 +1,6 @@
 # Waterblaster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"/> **Waterblaster** is a legendary one-handed aquatic toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"/> **Waterblaster** is an uncommon one-handed aquatic toy.
 
 Shoots happy water sprinkles. Hold LMB to charge a water balloon!
 
@@ -42,6 +42,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 
 - In-game ID: `ct_waterblaster`
 - Power: `2.0`
-- Rarity: `Legendary`
-- Tags: [`beach`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Beach), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`water`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Water)
+- Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`beach`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Beach), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`water`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Water)
 - File: [`/items/active/alta/toys/water/blaster/ct_waterblaster.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/water/blaster/ct_waterblaster.activeitem)

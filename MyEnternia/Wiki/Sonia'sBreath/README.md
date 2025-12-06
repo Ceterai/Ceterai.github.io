@@ -20,20 +20,20 @@ An advanced cooling mechanism that's able to generate a stream of cold gas mass 
 
 Parameters:
 
-- Hold Cooldown:
-- Fire Time: 0.065
+- Hold Time Max:
+- Base Dps: 4
+- Loop: `True`
 - Hold Type: `thrower`
+- Fire Time: 0.065
 - Hold Params:
   - Interval:
   - Params:
-    - Time To Live: 0.98
     - Animation Cycle: 1
+    - Time To Live: 0.98
   - Type: `icethrower`
-- Hold Time Max:
-- Loop: `True`
-- Base Dps: 4
-- Energy Usage: 16
+- Hold Cooldown:
 - Hold Time Min:
+- Energy Usage: 16
 
 ## Sources
 
@@ -49,5 +49,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_soniathrower-upgrade`
 - Power: `3.85`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`thrower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Thrower), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)
 - File: [`/items/active/weapons/ranged/alta/wrist/ct_soniathrower.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.activeitem)

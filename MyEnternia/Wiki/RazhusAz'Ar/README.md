@@ -27,6 +27,9 @@ The crystallic mix used as rim cover is harder then a lot of crystals. The only 
 
 Parameters:
 
+- Base Dps: 12
+- Fire Time: 0.6
+- Hold Damage Multiplier: 0.1
 - Hold Damage Config:
   - Timeout Group: `hold`
   - Timeout: 0.5
@@ -35,9 +38,6 @@ Parameters:
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
-- Fire Time: 0.6
-- Hold Damage Multiplier: 0.1
-- Base Dps: 12
 
 ## Sources
 

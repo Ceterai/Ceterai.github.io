@@ -54,5 +54,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_omniponics-codex`
 - Power: `1.0`
 - Rarity: `Essential`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential)
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming)
 - File: [`/codex/alta/ct_alta_omniponics.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_alta_omniponics.codex)

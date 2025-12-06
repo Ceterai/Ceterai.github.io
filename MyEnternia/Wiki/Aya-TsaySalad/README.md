@@ -53,7 +53,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_assorti-salad`
-- Power: `2.76`
+- Power: `1.0`
 - Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`Salad`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Salad), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/tier2/ct_assorti.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_assorti.consumable)

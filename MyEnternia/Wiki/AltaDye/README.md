@@ -15,6 +15,14 @@ Radiomessages on pickup:
 
 - You discovered dye. With these you can colour your attire to your liking. You can apply one to any piece of armour or clothing with a right-click.
 
+## Usage
+
+### Crafting
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"/> [Waterblaster](https://ceterai.github.io/MyEnternia/Wiki/Waterblaster)
+
 ## Sources
 
 Can be crafted:
@@ -54,5 +62,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_dye`
 - Power: `1.5`
 - Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`altan`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Altan), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`dye`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dye)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`dye`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dye)
 - File: [`/items/generic/dyes/alta/ct_alta_dye.augment`](https://github.com/Ceterai/Enternia/blob/main/items/generic/dyes/alta/ct_alta_dye.augment)

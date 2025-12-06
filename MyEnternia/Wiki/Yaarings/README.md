@@ -79,7 +79,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_yaarings`
-- Power: `1.5`
+- Power: `1.0`
 - Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`snack`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Snack), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`snack`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Snack), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier1/ct_yaarings.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_yaarings.consumable)

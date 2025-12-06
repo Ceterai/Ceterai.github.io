@@ -69,7 +69,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tonna_meringue`
-- Power: `3.0`
+- Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`tonnova`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova)
 - File: [`/items/generic/food/tier3/ct_tonna_meringue.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_tonna_meringue.consumable)

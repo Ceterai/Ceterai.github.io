@@ -1,6 +1,6 @@
 # Estria's Bow
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/love/cupidsbowicon.png" alt="Estria's Bow icon" loading="lazy" width="auto" height="16px"/> **Estria's Bow** is a rare two-handed bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/love/icon.png" alt="Estria's Bow icon" loading="lazy" width="auto" height="16px"/> **Estria's Bow** is an uncommon two-handed bow.
 
 Arrows loosed from this bow provoke unbridled passion.
 
@@ -41,6 +41,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 
 - In-game ID: `ct_estria_bow`
 - Power: `2.5`
-- Rarity: `Rare`
-- Tags: [`bow`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bow), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
-- File: [`/items/active/alta/toys/love/cupidsbow.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/love/cupidsbow.activeitem)
+- Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ava_day`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), [`bow`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bow), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- File: [`/items/active/alta/toys/bows/love/ct_estria_bow.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/bows/love/ct_estria_bow.activeitem)

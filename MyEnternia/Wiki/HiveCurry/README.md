@@ -69,7 +69,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hive_curry`
-- Power: `3.0`
+- Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`curry`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Curry), [`hive`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hive), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier3/ct_hive_curry.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_hive_curry.consumable)

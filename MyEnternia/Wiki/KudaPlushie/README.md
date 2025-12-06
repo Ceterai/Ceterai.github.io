@@ -25,5 +25,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_kuda_plush`
 - Power: `2.0`
 - Rarity: `Uncommon`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`barracuda`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Barracuda), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/objects/alta/special/plushies/ct_kuda_plush.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plushies/ct_kuda_plush.object)

@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) [planets](https://ceterai.github.io/MyEnternia/Wiki/planets) and cosmic bodies, or [Io Structs](https://ceterai.github.io/MyEnternia/Wiki/IoStructs), thrive with a variety of crystals and semi-crystal matters. Even the integral part of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io) - stardust itself - can be found here in form of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> [stardust crystals](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) planets and cosmic bodies, or [Io Structs](https://ceterai.github.io/MyEnternia/Wiki/IoStructs), thrive with a variety of crystals and semi-crystalline matter. Even the integral part of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io) - stardust itself - can be found here in form of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> [stardust crystals](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal).
 
 This [Crystal Rapture](https://ceterai.github.io/MyEnternia/Wiki/CrystalRapture) can be explained by the [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) nature of Io Structs, since these [crystallic environments](https://ceterai.github.io/MyEnternia/Wiki/crystallicenvironments) tend to interact with electricity in different ways.
 
@@ -25,19 +25,26 @@ Currently, alta researchers have discovered a pretty long list of species and su
 
 The list below contains the main superspecies discovered so far:
 
-- [Cal](https://ceterai.github.io/MyEnternia/Wiki/Cal) (Crystals, Common)  
-- [Calin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin) (Crystal Caves or [Calocaves](https://ceterai.github.io/MyEnternia/Wiki/Calocaves))  
-- [Calline Prime](https://ceterai.github.io/MyEnternia/Wiki/CallinePrime) (Crystalline, Prime)  
-- [Gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) (Liquid Crystals)  
-- [Calotorn](https://ceterai.github.io/MyEnternia/Wiki/Calotorn) (General [Geodes](https://ceterai.github.io/MyEnternia/Wiki/Tags/Geode))  
-- [Soneva](https://ceterai.github.io/MyEnternia/Wiki/Soneva) ([Ice Crystals](https://ceterai.github.io/MyEnternia/Wiki/IceCrystals))  
-- [Statsyn](https://ceterai.github.io/MyEnternia/Wiki/Statsyn) (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> [Stardust Crystals](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal))  
-- [Bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) (Poison Crystals)  
-- [Hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) (Overcharged Crystals)  
-- [Mical](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical) (Pink Crystals)  
+- [Cal](https://ceterai.github.io/MyEnternia/Wiki/Cal) (Crystals, Common)
+- [Calin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin) (Crystal Caves or [Calocaves](https://ceterai.github.io/MyEnternia/Wiki/Calocaves))
+- [Calline Prime](https://ceterai.github.io/MyEnternia/Wiki/CallinePrime) (Crystalline, Prime)
+
+- [Gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) (Liquid Crystals)
+- [Calotorn](https://ceterai.github.io/MyEnternia/Wiki/Calotorn) (General [Geodes](https://ceterai.github.io/MyEnternia/Wiki/Tags/Geode))
+- [Soneva](https://ceterai.github.io/MyEnternia/Wiki/Soneva) ([Ice Crystals](https://ceterai.github.io/MyEnternia/Wiki/IceCrystals))
+- [Statsyn](https://ceterai.github.io/MyEnternia/Wiki/Statsyn) (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> [Stardust Crystals](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal))
+- [Bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) (Poison Crystals)
+- [Hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) (Overcharged Crystals)
+- [Mical](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical) (Pink Crystals)
 - [Carel](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel) ([Crystal Plants](https://ceterai.github.io/MyEnternia/Wiki/Tags/CrystalPlant))
 
-Altas use these in a variety of ways - from energy managing and building to decorating and even cooking.  
+There are also some rare and specialized crystal types that have been discovered:
+
+- [Juni](https://ceterai.github.io/MyEnternia/Wiki/Juni) (Rare crystal fruit)
+- [Chinid](https://ceterai.github.io/MyEnternia/Wiki/Chinid) (Crystal plant type)
+
+Altas use these in a variety of ways - from energy managing and building to decorating and even cooking.
+
 Even regular cal is used as glass, energy containers, light sources and more.
 
 Read more on individual crystal species to learn more about them and how they are used by altas.
@@ -76,5 +83,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_crystals-codex`
 - Power: `1.0`
 - Rarity: `Rare`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/codex/alta/ct_alta_crystals.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_alta_crystals.codex)

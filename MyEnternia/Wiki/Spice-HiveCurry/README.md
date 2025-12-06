@@ -52,7 +52,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_hive_curry-spice`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`curry`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Curry), [`hive`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hive), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier3/ct_hive_curry.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_hive_curry.consumable)

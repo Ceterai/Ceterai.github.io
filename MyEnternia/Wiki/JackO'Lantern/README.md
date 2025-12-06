@@ -35,6 +35,7 @@ Unlocks blueprints for:
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/cultivated/icon.png" alt="Cultivated Yaara Eye Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedYaaraEyeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 
 Can be crafted:
 
@@ -53,5 +54,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_yaajack`
 - Power: `2.0`
 - Rarity: `Uncommon`
+- Tags: [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - Colony tags: [`ceternity`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)
 - File: [`/objects/alta/special/events/ceternity/yaajack/ct_yaajack.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/events/ceternity/yaajack/ct_yaajack.object)

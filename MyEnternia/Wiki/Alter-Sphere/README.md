@@ -22,9 +22,8 @@ Use them sparingly as they're generally hard to come by.
 
 ### Crafting
 
-<details markdown="1"><summary>Can be used to craft: (Expand 42 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 44 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" width="auto" height="16px"/> [Alta Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaLennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/locker/icon.png" alt="Alta Ship Locker icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Locker](https://ceterai.github.io/MyEnternia/Wiki/AltaShipLocker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/ai/icon.png" alt="Alta Ship S.A.I.L icon" loading="lazy" width="auto" height="16px"/> [Alta Ship S.A.I.L](https://ceterai.github.io/MyEnternia/Wiki/AltaShipS.A.I.L)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/teleporter/icon.png" alt="Alta Ship Teleporter icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTeleporter)
@@ -43,6 +42,7 @@ Use them sparingly as they're generally hard to come by.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/chest/icon.png" alt="C.T. Suit icon" loading="lazy" width="auto" height="16px"/> [C.T. Suit](https://ceterai.github.io/MyEnternia/Wiki/C.T.Suit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="C.T. Visor icon" loading="lazy" width="auto" height="16px"/> [C.T. Visor](https://ceterai.github.io/MyEnternia/Wiki/C.T.Visor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="C.T. Walkers icon" loading="lazy" width="auto" height="16px"/> [C.T. Walkers](https://ceterai.github.io/MyEnternia/Wiki/C.T.Walkers)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/maximus/cagorta/icon.png" alt="Cagorta Statue icon" loading="lazy" width="auto" height="16px"/> [Cagorta Statue](https://ceterai.github.io/MyEnternia/Wiki/CagortaStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_celeste.png" alt="Celeste ★★★ icon" loading="lazy" width="auto" height="16px"/> [Celeste ★★★](https://ceterai.github.io/MyEnternia/Wiki/Celeste)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ceterai/pod/icon.png" alt="Ceterai Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ceterai Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/CeteraiPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ceterai Project Database icon" loading="lazy" width="auto" height="16px"/> [Ceterai Project Database](https://ceterai.github.io/MyEnternia/Wiki/CeteraiProjectDatabase)
@@ -50,6 +50,7 @@ Use them sparingly as they're generally hard to come by.
 - `ct_alta_crafting_station11`
 - `ct_alta_crafting_station12`
 - `ct_tool_mimic`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/artizzi/icon.png" alt="Elu'nya & Ael'tiri Statue icon" loading="lazy" width="auto" height="16px"/> [Elu'nya & Ael'tiri Statue](https://ceterai.github.io/MyEnternia/Wiki/Elu'nya&Ael'tiriStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Enal'Nia ★★ icon" loading="lazy" width="auto" height="16px"/> [Enal'Nia ★★](https://ceterai.github.io/MyEnternia/Wiki/Enal'Nia)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_faradea_scavenger.png" alt="FD Scavenger ★ icon" loading="lazy" width="auto" height="16px"/> [FD Scavenger ★](https://ceterai.github.io/MyEnternia/Wiki/FDScavenger)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
@@ -65,6 +66,7 @@ Use them sparingly as they're generally hard to come by.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_plasmorbs.png" alt="Plasmorbs icon" loading="lazy" width="auto" height="16px"/> [Plasmorbs](https://ceterai.github.io/MyEnternia/Wiki/Plasmorbs)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> [Sentry Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/SentryDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_staris_sword.png" alt="Staris Sword ★ icon" loading="lazy" width="auto" height="16px"/> [Staris Sword ★](https://ceterai.github.io/MyEnternia/Wiki/StarisSword)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/lenn/af/icon.png" alt="Time Drifter Figurine icon" loading="lazy" width="auto" height="16px"/> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_winged_halberd.png" alt="Winged Halberd ★ icon" loading="lazy" width="auto" height="16px"/> [Winged Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/WingedHalberd)
 
 </details>

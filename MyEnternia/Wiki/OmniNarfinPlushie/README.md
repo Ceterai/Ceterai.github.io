@@ -35,5 +35,6 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_omni_narfin_plush`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)
 - File: [`/objects/alta/special/plushies/ct_omni_narfin_plush.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plushies/ct_omni_narfin_plush.object)

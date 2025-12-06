@@ -72,7 +72,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_caliopa`
-- Power: `3.0`
+- Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`carel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel), [`pizza`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pizza), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/items/generic/food/tier3/ct_caliopa.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_caliopa.consumable)

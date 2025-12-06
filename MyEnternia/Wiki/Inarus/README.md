@@ -21,16 +21,16 @@ Now has more distance and spin time.
 
 Parameters:
 
-- Energy Usage: 16
 - Params:
   - Hover Max Distance: 18
-  - Damage Repeat Timeout: 0.2
   - Hover Time: 1.0
-  - Pickup Distance: 1.0
+  - Damage Repeat Timeout: 0.2
   - Return On Hit:
+  - Pickup Distance: 1.0
+- Base Dps: 4
+- Energy Usage: 16
 - Type: `ct_inarus`
 - Fire Time: 0.6
-- Base Dps: 4
 
 ## Sources
 

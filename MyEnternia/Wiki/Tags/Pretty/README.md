@@ -1,10 +1,10 @@
 # Pretty Tag
 
-The tag `pretty` contains 107 total entries.
+The tag `pretty` contains 108 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 96 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 97 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"/> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" width="auto" height="16px"/> [Alien Mounds](https://ceterai.github.io/MyEnternia/Wiki/AlienMounds)
@@ -13,7 +13,6 @@ The tag `pretty` contains 107 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" width="auto" height="16px"/> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/flower/icon.png" alt="Alta Flower Bed icon" loading="lazy" width="auto" height="16px"/> [Alta Flower Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_art.png" alt="Alta Format icon" loading="lazy" width="auto" height="16px"/> [Alta Format](https://ceterai.github.io/MyEnternia/Wiki/AltaFormat)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/statue_lenn/icon.png" alt="Alta Lenn Statue icon" loading="lazy" width="auto" height="16px"/> [Alta Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaLennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" width="auto" height="16px"/> [Alta Stardust Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaStardustBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/statues/alta/icon.png" alt="Alta Statue icon" loading="lazy" width="auto" height="16px"/> [Alta Statue](https://ceterai.github.io/MyEnternia/Wiki/AltaStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/statues/alterash/icon.png" alt="Alterash Statue ★ icon" loading="lazy" width="auto" height="16px"/> [Alterash Statue ★](https://ceterai.github.io/MyEnternia/Wiki/AlterashStatue)
@@ -44,6 +43,7 @@ The tag `pretty` contains 107 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crippit.png" alt="Crippit Figurine icon" loading="lazy" width="auto" height="16px"/> [Crippit Figurine](https://ceterai.github.io/MyEnternia/Wiki/CrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_crystal_poptop.png" alt="Crystal Poptop Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Crystal Poptop Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalPoptopFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crystalline_crippit.png" alt="Crystalline Crippit Figurine icon" loading="lazy" width="auto" height="16px"/> [Crystalline Crippit Figurine](https://ceterai.github.io/MyEnternia/Wiki/CrystallineCrippitFigurine)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/artizzi/icon.png" alt="Elu'nya & Ael'tiri Statue icon" loading="lazy" width="auto" height="16px"/> [Elu'nya & Ael'tiri Statue](https://ceterai.github.io/MyEnternia/Wiki/Elu'nya&Ael'tiriStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_abstract_art.png" alt="Enchanted Sunset icon" loading="lazy" width="auto" height="16px"/> [Enchanted Sunset](https://ceterai.github.io/MyEnternia/Wiki/EnchantedSunset)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enterite_sample/icon.png" alt="Enterite Sample icon" loading="lazy" width="auto" height="16px"/> [Enterite Sample](https://ceterai.github.io/MyEnternia/Wiki/EnteriteSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Enternia Geode Sample icon" loading="lazy" width="auto" height="16px"/> [Enternia Geode Sample](https://ceterai.github.io/MyEnternia/Wiki/EnterniaGeodeSample)
@@ -65,6 +65,7 @@ The tag `pretty` contains 107 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_kira_plush.png" alt="Kira Plushie icon" loading="lazy" width="auto" height="16px"/> [Kira Plushie](https://ceterai.github.io/MyEnternia/Wiki/KiraPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_kuda_plush.png" alt="Kuda Plushie icon" loading="lazy" width="auto" height="16px"/> [Kuda Plushie](https://ceterai.github.io/MyEnternia/Wiki/KudaPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_lava_crippit.png" alt="Lava Crippit ★★★ icon" loading="lazy" width="auto" height="16px"/> [Lava Crippit ★★★](https://ceterai.github.io/MyEnternia/Wiki/LavaCrippit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/lenn/statue/icon.png" alt="Lenn Statue icon" loading="lazy" width="auto" height="16px"/> [Lenn Statue](https://ceterai.github.io/MyEnternia/Wiki/LennStatue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Little Quackie icon" loading="lazy" width="auto" height="16px"/> [Little Quackie](https://ceterai.github.io/MyEnternia/Wiki/LittleQuackie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_mical_crippit.png" alt="Mical Crippit Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> [Mical Crippit Figurine ★★](https://ceterai.github.io/MyEnternia/Wiki/MicalCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Mical Geode Sample icon" loading="lazy" width="auto" height="16px"/> [Mical Geode Sample](https://ceterai.github.io/MyEnternia/Wiki/MicalGeodeSample)
@@ -93,7 +94,7 @@ The tag `pretty` contains 107 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/stardust/icon.png" alt="Stardust Sample ★ icon" loading="lazy" width="auto" height="16px"/> [Stardust Sample ★](https://ceterai.github.io/MyEnternia/Wiki/StardustSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_aric_art.png" alt="The Great Friendly Aric icon" loading="lazy" width="auto" height="16px"/> [The Great Friendly Aric](https://ceterai.github.io/MyEnternia/Wiki/TheGreatFriendlyAric)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_stardust_orchid_art.png" alt="The Stardust Orchid ★ icon" loading="lazy" width="auto" height="16px"/> [The Stardust Orchid ★](https://ceterai.github.io/MyEnternia/Wiki/TheStardustOrchid)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/figure_time_drifter/icon.png" alt="Time Drifter Figurine icon" loading="lazy" width="auto" height="16px"/> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/lenn/af/icon.png" alt="Time Drifter Figurine icon" loading="lazy" width="auto" height="16px"/> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_minimal_art.png" alt="Unanswered icon" loading="lazy" width="auto" height="16px"/> [Unanswered](https://ceterai.github.io/MyEnternia/Wiki/Unanswered)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_valley_poptop.png" alt="Valley Poptop Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> [Valley Poptop Figurine ★★](https://ceterai.github.io/MyEnternia/Wiki/ValleyPoptopFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_valley_poptop_plush.png" alt="Valley Poptop Plushie ★ icon" loading="lazy" width="auto" height="16px"/> [Valley Poptop Plushie ★](https://ceterai.github.io/MyEnternia/Wiki/ValleyPoptopPlushie)

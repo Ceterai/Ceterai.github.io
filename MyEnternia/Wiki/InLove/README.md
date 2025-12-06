@@ -2,12 +2,6 @@
 
 What is this tingling feeling in your heart?
 
-Applied by following items:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Kaiter Cocktail icon" loading="lazy" width="auto" height="16px"/> [Kaiter Cocktail](https://ceterai.github.io/MyEnternia/Wiki/KaiterCocktail)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Cocktail icon" loading="lazy" width="auto" height="16px"/> [Yuri Cocktail](https://ceterai.github.io/MyEnternia/Wiki/YuriCocktail)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"/> [Yuri Deluxe ★](https://ceterai.github.io/MyEnternia/Wiki/YuriDeluxe)
-
 ## Parameters
 
 Default Duration: 2s  

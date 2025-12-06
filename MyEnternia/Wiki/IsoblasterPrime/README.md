@@ -20,18 +20,18 @@ Press to burst with slime! Hold to charge up a semiauto burst of [isoslime balls
 
 Parameters:
 
-- Fire Time: 0.2
+- Hold Time Max: 0.35
+- Base Dps: 4
 - Hold Type: `semi`
+- Fire Time: 0.2
 - Hold Params:
   - Type: `ct_isoslime_charge`
   - Inaccuracy: 0.01
 - Press Params:
   - Type: `ct_isoslime_squirt`
   - Inaccuracy:
-- Hold Time Max: 0.35
-- Base Dps: 4
-- Energy Usage: 16
 - Press Type: `semi`
+- Energy Usage: 16
 
 ## Sources
 

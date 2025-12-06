@@ -139,5 +139,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_ceternia_core`
 - Power: `1.0`
 - Rarity: `Rare`
-- Tags: [`ceternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia), [`core`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Core), [`energy_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnergySource), [`essence`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essence), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent)
+- Tags: [`ceternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia), [`core`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Core), [`energy_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnergySource), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent)
 - File: [`/items/generic/crafting/ct_ceternia_core.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/crafting/ct_ceternia_core.item)

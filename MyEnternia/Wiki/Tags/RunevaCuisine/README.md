@@ -1,6 +1,6 @@
 # Runeva Cuisine Tag
 
-The tag `runeva_cuisine` contains 56 total entries.
+The tag `runeva_cuisine` contains 54 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `runeva_cuisine` contains 56 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 56 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 54 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" width="auto" height="16px"/> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove)
@@ -46,7 +46,6 @@ The tag `runeva_cuisine` contains 56 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" width="auto" height="16px"/> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Iced Aya Dessert ★ icon" loading="lazy" width="auto" height="16px"/> [Iced Aya Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedAyaDessert)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Iced Tsay Dessert ★ icon" loading="lazy" width="auto" height="16px"/> [Iced Tsay Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedTsayDessert)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Lenn's Mimosa ★ icon" loading="lazy" width="auto" height="16px"/> [Lenn's Mimosa ★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Markvin Fresh icon" loading="lazy" width="auto" height="16px"/> [Markvin Fresh](https://ceterai.github.io/MyEnternia/Wiki/MarkvinFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Miko Candy icon" loading="lazy" width="auto" height="16px"/> [Miko Candy](https://ceterai.github.io/MyEnternia/Wiki/MikoCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Mint-Tsay Tea icon" loading="lazy" width="auto" height="16px"/> [Mint-Tsay Tea](https://ceterai.github.io/MyEnternia/Wiki/Mint-TsayTea)
@@ -56,7 +55,6 @@ The tag `runeva_cuisine` contains 56 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"/> [Runeva Jam](https://ceterai.github.io/MyEnternia/Wiki/RunevaJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"/> [Runeva Pie ★★](https://ceterai.github.io/MyEnternia/Wiki/RunevaPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Ruvikva Pizza Slice ★★ icon" loading="lazy" width="auto" height="16px"/> ["Ruvikva" Pizza Slice ★★](https://ceterai.github.io/MyEnternia/Wiki/RuvikvaPizzaSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_special_mimosa.png" alt="Special Mimosa icon" loading="lazy" width="auto" height="16px"/> [Special Mimosa](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Strish Ice Cream icon" loading="lazy" width="auto" height="16px"/> [Strish Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/StrishIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Stuffed Aya icon" loading="lazy" width="auto" height="16px"/> [Stuffed Aya](https://ceterai.github.io/MyEnternia/Wiki/StuffedAya)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Summer Cold Boil icon" loading="lazy" width="auto" height="16px"/> [Summer Cold Boil](https://ceterai.github.io/MyEnternia/Wiki/SummerColdBoil)

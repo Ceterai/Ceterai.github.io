@@ -70,5 +70,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_hydroponics-codex`
 - Power: `1.0`
 - Rarity: `Rare`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/codex/alta/ct_alta_hydroponics.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_alta_hydroponics.codex)

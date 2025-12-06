@@ -1,6 +1,6 @@
 # Sanitary Tag
 
-The tag `sanitary` contains 16 total entries.
+The tag `sanitary` contains 17 total entries.
 
 ## Objects
 
@@ -16,7 +16,7 @@ Following objects have this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 11 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" width="auto" height="16px"/> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" width="auto" height="16px"/> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX)
@@ -26,6 +26,7 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon.png" alt="Alta Pollenizer ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Pollenizer ★](https://ceterai.github.io/MyEnternia/Wiki/AltaPollenizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon.png" alt="Alta Slime Cleaner icon" loading="lazy" width="auto" height="16px"/> [Alta Slime Cleaner](https://ceterai.github.io/MyEnternia/Wiki/AltaSlimeCleaner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon.png" alt="Alta Slime Sprayer icon" loading="lazy" width="auto" height="16px"/> [Alta Slime Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSlimeSprayer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/sprayer/icon.png" alt="Alta Sprayer icon" loading="lazy" width="auto" height="16px"/> [Alta Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSprayer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon_upg.png" alt="Pollenizer M7 ★★ icon" loading="lazy" width="auto" height="16px"/> [Pollenizer M7 ★★](https://ceterai.github.io/MyEnternia/Wiki/PollenizerM7)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon_upg.png" alt="Super-Foamer ★ icon" loading="lazy" width="auto" height="16px"/> [Super-Foamer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Foamer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon_upg.png" alt="Super-Slimer ★ icon" loading="lazy" width="auto" height="16px"/> [Super-Slimer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Slimer)

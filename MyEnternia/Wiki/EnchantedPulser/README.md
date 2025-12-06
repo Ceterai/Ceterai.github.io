@@ -29,26 +29,26 @@ It's important to not overhold to not create an out-of-control [miazma](https://
 
 Parameters:
 
-- Fire Time: 0.2
+- Hold Time Max: 0.55
+- Base Dps: 3
 - Hold Type: `blast`
+- Fire Time: 0.2
 - Hold Params:
-  - Inaccuracy: 0.01
   - Params:
     - Time To Live: 5.0
     - Damage Kind: `iceplasma`
   - Type: `wobbleshot`
+  - Inaccuracy: 0.01
 - Press Params:
-  - Count: 4
-  - Inaccuracy: 0.0225
   - Params:
+    - Speed: 60
     - Time To Live: 5.0
     - Damage Kind: `iceplasma`
-    - Speed: 60
   - Type: `blueplasmabullet`
-- Hold Time Max: 0.55
-- Base Dps: 3
-- Energy Usage: 14
+  - Count: 4
+  - Inaccuracy: 0.0225
 - Press Type: `semi`
+- Energy Usage: 14
 
 ## Sources
 

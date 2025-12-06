@@ -13,13 +13,6 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 60
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"/> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (450s)
-
 Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Perfect Ion Risotto ★ icon" loading="lazy" width="auto" height="16px"/> [Perfect Ion Risotto ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectIonRisotto)
@@ -57,7 +50,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ion_risotto`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`meal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Meal), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine)
 - File: [`/items/generic/food/tier4/ct_ion_risotto.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_ion_risotto.consumable)

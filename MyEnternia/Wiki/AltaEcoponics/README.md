@@ -65,5 +65,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - In-game ID: `ct_alta_ecoponics-codex`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/codex/alta/ct_alta_ecoponics.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_alta_ecoponics.codex)

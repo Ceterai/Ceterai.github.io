@@ -13,15 +13,6 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 100
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" width="auto" height="16px"/> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump) (405s)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" width="auto" height="16px"/> [Static Shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield) (120s)
-- `invulnerable` (5s)
-
 Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove)
@@ -69,7 +60,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alliana_cake`
-- Power: `3.5`
+- Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cake`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cake), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine)
 - File: [`/items/generic/food/tier4/ct_alliana_cake.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier4/ct_alliana_cake.consumable)

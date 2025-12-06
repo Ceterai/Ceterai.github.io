@@ -52,7 +52,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_koywa_tea-dreamer`
-- Power: `2.5`
+- Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`tea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tea), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier2/ct_koywa_tea.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_koywa_tea.consumable)
