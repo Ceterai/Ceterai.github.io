@@ -41,6 +41,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_tool_mimic-cryo`
+- Level: `5`
 - Power: `3.29`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

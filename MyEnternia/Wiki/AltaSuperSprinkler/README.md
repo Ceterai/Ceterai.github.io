@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_super_sprinkler`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

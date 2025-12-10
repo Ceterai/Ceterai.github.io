@@ -21,12 +21,11 @@ Radiomessages on pickup:
 
 ### Viona Resonation
 
-A sequence of 3 heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/BladeCharge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).  
+A sequence of 3 heavy strikes. Hold to perform a [blade charge](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Blade-Charge). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
 The special resonation creates slight energy vibrations between the twins, providing additional power to each hit.
 
 Parameters:
 
-- Class: `BladeCharge`
 - Base Dps: 12
 - Fire Time: 0.83
 - Energy Usage: 32
@@ -98,6 +97,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_enchanted_twins`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`enchanted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`twinblade`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Twinblade), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`viona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona), [`vionos`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Vionos), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

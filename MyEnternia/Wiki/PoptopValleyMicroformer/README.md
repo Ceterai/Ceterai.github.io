@@ -23,6 +23,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alterash_valley_tf`
+- Level: `7`
 - Power: `4.4`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

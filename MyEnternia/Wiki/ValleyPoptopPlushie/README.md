@@ -23,6 +23,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_valley_poptop_plush`
+- Level: `5`
 - Power: `3.3`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)

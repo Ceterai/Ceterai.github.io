@@ -12,8 +12,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Scripts:  `/items/active/unsorted/relocator/relocate.lua`
-- Class: `Relocate`
 - Max Storage: 4
 - Max Range: 40
 - Cooldown Time: 0.3
@@ -45,7 +43,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ceter_relocator`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`relocator`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Relocator), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
 - File: [`/items/active/alta/tools/grab/ceter_relocator/ct_ceter_relocator.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/grab/ceter_relocator/ct_ceter_relocator.activeitem)

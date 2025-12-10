@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_stardust_prism`
+- Level: `7`
 - Power: `4.0`
 - Rarity: `Legendary`
 - Colony tags: [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)

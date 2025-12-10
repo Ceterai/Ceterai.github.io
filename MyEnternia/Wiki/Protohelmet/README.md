@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png" alt="Protohelmet icon" loading="lazy" width="auto" height="16px"/> **Protohelmet** is an uncommon head armor piece.
 
-An energy-driven full electronic helmet used by some [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) protoscouts.
+An energy-driven full electronic helmet used by some [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) protoscouts.
 
 ## Parameters
 
@@ -41,6 +41,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_protohelmet`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`protogear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Protogear), [`tier4armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Armour), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

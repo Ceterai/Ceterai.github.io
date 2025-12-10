@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/metrocop.png" alt="Metrocop Set icon" loading="lazy" width="auto" height="16px"/> **Metrocop Set** is an uncommon loot item.
 
-Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) metrocop, including a lore codex of this set.
+Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) metrocop, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
 A light set of equipment that provides aerodynamic armor as well as a simple visor as eye protection and sight enhancement.
 
@@ -53,6 +53,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_metrocop_set`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`set`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Set), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

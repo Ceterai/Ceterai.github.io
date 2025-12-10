@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/hatch/icon.png" alt="Gheatsyn Hatch icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Hatch** is an uncommon door.
 
-A plain [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) horizontal doorway.
+A plain <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) horizontal doorway.
 
 ## Ingame
 
@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_hatch`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`mechanical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mechanical), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

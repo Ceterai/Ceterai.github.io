@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"/> **Frozen Energy Ball** is an uncommon breakable object.
 
-This ball of lightning got frozen. How is that even possible? ([Alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)-scan for more)
+This ball of lightning got frozen. How is that even possible? ([alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan for more)
 
 ## Ingame
 
@@ -65,6 +65,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_frozen_energy_ball`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`alternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia), [`energy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Energy), [`frozen_energy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/FrozenEnergy), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

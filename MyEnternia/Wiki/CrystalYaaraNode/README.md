@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_crystal_node.png" alt="Crystal Yaara Node icon" loading="lazy" width="auto" height="16px"/> **Crystal Yaara Node** is an uncommon tree sapling.
 
-A short, yet beautiful <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" width="auto" height="16px"/> [yaara node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode), patched with [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) growing on top of it. Wonderful!
+A short, yet beautiful <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" width="auto" height="16px"/> [yaara node](https://ceterai.github.io/MyEnternia/Wiki/YaaraNode), patched with <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystals](https://starbounder.org/Crystal) growing on top of it. Wonderful!
 
 ## Ingame
 
@@ -112,6 +112,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_yaara_crystal_node`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)

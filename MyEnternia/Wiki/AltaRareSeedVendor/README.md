@@ -43,6 +43,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_seed_vendor_rare`
+- Level: `6`
 - Power: `3.83`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`commerce`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Commerce), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`vendor`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Vendor)

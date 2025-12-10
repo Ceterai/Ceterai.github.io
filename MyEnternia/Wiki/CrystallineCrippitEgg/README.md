@@ -18,6 +18,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_crystalline_crippit_egg`
+- Level: `4`
 - Power: `2.75`
 - Rarity: `Uncommon`
 - Tags: [`monster_egg`](https://ceterai.github.io/MyEnternia/Wiki/Tags/MonsterEgg), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

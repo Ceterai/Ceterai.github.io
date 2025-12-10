@@ -22,6 +22,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_space_tiller`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - File: [`/items/active/alta/tools/till/space_tiller/ct_space_tiller.tillingtool`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/till/space_tiller/ct_space_tiller.tillingtool)

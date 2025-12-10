@@ -1,6 +1,6 @@
 # Door Tag
 
-The tag `door` contains 205 total entries.
+The tag `door` contains 204 total entries.
 
 ## Objects
 
@@ -38,7 +38,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 182 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 181 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -168,7 +168,6 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 - [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
 - [Citadel Guard](https://ceterai.github.io/MyEnternia/Wiki/CitadelGuard)
 - [Combat Android](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer)
 - [Dreamer Android](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
 - [EDS Android](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)

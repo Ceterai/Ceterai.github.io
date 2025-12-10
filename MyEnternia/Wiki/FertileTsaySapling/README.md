@@ -58,6 +58,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tsay_fertile`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

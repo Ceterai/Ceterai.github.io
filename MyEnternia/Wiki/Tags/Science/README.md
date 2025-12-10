@@ -1,6 +1,6 @@
 # Science Tag
 
-The tag `science` contains 35 total entries.
+The tag `science` contains 34 total entries.
 
 ## Objects
 
@@ -22,16 +22,13 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Science](htt
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 6 items)</summary>
+Following tenants require this colony tag:
 
 - [Alta Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaArchiver)
 - [Alta Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaFieldResearcher)
 - [Alta Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaResearcher)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [EDS Researcher](https://ceterai.github.io/MyEnternia/Wiki/EDSResearcher)
 - [Gyera Botanist](https://ceterai.github.io/MyEnternia/Wiki/GyeraBotanist)
-
-</details>
 
 ## Items
 

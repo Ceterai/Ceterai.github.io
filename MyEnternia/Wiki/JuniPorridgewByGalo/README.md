@@ -37,6 +37,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_food_mimic-juni_porridge_w_galo`
+- Level: `5`
 - Power: `3.3`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`carel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

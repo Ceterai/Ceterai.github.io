@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" width="auto" height="16px"/> **Isoblaster** is a rare one-handed pistol.
 
-A blaster meant to spread <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) everywhere. Holding LMB will charge up an [isoslime ball](https://ceterai.github.io/MyEnternia/Wiki/isoslimeball).
+A blaster meant to spread <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) everywhere. Holding LMB will charge up an [isoslime ball](https://ceterai.github.io/MyEnternia/Wiki/isoslimeball).
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" width="auto" height="16px"/> [Isoblaster Prime ★](https://ceterai.github.io/MyEnternia/Wiki/IsoblasterPrime) at the Weapon Upgrade Anvil.
 
@@ -54,6 +54,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_isoblaster`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`izopoi`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Izopoi), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`slime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Slime), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

@@ -54,6 +54,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_hive_sapling`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

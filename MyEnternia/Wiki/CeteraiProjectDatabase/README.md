@@ -25,7 +25,7 @@ In accordance to the document, all ids must be issued in CTN format (thr. CEN-20
 
  %1^ ^-----R%%5-1.1 ! %1^ ^------ ---
 
-#--R#ST-ad#------
+ #--R#ST-ad#------
 
 CT17, Static Field - ionized field able to convert energy acquired through CEN-6 or CEN-7 protocol into directional electrified pulses. Primary use estimated for CT22-45 and ET3-16 (thr. CEN-7).
 
@@ -102,6 +102,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ceterai-codex`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`ceterai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

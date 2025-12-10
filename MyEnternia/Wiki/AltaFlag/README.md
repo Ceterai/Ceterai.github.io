@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/flag/icon.png" alt="Alta Flag icon" loading="lazy" width="auto" height="16px"/> **Alta Flag** is a common teleport marker.
 
-An [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) flag. The symbol of Alliana. Use **[E]** to bookmark a teleportation location.  
+An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) flag. The symbol of Alliana. Use **[E]** to bookmark a teleportation location.  
 Most basic alta furniture is designed to be simple, lightweight, and, most importantly, easy to clean and disassemble. The goal is to be comfortable and portable at the same time, while also being easy to recycle if needed.
 
 ## Ingame
@@ -37,6 +37,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_flag`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_scout`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaScout), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`patriotic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Patriotic)

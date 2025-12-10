@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Chill
 
-Will launch a big cloud of [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) gas at targets. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+Will launch a big cloud of <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice) gas at targets. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
 Its freezing capabilities don't make it enough to act as a fridge, but definitely enough to give your targets some freezing cool.
 
 ### Shielded Drone
@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_shield_drone`
+- Level: `3`
 - Power: `2.62`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_scout`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaScout), [`capital`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Capital), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

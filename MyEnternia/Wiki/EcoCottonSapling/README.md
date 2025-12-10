@@ -27,7 +27,7 @@ Growing stages:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/icon.png" alt="Blossom Seed icon" loading="lazy" width="auto" height="16px"/> [Blossom Seed](https://ceterai.github.io/MyEnternia/Wiki/BlossomSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/boosted/icon.png" alt="Boosted Cotton Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Cotton Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCottonSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" width="auto" height="16px"/> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
 
 Can be used to craft:
@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_cotton_eco`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -61,6 +61,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_plasmora`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`machinepistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Machinepistol), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

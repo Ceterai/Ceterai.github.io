@@ -28,8 +28,7 @@ ADMU-MA224, Battle Drone - Electrified drone with an EDS armor frame, produced f
 
 ADMU-MA300R, Defensive Drone R300 - High-tech defensive EDS-armored drone, able to spread ionization through the air for stabilization purposes.
 
-ADMU-MA340, Engineer Drone - An upgrade of MD181 with full EDS armor, repurposed for construction works and as a carrier for smaller drones.  
-
+ADMU-MA340, Engineer Drone - An upgrade of MD181 with full EDS armor, repurposed for construction works and as a carrier for smaller drones.
 
 ## Usage
 
@@ -61,7 +60,7 @@ Can be bought from merchants:
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 32 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [A.R.C.O. Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.FieldResearcher)
@@ -83,7 +82,6 @@ Can be bought from merchants:
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [Ceterai Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFieldResearcher)
 - [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [EDS Researcher](https://ceterai.github.io/MyEnternia/Wiki/EDSResearcher)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
@@ -110,6 +108,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_docs_drones-codex`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs)

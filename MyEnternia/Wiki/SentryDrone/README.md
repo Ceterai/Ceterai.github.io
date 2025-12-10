@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_sentry_drone`
+- Level: `4`
 - Power: `3.25`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`capital`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Capital), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

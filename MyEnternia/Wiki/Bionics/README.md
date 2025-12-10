@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" width="auto" height="16px"/> **Bionics** is a rare codex entry.
 
-A brief description of various sturdy <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) combinations that can be used as clothing or protective materials.  
+A brief description of various sturdy <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) combinations that can be used as clothing or protective materials.  
 This ebook explains what bionics are and provides examples of popular compounds.
 
 It's worth noting, that altas themselves are classified as **bionical** creatures, or simply **bionicas**.
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-Bionics, or [bion](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion)-based materials, including <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound), are a family of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid)-related variations used mainly by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) as armor plating and protective clothing.
+Bionics, or [bion](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion)-based materials, including <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound), are a family of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid)-related variations used mainly by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) as armor plating and protective clothing.
 
 Bion is the primary material that makes up majority of any bion connections and variations, the most common of which is the naturally occurring [bionid ore](https://ceterai.github.io/MyEnternia/Wiki/bionidore). Refining it into [pure bion](https://ceterai.github.io/MyEnternia/Wiki/purebion) and further reinforcing it into a compound makes it a perfect armoring resource.
 
@@ -77,6 +77,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bionics-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`bion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

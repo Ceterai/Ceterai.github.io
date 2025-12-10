@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Ayaka Loot Crate** is a common loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) forest pods.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) forest pods.  
 It mostly includes ayaka biproducts, like aya powder and ayaka sap, but can also hold rare finds and aya-based prepared dishes.
 
 ## Ingame
@@ -43,7 +43,8 @@ When used:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" width="auto" height="16px"/> [Aya Virma](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma) x*1* (weight: 0.04)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"/> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) x*1* (weight: 0.03)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"/> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas) x*1* (weight: 0.03)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" width="auto" height="16px"/> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" width="auto" height="16px"/> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/aya/icon.png" alt="Potted Aya icon" loading="lazy" width="auto" height="16px"/> [Potted Aya](https://ceterai.github.io/MyEnternia/Wiki/PottedAya) x*1* (weight: 0.01)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" width="auto" height="16px"/> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes) x*1* (weight: 0.02)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="A Virma's Friend icon" loading="lazy" width="auto" height="16px"/> [A Virma's Friend](https://ceterai.github.io/MyEnternia/Wiki/AVirma'sFriend) x*1* (weight: 0.02)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate) x*1* (weight: 0.02)
@@ -63,6 +64,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ayaka_loot`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot)

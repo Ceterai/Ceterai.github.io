@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"/> **Tsyntex** is a rare one-handed poisonous pistol.
 
-This gheablaster was named after a scpecial reaction that [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) goes through to become a liquid.  
-It's not exactly known whether this was a [Ghearun](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun) development or a hand-made wonder of [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) mercs, or perhaps a rare find from an unknown adventurer, but there are no explicit markings on it except for the name on the bottom of the handle.
+This gheablaster was named after a scpecial reaction that <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) goes through to become a liquid.  
+It's not exactly known whether this was a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" width="16" height="16"/> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun) development or a hand-made wonder of [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) mercs, or perhaps a rare find from an unknown adventurer, but there are no explicit markings on it except for the name on the bottom of the handle.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" width="auto" height="16px"/> [Tsyntex Prime ★](https://ceterai.github.io/MyEnternia/Wiki/TsyntexPrime) at the Weapon Upgrade Anvil.
 
@@ -66,6 +66,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tsyntex`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`ghearun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" width="auto" height="16px"/> **Soniathrower** is a rare one-handed cryogenic unique weapon.
 
-This cooling tool is usually used for firefighting and supercharging specific environments. It's able to withstand all the cold due to its <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) case.
+This cooling tool is usually used for firefighting and supercharging specific environments. It's able to withstand all the cold due to its <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) case.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" width="auto" height="16px"/> [Sonia's Breath ★](https://ceterai.github.io/MyEnternia/Wiki/Sonia'sBreath) at the Weapon Upgrade Anvil.
 
@@ -58,6 +58,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_soniathrower`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`thrower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Thrower), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)

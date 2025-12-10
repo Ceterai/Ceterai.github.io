@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Perfect Rimar Motsu icon" loading="lazy" width="auto" height="16px"/> **Perfect Rimar Motsu** is a legendary dish.
 
-A perfect mix of various ingredients turned into an exquisite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) motsu!  
+A perfect mix of various ingredients turned into an exquisite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) motsu!  
 Though this motsu turned out better than usual, it's important to understand that there is no recipe for excellence.
 
 ## Ingame
@@ -55,6 +55,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_rimar_motsu-perfect`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)

@@ -1,5 +1,7 @@
 # Poison Clouds
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> **Poison Clouds** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Periodically burst with poisonous clouds.
 
 Applied by following items:

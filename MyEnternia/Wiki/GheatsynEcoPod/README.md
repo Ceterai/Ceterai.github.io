@@ -50,6 +50,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_eco_pod`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

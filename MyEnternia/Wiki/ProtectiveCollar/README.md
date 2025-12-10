@@ -55,6 +55,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_protective_collar`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`tier4clothing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Clothing), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

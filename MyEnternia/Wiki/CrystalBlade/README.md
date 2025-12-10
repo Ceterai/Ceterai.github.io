@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword_2.png" alt="Crystal Blade ★ icon" loading="lazy" width="auto" height="16px"/> **Crystal Blade ★** is a legendary one-handed shortsword.
 
-A [calin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin) sword made out of refined crystals and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Seems like it's quickly gathering the energy around it...  
+A <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" width="10" height="14"/> [calin](https://ceterai.github.io/MyEnternia/Wiki/Calin) sword made out of refined crystals and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Seems like it's quickly gathering the energy around it...  
 The now one-sided blade is structured to put all the force on the impacting side, including alternative indent patterns.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png" alt="Calin Sword icon" loading="lazy" width="auto" height="16px"/> [Calin Sword](https://ceterai.github.io/MyEnternia/Wiki/CalinSword).
@@ -21,12 +21,16 @@ Radiomessages on pickup:
 
 ### Crystal Might
 
-A sequence of 4 (+1) light strikes. Hold to perform a [Trail Dash](https://ceterai.github.io/MyEnternia/Wiki/TrailDash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).  
+A sequence of 4 (+1) light strikes. Hold to perform a [trail dash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Trail-Dash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
 The new energy flow is able to concentrate faster, building up at the impact rim.
 
 Parameters:
 
+- Fire Time: 0.625
+- Damage Config:
+  - Damage Source Kind: `shortsword`
+  - Timeout: 0.5
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -53,11 +57,6 @@ Parameters:
 - Swoosh Offset:  -0.5,  -0.75,  2.0,  1.5
 - Swoosh Sound: `primary_press`
 - Base Dps: 6
-- Class: `TrailDash`
-- Fire Time: 0.625
-- Damage Config:
-  - Damage Source Kind: `shortsword`
-  - Timeout: 0.5
 
 ## Sources
 
@@ -71,6 +70,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_calin_sword-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`shortsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shortsword), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Young Thorns icon" loading="lazy" width="auto" height="16px"/> **Nivera Young Thorns** is an uncommon poisonous trap.
 
 Small bunch of poisonous thorns.  
-These [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), thorny <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" width="auto" height="16px"/> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera) sprouts are not very picky when it comes to existence.
+These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped), thorny <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="icon" width="16" height="16"/> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera) sprouts are not very picky when it comes to existence.
 
 ## Ingame
 
@@ -47,6 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_nivera_thorns1`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`nivera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nivera), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

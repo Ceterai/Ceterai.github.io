@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png" alt="Alta Datacenter icon" loading="lazy" width="auto" height="16px"/> **Alta Datacenter** is a legendary crafting station.
 
-An ultimate [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) database. Used for storing [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) information, documents, codexes and datamasses in [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals.
+An ultimate [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) database. Used for storing [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) information, documents, codexes and datamasses in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals.
 
 ## Ingame
 
@@ -35,6 +35,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_datacenter`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`hevika`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

@@ -70,6 +70,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bipolaris`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`assaultrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Assaultrifle), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

@@ -30,11 +30,13 @@ Growing stages:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/boosted/icon.png" alt="Boosted Cocola Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Cocola Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCocolaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/cocola/icon.png" alt="Potted Cocola icon" loading="lazy" width="auto" height="16px"/> [Potted Cocola](https://ceterai.github.io/MyEnternia/Wiki/PottedCocola)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" width="auto" height="16px"/> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber)
 
 Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/pod/icon.png" alt="Cocola Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Cocola Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CocolaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/cocola/icon.png" alt="Potted Cocola icon" loading="lazy" width="auto" height="16px"/> [Potted Cocola](https://ceterai.github.io/MyEnternia/Wiki/PottedCocola)
 
 ## Sources
 
@@ -54,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_cocola_eco`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

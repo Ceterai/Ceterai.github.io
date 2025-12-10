@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security_ai_chip`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaAI), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

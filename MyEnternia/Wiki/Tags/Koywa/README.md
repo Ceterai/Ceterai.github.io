@@ -1,10 +1,10 @@
 # Koywa Tag
 
-The tag `koywa` contains 45 total entries.
+The tag `koywa` contains 46 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 28 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 29 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVerriskoywaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVodakoywaSapling)
@@ -15,6 +15,7 @@ The tag `koywa` contains 45 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" width="auto" height="16px"/> [Potted Koywa](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa_tall/icon.png" alt="Potted Koywa Bush icon" loading="lazy" width="auto" height="16px"/> [Potted Koywa Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywaBush)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/miko/icon.png" alt="Potted Miko Koywa Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Miko Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedMikoKoywaFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/voda/icon.png" alt="Potted Vodakoywa icon" loading="lazy" width="auto" height="16px"/> [Potted Vodakoywa](https://ceterai.github.io/MyEnternia/Wiki/PottedVodakoywa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/strizychar/icon.png" alt="Strizychar icon" loading="lazy" width="auto" height="16px"/> [Strizychar](https://ceterai.github.io/MyEnternia/Wiki/Strizychar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="Verriskoywa Bushy Grass icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Bushy Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaBushyGrass)

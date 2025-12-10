@@ -1,5 +1,7 @@
 # Energy Generator
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" width="auto" height="16px"/> **Energy Generator** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Constantly replenishes your energy by 2% each second.
 
 <details markdown="1"><summary>Applied by following items: (Expand 7 items)</summary>

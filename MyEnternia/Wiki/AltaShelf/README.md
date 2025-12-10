@@ -63,6 +63,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_shelf`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - File: [`/objects/alta/basic/shelf/ct_alta_shelf.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/basic/shelf/ct_alta_shelf.object)

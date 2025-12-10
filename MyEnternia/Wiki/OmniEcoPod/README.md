@@ -60,6 +60,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_omni_eco_pod`
+- Level: `8`
 - Power: `4.5`
 - Rarity: `Essential`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`omni`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Omni), [`plant_pod`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantPod)

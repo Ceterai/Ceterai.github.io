@@ -64,6 +64,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_calin_loot`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

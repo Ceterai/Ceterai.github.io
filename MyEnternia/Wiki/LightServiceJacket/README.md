@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_jacket/icon.png" alt="Light Service Jacket icon" loading="lazy" width="auto" height="16px"/> **Light Service Jacket** is a common chest cosmetic item.
 
-A typical jacket worn by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) servicers of different establishments.
+A typical jacket worn by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) servicers of different establishments.
 
 ## Usage
 
@@ -27,6 +27,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_service_jacket-light`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - File: [`/items/armors/alta/clothing/service_jacket/ct_alta_service_jacket.chest`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/service_jacket/ct_alta_service_jacket.chest)

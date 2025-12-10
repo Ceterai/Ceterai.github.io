@@ -1,5 +1,7 @@
 # Kaiter Grounds
 
+ **Kaiter Grounds** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+
 ## Technical Information
 
 - In-game ID: `ct_kaiter_grounds`

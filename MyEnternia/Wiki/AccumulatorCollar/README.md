@@ -2,13 +2,20 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" width="auto" height="16px"/> **Accumulator Collar** is a legendary collar.
 
-A collar that makes your pet immune to electric effects and repel enemies with energy waves when attacked. Made from [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn).
+A collar that makes your pet immune to electric effects and repel enemies with energy waves when attacked. Made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).
 
 ## Ingame
 
 Radiomessages on pickup:
 
 - You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
+
+## Parameters
+
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"/> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller)
+- <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
 
 ## Usage
 
@@ -43,6 +50,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_accumulator_collar`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`collar`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Collar), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

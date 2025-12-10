@@ -53,6 +53,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_arknight_pod`
+- Level: `5`
 - Power: `3.3`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arknight`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arknight), [`mechanical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mechanical), [`pod`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pod), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage)

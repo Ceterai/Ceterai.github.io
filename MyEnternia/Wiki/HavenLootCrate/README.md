@@ -40,11 +40,12 @@ When used:
 - `toxicflowerback` x*1* (weight: 0.02)
 - `pinkeyeparasitehead` x*1* (weight: 0.01)
 - `corobocklehead` x*1* (weight: 0.01)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" width="auto" height="16px"/> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm) x*1* (weight: 0.03)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword.png" alt="Flowersword icon" loading="lazy" width="auto" height="16px"/> [Flowersword](https://ceterai.github.io/MyEnternia/Wiki/Flowersword) x*1* (weight: 0.02)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" width="auto" height="16px"/> [Haven Tiller](https://ceterai.github.io/MyEnternia/Wiki/HavenTiller) x*1* (weight: 0.03)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" width="auto" height="16px"/> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm) x*1* (weight: 0.015)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword.png" alt="Flowersword icon" loading="lazy" width="auto" height="16px"/> [Flowersword](https://ceterai.github.io/MyEnternia/Wiki/Flowersword) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon.png" alt="Haven Tiller icon" loading="lazy" width="auto" height="16px"/> [Haven Tiller](https://ceterai.github.io/MyEnternia/Wiki/HavenTiller) x*1* (weight: 0.015)
 - `fireflowerpot` x*1* (weight: 0.05)
 - `flowerlamp` x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/haven/icon.png" alt="Potted Haven Bouquet icon" loading="lazy" width="auto" height="16px"/> [Potted Haven Bouquet](https://ceterai.github.io/MyEnternia/Wiki/PottedHavenBouquet) x*1* (weight: 0.04)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" width="auto" height="16px"/> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins) x*1* (weight: 0.04)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Haven Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HavenLootCrate) x*1* (weight: 0.02)
 
@@ -75,6 +76,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_haven_loot`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`haven`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

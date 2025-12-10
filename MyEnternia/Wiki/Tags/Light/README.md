@@ -1,6 +1,6 @@
 # Light Tag
 
-The tag `light` contains 239 total entries.
+The tag `light` contains 242 total entries.
 
 ## Objects
 
@@ -56,7 +56,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 182 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 181 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -186,7 +186,6 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 - [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
 - [Citadel Guard](https://ceterai.github.io/MyEnternia/Wiki/CitadelGuard)
 - [Combat Android](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroid)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer)
 - [Dreamer Android](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
 - [EDS Android](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
@@ -245,13 +244,17 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 20 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"/> [Alta Flare Blaster](https://ceterai.github.io/MyEnternia/Wiki/AltaFlareBlaster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon.png" alt="Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> [Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/AltaFlashlight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/illuminator/icon.png" alt="Alta Illuminator icon" loading="lazy" width="auto" height="16px"/> [Alta Illuminator](https://ceterai.github.io/MyEnternia/Wiki/AltaIlluminator)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/bionid.png" alt="Bionid Glowstick icon" loading="lazy" width="auto" height="16px"/> [Bionid Glowstick](https://ceterai.github.io/MyEnternia/Wiki/BionidGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/calline.png" alt="Calline Glowstick icon" loading="lazy" width="auto" height="16px"/> [Calline Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CallineGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ceterteal.png" alt="Ceterteal Glowstick icon" loading="lazy" width="auto" height="16px"/> [Ceterteal Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CetertealGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/crystal.png" alt="Crystal Glowstick icon" loading="lazy" width="auto" height="16px"/> [Crystal Glowstick](https://ceterai.github.io/MyEnternia/Wiki/CrystalGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/eds.png" alt="EDS Glowstick icon" loading="lazy" width="auto" height="16px"/> [EDS Glowstick](https://ceterai.github.io/MyEnternia/Wiki/EDSGlowstick)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon_upg.png" alt="Enhanced Flashlight ★ icon" loading="lazy" width="auto" height="16px"/> [Enhanced Flashlight ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/gheatsyn.png" alt="Gheatsyn Glowstick icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Glowstick](https://ceterai.github.io/MyEnternia/Wiki/GheatsynGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_flare.png" alt="Hevika Flare icon" loading="lazy" width="auto" height="16px"/> [Hevika Flare](https://ceterai.github.io/MyEnternia/Wiki/HevikaFlare)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" width="auto" height="16px"/> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick)

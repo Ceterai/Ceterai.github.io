@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hevika_table`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`commerce`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Commerce), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`hevika`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

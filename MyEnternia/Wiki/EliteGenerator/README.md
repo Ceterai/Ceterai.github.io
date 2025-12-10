@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"/> **Elite Generator ★** is a legendary enviro protection pack.
 
-Generates [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) Imperial Aura, providing the wearer with its benefits. Provides a life support system. Has an augment slot.  
+Generates [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) Imperial Aura, providing the wearer with its benefits. Provides a life support system. Has an augment slot.  
 To provide enough energy to power the entire range with its aura, the generator uses multiple energy cores in its blueprint.
 
 ## Ingame
@@ -51,6 +51,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elite_generator`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`elite`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elite), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`patriotic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Patriotic), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

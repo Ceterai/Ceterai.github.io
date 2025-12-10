@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hevikai_stim`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`enhancer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancer), [`hevikai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevikai), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

@@ -31,7 +31,7 @@ This is one of the reasons why most alta drilling and mining tools apply a stabl
 
 Sometimes such tools have settings that allow you to increase the current, but these should be used with extreme caution.
 
-Gheatsyn grows differently in different conditions. For example, in [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatorn), it is mixed with cave rocks, sometimes becoming noticeably more difficult to extract.
+Gheatsyn grows differently in different conditions. For example, in [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Gheatorn), it is mixed with cave rocks, sometimes becoming noticeably more difficult to extract.
 
 At the same time, gheatsyn growing in [gheaprisms](https://ceterai.github.io/MyEnternia/Wiki/gheaprisms) is quite fragile, but is very difficult to handle with electricity, since it grows in a rather specific atmosphere, which creates a fairly high resistance to any current.
 
@@ -78,6 +78,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

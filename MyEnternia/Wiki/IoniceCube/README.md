@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"/> **Ionice Cube** is a common cooking ingredient.
 
-A cube of ionized water found on [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets.  
+A cube of ionized water found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets.  
 Saturated with energy, this water feels a bit fizzy, giving it a slight, pleasantly-bitter taste.
 
 ## Ingame
@@ -56,7 +56,7 @@ Species descriptions:
 
 ### Liquid Extraction
 
-Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x00000241890DB710>` (if you have it installed).
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x000001E7C64D80B0>` (if you have it installed).
 
 ## Sources
 
@@ -91,6 +91,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ionice_cube`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`spice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spice)

@@ -30,7 +30,7 @@ Receptions and city events take place here, and organizational issues are resolv
 
 Sometimes such palaces are located at the very top of the citadel in form of penthouses overlooking the city. Citadels with palaces of this type can reach particularly big heights, and also allow for greater attention to be paid to defense on the lower floors.
 
-Such citadels are usually located in capitals on planets and continents of high danger, for example on [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets.
+Such citadels are usually located in capitals on planets and continents of high danger, for example on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
 
 ## Usage
 
@@ -85,6 +85,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_citadel-codex`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`citadel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

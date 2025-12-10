@@ -1,6 +1,8 @@
+> Main pages: [Wearables](https://ceterai.github.io/MyEnternia/Wiki/Wearables)
+
 # Armor
 
-This mod adds 80 armor.
+The mod adds a total of 80 armors:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png" alt="Albino Mask icon" loading="lazy" width="auto" height="16px"/> [Albino Mask](https://ceterai.github.io/MyEnternia/Wiki/AlbinoMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Comm Set icon" loading="lazy" width="auto" height="16px"/> [Alta Comm Set](https://ceterai.github.io/MyEnternia/Wiki/AltaCommSet)

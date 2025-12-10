@@ -15,7 +15,7 @@ Radiomessages on pickup:
 ### Icy Spikes
 
 Sona energy flows within this tool.
-Press - a semiauto burst of [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) plasma;
+Press - a semiauto burst of <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice) plasma;
 Hold - launches an Ice Burster.
 
 Parameters:
@@ -76,6 +76,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_brontor`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cannon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cannon), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`impulse`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`tavriya`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

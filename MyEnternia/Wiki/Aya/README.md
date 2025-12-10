@@ -6,7 +6,7 @@ A very juicy, sweet fruit, that can be boiled, baked, squished, powdered and eve
 Widely used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) for all sorts of recipes.  
 When turned into powder, can be used to filter energy from certain crystals.
 
-Ayas grow on trees called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka), and thus don't have seeds as a separate item.
+Ayas grow on trees called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka), and thus don't have seeds as a separate item.
 
 Known by non-alta species as an **Alta Peach** due to its taste and resemblance. Unlike [peaches](https://en.wikipedia.org/wiki/Peach), ayas have no seed, since ayakas have a different method of reproduction.
 
@@ -99,6 +99,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_aya`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common)

@@ -70,11 +70,13 @@ Contains following treasure when found naturally in biomes:
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/cabinet/icon.png" alt="Yaara Cabinet icon" loading="lazy" width="auto" height="16px"/> [Yaara Cabinet](https://ceterai.github.io/MyEnternia/Wiki/YaaraCabinet) x*1* (weight: 0.04)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/couch/icon.png" alt="Yaara Couch icon" loading="lazy" width="auto" height="16px"/> [Yaara Couch](https://ceterai.github.io/MyEnternia/Wiki/YaaraCouch) x*1* (weight: 0.04)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/door/icon.png" alt="Yaara Door icon" loading="lazy" width="auto" height="16px"/> [Yaara Door](https://ceterai.github.io/MyEnternia/Wiki/YaaraDoor) x*1* (weight: 0.04)
-    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" width="auto" height="16px"/> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb) x*1* (weight: 0.04)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" width="auto" height="16px"/> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb) x*1* (weight: 0.02)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/table/icon.png" alt="Yaara Table icon" loading="lazy" width="auto" height="16px"/> [Yaara Table](https://ceterai.github.io/MyEnternia/Wiki/YaaraTable) x*1* (weight: 0.04)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/watcher/icon.png" alt="Yaara Watcher icon" loading="lazy" width="auto" height="16px"/> [Yaara Watcher](https://ceterai.github.io/MyEnternia/Wiki/YaaraWatcher) x*1* (weight: 0.02)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_icon.png" alt="Yaara Flower icon" loading="lazy" width="auto" height="16px"/> [Yaara Flower](https://ceterai.github.io/MyEnternia/Wiki/YaaraFlower) x*1* (weight: 0.03)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_crystal_icon.png" alt="Yaara Crystal Flower icon" loading="lazy" width="auto" height="16px"/> [Yaara Crystal Flower](https://ceterai.github.io/MyEnternia/Wiki/YaaraCrystalFlower) x*1* (weight: 0.03)
+    - `ct_yaara_af` x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/yaavi/icon.png" alt="Potted Yaavi icon" loading="lazy" width="auto" height="16px"/> [Potted Yaavi](https://ceterai.github.io/MyEnternia/Wiki/PottedYaavi) x*1* (weight: 0.01)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Mask icon" loading="lazy" width="auto" height="16px"/> [Yaara Keeper's Mask](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper'sMask) x*1* (weight: 0.006)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Shaman's Mask ★ icon" loading="lazy" width="auto" height="16px"/> [Yaara Shaman's Mask ★](https://ceterai.github.io/MyEnternia/Wiki/YaaraShaman'sMask) x*1* (weight: 0.004)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaarafinger's Crown ★ icon" loading="lazy" width="auto" height="16px"/> [Yaarafinger's Crown ★](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger'sCrown) x*1* (weight: 0.002)
@@ -131,6 +133,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_yaara_orb`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`floran`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Floran), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)

@@ -24,6 +24,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_obj_mimic-spectral_pod`
+- Level: `6`
 - Power: `4.62`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`unique`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique)

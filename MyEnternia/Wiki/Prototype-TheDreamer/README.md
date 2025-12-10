@@ -76,6 +76,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_dreamer-codex`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`dreamer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dreamer), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

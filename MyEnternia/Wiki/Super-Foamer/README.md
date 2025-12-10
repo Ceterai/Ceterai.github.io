@@ -14,18 +14,16 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Projectile Type: `ct_foam_spray`
-- Base Dps: 10
-- Projectile Parameters:
-  - Knockback Range:  10,  40
-- Projectile Count: 1
-- Class: `GunFire`
-- Fire Type: `auto`
+- Energy Usage: 28
 - Fire Time: 0.12
 - Inaccuracy: 0.1
+- Projectile Type: `ct_foam_spray`
 - Muzzle Flash Variants: 1
-- Energy Usage: 28
-- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
+- Projectile Count: 1
+- Base Dps: 10
+- Fire Type: `auto`
+- Projectile Parameters:
+  - Knockback Range:  10,  40
 
 ## Sources
 
@@ -34,6 +32,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_foam_sprayer-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`sanitary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sanitary), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

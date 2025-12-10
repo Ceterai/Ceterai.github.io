@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/isoslime/icon.png" alt="Isoslime Sample ★ icon" loading="lazy" width="auto" height="16px"/> **Isoslime Sample ★** is a rare decorative object.
 
-A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime), preserved on a small titanium pedestal.
+A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime), preserved on a small titanium pedestal.
 
 ## Ingame
 
@@ -21,6 +21,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_isoslime_sample`
+- Level: `5`
 - Power: `3.3`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sample`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sample), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

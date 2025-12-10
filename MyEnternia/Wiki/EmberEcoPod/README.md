@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_coral_eco_pod`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`coral`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Coral), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea)

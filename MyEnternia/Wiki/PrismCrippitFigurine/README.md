@@ -29,6 +29,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_prism_crippit_af`
+- Level: `6`
 - Power: `4.55`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crippit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crippit), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`prism`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Prism), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

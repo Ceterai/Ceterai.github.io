@@ -27,9 +27,9 @@ This one got enhanced with extra switches and was re-weighted to make each swing
 Parameters:
 
 - Block Radius: 2
-- Base Dps: 6
 - Tool Range: 3.5
 - Fire Time: 0.625
+- Base Dps: 6
 - Tile Damage: 1.8
 
 ## Sources
@@ -39,6 +39,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_multi_tool-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`shortsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shortsword), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

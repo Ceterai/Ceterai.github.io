@@ -51,6 +51,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_carel_eco`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`carel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

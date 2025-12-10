@@ -11,6 +11,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ayaka_rod`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - File: [`/items/active/alta/tools/rods/ayaka_rod/ct_ayaka_rod.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/rods/ayaka_rod/ct_ayaka_rod.activeitem)

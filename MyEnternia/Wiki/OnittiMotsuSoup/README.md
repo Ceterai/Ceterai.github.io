@@ -22,7 +22,7 @@ Applies effects:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Perfect Onitti Motsu icon" loading="lazy" width="auto" height="16px"/> [Perfect Onitti Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectOnittiMotsu)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Perfect Onitti Motsu icon" loading="lazy" width="auto" height="16px"/> [Perfect Onitti Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectOnittiMotsu) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -65,6 +65,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_onitti_motsu`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> **Ionic Ferment** is a common cooking ingredient.
 
-This ferment acts as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood sap and is what some fruits turn into when expire. Very sticky.  
+This ferment acts as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood sap and is what some fruits turn into when expire. Very sticky.  
 [Altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) use the ferment in many different ways, from a connective component when mixing materials or for outright glue mixtures, to a cooking ingredient, in cosmetics, gardening, medicine and energy filters.  
 Read more about this: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" width="auto" height="16px"/> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
 
@@ -102,7 +102,7 @@ Can be used in transmutation studies in the <img src="https://steamuserimages-a.
 
 ### Liquid Extraction
 
-Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x00000241890DB470>` (if you have it installed).
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x000001E7C64CFDD0>` (if you have it installed).
 
 ### Refining
 
@@ -292,6 +292,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ionic_sap`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic)

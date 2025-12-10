@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> **Stardust** is a legendary crafting material.
 
 Put in a bowl and carefully mixed together.  
-This mysterious and powerful powder, also known as **Staris** by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), is the energy matter of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io). When a star explodes, the energy from it bursts in every direction, eventually crystallizing and forming tiny specks, filled with different types of [energy](https://ceterai.github.io/MyEnternia/Wiki/Tags/Energy).  
+This mysterious and powerful powder, also known as **Staris** by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), is the energy matter of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io). When a star explodes, the energy from it bursts in every direction, eventually crystallizing and forming tiny specks, filled with different types of [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy).  
 Read a related codex for more: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta History - From A Speck icon" loading="lazy" width="auto" height="16px"/> [Alta History - From A Speck](https://ceterai.github.io/MyEnternia/Wiki/AltaHistory-FromASpeck)
 
 ## Ingame
@@ -234,6 +234,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_stardust`
+- Level: `7`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`ceterai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai), [`energy_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnergySource), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)

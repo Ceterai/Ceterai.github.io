@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal4/icon.png" alt="Shady Bishyn Crystal icon" loading="lazy" width="auto" height="16px"/> **Shady Bishyn Crystal** is an uncommon poisonous breakable object.
 
-A crystal deposit. Seems a bit shady. Looks much bigger compared to other [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) deposits.  
+A crystal deposit. Seems a bit shady. Looks much bigger compared to other <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) deposits.  
 It takes quite some time for a bishyn crystal to grow to its regular size margins, so deposits like these can somewhat be considered ancient, or at least very-very old.
 
 ## Ingame
@@ -50,6 +50,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_poison_crystal4`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

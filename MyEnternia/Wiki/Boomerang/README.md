@@ -26,6 +26,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_tool_mimic-boomerang`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`boomerang`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Boomerang), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

@@ -45,6 +45,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security_stand`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`hazard`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hazard), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner)

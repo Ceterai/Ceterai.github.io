@@ -1,6 +1,6 @@
 # Calin Fertilizer ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> **Calin Fertilizer ★** is an uncommon food item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> **Calin Fertilizer ★** is an uncommon tool.
 
 Acidic fertilizer for crystalline plants. Will likely poison you if consumed directly.
 
@@ -74,6 +74,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_calin_fertilizer`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`fertilizer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fertilizer), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -30,12 +30,14 @@ Growing stages:
 
 Unlocks blueprints for:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ruka/icon.png" alt="Potted Ruka icon" loading="lazy" width="auto" height="16px"/> [Potted Ruka](https://ceterai.github.io/MyEnternia/Wiki/PottedRuka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/boosted/icon.png" alt="Ruka 16 Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Ruka 16 Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/Ruka16Sapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Verriskoywa Seed icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Yaara Seed icon" loading="lazy" width="auto" height="16px"/> [Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/YaaraSeed)
 
 Can be used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ruka/icon.png" alt="Potted Ruka icon" loading="lazy" width="auto" height="16px"/> [Potted Ruka](https://ceterai.github.io/MyEnternia/Wiki/PottedRuka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/pod/icon.png" alt="Ruka Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Ruka Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/RukaEcoPod)
 
 ## Sources
@@ -56,6 +58,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ruka_eco`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

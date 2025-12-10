@@ -1,6 +1,8 @@
 # Ionic Shock
 
-Repeatedly damages you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) electricity. Having [Ionic Immunity](https://ceterai.github.io/MyEnternia/Wiki/IonicImmunity) blocks the effect, [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) minimizes the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> **Ionic Shock** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
+Repeatedly damages you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) electricity. Having <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="icon" width="16" height="16"/> [ionic immunity](https://ceterai.github.io/MyEnternia/Wiki/Enternia#immunity) blocks the effect, <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Immunity](https://starbounder.org/Electric_Resistance) minimizes the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.
 
 Applied by following items:
 

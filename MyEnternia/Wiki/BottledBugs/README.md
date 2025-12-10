@@ -1,6 +1,8 @@
+> Main pages: [Collectibles](https://ceterai.github.io/MyEnternia/Wiki/Collectibles)
+
 # Bottled Bugs
 
-This mod adds 17 bottled bugs.
+The mod adds a total of 17 bottled bugs:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/alto_zych/icon.png" alt="Alto Zych icon" loading="lazy" width="auto" height="16px"/> [Alto Zych](https://ceterai.github.io/MyEnternia/Wiki/AltoZych)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" width="auto" height="16px"/> [Aya Bee](https://ceterai.github.io/MyEnternia/Wiki/AyaBee)

@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Isoslime Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) biome chests.  
-It's mostly slime. Slime furniture, slime condiments, slime blasters... Maybe some [izon](https://ceterai.github.io/MyEnternia/Wiki/izon), or other cryogens, like a [cryonic extract](https://ceterai.github.io/MyEnternia/Wiki/cryonicextract).
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) biome chests.  
+It's mostly slime. Slime furniture, slime condiments, slime blasters... Maybe some [izon](https://ceterai.github.io/MyEnternia/Wiki/izon), or other cryogens, like a <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" width="8px" height="16px"/> [cryonic extract](https://starbounder.org/Cryonic_Extract).
 
 ## Ingame
 
@@ -53,6 +53,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_isoslime_loot`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`izopoi`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Izopoi), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -1,6 +1,8 @@
+> Main pages: [Teleportation Devices](https://ceterai.github.io/MyEnternia/Wiki/TeleportationDevices)
+
 # Teleporters
 
-This mod adds 4 teleporters.
+The mod adds a total of 4 teleporters:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/teleporter/icon.png" alt="Alta Lab Teleporter icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTeleporter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/teleporter/icon.png" alt="Alta Ship Teleporter icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTeleporter)

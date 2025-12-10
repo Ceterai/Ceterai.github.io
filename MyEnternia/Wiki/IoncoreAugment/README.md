@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ion_core_augment.png" alt="Ioncore Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Ioncore Augment ★★** is a rare EPP augment.
 
-This [obsidian](https://ceterai.github.io/MyEnternia/Wiki/Tags/Obsidian) EPP module fills you with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"/> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals) and makes you burst with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"/> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds).
+This <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" width="10px" height="10px"/> [obsidian](https://starbounder.org/Obsidian) EPP module fills you with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"/> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals) and makes you burst with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"/> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds).
 
 ## Ingame
 
@@ -42,6 +42,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_ion_core_augment`
+- Level: `5`
 - Power: `3.6`
 - Rarity: `Rare`
 - Tags: [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`ion_core`](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

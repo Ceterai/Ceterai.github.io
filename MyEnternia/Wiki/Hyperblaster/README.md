@@ -21,18 +21,18 @@ Enhanced pulses with higher damage output.
 
 Parameters:
 
-- Hold Time Max: 0.75
-- Base Dps: 4
-- Hold Type: `blast`
-- Fire Time: 0.2
-- Hold Params:
-  - Type: `ct_impulse_medium`
-  - Inaccuracy: 0.01
 - Press Params:
   - Type: `ct_impulse_small`
   - Inaccuracy: 0.01
 - Press Type: `semi`
 - Energy Usage: 16
+- Hold Time Max: 0.75
+- Fire Time: 0.2
+- Hold Params:
+  - Type: `ct_impulse_medium`
+  - Inaccuracy: 0.01
+- Hold Type: `blast`
+- Base Dps: 4
 
 ## Sources
 
@@ -46,6 +46,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_pulsecutter-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`impulse`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)

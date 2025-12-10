@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/ammerax.png" alt="Ammerax ★★★ icon" loading="lazy" width="auto" height="16px"/> **Ammerax ★★★** is a legendary two-handed electric axe.
 
-A heavy, huge instrument, filled with [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) energy.  
+A heavy, huge instrument, filled with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) energy.  
 One side is blunt, one is sharp. All sides are charged with dangerous amounts of electricity.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/asirai.png" alt="Asirai ★★ icon" loading="lazy" width="auto" height="16px"/> [Asirai ★★](https://ceterai.github.io/MyEnternia/Wiki/Asirai).
@@ -26,7 +26,20 @@ Each combo hit of this tool collect energy and releases it in form of electric b
 
 Parameters:
 
+- Dash Max Speed: 120
+- Energy Usage: 50
+- Fire Time: 2.5
+- Combo Cooldown: 1.0
+- Damage Config:
+  - Damage Source Kind: `axe`
+- Hold Energy Usage: 30
+- Projectile Parameters:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"/> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"/> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
+- Hold Cooldown: 1.6
 - Max Dash Time: 0.25
+- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
+- Base Dps: 6
+- Power: 16
 - Step Damage Config: 
 - Base Damage Factor: 1.35
 - Knockback: 5, 
@@ -37,19 +50,6 @@ Parameters:
 - Base Damage Factor: 2.2
 - Knockback: 15
 - Status Effects:  `paralysis`
-- Base Dps: 6
-- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
-- Projectile Parameters:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"/> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"/> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
-- Hold Energy Usage: 30
-- Dash Max Speed: 120
-- Fire Time: 2.5
-- Power: 16
-- Hold Cooldown: 1.6
-- Combo Cooldown: 1.0
-- Energy Usage: 50
-- Damage Config:
-  - Damage Source Kind: `axe`
 
 ### Enternia Discharge
 
@@ -59,13 +59,13 @@ This process creates special energy circulation dynamic that fills the air aroun
 Parameters:
 
 - Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
-- Projectile Parameters:
-  - Time To Live: 2.5
-  - Knockback: 25
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"/> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
-- Power: 4
 - Damage Config:
   - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"/> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension)
+- Projectile Parameters:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"/> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
+  - Knockback: 25
+  - Time To Live: 2.5
+- Power: 4
 
 ## Sources
 
@@ -74,6 +74,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_asirai-upgrade`
+- Level: `6`
 - Power: `4.54`
 - Rarity: `Legendary`
 - Tags: [`axe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Axe), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

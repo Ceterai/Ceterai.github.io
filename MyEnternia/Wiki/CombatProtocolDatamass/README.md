@@ -77,6 +77,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_combat-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

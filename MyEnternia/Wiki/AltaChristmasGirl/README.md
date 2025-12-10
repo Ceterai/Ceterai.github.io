@@ -19,14 +19,14 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+**:
-- `holidayspirit` x*3* (weight: 0.3)
-- `holidayspirit` x*4* (weight: 0.4)
-- `holidayspirit` x*5* (weight: 0.3)
-- `holidayspirit` x*6* (weight: 0.2)
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*3* (weight: 0.3)
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4* (weight: 0.4)
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*5* (weight: 0.3)
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*6* (weight: 0.2)
 
 ## Technical Information
 
 - In-game ID: `ct_alta_christmas_tenant`
 - NPC type: `ct_alta_christmas_girl`
 - Priority: `12`
-- File: [`/tenants/alta/events/xmas/christmas.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/events/xmas/christmas.tenant)
+- File: [`/tenants/alta/events/sonaveil/christmas.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/events/sonaveil/christmas.tenant)

@@ -44,6 +44,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_lifechamber`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`aid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light)

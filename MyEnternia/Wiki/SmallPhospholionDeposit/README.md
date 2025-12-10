@@ -58,6 +58,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_phospholion_deposit1`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`phospholion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Phospholion)

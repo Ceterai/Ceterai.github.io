@@ -42,6 +42,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_fresh_fo`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cafe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cafe), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`food_display`](https://ceterai.github.io/MyEnternia/Wiki/Tags/FoodDisplay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

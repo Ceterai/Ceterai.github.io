@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Gyera Loot Crate** is a common loot item.
 
-Contains random loot from [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) park pods.  
+Contains random loot from [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) park pods.  
 Park management equipment, gardener tech, seeds and samples are the most common things to appear in this.
 
 ## Ingame
@@ -46,17 +46,21 @@ When used:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/umbrella/icon.png" alt="Alta Cafe Umbrella icon" loading="lazy" width="auto" height="16px"/> [Alta Cafe Umbrella](https://ceterai.github.io/MyEnternia/Wiki/AltaCafeUmbrella) x*1* (weight: 0.02)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/umbrella_striped/icon.png" alt="Alta Cafe Umbrella In Stripes icon" loading="lazy" width="auto" height="16px"/> [Alta Cafe Umbrella In Stripes](https://ceterai.github.io/MyEnternia/Wiki/AltaCafeUmbrellaInStripes) x*1* (weight: 0.02)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" width="auto" height="16px"/> [Alta Cooler](https://ceterai.github.io/MyEnternia/Wiki/AltaCooler) x*1* (weight: 0.012)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ruka/icon.png" alt="Potted Ruka icon" loading="lazy" width="auto" height="16px"/> [Potted Ruka](https://ceterai.github.io/MyEnternia/Wiki/PottedRuka) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/aya/icon.png" alt="Potted Aya icon" loading="lazy" width="auto" height="16px"/> [Potted Aya](https://ceterai.github.io/MyEnternia/Wiki/PottedAya) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/tsay/icon.png" alt="Potted Tsay icon" loading="lazy" width="auto" height="16px"/> [Potted Tsay](https://ceterai.github.io/MyEnternia/Wiki/PottedTsay) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/gil/icon.png" alt="Potted Gil icon" loading="lazy" width="auto" height="16px"/> [Potted Gil](https://ceterai.github.io/MyEnternia/Wiki/PottedGil) x*1* (weight: 0.01)
 - <img src="https://starbounder.org/mediawiki/images/b/bd/Poptop_Plushie.png" alt="Poptop Plushie icon" loading="lazy" width="12px" height="11px"/> [Poptop Plushie](https://starbounder.org/Poptop_Plushie) x*1* (weight: 0.02)
 - <img src="https://starbounder.org/mediawiki/images/f/f5/Bear_Plushie.png" alt="Bear Plushie icon" loading="lazy" width="10.5px" height="11.5px"/> [Bear Plushie](https://starbounder.org/Bear_Plushie) x*1* (weight: 0.02)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"/> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*2* (weight: 0.01)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png" alt="Runeva Ball icon" loading="lazy" width="auto" height="16px"/> [Runeva Ball](https://ceterai.github.io/MyEnternia/Wiki/RunevaBall) x*1* (weight: 0.02)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/gyera/icon.png" alt="Gyera Sprinkler icon" loading="lazy" width="auto" height="16px"/> [Gyera Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/GyeraSprinkler) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/gyera/icon.png" alt="Gyera Sprinkler icon" loading="lazy" width="auto" height="16px"/> [Gyera Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/GyeraSprinkler) x*1* (weight: 0.01)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/basic/icon.png" alt="Alta Sprinkler icon" loading="lazy" width="auto" height="16px"/> [Alta Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/AltaSprinkler) x*1* (weight: 0.01)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" width="auto" height="16px"/> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" width="auto" height="16px"/> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan) x*1* (weight: 0.01)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/gyera/body.png" alt="Iora Gyera Emblem icon" loading="lazy" width="auto" height="16px"/> [Iora Gyera Emblem](https://ceterai.github.io/MyEnternia/Wiki/IoraGyeraEmblem) x*1* (weight: 0.0399)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" width="auto" height="16px"/> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor) x*1* (weight: 0.0001)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"/> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*1* (weight: 0.01)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" width="auto" height="16px"/> [Gyera Blaster](https://ceterai.github.io/MyEnternia/Wiki/GyeraBlaster) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" width="auto" height="16px"/> [Gyera Blaster](https://ceterai.github.io/MyEnternia/Wiki/GyeraBlaster) x*1* (weight: 0.01)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" width="auto" height="16px"/> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken) x*1* (weight: 0.03)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" width="auto" height="16px"/> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken) x*2* (weight: 0.03)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" width="auto" height="16px"/> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken) x*3* (weight: 0.01)
@@ -64,7 +68,7 @@ When used:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" width="auto" height="16px"/> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds) x*1* (weight: 0.005)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"/> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide) x*1* (weight: 0.045)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer) x*1* (weight: 0.02)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer) x*1* (weight: 0.04)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate) x*1* (weight: 0.02)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_gyera_token.png" alt="Gyera Token icon" loading="lazy" width="auto" height="16px"/> [Gyera Token](https://ceterai.github.io/MyEnternia/Wiki/GyeraToken) x*1* (always present)
 
@@ -95,6 +99,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gyera_loot`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`gyera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot)

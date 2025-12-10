@@ -18,6 +18,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_lava_crippit_egg`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`monster_egg`](https://ceterai.github.io/MyEnternia/Wiki/Tags/MonsterEgg), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)

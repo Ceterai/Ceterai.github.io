@@ -26,6 +26,24 @@ The fin is pretty heavy, so any of this might take some additional effort.
 
 Parameters:
 
+- Press Params:
+  - Flash:
+    - Time: 0.15
+    - Directives: `fade=FFFFFFFF=0.15`
+  - Combo Speed Factor: 0.7
+  - Edge Trigger Grace: 0.25
+- Energy Usage: 32
+- Hold Time Max: 0.35
+- Fire Time: 0.7
+- Hold Params:
+  - Cooldown Time: 0.8
+  - Energy Factor: 1.0
+- Damage Config:
+  - Base Damage: 22.5
+  - Knockback: 40
+  - Damage Source Kind: `broadsword`
+  - Knockback Mode: `facing`
+  - Timeout: 0.5
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -48,8 +66,6 @@ Parameters:
 - Swoosh: `swoosh1`
 - Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
 - Swoosh Sound: `primary_hold`
-- Hold Time Max: 0.35
-- Base Dps: 12
 - Downstab Params:
   - Cooldown Time: 0.5
   - Energy Factor: 0.2
@@ -62,24 +78,7 @@ Parameters:
     - Knockback: ,  -35
     - Timeout: 0.2
     - Timeout Group: `primary`
-- Class: `KunaiBlast`
-- Fire Time: 0.7
-- Hold Params:
-  - Cooldown Time: 0.8
-  - Energy Factor: 1.0
-- Press Params:
-  - Flash:
-    - Time: 0.15
-    - Directives: `fade=FFFFFFFF=0.15`
-  - Combo Speed Factor: 0.7
-  - Edge Trigger Grace: 0.25
-- Energy Usage: 32
-- Damage Config:
-  - Base Damage: 22.5
-  - Knockback: 40
-  - Damage Source Kind: `broadsword`
-  - Knockback Mode: `facing`
-  - Timeout: 0.5
+- Base Dps: 12
 
 ### Steelspin
 
@@ -98,6 +97,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_barracuda_fin-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`barracuda`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Barracuda), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

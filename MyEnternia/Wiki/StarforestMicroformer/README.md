@@ -22,6 +22,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alterash_starforest_tf`
+- Level: `7`
 - Power: `4.8`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

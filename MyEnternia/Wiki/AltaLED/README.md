@@ -68,6 +68,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_led`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent)

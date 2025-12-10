@@ -64,6 +64,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_eds_aimbot_augment`
+- Level: `5`
 - Power: `3.6`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

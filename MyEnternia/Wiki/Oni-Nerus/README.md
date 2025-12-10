@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_oni_nerus.png" alt="Oni-Nerus ★ icon" loading="lazy" width="auto" height="16px"/> **Oni-Nerus ★** is a legendary one-handed cryogenic chakram.
 
-Legacy of the night under [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), this wrist-blaster is loaded with a special Lunar Chakram, quietly crackling with destructive energy.
+Legacy of the night under [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera), this wrist-blaster is loaded with a special Lunar Chakram, quietly crackling with destructive energy.
 
 ## Ingame
 
@@ -46,6 +46,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_oni_nerus`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`astera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), [`chakram`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Chakram), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)

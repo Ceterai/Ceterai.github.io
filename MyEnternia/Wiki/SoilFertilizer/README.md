@@ -1,6 +1,6 @@
 # Soil Fertilizer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" width="auto" height="16px"/> **Soil Fertilizer** is a common food item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" width="auto" height="16px"/> **Soil Fertilizer** is a common tool.
 
 The most basic ferilizer containing rich soils. Will likely poison you if consumed directly.
 
@@ -96,6 +96,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_basic_fertilizer`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`fertilizer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fertilizer)

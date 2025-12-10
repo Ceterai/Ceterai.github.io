@@ -43,6 +43,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_security_legwear-upgrade`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`animus`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Animus), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

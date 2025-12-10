@@ -33,6 +33,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_seat`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - File: [`/objects/alta/basic/seat/ct_alta_seat.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/basic/seat/ct_alta_seat.object)

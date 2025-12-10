@@ -39,6 +39,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_crystalline_shield-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

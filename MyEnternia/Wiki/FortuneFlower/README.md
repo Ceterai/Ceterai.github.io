@@ -20,6 +20,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_fortune_flower`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Legendary`
 - File: [`/items/generic/food/other/WIP/ct_fortune_flower.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/WIP/ct_fortune_flower.consumable)

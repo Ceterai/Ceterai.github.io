@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" width="auto" height="16px"/> **Ayaka Gardener's Notes** is an uncommon codex entry.
 
-A set of notes about <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) growth maintenance made by an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) gardener.  
+A set of notes about <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) growth maintenance made by an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) gardener.  
 It seems to be covered in dried up blue stains. The notes were carefully written by a professional with a passion for gardening, a tiny signature at the back says "Naya".
 
 **Naya** is a beautiful plant that growth in wet conditions with slight ionization, with some altas ending up choosing it as their name. Though, **Naya The Gardener** usually says that in her case it's a pure coincidence.
@@ -81,6 +81,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ayaka-codex`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

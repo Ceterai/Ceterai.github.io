@@ -33,11 +33,13 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/boosted/icon.png" alt="Boosted Evara Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Evara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedEvaraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/cotton/sapling/icon.png" alt="Cotton Sapling icon" loading="lazy" width="auto" height="16px"/> [Cotton Sapling](https://ceterai.github.io/MyEnternia/Wiki/CottonSapling)
 - <img src="https://starbounder.org/mediawiki/images/9/97/Cotton_Seed.png" alt="Cotton Seed icon" loading="lazy" width="5.875px" height="12px"/> [Cotton Seed](https://starbounder.org/Cotton_Seed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/eva/icon.png" alt="Potted Evara icon" loading="lazy" width="auto" height="16px"/> [Potted Evara](https://ceterai.github.io/MyEnternia/Wiki/PottedEvara)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" width="auto" height="16px"/> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
 
 Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/pod/icon.png" alt="Evara Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Evara Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EvaraEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/eva/icon.png" alt="Potted Evara icon" loading="lazy" width="auto" height="16px"/> [Potted Evara](https://ceterai.github.io/MyEnternia/Wiki/PottedEvara)
 
 ## Sources
 
@@ -57,6 +59,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eva_eco`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`eva`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eva), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

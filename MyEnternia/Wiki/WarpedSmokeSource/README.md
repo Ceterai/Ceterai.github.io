@@ -42,6 +42,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_smoker`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

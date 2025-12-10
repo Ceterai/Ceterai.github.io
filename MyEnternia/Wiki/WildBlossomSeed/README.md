@@ -39,6 +39,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_wild_blossom_seed`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

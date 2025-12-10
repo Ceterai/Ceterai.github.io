@@ -50,6 +50,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_gillikada-split`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`kada`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Kada), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

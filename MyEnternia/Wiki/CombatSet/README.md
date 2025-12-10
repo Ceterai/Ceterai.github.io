@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" width="auto" height="16px"/> **Combat Set** is a rare loot item.
 
-Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) army soldier, including a lore codex of this set.
+Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) army soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
 This standard combat equipment is designed with a balance between protection and mobility. Additionaly, special life support systems are in place to increase the surviveability as well.
 
@@ -45,6 +45,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_combat_set`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`set`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Set)

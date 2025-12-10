@@ -34,6 +34,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ayaka_sap_blob_ceiling1`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

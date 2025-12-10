@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_jacket/icon.png" alt="Light Official Jacket icon" loading="lazy" width="auto" height="16px"/> **Light Official Jacket** is a common chest cosmetic item.
 
-A top often used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) representatives and officials. A choice of taking responsibility.
+A top often used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) representatives and officials. A choice of taking responsibility.
 
 ## Usage
 
@@ -27,6 +27,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_official_jacket-light`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - File: [`/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/official_jacket/ct_alta_official_jacket.chest)

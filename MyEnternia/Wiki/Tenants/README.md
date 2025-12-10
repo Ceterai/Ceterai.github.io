@@ -1,6 +1,6 @@
 # Tenants
 
-This mod adds a total of 182 tenants.
+This mod adds a total of 181 tenants.
 
 ## Alta
 

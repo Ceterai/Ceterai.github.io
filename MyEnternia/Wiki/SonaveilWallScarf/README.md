@@ -12,7 +12,7 @@ Can be crafted:
 
 - Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 3.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sonaveil_scarf_wall.png" alt="Sonaveil Wall Scarf icon" loading="lazy" width="auto" height="16px"/> Sonaveil Wall Scarf x*1*):
   - `cottonwool` x*4*
-  - `holidayspirit` x*4*
+  - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4*
   - `string` x*2*
   - <img src="https://starbounder.org/mediawiki/images/c/c1/Red_Dye.png" alt="Red Dye icon" loading="lazy" width="8px" height="12px"/> [Red Dye](https://starbounder.org/Red_Dye) x*1*
   - `yellowdye` x*1*
@@ -26,6 +26,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sonaveil_scarf_wall`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cozy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cozy), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

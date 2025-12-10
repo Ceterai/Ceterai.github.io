@@ -60,6 +60,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bishyn_locker`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage)

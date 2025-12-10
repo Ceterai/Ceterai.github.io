@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Scout Set icon" loading="lazy" width="auto" height="16px"/> **Tech Docs: Scout Set** is a common codex entry.
 
-A brief description of tier 3 alta equipment worn by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scouts.  
+A brief description of tier 3 alta equipment worn by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) scouts.  
 This document provides an overview of the scout equipment set, designed for agility and stealth.
 
 ## Ingame
@@ -103,6 +103,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_docs_units_scout-codex`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs)

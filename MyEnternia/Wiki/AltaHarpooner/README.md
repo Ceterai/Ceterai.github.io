@@ -21,14 +21,9 @@ Main ability of the item, activated with left mouse button.
 Parameters:
 
 - Walk While Firing: `True`
-- Fire Offset:  1.75, 
 - Energy Per Shot: 40
 - Cooldown Time: 0.25
 - Inaccuracy: 0.01
-- Draw Frame Selector: `bowImageSelector`
-- Draw Power Multiplier: `drawTimeMultiplier`
-- Draw Speed Multiplier: `drawTimeMultiplier`
-- Draw Arm Frames:  `rotation`
 - Projectile Type: `harpoon`
 - Power Projectile Type: `chargedharpoon`
 - Power Projectile Time:  0.9,  1.1
@@ -43,6 +38,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_harpooner`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

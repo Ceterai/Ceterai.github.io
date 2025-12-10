@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" width="auto" height="16px"/> **Elin Ayaka** is a rare tree sapling.
 
-A special variation of [ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/ayakatrees) that grows in [elin gardens](https://ceterai.github.io/MyEnternia/Wiki/elingardens). It's precious, tender <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) leaves are filled with the softest [silk fibres](https://ceterai.github.io/MyEnternia/Wiki/silkfibres) out there.
+A special variation of [ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/ayakatrees) that grows in [elin gardens](https://ceterai.github.io/MyEnternia/Wiki/elingardens). It's precious, tender <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) leaves are filled with the softest <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" width="15px" height="14px"/> [silk fibres](https://starbounder.org/Silk_Fibre) out there.
 
 ## Ingame
 
@@ -106,6 +106,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ayaka_elin_tree`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`elin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elin), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

@@ -46,6 +46,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_turret`
+- Level: `5`
 - Power: `5.0`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics)

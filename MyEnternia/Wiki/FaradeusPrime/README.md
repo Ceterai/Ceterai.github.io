@@ -26,10 +26,6 @@ Instructions are simple - just hold the trigger until mission is clear! Your [pl
 
 Parameters:
 
-- Hold Time Max:
-- Base Dps: 3.5
-- Fire Time: 0.11
-- Hold Time Min: 0.9
 - Press Params:
   - Params:
     - Bounces: 1
@@ -39,6 +35,10 @@ Parameters:
   - Type: `ct_plasma_small`
 - Press Type: `blast`
 - Energy Usage: 12
+- Hold Time Max:
+- Fire Time: 0.11
+- Hold Time Min: 0.9
+- Base Dps: 3.5
 
 ## Sources
 
@@ -52,6 +52,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_faradeus-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`faradea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`machinepistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Machinepistol), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

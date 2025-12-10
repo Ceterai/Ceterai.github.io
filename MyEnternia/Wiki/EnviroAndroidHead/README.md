@@ -44,6 +44,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_arco_android_head`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arco`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arco), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`tier5armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier5Armour)

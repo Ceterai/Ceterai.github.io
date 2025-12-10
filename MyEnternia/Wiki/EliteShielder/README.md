@@ -47,6 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elite_shielder`
+- Level: `6`
 - Power: `3.88`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`elite`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elite), [`impulse`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`shielder`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shielder)

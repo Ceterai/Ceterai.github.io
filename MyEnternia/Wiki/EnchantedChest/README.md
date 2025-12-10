@@ -50,12 +50,13 @@ Contains following treasure when found naturally in biomes:
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.15)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" width="auto" height="16px"/> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick) x*2* (weight: 0.1)
     - `alienglowplant1` x*1* (weight: 0.04)
-    - `alienbed` x*1* (weight: 0.06)
-    - `alienchair` x*1* (weight: 0.08)
+    - `alienbed` x*1* (weight: 0.055)
+    - `alienchair` x*1* (weight: 0.06)
     - <img src="https://starbounder.org/mediawiki/images/3/35/Alien_Chest.png" alt="Alien Chest icon" loading="lazy" width="12px" height="9.75px"/> [Alien Chest](https://starbounder.org/Alien_Chest) x*1* (weight: 0.05)
-    - `aliendoor` x*1* (weight: 0.06)
+    - `aliendoor` x*1* (weight: 0.055)
     - `alientable` x*1* (weight: 0.06)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" width="auto" height="16px"/> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest) x*1* (weight: 0.01)
+    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/beakseed/icon.png" alt="Potted Beakseed icon" loading="lazy" width="auto" height="16px"/> [Potted Beakseed](https://ceterai.github.io/MyEnternia/Wiki/PottedBeakseed) x*1* (weight: 0.02)
     - <img src="https://starbounder.org/mediawiki/images/3/38/Bad_Goo_Plushie.png" alt="Bad Goo Plushie icon" loading="lazy" width="12px" height="8px"/> [Bad Goo Plushie](https://starbounder.org/Bad_Goo_Plushie) x*1* (weight: 0.04)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" width="auto" height="16px"/> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster) x*1* (weight: 0.02)
     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"/> [Vionos Twins](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins) x*1* (weight: 0.02)
@@ -87,6 +88,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_enchanted_chest`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage), [`viona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona)

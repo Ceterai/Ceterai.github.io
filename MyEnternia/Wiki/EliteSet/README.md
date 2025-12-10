@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" width="auto" height="16px"/> **Elite Set** is a legendary loot item.
 
-Contains full equipment set of an elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) soldier, including a lore codex of this set.
+Contains full equipment set of an elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
 Worn by elite alta forces, or **prime vardas**, this powerarmor set is focusing on protection and life support, as well as enhanced energy provision.
 
@@ -47,6 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elite_set`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`capital`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Capital), [`elite`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elite), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`set`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Set)

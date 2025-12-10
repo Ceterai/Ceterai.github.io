@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> **Phosicore** is a rare crafting material.
 
-A small energy concentrator made from irradiated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion). Its phosic waves can produce energy blasts.  
-This high-capacity adaptive device can also convert energy into certain states or chemical reactions, like [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) and [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison).
+A small energy concentrator made from irradiated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion). Its phosic waves can produce energy blasts.  
+This high-capacity adaptive device can also convert energy into certain states or chemical reactions, like [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice) and [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison).
 
 ## Ingame
 
@@ -186,7 +186,7 @@ Found naturally in containers:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
 - <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"/> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 32 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [A.R.C.O. Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.FieldResearcher)
@@ -208,7 +208,6 @@ Found naturally in containers:
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [Ceterai Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFieldResearcher)
 - [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [EDS Researcher](https://ceterai.github.io/MyEnternia/Wiki/EDSResearcher)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
@@ -234,6 +233,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_phosicore`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`core`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Core), [`energy_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnergySource), [`phospholion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Phospholion), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent)

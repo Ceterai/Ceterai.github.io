@@ -57,7 +57,6 @@ Alternative ability of the item, activated with right mouse button.
 
 Parameters:
 
-- Class: `AltaSwitch`
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.5
@@ -79,6 +78,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_sona_rifle-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`assaultrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Assaultrifle), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`tavriya`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

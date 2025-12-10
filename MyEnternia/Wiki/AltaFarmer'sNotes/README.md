@@ -18,6 +18,7 @@ Hey there! Alasta here, posting a short helpful notice to go along with the defa
 This is to get you started with this station and tell you what to do with it.
 
 The dendrarium is meant for all things flora:
+
 - Farming, or working with crops, like tilling and watering them;
 - Lumbering, or cutting down bigger plants;
 - Mawing, or cutting down smaller plants;
@@ -63,6 +64,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_farming-codex`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming)

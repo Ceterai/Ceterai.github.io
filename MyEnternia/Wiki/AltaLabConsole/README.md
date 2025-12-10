@@ -37,6 +37,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_lab_console`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`wired`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wired)

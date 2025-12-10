@@ -18,8 +18,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
-- Class: `GunFire`
 - Fire Time: 2
 - Base Dps: 0.33
 - Energy Usage: 30
@@ -37,6 +35,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_firework_cannon`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rocketlauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rocketlauncher), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

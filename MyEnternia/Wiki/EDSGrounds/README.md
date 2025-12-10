@@ -1,5 +1,7 @@
 # EDS Grounds
 
+ **EDS Grounds** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+
 These mostly snowy lands are filled with [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) bases and structures. High security levels won't let you in so easily.
 
 ## Technical Information

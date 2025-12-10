@@ -26,24 +26,24 @@ Now packing a special accelerator module ran on stardust, it speeds up tsyntex s
 
 Parameters:
 
+- Press Params:
+  - Inaccuracy: 0.04
+  - Type: `ct_impulse_small`
+  - Count: 4
+- Press Type: `semi`
+- Energy Usage: 16
 - Hold Time Max: 0.45
-- Base Dps: 4
-- Hold Type: `semi`
 - Fire Time: 0.1
 - Hold Params:
   - Item Bonus:
     - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
     - Damage Factor: 0.002
     - Max: 300
+  - Inaccuracy: 0.01
   - Type: `ct_gheatsyn_charge`
   - Count: 2
-  - Inaccuracy: 0.01
-- Press Params:
-  - Type: `ct_impulse_small`
-  - Count: 4
-  - Inaccuracy: 0.04
-- Press Type: `semi`
-- Energy Usage: 16
+- Hold Type: `semi`
+- Base Dps: 4
 
 ## Sources
 
@@ -57,6 +57,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_tsyntex-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`ghearun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

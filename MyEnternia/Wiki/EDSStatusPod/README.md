@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_status_pod`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`aid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

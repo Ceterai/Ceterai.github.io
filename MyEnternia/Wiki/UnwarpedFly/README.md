@@ -25,6 +25,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_unwarped_fly_af`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`bug`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bug), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -86,6 +86,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_visor`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`tier3clothing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier3Clothing), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

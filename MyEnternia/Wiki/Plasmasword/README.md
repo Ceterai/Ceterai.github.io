@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword.png" alt="Plasmasword ★ icon" loading="lazy" width="auto" height="16px"/> **Plasmasword ★** is a rare two-handed electric broadsword.
 
-A combat tool used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) soldiers in melee fights. The energy powering this sword creates a thin [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) cover over its blade.  
-_Alter-NV_ is codename for all alta combat plasmaswords with differences in models, variations and customization. Usually, alta like to personalize their plasmaswords with different blade shapes, modifications and various cosmetics and trinkets. Some even use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) or [glow fibres](https://ceterai.github.io/MyEnternia/Wiki/glowfibres) to create differently-colored glow.
+A combat tool used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) soldiers in melee fights. The energy powering this sword creates a thin [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) cover over its blade.  
+_Alter-NV_ is codename for all alta combat plasmaswords with differences in models, variations and customization. Usually, alta like to personalize their plasmaswords with different blade shapes, modifications and various cosmetics and trinkets. Some even use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) or <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" width="15px" height="14px"/> [glow fibres](https://starbounder.org/Glow_Fibre) to create differently-colored glow.
 
 This **energy tool** is considered a visit card of **alta gladiators**, and is often used by many [Faradea legends](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend).
 
@@ -15,7 +15,7 @@ Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/
 
 Species descriptions:
 
-- Alta: Now this is an energy tool to all energy tools! It cuts through [titanium](https://ceterai.github.io/MyEnternia/Wiki/Tags/Titanium) and weaker metals easily, and I'm not even talking about light stuff like [ayakut](https://ceterai.github.io/MyEnternia/Wiki/ayakut)!
+- Alta: Now this is an energy tool to all energy tools! It cuts through <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [titanium](https://starbounder.org/Titanium_Bar) and weaker metals easily, and I'm not even talking about light stuff like [ayakut](https://ceterai.github.io/MyEnternia/Wiki/ayakut)!
 
 Radiomessages on pickup:
 
@@ -25,12 +25,11 @@ Radiomessages on pickup:
 
 ### Plasmic Razor
 
-The rim of this tool is made out of plasma. Can provide up to 4 combo hits, with the last 2 applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"/> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).  
+The rim of this tool is made out of plasma. Can provide up to 4 combo hits, with the last 2 applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"/> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
 The combo itself is very familiar to any alta soldier as it follows standard [combat protocols](https://ceterai.github.io/MyEnternia/Wiki/combatprotocols).
 
 Parameters:
 
-- Class: `BladeCharge`
 - Base Dps: 13
 - Fire Time: 1.1
 - Energy Usage: 36
@@ -91,6 +90,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_plasmasword`
+- Level: `5`
 - Power: `3.31`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`ceterai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

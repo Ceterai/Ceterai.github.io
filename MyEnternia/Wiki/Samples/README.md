@@ -1,6 +1,8 @@
+> Main pages: [Collectibles](https://ceterai.github.io/MyEnternia/Wiki/Collectibles)
+
 # Samples
 
-This mod adds 16 samples.
+The mod adds a total of 16 samples:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/alternia/icon.png" alt="Alternia Sample ★★ icon" loading="lazy" width="auto" height="16px"/> [Alternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bion/icon.png" alt="Bion Sample ★★ icon" loading="lazy" width="auto" height="16px"/> [Bion Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/BionSample)

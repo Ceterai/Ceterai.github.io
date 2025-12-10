@@ -30,6 +30,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_captains_chair`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`captainschair`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Captainschair), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

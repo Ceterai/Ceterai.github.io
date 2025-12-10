@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_calin_hatch`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door), [`mechanical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mechanical), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

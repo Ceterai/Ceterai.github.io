@@ -18,6 +18,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_composite`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`armor`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Armor), [`compound`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Compound), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

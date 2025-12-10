@@ -64,6 +64,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_mical_tree`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`enterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

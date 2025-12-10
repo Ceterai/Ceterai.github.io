@@ -45,6 +45,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_arco_shielder`
+- Level: `5`
 - Power: `3.31`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`shielder`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shielder)

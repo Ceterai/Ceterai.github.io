@@ -1,5 +1,7 @@
 # Omniblue Light
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_light.png" alt="Omniblue Light icon" loading="lazy" width="auto" height="16px"/> **Omniblue Light** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Creates a slight beam of special blue light in front of you. Acts as a head lamp.
 
 <details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>

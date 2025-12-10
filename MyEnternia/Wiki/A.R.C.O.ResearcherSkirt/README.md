@@ -21,6 +21,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_researcher_skirt-arco`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arco`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arco), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`science`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Science), [`tier5clothing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier5Clothing)

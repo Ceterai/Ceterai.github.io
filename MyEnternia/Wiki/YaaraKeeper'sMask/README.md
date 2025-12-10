@@ -37,6 +37,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_head_mimic-yaara_keeper_mask`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`floran`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Floran), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)

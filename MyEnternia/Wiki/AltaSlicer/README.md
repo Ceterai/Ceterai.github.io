@@ -36,6 +36,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_slicer`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cafe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cafe), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

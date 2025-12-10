@@ -33,6 +33,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_nivera_geyser`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`nivera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nivera), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

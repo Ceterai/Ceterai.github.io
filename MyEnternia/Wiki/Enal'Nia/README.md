@@ -24,7 +24,6 @@ Firemodes: burst, semiauto.
 
 Parameters:
 
-- Class: `AltaRanged`
 - Base Dps: 10
 - Energy Usage: 40
 - Fire Time: 0.8
@@ -45,7 +44,6 @@ Hold - launch Electro-Cloud Nade.
 
 Parameters:
 
-- Class: `AltaSwitch`
 - Base Dps: 10
 - Energy Usage: 44
 - Fire Time: 0.1
@@ -71,6 +69,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_enalnia`
+- Level: `6`
 - Power: `4.19`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`assaultrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Assaultrifle), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

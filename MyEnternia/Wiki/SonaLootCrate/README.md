@@ -9,7 +9,7 @@ An alta pad with heat-preserving casing for usage in below-zero environments. Us
 
 Species descriptions:
 
-- Alta: These pads preserve heat and contain warm clothes inside. I think they're usually used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) in [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya).
+- Alta: These pads preserve heat and contain warm clothes inside. I think they're usually used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) in [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).
 
 Radiomessages on pickup:
 
@@ -26,13 +26,14 @@ When used:
 - `mediumsnowball` x*4* (weight: 0.08)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/bionid.png" alt="Bionid Glowstick icon" loading="lazy" width="auto" height="16px"/> [Bionid Glowstick](https://ceterai.github.io/MyEnternia/Wiki/BionidGlowstick) x*2* (weight: 0.08)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"/> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) x*1* (weight: 0.04)
-- `icespherechest` x*1* (weight: 0.035)
-- `icechest` x*1* (weight: 0.035)
+- `icespherechest` x*1* (weight: 0.025)
+- `icechest` x*1* (weight: 0.025)
 - `icemachine` x*1* (weight: 0.03)
 - `icebed` x*1* (weight: 0.05)
 - `icechair` x*1* (weight: 0.07)
 - `icedoor` x*1* (weight: 0.05)
 - `icetable` x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/sona/icon.png" alt="Potted Sonava icon" loading="lazy" width="auto" height="16px"/> [Potted Sonava](https://ceterai.github.io/MyEnternia/Wiki/PottedSonava) x*1* (weight: 0.02)
 - `alienskullhead` x*1* (weight: 0.035)
 - `iceboomerang` x*1* (weight: 0.005)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png" alt="Sona Rifle SG5 icon" loading="lazy" width="auto" height="16px"/> [Sona Rifle SG5](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5) x*1* (weight: 0.018)
@@ -62,6 +63,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sona_loot`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`tavriya`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

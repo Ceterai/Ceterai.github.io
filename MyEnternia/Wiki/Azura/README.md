@@ -75,6 +75,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_azura_tree`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`enterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

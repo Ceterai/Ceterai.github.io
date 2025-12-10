@@ -65,6 +65,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_frozen_energy3`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`alternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`energy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Energy), [`frozen_energy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/FrozenEnergy), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic)

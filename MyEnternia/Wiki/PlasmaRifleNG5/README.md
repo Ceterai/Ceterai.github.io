@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle.png" alt="Plasma Rifle NG5 icon" loading="lazy" width="auto" height="16px"/> **Plasma Rifle NG5** is a rare two-handed electric assault rifle.
 
-A rifled alternia [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) blaster, mostly used by combat and elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) forces.  
+A rifled alternia [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) blaster, mostly used by combat and elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) forces.  
 Its heavy casing contains a lot of isolation and enough space for a proper _rapid plasma generator_.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Plasma Rifle NG5X ★ icon" loading="lazy" width="auto" height="16px"/> [Plasma Rifle NG5X ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5X) at the Weapon Upgrade Anvil.
@@ -63,7 +63,6 @@ Hold - change firemodes.
 
 Parameters:
 
-- Class: `AltaSwitch`
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.8
@@ -96,6 +95,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_plasma_rifle`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`assaultrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Assaultrifle), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

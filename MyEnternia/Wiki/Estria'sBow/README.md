@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_estria_bow`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ava_day`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), [`bow`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bow), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

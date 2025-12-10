@@ -23,21 +23,21 @@ Radiomessages on pickup:
 
 A sequence of 4 (+1) light strikes. Hold to perform a Hold Super-Strike.
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) damage.  
-The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are [diamonds](https://ceterai.github.io/MyEnternia/Wiki/Tags/Diamond) and [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals.
+The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [diamonds](https://starbounder.org/Diamond) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals.
 
 Parameters:
 
-- Base Dps: 12
-- Fire Time: 0.6
 - Hold Damage Multiplier: 0.1
-- Hold Damage Config:
-  - Timeout Group: `hold`
-  - Timeout: 0.5
+- Fire Time: 0.6
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
+- Hold Damage Config:
+  - Timeout Group: `hold`
+  - Timeout: 0.5
+- Base Dps: 12
 
 ## Sources
 
@@ -51,6 +51,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_bishyn_spear-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

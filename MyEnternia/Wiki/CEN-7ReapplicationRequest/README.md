@@ -6,6 +6,11 @@ This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/gen
 
 ## Ingame
 
+Radiomessages on pickup:
+
+- You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
+These can either be crafted or found in random alta pods on alterash planets.
+
 ### Contents
 
 ...To put it simply - it seems like ET14 just doesn't hold enough energy under CEN-7.
@@ -45,6 +50,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_notes_mira_cen-codex`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/codex/alta/ct_notes_mira_cen.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_notes_mira_cen.codex)

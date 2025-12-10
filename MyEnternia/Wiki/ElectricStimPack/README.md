@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_electric_stim.png" alt="Electric Stim Pack icon" loading="lazy" width="auto" height="16px"/> **Electric Stim Pack** is an uncommon medical item.
 
-Provides 60s of 15% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) and [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).  
+Provides 60s of 15% <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"/> [electric resistance](https://starbounder.org/Electric_Resistance) and <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Immunity](https://starbounder.org/Electric_Resistance).  
 _Starburst Rework: _[Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic)_ immunity._  
 Technically this is not a true stim pack. This is what altas call an enhancer. Since alta biology is not very injection-friendly, they use pills or enhancers instead.
 
@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_electric_stim`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`enhancer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancer), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

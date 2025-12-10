@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Combat Set icon" loading="lazy" width="auto" height="16px"/> **Tech Docs: Combat Set** is a common codex entry.
 
-A brief description of tier 5 alta equipment worn by regular & private planetary [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) army.  
+A brief description of tier 5 alta equipment worn by regular & private planetary [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) army.  
 This document provides an overview of the combat set used by the alta army, detailing its components and functionalities.
 
 ## Ingame
@@ -97,6 +97,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_docs_units_combat-codex`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs)

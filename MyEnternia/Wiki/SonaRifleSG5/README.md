@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png" alt="Sona Rifle SG5 icon" loading="lazy" width="auto" height="16px"/> **Sona Rifle SG5** is a rare two-handed cryogenic assault rifle.
 
-A rifled cryo energy blaster, mostly used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) operating in [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya).  
+A rifled cryo energy blaster, mostly used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) operating in [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).  
 Its compact cryogenic core is able to produce energy blasts at different rates, allowing for multiple firemodes.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle_2.png" alt="Sona Rifle SG5X ★ icon" loading="lazy" width="auto" height="16px"/> [Sona Rifle SG5X ★](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5X) at the Weapon Upgrade Anvil.
@@ -62,7 +62,6 @@ Works especially well against targets vulnerable to low temperatures.
 
 Parameters:
 
-- Class: `AltaSwitch`
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.5
@@ -94,6 +93,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_sona_rifle`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`assaultrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Assaultrifle), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`tavriya`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

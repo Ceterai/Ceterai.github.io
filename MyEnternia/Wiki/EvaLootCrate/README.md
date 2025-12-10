@@ -27,9 +27,10 @@ When used:
 - `rainbowbed` x*1* (weight: 0.06)
 - `rainbowchair` x*1* (weight: 0.07)
 - <img src="https://starbounder.org/mediawiki/images/a/a9/Rainbowchest.png" alt="Rainbow Chest icon" loading="lazy" width="12px" height="12px"/> [Rainbow Chest](https://starbounder.org/Rainbow_Chest) x*1* (weight: 0.05)
-- `rainbowdoor` x*1* (weight: 0.06)
+- `rainbowdoor` x*1* (weight: 0.05)
 - `rainbowunicornstatue` x*1* (weight: 0.02)
-- `rainbowtable` x*1* (weight: 0.06)
+- `rainbowtable` x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/eva/icon.png" alt="Potted Evara icon" loading="lazy" width="auto" height="16px"/> [Potted Evara](https://ceterai.github.io/MyEnternia/Wiki/PottedEvara) x*1* (weight: 0.02)
 - <img src="https://starbounder.org/mediawiki/images/3/3e/Prism_Magenta_Lamp.png" alt="Prism Magenta Lamp icon" loading="lazy" width="6px" height="10.5px"/> [Prism Magenta Lamp](https://starbounder.org/Prism_Magenta_Lamp) x*1* (weight: 0.015)
 - <img src="https://starbounder.org/mediawiki/images/0/07/Prism_Emerald_Lamp.png" alt="Prism Emerald Lamp icon" loading="lazy" width="6px" height="8px"/> [Prism Emerald Lamp](https://starbounder.org/Prism_Emerald_Lamp) x*1* (weight: 0.015)
 - <img src="https://starbounder.org/mediawiki/images/9/93/Prism_Cyan_Lamp.png" alt="Prism Cyan Lamp icon" loading="lazy" width="6px" height="10.5px"/> [Prism Cyan Lamp](https://starbounder.org/Prism_Cyan_Lamp) x*1* (weight: 0.015)
@@ -61,6 +62,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eva_loot`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`eva`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eva), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"/> **Alternia Shard** is a rare crafting material.
 
-A crystal shard full of pure [alternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia) energy. ...Somehow it feels important.  
-These shards are overflowing with energy. A too high concentration of these can even lead to environments with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"/> [overcharged air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir), with [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) being the most prominent example, as well as the entirety of [esetera depths](https://ceterai.github.io/MyEnternia/Wiki/eseteradepths) and [esetera caves](https://ceterai.github.io/MyEnternia/Wiki/eseteracaves).
+A crystal shard full of pure <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) energy. ...Somehow it feels important.  
+These shards are overflowing with energy. A too high concentration of these can even lead to environments with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"/> [overcharged air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir), with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) being the most prominent example, as well as the entirety of [esetera depths](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-depths) and [esetera caves](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-caves).
 
 ## Ingame
 
@@ -130,6 +130,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alternia_shard`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`energy_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnergySource), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`shard`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shard)

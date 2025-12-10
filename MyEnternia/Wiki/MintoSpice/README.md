@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"/> **Minto Spice** is an uncommon cooking ingredient.
 
-A mix of spices commonly used in calin cuisine, like the famous [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" width="auto" height="16px"/> [minto soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup).  
+A mix of spices commonly used in calin cuisine, like the famous [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" width="auto" height="16px"/> [minto soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup).  
 This spice adds a refreshing aftertaste to the food, and tends to react slightly differently to different ingredients, giving variative results from dish to dish.
 
 ## Ingame
@@ -89,6 +89,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_minto_spice`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - File: [`/items/generic/food/other/ct_minto_spice.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/ct_minto_spice.item)

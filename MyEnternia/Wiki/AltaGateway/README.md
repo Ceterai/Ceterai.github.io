@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_gateway`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door), [`mechanical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mechanical)

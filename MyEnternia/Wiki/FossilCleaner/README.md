@@ -18,7 +18,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_fossil_cleaner`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`fossilbrush`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fossilbrush), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`fossilbrush`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fossilbrush), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sanitary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sanitary)
 - File: [`/items/active/alta/tools/brushes/fossil_cleaner/ct_alta_fossil_cleaner.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/brushes/fossil_cleaner/ct_alta_fossil_cleaner.activeitem)

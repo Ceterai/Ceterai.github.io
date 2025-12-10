@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_neonmelon_cultivated`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`neonmelon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Neonmelon), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

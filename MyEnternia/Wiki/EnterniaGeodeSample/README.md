@@ -18,6 +18,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_obj_mimic-enternia_sample`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Colony tags: [`enternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia), [`geode`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Geode), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

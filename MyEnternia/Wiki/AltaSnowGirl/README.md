@@ -36,4 +36,4 @@ Can periodically provide following items as rent:
 - In-game ID: `ct_alta_snow_tenant`
 - NPC type: `ct_alta_snow_girl`
 - Priority: `15`
-- File: [`/tenants/alta/events/xmas/snow.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/events/xmas/snow.tenant)
+- File: [`/tenants/alta/events/sonaveil/snow.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/events/sonaveil/snow.tenant)

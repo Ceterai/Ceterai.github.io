@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_wild_ruka_seed`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

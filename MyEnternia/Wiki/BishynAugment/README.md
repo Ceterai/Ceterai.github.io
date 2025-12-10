@@ -51,6 +51,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_bishyn_augment`
+- Level: `5`
 - Power: `3.3`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

@@ -43,6 +43,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_table`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

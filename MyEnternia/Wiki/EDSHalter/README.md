@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter/icon.png" alt="EDS Halter icon" loading="lazy" width="auto" height="16px"/> **EDS Halter** is an uncommon electric trap.
 
-A defensive [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. Consists of a tanktrap and barbed wires. [Electrified](https://ceterai.github.io/MyEnternia/Wiki/Electrified).  
+A defensive [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. Consists of a tanktrap and barbed wires. <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"/> [Electrified](https://starbounder.org/Electrified).  
 These were created to trap small creatures in place, as well as rogue or hostile machinery.
 
 ## Ingame
@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_haulter`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

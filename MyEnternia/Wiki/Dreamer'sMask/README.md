@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Dreamer's Mask icon" loading="lazy" width="auto" height="16px"/> **Dreamer's Mask** is a legendary head armor piece.
 
-Mask worn by the one who's able to withstand the consuming power of enternia. Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
+Mask worn by the one who's able to withstand the consuming power of enternia. Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [breath protection](https://starbounder.org/Breathing_EPP).  
 While it covers the head only partially, there are aerodynamic flexible membranes prtecting the rest of it and providing extra mobility.
 
 ## Ingame
@@ -55,6 +55,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_dreamer_helmet`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`dreamer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dreamer), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

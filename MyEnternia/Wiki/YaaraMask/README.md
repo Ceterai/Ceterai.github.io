@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Mask icon" loading="lazy" width="auto" height="16px"/> **Yaara Mask** is an uncommon head cosmetic item.
 
-It's like someone beheaded some weird [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) creature.  
+It's like someone beheaded some weird <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) creature.  
 Worth noting that the wooden texture of this peace of costume doesn't reflect it's protective capabilities.
 
 ## Ingame
@@ -37,6 +37,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_head_mimic-yaara`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)

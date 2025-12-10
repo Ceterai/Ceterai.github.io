@@ -31,6 +31,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_aid_mimic-bandade_bion_2`
+- Level: `4`
 - Power: `2.75`
 - Rarity: `Uncommon`
 - Tags: [`aid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

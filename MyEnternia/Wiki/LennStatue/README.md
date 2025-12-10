@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_lenn_statue`
+- Level: `10`
 - Power: `5.5`
 - Rarity: `Essential`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_special`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSpecial), [`capital`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Capital), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`massive`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Massive), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`time_drifter`](https://ceterai.github.io/MyEnternia/Wiki/Tags/TimeDrifter), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

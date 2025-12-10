@@ -71,6 +71,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_staris_sword`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`shortsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shortsword), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

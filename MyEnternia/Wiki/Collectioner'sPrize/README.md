@@ -22,7 +22,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_obj_mimic-collect_trophy1`
+- Level: `4`
 - Power: `2.76`
 - Rarity: `Uncommon`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), `oh no...`, [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`prize`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Prize), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`unique`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`oh no...`](https://ceterai.github.io/MyEnternia/Wiki/Tags/OhNo), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`prize`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Prize), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`unique`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
 - File: [`/items/buildscripts/ct_mimics/obj.object`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/obj.object)

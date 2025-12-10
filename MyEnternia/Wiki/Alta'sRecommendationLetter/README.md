@@ -18,15 +18,18 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 ### Contents
 
-Hi Tifa! I'm glad to inform you that our review found an extensive list of positions available for you! Please review the list below and let me know if any option suits you.  
-- coordinator  
-- general servicer  
-- social worker (cleaning and/or gardening positions)  
+Hi Tifa! I'm glad to inform you that our review found an extensive list of positions available for you! Please review the list below and let me know if any option suits you.
+
+- coordinator
+- general servicer
+- social worker (cleaning and/or gardening positions)
 - caretaker (advanced)
 
 Your request was approved by Alliana Citadel and local Elin Gardens and we can't wait to be working with you!  
-Let's show poor lost altas care, love and support together!  
-- Aria S., Corfal Coordinator
+
+Let's show poor lost altas care, love and support together!
+
+> Aria S., Corfal Coordinator
 
 ## Usage
 
@@ -76,6 +79,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_logs_alta_job-codex`
+- Level: `2`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass)

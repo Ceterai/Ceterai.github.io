@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_wild_ionic_seed`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

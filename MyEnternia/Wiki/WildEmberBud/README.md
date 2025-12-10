@@ -39,6 +39,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_wild_coral_seed`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`coral`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Coral), [`enterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea)

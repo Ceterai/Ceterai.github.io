@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> **Ayaka Wood** is a common crafting material.
 
-A piece of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood. Can be converted into regular wood or used as a crafting material due to good energy isolation.  
+A piece of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood. Can be converted into regular wood or used as a crafting material due to good energy isolation.  
 This wood type is pretty soft and is full of ions and other useful materials, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [ionic ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment), which acts as sap for this wood.  
 Read more about this: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" width="auto" height="16px"/> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
 
@@ -48,7 +48,6 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/door/icon.png" alt="Alta Door icon" loading="lazy" width="auto" height="16px"/> [Alta Door](https://ceterai.github.io/MyEnternia/Wiki/AltaDoor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/dyes/alta/ct_alta_dye.png" alt="Alta Dye icon" loading="lazy" width="auto" height="16px"/> [Alta Dye](https://ceterai.github.io/MyEnternia/Wiki/AltaDye)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/flag/icon.png" alt="Alta Flag icon" loading="lazy" width="auto" height="16px"/> [Alta Flag](https://ceterai.github.io/MyEnternia/Wiki/AltaFlag)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/flashlight/icon.png" alt="Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> [Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/AltaFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/alta/icon.png" alt="Alta Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Alta Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerPot)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_art.png" alt="Alta Format icon" loading="lazy" width="auto" height="16px"/> [Alta Format](https://ceterai.github.io/MyEnternia/Wiki/AltaFormat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fridge/icon.png" alt="Alta Fridge icon" loading="lazy" width="auto" height="16px"/> [Alta Fridge](https://ceterai.github.io/MyEnternia/Wiki/AltaFridge)
@@ -144,6 +143,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_stardust_orchid_art.png" alt="The Stardust Orchid ★ icon" loading="lazy" width="auto" height="16px"/> [The Stardust Orchid ★](https://ceterai.github.io/MyEnternia/Wiki/TheStardustOrchid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_thick_grass_seeds.png" alt="Thick Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Thick Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/ThickGrassSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/flashlight/icon.png" alt="Toy Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> [Toy Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/ToyAltaFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_minimal_art.png" alt="Unanswered icon" loading="lazy" width="auto" height="16px"/> [Unanswered](https://ceterai.github.io/MyEnternia/Wiki/Unanswered)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/vr_headset/icon.png" alt="VR Headset icon" loading="lazy" width="auto" height="16px"/> [VR Headset](https://ceterai.github.io/MyEnternia/Wiki/VRHeadset)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_warped_grass_seeds.png" alt="Warped Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Warped Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/WarpedGrassSeeds)
@@ -205,6 +205,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ayaka_wood`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent)

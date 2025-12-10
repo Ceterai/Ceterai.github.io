@@ -9,7 +9,7 @@ While not very practical, it's 100% eco-friendly and does provide a tiny lightso
 
 Species descriptions:
 
-- Alta: A [yonnur](https://ceterai.github.io/MyEnternia/Wiki/yonnur)-filled decorative tail. Sounds neat. Looks neat. Now where do I stick it into?
+- Alta: A [yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur)-filled decorative tail. Sounds neat. Looks neat. Now where do I stick it into?
 
 Radiomessages on pickup:
 
@@ -41,6 +41,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_back_mimic-warped_glowtail`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

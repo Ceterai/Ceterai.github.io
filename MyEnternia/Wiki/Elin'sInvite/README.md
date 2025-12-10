@@ -18,14 +18,14 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 ### Contents
 
-Hi! Welcome to your life, dear [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).
+Hi! Welcome to your life, dear [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta).
 It's a shame I can't meet you directly, my little, but don't worry - all energy inside my gardens contains my presence, it runs through every fibre you see around you.
 
 Soon you'll find your way to a happy little corfal, where my caretakers will nurture you until you're ready to venture outside and face the world in all its beauty and wonder!
 
 I'm very excited for you, my little, and I hope you're excited too.
 
-With love, [Elin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elin). ❤
+With love, [elin](https://ceterai.github.io/MyEnternia/Wiki/Elin-Gardens). ❤
 
 ## Usage
 
@@ -82,6 +82,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elin-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`elin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elin), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

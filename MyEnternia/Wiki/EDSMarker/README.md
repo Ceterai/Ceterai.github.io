@@ -47,6 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_haulter_marker`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`patriotic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Patriotic), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

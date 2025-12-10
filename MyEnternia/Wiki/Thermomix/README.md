@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_thermomix_nade`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`nade`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nade), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -59,6 +59,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_notes_eds-codex`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Rare`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

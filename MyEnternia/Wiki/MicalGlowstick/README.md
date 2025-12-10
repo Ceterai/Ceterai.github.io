@@ -41,6 +41,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_glowstick_mical`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`glowstick`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Glowstick), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`mical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

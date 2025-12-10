@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Catalyst ★★★ icon" loading="lazy" width="auto" height="16px"/> **Catalyst ★★★** is a legendary medical item.
 
 Removes all effects from you. All of them.  
-A very powerful enhancer developed in an unknown [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) lab. It can basically "reset" the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" width="auto" height="16px"/> [bionic](https://ceterai.github.io/MyEnternia/Wiki/Bionics) body of any alta, clearing many processes and stopping non-essential chemical reactions.
+A very powerful enhancer developed in an unknown [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) lab. It can basically "reset" the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" width="auto" height="16px"/> [bionic](https://ceterai.github.io/MyEnternia/Wiki/Bionics) body of any alta, clearing many processes and stopping non-essential chemical reactions.
 
 ## Ingame
 
@@ -29,6 +29,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_catalyst`
+- Level: `6`
 - Power: `4.58`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`debug`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Debug), [`enhancer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancer), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

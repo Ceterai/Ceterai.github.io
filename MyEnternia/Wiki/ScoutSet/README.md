@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/scout.png" alt="Scout Set icon" loading="lazy" width="auto" height="16px"/> **Scout Set** is an uncommon loot item.
 
-Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scout, including a lore codex of this set.
+Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) scout, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
 Proper enhancement set to greatly improve one's mobility, while providing some protection and boosting energy to account for different scouting actions, like moving, scanning and using proto-tech.
 
@@ -45,6 +45,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_scout_set`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_scout`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaScout), [`set`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Set), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

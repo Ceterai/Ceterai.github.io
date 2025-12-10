@@ -23,7 +23,7 @@ Applies effects:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"/> [Yae Tea ★](https://ceterai.github.io/MyEnternia/Wiki/YaeTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"/> [Yae Tea ★](https://ceterai.github.io/MyEnternia/Wiki/YaeTea) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -80,6 +80,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_miko_tea`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`love`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Love), [`tea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tea), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)

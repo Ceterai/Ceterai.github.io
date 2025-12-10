@@ -1,6 +1,8 @@
 # Ionic Stroke
 
-Quickly degrades your energy. Once out of energy, damages you repeatedly with [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) electricity.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_stroke.png" alt="Ionic Stroke icon" loading="lazy" width="auto" height="16px"/> **Ionic Stroke** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
+Quickly degrades your energy. Once out of energy, damages you repeatedly with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) electricity.
 
 Applied by following weather:
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" width="auto" height="16px"/> **Security Armor** is an uncommon chest armor piece.
 
-A standard protocol armor piece for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security units.
+A standard protocol armor piece for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security units.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="GR Guard ★ icon" loading="lazy" width="auto" height="16px"/> [GR Guard ★](https://ceterai.github.io/MyEnternia/Wiki/GRGuard) at the Weapon Upgrade Anvil.
 
@@ -49,6 +49,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security_chest`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`tier4armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Armour), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

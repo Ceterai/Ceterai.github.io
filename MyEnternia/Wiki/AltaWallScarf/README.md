@@ -12,7 +12,7 @@ Can be crafted:
 
 - Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 5.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_alta_scarf_wall.png" alt="Alta Wall Scarf icon" loading="lazy" width="auto" height="16px"/> Alta Wall Scarf x*1*):
   - `cottonwool` x*4*
-  - `holidayspirit` x*4*
+  - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4*
   - `string` x*2*
   - <img src="https://starbounder.org/mediawiki/images/c/c9/Blue_Dye.png" alt="Blue Dye icon" loading="lazy" width="8px" height="12px"/> [Blue Dye](https://starbounder.org/Blue_Dye) x*1*
 
@@ -25,6 +25,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_scarf_wall`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cozy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cozy), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" width="auto" height="16px"/> **Minto Soup** is a legendary dish.
 
-A spicy variation on the traditional [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) soup. Has a chance to turn out a bit too spicy.  
+A spicy variation on the traditional [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) soup. Has a chance to turn out a bit too spicy.  
 The recipe has lots of variations, including maitai - a very spicy alta soup enjoyed by many altas.
 
 ## Ingame
@@ -15,8 +15,8 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_maitai_soup.png" alt="Maitai Soup icon" loading="lazy" width="auto" height="16px"/> [Maitai Soup](https://ceterai.github.io/MyEnternia/Wiki/MaitaiSoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Perfect Minto Soup ★ icon" loading="lazy" width="auto" height="16px"/> [Perfect Minto Soup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectMintoSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Perfect Minto Soup ★ icon" loading="lazy" width="auto" height="16px"/> [Perfect Minto Soup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectMintoSoup) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_maitai_soup.png" alt="Maitai Soup icon" loading="lazy" width="auto" height="16px"/> [Maitai Soup](https://ceterai.github.io/MyEnternia/Wiki/MaitaiSoup) (chance: 40.0%)
 
 ## Sources
 
@@ -57,6 +57,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_minto_soup`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)

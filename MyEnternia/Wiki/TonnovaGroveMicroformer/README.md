@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/tonnova/icon.png" alt="Tonnova Grove Microformer ★★ icon" loading="lazy" width="auto" height="16px"/> **Tonnova Grove Microformer ★★** is a legendary terraformer.
 
 Transforms an area of a planet into a tonnova forest. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Tonnova Grove](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove) is a piece of land lit by all the [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova) springs and trees. Watch out for falling <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> [tonnas](https://ceterai.github.io/MyEnternia/Wiki/Tonna)!
+[Tonnova Grove](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove) is a piece of land lit by all the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" width="16" height="16"/> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova) springs and trees. Watch out for falling <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> [tonnas](https://ceterai.github.io/MyEnternia/Wiki/Tonna)!
 
-Tonnova Groves are great mining sources of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid).
+Tonnova Groves are great mining sources of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid).
 
 ## Ingame
 
@@ -24,6 +24,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tonnova_grove_tf`
+- Level: `7`
 - Power: `4.8`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

@@ -1,5 +1,7 @@
 # 1/4 Falldamage
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" width="auto" height="16px"/> **1/4 Falldamage** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Decreases fall damage by 75%.
 
 <details markdown="1"><summary>Applied by following items: (Expand 8 items)</summary>

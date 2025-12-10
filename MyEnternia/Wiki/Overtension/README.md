@@ -1,5 +1,7 @@
 # Overtension
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"/> **Overtension** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 ## Parameters
 
 Blocking Stat: `ionicStatusImmunity`  

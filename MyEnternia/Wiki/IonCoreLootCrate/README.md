@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="Ion Core Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Ion Core Loot Crate** is a rare loot item.
 
-Contains random loot from alterash [ion core](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) chests.  
+Contains random loot from alterash <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" width="16" height="16"/> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) chests.  
 This mostly includes monitoring equipment, as well as some mysterious alta relics found throughout these areas.
 
 ## Ingame
@@ -57,6 +57,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ion_core_loot`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`ion_core`](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

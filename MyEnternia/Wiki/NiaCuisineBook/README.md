@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"/> **Nia Cuisine Book** is an uncommon codex entry.
 
-An ebook containing various energy-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) recipes and their history. (Unlocks some nia recipes)  
+An ebook containing various energy-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) recipes and their history. (Unlocks some nia recipes)  
 This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different nia recipes and the culture around them.
 
 ## Ingame
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-[Nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), or energy cuisine, is popular among sporty altas and makes up a big part of the [Enia Diet](https://ceterai.github.io/MyEnternia/Wiki/EniaDiet).
+[nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#nia), or energy cuisine, is popular among sporty altas and makes up a big part of the [Enia Diet](https://ceterai.github.io/MyEnternia/Wiki/EniaDiet).
 
 Some nia dishes, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" width="auto" height="16px"/> [ometonnas](https://ceterai.github.io/MyEnternia/Wiki/Ometonna), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" width="auto" height="16px"/> [zandarm tarts](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" width="auto" height="16px"/> [tonna shakes](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake), don't fall under that category.
 
@@ -77,6 +77,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_food_nia-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

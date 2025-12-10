@@ -38,6 +38,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_food_mimic-birthday_cake`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`cake`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cake), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine)

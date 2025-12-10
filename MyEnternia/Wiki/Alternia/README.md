@@ -1,8 +1,8 @@
-> Main page: [Energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy)
+> Main page: [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy)
 
 # Alternia
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="icon" loading="lazy" width="auto" height="16px"/> **Alternia** is a type of [Energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy) commonly found in [crystals](https://ceterai.github.io/MyEnternia/Wiki/Calin). This is the most common type of energy on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets and is considered to be a middleground the between other types - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="icon" loading="lazy" width="auto" height="16px"/> **Alternia** is a type of [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy) commonly found in [crystals](https://ceterai.github.io/MyEnternia/Wiki/Calin). This is the most common type of energy on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets and is considered to be a middleground the between other types - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia).
 
 Crystals with an overflowing amount of saturated alternia can be dangerous, as they are in a state of approaching a more unstable type of energy - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia). Areas with such saturation are referred to as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika).
 
@@ -15,7 +15,7 @@ Plasma projectiles often have **medium speed** and behave similar to **fire-base
 
 ## Immunity
 
-Immunity to all plasma effects is provided via <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="icon" width="16" height="16"/> [Plasma Status Immunity](https://ceterai.github.io/MyEnternia/Wiki/Alternia#immunity).  
+Immunity to all plasma effects is provided via <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="icon" width="16" height="16"/> [plasma status immunity](https://ceterai.github.io/MyEnternia/Wiki/Alternia#immunity).  
 Additionally, negative aspects of most plasma effects can be reduced or blocked with <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance).  
 Can be accquired via the use of items, for example:
 

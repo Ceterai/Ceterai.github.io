@@ -18,7 +18,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ghearun_drill`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mining`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mining)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`drill`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drill), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mining`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mining)
 - File: [`/items/active/alta/tools/mine/ghearun_drill/ct_ghearun_drill.miningtool`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/mine/ghearun_drill/ct_ghearun_drill.miningtool)

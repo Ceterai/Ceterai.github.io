@@ -8,7 +8,7 @@ A bionid capsule containing some luminescent material.
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: A lab capsule filled with glowing juice from bulbs of warped plants. It's called '[Yonnur](https://ceterai.github.io/MyEnternia/Wiki/Yonnur)'.
+- Alta: A lab capsule filled with glowing juice from bulbs of warped plants. It's called '[yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur)'.
 - Apex: Perhaps this object contains a glowing liquid material.
 - Avian: It glows in the dark!
 - Floran: Floran wonderssss what's inssside.
@@ -49,6 +49,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_capsule_purple`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

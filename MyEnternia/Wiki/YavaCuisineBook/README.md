@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"/> **Yava Cuisine Book** is an uncommon codex entry.
 
-An ebook containing various herb-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) recipes and their history. (Unlocks some yava recipes)  
+An ebook containing various herb-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) recipes and their history. (Unlocks some yava recipes)  
 This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different yava recipes and the culture around them.
 
 ## Ingame
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-[Yava cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine) is not as common among altas, used to crystals and pulps, compared to other cuisines.
+[yava cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#yava) is not as common among altas, used to crystals and pulps, compared to other cuisines.
 
 As the name suggests, this is a herb-based cuisine filled with various vitamins and natural textures.
 
@@ -72,6 +72,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_food_yava-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

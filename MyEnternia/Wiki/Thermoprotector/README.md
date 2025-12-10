@@ -28,7 +28,7 @@ Applies effects on knockback:
 
 ### Redistribution
 
-Provides an [Burning](https://ceterai.github.io/MyEnternia/Wiki/Burning) on knockback.  
+Provides an <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"/> [Burning](https://starbounder.org/Burning) on knockback.  
 Activate block fast enough (parry time) to perform a perfect block.
 
 ## Sources
@@ -43,6 +43,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_ioncore_shield-koywa`
+- Level: `4`
 - Power: `2.75`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`thermo`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Thermo), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

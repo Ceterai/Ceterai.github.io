@@ -53,6 +53,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_starflower_eco_pod`
+- Level: `8`
 - Power: `1.0`
 - Rarity: `Essential`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)

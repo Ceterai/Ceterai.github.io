@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> **Tonna** is a common throwable item.
 
-A [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova) fruit. Feels lighter than a coconut. You can throw it at someone or cook it!  
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" width="16" height="16"/> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova) fruit. Feels lighter than a coconut. You can throw it at someone or cook it!  
 Botanically speaking, this fruit is a nut. It has an outer semi-hard shell and a detached, soft white inside pulp, full of tonnova milk and nutrients.  
-The pulp has a soft, slightly sweet taste that turns into a porrige-like taste during cooking. This is why **tonna porriges** are a thing and are quite popular in the [nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine).
+The pulp has a soft, slightly sweet taste that turns into a porrige-like taste during cooking. This is why **tonna porriges** are a thing and are quite popular in the [nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#nia).
 
 ## Ingame
 
@@ -73,6 +73,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tonna`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`tonnova`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova)

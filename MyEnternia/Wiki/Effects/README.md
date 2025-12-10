@@ -1,6 +1,6 @@
 # Effects
 
-This mod adds 70 effects.
+The mod adds a total of 70 effects:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" width="auto" height="16px"/> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_analyzed.png" alt="Analyzed icon" loading="lazy" width="auto" height="16px"/> [Analyzed](https://ceterai.github.io/MyEnternia/Wiki/Analyzed)
@@ -67,8 +67,8 @@ This mod adds 70 effects.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/sad.png:1" alt="Sad icon" loading="lazy" width="auto" height="16px"/> [Sad](https://ceterai.github.io/MyEnternia/Wiki/Sad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" width="auto" height="16px"/> [Static Shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" width="auto" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
+- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="icon" loading="lazy" width="16px" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_tech_shield.png" alt="Tech Shield icon" loading="lazy" width="auto" height="16px"/> [Tech Shield](https://ceterai.github.io/MyEnternia/Wiki/TechShield)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/nova.png" alt="Thorn Burst icon" loading="lazy" width="auto" height="16px"/> [Thorn Burst](https://ceterai.github.io/MyEnternia/Wiki/ThornBurst)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/jumpboost.png" alt="Velocity Boost icon" loading="lazy" width="auto" height="16px"/> [Velocity Boost](https://ceterai.github.io/MyEnternia/Wiki/VelocityBoost)
+- <img src="https://starbounder.org/mediawiki/images/6/65/Status_Nova.png" alt="icon" loading="lazy" width="16px" height="16px"/> [Thorn Burst](https://ceterai.github.io/MyEnternia/Wiki/ThornBurst)
+- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="icon" loading="lazy" width="16px" height="16px"/> [Velocity Boost](https://ceterai.github.io/MyEnternia/Wiki/VelocityBoost)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" width="auto" height="16px"/> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)

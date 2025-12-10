@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance_2.png" alt="Eva Linn ★ icon" loading="lazy" width="auto" height="16px"/> **Eva Linn ★** is a legendary two-handed cryogenic sniper rifle.
 
-An advanced [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight) tool designed to withstand the cold and pressure in the skyes of Eva & [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera).
+An advanced [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight) tool designed to withstand the cold and pressure in the skyes of Eva & [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance.png" alt="Sky Lance icon" loading="lazy" width="auto" height="16px"/> [Sky Lance](https://ceterai.github.io/MyEnternia/Wiki/SkyLance).
 
@@ -20,7 +20,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Class: `AltaRanged`
 - Base Dps: 9
 - Energy Usage: 32
 - Fire Time: 1.6
@@ -40,15 +39,14 @@ Hold - launch an Icy Cloud Nade.
 
 Parameters:
 
-- Base Dps: 9
-- Hold Type: `nade`
-- Class: `AltaSwitch`
+- Energy Usage: 32
 - Fire Time: 0.5
 - Hold Params:
   - Type: `icecloudgrenade`
+- Hold Type: `nade`
 - Press Attachments: `True`
+- Base Dps: 9
 - Attachments:  `none`,  `laser`,  `stabilizer`
-- Energy Usage: 32
 
 ## Sources
 
@@ -62,6 +60,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_sky_lance-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arknights`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arknights), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sniperrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sniperrifle), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

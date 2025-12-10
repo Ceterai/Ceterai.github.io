@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png" alt="Hevika Javelin icon" loading="lazy" width="auto" height="16px"/> **Hevika Javelin** is a rare electric throwable item.
 
-A throwing spear made out of [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals. Can be used for hunting or upgraded at an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png" alt="Alta Crafting Station icon" loading="lazy" width="auto" height="16px"/> [alta crafting station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation).  
-**NS-Hev**, or the **Energy Conderblock**, originally meant for converting excessive [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) into kinetic energy. With a proper **hevika charger**, can generate that energy itself for additional power.  
+A throwing spear made out of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals. Can be used for hunting or upgraded at an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png" alt="Alta Crafting Station icon" loading="lazy" width="auto" height="16px"/> [alta crafting station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation).  
+**NS-Hev**, or the **Energy Conderblock**, originally meant for converting excessive <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) into kinetic energy. With a proper **hevika charger**, can generate that energy itself for additional power.  
 This prototype became popular with [dreamers](https://ceterai.github.io/MyEnternia/Wiki/Dreamer), which led to development of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" width="auto" height="16px"/> [ion javelins](https://ceterai.github.io/MyEnternia/Wiki/IonJavelin).
 
 ## Usage
@@ -41,6 +41,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hevika_javelin`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`hevika`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), [`hunting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hunting), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

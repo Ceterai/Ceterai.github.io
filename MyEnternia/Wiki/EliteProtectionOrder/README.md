@@ -84,6 +84,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elite-codex`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`elite`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elite), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Special Mimosa ★★ icon" loading="lazy" width="auto" height="16px"/> **Special Mimosa ★★** is a legendary dish.
 
-A special version of mimosa salad made of the finest [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) fruits and spices.  
+A special version of mimosa salad made of the finest [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) fruits and spices.  
 The recipe follows an original concept of a layered sauce-like salad.
 
 ## Ingame
@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"/> [Lenn's Mimosa ★★★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"/> [Lenn's Mimosa ★★★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
@@ -56,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_special_mimosa`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`new_year`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NewYear), [`salad`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Salad)

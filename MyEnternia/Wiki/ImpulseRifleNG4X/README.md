@@ -26,32 +26,32 @@ Firemodes: charge, semiauto.
 
 Parameters:
 
-- Base Dps: 6
-- Default Fire Type: `charge`
-- Fire Types:
-  - Charge:
-    - Hold Params:
-      - Sound: `primary_hold`
-      - Type: `ct_impulse_large`
-      - Inaccuracy: 0.001
-    - Press Type: `blast`
-    - Hold Loop: `charging`
-    - Press Params:
-      - Sound: `primary_press`
-      - Type: `ct_impulse_medium`
-      - Inaccuracy: 0.001
-    - Hold Start: `charge`
-    - Hold Type: `blast`
-  - Semi:
-    - Press Params:
-      - Interval: 0.1
-      - Type: `ct_impulse_medium`
-      - Count: 2
-      - Inaccuracy: 0.001
-    - Press Type: `semi`
-    - Hold Time Max:
 - Energy Usage: 32
 - Fire Time: 0.7
+- Fire Types:
+  - Charge:
+    - Press Params:
+      - Sound: `primary_press`
+      - Inaccuracy: 0.001
+      - Type: `ct_impulse_medium`
+    - Hold Type: `blast`
+    - Hold Loop: `charging`
+    - Hold Params:
+      - Sound: `primary_hold`
+      - Inaccuracy: 0.001
+      - Type: `ct_impulse_large`
+    - Hold Start: `charge`
+    - Press Type: `blast`
+  - Semi:
+    - Press Params:
+      - Inaccuracy: 0.001
+      - Interval: 0.1
+      - Count: 2
+      - Type: `ct_impulse_medium`
+    - Hold Time Max:
+    - Press Type: `semi`
+- Base Dps: 6
+- Default Fire Type: `charge`
 
 ### Security Switch
 
@@ -76,6 +76,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_impulse_rifle-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`assaultrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Assaultrifle), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`impulse`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

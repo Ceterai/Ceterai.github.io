@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ceterai.png" alt="C.T. Alternia Set icon" loading="lazy" width="auto" height="16px"/> **C.T. Alternia Set** is a legendary loot item.
 
-Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) Project Ceterai researcher, including a lore codex of this set.
+Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) Project Ceterai researcher, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
-A dark set of powerarmor with enhanced [alternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia) synergy. It boosts the wearer's performance, while increasing energy capabilities significantly.
+A dark set of powerarmor with enhanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) synergy. It boosts the wearer's performance, while increasing energy capabilities significantly.
 
 ## Ingame
 
@@ -47,6 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ceterai_set`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ceterai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`set`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Set)

@@ -51,6 +51,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_flower_bed`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`flower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Flower), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`potted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Potted), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)

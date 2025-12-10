@@ -37,6 +37,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_nia_cocktail-stardust`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cocktail`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cocktail), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)

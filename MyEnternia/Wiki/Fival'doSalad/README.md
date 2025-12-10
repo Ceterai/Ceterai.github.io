@@ -24,7 +24,7 @@ Applies effects:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" width="auto" height="16px"/> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" width="auto" height="16px"/> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -89,6 +89,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_fivaldo_salad`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`salad`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Salad)

@@ -42,6 +42,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_yaarings-alien_pearls`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`snack`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Snack), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

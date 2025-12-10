@@ -13,6 +13,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_pick-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mining`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mining), [`miningtool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Miningtool), [`pickaxe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pickaxe), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

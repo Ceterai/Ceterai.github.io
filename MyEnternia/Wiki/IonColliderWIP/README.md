@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 ### Wobblenaut
 
-Weird enchanted innards make this weapon shoot bursts or [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) plasma on the button press, and launch weird wobbly [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) spheres on hold.
+Weird enchanted innards make this weapon shoot bursts or <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice) plasma on the button press, and launch weird wobbly <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice) spheres on hold.
 
 Parameters:
 
@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ion_collider`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`wand`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wand), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

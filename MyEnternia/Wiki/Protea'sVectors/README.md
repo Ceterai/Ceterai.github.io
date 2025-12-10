@@ -22,7 +22,7 @@ Radiomessages on pickup:
 Applies effects:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" width="auto" height="16px"/> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" width="auto" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
+- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="icon" loading="lazy" width="16px" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters)
 - `fallDamageMultiplier` +0%
 - `knockbackThreshold` +3.0
 - <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +60.0%
@@ -48,6 +48,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_scout_velocity_eaters-upgrade`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`protea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Protea), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

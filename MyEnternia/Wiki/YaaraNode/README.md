@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_node.png" alt="Yaara Node icon" loading="lazy" width="auto" height="16px"/> **Yaara Node** is a common tree sapling.
 
-These [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) "trees" are actually nodes of intertwined yaara growth. Though they look like trees, technically they're more like bushes.
+These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) "trees" are actually nodes of intertwined yaara growth. Though they look like trees, technically they're more like bushes.
 
 ## Ingame
 
@@ -101,6 +101,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_yaara_node`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)

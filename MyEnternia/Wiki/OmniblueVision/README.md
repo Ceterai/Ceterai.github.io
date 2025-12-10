@@ -1,5 +1,7 @@
 # Omniblue Vision
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"/> **Omniblue Vision** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Creates a strong beam of blue light in front of you as well as slightly lights up the area.
 
 <details markdown="1"><summary>Applied by following items: (Expand 10 items)</summary>

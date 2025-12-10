@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/astera/icon.png" alt="Enternia Asteroids Microformer ★★★ icon" loading="lazy" width="auto" height="16px"/> **Enternia Asteroids Microformer ★★★** is a legendary terraformer.
 
 Transforms an area of a planet into astera. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Enternia Asteroids](https://ceterai.github.io/MyEnternia/Wiki/EnterniaAsteroids) are massive rocks made mostly of [moonrock](https://ceterai.github.io/MyEnternia/Wiki/moonrock) and [obsidian](https://ceterai.github.io/MyEnternia/Wiki/Tags/Obsidian), that are floating peacefully amidst the spacelands of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera). Here you can find tier 5 ores like [aegisalt ore](https://ceterai.github.io/MyEnternia/Wiki/aegisaltore), [ferozium ore](https://ceterai.github.io/MyEnternia/Wiki/feroziumore) and [violium ore](https://ceterai.github.io/MyEnternia/Wiki/violiumore).
+[Enternia Asteroids](https://ceterai.github.io/MyEnternia/Wiki/EnterniaAsteroids) are massive rocks made mostly of <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"/> [moonrock](https://starbounder.org/Moonrock) and <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" width="10px" height="10px"/> [obsidian](https://starbounder.org/Obsidian), that are floating peacefully amidst the spacelands of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera). Here you can find tier 5 ores like <img src="https://starbounder.org/mediawiki/images/7/78/Aegisalt_Ore.png" alt="Aegisalt icon" loading="lazy" width="16px" height="16px"/> [aegisalt ore](https://starbounder.org/Aegisalt_Ore), <img src="https://starbounder.org/mediawiki/images/b/b8/Ferozium_Ore.png" alt="Ferozium icon" loading="lazy" width="16px" height="16px"/> [ferozium ore](https://starbounder.org/Ferozium_Ore) and <img src="https://starbounder.org/mediawiki/images/3/3a/Violium_Ore.png" alt="Violium icon" loading="lazy" width="16px" height="16px"/> [violium ore](https://starbounder.org/Violium_Ore).
 
 However, something is odd about these "rocks"... Do you feel tired?
 
@@ -24,6 +24,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_enternia_asteroids_tf`
+- Level: `7`
 - Power: `5.2`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`astera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

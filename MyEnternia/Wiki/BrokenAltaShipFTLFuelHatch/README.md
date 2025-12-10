@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/fuel_hatch/icon.png" alt="Broken Alta Ship FTL Fuel Hatch icon" loading="lazy" width="auto" height="16px"/> **Broken Alta Ship FTL Fuel Hatch** is a common object.
 
-A broken FTL fuel hatch for some [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) machinery. This won't do!
+A broken FTL fuel hatch for some [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) machinery. This won't do!
 
 ## Ingame
 
@@ -26,6 +26,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_fuel_hatch_broken`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ruin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaRuin), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common)

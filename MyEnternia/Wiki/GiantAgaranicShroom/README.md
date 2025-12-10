@@ -49,6 +49,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_agaranic1`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`agaranic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Agaranic), [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`shroom`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shroom)

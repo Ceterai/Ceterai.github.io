@@ -1,6 +1,6 @@
 # Paintings
 
-This mod adds 12 paintings.
+The mod adds a total of 12 paintings:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"/> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_starfields_art.png" alt="Alien Mounds icon" loading="lazy" width="auto" height="16px"/> [Alien Mounds](https://ceterai.github.io/MyEnternia/Wiki/AlienMounds)

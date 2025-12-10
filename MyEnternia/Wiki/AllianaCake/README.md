@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" width="auto" height="16px"/> **Alliana Cake** is a legendary dish.
 
-This delicious cake is named after the first and the biggest [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) capital and its empress.  
+This delicious cake is named after the first and the biggest [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) capital and its empress.  
 The layers are mostly souffle-based with soft, wet sweet aya dough as foundation.
 
 ## Ingame
@@ -15,8 +15,8 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" width="auto" height="16px"/> [Orchid Cake](https://ceterai.github.io/MyEnternia/Wiki/OrchidCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" width="auto" height="16px"/> [Orchid Cake](https://ceterai.github.io/MyEnternia/Wiki/OrchidCake) (chance: 30.0%)
 
 ## Usage
 
@@ -60,6 +60,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alliana_cake`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cake`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cake), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine)

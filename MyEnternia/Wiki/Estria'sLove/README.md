@@ -39,6 +39,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_food_mimic-estria_love`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cake`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cake), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> **Bionid** is an uncommon crafting material.
 
-These biocrystals are a complex combination of cells and crystal molecules called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid). Can be refined into different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound).  
+These biocrystals are a complex combination of cells and crystal molecules called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid). Can be refined into different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound).  
 This organic material is often obtained from biocrystal growth, like tonnovas, bulbonid stems, and rarely in form of simple deposits. It's natural luminescent abilities make it easy to detect, but it's complex bion connections require special tools to break apart. For this reason, materials made from bion compounds are very sturdy and agile, making it perfect for producing things like bulletproof cloth.
 
 Bionid is a natural <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" width="auto" height="16px"/> [bionic](https://ceterai.github.io/MyEnternia/Wiki/Bionics), and its bioluminescent glow comes from its ability to effectively turn energy into light-producing chemical reactions.  
@@ -92,6 +92,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bionid`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`armor`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Armor), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

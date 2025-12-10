@@ -1,5 +1,7 @@
 # Crystal-Poisoned
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"/> **Crystal-Poisoned** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Decreases your electric and poison resistance by 15%.
 
 <details markdown="1"><summary>Applied by following items: (Expand 8 items)</summary>

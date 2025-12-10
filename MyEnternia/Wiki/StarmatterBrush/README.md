@@ -11,6 +11,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_starmatter_brush`
+- Level: `7`
 - Power: `4.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`fossilbrush`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fossilbrush), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

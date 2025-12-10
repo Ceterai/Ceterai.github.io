@@ -37,6 +37,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_grass_nade`
+- Level: `7`
 - Power: `4.0`
 - Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`plant_tool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantTool)
 - File: [`/items/active/alta/tools/plant/nade/ct_alta_grass_nade.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/plant/nade/ct_alta_grass_nade.thrownitem)

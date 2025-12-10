@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR Animus Prototype ★★ icon" loading="lazy" width="auto" height="16px"/> **GR "Animus" Prototype ★★** is a legendary head armor piece.
 
 A high-tech enternia artifact that hides unknown power. And your face with it.  
-Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
+Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [breath protection](https://starbounder.org/Breathing_EPP).  
 Its energy transceptors fuel your systems with enternia, resulting in a centralized protosystem.
 
 ## Ingame
@@ -40,6 +40,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_security_helmet-enternia`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`animus`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Animus), [`enternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

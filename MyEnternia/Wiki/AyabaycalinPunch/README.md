@@ -55,6 +55,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_heecho_punch-ayaka`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`punch`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Punch), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

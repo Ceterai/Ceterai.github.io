@@ -74,6 +74,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_flowersword`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`flower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Flower), [`haven`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`shortsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shortsword), [`toxic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toxic), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

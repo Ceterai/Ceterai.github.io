@@ -1,5 +1,7 @@
 # Autoanalyzer
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" width="auto" height="16px"/> **Autoanalyzer** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Analyzes enemies around you, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_analyzed.png" alt="Analyzed icon" loading="lazy" width="auto" height="16px"/> [Analyzed](https://ceterai.github.io/MyEnternia/Wiki/Analyzed) to them.
 
 <details markdown="1"><summary>Applied by following items: (Expand 11 items)</summary>

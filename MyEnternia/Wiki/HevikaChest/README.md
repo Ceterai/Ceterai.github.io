@@ -91,6 +91,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hevika_chest`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`hevika`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), [`mechanical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mechanical), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

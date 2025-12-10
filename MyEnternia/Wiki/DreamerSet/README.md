@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/dreamer.png" alt="Dreamer Set icon" loading="lazy" width="auto" height="16px"/> **Dreamer Set** is a legendary loot item.
 
-Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) dreamer, including a lore codex of this set.
+Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) dreamer, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
 A set that emphasizes a dreamer's surge of enternia - it supplies you with life energy, making it safer to deal with this much enternia, but also uses it against you targets, making it easier to deal with more aggressive prey.
 
@@ -47,6 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_dreamer_set`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`dreamer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dreamer), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`set`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Set)

@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"/> **Runeva Cuisine Book** is an uncommon codex entry.
 
-An ebook containing various fruit-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) recipes and their history. (Unlocks some runeva recipes)  
-This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different runeva recipes and the [alta culture](https://ceterai.github.io/MyEnternia/Wiki/altaculture) around them. Good to have one if you're stuck on an [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planet.
+An ebook containing various fruit-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) recipes and their history. (Unlocks some runeva recipes)  
+This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different runeva recipes and the [alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) around them. Good to have one if you're stuck on an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planet.
 
 Though some of the mentioned dishes are not included in this issue, it provides a brief description on each of them.
 
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-[Runeva cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine) is based on the triad of commonly found alta fruits - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"/> [aya](https://ceterai.github.io/MyEnternia/Wiki/Aya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"/> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"/> [tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay). Together, these three ingredients are able to produce a vast variety of tastes and textures.
+[runeva cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#runeva) is based on the triad of commonly found alta fruits - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"/> [aya](https://ceterai.github.io/MyEnternia/Wiki/Aya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"/> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"/> [tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay). Together, these three ingredients are able to produce a vast variety of tastes and textures.
 
 Something as simple as a [runeva assorti](https://ceterai.github.io/MyEnternia/Wiki/runevaassorti) can have different feelings to it depending on ratios and preparation methods.
 
@@ -41,7 +41,7 @@ More complicated examples, like [Gil Tarts](https://ceterai.github.io/MyEnternia
 
 [Tsay-Gil Jam](https://ceterai.github.io/MyEnternia/Wiki/Tsay-GilJam) is a pretty bitter yet soft jam that sticks well to many dishes and gives them a nice aftertaste.
 
-[Alterash Breeze](https://ceterai.github.io/MyEnternia/Wiki/AlterashBreeze) is a refreshing drink that smells similar to [blossoming ayaka valleys](https://ceterai.github.io/MyEnternia/Wiki/blossomingayakavalleys) found on [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets.
+[Alterash Breeze](https://ceterai.github.io/MyEnternia/Wiki/AlterashBreeze) is a refreshing drink that smells similar to [blossoming ayaka valleys](https://ceterai.github.io/MyEnternia/Wiki/blossomingayakavalleys) found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets.
 
 [Allibanas](https://ceterai.github.io/MyEnternia/Wiki/Allibanas) are small dishes named after [Alliana](https://ceterai.github.io/MyEnternia/Wiki/Alliana). They're served warm and are meant to be eaten right away.
 
@@ -96,6 +96,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_food_runeva-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

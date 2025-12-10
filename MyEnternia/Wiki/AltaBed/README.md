@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_bed`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - File: [`/objects/alta/basic/bed/ct_alta_bed.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/basic/bed/ct_alta_bed.object)

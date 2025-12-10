@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" width="auto" height="16px"/> **Warped Hive** is an uncommon poisonous throwable item.
 
 A hive of [warped flies](https://ceterai.github.io/MyEnternia/Wiki/warpedflies). These tiny poisonous creatures can become quite a threat when a hive is disturbed.  
-These hives can be grown like plants. Sometimes they can grow to enormous sizes, forming [warped hive trees](https://ceterai.github.io/MyEnternia/Wiki/warpedhivetrees). These kinds of mutations are a natural process for all [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) forms of life.
+These hives can be grown like plants. Sometimes they can grow to enormous sizes, forming [warped hive trees](https://ceterai.github.io/MyEnternia/Wiki/warpedhivetrees). These kinds of mutations are a natural process for all <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) forms of life.
 
 The hive seems is filled with delicious **warped honey**, often used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) for cooking.
 
@@ -80,6 +80,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_hive`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

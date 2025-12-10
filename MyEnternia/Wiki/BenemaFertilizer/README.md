@@ -1,6 +1,6 @@
 # Benema Fertilizer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"/> **Benema Fertilizer** is an uncommon food item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"/> **Benema Fertilizer** is an uncommon tool.
 
 Oxygen-rich fertilizer for underpater plants. Will likely poison you if consumed directly.
 
@@ -18,7 +18,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"/> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 7 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"/> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
@@ -26,6 +26,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" width="auto" height="16px"/> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_hive_tree.png" alt="Ionic Hive Stalk icon" loading="lazy" width="auto" height="16px"/> [Ionic Hive Stalk](https://ceterai.github.io/MyEnternia/Wiki/IonicHiveStalk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" width="auto" height="16px"/> [Potted Calocol Tulip](https://ceterai.github.io/MyEnternia/Wiki/PottedCalocolTulip)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/cocola/icon.png" alt="Potted Cocola icon" loading="lazy" width="auto" height="16px"/> [Potted Cocola](https://ceterai.github.io/MyEnternia/Wiki/PottedCocola)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/voda/icon.png" alt="Potted Vodakoywa icon" loading="lazy" width="auto" height="16px"/> [Potted Vodakoywa](https://ceterai.github.io/MyEnternia/Wiki/PottedVodakoywa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/pod/icon.png" alt="Sonava Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Sonava Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/SonavaEcoPod)
 
 </details>
@@ -67,6 +69,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_benema_fertilizer`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`fertilizer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fertilizer), [`seafood`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Seafood), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

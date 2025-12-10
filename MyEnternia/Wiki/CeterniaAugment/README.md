@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ceternia_augment.png" alt="Ceternia Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Ceternia Augment ★★** is a legendary EPP augment.
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" width="auto" height="16px"/> [Ceter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Ceter-EPP), condensed into an augment.
-Adds 25% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity).
+Adds 25% <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"/> [electric resistance](https://starbounder.org/Electric_Resistance), <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Immunity](https://starbounder.org/Electric_Resistance) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_impulse_block.png" alt="icon" width="16" height="16"/> [impulse immunity](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#immunity).
 
 ## Ingame
 
@@ -55,6 +55,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_ceternia_augment`
+- Level: `6`
 - Power: `4.2`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`ceternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

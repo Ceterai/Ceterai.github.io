@@ -118,6 +118,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gharus_spice`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - File: [`/items/generic/food/other/ct_gharus_spice.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/other/ct_gharus_spice.item)

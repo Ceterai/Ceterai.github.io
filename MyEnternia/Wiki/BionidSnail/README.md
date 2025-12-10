@@ -33,6 +33,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bionid_snail_af`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`bug`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bug), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

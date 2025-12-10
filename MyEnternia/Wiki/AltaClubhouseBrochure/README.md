@@ -95,6 +95,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_calin-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

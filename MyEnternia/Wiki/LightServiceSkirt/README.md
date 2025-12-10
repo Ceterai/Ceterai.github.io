@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_skirt/icon.png" alt="Light Service Skirt icon" loading="lazy" width="auto" height="16px"/> **Light Service Skirt** is a common leg cosmetic item.
 
-A bottom issue for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) servicers who prefer skirts over trousers.
+A bottom issue for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) servicers who prefer skirts over trousers.
 
 ## Usage
 
@@ -27,6 +27,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_service_skirt-light`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - File: [`/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/service_skirt/ct_alta_service_skirt.legs)

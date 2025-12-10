@@ -21,10 +21,15 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Bastion Stand
 
-A sequence of 4 _(+1)_ heavy strikes. Hold to perform a [Rising Slash](https://ceterai.github.io/MyEnternia/Wiki/RisingSlash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).
+A sequence of 4 _(+1)_ heavy strikes. Hold to perform a [rising slash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Rising-Slash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).
 
 Parameters:
 
+- Energy Usage: 32
+- Fire Time: 1.1
+- Hold Params:
+  - Cooldown Time: 0.2
+  - Energy Factor: 1.0
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -48,12 +53,6 @@ Parameters:
 - Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
 - Swoosh Sound: `primary_hold`
 - Base Dps: 12
-- Class: `RisingSlash`
-- Fire Time: 1.1
-- Hold Params:
-  - Cooldown Time: 0.2
-  - Energy Factor: 1.0
-- Energy Usage: 32
 
 ### Elerune CDR Barrage
 
@@ -61,18 +60,6 @@ Launches stabilizing Ion Rockets that deal electric damage. _Press for 1 or hold
 
 Parameters:
 
-- Base Dps: 9
-- Hold Type: `blast`
-- Class: `AltaRanged`
-- Fire Time: 1.2
-- Hold Params:
-  - Params:
-    - Time To Live: 5.0
-    - Knockback: 15
-  - Count: 3
-  - Offset:  -0.75,  5.0
-  - Interval: 0.1
-  - Type: `ct_ionic_large`
 - Press Params:
   - Type: `ct_ionic_large`
   - Inaccuracy:
@@ -81,7 +68,17 @@ Parameters:
   - Offset:  -0.45,  5.0
 - Press Type: `blast`
 - Energy Usage: 36
-- Scripts:  `/items/active/weapons/ranged/alta/ranged.lua`
+- Fire Time: 1.2
+- Hold Params:
+  - Count: 3
+  - Type: `ct_ionic_large`
+  - Offset:  -0.75,  5.0
+  - Params:
+    - Knockback: 15
+    - Time To Live: 5.0
+  - Interval: 0.1
+- Hold Type: `blast`
+- Base Dps: 9
 
 ## Sources
 
@@ -95,6 +92,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_eds_claymore-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

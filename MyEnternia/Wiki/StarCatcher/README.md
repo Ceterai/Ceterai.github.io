@@ -11,6 +11,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_star_catcher`
+- Level: `7`
 - Power: `1.0`
 - Rarity: `Legendary`
 - File: [`/items/active/alta/tools/rods/star_catcher/ct_star_catcher.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/rods/star_catcher/ct_star_catcher.activeitem)

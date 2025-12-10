@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_astera_augment.png" alt="Astera Augment icon" loading="lazy" width="auto" height="16px"/> **Astera Augment** is a legendary EPP augment.
 
-An [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera) EPP module that gives you additional protection.
+An [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera) EPP module that gives you additional protection.
 
 ## Ingame
 
@@ -42,6 +42,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_astera_augment`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`astera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

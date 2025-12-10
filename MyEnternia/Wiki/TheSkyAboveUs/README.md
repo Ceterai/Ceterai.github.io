@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-The sky above [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) always sparkled with a mysterious starry glow.
+The sky above <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) always sparkled with a mysterious starry glow.
 
 No matter when you raise your head, it always seems as if above you, high in the sky, there is an endless, crystal-clear ocean, full of coral caramel reefs, beautiful clots of sugar foam and magical, distant dreams and wishes.
 
@@ -67,6 +67,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_evarus-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`eva`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eva), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

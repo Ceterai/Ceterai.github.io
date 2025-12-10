@@ -11,6 +11,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_celestial_rod`
+- Level: `8`
 - Power: `1.0`
 - Rarity: `Essential`
 - File: [`/items/active/alta/tools/rods/celestial_rod/ct_celestial_rod.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/rods/celestial_rod/ct_celestial_rod.activeitem)

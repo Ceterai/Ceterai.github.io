@@ -45,6 +45,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_lab_barrier`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`hazard`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hazard), [`trap`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Trap), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`wired`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wired)

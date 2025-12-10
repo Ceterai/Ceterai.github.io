@@ -37,6 +37,7 @@ Can be used to craft:
 - `flowerylegs`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/master/farming.png" alt="Master Farming Pack icon" loading="lazy" width="auto" height="16px"/> [Master Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/MasterFarmingPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"/> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/cocola/icon.png" alt="Potted Cocola icon" loading="lazy" width="auto" height="16px"/> [Potted Cocola](https://ceterai.github.io/MyEnternia/Wiki/PottedCocola)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" width="auto" height="16px"/> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush)
 
 ### Storage
@@ -71,6 +72,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_composite_flower_pot`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

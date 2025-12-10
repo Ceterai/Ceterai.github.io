@@ -96,6 +96,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_phospholion`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`armor`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Armor), [`phospholion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Phospholion), [`radiation`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Radiation), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

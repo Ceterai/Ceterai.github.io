@@ -43,6 +43,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_food_mimic-sentia_crown_pie`
+- Level: `5`
 - Power: `3.3`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`pie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pie), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)

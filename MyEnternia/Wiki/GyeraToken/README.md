@@ -57,6 +57,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gyera_token`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - File: [`/items/generic/other/ct_gyera_token.item`](https://github.com/Ceterai/Enternia/blob/main/items/generic/other/ct_gyera_token.item)

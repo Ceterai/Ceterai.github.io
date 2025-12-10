@@ -42,6 +42,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_defensive_droid`
+- Level: `5`
 - Power: `3.58`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`citadel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel), [`droid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Droid), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)

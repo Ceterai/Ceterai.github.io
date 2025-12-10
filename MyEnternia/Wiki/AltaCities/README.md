@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-Alta cities are relatively small but highly urbanized settlements that can occasionally be found on [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets. Despite their size and short buildings, such cities have fairly large populations.  
+Alta cities are relatively small but highly urbanized settlements that can occasionally be found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets. Despite their size and short buildings, such cities have fairly large populations.  
 This is mainly due to the rather dense structure of such cities, where instead of wide road lanes, endless parking lots and large squares, preferences go to small parks, sunny alleys and small streets with tram lines.
 
 Autotrains are the main way to quickly travel around such cities. Not very fast, but incredibly convenient, free fruits of a well-thought-out public transport infrastructure, occasionally passing quietly from stop to stop, they hardly bother countless alta pedestrians.
@@ -88,6 +88,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_city-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

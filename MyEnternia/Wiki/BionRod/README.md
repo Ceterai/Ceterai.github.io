@@ -18,6 +18,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bion_rod`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - File: [`/items/active/alta/tools/rods/bion_rod/ct_bion_rod.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/rods/bion_rod/ct_bion_rod.activeitem)

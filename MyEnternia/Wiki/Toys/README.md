@@ -1,6 +1,6 @@
 # Toys
 
-This mod adds 51 toys.
+The mod adds a total of 51 toys:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/basic/icon.png" alt="Alta Bow icon" loading="lazy" width="auto" height="16px"/> [Alta Bow](https://ceterai.github.io/MyEnternia/Wiki/AltaBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/cannon/icon.png" alt="Alta Bubble Cannon icon" loading="lazy" width="auto" height="16px"/> [Alta Bubble Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbleCannon)
@@ -11,7 +11,6 @@ This mod adds 51 toys.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/hard/body.png" alt="Alta Dart Hardboard icon" loading="lazy" width="auto" height="16px"/> [Alta Dart Hardboard](https://ceterai.github.io/MyEnternia/Wiki/AltaDartHardboard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/mega/body.png" alt="Alta Dart Megaboard icon" loading="lazy" width="auto" height="16px"/> [Alta Dart Megaboard](https://ceterai.github.io/MyEnternia/Wiki/AltaDartMegaboard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/super/body.png" alt="Alta Dart Superboard icon" loading="lazy" width="auto" height="16px"/> [Alta Dart Superboard](https://ceterai.github.io/MyEnternia/Wiki/AltaDartSuperboard)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/flashlight/icon.png" alt="Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> [Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/AltaFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Kinetic Javelin icon" loading="lazy" width="auto" height="16px"/> [Alta Kinetic Javelin](https://ceterai.github.io/MyEnternia/Wiki/AltaKineticJavelin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"/> [Alta Neon Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonBubbleWand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane.png" alt="Alta Plane icon" loading="lazy" width="auto" height="16px"/> [Alta Plane](https://ceterai.github.io/MyEnternia/Wiki/AltaPlane)
@@ -48,6 +47,7 @@ This mod adds 51 toys.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_sonaveil_popper.png" alt="Sonaveil Popper icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Popper](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPopper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/stardust/icon.png" alt="Stardust Bubble Wand icon" loading="lazy" width="auto" height="16px"/> [Stardust Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/StardustBubbleWand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_stardust_popper.png" alt="Stardust Popper icon" loading="lazy" width="auto" height="16px"/> [Stardust Popper](https://ceterai.github.io/MyEnternia/Wiki/StardustPopper)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/flashlight/icon.png" alt="Toy Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> [Toy Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/ToyAltaFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Toy Drone ★★ icon" loading="lazy" width="auto" height="16px"/> [Toy Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/ToyDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_valley_poptop_plush.png" alt="Valley Poptop Plushie ★ icon" loading="lazy" width="auto" height="16px"/> [Valley Poptop Plushie ★](https://ceterai.github.io/MyEnternia/Wiki/ValleyPoptopPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_vizhus_worm.png" alt="Vizhus Worm Plushie icon" loading="lazy" width="auto" height="16px"/> [Vizhus Worm Plushie](https://ceterai.github.io/MyEnternia/Wiki/VizhusWormPlushie)

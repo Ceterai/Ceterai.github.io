@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Shroomic Loot Crate** is an uncommon loot item.
 
-Contains random loot from [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) depth biome chests.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) depth biome chests.  
 High levels of toxicity are a common case with this category of crates, thus the High Toxicity markings all over the casing.
 
 ## Ingame
@@ -72,6 +72,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_shroomic_loot`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`aric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

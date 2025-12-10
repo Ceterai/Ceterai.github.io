@@ -21,6 +21,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_stardust_orchid_art`
+- Level: `7`
 - Power: `4.4`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting)

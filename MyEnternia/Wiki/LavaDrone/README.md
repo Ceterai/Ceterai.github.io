@@ -25,7 +25,7 @@ Using the heat from outside environment, it can generate according charges with 
 ### Magma-Robot
 
 Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics).
-Deals [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage on touch, applying [Burning](https://ceterai.github.io/MyEnternia/Wiki/Burning).  
+Deals [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage on touch, applying <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"/> [Burning](https://starbounder.org/Burning).  
 Due to used materials and airtight design, it's almost completely resistant to lava.
 
 ## Sources
@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_lava_drone`
+- Level: `6`
 - Power: `4.17`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`droid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Droid), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`lava`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Lava), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)

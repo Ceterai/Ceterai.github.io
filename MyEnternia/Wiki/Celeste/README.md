@@ -19,12 +19,11 @@ Radiomessages on pickup:
 
 ### Celestial Strike
 
-**WIP**. A combo of 6 strikes. Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+**WIP**. A combo of 6 strikes. Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 It feels its connection to the sword, as it feels its connection to Io herself. This is a celestial level of power.
 
 Parameters:
 
-- Class: `BladeCharge`
 - Base Dps: 16
 - Fire Time: 0.7
 - Damage Config:
@@ -84,6 +83,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_celeste`
+- Level: `6`
 - Power: `4.54`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`celestia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Celestia), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

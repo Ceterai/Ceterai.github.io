@@ -69,6 +69,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_stardust_eco_pod`
+- Level: `7`
 - Power: `4.0`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`plant_pod`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantPod), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)

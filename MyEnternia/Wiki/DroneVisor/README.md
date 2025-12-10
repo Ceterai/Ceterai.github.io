@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_drone_visor`
+- Level: `5`
 - Power: `3.3`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`trophy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Trophy), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

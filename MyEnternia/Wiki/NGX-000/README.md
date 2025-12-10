@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_ngx000.png" alt="NGX-000 ★★ icon" loading="lazy" width="auto" height="16px"/> **NGX-000 ★★** is a legendary two-handed electric sniper rifle.
 
-A secret prototype, found by a scouting group among ruins of an unknown [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) lab. Some say this weapon was the cause of this ruin.
+A secret prototype, found by a scouting group among ruins of an unknown [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) lab. Some say this weapon was the cause of this ruin.
 
 ## Ingame
 
@@ -18,7 +18,6 @@ Blasts accelerated [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic)
 
 Parameters:
 
-- Class: `AltaRanged`
 - Base Dps: 11
 - Energy Usage: 40
 - Fire Time: 2.0
@@ -47,7 +46,6 @@ Hold - launch a Shockbomb.
 
 Parameters:
 
-- Class: `AltaSwitch`
 - Base Dps: 11
 - Energy Usage: 40
 - Fire Time: 0.5
@@ -79,6 +77,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ngx000`
+- Level: `6`
 - Power: `4.19`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`sniperrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sniperrifle), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

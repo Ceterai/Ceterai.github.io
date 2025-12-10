@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/teleporter/icon.png" alt="EDS Teleporter icon" loading="lazy" width="auto" height="16px"/> **EDS Teleporter** is a legendary teleportation device.
 
-A personal [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) teleporter, connects to bookmarked locations. This doesn't seem to be [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) technology.
+A personal [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) teleporter, connects to bookmarked locations. This doesn't seem to be [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) technology.
 
 ## Ingame
 
@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_teleporter`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc)

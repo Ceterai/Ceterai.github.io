@@ -32,6 +32,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elunya_statue`
+- Level: `9`
 - Power: `5.0`
 - Rarity: `Essential`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_special`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSpecial), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`massive`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Massive), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)

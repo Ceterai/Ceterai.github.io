@@ -36,6 +36,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_enterite_sample`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`enterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash), [`enternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)

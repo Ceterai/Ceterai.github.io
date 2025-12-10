@@ -1,5 +1,7 @@
 # EDS Protection Module
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_protection_module.png" alt="EDS Protection Module icon" loading="lazy" width="auto" height="16px"/> **EDS Protection Module** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Adds 10% electric resistance and 2 defense.
 
 <details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>

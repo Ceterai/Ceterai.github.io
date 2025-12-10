@@ -21,6 +21,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bion_sample`
+- Level: `5`
 - Power: `3.6`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sample`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sample), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

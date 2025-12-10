@@ -1,6 +1,8 @@
+> Main pages: [Collectibles](https://ceterai.github.io/MyEnternia/Wiki/Collectibles)
+
 # Figurines
 
-This mod adds 38 figurines.
+The mod adds a total of 38 figurines:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" width="auto" height="16px"/> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)

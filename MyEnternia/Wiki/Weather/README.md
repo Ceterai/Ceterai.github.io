@@ -1,6 +1,6 @@
 # Weather
 
-This mod adds 9 weather.
+The mod adds a total of 9 weathers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_crystal_fall.png" alt="Crystal Fall icon" loading="lazy" width="auto" height="16px"/> [Crystal Fall](https://ceterai.github.io/MyEnternia/Wiki/CrystalFall)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_glow_rain.png" alt="Glowing Rain icon" loading="lazy" width="auto" height="16px"/> [Glowing Rain](https://ceterai.github.io/MyEnternia/Wiki/GlowingRain)

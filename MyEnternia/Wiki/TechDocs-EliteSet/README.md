@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Elite Set icon" loading="lazy" width="auto" height="16px"/> **Tech Docs: Elite Set** is a common codex entry.
 
-A brief description of tier 6 alta equipment worn by elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) operatives.  
+A brief description of tier 6 alta equipment worn by elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) operatives.  
 This document serves as a description of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" width="auto" height="16px"/> [Elite Set](https://ceterai.github.io/MyEnternia/Wiki/EliteSet), which is designed for elite operatives of the alta. It details the equipment's features, including the Elite Ceter-Helm, Elite Guard Armor, and Elite Energy Greaves, and their enhancements for protection and energy efficiency.
 
 ## Ingame
@@ -97,6 +97,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_docs_units_ceternia-codex`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs)

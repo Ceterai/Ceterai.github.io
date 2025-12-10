@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_orchid_pumpkin_candy`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`candy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Candy), [`ceternity`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`orchid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Orchid), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

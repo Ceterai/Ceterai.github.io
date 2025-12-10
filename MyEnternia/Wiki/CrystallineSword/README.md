@@ -27,7 +27,6 @@ Each swing contributes to the charge, with the handle being isolated enough to n
 
 Parameters:
 
-- Class: `Parry`
 - Base Dps: 12
 - Fire Time: 0.9
 - Energy Usage: 32
@@ -77,6 +76,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_crystalline_sword`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

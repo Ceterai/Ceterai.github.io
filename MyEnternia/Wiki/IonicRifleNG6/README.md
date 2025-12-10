@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_ionic_rifle.png" alt="Ionic Rifle NG6 icon" loading="lazy" width="auto" height="16px"/> **Ionic Rifle NG6** is a legendary two-handed electric assault rifle.
 
-A rifled enternia ion blaster, mostly used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) dreamers and heavy units.  
+A rifled enternia ion blaster, mostly used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) dreamers and heavy units.  
 It was created as part of a Neiteru-1 project researching enternia and ways to utilize it to create combative power. Although the results were quite effective, this tool is not used by main security and defensive alta forces.
 
 ## Ingame
@@ -24,7 +24,6 @@ Firemodes: burst, semiauto.
 
 Parameters:
 
-- Class: `AltaRanged`
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 0.65
@@ -45,7 +44,6 @@ Hold - launch an Electro-Cloud Nade.
 
 Parameters:
 
-- Class: `AltaSwitch`
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.1
@@ -79,6 +77,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ionic_rifle`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`assaultrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Assaultrifle), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

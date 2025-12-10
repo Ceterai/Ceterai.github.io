@@ -17,6 +17,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_bow`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`bow`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bow), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

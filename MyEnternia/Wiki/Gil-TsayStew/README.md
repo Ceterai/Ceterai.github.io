@@ -18,12 +18,12 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/jumpboost.png" alt="Velocity Boost icon" loading="lazy" width="auto" height="16px"/> [Velocity Boost](https://ceterai.github.io/MyEnternia/Wiki/VelocityBoost) (180s)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" width="auto" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters) (180s)
+- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="icon" loading="lazy" width="16px" height="16px"/> [Velocity Boost](https://ceterai.github.io/MyEnternia/Wiki/VelocityBoost) (180s)
+- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="icon" loading="lazy" width="16px" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters) (180s)
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gharus Stew icon" loading="lazy" width="auto" height="16px"/> [Gharus Stew](https://ceterai.github.io/MyEnternia/Wiki/GharusStew)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gharus Stew icon" loading="lazy" width="auto" height="16px"/> [Gharus Stew](https://ceterai.github.io/MyEnternia/Wiki/GharusStew) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -72,6 +72,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gil_tsay_stew`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`stew`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stew), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay)

@@ -1,5 +1,7 @@
 # Analyzed
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_analyzed.png" alt="Analyzed icon" loading="lazy" width="auto" height="16px"/> **Analyzed** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Decreases your defense by 3.
 
 ## Parameters

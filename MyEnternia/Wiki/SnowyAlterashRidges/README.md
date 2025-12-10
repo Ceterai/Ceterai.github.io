@@ -1,5 +1,7 @@
 # Snowy Alterash Ridges
 
+ **Snowy Alterash Ridges** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+
 Cool ridgy surfaces semi-covered with snow.
 
 *"Have you ever wanted to conquer a mountain? Or maybe you wished to quit everything, bring your friends and settle a mountain camp? Come to our mountains, we provide the chilly fresh winter atmosphere, you provide the fun."* - Lenn

@@ -30,10 +30,12 @@ Growing stages:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/boosted/icon.png" alt="Boosted Vodakoywa Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Vodakoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVodakoywaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/voda/icon.png" alt="Potted Vodakoywa icon" loading="lazy" width="auto" height="16px"/> [Potted Vodakoywa](https://ceterai.github.io/MyEnternia/Wiki/PottedVodakoywa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Verriskoywa Seed icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSeed)
 
 Can be used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/voda/icon.png" alt="Potted Vodakoywa icon" loading="lazy" width="auto" height="16px"/> [Potted Vodakoywa](https://ceterai.github.io/MyEnternia/Wiki/PottedVodakoywa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/pod/icon.png" alt="Vodakoywa Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Vodakoywa Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaEcoPod)
 
 ## Sources
@@ -54,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_voda_eco`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea), [`voda`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Voda)

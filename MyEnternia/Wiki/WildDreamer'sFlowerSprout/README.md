@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_wild_dream_seed`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`dream`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dream), [`enterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

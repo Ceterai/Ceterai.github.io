@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/sona.png" alt="Sona Soldier's Notes icon" loading="lazy" width="auto" height="16px"/> **Sona Soldier's Notes** is a rare codex entry.
 
-A snow-white paper with notes made by an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) [sona soldier](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) about the icy climate of [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya).  
+A snow-white paper with notes made by an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) [sona soldier](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) about the icy climate of [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).  
 The paper also depicts further plans for an exploration task for building a bridge over a canyon - a common occurrence for places like tavriya.
 
 ## Ingame
@@ -13,19 +13,19 @@ Species descriptions:
 
 ### Contents
 
-This chill breeze is quite bearable compared to the cosmic coldness of the dark side of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera).
+This chill breeze is quite bearable compared to the cosmic coldness of the dark side of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
 Yet the climate is still cold enough for the blue algae to show up, as well as small [tonnova springs](https://ceterai.github.io/MyEnternia/Wiki/tonnovasprings) here and there.
 
 I've also seen peculiar round sculptures lying around - according to my coordinator, those are frozen [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) charges, fallen from the sky.
 
-These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"/> [Frozen Energy Balls](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) can be found all over [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tavriya).
+These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"/> [Frozen Energy Balls](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) can be found all over [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).
 
 Fascinating.
 
 My squad is tasked with traversing a snow canyon to help build a bridge over it, so we're going to have to explore the bottom of it, mostly to take measurements, and ensure the area is safe.
 
-I've heard there are numerous caves down there, full of either <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
+I've heard there are numerous caves down there, full of either <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
 
 And, in case an avalanche happens while we down there, we've got these cool new [sona helmets](https://ceterai.github.io/MyEnternia/Wiki/sonahelmets) with us, and they can help seeing in pitch dark, and also navigate through the avalanche!
 
@@ -66,6 +66,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sona-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona)

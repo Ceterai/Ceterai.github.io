@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/table/icon.png" alt="Gheatsyn Table icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Table** is an uncommon piece of furniture.
 
-A [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) crystal table.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal table.
 
 ## Ingame
 
@@ -39,6 +39,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_table`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`commerce`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Commerce), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

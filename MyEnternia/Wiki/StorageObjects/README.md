@@ -1,6 +1,6 @@
 # Storage Objects
 
-This mod adds 42 storage objects.
+The mod adds a total of 42 storage objects:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/bin/icon.png" alt="Alta Bin icon" loading="lazy" width="auto" height="16px"/> [Alta Bin](https://ceterai.github.io/MyEnternia/Wiki/AltaBin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/cabinet/icon.png" alt="Alta Cabinet icon" loading="lazy" width="auto" height="16px"/> [Alta Cabinet](https://ceterai.github.io/MyEnternia/Wiki/AltaCabinet)

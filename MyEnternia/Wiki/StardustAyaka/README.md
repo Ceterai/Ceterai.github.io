@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" width="auto" height="16px"/> **Stardust Ayaka** is an uncommon tree sapling.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" width="auto" height="16px"/> [crystal ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka) has overgrown with [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) saturated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" width="auto" height="16px"/> [crystal ayaka](https://ceterai.github.io/MyEnternia/Wiki/CrystalAyaka) has overgrown with <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystals](https://starbounder.org/Crystal) saturated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
 
 ## Ingame
 
@@ -110,6 +110,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ayaka_stardust_tree`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

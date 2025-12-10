@@ -44,6 +44,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_calin_shield-amethyst`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

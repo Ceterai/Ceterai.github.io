@@ -2,13 +2,19 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_yaara_collar.png" alt="Conscious Collar icon" loading="lazy" width="auto" height="16px"/> **Conscious Collar** is an uncommon collar.
 
-A collar that boosts your pet's [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) by 15% and gives it [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).
+A collar that boosts your pet's <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"/> [electric resistance](https://starbounder.org/Electric_Resistance) by 15% and gives it <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Immunity](https://starbounder.org/Electric_Resistance).
 
 ## Ingame
 
 Radiomessages on pickup:
 
 - You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
+
+## Parameters
+
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_electroblockade.png" alt="Electroblockade icon" loading="lazy" width="auto" height="16px"/> [Electroblockade](https://ceterai.github.io/MyEnternia/Wiki/Electroblockade)
 
 ## Usage
 
@@ -42,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_yaara_collar`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`collar`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Collar), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)

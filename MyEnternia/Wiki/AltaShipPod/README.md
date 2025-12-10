@@ -106,6 +106,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_pod`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mechanical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mechanical), [`pod`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pod), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage)

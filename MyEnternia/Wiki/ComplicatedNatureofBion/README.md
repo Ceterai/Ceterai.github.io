@@ -22,9 +22,9 @@ It is still unclear how to properly categorize bion as a material because of its
 
 On one hand, it shows strong metal qualities, while having a crystallic molecular structure, and reacts to electricity in a similar way to a lot of specific crystal families.
 
-On the other hand, bion molecules often form in otherwise organic lifeforms, the best example being natural biocrystals - [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova) plants.
+On the other hand, bion molecules often form in otherwise organic lifeforms, the best example being natural biocrystals - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" width="16" height="16"/> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova) plants.
 
-Tonnovas themselves are quite interesting in their biology too, as biocrystals and biocrystallic connections are incredibly rare in nature and are mostly found in cold highly-ionized environments, like on [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets.
+Tonnovas themselves are quite interesting in their biology too, as biocrystals and biocrystallic connections are incredibly rare in nature and are mostly found in cold highly-ionized environments, like on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
 
 So far most prominent known biocrystal species of plants and creatures are tonnovas, [hevaltors](https://ceterai.github.io/MyEnternia/Wiki/hevaltors), [bionflies](https://ceterai.github.io/MyEnternia/Wiki/bionflies), _excriduras_ and rare organic crystal deposits.
 
@@ -66,6 +66,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bion-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`bion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

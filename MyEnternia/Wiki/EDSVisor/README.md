@@ -66,6 +66,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_visor`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`tier5clothing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier5Clothing), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

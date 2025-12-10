@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Tier 1 Pad icon" loading="lazy" width="auto" height="16px"/> **Tier 1 Pad** is an uncommon loot item.
 
-Basic alta items often found in pods. Includes produce, meds, as well as basic [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) decor, clothes and level 3 resources and equipment.  
+Basic alta items often found in pods. Includes produce, meds, as well as basic [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) decor, clothes and level 3 resources and equipment.  
 These standardized crates a packed with goodies, seemingly with general decor and scout equipment. They are much more compact than <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" width="auto" height="16px"/> [alta pods](https://ceterai.github.io/MyEnternia/Wiki/AltaPod), but the items inside are heavily packed and compressed to be able to fit in. This, opening this crate is often a one-way ticket.
 
 ## Ingame
@@ -156,6 +156,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_loot_tier1`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_scout`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaScout), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

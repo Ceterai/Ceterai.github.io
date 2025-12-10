@@ -1,5 +1,7 @@
 # Defective
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_defective.png" alt="Defective icon" loading="lazy" width="auto" height="16px"/> **Defective** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Repeatedly damages enemies around you with electricity. Damage is dependant on your max health.
 
 ## Parameters

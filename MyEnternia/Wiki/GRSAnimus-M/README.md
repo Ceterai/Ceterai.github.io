@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS Animus-M ★ icon" loading="lazy" width="auto" height="16px"/> **GRS "Animus-M" ★** is a legendary head armor piece.
 
 An Animus prototype that uses pure stardust energy to run, instead of relying on enternia.  
-Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
+Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [breath protection](https://starbounder.org/Breathing_EPP).  
 Its energy transceptors fuel your systems with stardust, resulting in a centralized protosystem.
 
 ## Ingame
@@ -45,6 +45,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_security_helmet-stardust`
+- Level: `7`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`animus`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Animus), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`tier7armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier7Armour)

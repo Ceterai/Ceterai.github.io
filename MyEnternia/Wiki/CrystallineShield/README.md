@@ -63,6 +63,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_crystalline_shield`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

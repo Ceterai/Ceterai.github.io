@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/ghearun.png" alt="Ghearun Droid ★★★ icon" loading="lazy" width="auto" height="16px"/> **Ghearun Droid ★★★** is a legendary poisonous throwable item.
 
-A robotic giant that could take on an army. Runs on liquid crystal energy from [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn).  
+A robotic giant that could take on an army. Runs on liquid crystal energy from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).  
 Any and all tech and mechanisms equipped on this droid are initially meant for geological purposes, but leave room for creative use.
 
 ## Ingame
@@ -39,6 +39,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_droid`
+- Level: `6`
 - Power: `4.56`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`droid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Droid), [`ghearun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)

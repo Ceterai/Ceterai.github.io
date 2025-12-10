@@ -22,6 +22,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_misc_deprecation_horns`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`deprecation`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Deprecation), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`trophy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Trophy)

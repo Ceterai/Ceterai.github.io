@@ -1,5 +1,7 @@
 # Swim Boosters
 
+<img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="icon" loading="lazy" width="16px" height="16px"/> **Swim Boosters** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Increases mobility when submerged in a liquid.
 
 Applied by following items:

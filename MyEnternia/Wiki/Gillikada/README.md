@@ -22,7 +22,7 @@ Applies effects:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"/> [Gillikada Split](https://ceterai.github.io/MyEnternia/Wiki/GillikadaSplit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"/> [Gillikada Split](https://ceterai.github.io/MyEnternia/Wiki/GillikadaSplit) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -84,6 +84,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gillikada`
+- Level: `2`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`kada`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Kada), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine)

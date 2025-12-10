@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_door`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

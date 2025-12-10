@@ -61,6 +61,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_crystalline_shield-bishyn`
+- Level: `5`
 - Power: `3.29`
 - Rarity: `Rare`
 - Tags: [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

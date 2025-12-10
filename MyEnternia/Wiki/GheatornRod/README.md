@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_rod/icon.png" alt="Gheatorn Rod icon" loading="lazy" width="auto" height="16px"/> **Gheatorn Rod** is a common breakable object.
 
-These [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) formations rise right from the ground in a slow bursting manner. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)-scan for more.
+These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) formations rise right from the ground in a slow bursting manner. [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan for more.
 
 ## Ingame
 
@@ -58,6 +58,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatorn_rod`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`gheatorn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatorn), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc)

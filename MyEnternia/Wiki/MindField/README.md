@@ -1,5 +1,7 @@
 # Mind Field
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_mind.png" alt="Mind Field icon" loading="lazy" width="auto" height="16px"/> **Mind Field** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Repeatedly damages enemies around you with [Ions](https://ceterai.github.io/MyEnternia/Wiki/Ions), slowing them down. Damage is dependant on your max energy.
 
 Applied by following items:

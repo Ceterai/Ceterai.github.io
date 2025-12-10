@@ -72,6 +72,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tsay`
+- Level: `2`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay)

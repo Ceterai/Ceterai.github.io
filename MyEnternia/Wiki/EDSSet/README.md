@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" width="auto" height="16px"/> **EDS Set** is a rare loot item.
 
-Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) soldier, including a lore codex of this set.
+Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
 EDS guards and soldiers are a building brick of EDS itself. Altough, recently, due to unforseen circumstances, the focus has shifted towards droids and out-of-control automated systems...
 
@@ -46,6 +46,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_set`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`set`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Set)

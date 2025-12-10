@@ -68,6 +68,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_phospholiator-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`cannon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cannon), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`grenadelauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Grenadelauncher), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`minelauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Minelauncher), [`phospholion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Phospholion), [`radiation`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Radiation), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

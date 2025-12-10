@@ -1,5 +1,7 @@
 # Autoprotector
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoprotector.png" alt="Autoprotector icon" loading="lazy" width="auto" height="16px"/> **Autoprotector** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoprotection.png" alt="Autoprotection icon" loading="lazy" width="auto" height="16px"/> [Autoprotection](https://ceterai.github.io/MyEnternia/Wiki/Autoprotection) to you when your health is lower than 30%.
 
 Applied by following items:

@@ -28,6 +28,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_back_mimic-cape_stardust`
+- Level: `7`
 - Power: `4.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)

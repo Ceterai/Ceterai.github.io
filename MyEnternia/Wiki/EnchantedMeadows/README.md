@@ -1,5 +1,7 @@
 # Enchanted Meadows
 
+ **Enchanted Meadows** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+
 [Vionostera](https://ceterai.github.io/MyEnternia/Wiki/Vionostera), or enchanted land, is an almost magical place full of mystical things, hence the name.  
 Blue fields of dense grass with pink tops of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" width="auto" height="16px"/> [blossoming ayakas](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka), [enchanted orbs](https://ceterai.github.io/MyEnternia/Wiki/enchantedorbs) and rare [beakseed](https://ceterai.github.io/MyEnternia/Wiki/Tags/Beakseed) bushes showing above the surface.  
 Under the ground there are glowing [enchanted bushes](https://ceterai.github.io/MyEnternia/Wiki/enchantedbushes), lighting up the caves with pink bioluminescence.

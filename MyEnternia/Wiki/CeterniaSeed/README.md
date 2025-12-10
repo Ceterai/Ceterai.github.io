@@ -68,6 +68,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ceternia_seed`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`ceternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

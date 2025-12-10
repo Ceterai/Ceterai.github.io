@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" width="auto" height="16px"/> **Hevika Ordis Welcome Message** is a rare codex entry.
 
-An encrypted welcome guide to a workplace in a [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) laboratory.  
+An encrypted welcome guide to a workplace in a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) laboratory.  
 It provides information about the workplace, its purpose and some basic instructions.
 
 ## Ingame
@@ -22,9 +22,9 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 Welcome to your new workplace, Saya! We're glad to have you as part of the team.
 
-[Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdis) is a Technological Advances Company focused on [crystal](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal)-related research. Its primary goal is studying and utilizing [alternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia)-charged and [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals, plasmic overcharges, as well as the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) phenomenon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" width="16" height="16"/> [hevika ordis](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevika-ordis) is a Technological Advances Company focused on <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystal](https://starbounder.org/Crystal)-related research. Its primary goal is studying and utilizing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia)-charged and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals, plasmic overcharges, as well as the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) phenomenon.
 
-Currently, our products are the only [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) technology able to safely extract and generate [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) energy using <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"/> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal) instead of natural [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) sources.
+Currently, our products are the only [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) technology able to safely extract and generate [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) energy using <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"/> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal) instead of natural <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) sources.
 
 Your current designation is Farros-III HO3a, Sight 1.
 
@@ -62,7 +62,7 @@ Found naturally in containers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" width="auto" height="16px"/> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 32 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [A.R.C.O. Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.FieldResearcher)
@@ -84,7 +84,6 @@ Found naturally in containers:
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [Ceterai Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFieldResearcher)
 - [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [EDS Researcher](https://ceterai.github.io/MyEnternia/Wiki/EDSResearcher)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
@@ -109,6 +108,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hevika-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`hevika`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

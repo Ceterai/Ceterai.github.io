@@ -21,16 +21,16 @@ Now has more distance and spin time.
 
 Parameters:
 
+- Energy Usage: 16
+- Fire Time: 0.6
 - Params:
+  - Pickup Distance: 1.0
+  - Return On Hit:
+  - Damage Repeat Timeout: 0.2
   - Hover Max Distance: 18
   - Hover Time: 1.0
-  - Damage Repeat Timeout: 0.2
-  - Return On Hit:
-  - Pickup Distance: 1.0
 - Base Dps: 4
-- Energy Usage: 16
 - Type: `ct_inarus`
-- Fire Time: 0.6
 
 ## Sources
 
@@ -44,6 +44,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_plasma_chakram-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`chakram`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Chakram), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

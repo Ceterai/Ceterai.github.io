@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" width="auto" height="16px"/> **Ceternia Sample ★★** is a legendary decorative object.
 
-A perfect sample of some [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia)-saturated matter, preserved on a small titanium pedestal.
+A perfect sample of some <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia)-saturated matter, preserved on a small titanium pedestal.
 
 ## Ingame
 
@@ -25,6 +25,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ceternia_sample`
+- Level: `6`
 - Power: `4.2`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ceternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`sample`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sample), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

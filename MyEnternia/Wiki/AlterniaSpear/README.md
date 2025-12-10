@@ -21,8 +21,6 @@ Main ability of the item, activated with left mouse button.
 Parameters:
 
 - Power: 4
-- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
-- Class: `AsiraiAttack`
 - Step Damage Config: 
 - Base Damage Factor: 1.35
 - Knockback: 5, 
@@ -43,8 +41,6 @@ Alternative ability of the item, activated with right mouse button.
 Parameters:
 
 - Power: 4
-- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
-- Class: `AsiraiSpin`
 - Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
 - Damage Config:
 
@@ -56,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ctspear`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

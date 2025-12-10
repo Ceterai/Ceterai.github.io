@@ -32,6 +32,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_vortex_nade`
+- Level: `5`
 - Power: `3.25`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`nade`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nade), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`viona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona), [`vortex`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Vortex)

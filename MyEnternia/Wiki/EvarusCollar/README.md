@@ -2,13 +2,19 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_eva_collar.png" alt="Evarus Collar icon" loading="lazy" width="auto" height="16px"/> **Evarus Collar** is a rare collar.
 
-A collar that makes your pet immune to [Enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia) effects.
+A collar that makes your pet immune to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) effects.
 
 ## Ingame
 
 Radiomessages on pickup:
 
 - You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
+
+## Parameters
+
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="Ionoblockade icon" loading="lazy" width="auto" height="16px"/> [Ionoblockade](https://ceterai.github.io/MyEnternia/Wiki/Ionoblockade)
 
 ## Usage
 
@@ -42,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eva_collar`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`collar`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Collar), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`eva`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eva), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

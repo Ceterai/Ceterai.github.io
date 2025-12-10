@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_stand_promo`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`commerce`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Commerce), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`holographic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holographic)

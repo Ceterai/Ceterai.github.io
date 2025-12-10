@@ -18,7 +18,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Offset:  1.75,  0.125
 - Projectile Type: `lightarrow`
 - Power Projectile Type: `chargedlightarrow`
 - Projectile Parameters:
@@ -30,8 +29,6 @@ Alternative ability of the item, activated with right mouse button.
 
 Parameters:
 
-- Draw Frame Selector: `poisonBowImageSelectorNoPower`
-- Draw Arm Frames:  `rotation`,  `swim.2`,  `swimIdle.1`
 - Projectile Type: `lightarrow`
 - Projectile Parameters:
   - Power: 8.125
@@ -43,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_celestial_bow`
+- Level: `8`
 - Power: `4.5`
 - Rarity: `Essential`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bow`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bow), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

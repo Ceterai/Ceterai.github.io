@@ -1,6 +1,8 @@
+> Main pages: [Food](https://ceterai.github.io/MyEnternia/Wiki/Food)
+
 # Drinks
 
-This mod adds 77 drinks.
+The mod adds a total of 77 drinks:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="AirPlus Water icon" loading="lazy" width="auto" height="16px"/> [AirPlus Water](https://ceterai.github.io/MyEnternia/Wiki/AirPlusWater)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="Alta Mineral Water icon" loading="lazy" width="auto" height="16px"/> [Alta Mineral Water](https://ceterai.github.io/MyEnternia/Wiki/AltaMineralWater)

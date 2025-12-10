@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Viona Motsu ★ icon" loading="lazy" width="auto" height="16px"/> **Viona Motsu ★** is a rare dish.
 
-A motsu like you've never tasted before! With roasted [warped honey](https://ceterai.github.io/MyEnternia/Wiki/warpedhoney), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"/> [baked ayas](https://ceterai.github.io/MyEnternia/Wiki/BakedAya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"/> [minto spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice) and some special [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) [koywa](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa) herbs!  
+A motsu like you've never tasted before! With roasted [warped honey](https://ceterai.github.io/MyEnternia/Wiki/warpedhoney), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"/> [baked ayas](https://ceterai.github.io/MyEnternia/Wiki/BakedAya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"/> [minto spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice) and some special [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" width="16" height="16"/> [koywa](https://ceterai.github.io/MyEnternia/Wiki/Koywa) herbs!  
 While altas are generally wary of enchanted anomalies and energy, the enchanted herbs used in the recipe are checked throughroughly before serving.
 
 ## Ingame
@@ -38,6 +38,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_food_mimic-viona_motsu`
+- Level: `5`
 - Power: `3.3`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`viona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)

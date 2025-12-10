@@ -26,6 +26,10 @@ This refined, almost razor-sharp blade spins in your hand, creating a light show
 
 Parameters:
 
+- Energy Usage: 32
+- Fire Time: 0.9
+- Damage Config:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -52,11 +56,6 @@ Parameters:
 - Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
 - Swoosh Sound: `primary_hold`
 - Base Dps: 12
-- Class: `Parry`
-- Fire Time: 0.9
-- Energy Usage: 32
-- Damage Config:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
 
 ### Sinara's Blast
 
@@ -75,6 +74,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_crystalline_sword-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

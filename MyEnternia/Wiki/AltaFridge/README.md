@@ -56,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_fridge`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Kinetic Drone icon" loading="lazy" width="auto" height="16px"/> **Kinetic Drone** is a common throwable item.
 
-Small armored [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) drone. Usually nests inside larger drones.  
+Small armored [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) drone. Usually nests inside larger drones.  
 These compact flying robots are not that much smaller than a rebular alta drone, but enough to be able to fit in much smaller spaces.
 
 ## Ingame
@@ -27,6 +27,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_mini_drone-kinetic`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`energy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Energy), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)

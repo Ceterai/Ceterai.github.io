@@ -22,6 +22,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_obj_mimic-altolight`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`neon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Neon), [`party`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Party), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`unique`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique)

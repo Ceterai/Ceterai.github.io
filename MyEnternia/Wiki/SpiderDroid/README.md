@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/spider.png" alt="Spider Droid icon" loading="lazy" width="auto" height="16px"/> **Spider Droid** is a rare throwable item.
 
-This [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) droid is fast and small, a patch of these can swarm you in seconds.  
+This [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) droid is fast and small, a patch of these can swarm you in seconds.  
 Their leg-like appendages are able to easily stick to uneven surfaces, making them able to climb walls and ceilings.
 
 ## Ingame
@@ -56,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_spider_droid`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`droid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Droid), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)

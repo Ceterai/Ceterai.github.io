@@ -55,6 +55,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_elite_augment`
+- Level: `6`
 - Power: `4.2`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`elite`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elite), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

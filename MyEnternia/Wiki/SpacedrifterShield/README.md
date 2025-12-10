@@ -51,6 +51,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_spacedrifter_shield`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`spacedrifter`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spacedrifter)

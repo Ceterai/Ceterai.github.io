@@ -1,5 +1,7 @@
 # Confused
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/lost.png:1" alt="Confused icon" loading="lazy" width="auto" height="16px"/> **Confused** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 You have no idea what's happening.
 
 Applied by following items:

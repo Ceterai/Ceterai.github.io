@@ -1,5 +1,7 @@
 # Energy Support System
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"/> **Energy Support System** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Constantly replenishes your energy by 1% each second.
 
 Applied by following items:

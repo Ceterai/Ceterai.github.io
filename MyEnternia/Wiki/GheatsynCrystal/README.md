@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatsyn_crystal/icon.png" alt="Gheatsyn Crystal icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Crystal** is an uncommon breakable object.
 
-A smashable [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) crystal. Can be used for cooking, crafting furniture and useful items. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)-scan for more.
+A smashable <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal. Can be used for cooking, crafting furniture and useful items. [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan for more.
 
 ## Ingame
 
@@ -120,6 +120,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_crystal`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

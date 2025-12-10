@@ -42,7 +42,7 @@ The situation is similar with vegetation - very often along the capital streets 
 
 It is in the capitals that new trends are most often formed and the most popular modeling and entertainment companies are based.
 
-And although fashion is considered a rather small industry in [alta culture](https://ceterai.github.io/MyEnternia/Wiki/altaculture), the same cannot be said about entertainment and leisure.
+And although fashion is considered a rather small industry in [alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture), the same cannot be said about entertainment and leisure.
 
 Endless clubs, entertainment centers and friend circles, as well as constant events and gatherings fill the city with joy and fun.
 
@@ -103,6 +103,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_capital-codex`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`capital`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Capital), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

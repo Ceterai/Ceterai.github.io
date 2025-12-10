@@ -20,18 +20,18 @@ Press to burst with slime! Hold to charge up a semiauto burst of [isoslime balls
 
 Parameters:
 
-- Hold Time Max: 0.35
-- Base Dps: 4
-- Hold Type: `semi`
-- Fire Time: 0.2
-- Hold Params:
-  - Type: `ct_isoslime_charge`
-  - Inaccuracy: 0.01
 - Press Params:
   - Type: `ct_isoslime_squirt`
   - Inaccuracy:
 - Press Type: `semi`
 - Energy Usage: 16
+- Hold Time Max: 0.35
+- Fire Time: 0.2
+- Hold Params:
+  - Type: `ct_isoslime_charge`
+  - Inaccuracy: 0.01
+- Hold Type: `semi`
+- Base Dps: 4
 
 ## Sources
 
@@ -45,6 +45,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_isoblaster-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`izopoi`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Izopoi), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`slime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Slime), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

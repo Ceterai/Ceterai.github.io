@@ -36,6 +36,7 @@ Unlocks blueprints for:
 Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/basic/farming.png" alt="Alta Farming Pack icon" loading="lazy" width="auto" height="16px"/> [Alta Farming Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmingPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/haven/icon.png" alt="Potted Haven Bouquet icon" loading="lazy" width="auto" height="16px"/> [Potted Haven Bouquet](https://ceterai.github.io/MyEnternia/Wiki/PottedHavenBouquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/hunter_flower/icon.png" alt="Potted Hunter Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Hunter Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedHunterFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Yaara Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraFlower)
 
@@ -79,6 +80,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_calin_flower_pot`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden)

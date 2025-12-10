@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_head/icon.png" alt="Security Droid Head ★ icon" loading="lazy" width="auto" height="16px"/> **Security Droid Head ★** is an uncommon head armor piece.
 
-A standard protocol head of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security droid.
+A standard protocol head of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security droid.
 
 ## Parameters
 
@@ -59,6 +59,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security_droid_head`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`tier4armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Armour), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

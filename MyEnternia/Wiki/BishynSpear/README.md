@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" width="auto" height="16px"/> **Bishyn Spear** is a rare two-handed poisonous spear.
 
 **WIP**. Be careful - the blade of this spear is made out of poisonous crystals.  
-In the hands of a professional, it can become both very useful and quite versatile. Made by [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) enthusiasts, it has a couple of unfinished features that could unravel its true potential.
+In the hands of a professional, it can become both very useful and quite versatile. Made by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) enthusiasts, it has a couple of unfinished features that could unravel its true potential.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" width="auto" height="16px"/> [Razhus Az'Ar ★](https://ceterai.github.io/MyEnternia/Wiki/RazhusAz'Ar) at the Weapon Upgrade Anvil.
 
@@ -23,7 +23,7 @@ Radiomessages on pickup:
 
 **WIP**. A sequence of 3 light strikes. Hold to perform a Hold Strike.
 Enters a charged state every 10 seconds, making next 4 hits deal bonus [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) damage.  
-The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are [diamonds](https://ceterai.github.io/MyEnternia/Wiki/Tags/Diamond) and [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) crystals.
+The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [diamonds](https://starbounder.org/Diamond) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals.
 
 Parameters:
 
@@ -65,6 +65,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bishyn_spear`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

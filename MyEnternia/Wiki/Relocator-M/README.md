@@ -14,8 +14,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Scripts:  `/items/active/unsorted/relocator/relocate.lua`
-- Class: `Relocate`
 - Max Storage: 3
 - Max Range: 20
 - Cooldown Time: 0.5
@@ -40,7 +38,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_relocator-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`relocator`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Relocator), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
 - File: [`/items/active/alta/tools/grab/relocator/ct_alta_relocator.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/grab/relocator/ct_alta_relocator.activeitem)

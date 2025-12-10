@@ -39,6 +39,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_combat_legwear-light`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arknight`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arknight), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`tier5armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier5Armour)

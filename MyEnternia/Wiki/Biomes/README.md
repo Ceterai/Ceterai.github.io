@@ -1,6 +1,6 @@
 # Biomes
 
-This mod adds 43 biomes.
+The mod adds a total of 43 biomes:
 
 - [Alta Lab Debris](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDebris)
 - [Alta Prime Labs](https://ceterai.github.io/MyEnternia/Wiki/AltaPrimeLabs)

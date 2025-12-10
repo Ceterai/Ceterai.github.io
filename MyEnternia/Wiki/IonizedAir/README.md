@@ -1,5 +1,7 @@
 # Ionized Air
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionized_air.png" alt="Ionized Air icon" loading="lazy" width="auto" height="16px"/> **Ionized Air** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Slowly degrades your energy. Once out of energy, damages you repeatedly with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) strikes.  
 While in water, damages you regardless and twice as fast.
 

@@ -2,13 +2,20 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_aric_collar.png" alt="Toxic Spores Collar ★★ icon" loading="lazy" width="auto" height="16px"/> **Toxic Spores Collar ★★** is a rare collar.
 
-An [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) collar that causes your pet to periodically spray <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) around it and gives it [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection.
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) collar that causes your pet to periodically spray <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) around it and gives it [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection.
 
 ## Ingame
 
 Radiomessages on pickup:
 
 - You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
+
+## Parameters
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/9/91/Poison_Resist_Augment.png" alt="Poison Block icon" loading="lazy" width="11px" height="16px"/> [Poison Block (Augment)](https://starbounder.org/Poison_Resist_Augment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)
 
 ## Usage
 
@@ -37,6 +44,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_aric_collar`
+- Level: `5`
 - Power: `3.6`
 - Rarity: `Rare`
 - Tags: [`aric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric), [`collar`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Collar), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

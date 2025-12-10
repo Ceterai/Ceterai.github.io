@@ -26,6 +26,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_locker_broken`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ruin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaRuin), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage)

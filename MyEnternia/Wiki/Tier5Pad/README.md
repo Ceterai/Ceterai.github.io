@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" width="auto" height="16px"/> **Tier 5 Pad** is a legendary loot item.
 
-Contains random loot from [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) tier 5 pods.  
+Contains random loot from [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) tier 5 pods.  
 Seems like these are similar contents to the special SSR pods scattered around Io - they are regular protected <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/pod/icon.png" alt="Alta Ship Pod icon" loading="lazy" width="auto" height="16px"/> [alta ship pods](https://ceterai.github.io/MyEnternia/Wiki/AltaShipPod) with unknown markings on them, often containing legendary items and equipment that can save an alta's life.
 
 ## Ingame
@@ -80,6 +80,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_loot_tier5`
+- Level: `7`
 - Power: `4.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`citadel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot)

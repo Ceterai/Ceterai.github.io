@@ -1,5 +1,7 @@
 # Sad
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/sad.png:1" alt="Sad icon" loading="lazy" width="auto" height="16px"/> **Sad** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 I... feel you...
 
 ## Parameters

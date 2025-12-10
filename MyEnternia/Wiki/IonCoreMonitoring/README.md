@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" width="auto" height="16px"/> **Ion Core Monitoring** is a rare codex entry.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains gathered metrics from monitoring an [ion core](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) environment.  
-Seems like this is an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) report on the state of the core of one of the ionic planets.
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains gathered metrics from monitoring an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" width="16" height="16"/> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) environment.  
+Seems like this is an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) report on the state of the core of one of the ionic planets.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: An [Arco](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arco) report on the stability of an ion core. The anomaly bit in the end makes me a little cautious.
+- Alta: An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" width="16" height="16"/> [arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) report on the stability of an ion core. The anomaly bit in the end makes me a little cautious.
 
 Radiomessages on pickup:
 
@@ -20,7 +20,7 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 The core stability has regular fluctuations as usual, and the ion radiation seems to be still so far.
 
-All readings are stable, the [ion core](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) energy will be at its peak in approx. 14 hours.
+All readings are stable, the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" width="16" height="16"/> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) energy will be at its peak in approx. 14 hours.
 
 Monitoring equipment:
 
@@ -31,7 +31,7 @@ Responsible team: A.R.C.O. RS-17 "Vera"
 
 Further report:
 
-An energy device found during scouting by an [Arco](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arco) scout, codename <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" width="auto" height="16px"/> ["Ion Fortress"](https://ceterai.github.io/MyEnternia/Wiki/IonFortress), as well as a deprecated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"/> [plasma chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram).
+An energy device found during scouting by an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" width="16" height="16"/> [arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) scout, codename <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" width="auto" height="16px"/> ["Ion Fortress"](https://ceterai.github.io/MyEnternia/Wiki/IonFortress), as well as a deprecated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"/> [plasma chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram).
 
 All findings went to the coordination center.
 
@@ -66,7 +66,7 @@ Found naturally in containers:
 - <img src="https://starbounder.org/mediawiki/images/9/9f/Hi-Tech_Chest_%28Blue%29.png" alt="Hi-Tech Chest (Blue) icon" loading="lazy" width="12px" height="9px"/> [Hi-Tech Chest (Blue)](https://starbounder.org/Hi-Tech_Chest_(Blue))
 - <img src="https://starbounder.org/mediawiki/images/8/88/Hi-Tech_Chest_%28Green%29.png" alt="Hi-Tech Chest (Green) icon" loading="lazy" width="12px" height="9px"/> [Hi-Tech Chest (Green)](https://starbounder.org/Hi-Tech_Chest_(Green))
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 32 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [A.R.C.O. Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.FieldResearcher)
@@ -88,7 +88,6 @@ Found naturally in containers:
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [Ceterai Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFieldResearcher)
 - [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [EDS Researcher](https://ceterai.github.io/MyEnternia/Wiki/EDSResearcher)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
@@ -113,6 +112,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ion_core-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`ion_core`](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="C.T. Visor icon" loading="lazy" width="auto" height="16px"/> **C.T. Visor** is a legendary head armor piece.
 
-A C.T. series helmet. Has a built-in 'Omniblue' lightsource. The label on the side reads 'Mark I'. Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
+A C.T. series helmet. Has a built-in 'Omniblue' lightsource. The label on the side reads 'Mark I'. Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [breath protection](https://starbounder.org/Breathing_EPP).  
 This analytical alternia-powered protected headwear is a dream of many [alta researchers](https://ceterai.github.io/MyEnternia/Wiki/AltaResearcher), as there are quite a few comparable alternatives.
 
 ## Ingame
@@ -64,6 +64,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ceterai_helmet`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ceterai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

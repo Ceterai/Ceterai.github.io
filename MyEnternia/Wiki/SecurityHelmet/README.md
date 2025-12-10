@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="Security Helmet icon" loading="lazy" width="auto" height="16px"/> **Security Helmet** is an uncommon head armor piece.
 
-A standard protocol helmet for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) peacekeepers and security guards.  
+A standard protocol helmet for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) peacekeepers and security guards.  
 If protects the head completely from all sides, providing a visor with small cameras on the sides for a combined field of view.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR Animus ★ icon" loading="lazy" width="auto" height="16px"/> [GR "Animus" ★](https://ceterai.github.io/MyEnternia/Wiki/GRAnimus) at the Weapon Upgrade Anvil.
@@ -60,6 +60,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security_helmet`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`tier4armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Armour), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

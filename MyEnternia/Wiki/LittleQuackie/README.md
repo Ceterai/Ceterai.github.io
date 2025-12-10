@@ -22,6 +22,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_obj_mimic-duck`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`enchanted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

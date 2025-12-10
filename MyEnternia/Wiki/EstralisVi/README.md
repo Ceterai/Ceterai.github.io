@@ -4,7 +4,7 @@
 
 A unique wrist device lost in the midst of nowhere. How did it get here? Is it... looking at you?
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estria's Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> [Estria's Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sVyurm) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -54,6 +54,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_estralis_vi`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)

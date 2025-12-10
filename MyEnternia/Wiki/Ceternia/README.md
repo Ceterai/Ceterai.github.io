@@ -1,4 +1,4 @@
-> Main page: [Energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy)
+> Main page: [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy)
 
 # Ceternia
 

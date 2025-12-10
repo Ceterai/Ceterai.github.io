@@ -38,6 +38,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_tool_mimic-viona_shield`
+- Level: `4`
 - Power: `2.75`
 - Rarity: `Uncommon`
 - Tags: [`enchanted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted), [`eyepatch`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eyepatch), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

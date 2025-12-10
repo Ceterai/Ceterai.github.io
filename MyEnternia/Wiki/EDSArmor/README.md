@@ -187,6 +187,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_armor`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`armor`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Armor), [`compound`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Compound), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent)

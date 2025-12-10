@@ -22,6 +22,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_obj_mimic-scout_chair`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_scout`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaScout), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`tier3`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier3), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`unique`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique)

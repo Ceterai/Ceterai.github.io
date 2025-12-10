@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 ### Pulsar Charge
 
-Creates semiauto bursts of [Impulse Charges](https://ceterai.github.io/MyEnternia/Wiki/ImpulseCharges) using [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia) energy.
+Creates semiauto bursts of [Impulse Charges](https://ceterai.github.io/MyEnternia/Wiki/ImpulseCharges) using <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) energy.
 
 Parameters:
 
@@ -75,6 +75,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_pulsar`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cannon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cannon), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`elite`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elite), [`impulse`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

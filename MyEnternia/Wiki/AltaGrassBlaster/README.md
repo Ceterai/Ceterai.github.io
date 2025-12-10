@@ -18,7 +18,6 @@ Press to disperse seeds!
 
 Parameters:
 
-- Class: `AltaBlasterSwitch`
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.4
@@ -60,7 +59,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_grass_blaster`
+- Level: `5`
 - Power: `3.58`
 - Rarity: `Rare`
-- Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`grass_blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/GrassBlaster), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`plant_tool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantTool), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/active/alta/tools/other/ct_alta_grass_blaster.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/other/ct_alta_grass_blaster.activeitem)

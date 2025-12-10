@@ -11,14 +11,14 @@ left: 10%
 
 > **Nature:** Bionicas (Artificial Bion-Based Humanoids)  
 > **Homeworld:** Alta-1 (Alliana)  
-> **Primary Planets:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [Alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [Alterash Prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime)  
+> **Primary Planets:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime)  
 > **Main Focus:** Research, Exploration, Entertainment
 
 # Alta
 
-An artificial species of humanoids created to study the nature of stardust. The main focus of their decentralized society is research and exploration with the purpose of technological advancement, as well as entertainment and quality of life improvement.
+An artificial species of humanoids created to study the nature of . The main focus of their decentralized society is research and exploration with the purpose of technological advancement, as well as entertainment and quality of life improvement.
 
-<details markdown="1"><summary>Navigation (Click to expand)</summary>
+<details><summary>Navigation (Expand)</summary>
 
 - [Alta](#alta)
   - [Description](#description)
@@ -38,9 +38,9 @@ An artificial species of humanoids created to study the nature of stardust. The 
     - [Alter](#alter)
     - [Kaiter](#kaiter)
       - [Kaitera](#kaitera)
-    - [Enta (Entalta)](#enta-entalta)
-    - [Voida (Voidalta)](#voida-voidalta)
-    - [Heva (Hevalta)](#heva-hevalta)
+      - [Enta (Entalta)](#enta-entalta)
+      - [Voida (Voidalta)](#voida-voidalta)
+      - [Heva (Hevalta)](#heva-hevalta)
   - [History](#history)
     - [Origins](#origins)
   - [Culture](#culture)
@@ -115,7 +115,7 @@ Altas are primarily found on <img src="https://raw.githubusercontent.com/Ceterai
 
 Unfortunately, a failed series of experiments that led to the creation of [kaiters](#kaiter) and other threats caused altas to invest in the development of combat and security technology. In some cases, this led to relocating numerous laboratories and entire facilities away from planetary surfaces, often into underground <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) spaces.
 
-Most alta research is based on studying stardust and the types of energy it provides - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) (thoughts), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) (memories), and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) (dreams). Alternia is the most common energy source on alterash planets and the most balanced in terms of power and safety. Altas often use alternia energy as their main source of electricity and power (see [Alta Technology](#technology)).
+Most alta research is based on studying  and the types of energy it provides - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) (thoughts), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) (memories), and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) (dreams). Alternia is the most common energy source on alterash planets and the most balanced in terms of power and safety. Altas often use alternia energy as their main source of electricity and power (see [Alta Technology](#technology)).
 
 ### In-Game Stats
 
@@ -264,15 +264,15 @@ Failed attempts to convert kaiters back into standard altas. These individuals e
 
 These are altas who have been affected by dangerous anomalies or phenomena, resulting in transformation into husk-like states:
 
-### Enta (Entalta)
+#### Enta (Entalta)
 
 An alta whose mind was captured by the dream anomaly of **enterash** planets. The alta becomes a husk, their consciousness trapped in the dream realm.
 
-### Voida (Voidalta)
+#### Voida (Voidalta)
 
 An alta whose emotions were captured by the void. These husks have lost their emotional capacity to the void's influence.
 
-### Heva (Hevalta)
+#### Heva (Hevalta)
 
 An alta "zombie" who fell sick to **hevikai** and was overgrown with **hevika crystals**. These unfortunate altas are overtaken by crystalline growth, losing their original consciousness.
 

@@ -35,6 +35,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_glowstick_bionid`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`glowstick`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Glowstick), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

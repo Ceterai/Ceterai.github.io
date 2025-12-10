@@ -28,6 +28,10 @@ The clover concentrates its power on the ends of the petals, making them more ye
 
 Parameters:
 
+- Fire Time: 0.625
+- Damage Config:
+  - Damage Source Kind: `shortsword`
+  - Timeout: 0.5
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -54,10 +58,6 @@ Parameters:
 - Swoosh Offset:  -0.5,  -0.75,  2.0,  1.5
 - Swoosh Sound: `primary_press`
 - Base Dps: 6
-- Fire Time: 0.625
-- Damage Config:
-  - Damage Source Kind: `shortsword`
-  - Timeout: 0.5
 
 ## Sources
 
@@ -71,6 +71,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_flowersword-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`flower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Flower), [`haven`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`shortsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shortsword), [`toxic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toxic), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

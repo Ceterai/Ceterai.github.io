@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 ### Wobblenaut
 
-Weird enchanted innards make this weapon shoot bursts or [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) plasma on the button press, and launch weird wobbly [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice) spheres on hold.  
+Weird enchanted innards make this weapon shoot bursts or <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice) plasma on the button press, and launch weird wobbly <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice) spheres on hold.  
 These spheres seem to contain a weird magnetic anomaly, very similar in its behaviour to common [miazmas](https://ceterai.github.io/MyEnternia/Wiki/miazmas).
 
 Parameters:
@@ -66,6 +66,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_enchanted_blaster`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`enchanted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`vionos`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Vionos), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

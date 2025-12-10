@@ -1,6 +1,8 @@
+> Main pages: [Tools](https://ceterai.github.io/MyEnternia/Wiki/Tools)
+
 # Fishing Rods
 
-This mod adds 8 fishing rods.
+The mod adds a total of 8 fishing rods:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/rod/icon.png" alt="Alta Rod icon" loading="lazy" width="auto" height="16px"/> [Alta Rod](https://ceterai.github.io/MyEnternia/Wiki/AltaRod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rods/ayaka_rod/icon.png" alt="Ayaka Rod icon" loading="lazy" width="auto" height="16px"/> [Ayaka Rod](https://ceterai.github.io/MyEnternia/Wiki/AyakaRod)

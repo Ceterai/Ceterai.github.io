@@ -27,6 +27,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_official_tights-light`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - File: [`/items/armors/alta/clothing/official_tights/ct_alta_official_tights.legs`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/clothing/official_tights/ct_alta_official_tights.legs)

@@ -29,26 +29,26 @@ It's important to not overhold to not create an out-of-control [miazma](https://
 
 Parameters:
 
+- Press Params:
+  - Params:
+    - Time To Live: 5.0
+    - Damage Kind: `iceplasma`
+    - Speed: 60
+  - Inaccuracy: 0.0225
+  - Type: `blueplasmabullet`
+  - Count: 4
+- Press Type: `semi`
+- Energy Usage: 14
 - Hold Time Max: 0.55
-- Base Dps: 3
-- Hold Type: `blast`
 - Fire Time: 0.2
 - Hold Params:
   - Params:
     - Time To Live: 5.0
     - Damage Kind: `iceplasma`
-  - Type: `wobbleshot`
   - Inaccuracy: 0.01
-- Press Params:
-  - Params:
-    - Speed: 60
-    - Time To Live: 5.0
-    - Damage Kind: `iceplasma`
-  - Type: `blueplasmabullet`
-  - Count: 4
-  - Inaccuracy: 0.0225
-- Press Type: `semi`
-- Energy Usage: 14
+  - Type: `wobbleshot`
+- Hold Type: `blast`
+- Base Dps: 3
 
 ## Sources
 
@@ -62,6 +62,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_enchanted_blaster-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`enchanted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`vionos`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Vionos), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

@@ -18,7 +18,6 @@ Press to disperse seeds! Hold to change seed type. Available: regular grass, flo
 
 Parameters:
 
-- Class: `AltaBlasterSwitch`
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.3
@@ -87,7 +86,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gyera_blaster`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`grass_blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/GrassBlaster), [`gyera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`gyera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`plant_tool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantTool), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/active/alta/tools/other/ct_gyera_blaster.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/other/ct_gyera_blaster.activeitem)

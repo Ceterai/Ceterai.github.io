@@ -47,6 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hevika_terminal`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`hevika`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), [`holographic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holographic), [`terminal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Terminal), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`wired`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wired)

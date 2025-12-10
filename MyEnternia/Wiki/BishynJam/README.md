@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Bishyn Jam icon" loading="lazy" width="auto" height="16px"/> **Bishyn Jam** is a common dish.
 
-Since [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) crystals are not very edible, this isn't actually bishyn. It is, however, quite bitter and tingy, exactly what you would expect from it.  
+Since <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals are not very edible, this isn't actually bishyn. It is, however, quite bitter and tingy, exactly what you would expect from it.  
 Due to it being a crystal-based jam, it can easily be used as a substitute for other calin jams in almost any dish.
 
 ## Ingame
@@ -53,6 +53,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_crystal_jam-bishyn`
+- Level: `2`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`jam`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Jam)

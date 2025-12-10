@@ -20,9 +20,9 @@ Radiomessages on pickup:
 When used:
 
 - for threat level **0+** (pool rounds: x*3* (weight: 0.1), x*4* (weight: 0.4), x*5* (weight: 0.4), x*6* (weight: 0.1)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*2* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"/> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*2* (weight: 0.15)
-- `waterballoon` x*4* (weight: 0.2)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*2* (weight: 0.15)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"/> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*2* (weight: 0.1)
+- `waterballoon` x*4* (weight: 0.15)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*1* (weight: 0.007)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto_twin/icon.png" alt="Verriskoywa Twin Alto Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Twin Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinAltoFlower) x*1* (weight: 0.006)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*1* (weight: 0.007)
@@ -30,9 +30,12 @@ When used:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*1* (weight: 0.007)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko_twin/icon.png" alt="Verriskoywa Twin Miko Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Twin Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinMikoFlower) x*1* (weight: 0.0065)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*1* (weight: 0.04)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*1* (weight: 0.04)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*1* (weight: 0.04)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/alto/icon.png" alt="Potted Alto Koywa Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Alto Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedAltoKoywaFlower) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Faro Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedFaroKoywaFlower) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/miko/icon.png" alt="Potted Miko Koywa Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Miko Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedMikoKoywaFlower) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" width="auto" height="16px"/> [Potted Koywa](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywa) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa_tall/icon.png" alt="Potted Koywa Bush icon" loading="lazy" width="auto" height="16px"/> [Potted Koywa Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywaBush) x*1* (weight: 0.02)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/voda/icon.png" alt="Potted Vodakoywa icon" loading="lazy" width="auto" height="16px"/> [Potted Vodakoywa](https://ceterai.github.io/MyEnternia/Wiki/PottedVodakoywa) x*1* (weight: 0.02)
 - <img src="https://starbounder.org/mediawiki/images/1/10/Large_Cooler.png" alt="Large Cooler icon" loading="lazy" width="12px" height="6px"/> [Large Cooler](https://starbounder.org/Large_Cooler) x*1* (weight: 0.04)
 - `oasisbed` x*1* (weight: 0.04)
 - `deckchair` x*1* (weight: 0.04)
@@ -73,6 +76,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_koywa_loot`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot)

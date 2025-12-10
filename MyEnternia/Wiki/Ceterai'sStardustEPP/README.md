@@ -36,6 +36,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_stardust_epp`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Legendary`
 - File: [`/items/armors/alta/tier6/stardust_epp/ct_alta_stardust_epp.back`](https://github.com/Ceterai/Enternia/blob/main/items/armors/alta/tier6/stardust_epp/ct_alta_stardust_epp.back)

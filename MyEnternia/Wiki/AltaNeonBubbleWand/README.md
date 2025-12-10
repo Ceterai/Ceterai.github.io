@@ -12,8 +12,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
-- Class: `GunFire`
 - Fire Time: 0.1
 - Base Dps:
 - Energy Usage:
@@ -31,6 +29,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_neon_bubble_wand`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)

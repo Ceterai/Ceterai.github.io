@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Perfect Altasoup ★ icon" loading="lazy" width="auto" height="16px"/> **Perfect Altasoup ★** is a legendary dish.
 
-This soup is exceptionally nourishing! Only the best [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) restaurants are able to make them taste this good.  
+This soup is exceptionally nourishing! Only the best [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) restaurants are able to make them taste this good.  
 A perfectly followed recipe that led to a perfectly cooked meal. Nothing else to add here, really.
 
 ## Ingame
@@ -35,6 +35,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_soup-perfect`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)

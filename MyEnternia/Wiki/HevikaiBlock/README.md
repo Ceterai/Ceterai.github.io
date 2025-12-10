@@ -1,5 +1,7 @@
 # Hevikai Block
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai_block.png" alt="Hevikai Block icon" loading="lazy" width="auto" height="16px"/> **Hevikai Block** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Prevents or cures existing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai).
 
 Applied by following items:

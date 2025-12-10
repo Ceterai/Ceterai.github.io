@@ -20,7 +20,16 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
+- Dash Max Speed: 120
+- Energy Usage: 50
+- Combo Cooldown: 1.0
+- Damage Config:
+  - Damage Source Kind: `axe`
+- Power: 16
+- Projectile Count:
+- Hold Cooldown: 1.6
 - Max Dash Time: 0.25
+- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
 - Step Damage Config: 
 - Base Damage Factor: 1.35
 - Knockback: 5, 
@@ -31,17 +40,6 @@ Parameters:
 - Base Damage Factor: 2.2
 - Knockback: 15
 - Status Effects:  `paralysis`
-- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
-- Projectile Count:
-- Class: `AsiraiAttack`
-- Dash Max Speed: 120
-- Damage Config:
-  - Damage Source Kind: `axe`
-- Power: 16
-- Hold Cooldown: 1.6
-- Combo Cooldown: 1.0
-- Energy Usage: 50
-- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
 
 ### Energy Seeker
 
@@ -49,15 +47,13 @@ Alternative ability of the item, activated with right mouse button.
 
 Parameters:
 
-- Power: 4
 - Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
 - Projectile Parameters:
   - Knockback: 25
   - Time To Live: 2.5
-- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
-- Class: `AsiraiSpin`
 - Damage Config:
 
+- Power: 4
 
 ## Sources
 
@@ -66,6 +62,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ctspear-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`axe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Axe), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

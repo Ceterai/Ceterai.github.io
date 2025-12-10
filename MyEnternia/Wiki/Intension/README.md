@@ -1,5 +1,7 @@
 # Intension
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"/> **Intension** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 ## Parameters
 
 Blocking Stat: `ionicStatusImmunity`  

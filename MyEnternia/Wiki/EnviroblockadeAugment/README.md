@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_arco_blockade_augment.png" alt="Enviroblockade Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Enviroblockade Augment ★★** is a rare EPP augment.
 
-An EPP module that boosts your [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance) by 15% and gives [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity).
+An EPP module that boosts your <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"/> [electric resistance](https://starbounder.org/Electric_Resistance) by 15% and gives <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Immunity](https://starbounder.org/Electric_Resistance).
 
 ## Ingame
 
@@ -55,6 +55,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_arco_blockade_augment`
+- Level: `5`
 - Power: `3.6`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arco`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arco), [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

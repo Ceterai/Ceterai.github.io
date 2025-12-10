@@ -54,6 +54,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_grass_seeds`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`plant_tool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantTool)
 - File: [`/items/active/alta/tools/plant/ct_grass_seeds.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/plant/ct_grass_seeds.thrownitem)

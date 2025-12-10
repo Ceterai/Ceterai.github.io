@@ -1,6 +1,8 @@
 # Ionic Hive
 
-Sometimes hives can be found even on [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets. Bevare of added electricity!
+ **Ionic Hive** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+
+Sometimes hives can be found even on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets. Bevare of added electricity!
 
 ## Technical Information
 

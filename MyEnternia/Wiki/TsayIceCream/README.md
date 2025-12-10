@@ -22,7 +22,7 @@ Applies effects:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Iced Tsay Dessert ★ icon" loading="lazy" width="auto" height="16px"/> [Iced Tsay Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedTsayDessert)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Iced Tsay Dessert ★ icon" loading="lazy" width="auto" height="16px"/> [Iced Tsay Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedTsayDessert) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
@@ -65,6 +65,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tsay_icecream`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

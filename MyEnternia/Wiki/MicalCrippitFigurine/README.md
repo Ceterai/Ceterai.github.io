@@ -29,6 +29,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_mical_crippit_af`
+- Level: `6`
 - Power: `4.2`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crippit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crippit), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"/> **Calin Cuisine Book** is an uncommon codex entry.
 
-An ebook containing various crystal-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) recipes and their history. (Unlocks some calin recipes)  
-[Alta culture](https://ceterai.github.io/MyEnternia/Wiki/Altaculture) revolves heavily around crystals and their utilization. This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different calin recipes and the culture around them.
+An ebook containing various crystal-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) recipes and their history. (Unlocks some calin recipes)  
+[alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) revolves heavily around crystals and their utilization. This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different calin recipes and the culture around them.
 
 ## Ingame
 
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-[Calin cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), as the name suggests, is based on edible [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/crystallic) ingredients.
+[calin cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#calin), as the name suggests, is based on edible <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystals](https://starbounder.org/Crystal) and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/Io#crystallic) ingredients.
 
 Most common produce like [carels](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel) figure in almost every calin dish out there.
 
@@ -78,6 +78,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_food_calin-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

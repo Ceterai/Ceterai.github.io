@@ -1,5 +1,7 @@
 # Orbital Strike
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_orbital_strike.png" alt="Orbital Strike icon" loading="lazy" width="auto" height="16px"/> **Orbital Strike** is a special [weather condition](https://ceterai.github.io/MyEnternia/Wiki/Weather).
+
 If you can hear the siren, run to the nearest shelter! A massive airstrike is incoming, and will cover the surface in deadly missiles! This is not a drill!!
 
 ## Parameters

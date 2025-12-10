@@ -30,6 +30,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_b803_plush`
+- Level: `8`
 - Power: `4.5`
 - Rarity: `Essential`
 - Tags: [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)

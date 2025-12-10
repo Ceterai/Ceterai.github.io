@@ -1,6 +1,6 @@
 # Breakables
 
-This mod adds 49 breakables.
+The mod adds a total of 49 breakables:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" width="auto" height="16px"/> [Alta Drone Station](https://ceterai.github.io/MyEnternia/Wiki/AltaDroneStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Capsule](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule)

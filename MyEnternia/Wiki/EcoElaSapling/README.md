@@ -32,11 +32,13 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/boosted/icon.png" alt="Boosted Ela Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Ela Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedElaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" width="auto" height="16px"/> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ela/icon.png" alt="Potted Ela icon" loading="lazy" width="auto" height="16px"/> [Potted Ela](https://ceterai.github.io/MyEnternia/Wiki/PottedEla)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" width="auto" height="16px"/> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed)
 
 Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/pod/icon.png" alt="Ela Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Ela Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ElaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ela/icon.png" alt="Potted Ela icon" loading="lazy" width="auto" height="16px"/> [Potted Ela](https://ceterai.github.io/MyEnternia/Wiki/PottedEla)
 
 ## Sources
 
@@ -56,6 +58,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ela_eco`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Colony tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`enterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

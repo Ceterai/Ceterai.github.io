@@ -15,15 +15,9 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Scripts:  `/items/active/alta/tools/durability.lua`
-- Class: `LimitedShot`
-- Fire Offset:  2.5,  0.25
 - Energy Per Shot: 25
 - Cooldown Time: 0.25
 - Inaccuracy: 0.01
-- Draw Frame Selector: `pollenpumpImageSelector`
-- Draw Power Multiplier: `pollenpumpPowerMultiplier`
-- Draw Speed Multiplier: `pollenpumpTimeMultiplier`
 - Projectile Type: `pollenpumpgas`
 - Power Projectile Type: `pollenpumpgasspray`
 - Power Projectile Time:  1.0,  60
@@ -31,7 +25,6 @@ Parameters:
   - Damage Kind: `bugnet`
   - Speed: 5
   - Power: 6.5
-- Draw Arm Frames:  `swim.2`,  `swimIdle.1`
 
 ## Sources
 
@@ -47,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_pollen_pump`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`sanitary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sanitary), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

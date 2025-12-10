@@ -1,5 +1,7 @@
 # Enviro Protection
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"/> **Enviro Protection** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Increases your [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) resistance by 15%.
 
 Applied by following items:

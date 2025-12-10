@@ -1,6 +1,6 @@
 # Crafting Materials
 
-This mod adds 19 crafting materials.
+The mod adds a total of 19 crafting materials:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altan.png" alt="Altan Compound icon" loading="lazy" width="auto" height="16px"/> [Altan Compound](https://ceterai.github.io/MyEnternia/Wiki/AltanCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere)

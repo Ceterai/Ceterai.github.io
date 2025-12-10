@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/monitor/icon.png" alt="Bishyn Monitor icon" loading="lazy" width="auto" height="16px"/> **Bishyn Monitor** is an uncommon decorative object.
 
-Broken [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) display.
+Broken <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) display.
 
 ## Ingame
 
@@ -41,6 +41,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bishyn_monitor`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`knowledge`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Knowledge), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

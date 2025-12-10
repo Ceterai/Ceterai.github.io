@@ -47,6 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_celestial_pick`
+- Level: `8`
 - Power: `4.5`
 - Rarity: `Essential`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`mining`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mining), [`miningtool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Miningtool), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`pickaxe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pickaxe)

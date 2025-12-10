@@ -28,11 +28,11 @@ Such labs, in addition to the usual equipment such as <img src="https://raw.gith
 Medical laboratories, on the other hand, most often have a large number of advanced models of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" width="auto" height="16px"/> [alta lifechambers](https://ceterai.github.io/MyEnternia/Wiki/AltaLifechamber) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/bed/icon.png" alt="Alta Lab Bed icon" loading="lazy" width="auto" height="16px"/> [alta lab beds](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBed), allowing not only to perform dangerous operations, but also to send altas into medical stasis, keeping them alive.  
 Similar equipment, but for plants, can be found in botanical research gardens - [alta lab eco chambers](https://ceterai.github.io/MyEnternia/Wiki/altalabecochambers) designed to support life for specimens that require non-standard conditions.
 
-Thus, complexes with similar equipment can be easily found in places where the research industry is concentrated - on the islands of [esetera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Esetera), among [astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera) asteroids and occasionally near the moderate [ion cores](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) of planets.
+Thus, complexes with similar equipment can be easily found in places where the research industry is concentrated - on the islands of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera), among [astera](https://ceterai.github.io/MyEnternia/Wiki/Astera) asteroids and occasionally near the moderate [ion cores](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) of planets.
 
 Occasionally, general laboratories and research centers can be found on the surface, but such complexes more often than not use other types of equipment.
 
-Some scientific companies and organizations use their own developed equipment, such as [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdis) and [Ghearun](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun).
+Some scientific companies and organizations use their own developed equipment, such as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" width="16" height="16"/> [hevika ordis](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevika-ordis) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" width="16" height="16"/> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun).
 
 In such cases, access and security technologies are based on the company's own protocols, in addition to the mandatory ones.
 
@@ -67,7 +67,7 @@ Can be bought from merchants:
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 32 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [A.R.C.O. Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.FieldResearcher)
@@ -89,7 +89,6 @@ Can be bought from merchants:
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [Ceterai Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFieldResearcher)
 - [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [EDS Researcher](https://ceterai.github.io/MyEnternia/Wiki/EDSResearcher)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
@@ -114,6 +113,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_lab-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

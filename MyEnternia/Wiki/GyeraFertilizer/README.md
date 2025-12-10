@@ -1,6 +1,6 @@
 # Gyera Fertilizer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" width="auto" height="16px"/> **Gyera Fertilizer** is an uncommon food item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" width="auto" height="16px"/> **Gyera Fertilizer** is an uncommon tool.
 
 A fertilizer made by Iora Gyera Ordis, made for garden plants. Will likely poison you if consumed directly.
 
@@ -18,7 +18,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"/> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 19 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 20 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/pod/icon.png" alt="Aya Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Aya Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AyaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/pod/icon.png" alt="Beakseed Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Beakseed Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/BeakseedEcoPod)
@@ -36,6 +36,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/aya/icon.png" alt="Potted Aya icon" loading="lazy" width="auto" height="16px"/> [Potted Aya](https://ceterai.github.io/MyEnternia/Wiki/PottedAya)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/berry/icon.png" alt="Potted Giant Berry icon" loading="lazy" width="auto" height="16px"/> [Potted Giant Berry](https://ceterai.github.io/MyEnternia/Wiki/PottedGiantBerry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/gil/icon.png" alt="Potted Gil icon" loading="lazy" width="auto" height="16px"/> [Potted Gil](https://ceterai.github.io/MyEnternia/Wiki/PottedGil)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/haven/icon.png" alt="Potted Haven Bouquet icon" loading="lazy" width="auto" height="16px"/> [Potted Haven Bouquet](https://ceterai.github.io/MyEnternia/Wiki/PottedHavenBouquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/tsay/icon.png" alt="Potted Tsay icon" loading="lazy" width="auto" height="16px"/> [Potted Tsay](https://ceterai.github.io/MyEnternia/Wiki/PottedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/yaavi/icon.png" alt="Potted Yaavi icon" loading="lazy" width="auto" height="16px"/> [Potted Yaavi](https://ceterai.github.io/MyEnternia/Wiki/PottedYaavi)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/pod/icon.png" alt="Tsay Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Tsay Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/TsayEcoPod)
@@ -93,6 +94,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gyera_fertilizer`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`fertilizer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fertilizer), [`gyera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

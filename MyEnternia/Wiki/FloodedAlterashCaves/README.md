@@ -1,6 +1,8 @@
 # Flooded Alterash Caves
 
-A set of flooded caves with various seaweeds and fish. Contains various [koywa](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa) loot and lots of [moondust](https://ceterai.github.io/MyEnternia/Wiki/moondust).
+ **Flooded Alterash Caves** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+
+A set of flooded caves with various seaweeds and fish. Contains various <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" width="16" height="16"/> [koywa](https://ceterai.github.io/MyEnternia/Wiki/Koywa) loot and lots of <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" width="10px" height="10px"/> [moondust](https://starbounder.org/Moondust).
 
 ## Technical Information
 

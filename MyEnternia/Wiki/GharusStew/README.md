@@ -18,8 +18,8 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/jumpboost.png" alt="Velocity Boost icon" loading="lazy" width="auto" height="16px"/> [Velocity Boost](https://ceterai.github.io/MyEnternia/Wiki/VelocityBoost) (180s)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/statuses/swimboost.png" alt="Swim Boosters icon" loading="lazy" width="auto" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters) (180s)
+- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="icon" loading="lazy" width="16px" height="16px"/> [Velocity Boost](https://ceterai.github.io/MyEnternia/Wiki/VelocityBoost) (180s)
+- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="icon" loading="lazy" width="16px" height="16px"/> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters) (180s)
 
 ## Usage
 
@@ -54,6 +54,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_gil_tsay_stew-gharus`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`stew`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stew), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay)

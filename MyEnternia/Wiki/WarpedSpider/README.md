@@ -22,6 +22,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_spider_af`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`bug`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bug), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

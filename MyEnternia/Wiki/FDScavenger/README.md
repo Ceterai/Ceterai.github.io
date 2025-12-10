@@ -19,7 +19,6 @@ This blaster fires rare, powerful blasts. Perfect for hunting down a huge monste
 
 Parameters:
 
-- Class: `AltaRanged`
 - Base Dps: 10
 - Energy Usage: 36
 - Fire Time: 1.6
@@ -36,7 +35,6 @@ Hold - launch a Static Nade.
 
 Parameters:
 
-- Class: `AltaSwitch`
 - Base Dps: 10
 - Energy Usage: 36
 - Fire Time: 0.5
@@ -69,6 +67,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_faradea_scavenger`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`faradea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea), [`impulse`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`sniperrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sniperrifle), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

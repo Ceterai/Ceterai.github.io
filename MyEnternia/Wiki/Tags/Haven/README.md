@@ -1,10 +1,10 @@
 # Haven Tag
 
-The tag `haven` contains 23 total entries.
+The tag `haven` contains 24 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 13 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/eco/icon.png" alt="Eco Haven Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Haven Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHavenSapling)
@@ -12,6 +12,7 @@ The tag `haven` contains 23 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" width="auto" height="16px"/> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/sapling/icon.png" alt="Haven Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Haven Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/HavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/haven/icon.png" alt="Potted Haven Bouquet icon" loading="lazy" width="auto" height="16px"/> [Potted Haven Bouquet](https://ceterai.github.io/MyEnternia/Wiki/PottedHavenBouquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Toxic Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedToxicFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/pod/icon.png" alt="Turanta Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Turanta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/TurantaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/sapling/icon.png" alt="Turanta Sapling icon" loading="lazy" width="auto" height="16px"/> [Turanta Sapling](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yaara/icon.png" alt="Yaara Sample icon" loading="lazy" width="auto" height="16px"/> **Yaara Sample** is a rare decorative object.
 
-A perfect sample of [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) growth, preserved on a small titanium pedestal.
+A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) growth, preserved on a small titanium pedestal.
 
 ## Ingame
 
@@ -21,6 +21,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_yaara_sample`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sample`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sample), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)

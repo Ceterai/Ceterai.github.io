@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatsyn_drop3/icon.png" alt="Gheatsyn Dripping Crystal icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Dripping Crystal** is a common breakable object.
 
-A [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) crystal slowly dripping itself on the ground.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal slowly dripping itself on the ground.
 
 ## Ingame
 
@@ -38,6 +38,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_drop3`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc)

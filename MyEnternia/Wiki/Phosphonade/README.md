@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_phosphonade.png" alt="Phosphonade icon" loading="lazy" width="auto" height="16px"/> **Phosphonade** is an uncommon fiery throwable item.
 
-A dangerous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) device that bursts with radioactive waves on impact.  
+A dangerous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) device that bursts with radioactive waves on impact.  
 This is a piece of adapted kaiter technology, used as a defensive tactic against similar threats, but is mainly considered kaiter technology. While it doesn't create any radioactive waste with usage, it should be used sparingly to ensure alta safety.
 
 ## Ingame
@@ -31,6 +31,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_phosphonade`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`energy_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnergySource), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`nade`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nade), [`phospholion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Phospholion), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

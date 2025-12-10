@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> **Energy Cell** is an uncommon crafting material.
 
-This medium-capacity energy cell was developed by [Tserera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tserera) scientists and is designed to power various [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) devices.  
+This medium-capacity energy cell was developed by [tserera](https://ceterai.github.io/MyEnternia/Wiki/Alta#tserera) scientists and is designed to power various [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) devices.  
 Also known as G2 (size-2) **Nia Yon**, or **Nion** for short, these handy creations are the main source of energy for most casual small to medium sized technology, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/laptop/icon.png" alt="Alta Laptop icon" loading="lazy" width="auto" height="16px"/> [alta laptops](https://ceterai.github.io/MyEnternia/Wiki/AltaLaptop), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/visor/icon.png" alt="Omniblue Visor icon" loading="lazy" width="auto" height="16px"/> [omniblue visors](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVisor) and even different [alta robotics](https://ceterai.github.io/MyEnternia/Wiki/altarobotics).  
 For more powerful, energy-expensive or otherwise big tech, altas use more advanced energy sources, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore), energy spheres or even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pyramid/icon.png" alt="Alta Pyramid icon" loading="lazy" width="auto" height="16px"/> [alta pyramids](https://ceterai.github.io/MyEnternia/Wiki/AltaPyramid).
 
@@ -24,7 +24,6 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" width="auto" height="16px"/> [Alta Cooler](https://ceterai.github.io/MyEnternia/Wiki/AltaCooler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/eco/icon.png" alt="Alta Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Energy Block ★](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/flashlight/icon.png" alt="Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> [Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/AltaFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fridge/icon.png" alt="Alta Fridge icon" loading="lazy" width="auto" height="16px"/> [Alta Fridge](https://ceterai.github.io/MyEnternia/Wiki/AltaFridge)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/gateway/icon.png" alt="Alta Gateway icon" loading="lazy" width="auto" height="16px"/> [Alta Gateway](https://ceterai.github.io/MyEnternia/Wiki/AltaGateway)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/hand_dryer/icon.png" alt="Alta Hand Dryer icon" loading="lazy" width="auto" height="16px"/> [Alta Hand Dryer](https://ceterai.github.io/MyEnternia/Wiki/AltaHandDryer)
@@ -143,6 +142,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Security Protocol Datamass icon" loading="lazy" width="auto" height="16px"/> [Security Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/SecurityProtocolDatamass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"/> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" width="auto" height="16px"/> [Stun Stick](https://ceterai.github.io/MyEnternia/Wiki/StunStick)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/flashlight/icon.png" alt="Toy Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> [Toy Alta Flashlight](https://ceterai.github.io/MyEnternia/Wiki/ToyAltaFlashlight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/backdoor/icon.png" alt="Unknown Device icon" loading="lazy" width="auto" height="16px"/> [Unknown Device](https://ceterai.github.io/MyEnternia/Wiki/UnknownDevice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Watcher Drone icon" loading="lazy" width="auto" height="16px"/> [Watcher Drone](https://ceterai.github.io/MyEnternia/Wiki/WatcherDrone)
 
@@ -239,6 +239,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_energy_cell`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`energy_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnergySource), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

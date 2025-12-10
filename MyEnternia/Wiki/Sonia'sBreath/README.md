@@ -20,20 +20,20 @@ An advanced cooling mechanism that's able to generate a stream of cold gas mass 
 
 Parameters:
 
+- Energy Usage: 16
 - Hold Time Max:
-- Base Dps: 4
-- Loop: `True`
-- Hold Type: `thrower`
 - Fire Time: 0.065
 - Hold Params:
-  - Interval:
   - Params:
-    - Animation Cycle: 1
     - Time To Live: 0.98
+    - Animation Cycle: 1
   - Type: `icethrower`
+  - Interval:
+- Hold Type: `thrower`
 - Hold Cooldown:
+- Loop: `True`
 - Hold Time Min:
-- Energy Usage: 16
+- Base Dps: 4
 
 ## Sources
 
@@ -47,6 +47,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_soniathrower-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`thrower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Thrower), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`wrist`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wrist)

@@ -1,5 +1,7 @@
 # Overcharged Crystals
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"/> **Overcharged Crystals** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Repeatedly damages enemies around you with rapid [Pulsings](https://ceterai.github.io/MyEnternia/Wiki/Pulsings).
 
 <details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>

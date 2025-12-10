@@ -37,6 +37,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_wild_core_seed`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Colony tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`core`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Core), [`enterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

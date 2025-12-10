@@ -25,6 +25,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_starfly_af`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`bug`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bug), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

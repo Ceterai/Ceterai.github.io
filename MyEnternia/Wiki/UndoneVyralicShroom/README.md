@@ -77,6 +77,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_vyralic_twisted_undone`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`aric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`shroom`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shroom), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -42,6 +42,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_cafe_umbrella_striped`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`beach`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Beach), [`cafe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cafe), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common)

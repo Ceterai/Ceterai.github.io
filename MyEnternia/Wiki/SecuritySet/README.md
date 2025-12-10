@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"/> **Security Set** is an uncommon loot item.
 
-Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security soldier, including a lore codex of this set.
+Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
 An open body suit with titanium armor plating and simple defensive mechanisms that run on basic energy cells. Provides additional energy to carried devices and tools as well.
 
@@ -56,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security_set`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`set`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Set), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

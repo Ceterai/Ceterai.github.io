@@ -18,6 +18,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_rail_hook`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`rail_tool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RailTool), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/active/alta/tools/rail/hook/ct_alta_rail_hook.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/rail/hook/ct_alta_rail_hook.activeitem)

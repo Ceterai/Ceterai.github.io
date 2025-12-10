@@ -1,6 +1,6 @@
 # Weapon Tag
 
-The tag `weapon` contains 146 total entries.
+The tag `weapon` contains 145 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `weapon` contains 146 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 146 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 145 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"/> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_baton.png" alt="Alta Baton icon" loading="lazy" width="auto" height="16px"/> [Alta Baton](https://ceterai.github.io/MyEnternia/Wiki/AltaBaton)
@@ -69,14 +69,13 @@ The tag `weapon` contains 146 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_entropy.png" alt="Entropy ★ icon" loading="lazy" width="auto" height="16px"/> [Entropy ★](https://ceterai.github.io/MyEnternia/Wiki/Entropy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" width="auto" height="16px"/> [Estralis Vi](https://ceterai.github.io/MyEnternia/Wiki/EstralisVi)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/love/icon.png" alt="Estria's Bow icon" loading="lazy" width="auto" height="16px"/> [Estria's Bow](https://ceterai.github.io/MyEnternia/Wiki/Estria'sBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk_2.png" alt="Estria's Kiss ★ icon" loading="lazy" width="auto" height="16px"/> [Estria's Kiss ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sKiss)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estria's Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> [Estria's Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sVyurm)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance_2.png" alt="Eva Linn ★ icon" loading="lazy" width="auto" height="16px"/> [Eva Linn ★](https://ceterai.github.io/MyEnternia/Wiki/EvaLinn)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" width="auto" height="16px"/> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"/> [Faradeus Prime ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeusPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_faradea_scavenger.png" alt="FD Scavenger ★ icon" loading="lazy" width="auto" height="16px"/> [FD Scavenger ★](https://ceterai.github.io/MyEnternia/Wiki/FDScavenger)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/capture/filled_pod/icon.png" alt="Filled Capture Pod icon" loading="lazy" width="auto" height="16px"/> [Filled Capture Pod](https://ceterai.github.io/MyEnternia/Wiki/FilledCapturePod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword.png" alt="Flowersword icon" loading="lazy" width="auto" height="16px"/> [Flowersword](https://ceterai.github.io/MyEnternia/Wiki/Flowersword)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png" alt="Gheablade icon" loading="lazy" width="auto" height="16px"/> [Gheablade](https://ceterai.github.io/MyEnternia/Wiki/Gheablade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade_2.png" alt="Gheacleaver ★ icon" loading="lazy" width="auto" height="16px"/> [Gheacleaver ★](https://ceterai.github.io/MyEnternia/Wiki/Gheacleaver)

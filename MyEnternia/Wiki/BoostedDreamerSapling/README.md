@@ -51,6 +51,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_dream_boosted`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Colony tags: [`dream`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dream), [`enterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

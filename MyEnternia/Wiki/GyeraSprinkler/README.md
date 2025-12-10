@@ -66,6 +66,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gyera_sprinkler`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`gyera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

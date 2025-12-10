@@ -42,6 +42,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gyera_emblem`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`emblem`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Emblem), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`holographic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holographic), [`patriotic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Patriotic)

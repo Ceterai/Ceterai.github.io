@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/hatch/icon.png" alt="Bishyn Hatch icon" loading="lazy" width="auto" height="16px"/> **Bishyn Hatch** is an uncommon door.
 
-A smooth [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) hatch.
+A smooth <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) hatch.
 
 ## Ingame
 
@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bishyn_hatch`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door), [`mechanical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mechanical), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

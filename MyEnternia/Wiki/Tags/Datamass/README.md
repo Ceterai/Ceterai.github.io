@@ -1,6 +1,6 @@
 # Datamass Tag
 
-The tag `datamass` contains 30 total entries.
+The tag `datamass` contains 33 total entries.
 
 ## Objects
 
@@ -8,8 +8,9 @@ The tag `datamass` contains 30 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 30 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 33 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="A Secret Note icon" loading="lazy" width="auto" height="16px"/> [A Secret Note](https://ceterai.github.io/MyEnternia/Wiki/ASecretNote)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arco.png" alt="A.R.C.O. Research icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Research](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" width="auto" height="16px"/> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
@@ -20,6 +21,7 @@ The tag `datamass` contains 30 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" width="auto" height="16px"/> [Alta's Recommendation Letter](https://ceterai.github.io/MyEnternia/Wiki/Alta'sRecommendationLetter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" width="auto" height="16px"/> [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Astera Industries icon" loading="lazy" width="auto" height="16px"/> [Astera Industries](https://ceterai.github.io/MyEnternia/Wiki/AsteraIndustries)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="CEN-7 Reapplication Request icon" loading="lazy" width="auto" height="16px"/> [CEN-7 Reapplication Request](https://ceterai.github.io/MyEnternia/Wiki/CEN-7ReapplicationRequest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ceterai Project Database icon" loading="lazy" width="auto" height="16px"/> [Ceterai Project Database](https://ceterai.github.io/MyEnternia/Wiki/CeteraiProjectDatabase)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Combat Protocol Datamass icon" loading="lazy" width="auto" height="16px"/> [Combat Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/CombatProtocolDatamass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Complicated Nature of Bion icon" loading="lazy" width="auto" height="16px"/> [Complicated Nature of Bion](https://ceterai.github.io/MyEnternia/Wiki/ComplicatedNatureofBion)
@@ -32,6 +34,7 @@ The tag `datamass` contains 30 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" width="auto" height="16px"/> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Enchanted Datamass icon" loading="lazy" width="auto" height="16px"/> [Enchanted Datamass](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Eva Nature icon" loading="lazy" width="auto" height="16px"/> [Eva Nature](https://ceterai.github.io/MyEnternia/Wiki/EvaNature)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Evacuation Notes icon" loading="lazy" width="auto" height="16px"/> [Evacuation Notes](https://ceterai.github.io/MyEnternia/Wiki/EvacuationNotes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/gheatsyn.png" alt="Ghearun Excavation Protocol icon" loading="lazy" width="auto" height="16px"/> [Ghearun Excavation Protocol](https://ceterai.github.io/MyEnternia/Wiki/GhearunExcavationProtocol)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="Hevika Ordis Welcome Message icon" loading="lazy" width="auto" height="16px"/> [Hevika Ordis Welcome Message](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdisWelcomeMessage)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" width="auto" height="16px"/> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring)

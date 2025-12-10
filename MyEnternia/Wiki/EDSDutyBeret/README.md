@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png" alt="EDS Duty Beret icon" loading="lazy" width="auto" height="16px"/> **EDS Duty Beret** is an uncommon head cosmetic item.
 
-Decorative on-duty [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) headwear.
+Decorative on-duty [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) headwear.
 
 ## Ingame
 
@@ -38,6 +38,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_beret`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`patriotic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Patriotic), [`tier5clothing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier5Clothing), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

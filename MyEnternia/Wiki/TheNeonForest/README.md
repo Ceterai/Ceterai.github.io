@@ -21,7 +21,7 @@ A bright neon-like cold glow lightens up some parts of esetera. Its massive colu
 
 Although they look very soft and dense from a distance, as you get closer you realise that this is not the case. These huge, biocrystallic tonnovas are stemming from the hard moonrock covering the space.
 
-Its rare spring will guide you along the way to the sacred <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) treasure, hidden among the luminous [tonnova groves](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove).
+Its rare spring will guide you along the way to the sacred <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) treasure, hidden among the luminous [tonnova groves](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove).
 
 Be careful while traveling among all the tonnova springs and trees, and watch out for falling <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> [tonnas](https://ceterai.github.io/MyEnternia/Wiki/Tonna)!
 
@@ -59,6 +59,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tonnova-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`bion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

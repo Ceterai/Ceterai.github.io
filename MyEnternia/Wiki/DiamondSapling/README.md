@@ -57,6 +57,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_diamond_sapling`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Colony tags: [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`diamond`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Diamond), [`enterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

@@ -1,8 +1,8 @@
-> Main page: [Energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy)
+> Main page: [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy)
 
 # Enternia
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="icon" loading="lazy" width="auto" height="16px"/> **Enternia** is a type of [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy) commonly found in form of essence, static and in [rocks or asteroids](https://ceterai.github.io/MyEnternia/Wiki/Astera). This is the most common type of energy on enterash planets and is considered to be the most powerful and hard to contain compared to other types - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="icon" loading="lazy" width="auto" height="16px"/> **Enternia** is a type of [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy) commonly found in form of essence, static and in [rocks or asteroids](https://ceterai.github.io/MyEnternia/Wiki/Astera). This is the most common type of energy on  planets and is considered to be the most powerful and hard to contain compared to other types - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia).
 
 In the most extreme cases this kind of energy can break the boundaries of usual energy spectrum, creating an anomaly called the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/unsorted/alta/loot/sets/ct_void_set.png" alt="icon" loading="lazy" width="auto" height="16px"/> [Void Energy](https://ceterai.github.io/MyEnternia/Wiki/VoidEnergy). Areas with such snomalies are referred to as [Void](https://ceterai.github.io/MyEnternia/Wiki/Void).
 
@@ -15,7 +15,7 @@ Plasma projectiles often have **high speed** and can **ricoshet** off of surface
 
 ### Immunity
 
-Immunity to all ionic effects is provided via <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="icon" width="16" height="16"/> [Ionic Status Immunity](https://ceterai.github.io/MyEnternia/Wiki/Enternia#immunity).  
+Immunity to all ionic effects is provided via <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="icon" width="16" height="16"/> [ionic status immunity](https://ceterai.github.io/MyEnternia/Wiki/Enternia#immunity).  
 Additionally, negative aspects of most ionic effects can be reduced or blocked with <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance).  
 Can be accquired via the use of items, for example:
 

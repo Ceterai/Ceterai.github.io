@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_spawner/icon.png" alt="Isospawner icon" loading="lazy" width="auto" height="16px"/> **Isospawner** is a common breakable object.
 
-A vile pile of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime). There's something moving inside.
+A vile pile of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime). There's something moving inside.
 
 ## Ingame
 
@@ -36,6 +36,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_isoslime_spawner`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`izopoi`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Izopoi), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`slime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Slime), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner)

@@ -38,6 +38,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_food_mimic-aric_stew`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`aric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`stew`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stew), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)

@@ -24,7 +24,7 @@ To all my beloved sisters across the stars,
 
 As Alecta 10 begins its first cycle, I write to you with warmth in my heart and hope for our shared future.
 
-Whether you find yourself beneath [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) skies, deep in [esetera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Esetera) labs, or aboard ships beneath [astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), this moment connects us all.
+Whether you find yourself beneath <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) skies, deep in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) labs, or aboard ships beneath [astera](https://ceterai.github.io/MyEnternia/Wiki/Astera), this moment connects us all.
 
 The new year arrives not with routines and deadlines - but with universal <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) light in our hearts.
 
@@ -125,6 +125,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_new_year-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`new_year`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NewYear), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

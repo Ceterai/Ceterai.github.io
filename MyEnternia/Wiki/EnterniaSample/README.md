@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/enternia/icon.png" alt="Enternia Sample ★★ icon" loading="lazy" width="auto" height="16px"/> **Enternia Sample ★★** is a legendary decorative object.
 
-A perfect sample of an [enternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia)-saturated rock, preserved on a small titanium pedestal.
+A perfect sample of an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia)-saturated rock, preserved on a small titanium pedestal.
 
 ## Ingame
 
@@ -25,6 +25,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_enternia_sample`
+- Level: `6`
 - Power: `4.2`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`enternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`sample`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sample), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

@@ -51,6 +51,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_bionid_augment`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

@@ -36,6 +36,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_ion_cake-alien`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cake`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cake), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

@@ -66,6 +66,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_asirai`
+- Level: `5`
 - Power: `3.61`
 - Rarity: `Rare`
 - Tags: [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

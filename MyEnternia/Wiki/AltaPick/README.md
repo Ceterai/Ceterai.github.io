@@ -13,6 +13,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_pick`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`mining`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mining), [`miningtool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Miningtool), [`pickaxe`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pickaxe), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

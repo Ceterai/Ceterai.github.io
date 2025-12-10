@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" width="auto" height="16px"/> **Impulse Stim Pack** is a rare medical item.
 
-Provides 60s of 25% [electric resistance](https://ceterai.github.io/MyEnternia/Wiki/electricresistance), [Electric Immunity](https://ceterai.github.io/MyEnternia/Wiki/ElectricImmunity) and [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/ImpulseImmunity).  
+Provides 60s of 25% <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"/> [electric resistance](https://starbounder.org/Electric_Resistance), <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Immunity](https://starbounder.org/Electric_Resistance) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_impulse_block.png" alt="icon" width="16" height="16"/> [impulse immunity](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#immunity).  
 Taking this enhancer gives you an immediate boost that wears off almost instantly, leaving you adapted to similar impulse types for awhile.
 
 ## Ingame
@@ -55,6 +55,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_impulse_stim`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`enhancer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancer), [`impulse`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

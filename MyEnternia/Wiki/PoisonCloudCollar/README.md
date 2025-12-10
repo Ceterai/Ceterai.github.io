@@ -12,6 +12,12 @@ Radiomessages on pickup:
 Warped things can be bioluminescent, but they also tend to be quite venomous too. I wouldn't recommend testing your luck.
 - You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
 
+## Parameters
+
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)
+
 ## Usage
 
 Can be put on a captured creature.
@@ -44,6 +50,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_collar`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`collar`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Collar), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

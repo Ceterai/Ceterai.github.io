@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" width="auto" height="16px"/> **Akollic Shroom** is an uncommon tree sapling.
 
-A sizeable, wide [aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) shroom with a simple cap. Doesn't seem to be edible either way.
+A sizeable, wide <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) shroom with a simple cap. Doesn't seem to be edible either way.
 
 ## Ingame
 
@@ -82,6 +82,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_akollic_bulb`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`aric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`shroom`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shroom), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

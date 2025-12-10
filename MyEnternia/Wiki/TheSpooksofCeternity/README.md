@@ -118,6 +118,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ceternity-codex`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`ceternity`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

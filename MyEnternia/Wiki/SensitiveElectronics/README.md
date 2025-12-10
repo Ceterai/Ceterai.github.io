@@ -1,5 +1,7 @@
 # Sensitive Electronics
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> **Sensitive Electronics** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 If your health is lower than 50%, repeatedly damages enemies around you with electricity. The lower your health is, the more frequent the strikes are.
 
 Applied by following items:

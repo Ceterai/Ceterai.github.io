@@ -23,6 +23,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_thermomix_nade-koywa`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`nade`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nade), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Astera Loot Crate** is a rare loot item.
 
-Contains random loot from [iorash](https://ceterai.github.io/MyEnternia/Wiki/iorash) asteroids and [astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera) pods.  
+Contains random loot from [iorash](https://ceterai.github.io/MyEnternia/Wiki/iorash) asteroids and [astera](https://ceterai.github.io/MyEnternia/Wiki/Astera) pods.  
 Blessed by the stars and tears of astera, this pad is packed with astera alta devices and rarely [spacedrifter](https://ceterai.github.io/MyEnternia/Wiki/Spacedrifter) equipment.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: I heard these are packed by [arknights](https://ceterai.github.io/MyEnternia/Wiki/Arknight) as safety measures for [astera scouts](https://ceterai.github.io/MyEnternia/Wiki/asterascouts). Both [eva](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eva) and [astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera) are filled with stardust, so I can only imagine what treasure lies inside...
+- Alta: I heard these are packed by [arknights](https://ceterai.github.io/MyEnternia/Wiki/Arknight) as safety measures for [astera scouts](https://ceterai.github.io/MyEnternia/Wiki/asterascouts). Both [eva](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eva) and [astera](https://ceterai.github.io/MyEnternia/Wiki/Astera) are filled with stardust, so I can only imagine what treasure lies inside...
 
 Radiomessages on pickup:
 
@@ -62,6 +62,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_astera_loot`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`astera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/tank/icon.png" alt="Gheatsyn Tank icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Tank** is an uncommon light source.
 
-A [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) tank.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) tank.
 
 ## Ingame
 
@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_tank`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`science`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Science), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/legwear/icon.png" alt="Combat Off-Roaders icon" loading="lazy" width="auto" height="16px"/> **Combat Off-Roaders** is a rare leg armor piece.
 
-All [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) combat units wear these boots to ease traversing any landscape.
+All [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) combat units wear these boots to ease traversing any landscape.
 
 ## Parameters
 
@@ -43,6 +43,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_combat_legwear`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`tier5armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier5Armour)

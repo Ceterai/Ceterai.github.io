@@ -21,7 +21,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 ### Contents
 
 Error #264: EDS server address error
-#error264\008\%^%$\=432^&+%^678$^\%78+$`231
+ #error264\008\%^%$\=432^&+%^678$^\%78+$`231
 Performing automatic reboot . . .
 CPU Cooling . . .
 Client: Creation . . .
@@ -77,6 +77,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_logs_eds_reload-codex`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -36,6 +36,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_stardust_bed`
+- Level: `7`
 - Power: `4.0`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`capital`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Capital), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`potted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Potted), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`prism`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Prism), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)

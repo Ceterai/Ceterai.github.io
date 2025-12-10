@@ -15,19 +15,12 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Draw Speed Multiplier: `pollenpumpTimeMultiplier`
-- Power Projectile Time:  1.0, 
-- Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
-- Draw Arm Frames:  `swim.2`,  `swimIdle.1`
-- Draw Frame Selector: `pollenpumpImageSelector`
 - Energy Per Shot: 45
-- Draw Power Multiplier: `pollenpumpPowerMultiplier`
-- Class: `LimitedShot`
-- Inaccuracy: 0.01
-- Fire Offset:  2.5,  0.25
-- Cooldown Time: 0.1
 - Power Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
-- Scripts:  `/items/active/alta/tools/durability.lua`
+- Inaccuracy: 0.01
+- Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
+- Power Projectile Time:  1.0, 
+- Cooldown Time: 0.1
 
 ## Sources
 
@@ -36,7 +29,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_quick_builder-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`building`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Building), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
 - File: [`/items/active/alta/tools/climb/quick_builder/ct_alta_quick_builder.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/climb/quick_builder/ct_alta_quick_builder.activeitem)

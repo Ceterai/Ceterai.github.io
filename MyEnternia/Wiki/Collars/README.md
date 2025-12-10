@@ -1,6 +1,8 @@
+> Main pages: [Enhancements](https://ceterai.github.io/MyEnternia/Wiki/Enhancements)
+
 # Collars
 
-This mod adds 6 collars.
+The mod adds a total of 6 collars:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" width="auto" height="16px"/> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_yaara_collar.png" alt="Conscious Collar icon" loading="lazy" width="auto" height="16px"/> [Conscious Collar](https://ceterai.github.io/MyEnternia/Wiki/ConsciousCollar)

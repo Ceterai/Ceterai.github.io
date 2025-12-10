@@ -1,6 +1,6 @@
 # AI Chips
 
-This mod adds 6 ai chips.
+The mod adds a total of 6 A.I. chips:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_ai_chip.png" alt="Alta Basic A.I. Chip icon" loading="lazy" width="auto" height="16px"/> [Alta Basic A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaBasicA.I.Chip)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_sail_ai_chip.png" alt="Alta S.A.I.L. A.I. Chip icon" loading="lazy" width="auto" height="16px"/> [Alta S.A.I.L. A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaS.A.I.L.A.I.Chip)

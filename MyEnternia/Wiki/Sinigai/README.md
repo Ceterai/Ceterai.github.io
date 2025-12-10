@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_sinigai.png" alt="Sinigai ★★ icon" loading="lazy" width="auto" height="16px"/> **Sinigai ★★** is a legendary one-handed fiery shortsword.
 
-**WIP**. Molten sword with an energy razor. What [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) made this?  
+**WIP**. Molten sword with an energy razor. What [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) made this?  
 On the surface, it looks very differently from what altas usually consider a sword, but it provides just as much power and functionality to count it as one.
 
 ## Ingame
@@ -65,6 +65,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sinigai`
+- Level: `6`
 - Power: `4.21`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`shortsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shortsword), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

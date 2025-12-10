@@ -28,8 +28,6 @@ Parameters:
 
 - Fire Time: 0.6
 - Base Dps: 12
-- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
-- Class: `AsiraiAttack`
 - Step Damage Config: 
 - Base Damage Factor: 1.35
 - Knockback: 5, 
@@ -51,8 +49,6 @@ Unlike most special abilities, this technique doesn't just simply consume energy
 Parameters:
 
 - Power: 4
-- Scripts:  `/items/active/weapons/other/asirai/asirai.lua`
-- Class: `AsiraiSpin`
 - Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
 - Damage Config:
 
@@ -79,6 +75,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_protospear`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`protogear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Protogear), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

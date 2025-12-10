@@ -14,8 +14,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Scripts:  `/items/active/unsorted/relocator/relocate.lua`
-- Class: `Relocate`
 - Max Storage: 1
 - Max Range: 20
 - Cooldown Time: 0.5
@@ -47,7 +45,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_grabber`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`relocator`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Relocator), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
 - File: [`/items/active/alta/tools/grab/grabber/ct_alta_grabber.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/grab/grabber/ct_alta_grabber.activeitem)

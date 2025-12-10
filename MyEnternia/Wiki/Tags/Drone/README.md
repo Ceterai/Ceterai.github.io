@@ -1,6 +1,6 @@
 # Drone Tag
 
-The tag `drone` contains 31 total entries.
+The tag `drone` contains 32 total entries.
 
 ## Objects
 
@@ -8,10 +8,11 @@ The tag `drone` contains 31 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 31 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Citadel Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Citadel Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadelDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Lab Drone icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Drone](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/mining_drone/icon.png" alt="Alta Mining Drone icon" loading="lazy" width="auto" height="16px"/> [Alta Mining Drone](https://ceterai.github.io/MyEnternia/Wiki/AltaMiningDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Cleaner Drone icon" loading="lazy" width="auto" height="16px"/> [Cleaner Drone](https://ceterai.github.io/MyEnternia/Wiki/CleanerDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" width="auto" height="16px"/> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/crystal.png" alt="Crystallized Scout Drone ★ icon" loading="lazy" width="auto" height="16px"/> [Crystallized Scout Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallizedScoutDrone)

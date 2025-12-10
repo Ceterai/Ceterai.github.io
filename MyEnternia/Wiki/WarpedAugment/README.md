@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_warped_augment.png" alt="Warped Augment ★ icon" loading="lazy" width="auto" height="16px"/> **Warped Augment ★** is an uncommon EPP augment.
 
-This mutated EPP module gives you [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection and makes you burst with [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds).
+This mutated EPP module gives you [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection and makes you burst with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds).
 
 ## Ingame
 
@@ -57,6 +57,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_warped_augment`
+- Level: `4`
 - Power: `2.75`
 - Rarity: `Uncommon`
 - Tags: [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

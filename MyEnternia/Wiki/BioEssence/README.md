@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Essence icon" loading="lazy" width="auto" height="16px"/> **Bio Essence** is an uncommon drink.
 
-This vitamin-full juice, made from finest prime [biosamples](https://ceterai.github.io/MyEnternia/Wiki/biosamples), is both very healthy and exceptionally refreshing.  
+This vitamin-full juice, made from finest prime <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [biosamples](https://starbounder.org/Bio_Sample), is both very healthy and exceptionally refreshing.  
 Biosample primification involves exposing it to environments of differing toxicity levels, and seeing which one will "click".
 
 ## Ingame
@@ -51,6 +51,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_bio_fresh-essence`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`extract`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Extract), [`fresh`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fresh), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)

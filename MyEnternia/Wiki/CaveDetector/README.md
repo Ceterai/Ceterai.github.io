@@ -18,7 +18,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_cave_detector`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `legendary`
-- Tags: [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tool)
+- Tags: [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mining`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mining), [`scanner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Scanner)
 - File: [`/items/active/alta/tools/scan/cave_detector/cavedetector.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/scan/cave_detector/cavedetector.activeitem)

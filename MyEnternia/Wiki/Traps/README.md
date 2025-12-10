@@ -1,6 +1,6 @@
 # Traps
 
-This mod adds 18 traps.
+The mod adds a total of 18 traps:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/spike/icon.png" alt="Alta Security Spike icon" loading="lazy" width="auto" height="16px"/> [Alta Security Spike](https://ceterai.github.io/MyEnternia/Wiki/AltaSecuritySpike)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_broken/icon.png" alt="Broken EDS Halter icon" loading="lazy" width="auto" height="16px"/> [Broken EDS Halter](https://ceterai.github.io/MyEnternia/Wiki/BrokenEDSHalter)

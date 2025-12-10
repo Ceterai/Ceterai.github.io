@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Enviro Set icon" loading="lazy" width="auto" height="16px"/> **Tech Docs: Enviro Set** is a common codex entry.
 
-A brief description of tier 5 alta equipment worn by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) A.R.C.O. researchers in dangerous environments.  
+A brief description of tier 5 alta equipment worn by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) A.R.C.O. researchers in dangerous environments.  
 This document provides an overview of the Enviro set used by A.R.C.O. researchers, detailing its components and functionalities.
 
 ## Ingame
@@ -103,6 +103,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_docs_units_enviro-codex`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs)

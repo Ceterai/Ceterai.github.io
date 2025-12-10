@@ -1,6 +1,6 @@
 # Wiring Components
 
-This mod adds 42 wiring components.
+The mod adds a total of 42 wiring components:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"/> [Alta Button](https://ceterai.github.io/MyEnternia/Wiki/AltaButton)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)

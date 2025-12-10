@@ -60,6 +60,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_neoblaster`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`peacekeeper`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Peacekeeper), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

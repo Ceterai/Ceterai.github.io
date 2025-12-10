@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> **Isoslime** is a common throwable item.
 
-A chunk of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) (a.k.a. izoslime) that you can maliciously throw at someone to cover them in cryonic goo. Or make jam out of it.  
-**Isoslime**, or **Izoslime**, or **Izopoi** - is a cryogenic slimy substance that tends to form in the subsurface (and rarely surface) layer of [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets. This substance is highly viscous and consists of two layers.  
+A chunk of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) (a.k.a. izoslime) that you can maliciously throw at someone to cover them in cryonic goo. Or make jam out of it.  
+**Isoslime**, or **Izoslime**, or **Izopoi** - is a cryogenic slimy substance that tends to form in the subsurface (and rarely surface) layer of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets. This substance is highly viscous and consists of two layers.  
 The **outer** layer, or the **cryo layer**, is heat-isolation slime that protects the inner layer from low temperatures. This is a precious material that is often used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) in construction.  
 The **inner** layer, or the **poi layer**, consits of pure slime and is the main part of isoslime.
 
-Isoslime is a subtype of regular [slime](https://ceterai.github.io/MyEnternia/Wiki/Tags/Slime).
+Isoslime is a subtype of regular <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"/> [slime](https://starbounder.org/Slime_Blob).
 
 ## Ingame
 
@@ -46,7 +46,7 @@ Species descriptions:
 
 ### Liquid Extraction
 
-Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x00000241890DB5C0>` (if you have it installed).
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x000001E7C64CFF20>` (if you have it installed).
 
 ## Sources
 
@@ -99,6 +99,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_isoslime_ball`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`izopoi`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Izopoi), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`slime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Slime)

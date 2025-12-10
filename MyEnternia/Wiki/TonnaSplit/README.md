@@ -15,9 +15,9 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Split Surprize ★ icon" loading="lazy" width="auto" height="16px"/> [Split Surprize ★](https://ceterai.github.io/MyEnternia/Wiki/SplitSurprize)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_tonna_split_extra.png" alt="Tonna Split Extra icon" loading="lazy" width="auto" height="16px"/> [Tonna Split Extra](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplitExtra)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_tonna_split_mega.png" alt="Tonna Split Mega icon" loading="lazy" width="auto" height="16px"/> [Tonna Split Mega](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplitMega)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Split Surprize ★ icon" loading="lazy" width="auto" height="16px"/> [Split Surprize ★](https://ceterai.github.io/MyEnternia/Wiki/SplitSurprize) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_tonna_split_extra.png" alt="Tonna Split Extra icon" loading="lazy" width="auto" height="16px"/> [Tonna Split Extra](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplitExtra) (chance: 30.0%)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_tonna_split_mega.png" alt="Tonna Split Mega icon" loading="lazy" width="auto" height="16px"/> [Tonna Split Mega](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplitMega) (chance: 20.0%)
 
 ## Usage
 
@@ -63,6 +63,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tonna_split`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine)

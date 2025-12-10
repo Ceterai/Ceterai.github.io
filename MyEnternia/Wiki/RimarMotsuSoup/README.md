@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"/> **Rimar Motsu Soup** is a rare dish.
 
-A tasty mix of various ingredients turned into a favorite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) motsu!  
+A tasty mix of various ingredients turned into a favorite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) motsu!  
 This recipe is slightly more fruit-heavy than usual, with the pallete being pretty diverse depending on its variations.
 
 ## Ingame
@@ -24,7 +24,7 @@ Applies effects:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Perfect Rimar Motsu icon" loading="lazy" width="auto" height="16px"/> [Perfect Rimar Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectRimarMotsu)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Perfect Rimar Motsu icon" loading="lazy" width="auto" height="16px"/> [Perfect Rimar Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectRimarMotsu) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -73,6 +73,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_rimar_motsu`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)

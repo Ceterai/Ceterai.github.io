@@ -79,6 +79,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_catalyst-repell`
+- Level: `5`
 - Power: `3.29`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`enhancer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancer), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

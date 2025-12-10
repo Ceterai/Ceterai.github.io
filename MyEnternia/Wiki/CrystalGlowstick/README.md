@@ -50,6 +50,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_glowstick_crystal`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`glowstick`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Glowstick), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light)

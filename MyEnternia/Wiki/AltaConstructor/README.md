@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png" alt="Alta Constructor icon" loading="lazy" width="auto" height="16px"/> **Alta Constructor** is a common crafting station.
 
-For [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) decorations, furniture, traps and natural objects. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)-scan objects crafted here to know more about them!
+For [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) decorations, furniture, traps and natural objects. [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan objects crafted here to know more about them!
 
 ## Ingame
 
@@ -42,6 +42,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_constructor`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting)

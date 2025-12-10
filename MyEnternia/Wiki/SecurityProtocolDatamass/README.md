@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Security Protocol Datamass icon" loading="lazy" width="auto" height="16px"/> **Security Protocol Datamass** is an uncommon codex entry.
 
 A list of short descriptions of some kind of regulations. Parts of data are corrupted. Code on the back reads 'CEN-411'.  
-**CEN-411** is a set of security-related regulations in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"/> [alta cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities) and other semi-protected facilities, like [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) parks and general [antorash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Antorash) spaces. Places like these are usually guarded by [security guards](https://ceterai.github.io/MyEnternia/Wiki/securityguards).
+**CEN-411** is a set of security-related regulations in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"/> [alta cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities) and other semi-protected facilities, like [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) parks and general <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [antorash](https://ceterai.github.io/MyEnternia/Wiki/Alterash#antorash) spaces. Places like these are usually guarded by [security guards](https://ceterai.github.io/MyEnternia/Wiki/securityguards).
 
 ## Ingame
 
@@ -89,6 +89,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

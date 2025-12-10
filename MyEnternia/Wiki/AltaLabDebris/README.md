@@ -1,6 +1,8 @@
 # Alta Lab Debris
 
-This place is mostly ruins af various [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) creations and structures. Maybe something precious can be dug up from the rubble.
+ **Alta Lab Debris** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+
+This place is mostly ruins af various [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) creations and structures. Maybe something precious can be dug up from the rubble.
 
 ## Technical Information
 

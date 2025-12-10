@@ -18,6 +18,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ghearun_brush`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`fossilbrush`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fossilbrush), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

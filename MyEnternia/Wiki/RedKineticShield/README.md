@@ -42,6 +42,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_kinetic_shield-red`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`energy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Energy), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

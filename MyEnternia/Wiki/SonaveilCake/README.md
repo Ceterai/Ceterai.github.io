@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -39,7 +39,7 @@ Can be crafted:
   - `avesmingojuice` x*1*
   - `snowball` x*2*
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"/> [Milk](https://starbounder.org/Milk) x*1*
-  - `holidayspirit` x*12*
+  - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*12*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" width="auto" height="16px"/> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*2*
 
 Can be obtained from special items:
@@ -51,6 +51,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sonaveil_cake`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`cake`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cake), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`sonaveil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sonaveil)

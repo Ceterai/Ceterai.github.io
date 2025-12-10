@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/legwear/icon.png" alt="Ghearun M1 Greaves icon" loading="lazy" width="auto" height="16px"/> **Ghearun M1 Greaves** is a legendary leg armor piece.
 
-Exoskeleton pipes on these greaves increase overall mobility of the suit. Run on [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn).
+Exoskeleton pipes on these greaves increase overall mobility of the suit. Run on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).
 
 ## Ingame
 
@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ghearun_legwear`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ghearun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

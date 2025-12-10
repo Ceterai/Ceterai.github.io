@@ -1,6 +1,6 @@
 # Alta Fertilizer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> **Alta Fertilizer** is a common food item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> **Alta Fertilizer** is a common tool.
 
 A generic all-purpose ferilizer fit for most plants. Will likely not poison you, unlike others.
 
@@ -124,6 +124,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_fertilizer`
+- Level: `2`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`fertilizer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fertilizer)

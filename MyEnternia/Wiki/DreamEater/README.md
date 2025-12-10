@@ -58,6 +58,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_dream_eater`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`dream`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dream), [`dreamer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dreamer), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`enternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

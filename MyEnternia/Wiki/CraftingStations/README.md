@@ -1,6 +1,6 @@
 # Crafting Stations
 
-This mod adds 42 crafting stations.
+The mod adds a total of 42 crafting stations:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/aquarium/icon.png" alt="Alta Aquarium icon" loading="lazy" width="auto" height="16px"/> [Alta Aquarium](https://ceterai.github.io/MyEnternia/Wiki/AltaAquarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/architect_station/icon.png" alt="Alta Architect Station icon" loading="lazy" width="auto" height="16px"/> [Alta Architect Station](https://ceterai.github.io/MyEnternia/Wiki/AltaArchitectStation)

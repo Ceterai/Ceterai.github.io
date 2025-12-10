@@ -1,6 +1,8 @@
+> Main pages: [Collectibles](https://ceterai.github.io/MyEnternia/Wiki/Collectibles)
+
 # Trophies
 
-This mod adds 17 trophies.
+The mod adds a total of 17 trophies:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_alta_trophy.png" alt="Alta Trophy ★ icon" loading="lazy" width="auto" height="16px"/> [Alta Trophy ★](https://ceterai.github.io/MyEnternia/Wiki/AltaTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_anglure_lamp.png" alt="Anglure's Lamp ★ icon" loading="lazy" width="auto" height="16px"/> [Anglure's Lamp ★](https://ceterai.github.io/MyEnternia/Wiki/Anglure'sLamp)

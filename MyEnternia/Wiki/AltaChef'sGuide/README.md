@@ -17,21 +17,21 @@ Radiomessages on pickup:
 
 ### Contents
 
-Hi again, fellow [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)! My name is Miara and I am a grand chef at one of [Alta-1](https://ceterai.github.io/MyEnternia/Wiki/Alta-1) biggest restaurants.
+Hi again, fellow [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)! My name is Miara and I am a grand chef at one of [Alta-1](https://ceterai.github.io/MyEnternia/Wiki/Alta-1) biggest restaurants.
 
 In this ebook, I want to go in-depth on more advanced recipes that you can learn to become a great cook!
 
-[Food](https://ceterai.github.io/MyEnternia/Wiki/Food) is an important part of [alta culture](https://ceterai.github.io/MyEnternia/Wiki/altaculture) and often represents similar concepts and reflects its peculiarities.
+[Food](https://ceterai.github.io/MyEnternia/Wiki/Food) is an important part of [alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) and often represents similar concepts and reflects its peculiarities.
 
 Thus, the ingredients you can find in different cuisines, and even cuisines themself, might remind you of certain basic alta concepts.
 
-For example, the [runeva cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine) represents the Runeva triangle concept, found in many corners of alta civilization as a whole, and things like the [Gyera Ordis](https://ceterai.github.io/MyEnternia/Wiki/GyeraOrdis) and [Iora Gyera Parks](https://ceterai.github.io/MyEnternia/Wiki/IoraGyeraPark), or the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy components, the fundamental part of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io) herself.
+For example, the [runeva cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#runeva) represents the Runeva triangle concept, found in many corners of alta civilization as a whole, and things like the [Gyera Ordis](https://ceterai.github.io/MyEnternia/Wiki/GyeraOrdis) and [Iora Gyera Parks](https://ceterai.github.io/MyEnternia/Wiki/IoraGyeraPark), or the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy components, the fundamental part of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io) herself.
 
-Similarly, most ingredients of the [calin cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine) are representative of another fundamental part of alta existence - [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal).
+Similarly, most ingredients of the [calin cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#calin) are representative of another fundamental part of alta existence - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystals](https://starbounder.org/Crystal).
 
-[Nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine) is representative of energy - an important component of Io and the life on stardust planets and other [Io structs](https://ceterai.github.io/MyEnternia/Wiki/Iostructs).
+[nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#nia) is representative of energy - an important component of Io and the life on stardust planets and other [Io structs](https://ceterai.github.io/MyEnternia/Wiki/Iostructs).
 
-Now, [yava cuisine](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine) relates to the nature and the overwhelming [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia) energy within it, the integral part of life as a whole.
+Now, [yava cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#yava) relates to the nature and the overwhelming <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) energy within it, the integral part of life as a whole.
 
 These four main cuisines represent the [Alta Quaternion](https://ceterai.github.io/MyEnternia/Wiki/AltaQuaternion) - a common occurence in alta civilization, that tends to group things in multitudes of 4 - quarter of 16, the hexadecimal system used by altas.
 
@@ -95,6 +95,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_food_2-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" width="auto" height="16px"/> **Crystal Ayaka** is an uncommon tree sapling.
 
-This [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) has overgrown with [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal). This can usually happen in crystallic or crystal-rich environments.
+This [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) has overgrown with <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystals](https://starbounder.org/Crystal). This can usually happen in crystallic or crystal-rich environments.
 
 ## Ingame
 
@@ -111,6 +111,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ayaka_crystal_tree`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

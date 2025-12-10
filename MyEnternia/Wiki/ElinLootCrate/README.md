@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Elin Loot Crate** is an uncommon loot item.
 
-Contains random loot from [elin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elin) pods.  
+Contains random loot from [elin](https://ceterai.github.io/MyEnternia/Wiki/Elin-Gardens) pods.  
 Mainly used by [elin guards](https://ceterai.github.io/MyEnternia/Wiki/ElinGuard), it holds security devices and protective equipment.
 
 ## Ingame
@@ -56,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elin_loot`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`elin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elin), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

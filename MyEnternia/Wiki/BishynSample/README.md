@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/sample/icon.png" alt="Bishyn Sample icon" loading="lazy" width="auto" height="16px"/> **Bishyn Sample** is a rare decorative object.
 
-A [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) sample. The stand is powered by the crystal itself. An exhibit of prosperity.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) sample. The stand is powered by the crystal itself. An exhibit of prosperity.
 
 ## Ingame
 
@@ -45,6 +45,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bishyn_sample`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`commerce`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Commerce), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sample`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sample)

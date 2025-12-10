@@ -65,6 +65,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elite_droid`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`capital`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Capital), [`droid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Droid), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`elite`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elite), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)

@@ -46,6 +46,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_entermace`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`enterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash), [`enternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enternia), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mace`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mace), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

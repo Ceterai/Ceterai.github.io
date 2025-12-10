@@ -21,7 +21,7 @@ Radiomessages on pickup:
 Are you brave enough to face the best Faradea Legends around?  
 Come to this season's Brawl of Legends - Intrepid Stars!
 
-In this season, [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) mercs from all around can compete in a series of battles against each other to determine a new [Faradea Legend](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend).
+In this season, [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) mercs from all around can compete in a series of battles against each other to determine a new [faradea legend](https://ceterai.github.io/MyEnternia/Wiki/Faradea#legends).
 
 Engage in regulated combat with other [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) and opponents of crowd's choice and prove that you are the true Legend!
 
@@ -78,6 +78,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_faradea-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs), [`faradea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

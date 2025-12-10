@@ -1,6 +1,8 @@
+> Main pages: [Wearables](https://ceterai.github.io/MyEnternia/Wiki/Wearables)
+
 # Clothing
 
-This mod adds 98 clothing.
+The mod adds a total of 98 clothings:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="A.R.C.O. Researcher Coat icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.ResearcherCoat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="A.R.C.O. Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.ResearcherSkirt)

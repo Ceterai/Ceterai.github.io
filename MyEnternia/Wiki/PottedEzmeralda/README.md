@@ -34,6 +34,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ezmeralda_af`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`flower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Flower), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`potted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Potted)

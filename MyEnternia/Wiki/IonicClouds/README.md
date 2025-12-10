@@ -1,5 +1,7 @@
 # Ionic Clouds
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"/> **Ionic Clouds** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Periodically burst with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) clouds.
 
 Applied by following items:

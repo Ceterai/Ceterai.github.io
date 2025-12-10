@@ -78,6 +78,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_haven_storm`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`cannon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cannon), [`gasthrower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gasthrower), [`haven`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`rocketlauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rocketlauncher), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

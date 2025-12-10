@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" width="auto" height="16px"/> **Blossoming Ayaka** is an uncommon tree sapling.
 
-An [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) on its blossoming stage. While short and fruitless, it's quite pretty and its leaves can be used to produce [silk](https://ceterai.github.io/MyEnternia/Wiki/silk).
+An [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) on its blossoming stage. While short and fruitless, it's quite pretty and its leaves can be used to produce <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"/> [silk](https://starbounder.org/Silk).
 
 ## Ingame
 
@@ -96,6 +96,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ayaka_blossom_tree`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

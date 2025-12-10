@@ -40,6 +40,7 @@ Some dishes are more likely to achieve perfection than others. Complex preparati
 [Recognizing Perfect Results](https://ceterai.github.io/MyEnternia/Wiki/RecognizingPerfectResults)
 
 A perfectly cooked dish will have:
+
 - Enhanced name (often legendary rarity)
 - Improved effects or duration
 - Better presentation
@@ -90,6 +91,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_food_perfect-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

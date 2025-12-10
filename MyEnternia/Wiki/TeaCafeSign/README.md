@@ -22,6 +22,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_obj_mimic-tea_cafe_sign`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`commerce`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Commerce), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`neon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Neon), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`unique`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique)

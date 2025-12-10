@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet_mk2/icon.png" alt="Security MkII Helmet ★ icon" loading="lazy" width="auto" height="16px"/> **Security MkII Helmet ★** is an uncommon head armor piece.
 
-A slightly upgraded version of [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security helmets.
+A slightly upgraded version of [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security helmets.
 
 ## Parameters
 
@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security_helmet_mk2`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`tier4armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Armour), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

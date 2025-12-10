@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"/> **Yaara Wand ★★** is a legendary one-handed tool.
 
-This [yaara](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara) growth can spread seeds of different kinds to grow beautiful things!
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) growth can spread seeds of different kinds to grow beautiful things!
 
 ## Ingame
 
@@ -18,7 +18,6 @@ Press to disperse seeds! Hold to change seed type. Available: grass, flowers, cr
 
 Parameters:
 
-- Class: `AltaBlasterSwitch`
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.4
@@ -81,7 +80,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_yaara_wand`
+- Level: `6`
 - Power: `4.21`
 - Rarity: `Legendary`
-- Tags: [`grass_blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/GrassBlaster), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`wand`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wand), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)
+- Tags: [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`plant_tool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantTool), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`wand`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wand), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)
 - File: [`/items/active/alta/tools/other/ct_yaara_wand.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/other/ct_yaara_wand.activeitem)

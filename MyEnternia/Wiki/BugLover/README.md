@@ -12,8 +12,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Scripts:  `/items/active/weapons/melee/meleeslash.lua`
-- Class: `MeleeSlash`
 - Fire Time: 0.5
 - Base Dps: 0.01
 - Damage Config:
@@ -29,6 +27,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bug_lover`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bug_net`](https://ceterai.github.io/MyEnternia/Wiki/Tags/BugNet), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical)
 - File: [`/items/active/alta/tools/nets/bug_lover/ct_bug_lover.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/nets/bug_lover/ct_bug_lover.activeitem)

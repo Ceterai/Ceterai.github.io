@@ -47,6 +47,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_cagorta_statue`
+- Level: `8`
 - Power: `4.5`
 - Rarity: `Essential`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_special`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSpecial), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`massive`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Massive), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)

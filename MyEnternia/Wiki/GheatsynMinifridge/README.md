@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/minifridge/icon.png" alt="Gheatsyn Minifridge icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Minifridge** is a rare refrigerated storage unit.
 
-A minifridge that seems to be running on crystal energy from [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn).
+A minifridge that seems to be running on crystal energy from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).
 
 ## Ingame
 
@@ -60,6 +60,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_minifridge`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage)

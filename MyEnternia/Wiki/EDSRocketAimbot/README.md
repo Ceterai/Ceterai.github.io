@@ -1,5 +1,7 @@
 # EDS Rocket Aimbot
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_eds_rocket_aimbot.png" alt="EDS Rocket Aimbot icon" loading="lazy" width="auto" height="16px"/> **EDS Rocket Aimbot** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Attacks nearby enemies with self-correcting rockets every 4 seconds.
 
 Applied by following items:

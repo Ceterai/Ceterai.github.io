@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_defense_pod`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc)

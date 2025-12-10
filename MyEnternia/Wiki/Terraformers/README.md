@@ -1,6 +1,6 @@
 # Terraformers
 
-This mod adds 22 terraformers.
+The mod adds a total of 22 terraformers:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/garden/icon.png" alt="A-Prime Gardens Microformer ★ icon" loading="lazy" width="auto" height="16px"/> [A-Prime Gardens Microformer ★](https://ceterai.github.io/MyEnternia/Wiki/A-PrimeGardensMicroformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/garden/icon.png" alt="Alterash Gardens Microformer icon" loading="lazy" width="auto" height="16px"/> [Alterash Gardens Microformer](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardensMicroformer)

@@ -37,6 +37,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_head_mimic-yaara_keeper_crown`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`floran`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Floran), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara)

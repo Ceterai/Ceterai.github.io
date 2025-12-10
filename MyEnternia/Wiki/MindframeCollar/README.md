@@ -10,6 +10,13 @@ Radiomessages on pickup:
 
 - You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click.
 
+## Parameters
+
+Applies effects:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_mind.png" alt="Mind Field icon" loading="lazy" width="auto" height="16px"/> [Mind Field](https://ceterai.github.io/MyEnternia/Wiki/MindField)
+
 ## Usage
 
 Can be put on a captured creature.
@@ -42,6 +49,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_mindframe_collar`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ceterai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai), [`collar`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Collar), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

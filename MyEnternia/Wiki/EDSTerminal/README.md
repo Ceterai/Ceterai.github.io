@@ -50,6 +50,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_terminal`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`holographic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holographic), [`terminal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Terminal), [`wired`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wired)

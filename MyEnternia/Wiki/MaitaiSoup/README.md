@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_maitai_soup.png" alt="Maitai Soup icon" loading="lazy" width="auto" height="16px"/> **Maitai Soup** is a legendary dish.
 
-A very spicy [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) soup that is also very nourishing and tasty. Maybe some ionice cubes can help with spice.  
+A very spicy [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) soup that is also very nourishing and tasty. Maybe some ionice cubes can help with spice.  
 This variation also has a slightly different texture, as some of the spices are prepared in clumps and thus add to the overall thickness.
 
 ## Ingame
@@ -34,6 +34,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_minto_soup-maitai`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)

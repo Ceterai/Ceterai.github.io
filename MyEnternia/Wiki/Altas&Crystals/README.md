@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Altas & Crystals icon" loading="lazy" width="auto" height="16px"/> **Altas & Crystals** is a rare codex entry.
 
-An small ebook containing some [crystal](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal)-related information and classification. Seems to do with how [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) utilize various crystals in their culture.  
+An small ebook containing some <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystal](https://starbounder.org/Crystal)-related information and classification. Seems to do with how [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) utilize various crystals in their culture.  
 This classification also explains the terms and alternative names of certain crystal types, giving additional clarity. The ebook itself is a good navigation point for learning about alta crystals.
 
 ## Ingame
@@ -25,18 +25,18 @@ Currently, alta researchers have discovered a pretty long list of species and su
 
 The list below contains the main superspecies discovered so far:
 
-- [Cal](https://ceterai.github.io/MyEnternia/Wiki/Cal) (Crystals, Common)
-- [Calin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin) (Crystal Caves or [Calocaves](https://ceterai.github.io/MyEnternia/Wiki/Calocaves))
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Ionic icon" loading="lazy" width="12px" height="16px"/> [Cal](Calin) (Crystals, Common)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" width="10" height="14"/> [calin](https://ceterai.github.io/MyEnternia/Wiki/Calin) (Crystal Caves or [Calocaves](https://ceterai.github.io/MyEnternia/Wiki/Calocaves))
 - [Calline Prime](https://ceterai.github.io/MyEnternia/Wiki/CallinePrime) (Crystalline, Prime)
 
-- [Gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) (Liquid Crystals)
-- [Calotorn](https://ceterai.github.io/MyEnternia/Wiki/Calotorn) (General [Geodes](https://ceterai.github.io/MyEnternia/Wiki/Tags/Geode))
-- [Soneva](https://ceterai.github.io/MyEnternia/Wiki/Soneva) ([Ice Crystals](https://ceterai.github.io/MyEnternia/Wiki/IceCrystals))
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) (Liquid Crystals)
+- <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Calotorn icon" loading="lazy" width="12px" height="11px"/> [Calotorn](https://starbounder.org/Geode) (General <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Geode icon" loading="lazy" width="12px" height="11px"/> [Geodes](https://starbounder.org/Geode))
+- [Soneva](https://ceterai.github.io/MyEnternia/Wiki/Soneva) (<img src="https://starbounder.org/mediawiki/images/c/ca/Ice_Crystal.png" alt="Ice Crystal icon" loading="lazy" width="10px" height="16px"/> [Ice Crystals](https://starbounder.org/Ice_Crystal))
 - [Statsyn](https://ceterai.github.io/MyEnternia/Wiki/Statsyn) (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> [Stardust Crystals](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal))
-- [Bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) (Poison Crystals)
-- [Hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) (Overcharged Crystals)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) (Poison Crystals)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) (Overcharged Crystals)
 - [Mical](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical) (Pink Crystals)
-- [Carel](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel) ([Crystal Plants](https://ceterai.github.io/MyEnternia/Wiki/Tags/CrystalPlant))
+- [Carel](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel) (<img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="Crystal Plant icon" loading="lazy" width="13px" height="12px"/> [Crystal Plants](https://starbounder.org/Crystal_Plant))
 
 There are also some rare and specialized crystal types that have been discovered:
 
@@ -81,6 +81,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_crystals-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

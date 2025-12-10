@@ -1,8 +1,8 @@
 # Alta Flare Blaster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"/> **Alta Flare Blaster** is a common one-handed electric unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"/> **Alta Flare Blaster** is a common one-handed electric tool.
 
-An emergency tool used for self defence. LMB launches a signal rocket.
+An emergency tool that can optionally cause some harm. LMB launches an energy signal rocket.
 
 ## Ingame
 
@@ -32,7 +32,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_flare_blaster`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`emergency`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Emergency), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`signalrocket`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Signalrocket), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Blaster), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`emergency`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Emergency), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`pistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pistol), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`signalrocket`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Signalrocket), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/active/alta/tools/lights/flare_blaster/ct_alta_flare_blaster.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/lights/flare_blaster/ct_alta_flare_blaster.activeitem)

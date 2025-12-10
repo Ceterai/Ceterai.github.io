@@ -12,8 +12,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Scripts:  `/items/active/weapons/melee/meleeslash.lua`
-- Class: `MeleeSlash`
 - Fire Time: 0.75
 - Base Dps: 0.01
 - Damage Config:
@@ -29,6 +27,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_haven_catcher`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bug_net`](https://ceterai.github.io/MyEnternia/Wiki/Tags/BugNet), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/items/active/alta/tools/nets/haven_catcher/ct_haven_catcher.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/nets/haven_catcher/ct_haven_catcher.activeitem)

@@ -45,6 +45,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_lifechamber`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`aid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc)

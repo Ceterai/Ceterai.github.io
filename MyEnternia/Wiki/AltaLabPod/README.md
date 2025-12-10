@@ -123,6 +123,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_lab_pod`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`mechanical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mechanical), [`pod`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pod), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage)

@@ -1,6 +1,6 @@
 # Light Sources
 
-This mod adds 34 light sources.
+The mod adds a total of 34 light sources:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/light/icon.png" alt="Alta Lab Light icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLabLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" alt="Alta Lamp icon" loading="lazy" width="auto" height="16px"/> [Alta Lamp](https://ceterai.github.io/MyEnternia/Wiki/AltaLamp)

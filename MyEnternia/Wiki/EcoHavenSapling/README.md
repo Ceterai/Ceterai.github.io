@@ -31,11 +31,13 @@ Growing stages:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/boosted/icon.png" alt="Boosted Haven Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Haven Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedHavenSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/haven/icon.png" alt="Potted Haven Bouquet icon" loading="lazy" width="auto" height="16px"/> [Potted Haven Bouquet](https://ceterai.github.io/MyEnternia/Wiki/PottedHavenBouquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" width="auto" height="16px"/> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
 
 Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/pod/icon.png" alt="Haven Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Haven Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/haven/icon.png" alt="Potted Haven Bouquet icon" loading="lazy" width="auto" height="16px"/> [Potted Haven Bouquet](https://ceterai.github.io/MyEnternia/Wiki/PottedHavenBouquet)
 
 ## Sources
 
@@ -55,6 +57,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_haven_eco`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`haven`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

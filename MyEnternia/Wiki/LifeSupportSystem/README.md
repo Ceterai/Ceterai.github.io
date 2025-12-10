@@ -1,5 +1,7 @@
 # Life Support System
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"/> **Life Support System** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Constantly heals you by 1% each second.
 
 <details markdown="1"><summary>Applied by following items: (Expand 13 items)</summary>

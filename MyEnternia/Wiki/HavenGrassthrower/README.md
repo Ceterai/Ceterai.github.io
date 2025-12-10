@@ -19,7 +19,6 @@ Press to rapidly disperse seeds! Hold to change seed type. Available: grass, flo
 
 Parameters:
 
-- Class: `AltaBlasterSwitch`
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.05
@@ -59,7 +58,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_haven_thrower`
+- Level: `6`
 - Power: `4.21`
 - Rarity: `Legendary`
-- Tags: [`grass_blaster`](https://ceterai.github.io/MyEnternia/Wiki/Tags/GrassBlaster), [`haven`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`thrower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Thrower), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Tags: [`haven`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`plant_tool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantTool), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`thrower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Thrower), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/active/alta/tools/other/ct_haven_thrower.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/other/ct_haven_thrower.activeitem)

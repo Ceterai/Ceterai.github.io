@@ -51,6 +51,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_bio_fresh-miko`
+- Level: `2`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`fresh`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fresh), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`love`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Love), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)

@@ -20,8 +20,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Draw Frame Selector: `poisonBowImageSelector`
-- Draw Arm Frames:  `rotation`,  `swim.2`,  `swimIdle.1`
 - Projectile Type: `ironarrow`
 - Power Projectile Type: `chargedironarrow`
 - Projectile Parameters:
@@ -33,8 +31,6 @@ Alternative ability of the item, activated with right mouse button.
 
 Parameters:
 
-- Draw Frame Selector: `poisonBowImageSelectorNoPower`
-- Draw Arm Frames:  `rotation`,  `swim.2`,  `swimIdle.1`
 - Projectile Type: `ironarrow`
 - Projectile Parameters:
   - Power: 8.125
@@ -46,6 +42,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_composite_bow-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bow`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bow), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

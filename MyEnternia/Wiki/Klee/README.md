@@ -25,6 +25,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_klee_af`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Tags: [`bug`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bug), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic)

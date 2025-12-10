@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protea's Mask ★ icon" loading="lazy" width="auto" height="16px"/> **Protea's Mask ★** is a legendary head armor piece.
 
-A mask worn by Protea - a staris [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) scout known for her vigilance and agility. Hairs on the back are made of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
+A mask worn by Protea - a staris [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) scout known for her vigilance and agility. Hairs on the back are made of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
 This brings the gathered energy levels to a maximum, powering the whole protosystem almost instantly.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" width="auto" height="16px"/> [Protomask](https://ceterai.github.io/MyEnternia/Wiki/Protomask).
@@ -47,6 +47,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_scout_mask-upgrade`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`protea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Protea), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

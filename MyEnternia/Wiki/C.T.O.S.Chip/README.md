@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ceterai_ai_chip`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaAI), [`ceterai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

@@ -18,6 +18,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_obj_mimic-mical_sample`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Colony tags: [`geode`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Geode), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`mical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)

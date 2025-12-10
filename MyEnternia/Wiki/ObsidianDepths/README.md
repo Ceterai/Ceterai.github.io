@@ -1,6 +1,8 @@
 # Obsidian Depths
 
-These wide dark crimson caves are made from [obsidian](https://ceterai.github.io/MyEnternia/Wiki/Tags/Obsidian). Their crimson colour comes from remains of some [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) stashes, while the rest of these caves remains in the dark. What lurks inside it are vicious obsidian scorpions, darker than the night itself.
+ **Obsidian Depths** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+
+These wide dark crimson caves are made from <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" width="10px" height="10px"/> [obsidian](https://starbounder.org/Obsidian). Their crimson colour comes from remains of some [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) stashes, while the rest of these caves remains in the dark. What lurks inside it are vicious obsidian scorpions, darker than the night itself.
 
 ## Technical Information
 

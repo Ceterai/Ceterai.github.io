@@ -1,6 +1,8 @@
+> Main pages: [Food](https://ceterai.github.io/MyEnternia/Wiki/Food)
+
 # Dishes
 
-This mod adds 189 dishes.
+The mod adds a total of 189 dishes:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"/> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Alien Pearls icon" loading="lazy" width="auto" height="16px"/> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)

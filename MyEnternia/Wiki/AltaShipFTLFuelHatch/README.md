@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/fuel_hatch/icon.png" alt="Alta Ship FTL Fuel Hatch icon" loading="lazy" width="auto" height="16px"/> **Alta Ship FTL Fuel Hatch** is a legendary object.
 
-Accepts Liquid Erchius as fuel for the [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) ship's FTL drive.
+Accepts Liquid Erchius as fuel for the [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) ship's FTL drive.
 
 ## Ingame
 
@@ -30,6 +30,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_fuel_hatch`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`newfuelhatch`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Newfuelhatch)

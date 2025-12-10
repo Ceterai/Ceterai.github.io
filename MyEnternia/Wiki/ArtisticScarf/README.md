@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Scarf icon" loading="lazy" width="auto" height="16px"/> **Artistic Scarf** is a rare head cosmetic item.
 
 A pretty neat scarf that increases your artistic charm by 60%.  
-Like many alta fasion items, this one was likely designed by [Perizhad](https://ceterai.github.io/MyEnternia/Wiki/Perizhad).
+Like many alta fasion items, this one was likely designed by [perizhad](https://ceterai.github.io/MyEnternia/Wiki/Alta#perizhad).
 
 ## Ingame
 
@@ -34,6 +34,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_head_mimic-scarf`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cozy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cozy), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

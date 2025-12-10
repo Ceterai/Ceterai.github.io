@@ -42,6 +42,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_haven_tiller`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`haven`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`tiller`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tiller), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

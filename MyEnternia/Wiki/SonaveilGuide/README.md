@@ -25,7 +25,7 @@ Sona's Veil is our cold solstice celebration - a time to gather, stay warm, and 
 
 [When to Celebrate](https://ceterai.github.io/MyEnternia/Wiki/WhentoCelebrate)
 
-Sonaveil happens during cold seasons around the cold solstice on [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets. The exact timing varies by planet, but it always coincides with the coldest, darkest time of year!
+Sonaveil happens during cold seasons around the cold solstice on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets. The exact timing varies by planet, but it always coincides with the coldest, darkest time of year!
 
 The celebration period usually lasts several weeks around the solstice.
 
@@ -117,7 +117,7 @@ More delicious Sonaveil treats:
 
 All perfect for sharing during gatherings!
 
-[Holiday Spirit](https://ceterai.github.io/MyEnternia/Wiki/HolidaySpirit)
+<img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit)
 
 During Sonaveil, you might receive gifts of Holiday Spirit - symbolic tokens representing the season's joy and community warmth!
 
@@ -195,6 +195,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sonaveil-codex`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`sonaveil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sonaveil), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

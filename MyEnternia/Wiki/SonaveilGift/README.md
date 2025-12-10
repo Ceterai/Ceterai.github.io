@@ -41,10 +41,10 @@ When used:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift) x*1* (weight: 0.02)
 - loot pool `ct_sonaveil_spirit` x*1* (always present):
   - for threat level **0+**:
-  - `holidayspirit` x*3* (weight: 0.3)
-  - `holidayspirit` x*4* (weight: 0.4)
-  - `holidayspirit` x*5* (weight: 0.3)
-  - `holidayspirit` x*6* (weight: 0.2)
+  - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*3* (weight: 0.3)
+  - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4* (weight: 0.4)
+  - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*5* (weight: 0.3)
+  - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*6* (weight: 0.2)
 
 ## Sources
 
@@ -61,6 +61,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sonaveil_gift`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`sonaveil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sonaveil)

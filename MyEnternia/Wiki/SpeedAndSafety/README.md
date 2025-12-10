@@ -21,6 +21,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_scout_art`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`painting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Painting), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -1,6 +1,8 @@
+> Main pages: [Weapons](https://ceterai.github.io/MyEnternia/Wiki/Weapons)
+
 # Shields
 
-This mod adds 26 shields.
+The mod adds a total of 26 shields:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_arknight_shield.png" alt="Arknight's Shield icon" loading="lazy" width="auto" height="16px"/> [Arknight's Shield](https://ceterai.github.io/MyEnternia/Wiki/Arknight'sShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Bishyn Shield ★ icon" loading="lazy" width="auto" height="16px"/> [Bishyn Shield ★](https://ceterai.github.io/MyEnternia/Wiki/BishynShield)

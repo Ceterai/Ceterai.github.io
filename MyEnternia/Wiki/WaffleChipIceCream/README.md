@@ -40,6 +40,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_crystal_icecream-waffle`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

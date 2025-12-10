@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_force_shielder`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`shielder`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shielder), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

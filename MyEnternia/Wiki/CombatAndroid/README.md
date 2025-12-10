@@ -1,15 +1,30 @@
-# Combat Android ★
+# Combat Android
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/combat.png" alt="Combat Android ★ icon" loading="lazy" width="auto" height="16px"/> **Combat Android ★** is a rare throwable item.
+A tier 3 alta robotic, android type. Assists in various alta combat missions.
 
-## Sources
+## Parameters
 
-Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
+- Category: android
+- Possible species: alta
+- Colony tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light) (1), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door) (1), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) (8), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics) (8), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat) (12), [`tier4`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4) (12)
+
+## Tenant
+
+Can be summoned with a <img src="https://starbounder.org/mediawiki/images/9/93/Colony_Deed.gif" alt="Colony Deed icon" width="9.6" height="15"/> [Colony Deed](https://starbounder.org/Colony_Deed).
+
+Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/920304477977773128/D47BB0FD18E520B722C013CEDE14AC017779D44C/" alt="Tenantator 2000 icon" width="16" height="16"/> [Tenantator 2000](https://steamcommunity.com/sharedfiles/filedetails/?id=1405753979) if installed.
+
+### Rent
+
+Can periodically provide following items as rent:
+
+- for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_drone_visor.png" alt="Drone Visor ★ icon" loading="lazy" width="auto" height="16px"/> [Drone Visor ★](https://ceterai.github.io/MyEnternia/Wiki/DroneVisor) x*1* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/eds.png" alt="EDS Glowstick icon" loading="lazy" width="auto" height="16px"/> [EDS Glowstick](https://ceterai.github.io/MyEnternia/Wiki/EDSGlowstick) x*2* (weight: 0.5)
 
 ## Technical Information
 
-- In-game ID: `ct_combat_android`
-- Power: `3.29`
-- Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`android`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Android), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)
-- File: [`/items/active/alta/spawners/androids/combat.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids/combat.activeitem)
+- In-game ID: `ct_combat_android_tenant`
+- NPC type: `ct_combat_android`
+- Priority: `6`
+- File: [`/tenants/alta/androids/combat.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/androids/combat.tenant)

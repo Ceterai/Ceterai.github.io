@@ -85,6 +85,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gyera-codex`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`gyera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

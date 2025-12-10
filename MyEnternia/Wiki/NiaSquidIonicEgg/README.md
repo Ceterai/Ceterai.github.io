@@ -25,6 +25,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_nia_squid_ionic_egg`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`monster_egg`](https://ceterai.github.io/MyEnternia/Wiki/Tags/MonsterEgg), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)

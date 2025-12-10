@@ -1,6 +1,8 @@
+> Main pages: [Wearables](https://ceterai.github.io/MyEnternia/Wiki/Wearables)
+
 # EPPs
 
-This mod adds 12 epps.
+The mod adds a total of 12 EPPs:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" width="auto" height="16px"/> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/core/icon.png" alt="C.T. Energy Core icon" loading="lazy" width="auto" height="16px"/> [C.T. Energy Core](https://ceterai.github.io/MyEnternia/Wiki/C.T.EnergyCore)

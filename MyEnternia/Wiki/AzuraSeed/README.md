@@ -81,6 +81,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_azura_seed`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`enterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

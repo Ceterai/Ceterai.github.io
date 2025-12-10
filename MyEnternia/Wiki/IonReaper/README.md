@@ -79,6 +79,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ion_reaper`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cannon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cannon), [`dreamer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dreamer), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`grenadelauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Grenadelauncher), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

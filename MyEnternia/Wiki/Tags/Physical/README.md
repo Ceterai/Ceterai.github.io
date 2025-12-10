@@ -1,6 +1,6 @@
 # Physical Tag
 
-The tag `physical` contains 54 total entries.
+The tag `physical` contains 58 total entries.
 
 ## Objects
 
@@ -12,11 +12,12 @@ Following objects have this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 53 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 57 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_baton.png" alt="Alta Baton icon" loading="lazy" width="auto" height="16px"/> [Alta Baton](https://ceterai.github.io/MyEnternia/Wiki/AltaBaton)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/cannon/icon.png" alt="Alta Bubble Cannon icon" loading="lazy" width="auto" height="16px"/> [Alta Bubble Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbleCannon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/blaster/icon.png" alt="Alta Bubbler icon" loading="lazy" width="auto" height="16px"/> [Alta Bubbler](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbler)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/nets/bug_net/icon.png" alt="Alta Bug Net icon" loading="lazy" width="auto" height="16px"/> [Alta Bug Net](https://ceterai.github.io/MyEnternia/Wiki/AltaBugNet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/energy_drill/icon.png" alt="Alta Energy Laser icon" loading="lazy" width="auto" height="16px"/> [Alta Energy Laser](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyLaser)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon.png" alt="Alta Foam Sprayer icon" loading="lazy" width="auto" height="16px"/> [Alta Foam Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaFoamSprayer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/grabber/icon.png" alt="Alta Grabber icon" loading="lazy" width="auto" height="16px"/> [Alta Grabber](https://ceterai.github.io/MyEnternia/Wiki/AltaGrabber)
@@ -27,9 +28,11 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_ayaka_stick.png" alt="Ayaka Stick icon" loading="lazy" width="auto" height="16px"/> [Ayaka Stick](https://ceterai.github.io/MyEnternia/Wiki/AyakaStick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" width="auto" height="16px"/> [Barracuda's Cry ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sCry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" width="auto" height="16px"/> [Barracuda's Fin](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sFin)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/nets/bion_net/icon.png" alt="Bion Bug Net icon" loading="lazy" width="auto" height="16px"/> [Bion Bug Net](https://ceterai.github.io/MyEnternia/Wiki/BionBugNet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun_2.png" alt="Bishyn Cannon ★ icon" loading="lazy" width="auto" height="16px"/> [Bishyn Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/BishynCannon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png" alt="Bishyn Gun icon" loading="lazy" width="auto" height="16px"/> [Bishyn Gun](https://ceterai.github.io/MyEnternia/Wiki/BishynGun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgunblue.png" alt="Blue Paintgun icon" loading="lazy" width="auto" height="16px"/> [Blue Paintgun](https://ceterai.github.io/MyEnternia/Wiki/BluePaintgun)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/nets/bug_lover/icon.png" alt="Bug Lover icon" loading="lazy" width="auto" height="16px"/> [Bug Lover](https://ceterai.github.io/MyEnternia/Wiki/BugLover)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png" alt="Calin Sword icon" loading="lazy" width="auto" height="16px"/> [Calin Sword](https://ceterai.github.io/MyEnternia/Wiki/CalinSword)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/celestial_pick/icon.png" alt="Celestial Pick icon" loading="lazy" width="auto" height="16px"/> [Celestial Pick](https://ceterai.github.io/MyEnternia/Wiki/CelestialPick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/ceter_relocator/icon.png" alt="Ceter-Relocator icon" loading="lazy" width="auto" height="16px"/> [Ceter-Relocator](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Relocator)
@@ -45,6 +48,7 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgungreen.png" alt="Green Paintgun icon" loading="lazy" width="auto" height="16px"/> [Green Paintgun](https://ceterai.github.io/MyEnternia/Wiki/GreenPaintgun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" width="auto" height="16px"/> [Gyera Blaster](https://ceterai.github.io/MyEnternia/Wiki/GyeraBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" width="auto" height="16px"/> [Halter Compact ★](https://ceterai.github.io/MyEnternia/Wiki/HalterCompact)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/nets/haven_catcher/icon.png" alt="Haven Catcher icon" loading="lazy" width="auto" height="16px"/> [Haven Catcher](https://ceterai.github.io/MyEnternia/Wiki/HavenCatcher)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword_2.png" alt="Haven Clover ★ icon" loading="lazy" width="auto" height="16px"/> [Haven Clover ★](https://ceterai.github.io/MyEnternia/Wiki/HavenClover)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_haven_thrower.png" alt="Haven Grassthrower ★★ icon" loading="lazy" width="auto" height="16px"/> [Haven Grassthrower ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenGrassthrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" width="auto" height="16px"/> [Isoblaster](https://ceterai.github.io/MyEnternia/Wiki/Isoblaster)

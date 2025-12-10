@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Hevika Loot Crate** is an uncommon loot item.
 
-Contains random loot from [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika) biome chests.  
-Often used by [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdis) for energy transportation, as well as containment of especially overcharged specimens.
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) biome chests.  
+Often used by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" width="16" height="16"/> [hevika ordis](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevika-ordis) for energy transportation, as well as containment of especially overcharged specimens.
 
 ## Ingame
 
@@ -63,6 +63,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hevika_loot`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`hevika`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -15,10 +15,10 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_alternia_cocktail.png" alt="Alternia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Alternia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCocktail)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_ceternia_cocktail.png" alt="Ceternia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Ceternia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCocktail)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_enternia_cocktail.png" alt="Enternia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Enternia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCocktail)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"/> [Staris Cocktail ★](https://ceterai.github.io/MyEnternia/Wiki/StarisCocktail)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"/> [Staris Cocktail ★](https://ceterai.github.io/MyEnternia/Wiki/StarisCocktail) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_ceternia_cocktail.png" alt="Ceternia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Ceternia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCocktail) (chance: 30.0%)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_alternia_cocktail.png" alt="Alternia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Alternia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCocktail) (chance: 30.0%)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_enternia_cocktail.png" alt="Enternia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Enternia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCocktail) (chance: 40.0%)
 
 ## Sources
 
@@ -55,6 +55,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_nia_cocktail`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cocktail`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cocktail), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine)

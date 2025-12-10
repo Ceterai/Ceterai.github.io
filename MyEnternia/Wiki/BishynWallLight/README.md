@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/light/icon.png" alt="Bishyn Wall Light icon" loading="lazy" width="auto" height="16px"/> **Bishyn Wall Light** is an uncommon light source.
 
-A [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn) light.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) light.
 
 ## Ingame
 
@@ -42,6 +42,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bishyn_light`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bishyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bishyn), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

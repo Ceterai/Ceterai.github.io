@@ -31,6 +31,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_lenn_af`
+- Level: `9`
 - Power: `5.0`
 - Rarity: `Essential`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_special`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSpecial), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`time_drifter`](https://ceterai.github.io/MyEnternia/Wiki/Tags/TimeDrifter), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

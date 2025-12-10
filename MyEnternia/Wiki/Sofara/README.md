@@ -74,6 +74,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sofara_tree`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`enterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

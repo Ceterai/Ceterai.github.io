@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"/> **Tonnakada** is a common dish.
 
-A properly cooked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) fresh from a fully grown [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova)!  
+A properly cooked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) fresh from a fully grown <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" width="16" height="16"/> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova)!  
 Like many kadas, this one takes advantage of each part of a tonna separately to make a dish that tastes completely different.
 
 ## Ingame
@@ -22,7 +22,7 @@ Applies effects:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada Split icon" loading="lazy" width="auto" height="16px"/> [Tonnakada Split](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaSplit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada Split icon" loading="lazy" width="auto" height="16px"/> [Tonnakada Split](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaSplit) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -79,6 +79,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_tonnakada`
+- Level: `2`
 - Power: `1.0`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`kada`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Kada), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`tonnova`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova)

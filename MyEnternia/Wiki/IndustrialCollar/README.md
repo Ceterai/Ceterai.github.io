@@ -50,6 +50,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_industrial_collar`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`industrial`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Industrial), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`tier5clothing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier5Clothing)

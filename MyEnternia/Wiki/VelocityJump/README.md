@@ -1,5 +1,7 @@
 # Velocity Jump
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" width="auto" height="16px"/> **Velocity Jump** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Increases jump height and decreases fall damage by 50%.
 
 <details markdown="1"><summary>Applied by following items: (Expand 8 items)</summary>

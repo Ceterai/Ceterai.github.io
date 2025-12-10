@@ -34,6 +34,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_head_mimic-bandana`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - File: [`/items/buildscripts/ct_mimics/head.head`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/head.head)

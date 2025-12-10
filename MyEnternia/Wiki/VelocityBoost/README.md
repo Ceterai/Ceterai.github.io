@@ -1,5 +1,7 @@
 # Velocity Boost
 
+<img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="icon" loading="lazy" width="16px" height="16px"/> **Velocity Boost** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Increases jump height by 50%.
 
 Applied by following items:

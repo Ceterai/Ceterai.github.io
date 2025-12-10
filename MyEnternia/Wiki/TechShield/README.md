@@ -1,5 +1,7 @@
 # Tech Shield
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_tech_shield.png" alt="Tech Shield icon" loading="lazy" width="auto" height="16px"/> **Tech Shield** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 An energy shield that will expire once broken or overtime.
 
 ## Parameters

@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_carel_sapling`
+- Level: `2`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`carel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature)

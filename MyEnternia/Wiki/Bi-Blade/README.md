@@ -21,11 +21,32 @@ Radiomessages on pickup:
 
 ### Dual Resonation
 
-A sequence of 4 (+1) heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/BladeCharge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab)  
+A sequence of 4 (+1) heavy strikes. Hold to perform a [blade charge](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Blade-Charge). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab)  
 Full resonation engaged! A perfect viona anomaly to rule them all.
 
 Parameters:
 
+- Energy Usage: 32
+- Fire Time: 0.93
+- Hold Params:
+  - Damage Config:
+    - Status Effects:  `frostslow`
+    - Ranged:
+      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [Ice](https://starbounder.org/Ice)
+      - Count: 5
+      - Inaccuracy: 1.57
+      - Offset:  5.0,  -0.85
+      - Type: `smallicecloud`
+      - Params:
+        - Speed: 15
+    - Damage Source Kind: `icebroadsword`
+  - Charge Border: `FF33FF88`
+- Damage Config:
+  - Base Damage: 22.5
+  - Knockback: 40
+  - Damage Source Kind: `broadsword`
+  - Knockback Mode: `facing`
+  - Timeout: 0.5
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -63,28 +84,6 @@ Parameters:
   - Offset:  5.0,  -0.85
   - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [Ice](https://starbounder.org/Ice)
 - Base Dps: 12
-- Class: `BladeCharge`
-- Fire Time: 0.93
-- Hold Params:
-  - Charge Border: `FF33FF88`
-  - Damage Config:
-    - Damage Source Kind: `icebroadsword`
-    - Ranged:
-      - Offset:  5.0,  -0.85
-      - Params:
-        - Speed: 15
-      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [Ice](https://starbounder.org/Ice)
-      - Type: `smallicecloud`
-      - Count: 5
-      - Inaccuracy: 1.57
-    - Status Effects:  `frostslow`
-- Energy Usage: 32
-- Damage Config:
-  - Base Damage: 22.5
-  - Knockback: 40
-  - Damage Source Kind: `broadsword`
-  - Knockback Mode: `facing`
-  - Timeout: 0.5
 
 ### Enchanted Resonation
 
@@ -103,6 +102,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_enchanted_twins-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`enchanted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`twinblade`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Twinblade), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`viona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona), [`vionos`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Vionos), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

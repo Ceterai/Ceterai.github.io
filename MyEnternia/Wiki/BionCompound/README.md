@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> **Bion Compound** is a rare crafting material.
 
-A bulletproof piece of composite cloth, mostly made from bion - purified <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid). Pure bion is able to bend well and provide heat retention, while mixes like bionix are hard and can barely bend.  
+A bulletproof piece of composite cloth, mostly made from bion - purified <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid). Pure bion is able to bend well and provide heat retention, while mixes like bionix are hard and can barely bend.  
 Encompasses different types of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" width="auto" height="16px"/> [bionics](https://ceterai.github.io/MyEnternia/Wiki/Bionics) developed by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).
 
-It's worth noting that altas themselves partially consist of pure bion as well, along with [crystals](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [ionic ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment), and even [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), all in relatively small ratios compared to bion.
+It's worth noting that altas themselves partially consist of pure bion as well, along with <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystals](https://starbounder.org/Crystal) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [ionic ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment), and even [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), all in relatively small ratios compared to bion.
 
 ## Ingame
 
@@ -319,6 +319,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_bion`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`armor`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Armor), [`bion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion), [`bionid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bionid), [`cloth`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cloth), [`compound`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Compound), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent)

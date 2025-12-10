@@ -30,6 +30,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_b803_af`
+- Level: `8`
 - Power: `4.5`
 - Rarity: `Essential`
 - Colony tags: [`alta_special`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSpecial), [`essential`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Essential), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`valuable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)

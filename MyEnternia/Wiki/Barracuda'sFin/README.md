@@ -28,7 +28,6 @@ The fin is pretty heavy, so any of this might take some additional effort.
 
 Parameters:
 
-- Class: `KunaiBlast`
 - Base Dps: 12
 - Fire Time: 0.9
 - Energy Usage: 32
@@ -106,6 +105,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_barracuda_fin`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`barracuda`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Barracuda), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

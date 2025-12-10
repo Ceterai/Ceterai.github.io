@@ -46,6 +46,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_kodorric1`
+- Level: `0`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`kodorric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Kodorric), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`shroom`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shroom), [`toxic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toxic)

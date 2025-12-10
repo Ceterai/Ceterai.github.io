@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" width="auto" height="16px"/> **Crystalline Primification** is a rare codex entry.
 
-A compact [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) that contains several pages describing [crystalline prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/CrystallinePrime) and the "prime" phenomenon as a whole.  
+A compact [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) that contains several pages describing <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystalline Prime icon" width="15" height="14"/> [crystalline prime](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrime) and the "prime" phenomenon as a whole.  
 The ebook goes over the concept of primification, which is the process of amplifying the energy or power within an entity by releasing its capabilities. It also describes crystalline prime as a charged crystalline environment.
 
 ## Ingame
@@ -21,7 +21,7 @@ Primification is the process of amplifying the energy or power within an entity 
 
 Altas call certain things "Prime" whenever they enter their true or enhanced form.
 
-Thus, [Crystalline Prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/CrystallinePrime) is an energy-enhanced [Crystalline](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline) environment, full of charged crystalline bushes.
+Thus, <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystalline Prime icon" width="15" height="14"/> [crystalline prime](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrime) is an energy-enhanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline icon" loading="lazy" width="16px" height="16px"/> [Crystalline](https://starbounder.org/Crystalline) environment, full of charged crystalline bushes.
 
 The process can result in the growth of large, powerful crystals. These can be harvested for their energy and used in various applications, including energy storage and weaponry.
 
@@ -29,7 +29,7 @@ The process of primification can also lead to the development of new crystalline
 
 This phenomenon can occur naturally on terraformed moonlike planets, or on similar Io structs like alterash prime planets.
 
-More information is available in the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Altas & Crystals icon" loading="lazy" width="auto" height="16px"/> [Altas & Crystals](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) database, since crystalline is a [calin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin) subtype.
+More information is available in the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Altas & Crystals icon" loading="lazy" width="auto" height="16px"/> [Altas & Crystals](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) database, since crystalline is a <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" width="10" height="14"/> [calin](https://ceterai.github.io/MyEnternia/Wiki/Calin) subtype.
 
 ...The ebook ends with a large list of references to various crystalline prime-related topics, including the properties of different types of crystals, their uses in technology and energy production, and their role in the ecosystem of crystalline prime environments.
 
@@ -61,7 +61,7 @@ Can be bought from merchants:
 
 - [Cal Merchant](https://ceterai.github.io/MyEnternia/Wiki/CalMerchant)
 
-<details markdown="1"><summary>Given as rent by tenants: (Expand 33 items)</summary>
+<details markdown="1"><summary>Given as rent by tenants: (Expand 32 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [A.R.C.O. Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.FieldResearcher)
@@ -83,7 +83,6 @@ Can be bought from merchants:
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [Ceterai Field Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFieldResearcher)
 - [Ceterai Researcher](https://ceterai.github.io/MyEnternia/Wiki/CeteraiResearcher)
-- [ct_alta_scientist_tenant](https://ceterai.github.io/MyEnternia/Wiki/ct-alta-scientist-tenant)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [EDS Researcher](https://ceterai.github.io/MyEnternia/Wiki/EDSResearcher)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)
@@ -108,6 +107,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_crystalline_prime-codex`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`crystalline_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CrystallinePrime), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

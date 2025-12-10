@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/chest/icon.png" alt="Ghearun M1 Chest icon" loading="lazy" width="auto" height="16px"/> **Ghearun M1 Chest** is a legendary chest armor piece.
 
-An armored suit with an exosceleton that runs on [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) and provides power improvements.
+An armored suit with an exosceleton that runs on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) and provides power improvements.
 
 ## Parameters
 
@@ -42,6 +42,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ghearun_chest`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ghearun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

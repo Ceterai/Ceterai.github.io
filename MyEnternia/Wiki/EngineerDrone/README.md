@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Engineer Drone ★★★** is a rare fiery throwable item.
 
-A massive technical drone able to repair anything, even itself. Slightly more resistant to [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and [ice](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice).  
+A massive technical drone able to repair anything, even itself. Slightly more resistant to [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice).  
 And while repair and construction are this drone's main functions, it can put up quite the fight.
 
 ## Ingame
@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_engineer_drone`
+- Level: `5`
 - Power: `3.88`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`citadel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel), [`drone`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)

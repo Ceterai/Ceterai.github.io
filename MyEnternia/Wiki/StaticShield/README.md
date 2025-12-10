@@ -1,5 +1,7 @@
 # Static Shield
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" width="auto" height="16px"/> **Static Shield** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 An energy shield that will expire once broken or overtime.  
 Just like the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" width="auto" height="16px"/> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield), this piece of alta technology is yet to be learned by a number of civilizations.  
 Alta: An advanced static shield. Much harder to produce, because it utilizes impulses instead of plasma.

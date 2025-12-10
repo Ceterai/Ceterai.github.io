@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Loot Crate** is an uncommon loot item.
 
-Contains random loot from [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) biome chests.  
-This supply crate is utilized by the [ghearun researchers](https://ceterai.github.io/MyEnternia/Wiki/GhearunResearcher) as a spare part delivery method for [gheatsyn guardians](https://ceterai.github.io/MyEnternia/Wiki/gheatsynguardians). Can contain other loot as well.
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) biome chests.  
+This supply crate is utilized by the [ghearun researchers](https://ceterai.github.io/MyEnternia/Wiki/GhearunResearcher) as a spare part delivery method for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/ghearun.png" alt="icon" width="16" height="16"/> [gheatsyn guardians](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#guardians). Can contain other loot as well.
 
 ## Ingame
 
@@ -76,6 +76,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_loot`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

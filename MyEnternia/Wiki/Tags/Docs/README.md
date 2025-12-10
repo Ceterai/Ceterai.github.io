@@ -1,6 +1,6 @@
 # Docs Tag
 
-The tag `docs` contains 25 total entries.
+The tag `docs` contains 26 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `docs` contains 25 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 25 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 26 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" width="auto" height="16px"/> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" width="auto" height="16px"/> [Alta Farmer's Notes](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmer'sNotes)
@@ -35,5 +35,6 @@ The tag `docs` contains 25 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Scout Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Scout Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-ScoutSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Security Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Security Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-SecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Unika Offices Initiative icon" loading="lazy" width="auto" height="16px"/> [Unika Offices Initiative](https://ceterai.github.io/MyEnternia/Wiki/UnikaOfficesInitiative)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="Welcome to Alterash! icon" loading="lazy" width="auto" height="16px"/> [Welcome to Alterash!](https://ceterai.github.io/MyEnternia/Wiki/WelcometoAlterash!)
 
 </details>

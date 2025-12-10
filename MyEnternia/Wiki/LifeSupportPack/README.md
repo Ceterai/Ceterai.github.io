@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" width="auto" height="16px"/> **Life Support Pack** is an uncommon back cosmetic item.
 
-A standard protocol life support system for [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) units. Adds slow health regen, unaffected by regen blockers.  
+A standard protocol life support system for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) units. Adds slow health regen, unaffected by regen blockers.  
 This necessary life-saving technology is required for every security guard by safety protocols, but has to be worn separately from the suit.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="GR Supply ★ icon" loading="lazy" width="auto" height="16px"/> [GR Supply ★](https://ceterai.github.io/MyEnternia/Wiki/GRSupply) at the Weapon Upgrade Anvil.
@@ -56,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security_pack`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`tier4armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Armour), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

@@ -12,8 +12,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
-- Class: `GunFire`
 - Fire Time: 0.15
 - Base Dps:
 - Energy Usage: 24
@@ -36,6 +34,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_snowthrower`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`sona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sona), [`thrower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Thrower), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

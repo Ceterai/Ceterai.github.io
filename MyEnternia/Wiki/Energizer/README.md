@@ -1,5 +1,7 @@
 # Energizer
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" width="auto" height="16px"/> **Energizer** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Constantly replenishes your energy by 0.5% each second.
 
 <details markdown="1"><summary>Applied by following items: (Expand 11 items)</summary>

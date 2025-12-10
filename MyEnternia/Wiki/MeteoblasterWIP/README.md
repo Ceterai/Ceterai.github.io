@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" width="auto" height="16px"/> **Meteoblaster WIP** is a rare two-handed grenade launcher.
 
-Its core was constructed from enternia-enhanced moonrock meteorites of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera).
+Its core was constructed from enternia-enhanced moonrock meteorites of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png" alt="Starblaster ★ icon" loading="lazy" width="auto" height="16px"/> [Starblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Starblaster) at the Weapon Upgrade Anvil.
 
@@ -16,12 +16,10 @@ Radiomessages on pickup:
 
 ### Meteoblast
 
-Launches powerful meteorite shards called [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera)'s Shards.
+Launches powerful meteorite shards called [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera)'s Shards.
 
 Parameters:
 
-- Scripts:  `/items/active/weapons/ranged/gunfire.lua`
-- Class: `GunFire`
 - Fire Time: 1.0
 - Base Dps: 9
 - Energy Usage: 32
@@ -64,6 +62,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_meteoblaster`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`astera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), [`grenadelauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Grenadelauncher), [`ionic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

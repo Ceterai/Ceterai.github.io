@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png" alt="Hevikai Antidote ★★ icon" loading="lazy" width="auto" height="16px"/> **Hevikai Antidote ★★** is a rare medical item.
 
 Prevents or cures <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) by applying a short <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai_block.png" alt="Hevikai Block icon" loading="lazy" width="auto" height="16px"/> [Hevikai Block](https://ceterai.github.io/MyEnternia/Wiki/HevikaiBlock).  
-To prevent ever needing this, try acquiring some [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/PlasmaImmunity).  
-One of the proudest achievements of [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdis). The work on a cure started shortly after discovering [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika)-related overcharges and the disease.  
-After developing it, [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) researchers realized that these levels of overcharges can be useful in certain environments, which led to the development of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack).
+To prevent ever needing this, try acquiring some <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="icon" width="16" height="16"/> [plasma immunity](https://ceterai.github.io/MyEnternia/Wiki/Alternia#immunity).  
+One of the proudest achievements of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" width="16" height="16"/> [hevika ordis](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevika-ordis). The work on a cure started shortly after discovering <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika)-related overcharges and the disease.  
+After developing it, [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) researchers realized that these levels of overcharges can be useful in certain environments, which led to the development of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack).
 
 ## Ingame
 
@@ -51,6 +51,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hevikai_antidote`
+- Level: `5`
 - Power: `3.63`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`antidote`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Antidote), [`enhancer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancer), [`hevikai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevikai), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

@@ -21,7 +21,6 @@ Firemodes: single, semiauto.
 
 Parameters:
 
-- Class: `AltaRanged`
 - Base Dps: 9
 - Energy Usage: 32
 - Fire Time: 1.6
@@ -41,7 +40,6 @@ Hold - launch an Icy Cloud Nade.
 
 Parameters:
 
-- Class: `AltaSwitch`
 - Base Dps: 9
 - Energy Usage: 32
 - Fire Time: 0.5
@@ -72,6 +70,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sky_lance`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`arknights`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arknights), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sniperrifle`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sniperrifle), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

@@ -28,7 +28,7 @@ Vionia has a potential to be an efficient power source, and thus is a frequent s
 
 Many scientific groups are also interested in developing means to either resist, or even "de-enchant" viona, although so far few attempts have been completely successful.
 
-This is why, in its current state, [ion cores](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) of [alterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash) planets still require constant monitoring - rare explosions of vionia activity put the core's stability in danger, and fully getting rid of such cases is a priority for many safety and research teams.
+This is why, in its current state, [ion cores](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets still require constant monitoring - rare explosions of vionia activity put the core's stability in danger, and fully getting rid of such cases is a priority for many safety and research teams.
 
 ## Usage
 
@@ -70,6 +70,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_enchanted-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`viona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona)

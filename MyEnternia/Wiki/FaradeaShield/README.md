@@ -47,6 +47,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_eds_shield-faradea`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`faradea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

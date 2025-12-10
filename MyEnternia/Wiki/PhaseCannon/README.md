@@ -24,8 +24,6 @@ A powerful generator is able to produce a continous stream while using a relativ
 
 Parameters:
 
-- Class: `BeamFire`
-- Scripts:  `/items/active/weapons/ranged/beamfire.lua`,  `/items/active/weapons/ranged/gunfire.lua`
 - Base Dps: 12
 - Fire Time: 0.2
 - Energy Usage: 44
@@ -55,8 +53,6 @@ This sphere is a point of concentrated energy, able to exist for a prolonged per
 
 Parameters:
 
-- Scripts:  `/items/active/weapons/ranged/alta/ranged.lua`
-- Class: `AltaRanged`
 - Base Dps: 12
 - Fire Time: 0.9
 - Energy Usage: 48
@@ -94,6 +90,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_phase_cannon`
+- Level: `6`
 - Power: `4.54`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

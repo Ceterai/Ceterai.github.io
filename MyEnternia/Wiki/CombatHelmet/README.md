@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/helmet/icon.png" alt="Combat Helmet ★ icon" loading="lazy" width="auto" height="16px"/> **Combat Helmet ★** is a rare head armor piece.
 
-A full [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) army helmet, covering the head completely. Provides additional breath protection.
+A full [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) army helmet, covering the head completely. Provides additional breath protection.
 
 ## Parameters
 
@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_combat_helmet`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`combat`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Combat), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`tier5armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier5Armour)

@@ -28,10 +28,12 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/boosted/icon.png" alt="Boosted Beakseed Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Beakseed Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedBeakseedSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/beakseed/icon.png" alt="Potted Beakseed icon" loading="lazy" width="auto" height="16px"/> [Potted Beakseed](https://ceterai.github.io/MyEnternia/Wiki/PottedBeakseed)
 
 Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/beakseed/pod/icon.png" alt="Beakseed Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Beakseed Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/BeakseedEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/beakseed/icon.png" alt="Potted Beakseed icon" loading="lazy" width="auto" height="16px"/> [Potted Beakseed](https://ceterai.github.io/MyEnternia/Wiki/PottedBeakseed)
 
 ## Sources
 
@@ -51,6 +53,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_beakseed_eco`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Colony tags: [`beakseed`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Beakseed), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" width="auto" height="16px"/> **Warped Gun** is an uncommon two-handed poisonous shotgun.
 
-This cannon is overgrown with [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) fibres. It has a special section filled with warped venom and luminous juices.
+This cannon is overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) fibres. It has a special section filled with warped venom and luminous juices.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun_2.png" alt="Biowarper ★ icon" loading="lazy" width="auto" height="16px"/> [Biowarper ★](https://ceterai.github.io/MyEnternia/Wiki/Biowarper) at the Weapon Upgrade Anvil.
 
@@ -80,6 +80,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_gun`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`cannon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cannon), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

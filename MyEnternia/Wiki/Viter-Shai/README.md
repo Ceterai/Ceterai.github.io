@@ -66,6 +66,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_vitershai`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cannon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cannon), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`grenadelauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Grenadelauncher), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

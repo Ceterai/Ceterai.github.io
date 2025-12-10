@@ -1,6 +1,8 @@
+> Main pages: [Enhancements](https://ceterai.github.io/MyEnternia/Wiki/Enhancements)
+
 # Augments
 
-This mod adds 22 augments.
+The mod adds a total of 22 augments:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_alternia_augment.png" alt="Alternia Augment ★★ icon" loading="lazy" width="auto" height="16px"/> [Alternia Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_astera_augment.png" alt="Astera Augment icon" loading="lazy" width="auto" height="16px"/> [Astera Augment](https://ceterai.github.io/MyEnternia/Wiki/AsteraAugment)

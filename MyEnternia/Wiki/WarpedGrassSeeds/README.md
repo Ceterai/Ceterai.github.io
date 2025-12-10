@@ -34,6 +34,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_grass_seeds`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`plant_tool`](https://ceterai.github.io/MyEnternia/Wiki/Tags/PlantTool), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/active/alta/tools/plant/ct_warped_grass_seeds.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/plant/ct_warped_grass_seeds.thrownitem)

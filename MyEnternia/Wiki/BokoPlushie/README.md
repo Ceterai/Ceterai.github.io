@@ -23,6 +23,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_boko_plush`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`plushie`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plushie), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)

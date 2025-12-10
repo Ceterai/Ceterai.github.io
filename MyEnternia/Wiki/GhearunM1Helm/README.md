@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/helmet/icon.png" alt="Ghearun M1 Helm icon" loading="lazy" width="auto" height="16px"/> **Ghearun M1 Helm** is a legendary head armor piece.
 
-A full helmet with additional visors. [Ghearun](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun) suits are often worn by certain [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) research groups. Runs on [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn). Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
+A full helmet with additional visors. <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" width="16" height="16"/> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun) suits are often worn by certain [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) research groups. Runs on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn). Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [breath protection](https://starbounder.org/Breathing_EPP).  
 The helmet itself provides enhanced vision in dimly lit and highly toxic and foggy environments, and has an in-built emergency protection system in case of depressurization.
 
 ## Ingame
@@ -54,6 +54,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ghearun_helmet`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ghearun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ghearun), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

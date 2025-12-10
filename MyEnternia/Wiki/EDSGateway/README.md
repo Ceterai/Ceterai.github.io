@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_gateway`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`mechanical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mechanical), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

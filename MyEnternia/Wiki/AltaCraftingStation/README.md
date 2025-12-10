@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png" alt="Alta Crafting Station icon" loading="lazy" width="auto" height="16px"/> **Alta Crafting Station** is a common crafting station.
 
-Used for crafting [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) technology and resources.  
+Used for crafting [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) technology and resources.  
 Has 16 stages, last one is the Ultimate Station.
 
 ## Ingame
@@ -48,6 +48,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_crafting_station`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting)

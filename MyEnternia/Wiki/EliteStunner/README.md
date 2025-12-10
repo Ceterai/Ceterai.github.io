@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_elite_stunner.png" alt="Elite Stunner ★ icon" loading="lazy" width="auto" height="16px"/> **Elite Stunner ★** is a legendary two-handed electric spear.
 
-**WIP**. An [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) spear used by elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) forces to deal with threats.  
+**WIP**. An [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) spear used by elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) forces to deal with threats.  
 This is an advanced form of a standard alta [halter stick](https://ceterai.github.io/MyEnternia/Wiki/halterstick), with enhanced energy capabilities and additional range in exchange for the original special abilities.
 
 ## Ingame
@@ -55,6 +55,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elite_stunner`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

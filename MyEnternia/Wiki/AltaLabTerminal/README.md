@@ -44,6 +44,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_lab_terminal`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`holographic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holographic), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`terminal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Terminal), [`wired`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wired)

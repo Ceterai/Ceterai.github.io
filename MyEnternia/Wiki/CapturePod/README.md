@@ -11,6 +11,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_capture_pod`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`capture_pod`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CapturePod), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/items/active/alta/tools/capture/pod/ct_alta_capture_pod.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/capture/pod/ct_alta_capture_pod.thrownitem)

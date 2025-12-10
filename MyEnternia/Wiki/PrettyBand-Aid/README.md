@@ -3,7 +3,7 @@
  **Pretty Band-Aid** is an uncommon medical item.
 
 A set of colorful little bandades often carried by caretakers. It radiates love and happiness and turns your body into a colorful canvas!  
-Made from processed <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) and [silk](https://ceterai.github.io/MyEnternia/Wiki/silk), it acts as both disinfectant and an absorber.
+Made from processed <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) and <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"/> [silk](https://starbounder.org/Silk), it acts as both disinfectant and an absorber.
 
 ## Ingame
 
@@ -51,6 +51,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_aid_mimic-bandade_pretty`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`aid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

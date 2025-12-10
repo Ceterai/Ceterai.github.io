@@ -21,13 +21,12 @@ Radiomessages on pickup:
 
 ### Crystal Powers
 
-**WIP**. A sequence of 3 light strikes. Hold to perform a [Trail Dash](https://ceterai.github.io/MyEnternia/Wiki/TrailDash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).  
+**WIP**. A sequence of 3 light strikes. Hold to perform a [trail dash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Trail-Dash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
 Enters a charged state every 10 seconds, making next 4 hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
 The indent patterns on the blade help directing the impulses in the right direction during the swing.
 
 Parameters:
 
-- Class: `TrailDash`
 - Base Dps: 6
 - Fire Time: 0.625
 - Steps: 
@@ -75,6 +74,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_calin_sword`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`shortsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shortsword), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

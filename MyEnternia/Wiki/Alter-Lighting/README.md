@@ -60,6 +60,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_tool_mimic-alter_whip`
+- Level: `6`
 - Power: `4.56`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alternia`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alternia), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon), [`whip`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Whip)

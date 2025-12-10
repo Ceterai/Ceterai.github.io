@@ -1,6 +1,6 @@
 # Alta Umbrella
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rain/star_parasol/icon.png" alt="Alta Umbrella icon" loading="lazy" width="auto" height="16px"/> **Alta Umbrella** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rain/umbrella/icon.png" alt="Alta Umbrella icon" loading="lazy" width="auto" height="16px"/> **Alta Umbrella** is a common tool.
 
 Open to gently float while falling. It's bad luck to open inside the house.
 
@@ -10,7 +10,9 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 
 ## Technical Information
 
-- In-game ID: `ct_star_parasol`
-- Power: `3.5`
-- Rarity: `Legendary`
-- File: [`/items/active/alta/tools/rain/star_parasol/parasol.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/rain/star_parasol/parasol.activeitem)
+- In-game ID: `ct_alta_umbrella`
+- Level: `1`
+- Power: `1.0`
+- Rarity: `Common`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`umbrella`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Umbrella)
+- File: [`/items/active/alta/tools/rain/umbrella/ct_alta_umbrella.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/tools/rain/umbrella/ct_alta_umbrella.activeitem)

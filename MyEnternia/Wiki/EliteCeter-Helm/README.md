@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Elite Ceter-Helm icon" loading="lazy" width="auto" height="16px"/> **Elite Ceter-Helm** is a legendary head armor piece.
 
-A helmet worn by elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) forces. Has built-in [breath protection](https://ceterai.github.io/MyEnternia/Wiki/breathprotection).  
+A helmet worn by elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) forces. Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [breath protection](https://starbounder.org/Breathing_EPP).  
 The visor in this helmet has an extended field of view to provide better clearance.
 
 ## Ingame
@@ -56,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elite_helmet`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`elite`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elite), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

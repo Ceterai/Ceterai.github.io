@@ -32,6 +32,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_sonaveil_scarf`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`sonaveil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sonaveil), [`tier6clothing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Clothing)

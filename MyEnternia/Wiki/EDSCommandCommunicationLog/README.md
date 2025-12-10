@@ -63,6 +63,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_logs_eds_chatter-codex`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

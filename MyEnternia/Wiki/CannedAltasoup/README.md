@@ -58,6 +58,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_soup_canned`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - File: [`/items/generic/food/shop/ct_alta_soup_canned.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/shop/ct_alta_soup_canned.consumable)

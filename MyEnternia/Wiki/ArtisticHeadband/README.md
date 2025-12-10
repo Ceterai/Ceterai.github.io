@@ -33,6 +33,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_head_mimic-headband`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - File: [`/items/buildscripts/ct_mimics/head.head`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/head.head)

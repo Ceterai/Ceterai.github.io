@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Niatto Motsu Soup icon" loading="lazy" width="auto" height="16px"/> **Niatto Motsu Soup** is a rare dish.
 
-A regular herb-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) soup but based on nia ingredients.  
+A regular herb-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) soup but based on nia ingredients.  
 Prepared with a cross-cuisine twist in mind, this motsu still falls under the milk-herb soup and does follow the taste range well too.
 
 ## Ingame
@@ -23,7 +23,7 @@ Applies effects:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Perfect Niatto Motsu icon" loading="lazy" width="auto" height="16px"/> [Perfect Niatto Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectNiattoMotsu)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Perfect Niatto Motsu icon" loading="lazy" width="auto" height="16px"/> [Perfect Niatto Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectNiattoMotsu) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -70,6 +70,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_niatto_motsu`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)

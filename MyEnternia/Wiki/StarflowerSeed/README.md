@@ -70,6 +70,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_stardust_seed`
+- Level: `7`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Colony tags: [`astera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera), [`farming`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Farming), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)

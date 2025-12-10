@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/teleporter/icon.png" alt="Alta Teleporter icon" loading="lazy" width="auto" height="16px"/> **Alta Teleporter** is an uncommon teleport marker.
 
-A one-way titanium teleporter. Oddly enough, this doesn't feel like [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) technology.
+A one-way titanium teleporter. Oddly enough, this doesn't feel like [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) technology.
 
 ## Ingame
 
@@ -40,6 +40,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_teleporter`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`misc`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Misc), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

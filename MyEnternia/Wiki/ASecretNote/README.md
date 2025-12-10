@@ -6,14 +6,18 @@ This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/gen
 
 ## Ingame
 
+Radiomessages on pickup:
+
+- You've found an alta datamass. These tiny portable databases tend to contain important encrypted info used by alta crafting stations to unlock various blueprints.  
+These can either be crafted or found in random alta pods on alterash planets.
+
 ### Contents
 
 Tia thinks that the two of us can handle this, but I'm not as optimistic. Now, that Mira is...
 
 I told Tia that I'll make sure all 'doorways' no longer have an energy source. Obviously, I can't just pretend like I did that, I'll have to remove them for real.  
 But. Something tells me we'll need someone else's help.  
-I'll make sure to send an SOS signal to everywhere I can reach without her noticing.  
-
+I'll make sure to send an SOS signal to everywhere I can reach without her noticing.
 
 ...Please. If you're reading this. The energy sources used by 'doorways' are the same sources still installed in the generators on Crimsash satellites.
 
@@ -42,6 +46,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_notes_maya_backdoor-codex`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
+- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`datamass`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Datamass), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/codex/alta/ct_notes_maya_backdoor.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_notes_maya_backdoor.codex)

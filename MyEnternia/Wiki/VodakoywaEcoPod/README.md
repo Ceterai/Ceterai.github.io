@@ -52,6 +52,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_voda_eco_pod`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea), [`voda`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Voda)

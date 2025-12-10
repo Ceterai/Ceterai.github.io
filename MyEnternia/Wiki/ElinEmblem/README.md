@@ -17,6 +17,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_elin_emblem`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`elin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elin), [`emblem`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Emblem), [`holographic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holographic), [`patriotic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Patriotic)

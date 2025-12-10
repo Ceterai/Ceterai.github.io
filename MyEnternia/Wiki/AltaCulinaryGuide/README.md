@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-Hi there, fellow [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta)! I, Miara, am a grand chef at one of [Alta-1](https://ceterai.github.io/MyEnternia/Wiki/Alta-1) biggest restaurants and I'm here to get you accustomed with the basics of [alta kitchen](https://ceterai.github.io/MyEnternia/Wiki/altakitchen) and culture around it!
+Hi there, fellow [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)! I, Miara, am a grand chef at one of [Alta-1](https://ceterai.github.io/MyEnternia/Wiki/Alta-1) biggest restaurants and I'm here to get you accustomed with the basics of [alta kitchen](https://ceterai.github.io/MyEnternia/Wiki/altakitchen) and culture around it!
 
 Desserts make up a large part of alta recipes and most of them are pretty easy to make, making them a great way to start! Iced desserts, tarts, candies and cookies are all good choices for a beginner.
 
@@ -111,6 +111,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_food-codex`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

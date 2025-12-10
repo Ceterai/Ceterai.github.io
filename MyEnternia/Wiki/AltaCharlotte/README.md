@@ -38,6 +38,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_food_mimic-alta_charlotte`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

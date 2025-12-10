@@ -1,5 +1,7 @@
 # Curious
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/confused.png:1" alt="Curious icon" loading="lazy" width="auto" height="16px"/> **Curious** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Ohh, what's that?
 
 Applied by following items:

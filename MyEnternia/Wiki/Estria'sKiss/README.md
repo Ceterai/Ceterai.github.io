@@ -29,17 +29,17 @@ Filled with Estria's pheromones and venom, these attacks present a lesser threat
 
 Parameters:
 
-- Base Dps: 12
-- Fire Time: 0.6
 - Hold Damage Multiplier: 0.1
-- Hold Damage Config:
-  - Timeout Group: `hold`
-  - Timeout: 0.5
+- Fire Time: 0.6
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
+- Hold Damage Config:
+  - Timeout Group: `hold`
+  - Timeout: 0.5
+- Base Dps: 12
 
 ### Circles Of Lust
 
@@ -58,6 +58,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_niverisk-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`nivera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nivera), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

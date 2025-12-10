@@ -1,6 +1,6 @@
 # Emblems
 
-This mod adds 8 emblems.
+The mod adds a total of 8 emblems:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Emblem](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Emblem)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/alta/body.png" alt="Alta Emblem icon" loading="lazy" width="auto" height="16px"/> [Alta Emblem](https://ceterai.github.io/MyEnternia/Wiki/AltaEmblem)

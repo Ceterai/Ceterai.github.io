@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_flare.png" alt="Hevika Flare icon" loading="lazy" width="auto" height="16px"/> **Hevika Flare** is an uncommon throwable item.
 
 Good for lighting up a dark cave before you dive into it. Lasts 60 seconds.  
-This simple flare fires up this sparks of [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) energy from activating the ion-influenced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"/> [alternia shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) attached to a basic alta igniter. While shards themselves are pretty rare, this flare frovides impressive light time in response and can be used as [hevika](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika)-type energy sources instead for example in [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/HevikaOrdis) furniture.
+This simple flare fires up this sparks of [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) energy from activating the ion-influenced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"/> [alternia shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) attached to a basic alta igniter. While shards themselves are pretty rare, this flare frovides impressive light time in response and can be used as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika)-type energy sources instead for example in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" width="16" height="16"/> [hevika ordis](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevika-ordis) furniture.
 
 ## Ingame
 
@@ -54,6 +54,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_hevika_flare`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`energy_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnergySource), [`hevika`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hevika), [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`reagent`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Reagent), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

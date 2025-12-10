@@ -37,6 +37,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_charger`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`emergency`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Emergency), [`shock`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shock), [`tazer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tazer), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

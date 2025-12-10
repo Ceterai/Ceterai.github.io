@@ -1,5 +1,7 @@
 # Stardust Fall
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_stardust_fall.png" alt="Stardust Fall icon" loading="lazy" width="auto" height="16px"/> **Stardust Fall** is a special [weather condition](https://ceterai.github.io/MyEnternia/Wiki/Weather).
+
 A happy colorful snowfall! Except instead of snow it's tiny specs of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Watching them drift and slowly land on your face fills you with determination.  
 Alta: The best weather to ever be. I wish it was always snowing stardust wherever I go.
 

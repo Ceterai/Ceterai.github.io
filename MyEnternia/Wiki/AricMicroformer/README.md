@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/aric/icon.png" alt="Aric Microformer ★★★ icon" loading="lazy" width="auto" height="16px"/> **Aric Microformer ★★★** is a legendary terraformer.
 
 Transforms an area of a planet into an aric forest. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric) is a very toxic place full of glowing mushrooms. That is all. Watch out for spores.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) is a very toxic place full of glowing mushrooms. That is all. Watch out for spores.
 
 ## Ingame
 
@@ -22,6 +22,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_aric_tf`
+- Level: `7`
 - Power: `5.2`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

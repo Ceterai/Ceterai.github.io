@@ -154,6 +154,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gsr_pod`
+- Level: `6`
 - Power: `4.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`gsr`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gsr), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

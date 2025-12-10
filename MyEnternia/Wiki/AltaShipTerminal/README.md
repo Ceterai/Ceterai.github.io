@@ -37,6 +37,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_terminal`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`electronic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic), [`holographic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holographic), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`terminal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Terminal), [`wired`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Wired)

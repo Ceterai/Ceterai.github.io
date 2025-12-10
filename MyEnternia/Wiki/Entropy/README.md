@@ -23,7 +23,6 @@ Provides full auto cannon bursts of high-velocity [impulses](https://ceterai.git
 
 Parameters:
 
-- Class: `AltaRanged`
 - Base Dps: 9
 - Energy Usage: 36
 - Fire Time: 0.5
@@ -41,7 +40,6 @@ Hold - perform an Impulse Discharge.
 
 Parameters:
 
-- Class: `AltaSwitch`
 - Base Dps: 9
 - Energy Usage: 40
 - Fire Time: 0.1
@@ -68,6 +66,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_entropy`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`impulse`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

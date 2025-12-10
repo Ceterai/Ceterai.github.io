@@ -28,6 +28,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_round_salad-banquet`
+- Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`new_year`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NewYear), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`salad`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Salad)

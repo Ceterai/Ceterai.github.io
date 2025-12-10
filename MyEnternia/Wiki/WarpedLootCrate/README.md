@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Loot Crate icon" loading="lazy" width="auto" height="16px"/> **Warped Loot Crate** is an uncommon loot item.
 
-Contains random loot from [warped](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped) biome chests.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) biome chests.  
 A partially overgrown crate in nivera stylistics. Contains warped matter and related materials and resources.
 
 ## Ingame
@@ -36,12 +36,15 @@ When used:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Twisted Thorns icon" loading="lazy" width="auto" height="16px"/> [Nivera Twisted Thorns](https://ceterai.github.io/MyEnternia/Wiki/NiveraTwistedThorns) x*1* (weight: 0.005)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/bed/icon.png" alt="Warped Bed icon" loading="lazy" width="auto" height="16px"/> [Warped Bed](https://ceterai.github.io/MyEnternia/Wiki/WarpedBed) x*1* (weight: 0.04)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chair/icon.png" alt="Warped Chair icon" loading="lazy" width="auto" height="16px"/> [Warped Chair](https://ceterai.github.io/MyEnternia/Wiki/WarpedChair) x*1* (weight: 0.04)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" width="auto" height="16px"/> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" width="auto" height="16px"/> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest) x*1* (weight: 0.02)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/door/icon.png" alt="Warped Door icon" loading="lazy" width="auto" height="16px"/> [Warped Door](https://ceterai.github.io/MyEnternia/Wiki/WarpedDoor) x*1* (weight: 0.04)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/drainer/icon.png" alt="Warped Drainer icon" loading="lazy" width="auto" height="16px"/> [Warped Drainer](https://ceterai.github.io/MyEnternia/Wiki/WarpedDrainer) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/drainer/icon.png" alt="Warped Drainer icon" loading="lazy" width="auto" height="16px"/> [Warped Drainer](https://ceterai.github.io/MyEnternia/Wiki/WarpedDrainer) x*1* (weight: 0.02)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/lamp/icon.png" alt="Warped Lamp icon" loading="lazy" width="auto" height="16px"/> [Warped Lamp](https://ceterai.github.io/MyEnternia/Wiki/WarpedLamp) x*1* (weight: 0.04)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/light/icon.png" alt="Warped Light icon" loading="lazy" width="auto" height="16px"/> [Warped Light](https://ceterai.github.io/MyEnternia/Wiki/WarpedLight) x*1* (weight: 0.04)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/table/icon.png" alt="Warped Table icon" loading="lazy" width="auto" height="16px"/> [Warped Table](https://ceterai.github.io/MyEnternia/Wiki/WarpedTable) x*1* (weight: 0.04)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/nivera/icon.png" alt="Potted Nivera icon" loading="lazy" width="auto" height="16px"/> [Potted Nivera](https://ceterai.github.io/MyEnternia/Wiki/PottedNivera) x*1* (weight: 0.015)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" width="auto" height="16px"/> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush) x*1* (weight: 0.015)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ela/icon.png" alt="Potted Ela icon" loading="lazy" width="auto" height="16px"/> [Potted Ela](https://ceterai.github.io/MyEnternia/Wiki/PottedEla) x*1* (weight: 0.01)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_warped_augment.png" alt="Warped Augment ★ icon" loading="lazy" width="auto" height="16px"/> [Warped Augment ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedAugment) x*1* (weight: 0.015)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_warped_collar.png" alt="Poison Cloud Collar icon" loading="lazy" width="auto" height="16px"/> [Poison Cloud Collar](https://ceterai.github.io/MyEnternia/Wiki/PoisonCloudCollar) x*1* (weight: 0.015)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Warped Glowtail icon" loading="lazy" width="auto" height="16px"/> [Warped Glowtail](https://ceterai.github.io/MyEnternia/Wiki/WarpedGlowtail) x*1* (weight: 0.01)
@@ -79,6 +82,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_warped_loot`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`loot`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Loot), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

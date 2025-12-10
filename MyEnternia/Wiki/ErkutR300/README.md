@@ -30,6 +30,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_erkut`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cutter`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cutter), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)

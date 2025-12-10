@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" width="auto" height="16px"/> **Nivera Cultivation** is an uncommon codex entry.
 
-A poster promoting cultivation of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" width="auto" height="16px"/> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera) plants to [alta gardeners](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener). It describes the process and profits of it.  
+A poster promoting cultivation of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="icon" width="16" height="16"/> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera) plants to [alta gardeners](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener). It describes the process and profits of it.  
 It was made as part of an initiative of getting altas familiar with warped nature and popularizing the topic of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" width="auto" height="16px"/> [warped containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment).
 
 ## Ingame
@@ -77,6 +77,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_nivera-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)

@@ -1,24 +1,31 @@
 # Alta Lab Android
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/lab.png" alt="Alta Lab Android icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Android** is a rare throwable item.
+A tier 3 alta robotic, android type. Protects general alta labs.
 
-## Sources
+## Parameters
 
-Found naturally in containers:
+- Category: android
+- Possible species: alta
+- Colony tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light) (1), [`door`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Door) (1), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) (8), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics) (8), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab) (8)
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
-- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"/> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
+## Tenant
 
-Can be obtained from special items:
+Can be summoned with a <img src="https://starbounder.org/mediawiki/images/9/93/Colony_Deed.gif" alt="Colony Deed icon" width="9.6" height="15"/> [Colony Deed](https://starbounder.org/Colony_Deed).
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
+Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/920304477977773128/D47BB0FD18E520B722C013CEDE14AC017779D44C/" alt="Tenantator 2000 icon" width="16" height="16"/> [Tenantator 2000](https://steamcommunity.com/sharedfiles/filedetails/?id=1405753979) if installed.
 
-Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
+### Rent
+
+Can periodically provide following items as rent:
+
+- for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/and.png:default.1" alt="Alta Logic - AND icon" loading="lazy" width="auto" height="16px"/> [Alta Logic - AND](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-AND) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/or.png:default.1" alt="Alta Logic - OR icon" loading="lazy" width="auto" height="16px"/> [Alta Logic - OR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-OR) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor.png:default.1" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"/> [Alta Logic - XOR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-XOR) x*2* (weight: 0.5)
 
 ## Technical Information
 
-- In-game ID: `ct_alta_lab_android`
-- Power: `3.0`
-- Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_lab`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaLab), [`android`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Android), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`spawner`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spawner), [`throwable`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)
-- File: [`/items/active/alta/spawners/androids/lab.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/spawners/androids/lab.activeitem)
+- In-game ID: `ct_alta_lab_android_tenant`
+- NPC type: `ct_alta_lab_android`
+- Priority: `6`
+- File: [`/tenants/alta/androids/lab.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/androids/lab.tenant)

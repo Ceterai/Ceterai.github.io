@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: EDS Set icon" loading="lazy" width="auto" height="16px"/> **Tech Docs: EDS Set** is a common codex entry.
 
-A brief description of tier 5 [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) equipment worn by EDS security.  
+A brief description of tier 5 [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) equipment worn by EDS security.  
 This document provides an overview of the EDS security set, detailing its components and functionalities.
 
 ## Ingame
@@ -97,6 +97,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_docs_units_eds-codex`
+- Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`docs`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Docs)

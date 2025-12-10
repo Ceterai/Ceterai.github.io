@@ -28,6 +28,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_head_mimic-flower`
+- Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`flower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Flower), [`gyera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`patriotic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Patriotic), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

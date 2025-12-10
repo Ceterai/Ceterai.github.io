@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Celestia's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Celestia'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"/> [Celestia's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Celestia'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
@@ -46,6 +46,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_pavolda_cake`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`cake`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cake), [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

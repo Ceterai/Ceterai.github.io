@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" width="auto" height="16px"/> **Stun Stick** is an uncommon one-handed electric shortsword.
 
-**WIP**. A hand-held halter used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security to prevent unauthorized activity.  
+**WIP**. A hand-held halter used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security to prevent unauthorized activity.  
 Just like a lot of alta tools, including combat tools, this one is considered to be non-lethal by [alta security protocols](https://ceterai.github.io/MyEnternia/Wiki/altasecurityprotocols), since it doesn't provide an amount energy to be able to really harm an alta, as well as the vast majority of Io creatures. It's only meant to scare away the target, or stugger it. In worst case scenarios, it will paralize the target, but not kill it.  
 The exception to this rule are drones, that can take damage from the plasmic charges from the hits.
 
@@ -27,7 +27,6 @@ The retractable **springrope** holding the head of the stunstick
 
 Parameters:
 
-- Class: `WhipCrack`
 - Fire Time: 0.625
 - Base Dps: 6
 - Chain Dps: 1.0
@@ -57,6 +56,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_stun_stick`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Calin), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`shortsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shortsword), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

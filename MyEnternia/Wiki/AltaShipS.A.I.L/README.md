@@ -26,6 +26,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_ship_ai`
+- Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_ai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaAI), [`alta_ship`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaShip), [`citadel`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

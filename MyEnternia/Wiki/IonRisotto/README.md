@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Perfect Ion Risotto ★ icon" loading="lazy" width="auto" height="16px"/> [Perfect Ion Risotto ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectIonRisotto)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Perfect Ion Risotto ★ icon" loading="lazy" width="auto" height="16px"/> [Perfect Ion Risotto ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectIonRisotto) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
@@ -50,6 +50,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_ion_risotto`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`meal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Meal), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine)

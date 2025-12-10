@@ -24,7 +24,6 @@ You can hear harmonical humming coming from this instrument.
 
 Parameters:
 
-- Class: `SpearStab`
 - Fire Time: 0.6
 - Base Dps: 12
 - Damage Config:
@@ -44,8 +43,6 @@ Perhaps this isn't a very intended feature, but a very useful one instead.
 
 Parameters:
 
-- Scripts:  `/items/active/weapons/ranged/beamfire.lua`,  `/items/active/weapons/ranged/gunfire.lua`
-- Class: `BeamFire`
 - Base Dps: 11
 - Fire Time: 0.2
 - Energy Usage: 40
@@ -84,6 +81,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_lira`
+- Level: `6`
 - Power: `4.19`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`instrument`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Instrument), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`musical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Musical), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

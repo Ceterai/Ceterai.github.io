@@ -1,5 +1,7 @@
 # Asirai's Energy
 
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_asirai_potential/asirai_energy.png" alt="Asirai's Energy icon" loading="lazy" width="auto" height="16px"/> **Asirai's Energy** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+
 Damages nearby enemies with electricity.
 
 ## Parameters

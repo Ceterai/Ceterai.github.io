@@ -42,6 +42,7 @@ Can be crafted in crafting stations from <img src="https://steamuserimages-a.aka
 ## Technical Information
 
 - In-game ID: `ct_phospholion_augment`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`augment`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment), [`enhancement`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement), [`phospholion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Phospholion), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)

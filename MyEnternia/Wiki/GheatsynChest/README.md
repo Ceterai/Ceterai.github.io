@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Chest** is an uncommon storage unit.
 
-A simple dark [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn) chest.
+A simple dark <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) chest.
 
 ## Ingame
 
@@ -103,6 +103,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_gheatsyn_chest`
+- Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

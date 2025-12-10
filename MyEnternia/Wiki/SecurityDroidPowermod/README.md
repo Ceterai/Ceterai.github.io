@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" width="auto" height="16px"/> **Security Droid Powermod ★** is an uncommon back cosmetic item.
 
-A standard protocol power module of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) security droid.
+A standard protocol power module of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security droid.
 
 ## Parameters
 
@@ -63,6 +63,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_security_droid_back`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_security`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaSecurity), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`tier4armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Armour), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

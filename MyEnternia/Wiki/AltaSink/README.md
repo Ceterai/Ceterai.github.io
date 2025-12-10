@@ -45,6 +45,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_sink`
+- Level: `1`
 - Power: `1.0`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bathroom`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bathroom), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`cooking`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cooking), [`restroom`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Restroom), [`sanitary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sanitary)

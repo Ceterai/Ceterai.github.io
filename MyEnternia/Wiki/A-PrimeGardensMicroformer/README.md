@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/garden/icon.png" alt="A-Prime Gardens Microformer ★ icon" loading="lazy" width="auto" height="16px"/> **A-Prime Gardens Microformer ★** is a legendary terraformer.
 
 Transforms an area of a planet into an alterash prime garden. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Alterash Prime Gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrimeGardens) is a prime version of [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens) found on [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime) planets.
+[Alterash Prime Gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrimeGardens) is a prime version of [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens) found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
 
 ## Ingame
 
@@ -22,6 +22,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alterash_prime_gardens_tf`
+- Level: `7`
 - Power: `4.4`
 - Rarity: `Legendary`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alterash_prime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AlterashPrime), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)

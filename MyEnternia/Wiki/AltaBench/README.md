@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/bench/icon.png" alt="Alta Bench icon" loading="lazy" width="auto" height="16px"/> **Alta Bench** is a common piece of furniture.
 
-A bench found in [alta](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) cities, parks and labs.
+A bench found in [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) cities, parks and labs.
 
 ## Ingame
 
@@ -51,6 +51,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_bench`
+- Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
 - Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`city`](https://ceterai.github.io/MyEnternia/Wiki/Tags/City), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden)

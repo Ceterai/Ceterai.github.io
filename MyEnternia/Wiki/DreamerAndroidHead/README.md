@@ -46,6 +46,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_dreamer_android_head`
+- Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`dreamer`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dreamer), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`robotics`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Robotics), [`tier6armour`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier6Armour)

@@ -1,6 +1,8 @@
+> Main pages: [Food](https://ceterai.github.io/MyEnternia/Wiki/Food)
+
 # Food Displays
 
-This mod adds 12 food displays.
+The mod adds a total of 12 food displays:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cake/icon.png" alt="Alta Cake Serving icon" loading="lazy" width="auto" height="16px"/> [Alta Cake Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeServing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/cocktail/icon.png" alt="Alta Cocktail Serving icon" loading="lazy" width="auto" height="16px"/> [Alta Cocktail Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaCocktailServing)

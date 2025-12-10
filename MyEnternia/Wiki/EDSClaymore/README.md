@@ -21,11 +21,10 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Bastion Strike
 
-A sequence of _3_ heavy strikes. Hold to perform a [Rising Slash](https://ceterai.github.io/MyEnternia/Wiki/RisingSlash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Downstab).
+A sequence of _3_ heavy strikes. Hold to perform a [rising slash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Rising-Slash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).
 
 Parameters:
 
-- Class: `RisingSlash`
 - Base Dps: 12
 - Fire Time: 1.2
 - Energy Usage: 32
@@ -55,8 +54,6 @@ Launches stabilizing Ion Rockets that deal electric damage.
 
 Parameters:
 
-- Scripts:  `/items/active/weapons/ranged/alta/ranged.lua`
-- Class: `AltaRanged`
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 1.2
@@ -106,6 +103,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_eds_claymore`
+- Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`sword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sword), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

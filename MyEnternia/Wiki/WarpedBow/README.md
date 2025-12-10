@@ -20,9 +20,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Offset:  1.75,  0.125
-- Draw Frame Selector: `poisonBowImageSelector`
-- Draw Arm Frames:  `rotation`,  `swim.2`,  `swimIdle.1`
 - Projectile Type: `poisonarrow`
 - Power Projectile Type: `chargedpoisonarrow`
 - Projectile Parameters:
@@ -34,9 +31,6 @@ Alternative ability of the item, activated with right mouse button.
 
 Parameters:
 
-- Fire Offset:  1.75,  0.125
-- Draw Frame Selector: `poisonBowImageSelectorNoPower`
-- Draw Arm Frames:  `rotation`,  `swim.2`,  `swimIdle.1`
 - Projectile Type: `poisonarrow`
 - Projectile Parameters:
   - Power: 8.125
@@ -50,6 +44,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_warped_hunter-upgrade`
+- Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`bow`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bow), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)

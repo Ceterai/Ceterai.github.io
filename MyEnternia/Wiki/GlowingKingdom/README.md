@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" width="auto" height="16px"/> **Glowing Kingdom** is an uncommon codex entry.
 
 A storybook about the bright-colored patches of [warped forests](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest). A more technical translation from alkey would be "Bioluminescent Capital".  
-The book refers to warped plants filled with [yonnur](https://ceterai.github.io/MyEnternia/Wiki/yonnur) - a bioluminescent liquid that comes in different colors and can be found in special bulbs in things like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/light/icon.png" alt="Warped Light icon" loading="lazy" width="auto" height="16px"/> [warped lights](https://ceterai.github.io/MyEnternia/Wiki/WarpedLight).
+The book refers to warped plants filled with [yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur) - a bioluminescent liquid that comes in different colors and can be found in special bulbs in things like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/light/icon.png" alt="Warped Light icon" loading="lazy" width="auto" height="16px"/> [warped lights](https://ceterai.github.io/MyEnternia/Wiki/WarpedLight).
 
 ## Ingame
 
@@ -74,6 +74,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_yonnur-codex`
+- Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)
