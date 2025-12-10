@@ -1,6 +1,6 @@
 # The Spooks of Ceternity
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> **The Spooks of Ceternity** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> **The Spooks of Ceternity** is an uncommon codex entry.
 
 A friendly guide to all the spooks and creatures that appear during Hallowing Ceternity! Learn about who's trying to trick you and who's just here for fun~ _(Unlocks holiday recipes)_  
 This guide covers the various spooky beings that make Ceternity special - from the mysterious Ceternity face itself to the candy-stealing Orchi the Stardust Orchid, ghostly shadows, and nightmare creatures.
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 
 It's the spooky season!
 
@@ -82,20 +82,20 @@ So don't be afraid - embrace the spookiness and join the party! Just maybe keep 
 
 <details markdown="1"><summary>Unlocks blueprints for: (Expand 14 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_ceternity_candy.png" alt="Ceternity Candy icon" loading="lazy" width="auto" height="16px"/> [Ceternity Candy](https://ceterai.github.io/MyEnternia/Wiki/CeternityCandy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_ceternity_poster.png" alt="Ceternity Poster icon" loading="lazy" width="auto" height="16px"/> [Ceternity Poster](https://ceterai.github.io/MyEnternia/Wiki/CeternityPoster)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"/> [Halloween Poster](https://ceterai.github.io/MyEnternia/Wiki/HalloweenPoster)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_harrowing_poster.png" alt="Harrowing Poster icon" loading="lazy" width="auto" height="16px"/> [Harrowing Poster](https://ceterai.github.io/MyEnternia/Wiki/HarrowingPoster)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_miazma_candy.png" alt="Miazma Candy icon" loading="lazy" width="auto" height="16px"/> [Miazma Candy](https://ceterai.github.io/MyEnternia/Wiki/MiazmaCandy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_neonjack_candy.png" alt="Neonjack Candy icon" loading="lazy" width="auto" height="16px"/> [Neonjack Candy](https://ceterai.github.io/MyEnternia/Wiki/NeonjackCandy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"/> [Orchid Candy](https://ceterai.github.io/MyEnternia/Wiki/OrchidCandy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_pumpkin_candy.png" alt="Orchid's Pumpkin Candy icon" loading="lazy" width="auto" height="16px"/> [Orchid's Pumpkin Candy](https://ceterai.github.io/MyEnternia/Wiki/Orchid'sPumpkinCandy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_spider_candy.png" alt="Spidy Candy icon" loading="lazy" width="auto" height="16px"/> [Spidy Candy](https://ceterai.github.io/MyEnternia/Wiki/SpidyCandy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_candy.png" alt="Warpy Candy icon" loading="lazy" width="auto" height="16px"/> [Warpy Candy](https://ceterai.github.io/MyEnternia/Wiki/WarpyCandy)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_yaajack_candy.png" alt="Yaajack Candy icon" loading="lazy" width="auto" height="16px"/> [Yaajack Candy](https://ceterai.github.io/MyEnternia/Wiki/YaajackCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_ceternity_candy.png" alt="Ceternity Candy icon" loading="lazy" width="auto" height="16px"> [Ceternity Candy](https://ceterai.github.io/MyEnternia/Wiki/CeternityCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_ceternity_poster.png" alt="Ceternity Poster icon" loading="lazy" width="auto" height="16px"> [Ceternity Poster](https://ceterai.github.io/MyEnternia/Wiki/CeternityPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"> [Halloween Poster](https://ceterai.github.io/MyEnternia/Wiki/HalloweenPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_harrowing_poster.png" alt="Harrowing Poster icon" loading="lazy" width="auto" height="16px"> [Harrowing Poster](https://ceterai.github.io/MyEnternia/Wiki/HarrowingPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_miazma_candy.png" alt="Miazma Candy icon" loading="lazy" width="auto" height="16px"> [Miazma Candy](https://ceterai.github.io/MyEnternia/Wiki/MiazmaCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_neonjack_candy.png" alt="Neonjack Candy icon" loading="lazy" width="auto" height="16px"> [Neonjack Candy](https://ceterai.github.io/MyEnternia/Wiki/NeonjackCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"> [Orchid Candy](https://ceterai.github.io/MyEnternia/Wiki/OrchidCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_pumpkin_candy.png" alt="Orchid's Pumpkin Candy icon" loading="lazy" width="auto" height="16px"> [Orchid's Pumpkin Candy](https://ceterai.github.io/MyEnternia/Wiki/Orchid'sPumpkinCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_spider_candy.png" alt="Spidy Candy icon" loading="lazy" width="auto" height="16px"> [Spidy Candy](https://ceterai.github.io/MyEnternia/Wiki/SpidyCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_candy.png" alt="Warpy Candy icon" loading="lazy" width="auto" height="16px"> [Warpy Candy](https://ceterai.github.io/MyEnternia/Wiki/WarpyCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_yaajack_candy.png" alt="Yaajack Candy icon" loading="lazy" width="auto" height="16px"> [Yaajack Candy](https://ceterai.github.io/MyEnternia/Wiki/YaajackCandy)
 
 </details>
 
@@ -103,14 +103,14 @@ So don't be afraid - embrace the spookiness and join the party! Just maybe keep 
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 1.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> The Spooks of Ceternity x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 1.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> The Spooks of Ceternity x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
   - `neonmelon` x*1*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).

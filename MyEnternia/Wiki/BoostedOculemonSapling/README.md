@@ -1,6 +1,6 @@
 # Boosted Oculemon Sapling ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/boosted/icon.png" alt="Boosted Oculemon Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> **Boosted Oculemon Sapling ★★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/boosted/icon.png" alt="Boosted Oculemon Sapling ★★ icon" loading="lazy" width="auto" height="16px"> **Boosted Oculemon Sapling ★★** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -26,19 +26,19 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/pod/icon.png" alt="Oculemon Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Oculemon Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/OculemonEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/pod/icon.png" alt="Oculemon Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"> [Oculemon Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/OculemonEcoPod)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/eco/icon.png" alt="Eco Oculemon Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Oculemon Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoOculemonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/eco/icon.png" alt="Eco Oculemon Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Oculemon Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoOculemonSapling)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/boosted/icon.png" alt="Boosted Oculemon Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> Boosted Oculemon Sapling ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/cultivated/icon.png" alt="Cultivated Oculemon Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Oculemon Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedOculemonSapling) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" width="auto" height="16px"/> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/boosted/icon.png" alt="Boosted Oculemon Sapling ★★ icon" loading="lazy" width="auto" height="16px"> Boosted Oculemon Sapling ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/oculemon/cultivated/icon.png" alt="Cultivated Oculemon Sapling icon" loading="lazy" width="auto" height="16px"> [Cultivated Oculemon Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedOculemonSapling) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" width="auto" height="16px"> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer) x*1*
   - `oculemonseed` x*2*
   - `liquidhealing` x*2*
 

@@ -1,10 +1,10 @@
 # Isoblaster Prime ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" width="auto" height="16px"/> **Isoblaster Prime ★** is a legendary one-handed pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" width="auto" height="16px"> **Isoblaster Prime ★** is a legendary one-handed pistol.
 
 This izoslime blaster has been upgraded to be even stickier!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" width="auto" height="16px"/> [Isoblaster](https://ceterai.github.io/MyEnternia/Wiki/Isoblaster).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" width="auto" height="16px"> [Isoblaster](https://ceterai.github.io/MyEnternia/Wiki/Isoblaster).
 
 ## Ingame
 
@@ -20,18 +20,18 @@ Press to burst with slime! Hold to charge up a semiauto burst of [isoslime balls
 
 Parameters:
 
-- Press Params:
-  - Type: `ct_isoslime_squirt`
-  - Inaccuracy:
-- Press Type: `semi`
-- Energy Usage: 16
-- Hold Time Max: 0.35
 - Fire Time: 0.2
+- Hold Type: `semi`
 - Hold Params:
   - Type: `ct_isoslime_charge`
   - Inaccuracy: 0.01
-- Hold Type: `semi`
 - Base Dps: 4
+- Energy Usage: 16
+- Press Type: `semi`
+- Hold Time Max: 0.35
+- Press Params:
+  - Type: `ct_isoslime_squirt`
+  - Inaccuracy:
 
 ## Sources
 

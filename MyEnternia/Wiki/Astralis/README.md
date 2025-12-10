@@ -1,8 +1,8 @@
 # Astralis ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_astralis.png" alt="Astralis ★★ icon" loading="lazy" width="auto" height="16px"/> **Astralis ★★** is a legendary two-handed electric hammer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_astralis.png" alt="Astralis ★★ icon" loading="lazy" width="auto" height="16px"> **Astralis ★★** is a legendary two-handed electric hammer.
 
-A mighty tool of creation, made out of unknown metals and powered by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
+A mighty tool of creation, made out of unknown metals and powered by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
 While its primary usage is not entirely known, altas fortunate enough to have it often use it as a construction tool, or a combat tool.
 
 ## Ingame
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Astral Impact
 
-A sequence of 5 heavy strikes. Hold to create a [Great Wave](https://ceterai.github.io/MyEnternia/Wiki/GreatWave). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+A sequence of 5 heavy strikes. Hold to create a [Great Wave](https://ceterai.github.io/MyEnternia/Wiki/GreatWave). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 This is extra-effective due to a powerful function that lets Astralis charge up momentum for a powerful ground strike.
 
 Parameters:
@@ -28,9 +28,9 @@ Parameters:
 - Fire Time: 1.2
 - Energy Usage: 40
 - Damage Config:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
   - Item Bonus:
-    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
     - Damage Factor: 0.005
     - Max: 120
 - Steps: 
@@ -83,7 +83,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

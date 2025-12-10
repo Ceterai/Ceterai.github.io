@@ -1,11 +1,11 @@
 # Impulse Rifle NG4X ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_2.png" alt="Impulse Rifle NG4X ★ icon" loading="lazy" width="auto" height="16px"/> **Impulse Rifle NG4X ★** is a legendary two-handed electric assault rifle.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_2.png" alt="Impulse Rifle NG4X ★ icon" loading="lazy" width="auto" height="16px"> **Impulse Rifle NG4X ★** is a legendary two-handed electric assault rifle.
 
-An NG4 with added laser pointer and scope, as well as increased firerate and precision due to the use of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.  
+An NG4 with added laser pointer and scope, as well as increased firerate and precision due to the use of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.  
 This long-range high-precision energy instrument can generate long-lasting impulses, able to travel without losing height.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png" alt="Impulse Rifle NG4 icon" loading="lazy" width="auto" height="16px"/> [Impulse Rifle NG4](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png" alt="Impulse Rifle NG4 icon" loading="lazy" width="auto" height="16px"> [Impulse Rifle NG4](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4).
 
 ## Ingame
 
@@ -26,32 +26,32 @@ Firemodes: charge, semiauto.
 
 Parameters:
 
-- Energy Usage: 32
 - Fire Time: 0.7
-- Fire Types:
-  - Charge:
-    - Press Params:
-      - Sound: `primary_press`
-      - Inaccuracy: 0.001
-      - Type: `ct_impulse_medium`
-    - Hold Type: `blast`
-    - Hold Loop: `charging`
-    - Hold Params:
-      - Sound: `primary_hold`
-      - Inaccuracy: 0.001
-      - Type: `ct_impulse_large`
-    - Hold Start: `charge`
-    - Press Type: `blast`
-  - Semi:
-    - Press Params:
-      - Inaccuracy: 0.001
-      - Interval: 0.1
-      - Count: 2
-      - Type: `ct_impulse_medium`
-    - Hold Time Max:
-    - Press Type: `semi`
 - Base Dps: 6
 - Default Fire Type: `charge`
+- Fire Types:
+  - Semi:
+    - Hold Time Max:
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Interval: 0.1
+      - Count: 2
+      - Inaccuracy: 0.001
+    - Press Type: `semi`
+  - Charge:
+    - Hold Start: `charge`
+    - Hold Type: `blast`
+    - Hold Params:
+      - Type: `ct_impulse_large`
+      - Sound: `primary_hold`
+      - Inaccuracy: 0.001
+    - Press Params:
+      - Type: `ct_impulse_medium`
+      - Sound: `primary_press`
+      - Inaccuracy: 0.001
+    - Hold Loop: `charging`
+    - Press Type: `blast`
+- Energy Usage: 32
 
 ### Security Switch
 
@@ -61,8 +61,8 @@ Hold - change firemodes.
 
 Parameters:
 
-- Fire Types:  `charge`,  `semi`
 - Attachments:  `none`,  `laser`,  `flashlight`
+- Fire Types:  `charge`,  `semi`
 
 ## Sources
 

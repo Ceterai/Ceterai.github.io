@@ -1,8 +1,8 @@
 # Force Shielder
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_force_shielder.png" alt="Force Shielder icon" loading="lazy" width="auto" height="16px"/> **Force Shielder** is an uncommon shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_force_shielder.png" alt="Force Shielder icon" loading="lazy" width="auto" height="16px"> **Force Shielder** is an uncommon shield.
 
-Creates a single-use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" width="auto" height="16px"/> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) around you for 30s with the power of 60 points + 0.5% of your energy.  
+Creates a single-use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" width="auto" height="16px"> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) around you for 30s with the power of 60 points + 0.5% of your energy.  
 While relatively brief, it gives a significant level of protection for what it's worth.
 
 ## Ingame
@@ -15,7 +15,7 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_force_shield.png" alt="Force Shield icon" loading="lazy" width="auto" height="16px"/> [Force Shield](https://ceterai.github.io/MyEnternia/Wiki/ForceShield) (30s)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_force_shield.png" alt="Force Shield icon" loading="lazy" width="auto" height="16px"> [Force Shield](https://ceterai.github.io/MyEnternia/Wiki/ForceShield) (30s)
 
 ## Usage
 
@@ -23,20 +23,20 @@ Applies effects:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" width="auto" height="16px"/> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png" alt="Protohelmet icon" loading="lazy" width="auto" height="16px"/> [Protohelmet](https://ceterai.github.io/MyEnternia/Wiki/Protohelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"/> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" width="auto" height="16px"/> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" width="auto" height="16px"/> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" width="auto" height="16px"> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png" alt="Protohelmet icon" loading="lazy" width="auto" height="16px"> [Protohelmet](https://ceterai.github.io/MyEnternia/Wiki/Protohelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Scout Drone icon" loading="lazy" width="auto" height="16px"> [Scout Drone](https://ceterai.github.io/MyEnternia/Wiki/ScoutDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" width="auto" height="16px"> [Shieldrone ★★★](https://ceterai.github.io/MyEnternia/Wiki/Shieldrone)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.45s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_force_shielder.png" alt="Force Shielder icon" loading="lazy" width="auto" height="16px"/> Force Shielder x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"/> [Prism Shard](https://starbounder.org/Prism_Shard) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*1*
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.45s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_force_shielder.png" alt="Force Shielder icon" loading="lazy" width="auto" height="16px"> Force Shielder x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"> [Prism Shard](https://starbounder.org/Prism_Shard) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*1*
 
 Can be bought from merchants:
 

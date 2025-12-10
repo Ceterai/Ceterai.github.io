@@ -1,8 +1,8 @@
 # Energy Shielder ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_energy_shielder.png" alt="Energy Shielder ★ icon" loading="lazy" width="auto" height="16px"/> **Energy Shielder ★** is an uncommon shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_energy_shielder.png" alt="Energy Shielder ★ icon" loading="lazy" width="auto" height="16px"> **Energy Shielder ★** is an uncommon shield.
 
-Creates a single-use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" width="auto" height="16px"/> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) around you for 30s with the power of 60 points + 0.5% of your energy.  
+Creates a single-use <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" width="auto" height="16px"> [energy shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) around you for 30s with the power of 60 points + 0.5% of your energy.  
 While relatively brief, it gives a significant level of protection for what it's worth.
 
 ## Ingame
@@ -15,7 +15,7 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" width="auto" height="16px"/> [Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) (30s)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_energy_shield.png" alt="Energy Shield icon" loading="lazy" width="auto" height="16px"> [Energy Shield](https://ceterai.github.io/MyEnternia/Wiki/EnergyShield) (30s)
 
 ## Usage
 
@@ -23,20 +23,20 @@ Applies effects:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"/> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" width="auto" height="16px"/> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" width="auto" height="16px"/> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" width="auto" height="16px"/> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> [Sentry Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/SentryDrone)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_droid.png" alt="Security Android Set ★ icon" loading="lazy" width="auto" height="16px"> [Security Android Set ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" width="auto" height="16px"> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" width="auto" height="16px"> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" width="auto" height="16px"> [Sentry Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/SentryDrone)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.45s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_energy_shielder.png" alt="Energy Shielder ★ icon" loading="lazy" width="auto" height="16px"/> Energy Shielder ★ x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"/> [Prism Shard](https://starbounder.org/Prism_Shard) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"/> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.45s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_energy_shielder.png" alt="Energy Shielder ★ icon" loading="lazy" width="auto" height="16px"> Energy Shielder ★ x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"> [Prism Shard](https://starbounder.org/Prism_Shard) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
 
 Can be bought from merchants:
 

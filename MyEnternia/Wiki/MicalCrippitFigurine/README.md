@@ -1,6 +1,6 @@
 # Mical Crippit Figurine ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_mical_crippit.png" alt="Mical Crippit Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> **Mical Crippit Figurine ★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_mical_crippit.png" alt="Mical Crippit Figurine ★★ icon" loading="lazy" width="auto" height="16px"> **Mical Crippit Figurine ★★** is a legendary figurine.
 
 The label reads, "Mical crippits are often mixed up with ruby crippits - although they live in quite different climates."
 

@@ -1,10 +1,10 @@
 # Estria's Vyurm ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estria's Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> **Estria's Vyurm ★** is a legendary one-handed electric unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estria's Vyurm ★ icon" loading="lazy" width="auto" height="16px"> **Estria's Vyurm ★** is a legendary one-handed electric unique weapon.
 
-Seems like the mysterious plasmic claws have grown and come to life... Is this all the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)?
+Seems like the mysterious plasmic claws have grown and come to life... Is this all the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)?
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" width="auto" height="16px"/> [Estralis Vi](https://ceterai.github.io/MyEnternia/Wiki/EstralisVi).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" width="auto" height="16px"> [Estralis Vi](https://ceterai.github.io/MyEnternia/Wiki/EstralisVi).
 
 ## Ingame
 
@@ -23,23 +23,23 @@ This device now generates Staris Strains instead of plasmic ones:
 
 Parameters:
 
-- Energy Usage: 16
-- Max Projectiles: 10
 - Fire Time: 0.2
 - Inaccuracy: 0.01
-- Projectile Type: `ct_plasma_strain`
 - Max Length: 24
-- Guide Projectiles: `True`
 - Base Dps: 4
+- Projectile Type: `ct_plasma_strain`
+- Energy Usage: 16
+- Max Projectiles: 10
 - Projectile Parameters:
   - Knockback: 5
   - Speed: 40
   - Time To Live: 10
 - Chain:
   - Taper: 0.5
-  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_estralis_vi_2_s.png`
   - Segment Size: 1.0
   - End Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_estralis_vi_2_e.png`
+  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_estralis_vi_2_s.png`
+- Guide Projectiles: `True`
 
 ## Sources
 

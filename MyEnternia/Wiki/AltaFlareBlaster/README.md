@@ -1,6 +1,6 @@
 # Alta Flare Blaster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"/> **Alta Flare Blaster** is a common one-handed electric tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"> **Alta Flare Blaster** is a common one-handed electric tool.
 
 An emergency tool that can optionally cause some harm. LMB launches an energy signal rocket.
 

@@ -1,6 +1,6 @@
 # EDS Droid ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" width="auto" height="16px"/> **EDS Droid ★** is a rare electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" width="auto" height="16px"> **EDS Droid ★** is a rare electric throwable item.
 
 An advanced armored droid operated by [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds). Has additional armor layers.  
 Its defensive mechanisms include ionic generators with a mical energy concentrator.
@@ -26,7 +26,7 @@ A standard EDS set of combat machine capabilities.
 
 ### Basic Drone
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics).
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics).
 Deals physical damage on touch.  
 Basic drones and droids usually don't have any kind of energy shields or armor regeneration, and cannot see targets through liquids.
 
@@ -34,14 +34,14 @@ Basic drones and droids usually don't have any kind of energy shields or armor r
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 1.625s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" width="auto" height="16px"/> EDS Droid ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_eds_ai_chip.png" alt="EDS A.I. Chip ★ icon" loading="lazy" width="auto" height="16px"/> [EDS A.I. Chip ★](https://ceterai.github.io/MyEnternia/Wiki/EDSA.I.Chip) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*2*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 1.625s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" width="auto" height="16px"> EDS Droid ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_eds_ai_chip.png" alt="EDS A.I. Chip ★ icon" loading="lazy" width="auto" height="16px"> [EDS A.I. Chip ★](https://ceterai.github.io/MyEnternia/Wiki/EDSA.I.Chip) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*2*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" width="auto" height="16px"> [EDS Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSPod)
 
 Can be bought from merchants:
 
@@ -50,7 +50,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" width="auto" height="16px"/> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" width="auto" height="16px"> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

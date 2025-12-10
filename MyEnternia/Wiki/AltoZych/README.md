@@ -1,6 +1,6 @@
 # Alto Zych
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/alto_zych/icon.png" alt="Alto Zych icon" loading="lazy" width="auto" height="16px"/> **Alto Zych** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/alto_zych/icon.png" alt="Alto Zych icon" loading="lazy" width="auto" height="16px"> **Alto Zych** is an uncommon bug.
 
 An attached note reads, "This bug can choose to reflect light from its wing edges when in good mood."
 

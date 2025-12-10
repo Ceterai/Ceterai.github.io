@@ -1,6 +1,6 @@
 # Speed And Safety
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_scout_art.png" alt="Speed And Safety icon" loading="lazy" width="auto" height="16px"/> **Speed And Safety** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_scout_art.png" alt="Speed And Safety icon" loading="lazy" width="auto" height="16px"> **Speed And Safety** is an uncommon decorative object.
 
 A portrait depicting an alta scout.
 

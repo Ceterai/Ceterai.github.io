@@ -1,8 +1,8 @@
 # Stardust Crystal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"/> **Stardust Crystal** is a rare light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"> **Stardust Crystal** is a rare light source.
 
-Pure crystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Can be used as light/energy source or destroyed to extract the stardust.
+Pure crystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Can be used as light/energy source or destroyed to extract the stardust.
 
 ## Ingame
 
@@ -25,7 +25,7 @@ Pure crystallized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/m
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
 
 ## Sources
 

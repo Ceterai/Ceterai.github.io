@@ -1,6 +1,6 @@
 # Alta Terrarium
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/terrarium/icon.png" alt="Alta Terrarium icon" loading="lazy" width="auto" height="16px"/> **Alta Terrarium** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/terrarium/icon.png" alt="Alta Terrarium icon" loading="lazy" width="auto" height="16px"> **Alta Terrarium** is an uncommon crafting station.
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Crystal Crayon
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Crystal Crayon icon" loading="lazy" width="auto" height="16px"/> **Crystal Crayon** is an uncommon back cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Crystal Crayon icon" loading="lazy" width="auto" height="16px"> **Crystal Crayon** is an uncommon back cosmetic item.
 
 A gigantic crayon that you can wear on your back! Comes in many colors popular among altas!  
 Since many altas are used to playing and drawing with crayons in either Elin Gardens or CorFals (correctional facilities), this item might be more than familiar to them.

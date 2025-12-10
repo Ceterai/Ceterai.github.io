@@ -1,6 +1,6 @@
 # Spectral Pod ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Spectral Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> **Spectral Pod ★★★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Spectral Pod ★★★ icon" loading="lazy" width="auto" height="16px"> **Spectral Pod ★★★** is a legendary decorative object.
 
 This resilient chest is made out of strforged materials.  
 It shines with slight stardust tint.

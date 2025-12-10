@@ -1,8 +1,8 @@
 # Ioncore Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ion_core_augment.png" alt="Ioncore Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Ioncore Augment ★★** is a rare EPP augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_ion_core_augment.png" alt="Ioncore Augment ★★ icon" loading="lazy" width="auto" height="16px"> **Ioncore Augment ★★** is a rare EPP augment.
 
-This <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" width="10px" height="10px"/> [obsidian](https://starbounder.org/Obsidian) EPP module fills you with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"/> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals) and makes you burst with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"/> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds).
+This <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" width="10px" height="10px"> [obsidian](https://starbounder.org/Obsidian) EPP module fills you with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals) and makes you burst with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds).
 
 ## Ingame
 
@@ -14,8 +14,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"/> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"/> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals)
 
 ## Usage
 

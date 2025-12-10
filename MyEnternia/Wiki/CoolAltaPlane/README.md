@@ -1,6 +1,6 @@
 # Cool Alta Plane
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane_cool.png" alt="Cool Alta Plane icon" loading="lazy" width="auto" height="16px"/> **Cool Alta Plane** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane_cool.png" alt="Cool Alta Plane icon" loading="lazy" width="auto" height="16px"> **Cool Alta Plane** is a rare throwable item.
 
 A small aerodynamic plane from colored alta paper made for competitive paper plane throwing.
 

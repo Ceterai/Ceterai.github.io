@@ -1,6 +1,6 @@
 # Wild Ruka Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Wild Ruka Seed icon" loading="lazy" width="auto" height="16px"/> **Wild Ruka Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Wild Ruka Seed icon" loading="lazy" width="auto" height="16px"> **Wild Ruka Seed** is a common plantable item.
 
 A project Ruka 14-2 seed that has adapted to nature and can be randomly growing in wet areas.
 
@@ -21,17 +21,17 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [Bio Sample](https://starbounder.org/Bio_Sample) x*2* (weight: 0.49)
-   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 0.4)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Ruka 14-2 Seed icon" loading="lazy" width="auto" height="16px"/> [Ruka 14-2 Seed](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Seed) x*1* (weight: 0.01)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*2* (weight: 0.49)
+   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 0.4)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Ruka 14-2 Seed icon" loading="lazy" width="auto" height="16px"> [Ruka 14-2 Seed](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Seed) x*1* (weight: 0.01)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Ruka 14-2 Seed icon" loading="lazy" width="auto" height="16px"/> [Ruka 14-2 Seed](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Seed) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ruka/icon.png" alt="Ruka 14-2 Seed icon" loading="lazy" width="auto" height="16px"> [Ruka 14-2 Seed](https://ceterai.github.io/MyEnternia/Wiki/Ruka14-2Seed) x*1* (weight: 1.0)
 
 ## Sources
 

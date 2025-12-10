@@ -1,18 +1,18 @@
 # Envirosuit MkII Helmet ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet_mk2/icon.png" alt="Envirosuit MkII Helmet ★★ icon" loading="lazy" width="auto" height="16px"/> **Envirosuit MkII Helmet ★★** is a rare head armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet_mk2/icon.png" alt="Envirosuit MkII Helmet ★★ icon" loading="lazy" width="auto" height="16px"> **Envirosuit MkII Helmet ★★** is a rare head armor piece.
 
-An improved version of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png" alt="Envirosuit Helmet icon" loading="lazy" width="auto" height="16px"/> [Envirosuit Helmet](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitHelmet) with added armor capabilities.
+An improved version of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png" alt="Envirosuit Helmet icon" loading="lazy" width="auto" height="16px"> [Envirosuit Helmet](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitHelmet) with added armor capabilities.
 
 ## Parameters
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" width="auto" height="16px"/> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +75.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +22.5
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +37.5
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +25.0
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" width="auto" height="16px"> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +75.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +22.5
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +37.5
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +25.0
 
 ## Usage
 
@@ -24,9 +24,9 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon2.png) [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet_mk2/icon.png" alt="Envirosuit MkII Helmet ★★ icon" loading="lazy" width="auto" height="16px"/> Envirosuit MkII Helmet ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png" alt="Envirosuit Helmet icon" loading="lazy" width="auto" height="16px"/> [Envirosuit Helmet](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitHelmet) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*960*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon2.png) [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet_mk2/icon.png" alt="Envirosuit MkII Helmet ★★ icon" loading="lazy" width="auto" height="16px"> Envirosuit MkII Helmet ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet/icon.png" alt="Envirosuit Helmet icon" loading="lazy" width="auto" height="16px"> [Envirosuit Helmet](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitHelmet) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*960*
 
 Can be bought from merchants:
 

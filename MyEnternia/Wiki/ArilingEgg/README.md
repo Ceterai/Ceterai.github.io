@@ -1,6 +1,6 @@
 # Ariling Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" width="auto" height="16px"/> **Ariling Egg** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" width="auto" height="16px"> **Ariling Egg** is a rare throwable item.
 
 Can be used to spawn a critter called [ariling](https://ceterai.github.io/MyEnternia/Wiki/ariling), that looks like a shroom.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
@@ -24,22 +24,22 @@ Look if the critter's shell or outer layer has grow a crystal or bionic matter o
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"/> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"/> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"/> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" width="auto" height="16px"/> Ariling Egg x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"/> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_ariling_egg.png" alt="Ariling Egg icon" loading="lazy" width="auto" height="16px"> Ariling Egg x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/ariling/icon.png" alt="Potted Ariling icon" loading="lazy" width="auto" height="16px"> [Potted Ariling](https://ceterai.github.io/MyEnternia/Wiki/PottedAriling) x*1*
 
 Obtained by capturing creatures with any **bugnet**:
 

@@ -1,8 +1,8 @@
 # Warped Spider Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_warped_spider_egg.png" alt="Warped Spider Egg icon" loading="lazy" width="auto" height="16px"/> **Warped Spider Egg** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_warped_spider_egg.png" alt="Warped Spider Egg icon" loading="lazy" width="auto" height="16px"> **Warped Spider Egg** is an uncommon throwable item.
 
-Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"/> [warped spider](https://ceterai.github.io/MyEnternia/Wiki/WarpedSpider).  
+Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"> [warped spider](https://ceterai.github.io/MyEnternia/Wiki/WarpedSpider).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame
@@ -24,7 +24,7 @@ Look if the critter's shell or outer layer has grow a crystal or bionic matter o
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"/> [Warped Spider](https://ceterai.github.io/MyEnternia/Wiki/WarpedSpider)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"> [Warped Spider](https://ceterai.github.io/MyEnternia/Wiki/WarpedSpider)
 
 ## Sources
 

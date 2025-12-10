@@ -1,6 +1,6 @@
 # Alta Cooler
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" width="auto" height="16px"/> **Alta Cooler** is a common refrigerated storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" width="auto" height="16px"> **Alta Cooler** is a common refrigerated storage unit.
 
 A portable cooler. For beaches, hikes, and other events away from fridges.  
 This compact and simple model can act as a thermos if no cooling matter is provided.
@@ -42,20 +42,20 @@ You can sort items and have them not drop when destroyed with <img src="https://
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" width="auto" height="16px"/> Alta Cooler x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" width="8px" height="16px"/> [Cryonic Extract](https://starbounder.org/Cryonic_Extract) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*2*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" width="auto" height="16px"> Alta Cooler x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" width="8px" height="16px"> [Cryonic Extract](https://starbounder.org/Cryonic_Extract) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*2*
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" width="12px" height="9.75px"/> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" width="12px" height="9.75px"> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" width="auto" height="16px"> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

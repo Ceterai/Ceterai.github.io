@@ -1,6 +1,6 @@
 # Vionora Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/sapling/icon.png" alt="Vionora Sapling icon" loading="lazy" width="auto" height="16px"/> **Vionora Sapling** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/sapling/icon.png" alt="Vionora Sapling icon" loading="lazy" width="auto" height="16px"> **Vionora Sapling** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages. Requires to be at least 50% in a liquid.
 
@@ -21,8 +21,8 @@ Growing stages:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - `rainbowwood` x*2* (weight: 0.49)
    - `rainbowwood` x*1* (weight: 0.4)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"/> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed) x*1* (weight: 0.01)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed) x*1* (weight: 0.01)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Usage
 
@@ -30,26 +30,26 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVionoraSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" width="auto" height="16px"> [Boosted Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVionoraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/eco/icon.png" alt="Eco Vionora Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoVionoraSapling)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"/> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/sapling/icon.png" alt="Vionora Sapling icon" loading="lazy" width="auto" height="16px"/> Vionora Sapling x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"/> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"/> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/sapling/icon.png" alt="Vionora Sapling icon" loading="lazy" width="auto" height="16px"> Vionora Sapling x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" width="auto" height="16px"> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
 
 Can be bought from merchants:
 

@@ -18,4 +18,4 @@ Following tenants require this colony tag:
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" width="auto" height="16px"/> [Neo Blaster](https://ceterai.github.io/MyEnternia/Wiki/NeoBlaster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" width="auto" height="16px"> [Neo Blaster](https://ceterai.github.io/MyEnternia/Wiki/NeoBlaster)

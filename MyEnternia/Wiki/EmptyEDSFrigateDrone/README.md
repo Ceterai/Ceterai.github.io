@@ -1,6 +1,6 @@
 # Empty EDS Frigate Drone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Empty EDS Frigate Drone ★★★** is a legendary electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" width="auto" height="16px"> **Empty EDS Frigate Drone ★★★** is a legendary electric throwable item.
 
 This huge combat machine is able to construct new drones on the fly.  
 Conveniently packed with a relatively powerful mical charge generator for self-defense, it will reserve to it in a dire situation.
@@ -21,12 +21,12 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Drone Spawner
 
-Constantly spawns <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"/> [minidrones](https://ceterai.github.io/MyEnternia/Wiki/Minidrone) when unaggroed. Can shoot Torpedos made from Red Plasma. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+Constantly spawns <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"> [minidrones](https://ceterai.github.io/MyEnternia/Wiki/Minidrone) when unaggroed. Can shoot Torpedos made from Red Plasma. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
 It's hard to imagine all these tiny drones are being constructed on the fly.
 
 ### EDS Drone
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" width="auto" height="16px"/> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder).
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" width="auto" height="16px"> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder).
 Deals physical damage on touch.  
 Its heavy armored structure was designed and manufactured by EDS.
 

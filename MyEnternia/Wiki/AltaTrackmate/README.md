@@ -19,8 +19,8 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/vr_headset/icon.png" alt="VR Headset icon" loading="lazy" width="auto" height="16px"/> [VR Headset](https://ceterai.github.io/MyEnternia/Wiki/VRHeadset) x*1* (weight: 0.001)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/vr_headset/icon.png" alt="VR Headset icon" loading="lazy" width="auto" height="16px"> [VR Headset](https://ceterai.github.io/MyEnternia/Wiki/VRHeadset) x*1* (weight: 0.001)
 - `glowstickblue` x*1* (weight: 0.05)
 
 ## Technical Information

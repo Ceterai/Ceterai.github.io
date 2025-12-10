@@ -1,11 +1,11 @@
 # Bi-Blade ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" width="auto" height="16px"/> **Bi-Blade ★** is a legendary two-handed electric broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" width="auto" height="16px"> **Bi-Blade ★** is a legendary two-handed electric broadsword.
 
 A weapon that combines different energies into one, long, powerful paired blade.  
 You can feel slight pressure if you put your hand between the blades. If you move it slowly, you will feel how gravity is wavering from side to side, sliding from end to end, as if some kind of uneven surface.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"/> [Vionos Twins](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"> [Vionos Twins](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins).
 
 ## Ingame
 
@@ -26,27 +26,28 @@ Full resonation engaged! A perfect viona anomaly to rule them all.
 
 Parameters:
 
-- Energy Usage: 32
 - Fire Time: 0.93
 - Hold Params:
   - Damage Config:
     - Status Effects:  `frostslow`
     - Ranged:
-      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [Ice](https://starbounder.org/Ice)
-      - Count: 5
       - Inaccuracy: 1.57
-      - Offset:  5.0,  -0.85
       - Type: `smallicecloud`
+      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
+      - Offset:  5.0,  -0.85
+      - Count: 5
       - Params:
         - Speed: 15
     - Damage Source Kind: `icebroadsword`
   - Charge Border: `FF33FF88`
+- Base Dps: 12
 - Damage Config:
   - Base Damage: 22.5
   - Knockback: 40
   - Damage Source Kind: `broadsword`
   - Knockback Mode: `facing`
   - Timeout: 0.5
+- Energy Usage: 32
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -82,8 +83,7 @@ Parameters:
     - Speed: 5
   - Inaccuracy: 1.57
   - Offset:  5.0,  -0.85
-  - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [Ice](https://starbounder.org/Ice)
-- Base Dps: 12
+  - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
 
 ### Enchanted Resonation
 

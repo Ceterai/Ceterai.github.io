@@ -1,6 +1,6 @@
 # Alta Citadels ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"/> **Alta Citadels ★★** is a legendary codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"> **Alta Citadels ★★** is a legendary codex entry.
 
 A post-design document on typical alta capital centers.  
 Its purpose is to provide general insight to newcoming citadel workers and defenders.
@@ -17,12 +17,12 @@ Radiomessages on pickup:
 
 ### Contents
 
-At the center of every <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"/> [alta capital](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) stands a massive citadel. It houses security complexes, main offices of the city administration, the control and order support department, warehouses for city equipment and emergency supplies and generators in case of crisis situations.  
+At the center of every <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"> [alta capital](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) stands a massive citadel. It houses security complexes, main offices of the city administration, the control and order support department, warehouses for city equipment and emergency supplies and generators in case of crisis situations.  
 The citadel itself is equipped with autonomous power supplies and control systems, as well as several energy shield generators. Beneath the citadel is most often the main civilian refuge.
 
-In addition to energy shields and security systems, the citadel is protected by advanced [alta robotics](https://ceterai.github.io/MyEnternia/Wiki/altarobotics), such as [defensive drones](https://ceterai.github.io/MyEnternia/Wiki/defensivedrones), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" width="auto" height="16px"/> [stalker droids](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid), and even [frigate drones](https://ceterai.github.io/MyEnternia/Wiki/frigatedrones).
+In addition to energy shields and security systems, the citadel is protected by advanced [alta robotics](https://ceterai.github.io/MyEnternia/Wiki/altarobotics), such as [defensive drones](https://ceterai.github.io/MyEnternia/Wiki/defensivedrones), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" width="auto" height="16px"> [stalker droids](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid), and even [frigate drones](https://ceterai.github.io/MyEnternia/Wiki/frigatedrones).
 
-The walls of the citadel consist of several layers of composite armor, consisting mostly of [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor), with some levels being partially air-tight.
+The walls of the citadel consist of several layers of composite armor, consisting mostly of [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor), with some levels being partially air-tight.
 
 While the upper levels of the citadel are dedicated to technical control and communications center, the main entrance levels are the administrative palace, often housing the main staff of the administration, including the city's top commander.
 
@@ -38,23 +38,23 @@ Such citadels are usually located in capitals on planets and continents of high 
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Citadels ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"> [Alta Citadels ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Citadels ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"> [Alta Citadels ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"/> Alta Citadels ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" width="auto" height="16px"/> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"> Alta Citadels ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" width="auto" height="16px"> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia) x*1*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
-- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"/> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" width="auto" height="16px"> [Alta Ship Container](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 Can be bought from merchants:
 
@@ -78,7 +78,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier5.png" alt="Tier 5 Pad icon" loading="lazy" width="auto" height="16px"> [Tier 5 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier5Pad)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

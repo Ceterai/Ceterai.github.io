@@ -1,9 +1,9 @@
 # Alternia Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_alternia_augment.png" alt="Alternia Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Alternia Augment ★★** is a legendary EPP augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_alternia_augment.png" alt="Alternia Augment ★★ icon" loading="lazy" width="auto" height="16px"> **Alternia Augment ★★** is a legendary EPP augment.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" width="auto" height="16px"/> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP), condensed into an augment.
-Adds 20% <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"/> [electric resistance](https://starbounder.org/Electric_Resistance), <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Immunity](https://starbounder.org/Electric_Resistance) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="icon" width="16" height="16"/> [plasma immunity](https://ceterai.github.io/MyEnternia/Wiki/Alternia#immunity).  
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/alternia/epp/icon.png" alt="Alter-EPP icon" loading="lazy" width="auto" height="16px"> [Alter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Alter-EPP), condensed into an augment.
+Adds 20% <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [electric resistance](https://starbounder.org/Electric_Resistance), <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Immunity](https://starbounder.org/Electric_Resistance) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="icon" width="16" height="16"/> [plasma immunity](https://ceterai.github.io/MyEnternia/Wiki/Alternia#immunity).  
 _Starburst Rework: _[Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic)_ immunity._
 
 ## Ingame
@@ -16,7 +16,7 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="Plasmoblockade icon" loading="lazy" width="auto" height="16px"/> [Plasmoblockade](https://ceterai.github.io/MyEnternia/Wiki/Plasmoblockade)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="Plasmoblockade icon" loading="lazy" width="auto" height="16px"> [Plasmoblockade](https://ceterai.github.io/MyEnternia/Wiki/Plasmoblockade)
 
 ## Usage
 
@@ -38,11 +38,11 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.85s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_alternia_augment.png" alt="Alternia Augment ★★ icon" loading="lazy" width="auto" height="16px"/> Alternia Augment ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere) x*3*
-  - <img src="https://starbounder.org/mediawiki/images/8/82/Refined_Ferozium.png" alt="Refined Ferozium icon" loading="lazy" width="14px" height="14px"/> [Refined Ferozium](https://starbounder.org/Refined_Ferozium) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [Diamond](https://starbounder.org/Diamond) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ceterai Project Database icon" loading="lazy" width="auto" height="16px"/> [Ceterai Project Database](https://ceterai.github.io/MyEnternia/Wiki/CeteraiProjectDatabase) x*1*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.85s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_alternia_augment.png" alt="Alternia Augment ★★ icon" loading="lazy" width="auto" height="16px"> Alternia Augment ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere) x*3*
+  - <img src="https://starbounder.org/mediawiki/images/8/82/Refined_Ferozium.png" alt="Refined Ferozium icon" loading="lazy" width="14px" height="14px"> [Refined Ferozium](https://starbounder.org/Refined_Ferozium) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"> [Diamond](https://starbounder.org/Diamond) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ceterai Project Database icon" loading="lazy" width="auto" height="16px"> [Ceterai Project Database](https://ceterai.github.io/MyEnternia/Wiki/CeteraiProjectDatabase) x*1*
 
 Can be bought from merchants:
 

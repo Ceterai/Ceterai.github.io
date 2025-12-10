@@ -1,6 +1,6 @@
 # Alta Lab Guard Pack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Alta Lab Guard Pack icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Guard Pack** is a rare back cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Alta Lab Guard Pack icon" loading="lazy" width="auto" height="16px"> **Alta Lab Guard Pack** is a rare back cosmetic item.
 
 A piece of equipment worn by [alta lab guards](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard) in most [alta laboratories](https://ceterai.github.io/MyEnternia/Wiki/altalaboratories).  
 Mostly consisting of [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) and suspending materials, it provides a decent amount of protection for a guard.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"/> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Usage
 

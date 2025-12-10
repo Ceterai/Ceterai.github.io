@@ -1,11 +1,11 @@
 # GR Supply ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="GR Supply ★ icon" loading="lazy" width="auto" height="16px"/> **GR Supply ★** is a legendary enviro protection pack.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="GR Supply ★ icon" loading="lazy" width="auto" height="16px"> **GR Supply ★** is a legendary enviro protection pack.
 
-A compact <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)-enhanced life support system once worn by Kora.  
+A compact <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)-enhanced life support system once worn by Kora.  
 Kora wore this supply not as much for herself - more so for other altas in need.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" width="auto" height="16px"/> [Life Support Pack](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportPack).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" width="auto" height="16px"> [Life Support Pack](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportPack).
 
 ## Ingame
 
@@ -21,8 +21,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"/> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoprotector.png" alt="Autoprotector icon" loading="lazy" width="auto" height="16px"/> [Autoprotector](https://ceterai.github.io/MyEnternia/Wiki/Autoprotector)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoprotector.png" alt="Autoprotector icon" loading="lazy" width="auto" height="16px"> [Autoprotector](https://ceterai.github.io/MyEnternia/Wiki/Autoprotector)
 
 ## Usage
 

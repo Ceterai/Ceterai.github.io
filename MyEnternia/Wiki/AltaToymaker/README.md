@@ -1,6 +1,6 @@
 # Alta Toymaker
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/toymaker/icon.png" alt="Alta Toymaker icon" loading="lazy" width="auto" height="16px"/> **Alta Toymaker** is a rare crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/toymaker/icon.png" alt="Alta Toymaker icon" loading="lazy" width="auto" height="16px"> **Alta Toymaker** is a rare crafting station.
 
 An alta crafting station for creating toys and entertainment items.  
 The Alta Toymaker is a tier 5 crafting station dedicated to producing toys, games, and entertainment items for alta leisure culture. This station creates everything from toy weapons like water blasters and bubble guns to plushies, fireworks, arcade machines, and collectible figurines. Alta society values play and entertainment as essential to well-being, making the Toymaker an important part of recreational technology. The station features specialized equipment for safe toy assembly, including soft material processors, harmless projectile calibrators, and electronic game component assembly tools.

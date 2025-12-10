@@ -1,6 +1,6 @@
 # Collectioner's Reward ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Collectioner's Reward ★★ icon" loading="lazy" width="auto" height="16px"/> **Collectioner's Reward ★★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Collectioner's Reward ★★ icon" loading="lazy" width="auto" height="16px"> **Collectioner's Reward ★★** is a rare decorative object.
 
 Congradulations! This reward goes out to the most dedicated collectioners out there! The only thing left is to write your name on it.  
 A solid titanium cup with decorative rims and a nameplate that mentiones a very efficient collectioner. You.

@@ -1,6 +1,6 @@
 # Crimson Grass Seeds
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_crimson_grass_seeds.png" alt="Crimson Grass Seeds icon" loading="lazy" width="auto" height="16px"/> **Crimson Grass Seeds** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_crimson_grass_seeds.png" alt="Crimson Grass Seeds icon" loading="lazy" width="auto" height="16px"> **Crimson Grass Seeds** is an uncommon throwable item.
 
 Toss these on some damp tilled soil to grow crimson-colored grass!
 
@@ -10,20 +10,20 @@ Toss these on some damp tilled soil to grow crimson-colored grass!
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.png" alt="Omni Crimson Seeds ★ icon" loading="lazy" width="auto" height="16px"/> [Omni Crimson Seeds ★](https://ceterai.github.io/MyEnternia/Wiki/OmniCrimsonSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.png" alt="Omni Crimson Seeds ★ icon" loading="lazy" width="auto" height="16px"> [Omni Crimson Seeds ★](https://ceterai.github.io/MyEnternia/Wiki/OmniCrimsonSeeds)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Alta Hydroponics ★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Hydroponics ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Alta Hydroponics ★★ icon" loading="lazy" width="auto" height="16px"> [Alta Hydroponics ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_crimson_grass_seeds.png" alt="Crimson Grass Seeds icon" loading="lazy" width="auto" height="16px"/> Crimson Grass Seeds x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/4/4f/Plant_Fibre.png" alt="Plant Fibre icon" loading="lazy" width="14px" height="15px"/> [Plant Fibre](https://starbounder.org/Plant_Fibre) x*2*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_crimson_grass_seeds.png" alt="Crimson Grass Seeds icon" loading="lazy" width="auto" height="16px"> Crimson Grass Seeds x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/4/4f/Plant_Fibre.png" alt="Plant Fibre icon" loading="lazy" width="14px" height="15px"> [Plant Fibre](https://starbounder.org/Plant_Fibre) x*2*
   - `petalred` x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
 
 Can be bought from merchants:
 

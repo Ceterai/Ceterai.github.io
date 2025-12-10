@@ -1,10 +1,10 @@
 # Starblaster ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png" alt="Starblaster ★ icon" loading="lazy" width="auto" height="16px"/> **Starblaster ★** is a legendary two-handed grenade launcher.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png" alt="Starblaster ★ icon" loading="lazy" width="auto" height="16px"> **Starblaster ★** is a legendary two-handed grenade launcher.
 
-This meteoblaster was enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). It's now able to launch Starshards instead of meteorite shards.
+This meteoblaster was enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). It's now able to launch Starshards instead of meteorite shards.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" width="auto" height="16px"/> [Meteoblaster WIP](https://ceterai.github.io/MyEnternia/Wiki/MeteoblasterWIP).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" width="auto" height="16px"> [Meteoblaster WIP](https://ceterai.github.io/MyEnternia/Wiki/MeteoblasterWIP).
 
 ## Ingame
 

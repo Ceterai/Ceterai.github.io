@@ -1,6 +1,6 @@
 # Elite Pod ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elite/pod/icon.png" alt="Elite Pod ★ icon" loading="lazy" width="auto" height="16px"/> **Elite Pod ★** is a legendary storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elite/pod/icon.png" alt="Elite Pod ★ icon" loading="lazy" width="auto" height="16px"> **Elite Pod ★** is a legendary storage unit.
 
 A highly reinforced airtight pod that can be used as a chest.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.
@@ -32,8 +32,8 @@ Portable alta containers, or alta pods for short, are a standardized way of tran
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ceterai/pod/icon.png" alt="Ceterai Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ceterai Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/CeteraiPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Citadel Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CitadelPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ceterai/pod/icon.png" alt="Ceterai Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Ceterai Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/CeteraiPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/citadel/pod/icon.png" alt="Citadel Pod ★★ icon" loading="lazy" width="auto" height="16px"> [Citadel Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/CitadelPod)
 
 ### Storage
 
@@ -51,10 +51,10 @@ You can sort items and have them not drop when destroyed with <img src="https://
 
 Can be crafted:
 
-- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elite/pod/icon.png" alt="Elite Pod ★ icon" loading="lazy" width="auto" height="16px"/> Elite Pod ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/elite/pod/icon.png" alt="Elite Pod ★ icon" loading="lazy" width="auto" height="16px"> Elite Pod ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" width="auto" height="16px"> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

@@ -1,6 +1,6 @@
 # Service Pants
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_pants/icon.png" alt="Service Pants icon" loading="lazy" width="auto" height="16px"/> **Service Pants** is a common leg cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_pants/icon.png" alt="Service Pants icon" loading="lazy" width="auto" height="16px"> **Service Pants** is a common leg cosmetic item.
 
 A bottom issue for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) servicers who prefer trousers over skirts.
 
@@ -14,9 +14,9 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_pants/icon.png" alt="Service Pants icon" loading="lazy" width="auto" height="16px"/> Service Pants x*1*):
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_pants/icon.png" alt="Service Pants icon" loading="lazy" width="auto" height="16px"> Service Pants x*1*):
   - `cottonwool` x*2*
-  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"/> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
+  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
 
 Can be bought from merchants:
 

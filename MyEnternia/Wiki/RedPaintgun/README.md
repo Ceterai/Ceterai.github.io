@@ -1,6 +1,6 @@
 # Red Paintgun
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgunred.png" alt="Red Paintgun icon" loading="lazy" width="auto" height="16px"/> **Red Paintgun** is an uncommon two-handed toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgunred.png" alt="Red Paintgun icon" loading="lazy" width="auto" height="16px"> **Red Paintgun** is an uncommon two-handed toy.
 
 Paint the town red!
 

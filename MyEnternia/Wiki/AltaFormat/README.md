@@ -1,6 +1,6 @@
 # Alta Format
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_art.png" alt="Alta Format icon" loading="lazy" width="auto" height="16px"/> **Alta Format** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_art.png" alt="Alta Format icon" loading="lazy" width="auto" height="16px"> **Alta Format** is a common decorative object.
 
 A drawing depicting some simple shapes and plain colors. Pretty neutral and gives off alta vibes.
 

@@ -1,11 +1,11 @@
 # Faradeus Prime ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"/> **Faradeus Prime ★** is a legendary one-handed electric machine gun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"> **Faradeus Prime ★** is a legendary one-handed electric machine gun.
 
-These [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) weapons were enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, increasing their potential to the maximum.  
+These [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) weapons were enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, increasing their potential to the maximum.  
 A find like this is pretty rare even among the mercs, but can sometimes be seen being wielded by some [faradea legends](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend).
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" width="auto" height="16px"/> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" width="auto" height="16px"> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus).
 
 ## Ingame
 
@@ -26,19 +26,19 @@ Instructions are simple - just hold the trigger until mission is clear! Your [pl
 
 Parameters:
 
+- Fire Time: 0.11
+- Base Dps: 3.5
+- Energy Usage: 12
+- Press Type: `blast`
+- Hold Time Min: 0.9
+- Hold Time Max:
 - Press Params:
+  - Type: `ct_plasma_small`
   - Params:
     - Bounces: 1
     - Action On Collide: 
 - Action: `sound`
 - Options:  `/sfx/projectiles/bullet_ricochet1.ogg`,  `/sfx/projectiles/bullet_ricochet2.ogg`,  `/sfx/projectiles/bullet_ricochet3.ogg`,  `/sfx/projectiles/bullet_ricochet4.ogg`,  `/sfx/projectiles/bullet_ricochet5.ogg`,  `/sfx/projectiles/bullet_ricochet6.ogg`,  `/sfx/projectiles/bullet_ricochet7.ogg`,  `/sfx/projectiles/bullet_ricochet8.ogg`,  `/sfx/projectiles/bullet_ricochet9.ogg`,  `/sfx/projectiles/bullet_ricochet10.ogg`,  `/sfx/projectiles/bullet_ricochet11.ogg`,  `/sfx/projectiles/bullet_ricochet12.ogg`,  `/sfx/projectiles/bullet_ricochet13.ogg`
-  - Type: `ct_plasma_small`
-- Press Type: `blast`
-- Energy Usage: 12
-- Hold Time Max:
-- Fire Time: 0.11
-- Hold Time Min: 0.9
-- Base Dps: 3.5
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Alta Citadel Drone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Citadel Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Alta Citadel Drone ★★★** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Citadel Drone ★★★ icon" loading="lazy" width="auto" height="16px"> **Alta Citadel Drone ★★★** is a legendary throwable item.
 
 An advanced armored drone filled with enternia energy. Has ranged attacks and spreads ionized clouds.  
 This model is a direct upgrade to a once commonplace alta battle drone.

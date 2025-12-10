@@ -1,6 +1,6 @@
 # Archiver Top
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Archiver Top icon" loading="lazy" width="auto" height="16px"/> **Archiver Top** is an uncommon chest cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Archiver Top icon" loading="lazy" width="auto" height="16px"> **Archiver Top** is an uncommon chest cosmetic item.
 
 A top half of a scientific coat used by alta archivers. Has lots of pockets for storing all the science goods!  
 The underlayered sweater is pretty worm and cozy, and is a bit softer compared to the regular researcher attire.

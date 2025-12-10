@@ -1,6 +1,6 @@
 # Alterash Riversides Microformer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/riverside/icon.png" alt="Alterash Riversides Microformer icon" loading="lazy" width="auto" height="16px"/> **Alterash Riversides Microformer** is a legendary terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/riverside/icon.png" alt="Alterash Riversides Microformer icon" loading="lazy" width="auto" height="16px"> **Alterash Riversides Microformer** is a legendary terraformer.
 
 Transforms an area of a planet into a riverside beach. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
 This steppe area is riddled with rivers and underground waters and thus has rich vegetation that you would commonly find in places like these, like thickets of reeds and willow-like trees. [Altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) use this coastal zone for resorts and camping, using the reeds as crafting materials for tents and deck chairs. Underneath the ground you can find many different semi-flooded caves with crystal-clear water and interesting rock formations.

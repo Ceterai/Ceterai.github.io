@@ -1,10 +1,10 @@
 # Estralis Vyurm ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"/> **Estralis Vyurm ★** is a legendary one-handed poisonous unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"> **Estralis Vyurm ★** is a legendary one-handed poisonous unique weapon.
 
-An intelligent <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) plant that seems like it can think and feel things. I think it likes you.
+An intelligent <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) plant that seems like it can think and feel things. I think it likes you.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" width="auto" height="16px"/> [Aya Virma](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" width="auto" height="16px"> [Aya Virma](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma).
 
 ## Ingame
 
@@ -23,23 +23,23 @@ The plant has evolved and its vines are more powerful now:
 
 Parameters:
 
-- Energy Usage: 16
-- Max Projectiles: 10
 - Fire Time: 0.2
 - Inaccuracy: 0.01
-- Projectile Type: `ct_plasma_strain`
 - Max Length: 24
-- Guide Projectiles: `True`
 - Base Dps: 4
+- Projectile Type: `ct_plasma_strain`
+- Energy Usage: 16
+- Max Projectiles: 10
 - Projectile Parameters:
   - Knockback: 5
   - Speed: 40
   - Time To Live: 10
 - Chain:
   - Taper: 0.5
-  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_aya_virma_2_s.png`
   - Segment Size: 1.0
   - End Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_aya_virma_2_e.png`
+  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_aya_virma_2_s.png`
+- Guide Projectiles: `True`
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Bionid Snail
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/bionid_snail/icon.png" alt="Bionid Snail icon" loading="lazy" width="auto" height="16px"/> **Bionid Snail** is a rare bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/bionid_snail/icon.png" alt="Bionid Snail icon" loading="lazy" width="auto" height="16px"> **Bionid Snail** is a rare bug.
 
 An attached note reads, "This snails glows in the dark, when not hungry."
 
@@ -16,7 +16,7 @@ Species descriptions:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_bionid_snail_egg.png" alt="Bionid Snail Egg icon" loading="lazy" width="auto" height="16px"/> [Bionid Snail Egg](https://ceterai.github.io/MyEnternia/Wiki/BionidSnailEgg)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_bionid_snail_egg.png" alt="Bionid Snail Egg icon" loading="lazy" width="auto" height="16px"> [Bionid Snail Egg](https://ceterai.github.io/MyEnternia/Wiki/BionidSnailEgg)
 
 ## Sources
 

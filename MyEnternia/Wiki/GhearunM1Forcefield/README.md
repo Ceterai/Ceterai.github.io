@@ -1,6 +1,6 @@
 # Ghearun M1 Forcefield
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/back/icon.png" alt="Ghearun M1 Forcefield icon" loading="lazy" width="auto" height="16px"/> **Ghearun M1 Forcefield** is a legendary enviro protection pack.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/back/icon.png" alt="Ghearun M1 Forcefield icon" loading="lazy" width="auto" height="16px"> **Ghearun M1 Forcefield** is a legendary enviro protection pack.
 
 Automatically applies a rechargable shield. Provides enviro protection. Has an augment slot. Runs on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).
 
@@ -14,8 +14,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"/> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" width="auto" height="16px"> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Usage
 
@@ -27,7 +27,7 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
 
 Can be bought from merchants:
 
@@ -37,8 +37,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="Ghearun M1 Set icon" loading="lazy" width="auto" height="16px"/> [Ghearun M1 Set](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Set)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="Ghearun M1 Set icon" loading="lazy" width="auto" height="16px"> [Ghearun M1 Set](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Set)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

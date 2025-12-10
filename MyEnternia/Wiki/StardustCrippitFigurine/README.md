@@ -1,6 +1,6 @@
 # Stardust Crippit Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_stardust_crippit.png" alt="Stardust Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"/> **Stardust Crippit Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_stardust_crippit.png" alt="Stardust Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"> **Stardust Crippit Figurine ★** is a legendary figurine.
 
 The label reads, "Its majestic and mystical appearance hides a significant amount of stardust energy waiting to be released."
 

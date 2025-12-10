@@ -1,6 +1,6 @@
 # Envirosuit Rebreather ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png" alt="Envirosuit Rebreather ★ icon" loading="lazy" width="auto" height="16px"/> **Envirosuit Rebreather ★** is a rare head armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png" alt="Envirosuit Rebreather ★ icon" loading="lazy" width="auto" height="16px"> **Envirosuit Rebreather ★** is a rare head armor piece.
 
 Has an extended view as well as clearer vision and additional breath protection.
 
@@ -8,12 +8,12 @@ Has an extended view as well as clearer vision and additional breath protection.
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" width="auto" height="16px"/> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer)
-- <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [Breath Protection](https://starbounder.org/Breathing_EPP)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +75.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +22.5
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +50.0
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +10.0
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" width="auto" height="16px"> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer)
+- <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"> [Breath Protection](https://starbounder.org/Breathing_EPP)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +75.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +22.5
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +50.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +10.0
 
 ## Usage
 
@@ -25,10 +25,10 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png" alt="Envirosuit Rebreather ★ icon" loading="lazy" width="auto" height="16px"/> Envirosuit Rebreather ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arco.png" alt="A.R.C.O. Research icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Research](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) x*2*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/rebreather/icon.png" alt="Envirosuit Rebreather ★ icon" loading="lazy" width="auto" height="16px"> Envirosuit Rebreather ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arco.png" alt="A.R.C.O. Research icon" loading="lazy" width="auto" height="16px"> [A.R.C.O. Research](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) x*2*
 
 Can be bought from merchants:
 

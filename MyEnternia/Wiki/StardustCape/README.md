@@ -1,6 +1,6 @@
 # Stardust Cape
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Stardust Cape icon" loading="lazy" width="auto" height="16px"/> **Stardust Cape** is a legendary back cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Stardust Cape icon" loading="lazy" width="auto" height="16px"> **Stardust Cape** is a legendary back cosmetic item.
 
 A pretty cape made of starmatter and pure stardust.  
 You can see tiny stardust particles radiate from inside it.

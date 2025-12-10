@@ -1,9 +1,9 @@
 # Artistic Headband
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Headband icon" loading="lazy" width="auto" height="16px"/> **Artistic Headband** is a common head cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Headband icon" loading="lazy" width="auto" height="16px"> **Artistic Headband** is a common head cosmetic item.
 
 A simple headband used by some artists to keep hair or other things out of their face.  
-Its pure silk material right from the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" width="auto" height="16px"/> [blossoming ayakas](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka) stays well on the bionical alta skin.
+Its pure silk material right from the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" width="auto" height="16px"> [blossoming ayakas](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka) stays well on the bionical alta skin.
 
 ## Ingame
 
@@ -21,8 +21,8 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Headband icon" loading="lazy" width="auto" height="16px"/> Artistic Headband x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"/> [Silk](https://starbounder.org/Silk) x*2*
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Headband icon" loading="lazy" width="auto" height="16px"> Artistic Headband x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk) x*2*
 
 Can be bought from merchants:
 

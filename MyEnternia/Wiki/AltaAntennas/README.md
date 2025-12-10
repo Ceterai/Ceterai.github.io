@@ -1,6 +1,6 @@
 # Alta Antennas
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Antennas icon" loading="lazy" width="auto" height="16px"/> **Alta Antennas** is a rare back cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Antennas icon" loading="lazy" width="auto" height="16px"> **Alta Antennas** is a rare back cosmetic item.
 
 A set of protected hitech appendages with an unclear purpose.  
 These are often seen on technical units, as well as alta androids.
@@ -21,8 +21,8 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Antennas icon" loading="lazy" width="auto" height="16px"/> Alta Antennas x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"/> [Silk](https://starbounder.org/Silk) x*2*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Antennas icon" loading="lazy" width="auto" height="16px"> Alta Antennas x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk) x*2*
 
 <details markdown="1"><summary>Can be bought from merchants: (Expand 12 items)</summary>
 

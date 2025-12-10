@@ -1,6 +1,6 @@
 # Alta Lab Researcher Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Alta Lab Researcher Skirt icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Researcher Skirt** is a rare leg cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Alta Lab Researcher Skirt icon" loading="lazy" width="auto" height="16px"> **Alta Lab Researcher Skirt** is a rare leg cosmetic item.
 
 An official alta lab researcher's legwear. Practical and well thought-out.
 

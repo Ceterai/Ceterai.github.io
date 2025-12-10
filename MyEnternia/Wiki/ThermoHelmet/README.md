@@ -1,9 +1,9 @@
 # Thermo Helmet ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="Thermo Helmet ★ icon" loading="lazy" width="auto" height="16px"/> **Thermo Helmet ★** is an uncommon head armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="Thermo Helmet ★ icon" loading="lazy" width="auto" height="16px"> **Thermo Helmet ★** is an uncommon head armor piece.
 
 A power ranger helmet often used by riverside alta scouts.  
-Similar to the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Thermoscreen ★ icon" loading="lazy" width="auto" height="16px"/> [thermoscreen](https://ceterai.github.io/MyEnternia/Wiki/Thermoscreen), this helmet is equipped with thermodetective technology.
+Similar to the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Thermoscreen ★ icon" loading="lazy" width="auto" height="16px"> [thermoscreen](https://ceterai.github.io/MyEnternia/Wiki/Thermoscreen), this helmet is equipped with thermodetective technology.
 
 ## Ingame
 
@@ -15,11 +15,11 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" width="auto" height="16px"/> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +70.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +21.0
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +8.0
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +16.0
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" width="auto" height="16px"> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +70.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +21.0
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +8.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +16.0
 
 ## Usage
 

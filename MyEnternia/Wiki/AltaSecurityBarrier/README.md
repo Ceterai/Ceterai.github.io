@@ -1,6 +1,6 @@
 # Alta Security Barrier
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/barrier/icon.png" alt="Alta Security Barrier icon" loading="lazy" width="auto" height="16px"/> **Alta Security Barrier** is an uncommon electric door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/barrier/icon.png" alt="Alta Security Barrier icon" loading="lazy" width="auto" height="16px"> **Alta Security Barrier** is an uncommon electric door.
 
 An electric barrier used in security contraptions. Can be placed as a door. Deals damage when activated.  
 Consists of two conductors that, when charged with energy, create a highly ionized field between each other. Adding energy to that field creates a powerful wall of electricity.
@@ -34,10 +34,10 @@ Drops following **smash** loot:
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/barrier/icon.png" alt="Alta Security Barrier icon" loading="lazy" width="auto" height="16px"/> Alta Security Barrier x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*6*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*4*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/barrier/icon.png" alt="Alta Security Barrier icon" loading="lazy" width="auto" height="16px"> Alta Security Barrier x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*6*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*4*
 
 Can be bought from merchants:
 

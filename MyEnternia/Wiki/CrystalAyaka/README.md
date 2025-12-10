@@ -1,8 +1,8 @@
 # Crystal Ayaka
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" width="auto" height="16px"/> **Crystal Ayaka** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" width="auto" height="16px"> **Crystal Ayaka** is an uncommon tree sapling.
 
-This [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) has overgrown with <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystals](https://starbounder.org/Crystal). This can usually happen in crystallic or crystal-rich environments.
+This [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) has overgrown with <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal). This can usually happen in crystallic or crystal-rich environments.
 
 ## Ingame
 
@@ -44,8 +44,8 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" width="auto" height="16px"/> [Ayaka Giant](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" width="auto" height="16px"/> [Eva Ayaka](https://ceterai.github.io/MyEnternia/Wiki/EvaAyaka)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" width="auto" height="16px"> [Ayaka Giant](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_eva_tree.png" alt="Eva Ayaka icon" loading="lazy" width="auto" height="16px"> [Eva Ayaka](https://ceterai.github.io/MyEnternia/Wiki/EvaAyaka)
 
 ## Loot
 
@@ -54,23 +54,23 @@ Stem drops:
 - drop option 1
 
   - for threat level **0+**:
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1* (weight: 1.0)
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1* (weight: 1.0)
 
 - drop option 2
 
   - for threat level **0+**:
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
 
 - drop option 3
 
   - for threat level **0+**:
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1* (weight: 1.0)
 
 - drop option 4
 
   - for threat level **0+**:
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1* (weight: 1.0)
 
 Foliage drops:
 
@@ -92,19 +92,19 @@ Foliage drops:
 
   - for threat level **0+**:
   - `sapling` x*1* (weight: 1.0)
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 1.0)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 1.0)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_prime_tree.png" alt="Ayaka Prime icon" loading="lazy" width="auto" height="16px"/> [Ayaka Prime](https://ceterai.github.io/MyEnternia/Wiki/AyakaPrime)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_prime_tree.png" alt="Ayaka Prime icon" loading="lazy" width="auto" height="16px"> [Ayaka Prime](https://ceterai.github.io/MyEnternia/Wiki/AyakaPrime)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" width="auto" height="16px"/> Crystal Ayaka x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*4*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" width="auto" height="16px"> Crystal Ayaka x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*4*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

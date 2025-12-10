@@ -1,6 +1,6 @@
 # Wild Gil Seeds
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Wild Gil Seeds icon" loading="lazy" width="auto" height="16px"/> **Wild Gil Seeds** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Wild Gil Seeds icon" loading="lazy" width="auto" height="16px"> **Wild Gil Seeds** is a common plantable item.
 
 A natural source of salt, wow.
 
@@ -36,17 +36,17 @@ Growing stages:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - loot pool `ct_gil_harvest` x*1* (weight: 0.89):
      - for threat level **0+**:
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"/> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1* (weight: 0.89)
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" width="auto" height="16px"/> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds) x*1* (weight: 0.01)
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1* (weight: 0.89)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" width="auto" height="16px"> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds) x*1* (weight: 0.01)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" width="auto" height="16px"/> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds) x*1* (weight: 1.0)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"/> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" width="auto" height="16px"> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1* (weight: 1.0)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Star Parasol
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rain/star_parasol/icon.png" alt="Star Parasol icon" loading="lazy" width="auto" height="16px"/> **Star Parasol** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rain/star_parasol/icon.png" alt="Star Parasol icon" loading="lazy" width="auto" height="16px"> **Star Parasol** is a legendary tool.
 
 Open to gently float while falling. It's bad luck to open inside the house.
 

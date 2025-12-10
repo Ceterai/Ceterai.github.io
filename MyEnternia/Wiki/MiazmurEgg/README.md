@@ -1,8 +1,8 @@
 # Miazmur Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_miazmur_egg.png" alt="Miazmur Egg icon" loading="lazy" width="auto" height="16px"/> **Miazmur Egg** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_miazmur_egg.png" alt="Miazmur Egg icon" loading="lazy" width="auto" height="16px"> **Miazmur Egg** is an uncommon throwable item.
 
-Can be used to spawn an elemental called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/miazmur/icon.png" alt="Miazmur icon" loading="lazy" width="auto" height="16px"/> [miazmur](https://ceterai.github.io/MyEnternia/Wiki/Miazmur) - an enchanted anomaly elemental.  
+Can be used to spawn an elemental called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/miazmur/icon.png" alt="Miazmur icon" loading="lazy" width="auto" height="16px"> [miazmur](https://ceterai.github.io/MyEnternia/Wiki/Miazmur) - an enchanted anomaly elemental.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame
@@ -29,7 +29,7 @@ The shape of the elemental doesn't change, but be careful while throwing it.
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/miazmur/icon.png" alt="Miazmur icon" loading="lazy" width="auto" height="16px"/> [Miazmur](https://ceterai.github.io/MyEnternia/Wiki/Miazmur)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/miazmur/icon.png" alt="Miazmur icon" loading="lazy" width="auto" height="16px"> [Miazmur](https://ceterai.github.io/MyEnternia/Wiki/Miazmur)
 
 ## Sources
 

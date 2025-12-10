@@ -1,6 +1,6 @@
 # Brontor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_brontor.png" alt="Brontor icon" loading="lazy" width="auto" height="16px"/> **Brontor** is a legendary two-handed cryogenic shotgun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_brontor.png" alt="Brontor icon" loading="lazy" width="auto" height="16px"> **Brontor** is a legendary two-handed cryogenic shotgun.
 
 This armored beast was named after centenarian creatures able to survide under the tavriya snowlands of alterash.
 
@@ -15,7 +15,7 @@ Radiomessages on pickup:
 ### Icy Spikes
 
 Sona energy flows within this tool.
-Press - a semiauto burst of <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice) plasma;
+Press - a semiauto burst of <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [ice](https://starbounder.org/Ice) plasma;
 Hold - launches an Ice Burster.
 
 Parameters:
@@ -68,8 +68,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" width="auto" height="16px"> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

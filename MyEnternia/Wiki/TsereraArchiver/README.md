@@ -19,17 +19,17 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [Bio Sample](https://starbounder.org/Bio_Sample) x*2* (weight: 0.2)
+- <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*2* (weight: 0.2)
 - `cellmatter` x*2* (weight: 0.2)
-- <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" width="7px" height="15px"/> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*2* (weight: 0.1)
+- <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" width="7px" height="15px"> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*2* (weight: 0.1)
 - `bottle` x*2* (weight: 0.1)
-- <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"/> [Paper](https://starbounder.org/Paper) x*2* (weight: 0.1)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_alta_testing_ball.png" alt="Gyrocore icon" loading="lazy" width="auto" height="16px"/> [Gyrocore](https://ceterai.github.io/MyEnternia/Wiki/Gyrocore) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" width="auto" height="16px"/> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Data & Datamasses icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Data & Datamasses](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Data&Datamasses) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Drones & Droids icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Drones & Droids](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Drones&Droids) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Energy icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Energy](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Energy) x*1* (weight: 0.05)
+- <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper) x*2* (weight: 0.1)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_alta_testing_ball.png" alt="Gyrocore icon" loading="lazy" width="auto" height="16px"> [Gyrocore](https://ceterai.github.io/MyEnternia/Wiki/Gyrocore) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" width="auto" height="16px"> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Data & Datamasses icon" loading="lazy" width="auto" height="16px"> [Tech Docs: Data & Datamasses](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Data&Datamasses) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Drones & Droids icon" loading="lazy" width="auto" height="16px"> [Tech Docs: Drones & Droids](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Drones&Droids) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Tech Docs: Energy icon" loading="lazy" width="auto" height="16px"> [Tech Docs: Energy](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-Energy) x*1* (weight: 0.05)
 
 ## Technical Information
 

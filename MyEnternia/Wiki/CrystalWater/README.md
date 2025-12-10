@@ -1,6 +1,6 @@
 # Crystal Water
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="Crystal Water icon" loading="lazy" width="auto" height="16px"/> **Crystal Water** is a common drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="Crystal Water icon" loading="lazy" width="auto" height="16px"> **Crystal Water** is a common drink.
 
 ## Ingame
 

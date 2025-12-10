@@ -1,6 +1,6 @@
 # Alta LED
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"/> **Alta LED** is a common light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"> **Alta LED** is a common light source.
 
 A basic alta crystal-based light component used in most lamps, lights and indicators. Can be used as a standalone light source.
 
@@ -25,23 +25,23 @@ A basic alta crystal-based light component used in most lamps, lights and indica
 
 <details markdown="1"><summary>Can be used to craft: (Expand 17 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" width="auto" height="16px"/> [Alta Conserver](https://ceterai.github.io/MyEnternia/Wiki/AltaConserver)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fermenter/icon.png" alt="Alta Fermenter icon" loading="lazy" width="auto" height="16px"/> [Alta Fermenter](https://ceterai.github.io/MyEnternia/Wiki/AltaFermenter)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" width="auto" height="16px"/> [Alta Icer](https://ceterai.github.io/MyEnternia/Wiki/AltaIcer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kitchener/icon.png" alt="Alta Kitchener icon" loading="lazy" width="auto" height="16px"/> [Alta Kitchener](https://ceterai.github.io/MyEnternia/Wiki/AltaKitchener)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" alt="Alta Lamp icon" loading="lazy" width="auto" height="16px"/> [Alta Lamp](https://ceterai.github.io/MyEnternia/Wiki/AltaLamp)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light/icon.png" alt="Alta Light icon" loading="lazy" width="auto" height="16px"/> [Alta Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLight)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" width="auto" height="16px"/> [Alta Light Bar](https://ceterai.github.io/MyEnternia/Wiki/AltaLightBar)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" width="auto" height="16px"/> [Alta Milker](https://ceterai.github.io/MyEnternia/Wiki/AltaMilker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"/> [Alta Neon Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonBubbleWand)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/oven/icon.png" alt="Alta Oven icon" loading="lazy" width="auto" height="16px"/> [Alta Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaOven)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" width="auto" height="16px"/> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/national_day/lights/icon.png" alt="Alta String Lights icon" loading="lazy" width="auto" height="16px"/> [Alta String Lights](https://ceterai.github.io/MyEnternia/Wiki/AltaStringLights)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaTerminal)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" width="auto" height="16px"/> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/lights/icon.png" alt="Ceternity Lights icon" loading="lazy" width="auto" height="16px"/> [Ceternity Lights](https://ceterai.github.io/MyEnternia/Wiki/CeternityLights)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Lights](https://ceterai.github.io/MyEnternia/Wiki/SonaveilLights)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/new_year/lights/icon.png" alt="Stardust Lights icon" loading="lazy" width="auto" height="16px"/> [Stardust Lights](https://ceterai.github.io/MyEnternia/Wiki/StardustLights)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/conserver/icon.png" alt="Alta Conserver icon" loading="lazy" width="auto" height="16px"> [Alta Conserver](https://ceterai.github.io/MyEnternia/Wiki/AltaConserver)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fermenter/icon.png" alt="Alta Fermenter icon" loading="lazy" width="auto" height="16px"> [Alta Fermenter](https://ceterai.github.io/MyEnternia/Wiki/AltaFermenter)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/icer/icon.png" alt="Alta Icer icon" loading="lazy" width="auto" height="16px"> [Alta Icer](https://ceterai.github.io/MyEnternia/Wiki/AltaIcer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kitchener/icon.png" alt="Alta Kitchener icon" loading="lazy" width="auto" height="16px"> [Alta Kitchener](https://ceterai.github.io/MyEnternia/Wiki/AltaKitchener)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" alt="Alta Lamp icon" loading="lazy" width="auto" height="16px"> [Alta Lamp](https://ceterai.github.io/MyEnternia/Wiki/AltaLamp)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light/icon.png" alt="Alta Light icon" loading="lazy" width="auto" height="16px"> [Alta Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" width="auto" height="16px"> [Alta Light Bar](https://ceterai.github.io/MyEnternia/Wiki/AltaLightBar)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" width="auto" height="16px"> [Alta Milker](https://ceterai.github.io/MyEnternia/Wiki/AltaMilker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"> [Alta Neon Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonBubbleWand)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/oven/icon.png" alt="Alta Oven icon" loading="lazy" width="auto" height="16px"> [Alta Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaOven)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" width="auto" height="16px"> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/national_day/lights/icon.png" alt="Alta String Lights icon" loading="lazy" width="auto" height="16px"> [Alta String Lights](https://ceterai.github.io/MyEnternia/Wiki/AltaStringLights)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" width="auto" height="16px"> [Alta Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaTerminal)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" width="auto" height="16px"> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/lights/icon.png" alt="Ceternity Lights icon" loading="lazy" width="auto" height="16px"> [Ceternity Lights](https://ceterai.github.io/MyEnternia/Wiki/CeternityLights)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"> [Sonaveil Lights](https://ceterai.github.io/MyEnternia/Wiki/SonaveilLights)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/new_year/lights/icon.png" alt="Stardust Lights icon" loading="lazy" width="auto" height="16px"> [Stardust Lights](https://ceterai.github.io/MyEnternia/Wiki/StardustLights)
 
 </details>
 
@@ -49,9 +49,9 @@ A basic alta crystal-based light component used in most lamps, lights and indica
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"/> Alta LED x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*2*
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"> Alta LED x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*2*
 
 Can be bought from merchants:
 

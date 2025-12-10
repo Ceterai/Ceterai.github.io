@@ -1,6 +1,6 @@
 # Over The Horizon
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_astera_art.png" alt="Over The Horizon icon" loading="lazy" width="auto" height="16px"/> **Over The Horizon** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_astera_art.png" alt="Over The Horizon icon" loading="lazy" width="auto" height="16px"> **Over The Horizon** is a legendary decorative object.
 
 A big picture showing the beauty of cosmos over the edge of an alterash planet. It looks oddly familiar.
 

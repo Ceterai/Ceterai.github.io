@@ -1,6 +1,6 @@
 # Snowy Alterash Ridges Microformer ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/snowy/icon.png" alt="Snowy Alterash Ridges Microformer ★ icon" loading="lazy" width="auto" height="16px"/> **Snowy Alterash Ridges Microformer ★** is a legendary terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/snowy/icon.png" alt="Snowy Alterash Ridges Microformer ★ icon" loading="lazy" width="auto" height="16px"> **Snowy Alterash Ridges Microformer ★** is a legendary terraformer.
 
 Transforms an area of a planet into a snowy alterash mound. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
 [Snowy Alterash Ridges](https://ceterai.github.io/MyEnternia/Wiki/SnowyAlterashRidges) are cool ridgy surfaces semi-covered with snow.

@@ -1,6 +1,6 @@
 # Alta Umbrella
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rain/umbrella/icon.png" alt="Alta Umbrella icon" loading="lazy" width="auto" height="16px"/> **Alta Umbrella** is a common tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rain/umbrella/icon.png" alt="Alta Umbrella icon" loading="lazy" width="auto" height="16px"> **Alta Umbrella** is a common tool.
 
 Open to gently float while falling. It's bad luck to open inside the house.
 

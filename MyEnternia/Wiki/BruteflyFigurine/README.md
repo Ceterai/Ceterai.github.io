@@ -1,6 +1,6 @@
 # Brutefly Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/brutefly/ct_brutefly.png" alt="Brutefly Figurine icon" loading="lazy" width="auto" height="16px"/> **Brutefly Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/brutefly/ct_brutefly.png" alt="Brutefly Figurine icon" loading="lazy" width="auto" height="16px"> **Brutefly Figurine** is a legendary figurine.
 
 The label reads, "Bruteflies often lead large packs of warped flies, creating a live venomous shielding from outside threats."
 

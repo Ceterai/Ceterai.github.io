@@ -1,6 +1,6 @@
 # Alta Broom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/broom/icon.png" alt="Alta Broom icon" loading="lazy" width="auto" height="16px"/> **Alta Broom** is a common two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/broom/icon.png" alt="Alta Broom icon" loading="lazy" width="auto" height="16px"> **Alta Broom** is a common two-handed tool.
 
 The most useful of sweeping tools.
 

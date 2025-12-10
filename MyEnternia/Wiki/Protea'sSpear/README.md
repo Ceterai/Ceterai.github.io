@@ -1,11 +1,11 @@
 # Protea's Spear ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" width="auto" height="16px"/> **Protea's Spear ★** is a legendary two-handed electric spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" width="auto" height="16px"> **Protea's Spear ★** is a legendary two-handed electric spear.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic belongs to Protea. Seems like it's yours now. Enjoy!  
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic belongs to Protea. Seems like it's yours now. Enjoy!  
 And don't forget to say thank you, because this tool was very important to her.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"/> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear).
 
 ## Ingame
 
@@ -28,8 +28,6 @@ With enhanced capabilities, the tool is able to concentrate enough energy to pro
 Parameters:
 
 - Fire Time: 0.6
-- Projectile Count:
-- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
 - Base Dps: 12
 - Step Damage Config: 
 - Base Damage Factor: 1.35
@@ -40,7 +38,9 @@ Parameters:
 - Knockback:, 
 - Base Damage Factor: 2.2
 - Knockback: 15
-- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- Projectile Count:
+- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
 
 ### Stardust Seeker
 
@@ -50,9 +50,9 @@ This is due to the enhancement allowing more stardust to go through and fill up 
 Parameters:
 
 - Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
+- Power: 4
 - Damage Config:
 
-- Power: 4
 
 ## Sources
 

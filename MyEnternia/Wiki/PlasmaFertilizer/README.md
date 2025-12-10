@@ -1,6 +1,6 @@
 # Plasma Fertilizer ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> **Plasma Fertilizer ★** is an uncommon tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> **Plasma Fertilizer ★** is an uncommon tool.
 
 Plasmic fertilizer for bionic plants. Will likely poison you if consumed directly.
 
@@ -16,16 +16,16 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"/> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
 
 <details markdown="1"><summary>Can be used to craft: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/pod/icon.png" alt="Neonmelon Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Neonmelon Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ela/icon.png" alt="Potted Ela icon" loading="lazy" width="auto" height="16px"/> [Potted Ela](https://ceterai.github.io/MyEnternia/Wiki/PottedEla)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"/> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"/> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/pod/icon.png" alt="Tonna Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Tonna Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/TonnaEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/pod/icon.png" alt="Neonmelon Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Neonmelon Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ela/icon.png" alt="Potted Ela icon" loading="lazy" width="auto" height="16px"> [Potted Ela](https://ceterai.github.io/MyEnternia/Wiki/PottedEla)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"> [Potted Tonnova Spring](https://ceterai.github.io/MyEnternia/Wiki/PottedTonnovaSpring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/pod/icon.png" alt="Tonna Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Tonna Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/TonnaEcoPod)
 
 </details>
 
@@ -37,26 +37,26 @@ Can be used as a fertilizer in <img src="https://images.steamusercontent.com/ugc
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 7 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"/> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/sapling/icon.png" alt="Ceternia Sapling icon" loading="lazy" width="auto" height="16px"/> [Ceternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/eco/icon.png" alt="Eco Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoNeonmelonSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" width="auto" height="16px"/> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/sapling/icon.png" alt="Tonna Sapling icon" loading="lazy" width="auto" height="16px"/> [Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/TonnaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/sapling/icon.png" alt="Vionora Sapling icon" loading="lazy" width="auto" height="16px"/> [Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/VionoraSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Soil Enrichment icon" loading="lazy" width="auto" height="16px"> [Alta Soil Enrichment](https://ceterai.github.io/MyEnternia/Wiki/AltaSoilEnrichment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/ceternia/sapling/icon.png" alt="Ceternia Sapling icon" loading="lazy" width="auto" height="16px"> [Ceternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/eco/icon.png" alt="Eco Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoNeonmelonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/stardust/icon.png" alt="Starflower Seed icon" loading="lazy" width="auto" height="16px"> [Starflower Seed](https://ceterai.github.io/MyEnternia/Wiki/StarflowerSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/sapling/icon.png" alt="Tonna Sapling icon" loading="lazy" width="auto" height="16px"> [Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/TonnaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/sapling/icon.png" alt="Vionora Sapling icon" loading="lazy" width="auto" height="16px"> [Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/VionoraSapling)
 
 </details>
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.1s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> Plasma Fertilizer ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" width="15px" height="14px"/> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"/> [Paper](https://starbounder.org/Paper) x*2*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.1s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> Plasma Fertilizer ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" width="15px" height="14px"> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper) x*2*
 
 Can be bought in shops:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" width="auto" height="16px"/> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" width="auto" height="16px"> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
 
 Can be bought from merchants:
 

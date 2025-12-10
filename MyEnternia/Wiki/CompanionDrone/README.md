@@ -1,6 +1,6 @@
 # Companion Drone ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" width="auto" height="16px"/> **Companion Drone ★★** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" width="auto" height="16px"> **Companion Drone ★★** is an uncommon throwable item.
 
 This drone is now your personal companion! Treat it with care and support.  
 It reminds you of something, but you can't quite put your finger on it...
@@ -24,7 +24,7 @@ All smart drones know for sure that cake is a lie, but this one isn't convinced.
 
 ### Scouting Drone
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" width="auto" height="16px"/> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"/> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision).
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoanalyzer.png" alt="Autoanalyzer icon" loading="lazy" width="auto" height="16px"> [Autoanalyzer](https://ceterai.github.io/MyEnternia/Wiki/Autoanalyzer), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision).
 Deals physical damage on touch.  
 This set of functions is often attributed to scouting drones, as well as personal drones, although not as often.
 

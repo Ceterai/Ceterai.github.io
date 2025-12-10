@@ -1,6 +1,6 @@
 # Alta Sweater Stack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" width="auto" height="16px"/> **Alta Sweater Stack** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" width="auto" height="16px"> **Alta Sweater Stack** is a common decorative object.
 
 A tidy stack of regular sweaters, for all and any occasions. Small sized.  
 Any alta has at least a pack of these, usually given out by the city administration. They often come together with a flat as well.
@@ -24,8 +24,8 @@ Any alta has at least a pack of these, usually given out by the city administrat
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" width="auto" height="16px"/> Alta Sweater Stack x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png" alt="Light Sweater Vest icon" loading="lazy" width="auto" height="16px"/> [Light Sweater Vest](https://ceterai.github.io/MyEnternia/Wiki/LightSweaterVest) x*3*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/sweater_stack/icon.png" alt="Alta Sweater Stack icon" loading="lazy" width="auto" height="16px"> Alta Sweater Stack x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_sweater/icon.png" alt="Light Sweater Vest icon" loading="lazy" width="auto" height="16px"> [Light Sweater Vest](https://ceterai.github.io/MyEnternia/Wiki/LightSweaterVest) x*3*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

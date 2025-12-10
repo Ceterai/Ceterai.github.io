@@ -19,9 +19,9 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"/> [Prism Shard](https://starbounder.org/Prism_Shard) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and The Starflower Order icon" loading="lazy" width="auto" height="16px"/> [Little Star and The Starflower Order](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandTheStarflowerOrder) x*1* (weight: 0.025)
+- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"> [Prism Shard](https://starbounder.org/Prism_Shard) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and The Starflower Order icon" loading="lazy" width="auto" height="16px"> [Little Star and The Starflower Order](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandTheStarflowerOrder) x*1* (weight: 0.025)
 
 ## Technical Information
 

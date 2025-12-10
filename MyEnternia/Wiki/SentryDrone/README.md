@@ -1,6 +1,6 @@
 # Sentry Drone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Sentry Drone ★★★** is an uncommon electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" width="auto" height="16px"> **Sentry Drone ★★★** is an uncommon electric throwable item.
 
 This defensive drone activates its battle functions when under direct threat.  
 Its rapid plasmic generator starts to rotate, accelerating, spewing small plasma balls at its target from a relatively long distance.
@@ -24,7 +24,7 @@ Extreme vigilance is primary to this mechanism's objectives.
 
 ### Shielded Drone
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder).
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder).
 Deals physical damage on touch.  
 While energy shields are common among alta technology, these ones in particular are extra good.
 

@@ -1,6 +1,6 @@
 # Alta Bow
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/basic/icon.png" alt="Alta Bow icon" loading="lazy" width="auto" height="16px"/> **Alta Bow** is a common two-handed toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/basic/icon.png" alt="Alta Bow icon" loading="lazy" width="auto" height="16px"> **Alta Bow** is a common two-handed toy.
 
 A simple toy used by some of the younger faradea mercs for competitive games.
 

@@ -19,7 +19,7 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel) x*60* (weight: 0.095)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"> [Pixel](https://starbounder.org/Pixel) x*60* (weight: 0.095)
 - `banana` x*1* (weight: 0.075)
 - `grapes` x*1* (weight: 0.075)
 - `apexfritter` x*1* (weight: 0.05)

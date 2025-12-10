@@ -1,6 +1,6 @@
 # Aya Sapling
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sapling/icon.png" alt="Aya Sapling icon" loading="lazy" width="auto" height="16px"/> **Aya Sapling** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sapling/icon.png" alt="Aya Sapling icon" loading="lazy" width="auto" height="16px"> **Aya Sapling** is a common plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages.
 
@@ -21,9 +21,9 @@ Growing stages:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - loot pool `ct_aya_harvest` x*1* (weight: 0.89):
      - for threat level **0+**:
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"/> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*1* (weight: 0.89)
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/icon.png" alt="Wild Aya Tuber icon" loading="lazy" width="auto" height="16px"/> [Wild Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/WildAyaTuber) x*1* (weight: 0.01)
-     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*1* (weight: 0.89)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/icon.png" alt="Wild Aya Tuber icon" loading="lazy" width="auto" height="16px"> [Wild Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/WildAyaTuber) x*1* (weight: 0.01)
+     - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Usage
 
@@ -31,24 +31,24 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" width="auto" height="16px"> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/cultivated/icon.png" alt="Cultivated Aya Sapling icon" loading="lazy" width="auto" height="16px"> [Cultivated Aya Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedAyaSapling)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" width="auto" height="16px"/> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" width="auto" height="16px"> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sapling/icon.png" alt="Aya Sapling icon" loading="lazy" width="auto" height="16px"/> Aya Sapling x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" width="auto" height="16px"/> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"/> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/sapling/icon.png" alt="Aya Sapling icon" loading="lazy" width="auto" height="16px"> Aya Sapling x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/seed/icon.png" alt="Aya Tuber icon" loading="lazy" width="auto" height="16px"> [Aya Tuber](https://ceterai.github.io/MyEnternia/Wiki/AyaTuber) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_basic_fertilizer.png" alt="Soil Fertilizer icon" loading="lazy" width="auto" height="16px"> [Soil Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/SoilFertilizer) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
 
 Can be bought from merchants:
 

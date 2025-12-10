@@ -144,7 +144,7 @@ Most alta research is based on studying  and the types of energy it provides - <
 
 #### Immunities
 
-- <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
+- <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
 
 #### Additional Stats
 
@@ -284,10 +284,10 @@ Altas share their lore and history mainly through [codex entries](https://cetera
 
 For a brief retelling of how altas came to be, check out the **Alta History** series of codexes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="icon" loading="lazy" width="auto" height="16px"/> [Alta History I](AltaHistory-FromASpeck)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="icon" loading="lazy" width="auto" height="16px"/> [Alta History II](AltaHistory-BornWithAPurpose)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="icon" loading="lazy" width="auto" height="16px"/> [Alta History III](AltaHistory-ToFindOut)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="icon" loading="lazy" width="auto" height="16px"/> [Alta History IV](AltaHistory-WhatWeAre)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta History I](AltaHistory-FromASpeck)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta History II](AltaHistory-BornWithAPurpose)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta History III](AltaHistory-ToFindOut)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta History IV](AltaHistory-WhatWeAre)
 
 These codex entries can be found in random alta pods of specific tiers: Alta History I in tier 4 pods, II in tier 3 pods, III in tier 2 pods, and IV in tier 1 pods.
 
@@ -303,7 +303,7 @@ Alta culture is based around **research**, **entertainment** and **healthy lifes
 
 ### Crystals
 
-The lives of altas revolve heavily around <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [crystals](https://starbounder.org/Crystal):
+The lives of altas revolve heavily around <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal):
 
 - Altas were created with help of stardust, an inherently crystallic material
 - Crystals are abundant resources available in all shapes and sizes on alterash planets

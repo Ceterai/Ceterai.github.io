@@ -1,8 +1,8 @@
 # Strizychar Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_strizychar_egg.png" alt="Strizychar Egg icon" loading="lazy" width="auto" height="16px"/> **Strizychar Egg** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_strizychar_egg.png" alt="Strizychar Egg icon" loading="lazy" width="auto" height="16px"> **Strizychar Egg** is an uncommon throwable item.
 
-Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/strizychar/icon.png" alt="Strizychar icon" loading="lazy" width="auto" height="16px"/> [strizychar](https://ceterai.github.io/MyEnternia/Wiki/Strizychar), a koywa-loving horned butterfly with a prolonged body.  
+Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/strizychar/icon.png" alt="Strizychar icon" loading="lazy" width="auto" height="16px"> [strizychar](https://ceterai.github.io/MyEnternia/Wiki/Strizychar), a koywa-loving horned butterfly with a prolonged body.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame
@@ -24,7 +24,7 @@ This will turn them into a collectable item valued by many collectionists, one o
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/strizychar/icon.png" alt="Strizychar icon" loading="lazy" width="auto" height="16px"/> [Strizychar](https://ceterai.github.io/MyEnternia/Wiki/Strizychar)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/strizychar/icon.png" alt="Strizychar icon" loading="lazy" width="auto" height="16px"> [Strizychar](https://ceterai.github.io/MyEnternia/Wiki/Strizychar)
 
 ## Sources
 

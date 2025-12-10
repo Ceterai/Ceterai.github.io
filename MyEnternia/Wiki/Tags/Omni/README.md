@@ -6,7 +6,7 @@ The tag `omni` contains 2 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/omni/icon.png" alt="Omni Eco Pod icon" loading="lazy" width="auto" height="16px"> [Omni Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/OmniEcoPod)
 
 ## Tenants
 
@@ -14,4 +14,4 @@ Following objects have this colony tag:
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS Animus-X ★★★★ icon" loading="lazy" width="auto" height="16px"/> [GRS "Animus-X" ★★★★](https://ceterai.github.io/MyEnternia/Wiki/GRSAnimus-X)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS Animus-X ★★★★ icon" loading="lazy" width="auto" height="16px"> [GRS "Animus-X" ★★★★](https://ceterai.github.io/MyEnternia/Wiki/GRSAnimus-X)

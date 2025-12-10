@@ -35,9 +35,9 @@ Markes the taget to assist in aiming. Pretty useful with such a heavy thing.
 Can be crafted:
 
 - Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs  Enter-Railgun ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere) x*3*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" width="auto" height="16px"> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere) x*3*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
 
 Can be bought from merchants:
 

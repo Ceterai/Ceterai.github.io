@@ -1,6 +1,6 @@
 # Impulse Bobfae Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/bobfae/ct_impulse_bobfae.png" alt="Impulse Bobfae Figurine ★ icon" loading="lazy" width="auto" height="16px"/> **Impulse Bobfae Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/bobfae/ct_impulse_bobfae.png" alt="Impulse Bobfae Figurine ★ icon" loading="lazy" width="auto" height="16px"> **Impulse Bobfae Figurine ★** is a legendary figurine.
 
 The label reads, "These energetic bobfaes are slightly better at flying than their other subspecies."
 

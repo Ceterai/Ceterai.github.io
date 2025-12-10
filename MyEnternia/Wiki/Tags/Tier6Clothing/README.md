@@ -10,7 +10,7 @@ The tag `tier6clothing` contains 4 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/halogen_pack/icon.png" alt="Altered Halogen Pack icon" loading="lazy" width="auto" height="16px"/> [Altered Halogen Pack](https://ceterai.github.io/MyEnternia/Wiki/AlteredHalogenPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/energy_mask/icon.png" alt="Energy Mask icon" loading="lazy" width="auto" height="16px"/> [Energy Mask](https://ceterai.github.io/MyEnternia/Wiki/EnergyMask)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/pilot_helmet/icon.png" alt="Pilot Helmet icon" loading="lazy" width="auto" height="16px"/> [Pilot Helmet](https://ceterai.github.io/MyEnternia/Wiki/PilotHelmet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/scarf/icon.png" alt="Sonaveil Scarf icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Scarf](https://ceterai.github.io/MyEnternia/Wiki/SonaveilScarf)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/halogen_pack/icon.png" alt="Altered Halogen Pack icon" loading="lazy" width="auto" height="16px"> [Altered Halogen Pack](https://ceterai.github.io/MyEnternia/Wiki/AlteredHalogenPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/energy_mask/icon.png" alt="Energy Mask icon" loading="lazy" width="auto" height="16px"> [Energy Mask](https://ceterai.github.io/MyEnternia/Wiki/EnergyMask)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/pilot_helmet/icon.png" alt="Pilot Helmet icon" loading="lazy" width="auto" height="16px"> [Pilot Helmet](https://ceterai.github.io/MyEnternia/Wiki/PilotHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/scarf/icon.png" alt="Sonaveil Scarf icon" loading="lazy" width="auto" height="16px"> [Sonaveil Scarf](https://ceterai.github.io/MyEnternia/Wiki/SonaveilScarf)

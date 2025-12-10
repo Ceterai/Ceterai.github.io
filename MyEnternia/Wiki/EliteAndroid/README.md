@@ -19,8 +19,8 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" width="auto" height="16px"/> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android) x*1* (weight: 0.5)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_ai_chip.png" alt="Alta Basic A.I. Chip icon" loading="lazy" width="auto" height="16px"/> [Alta Basic A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaBasicA.I.Chip) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" width="auto" height="16px"> [Android](https://ceterai.github.io/MyEnternia/Wiki/Android) x*1* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_ai_chip.png" alt="Alta Basic A.I. Chip icon" loading="lazy" width="auto" height="16px"> [Alta Basic A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaBasicA.I.Chip) x*2* (weight: 0.5)
 
 ## Technical Information
 

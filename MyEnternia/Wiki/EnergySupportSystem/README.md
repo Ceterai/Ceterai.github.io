@@ -1,14 +1,14 @@
 # Energy Support System
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"/> **Energy Support System** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"> **Energy Support System** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
 Constantly replenishes your energy by 1% each second.
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/chest/icon.png" alt="C.T. Suit icon" loading="lazy" width="auto" height="16px"/> [C.T. Suit](https://ceterai.github.io/MyEnternia/Wiki/C.T.Suit)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/oxygen_mask/icon.png" alt="Oxygen Mask icon" loading="lazy" width="auto" height="16px"/> [Oxygen Mask](https://ceterai.github.io/MyEnternia/Wiki/OxygenMask)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" width="auto" height="16px"/> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/chest/icon.png" alt="C.T. Suit icon" loading="lazy" width="auto" height="16px"> [C.T. Suit](https://ceterai.github.io/MyEnternia/Wiki/C.T.Suit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/oxygen_mask/icon.png" alt="Oxygen Mask icon" loading="lazy" width="auto" height="16px"> [Oxygen Mask](https://ceterai.github.io/MyEnternia/Wiki/OxygenMask)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_back/icon.png" alt="Security Droid Powermod ★ icon" loading="lazy" width="auto" height="16px"> [Security Droid Powermod ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidPowermod)
 
 ## Parameters
 

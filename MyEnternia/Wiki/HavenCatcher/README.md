@@ -1,6 +1,6 @@
 # Haven Catcher
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/nets/haven_catcher/icon.png" alt="Haven Catcher icon" loading="lazy" width="auto" height="16px"/> **Haven Catcher** is a rare tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/nets/haven_catcher/icon.png" alt="Haven Catcher icon" loading="lazy" width="auto" height="16px"> **Haven Catcher** is a rare tool.
 
 A fairly fast one-handed net made for catching bugs and various critters!
 

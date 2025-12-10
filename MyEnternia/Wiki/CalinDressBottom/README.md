@@ -1,6 +1,6 @@
 # Calin Dress Bottom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Dress Bottom icon" loading="lazy" width="auto" height="16px"/> **Calin Dress Bottom** is a rare leg cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Dress Bottom icon" loading="lazy" width="auto" height="16px"> **Calin Dress Bottom** is a rare leg cosmetic item.
 
 A night dress often worn to [alta clubhouses](https://ceterai.github.io/MyEnternia/Wiki/altaclubhouses). Designed by [perizhad](https://ceterai.github.io/MyEnternia/Wiki/Alta#perizhad).  
 Made from a high-quality material, this dress will make you the center of attention.

@@ -1,6 +1,6 @@
 # Bion Sample ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bion/icon.png" alt="Bion Sample ★★ icon" loading="lazy" width="auto" height="16px"/> **Bion Sample ★★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bion/icon.png" alt="Bion Sample ★★ icon" loading="lazy" width="auto" height="16px"> **Bion Sample ★★** is a rare decorative object.
 
 A perfect sample of pure bion matter, preserved on a small titanium pedestal.
 

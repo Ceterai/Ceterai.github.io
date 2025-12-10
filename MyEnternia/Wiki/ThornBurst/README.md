@@ -1,6 +1,6 @@
 # Thorn Burst
 
-<img src="https://starbounder.org/mediawiki/images/6/65/Status_Nova.png" alt="icon" loading="lazy" width="16px" height="16px"/> **Thorn Burst** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://starbounder.org/mediawiki/images/6/65/Status_Nova.png" alt="icon" loading="lazy" width="16px" height="16px"> **Thorn Burst** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
 ## Parameters
 

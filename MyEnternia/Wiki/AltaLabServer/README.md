@@ -1,6 +1,6 @@
 # Alta Lab Server
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Server** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" width="auto" height="16px"> **Alta Lab Server** is an uncommon decorative object.
 
 It looks like a server. I wonder what kind of games could be hosted on that.
 
@@ -27,10 +27,10 @@ It looks like a server. I wonder what kind of games could be hosted on that.
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" width="auto" height="16px"/> Alta Lab Server x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" width="auto" height="16px"> Alta Lab Server x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
 
 Can be bought from merchants:
 

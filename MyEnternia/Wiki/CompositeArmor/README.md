@@ -1,6 +1,6 @@
 # Composite Armor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/composite.png" alt="Composite Armor icon" loading="lazy" width="auto" height="16px"/> **Composite Armor** is an uncommon crafting material.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/composite.png" alt="Composite Armor icon" loading="lazy" width="auto" height="16px"> **Composite Armor** is an uncommon crafting material.
 
 An alta metal compound plate consisting of altan and durasteel layers. Often used by alta security as a heavier counterpart to regular altan.  
 This titanium-durasteel composite is heavier than its predecessor, so is usually applied in smaller amounts.

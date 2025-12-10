@@ -1,10 +1,10 @@
 # Superdrill ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon_upg.png" alt="Superdrill ★ icon" loading="lazy" width="auto" height="16px"/> **Superdrill ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon_upg.png" alt="Superdrill ★ icon" loading="lazy" width="auto" height="16px"> **Superdrill ★** is a legendary two-handed tool.
 
 Drills fast but breaks quickly. A temporary alternative to the matter manipulator.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon.png" alt="Alta Drill icon" loading="lazy" width="auto" height="16px"/> [Alta Drill](https://ceterai.github.io/MyEnternia/Wiki/AltaDrill).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon.png" alt="Alta Drill icon" loading="lazy" width="auto" height="16px"> [Alta Drill](https://ceterai.github.io/MyEnternia/Wiki/AltaDrill).
 
 ## Sources
 

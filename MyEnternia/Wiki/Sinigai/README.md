@@ -1,6 +1,6 @@
 # Sinigai ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_sinigai.png" alt="Sinigai ★★ icon" loading="lazy" width="auto" height="16px"/> **Sinigai ★★** is a legendary one-handed fiery shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_sinigai.png" alt="Sinigai ★★ icon" loading="lazy" width="auto" height="16px"> **Sinigai ★★** is a legendary one-handed fiery shortsword.
 
 **WIP**. Molten sword with an energy razor. What [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) made this?  
 On the surface, it looks very differently from what altas usually consider a sword, but it provides just as much power and functionality to count it as one.
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Astro-Blink
 
-**WIP**. A sequence of 3 light strikes. Hold to perform a Heavy Slash. Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+**WIP**. A sequence of 3 light strikes. Hold to perform a Heavy Slash. Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 The blinking state briefly puts you into a wormhole, allowing you to shift to a close location almost immediately. A very dangerous piece of stardust-based tech.
 
 Parameters:
@@ -58,7 +58,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

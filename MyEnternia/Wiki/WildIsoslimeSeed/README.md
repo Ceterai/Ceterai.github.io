@@ -1,6 +1,6 @@
 # Wild Isoslime Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" width="auto" height="16px"/> **Wild Isoslime Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" width="auto" height="16px"> **Wild Isoslime Seed** is a common plantable item.
 
 A plant covered in slime. It's a bit cold to the touch.
 
@@ -21,16 +21,16 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*1* (weight: 0.89)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"/> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed) x*1* (weight: 0.01)
-   - <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"/> [Slime Blob](https://starbounder.org/Slime_Blob) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*1* (weight: 0.89)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed) x*1* (weight: 0.01)
+   - <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"> [Slime Blob](https://starbounder.org/Slime_Blob) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"/> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed) x*1* (weight: 1.0)
 
 ## Sources
 

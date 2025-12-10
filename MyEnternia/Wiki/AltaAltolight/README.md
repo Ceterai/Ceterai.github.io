@@ -1,6 +1,6 @@
 # Alta Altolight
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"/> **Alta Altolight** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"> **Alta Altolight** is an uncommon decorative object.
 
 A neon blue light used by altas everywhere, especially in clubhouses.  
 It illuminates the space with highly-saturated dim glow, perfect for a relaxed atmosphere. The colors mix together beautifully when near each other.

@@ -1,6 +1,6 @@
 # Sofara
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"/> **Sofara** is a legendary tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"> **Sofara** is a legendary tree sapling.
 
 A tree you would only find on enterash planets, hidden among explosive nature and terrain.  
 This tree consists of a special type of wood often used in decorative furniture crafting.
@@ -45,25 +45,25 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"/> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"/> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" width="auto" height="16px"> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"/> Sofara x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"> Sofara x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling) x*1*
   - `alienstripedwood` x*16*
   - `giantflowerpetal` x*8*
-  - <img src="https://starbounder.org/mediawiki/images/c/c8/Living_Root.png" alt="Living Root icon" loading="lazy" width="14px" height="13px"/> [Living Root](https://starbounder.org/Living_Root) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/e/eb/Granite_Rock.png" alt="Granite Rock icon" loading="lazy" width="12px" height="12px"/> [Granite Rock](https://starbounder.org/Granite_Rock) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/c/c8/Living_Root.png" alt="Living Root icon" loading="lazy" width="14px" height="13px"> [Living Root](https://starbounder.org/Living_Root) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/e/eb/Granite_Rock.png" alt="Granite Rock icon" loading="lazy" width="12px" height="12px"> [Granite Rock](https://starbounder.org/Granite_Rock) x*1*
   - `liquidlava` x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer) x*1*
 
 Can be bought from merchants:
 

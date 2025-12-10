@@ -1,6 +1,6 @@
 # Lava Crippit ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_lava_crippit.png" alt="Lava Crippit ★★★ icon" loading="lazy" width="auto" height="16px"/> **Lava Crippit ★★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_lava_crippit.png" alt="Lava Crippit ★★★ icon" loading="lazy" width="auto" height="16px"> **Lava Crippit ★★★** is a legendary figurine.
 
 The label reads, "The magma rocks are pleasantly warm on the inside, making them a perfect home for a crippit."
 

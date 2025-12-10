@@ -1,8 +1,8 @@
 # EDS Drone Spawner
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/drone_spawner/icon.png" alt="EDS Drone Spawner icon" loading="lazy" width="auto" height="16px"/> **EDS Drone Spawner** is a legendary breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/drone_spawner/icon.png" alt="EDS Drone Spawner icon" loading="lazy" width="auto" height="16px"> **EDS Drone Spawner** is a legendary breakable object.
 
-A reinforced device integrated into the walls, able to dispence <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/eds.png" alt="EDS Drone ★ icon" loading="lazy" width="auto" height="16px"/> [EDS drones](https://ceterai.github.io/MyEnternia/Wiki/EDSDrone).  
+A reinforced device integrated into the walls, able to dispence <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/eds.png" alt="EDS Drone ★ icon" loading="lazy" width="auto" height="16px"> [EDS drones](https://ceterai.github.io/MyEnternia/Wiki/EDSDrone).  
 This special drone dispatcher is merely a surface interface, connected to a drone traveling system, which is how they reach the exit.
 
 ## Ingame
@@ -30,10 +30,10 @@ This object **doesn't drop itself** when broken.
 
 Can be crafted:
 
-- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/drone_spawner/icon.png" alt="EDS Drone Spawner icon" loading="lazy" width="auto" height="16px"/> EDS Drone Spawner x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*8*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*4*
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/drone_spawner/icon.png" alt="EDS Drone Spawner icon" loading="lazy" width="auto" height="16px"> EDS Drone Spawner x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*8*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*4*
 
 Can be bought from merchants:
 

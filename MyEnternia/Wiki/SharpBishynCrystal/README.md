@@ -1,6 +1,6 @@
 # Sharp Bishyn Crystal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal3/icon.png" alt="Sharp Bishyn Crystal icon" loading="lazy" width="auto" height="16px"/> **Sharp Bishyn Crystal** is an uncommon poisonous breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal3/icon.png" alt="Sharp Bishyn Crystal icon" loading="lazy" width="auto" height="16px"> **Sharp Bishyn Crystal** is an uncommon poisonous breakable object.
 
 This crystal deposit is full of very sharp edges. Seems like special <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals.  
 These form naturally in highly crystallic environments and tend to grow in patches on relatively plateau areas.
@@ -31,8 +31,8 @@ This object **doesn't drop itself** when broken.
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 1.0)
 
 ## Sources
 

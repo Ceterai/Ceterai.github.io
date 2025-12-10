@@ -6,7 +6,7 @@ The tag `ela` contains 1 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ela/icon.png" alt="Potted Ela icon" loading="lazy" width="auto" height="16px"/> [Potted Ela](https://ceterai.github.io/MyEnternia/Wiki/PottedEla)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ela/icon.png" alt="Potted Ela icon" loading="lazy" width="auto" height="16px"> [Potted Ela](https://ceterai.github.io/MyEnternia/Wiki/PottedEla)
 
 ## Tenants
 

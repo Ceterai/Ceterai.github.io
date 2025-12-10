@@ -1,6 +1,6 @@
 # Alta Hatch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/hatch/icon.png" alt="Alta Hatch icon" loading="lazy" width="auto" height="16px"/> **Alta Hatch** is a common door.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/hatch/icon.png" alt="Alta Hatch icon" loading="lazy" width="auto" height="16px"> **Alta Hatch** is a common door.
 
 A simple titanium 1x5 hatch. **Can be placed both vertically and horizontally.**
 
@@ -27,10 +27,10 @@ A simple titanium 1x5 hatch. **Can be placed both vertically and horizontally.**
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/hatch/icon.png" alt="Alta Hatch icon" loading="lazy" width="auto" height="16px"/> Alta Hatch x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*8*
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*6*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/hatch/icon.png" alt="Alta Hatch icon" loading="lazy" width="auto" height="16px"> Alta Hatch x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*8*
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*6*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
 
 Can be bought from merchants:
 

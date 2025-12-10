@@ -1,6 +1,6 @@
 # Spice-Hive Curry
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" width="auto" height="16px"/> **Spice-Hive Curry** is a legendary dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" width="auto" height="16px"> **Spice-Hive Curry** is a legendary dish.
 
 Don't try this if you're even slightly scared of larva, spices, taste, or eating in general.  
 This recipe is ablsolutely overloaded on spices, which might scare some altas off, but will atract other ones looking for something exotic.
@@ -14,13 +14,13 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 50
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 Applies effects:
 
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"/> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (215s)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) (215s)
-- <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"/> [Burning](https://starbounder.org/Burning) (5s)
+- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (215s)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) (215s)
+- <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"> [Burning](https://starbounder.org/Burning) (5s)
 
 ## Usage
 
@@ -28,20 +28,20 @@ Applies effects:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"/> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" width="auto" height="16px"/> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" width="auto" height="16px"/> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" width="auto" height="16px"> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" width="auto" height="16px"> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" width="auto" height="16px"/> Spice-Hive Curry x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" width="auto" height="16px"> Spice-Hive Curry x*1*):
   - `chili` x*2*
   - `larva` x*2*
   - `rice` x*1*
-  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [Bio Sample](https://starbounder.org/Bio_Sample) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"/> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*
 
 Can be bought from merchants:
 

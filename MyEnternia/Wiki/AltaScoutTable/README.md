@@ -1,8 +1,8 @@
 # Alta Scout Table
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"/> **Alta Scout Table** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"> **Alta Scout Table** is an uncommon decorative object.
 
-A hefty <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [titanium](https://starbounder.org/Titanium_Bar) table with maintenance panel on the side.  
+A hefty <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) table with maintenance panel on the side.  
 Alta scouts often use these tables for route planning, map construction and energy tool maintenance. It's broad and edgeless to provide more space.
 
 ## Ingame

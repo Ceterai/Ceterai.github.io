@@ -6,7 +6,7 @@ The tag `harrowing` contains 2 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_harrowing_poster.png" alt="Harrowing Poster icon" loading="lazy" width="auto" height="16px"/> [Harrowing Poster](https://ceterai.github.io/MyEnternia/Wiki/HarrowingPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_harrowing_poster.png" alt="Harrowing Poster icon" loading="lazy" width="auto" height="16px"> [Harrowing Poster](https://ceterai.github.io/MyEnternia/Wiki/HarrowingPoster)
 
 ## Tenants
 

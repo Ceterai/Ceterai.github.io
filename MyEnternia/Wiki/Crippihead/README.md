@@ -1,6 +1,6 @@
 # Crippihead
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/my_enternia/trophies/crippit_head/icon.png" alt="Crippihead icon" loading="lazy" width="auto" height="16px"/> **Crippihead** is an uncommon head cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/my_enternia/trophies/crippit_head/icon.png" alt="Crippihead icon" loading="lazy" width="auto" height="16px"> **Crippihead** is an uncommon head cosmetic item.
 
 A set of mysterious eyes hiding underneath a moonrock.  
 Just like most trophy cosmetics, this wearable can often be left behind by a creature that looks similar to it.

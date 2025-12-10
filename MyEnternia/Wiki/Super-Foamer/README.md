@@ -1,10 +1,10 @@
 # Super-Foamer ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon_upg.png" alt="Super-Foamer ★ icon" loading="lazy" width="auto" height="16px"/> **Super-Foamer ★** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon_upg.png" alt="Super-Foamer ★ icon" loading="lazy" width="auto" height="16px"> **Super-Foamer ★** is a legendary tool.
 
 Spray a sticky foam that slows down enemies!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon.png" alt="Alta Foam Sprayer icon" loading="lazy" width="auto" height="16px"/> [Alta Foam Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaFoamSprayer).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon.png" alt="Alta Foam Sprayer icon" loading="lazy" width="auto" height="16px"> [Alta Foam Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaFoamSprayer).
 
 ## Parameters
 
@@ -14,16 +14,16 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Energy Usage: 28
 - Fire Time: 0.12
 - Inaccuracy: 0.1
-- Projectile Type: `ct_foam_spray`
-- Muzzle Flash Variants: 1
-- Projectile Count: 1
 - Base Dps: 10
-- Fire Type: `auto`
+- Projectile Type: `ct_foam_spray`
+- Energy Usage: 28
+- Muzzle Flash Variants: 1
 - Projectile Parameters:
   - Knockback Range:  10,  40
+- Projectile Count: 1
+- Fire Type: `auto`
 
 ## Sources
 

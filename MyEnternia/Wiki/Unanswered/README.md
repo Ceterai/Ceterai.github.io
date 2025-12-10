@@ -1,6 +1,6 @@
 # Unanswered
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_minimal_art.png" alt="Unanswered icon" loading="lazy" width="auto" height="16px"/> **Unanswered** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_minimal_art.png" alt="Unanswered icon" loading="lazy" width="auto" height="16px"> **Unanswered** is a common decorative object.
 
 Some very simple minimalistic piece of art, that was probably made to fit a living space, rather than to be displayed in a gallery.
 

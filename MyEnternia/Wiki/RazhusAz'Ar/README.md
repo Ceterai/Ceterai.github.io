@@ -1,11 +1,11 @@
 # Razhus Az'Ar ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" width="auto" height="16px"/> **Razhus Az'Ar ★** is a legendary two-handed poisonous spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" width="auto" height="16px"> **Razhus Az'Ar ★** is a legendary two-handed poisonous spear.
 
-A combat <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic that has now been restored. Let's see what does its full potential hold...  
+A combat <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) relic that has now been restored. Let's see what does its full potential hold...  
 Hopefully, with enough energy this thing can finally meet its creators' expectations, or perhaps even exceed them. The power of stardust can sometimes know no boundaries...
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" width="auto" height="16px"/> [Bishyn Spear](https://ceterai.github.io/MyEnternia/Wiki/BishynSpear).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" width="auto" height="16px"> [Bishyn Spear](https://ceterai.github.io/MyEnternia/Wiki/BishynSpear).
 
 ## Ingame
 
@@ -23,21 +23,21 @@ Radiomessages on pickup:
 
 A sequence of 4 (+1) light strikes. Hold to perform a Hold Super-Strike.
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) damage.  
-The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [diamonds](https://starbounder.org/Diamond) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals.
+The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"> [diamonds](https://starbounder.org/Diamond) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals.
 
 Parameters:
 
-- Hold Damage Multiplier: 0.1
 - Fire Time: 0.6
+- Base Dps: 12
+- Hold Damage Config:
+  - Timeout Group: `hold`
+  - Timeout: 0.5
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
-- Hold Damage Config:
-  - Timeout Group: `hold`
-  - Timeout: 0.5
-- Base Dps: 12
+- Hold Damage Multiplier: 0.1
 
 ## Sources
 

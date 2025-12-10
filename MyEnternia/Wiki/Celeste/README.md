@@ -1,8 +1,8 @@
 # Celeste ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_celeste.png" alt="Celeste ★★★ icon" loading="lazy" width="auto" height="16px"/> **Celeste ★★★** is a legendary two-handed electric broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_celeste.png" alt="Celeste ★★★ icon" loading="lazy" width="auto" height="16px"> **Celeste ★★★** is a legendary two-handed electric broadsword.
 
-The blade of this sword is made out of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) essence. It is surprisingly easy to handle.  
+The blade of this sword is made out of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) essence. It is surprisingly easy to handle.  
 Seemingly forged by the stars, it makes you feel like you have a purpose, like you are needed. Its overwhelming power fills you with determination.
 
 ## Ingame
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Celestial Strike
 
-**WIP**. A combo of 6 strikes. Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+**WIP**. A combo of 6 strikes. Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 It feels its connection to the sword, as it feels its connection to Io herself. This is a celestial level of power.
 
 Parameters:
@@ -28,7 +28,7 @@ Parameters:
 - Fire Time: 0.7
 - Damage Config:
   - Item Bonus:
-    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
     - Damage Factor: 0.005
     - Max: 120
 - Steps: 
@@ -76,7 +76,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

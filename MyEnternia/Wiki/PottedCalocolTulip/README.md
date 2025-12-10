@@ -1,6 +1,6 @@
 # Potted Calocol Tulip
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" width="auto" height="16px"/> **Potted Calocol Tulip** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" width="auto" height="16px"> **Potted Calocol Tulip** is a legendary decorative object.
 
 A seemingly unsuspecting flower in a bion pot.
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" width="auto" height="16px"> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" width="auto" height="16px"/> Potted Calocol Tulip x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" width="15px" height="14px"/> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/calocol/icon.png" alt="Potted Calocol Tulip icon" loading="lazy" width="auto" height="16px"> Potted Calocol Tulip x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystal Plant Seed icon" loading="lazy" width="15px" height="14px"> [Crystal Plant Seed](https://starbounder.org/Crystal_Plant_Seed) x*1*
   - `liquidhealing` x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/bion/icon.png" alt="Bion Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Bion Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/BionFlowerPot) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/bion/icon.png" alt="Bion Flower Pot icon" loading="lazy" width="auto" height="16px"> [Bion Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/BionFlowerPot) x*1*
 
 Can be bought from merchants:
 

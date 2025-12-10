@@ -1,6 +1,6 @@
 # Impulse Augment ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_impulse_augment.png" alt="Impulse Augment ★ icon" loading="lazy" width="auto" height="16px"/> **Impulse Augment ★** is a rare EPP augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_impulse_augment.png" alt="Impulse Augment ★ icon" loading="lazy" width="auto" height="16px"> **Impulse Augment ★** is a rare EPP augment.
 
 An EPP module that makes you periodically burst with ionic clouds.
 
@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"/> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller)
 
 ## Usage
 
@@ -36,11 +36,11 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_impulse_augment.png" alt="Impulse Augment ★ icon" loading="lazy" width="auto" height="16px"/> Impulse Augment ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arco.png" alt="A.R.C.O. Research icon" loading="lazy" width="auto" height="16px"/> [A.R.C.O. Research](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) x*4*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_impulse_augment.png" alt="Impulse Augment ★ icon" loading="lazy" width="auto" height="16px"> Impulse Augment ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arco.png" alt="A.R.C.O. Research icon" loading="lazy" width="auto" height="16px"> [A.R.C.O. Research](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) x*4*
 
 Can be bought from merchants:
 

@@ -1,6 +1,6 @@
 # Warped Grass Seeds
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_warped_grass_seeds.png" alt="Warped Grass Seeds icon" loading="lazy" width="auto" height="16px"/> **Warped Grass Seeds** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_warped_grass_seeds.png" alt="Warped Grass Seeds icon" loading="lazy" width="auto" height="16px"> **Warped Grass Seeds** is an uncommon throwable item.
 
 Toss these on some damp tilled soil to grow tiny warped roots!
 
@@ -10,19 +10,19 @@ Toss these on some damp tilled soil to grow tiny warped roots!
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.png" alt="Omni Warped Seeds ★★ icon" loading="lazy" width="auto" height="16px"/> [Omni Warped Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniWarpedSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_warped_grass_seeds.png" alt="Omni Warped Seeds ★★ icon" loading="lazy" width="auto" height="16px"> [Omni Warped Seeds ★★](https://ceterai.github.io/MyEnternia/Wiki/OmniWarpedSeeds)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" width="auto" height="16px"> [Alta Ecoponics ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.3s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_warped_grass_seeds.png" alt="Warped Grass Seeds icon" loading="lazy" width="auto" height="16px"/> Warped Grass Seeds x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" width="auto" height="16px"/> [Warped Hive](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.3s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_warped_grass_seeds.png" alt="Warped Grass Seeds icon" loading="lazy" width="auto" height="16px"> Warped Grass Seeds x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" width="auto" height="16px"> [Warped Hive](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
 
 Can be bought from merchants:
 

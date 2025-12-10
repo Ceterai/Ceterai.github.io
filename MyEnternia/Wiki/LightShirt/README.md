@@ -1,6 +1,6 @@
 # Light Shirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png" alt="Light Shirt icon" loading="lazy" width="auto" height="16px"/> **Light Shirt** is a common chest cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png" alt="Light Shirt icon" loading="lazy" width="auto" height="16px"> **Light Shirt** is a common chest cosmetic item.
 
 A simple casual shirt worn by many altas. It smells of home and peace.
 
@@ -10,7 +10,7 @@ A simple casual shirt worn by many altas. It smells of home and peace.
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shirt_stack/icon.png" alt="Alta Shirt Stack icon" loading="lazy" width="auto" height="16px"/> [Alta Shirt Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaShirtStack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shirt_stack/icon.png" alt="Alta Shirt Stack icon" loading="lazy" width="auto" height="16px"> [Alta Shirt Stack](https://ceterai.github.io/MyEnternia/Wiki/AltaShirtStack)
 
 ### Dyeing
 
@@ -20,9 +20,9 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png" alt="Light Shirt icon" loading="lazy" width="auto" height="16px"/> Light Shirt x*1*):
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png" alt="Light Shirt icon" loading="lazy" width="auto" height="16px"> Light Shirt x*1*):
   - `cottonwool` x*2*
-  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"/> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
+  - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
 
 Can be bought from merchants:
 

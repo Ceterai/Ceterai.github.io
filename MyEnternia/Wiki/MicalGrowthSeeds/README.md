@@ -1,6 +1,6 @@
 # Mical Growth Seeds
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_mical_grass_seeds.png" alt="Mical Growth Seeds icon" loading="lazy" width="auto" height="16px"/> **Mical Growth Seeds** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_mical_grass_seeds.png" alt="Mical Growth Seeds icon" loading="lazy" width="auto" height="16px"> **Mical Growth Seeds** is a rare throwable item.
 
 Toss these on some damp tilled soil to grow tiny mical crystals!
 
@@ -10,20 +10,20 @@ Toss these on some damp tilled soil to grow tiny mical crystals!
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_mical_grass_seeds.png" alt="Omni Mical Seeds ★★★ icon" loading="lazy" width="auto" height="16px"/> [Omni Mical Seeds ★★★](https://ceterai.github.io/MyEnternia/Wiki/OmniMicalSeeds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_mical_grass_seeds.png" alt="Omni Mical Seeds ★★★ icon" loading="lazy" width="auto" height="16px"> [Omni Mical Seeds ★★★](https://ceterai.github.io/MyEnternia/Wiki/OmniMicalSeeds)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" width="auto" height="16px"/> [Alta Thermoponics ★★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" width="auto" height="16px"> [Alta Thermoponics ★★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.35s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_mical_grass_seeds.png" alt="Mical Growth Seeds icon" loading="lazy" width="auto" height="16px"/> Mical Growth Seeds x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*3*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.35s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_mical_grass_seeds.png" alt="Mical Growth Seeds icon" loading="lazy" width="auto" height="16px"> Mical Growth Seeds x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*3*
   - `petalred` x*3*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
 
 Can be bought from merchants:
 

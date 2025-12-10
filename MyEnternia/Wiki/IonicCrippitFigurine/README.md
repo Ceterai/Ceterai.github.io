@@ -1,6 +1,6 @@
 # Ionic Crippit Figurine ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_ionic_crippit.png" alt="Ionic Crippit Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> **Ionic Crippit Figurine ★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_ionic_crippit.png" alt="Ionic Crippit Figurine ★★ icon" loading="lazy" width="auto" height="16px"> **Ionic Crippit Figurine ★★** is a legendary figurine.
 
 The label reads, "Ionic crippits usually stay aside from each other to not cause tesla waves between their shell crystals."
 

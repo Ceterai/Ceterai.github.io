@@ -1,9 +1,9 @@
 # Starforest Microformer ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/starforest/icon.png" alt="Starforest Microformer ★★ icon" loading="lazy" width="auto" height="16px"/> **Starforest Microformer ★★** is a legendary terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/starforest/icon.png" alt="Starforest Microformer ★★ icon" loading="lazy" width="auto" height="16px"> **Starforest Microformer ★★** is a legendary terraformer.
 
 Transforms an area of a planet into a stardust forest. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Starforest](https://ceterai.github.io/MyEnternia/Wiki/Starforest) is a colourful forest filled with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals. So much so that even all the ayakas growing here are shining with different colors...
+[Starforest](https://ceterai.github.io/MyEnternia/Wiki/Starforest) is a colourful forest filled with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals. So much so that even all the ayakas growing here are shining with different colors...
 
 ## Ingame
 

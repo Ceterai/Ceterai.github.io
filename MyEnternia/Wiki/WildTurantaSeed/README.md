@@ -1,6 +1,6 @@
 # Wild Turanta Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Wild Turanta Seed icon" loading="lazy" width="auto" height="16px"/> **Wild Turanta Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Wild Turanta Seed icon" loading="lazy" width="auto" height="16px"> **Wild Turanta Seed** is a common plantable item.
 
 A lush flower with big petals that is constantly growing.
 
@@ -22,15 +22,15 @@ Growing stages:
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - `giantflowerpetal` x*1* (weight: 0.89)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" width="auto" height="16px"/> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed) x*1* (weight: 0.01)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" width="auto" height="16px"> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed) x*1* (weight: 0.01)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" width="auto" height="16px"/> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" width="auto" height="16px"> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed) x*1* (weight: 1.0)
 
 ## Sources
 

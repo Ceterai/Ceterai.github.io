@@ -1,6 +1,6 @@
 # Alta Popper Base
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_basic_popper.png" alt="Alta Popper Base icon" loading="lazy" width="auto" height="16px"/> **Alta Popper Base** is a common toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_basic_popper.png" alt="Alta Popper Base icon" loading="lazy" width="auto" height="16px"> **Alta Popper Base** is a common toy.
 
 A basic confetti popper with plain white confetti and no sound, usually used as base for more colorful variants.
 
@@ -10,11 +10,11 @@ A basic confetti popper with plain white confetti and no sound, usually used as 
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_popper.png" alt="Alta Popper icon" loading="lazy" width="auto" height="16px"/> [Alta Popper](https://ceterai.github.io/MyEnternia/Wiki/AltaPopper)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_calline_popper.png" alt="Calline Popper icon" loading="lazy" width="auto" height="16px"/> [Calline Popper](https://ceterai.github.io/MyEnternia/Wiki/CallinePopper)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_rainbow_popper.png" alt="Rainbow Alta Popper icon" loading="lazy" width="auto" height="16px"/> [Rainbow Alta Popper](https://ceterai.github.io/MyEnternia/Wiki/RainbowAltaPopper)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_sonaveil_popper.png" alt="Sonaveil Popper icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Popper](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPopper)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_stardust_popper.png" alt="Stardust Popper icon" loading="lazy" width="auto" height="16px"/> [Stardust Popper](https://ceterai.github.io/MyEnternia/Wiki/StardustPopper)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_popper.png" alt="Alta Popper icon" loading="lazy" width="auto" height="16px"> [Alta Popper](https://ceterai.github.io/MyEnternia/Wiki/AltaPopper)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_calline_popper.png" alt="Calline Popper icon" loading="lazy" width="auto" height="16px"> [Calline Popper](https://ceterai.github.io/MyEnternia/Wiki/CallinePopper)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_rainbow_popper.png" alt="Rainbow Alta Popper icon" loading="lazy" width="auto" height="16px"> [Rainbow Alta Popper](https://ceterai.github.io/MyEnternia/Wiki/RainbowAltaPopper)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_sonaveil_popper.png" alt="Sonaveil Popper icon" loading="lazy" width="auto" height="16px"> [Sonaveil Popper](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPopper)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_stardust_popper.png" alt="Stardust Popper icon" loading="lazy" width="auto" height="16px"> [Stardust Popper](https://ceterai.github.io/MyEnternia/Wiki/StardustPopper)
 
 ## Sources
 

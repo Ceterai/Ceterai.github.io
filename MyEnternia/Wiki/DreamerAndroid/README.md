@@ -19,8 +19,8 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_drone_visor.png" alt="Drone Visor ★ icon" loading="lazy" width="auto" height="16px"/> [Drone Visor ★](https://ceterai.github.io/MyEnternia/Wiki/DroneVisor) x*1* (weight: 0.5)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/eds.png" alt="EDS Glowstick icon" loading="lazy" width="auto" height="16px"/> [EDS Glowstick](https://ceterai.github.io/MyEnternia/Wiki/EDSGlowstick) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_drone_visor.png" alt="Drone Visor ★ icon" loading="lazy" width="auto" height="16px"> [Drone Visor ★](https://ceterai.github.io/MyEnternia/Wiki/DroneVisor) x*1* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/eds.png" alt="EDS Glowstick icon" loading="lazy" width="auto" height="16px"> [EDS Glowstick](https://ceterai.github.io/MyEnternia/Wiki/EDSGlowstick) x*2* (weight: 0.5)
 
 ## Technical Information
 

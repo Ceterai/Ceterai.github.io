@@ -1,6 +1,6 @@
 # Felistraza Beauty
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_felistraza_art.png" alt="Felistraza Beauty icon" loading="lazy" width="auto" height="16px"/> **Felistraza Beauty** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_felistraza_art.png" alt="Felistraza Beauty icon" loading="lazy" width="auto" height="16px"> **Felistraza Beauty** is a rare decorative object.
 
 A simplistic drawing depicting a purple flower.
 

@@ -19,10 +19,10 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*8* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*8* (weight: 0.05)
-- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"/> [Prism Shard](https://starbounder.org/Prism_Shard) x*4* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Altas & Crystals icon" loading="lazy" width="auto" height="16px"/> [Altas & Crystals](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) x*1* (weight: 0.05)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*8* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*8* (weight: 0.05)
+- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"> [Prism Shard](https://starbounder.org/Prism_Shard) x*4* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Altas & Crystals icon" loading="lazy" width="auto" height="16px"> [Altas & Crystals](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) x*1* (weight: 0.05)
 
 ## Technical Information
 

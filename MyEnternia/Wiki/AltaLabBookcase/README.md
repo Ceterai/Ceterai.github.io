@@ -1,8 +1,8 @@
 # Alta Lab Bookcase
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Bookcase icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Bookcase** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Bookcase icon" loading="lazy" width="auto" height="16px"> **Alta Lab Bookcase** is an uncommon decorative object.
 
-A simple <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [titanium](https://starbounder.org/Titanium_Bar) closet with scientific works about alta research.  
+A simple <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) closet with scientific works about alta research.  
 All contained materials are well-organized and sorted by categories and relevancy, behind the glass casing made out of refined crystals.
 
 ## Ingame

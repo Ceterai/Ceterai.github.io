@@ -1,6 +1,6 @@
 # Astera Augment
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_astera_augment.png" alt="Astera Augment icon" loading="lazy" width="auto" height="16px"/> **Astera Augment** is a legendary EPP augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_astera_augment.png" alt="Astera Augment icon" loading="lazy" width="auto" height="16px"> **Astera Augment** is a legendary EPP augment.
 
 An [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera) EPP module that gives you additional protection.
 
@@ -14,8 +14,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://starbounder.org/mediawiki/images/9/91/Poison_Resist_Augment.png" alt="Poison Block icon" loading="lazy" width="11px" height="16px"/> [Poison Block (Augment)](https://starbounder.org/Poison_Resist_Augment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)
+- <img src="https://starbounder.org/mediawiki/images/9/91/Poison_Resist_Augment.png" alt="Poison Block icon" loading="lazy" width="11px" height="16px"> [Poison Block (Augment)](https://starbounder.org/Poison_Resist_Augment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)
 
 ## Usage
 

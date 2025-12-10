@@ -1,6 +1,6 @@
 # Glowing Rain
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_glow_rain.png" alt="Glowing Rain icon" loading="lazy" width="auto" height="16px"/> **Glowing Rain** is a special [weather condition](https://ceterai.github.io/MyEnternia/Wiki/Weather).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_glow_rain.png" alt="Glowing Rain icon" loading="lazy" width="auto" height="16px"> **Glowing Rain** is a special [weather condition](https://ceterai.github.io/MyEnternia/Wiki/Weather).
 
 This sparkling rainfall lights up the sky and land to show the way in the dark!..
 ..why are you looking up? ..oh.

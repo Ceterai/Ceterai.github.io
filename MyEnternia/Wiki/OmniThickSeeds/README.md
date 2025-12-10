@@ -1,6 +1,6 @@
 # Omni Thick Seeds
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.png" alt="Omni Thick Seeds icon" loading="lazy" width="auto" height="16px"/> **Omni Thick Seeds** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.png" alt="Omni Thick Seeds icon" loading="lazy" width="auto" height="16px"> **Omni Thick Seeds** is a legendary throwable item.
 
 Toss these on any ground to grow very dense grass!
 
@@ -10,17 +10,17 @@ Toss these on any ground to grow very dense grass!
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" width="auto" height="16px"/> [Gyera Blaster](https://ceterai.github.io/MyEnternia/Wiki/GyeraBlaster)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_haven_thrower.png" alt="Haven Grassthrower ★★ icon" loading="lazy" width="auto" height="16px"/> [Haven Grassthrower ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenGrassthrower)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"/> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_gyera_blaster.png" alt="Gyera Blaster icon" loading="lazy" width="auto" height="16px"> [Gyera Blaster](https://ceterai.github.io/MyEnternia/Wiki/GyeraBlaster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_haven_thrower.png" alt="Haven Grassthrower ★★ icon" loading="lazy" width="auto" height="16px"> [Haven Grassthrower ★★](https://ceterai.github.io/MyEnternia/Wiki/HavenGrassthrower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.2s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.png" alt="Omni Thick Seeds icon" loading="lazy" width="auto" height="16px"/> Omni Thick Seeds x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_thick_grass_seeds.png" alt="Thick Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Thick Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/ThickGrassSeeds) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"/> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.2s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_thick_grass_seeds.png" alt="Omni Thick Seeds icon" loading="lazy" width="auto" height="16px"> Omni Thick Seeds x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_thick_grass_seeds.png" alt="Thick Grass Seeds icon" loading="lazy" width="auto" height="16px"> [Thick Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/ThickGrassSeeds) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
 
 Can be bought from merchants:
 

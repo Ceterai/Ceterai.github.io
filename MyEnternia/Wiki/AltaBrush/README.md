@@ -1,6 +1,6 @@
 # Alta Brush
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/brush/icon.png" alt="Alta Brush icon" loading="lazy" width="auto" height="16px"/> **Alta Brush** is a common tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/brush/icon.png" alt="Alta Brush icon" loading="lazy" width="auto" height="16px"> **Alta Brush** is a common tool.
 
 A basic alta brush for uncovering fossils, with limited success.  
 Standard alta multipurpose tool used for cleaning, careful excavation and fossil recovery. While basic, it's effective enough for most casual task but is barely capable of excavation work.

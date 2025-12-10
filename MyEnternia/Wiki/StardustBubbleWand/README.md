@@ -1,6 +1,6 @@
 # Stardust Bubble Wand
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/stardust/icon.png" alt="Stardust Bubble Wand icon" loading="lazy" width="auto" height="16px"/> **Stardust Bubble Wand** is a common toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/stardust/icon.png" alt="Stardust Bubble Wand icon" loading="lazy" width="auto" height="16px"> **Stardust Bubble Wand** is a common toy.
 
 Wee! Bubbles!
 Charge: 20 blows.

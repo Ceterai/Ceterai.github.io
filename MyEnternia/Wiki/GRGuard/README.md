@@ -1,21 +1,21 @@
 # GR Guard ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="GR Guard ★ icon" loading="lazy" width="auto" height="16px"/> **GR Guard ★** is a legendary chest armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="GR Guard ★ icon" loading="lazy" width="auto" height="16px"> **GR Guard ★** is a legendary chest armor piece.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)-infused piece of armor made from bionix. Label on the inner side reads "From Kora ❤".  
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)-infused piece of armor made from bionix. Label on the inner side reads "From Kora ❤".  
 This gift is part of Kora's relics, that she worn or used as the first security guard.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" width="auto" height="16px"/> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" width="auto" height="16px"> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor).
 
 ## Parameters
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"/> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +150.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +40.0
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +30.0
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +30.0
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"> [Autorepeller](https://ceterai.github.io/MyEnternia/Wiki/Autorepeller)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +150.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +40.0
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +30.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +30.0
 
 ## Usage
 

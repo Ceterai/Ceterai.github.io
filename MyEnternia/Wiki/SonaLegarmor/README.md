@@ -1,6 +1,6 @@
 # Sona Legarmor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/legwear/icon.png" alt="Sona Legarmor ★ icon" loading="lazy" width="auto" height="16px"/> **Sona Legarmor ★** is a rare leg armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/legwear/icon.png" alt="Sona Legarmor ★ icon" loading="lazy" width="auto" height="16px"> **Sona Legarmor ★** is a rare leg armor piece.
 
 Warm, armored uniform bottoms usually used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) and [arknightss](https://ceterai.github.io/MyEnternia/Wiki/arknightss).  
 Mobility with a reasonable level of defense creates a great balance useful during rapid combat.
@@ -15,11 +15,11 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" width="auto" height="16px"/> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +50.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +15.0
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +10.0
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +12.5
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" width="auto" height="16px"> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +50.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +15.0
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +10.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +12.5
 
 ## Usage
 

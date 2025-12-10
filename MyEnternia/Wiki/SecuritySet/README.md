@@ -1,6 +1,6 @@
 # Security Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"/> **Security Set** is an uncommon loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"> **Security Set** is an uncommon loot item.
 
 Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
@@ -22,29 +22,29 @@ Radiomessages on pickup:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" width="auto" height="16px"/> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" width="auto" height="16px"> [EDS Set](https://ceterai.github.io/MyEnternia/Wiki/EDSSet)
 
 ## Loot
 
 When used:
 
 - for threat level **1+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="Security Helmet icon" loading="lazy" width="auto" height="16px"/> [Security Helmet](https://ceterai.github.io/MyEnternia/Wiki/SecurityHelmet) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" width="auto" height="16px"/> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="Security Greaves icon" loading="lazy" width="auto" height="16px"/> [Security Greaves](https://ceterai.github.io/MyEnternia/Wiki/SecurityGreaves) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" width="auto" height="16px"/> [Life Support Pack](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportPack) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Security Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Security Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-SecuritySet) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="Security Helmet icon" loading="lazy" width="auto" height="16px"> [Security Helmet](https://ceterai.github.io/MyEnternia/Wiki/SecurityHelmet) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" width="auto" height="16px"> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="Security Greaves icon" loading="lazy" width="auto" height="16px"> [Security Greaves](https://ceterai.github.io/MyEnternia/Wiki/SecurityGreaves) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" width="auto" height="16px"> [Life Support Pack](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportPack) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Security Set icon" loading="lazy" width="auto" height="16px"> [Tech Docs: Security Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-SecuritySet) x*1* (always present)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4.5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"/> Security Set x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*8*
-  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"/> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*16*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Security Protocol Datamass icon" loading="lazy" width="auto" height="16px"/> [Security Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/SecurityProtocolDatamass) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"/> [Silk](https://starbounder.org/Silk) x*4*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4.5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"> Security Set x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*8*
+  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*16*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Security Protocol Datamass icon" loading="lazy" width="auto" height="16px"> [Security Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/SecurityProtocolDatamass) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk) x*4*
 
 Can be bought from merchants:
 

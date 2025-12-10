@@ -1,6 +1,6 @@
 # Minidrone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"/> **Minidrone** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"> **Minidrone** is a common throwable item.
 
 Small armored [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) drone. Usually nests inside larger drones.  
 These compact flying robots are not that much smaller than a rebular alta drone, but enough to be able to fit in much smaller spaces.
@@ -26,7 +26,7 @@ Having no energy accelerators or discharges allows this machine to be much small
 
 ### Basic Drone
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics).
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics).
 Deals physical damage on touch.  
 Basic drones and droids usually don't have any kind of energy shields or armor regeneration, and cannot see targets through liquids.
 

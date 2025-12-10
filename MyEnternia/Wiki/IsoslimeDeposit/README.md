@@ -1,6 +1,6 @@
 # Isoslime Deposit
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime3/icon.png" alt="Isoslime Deposit icon" loading="lazy" width="auto" height="16px"/> **Isoslime Deposit** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime3/icon.png" alt="Isoslime Deposit icon" loading="lazy" width="auto" height="16px"> **Isoslime Deposit** is a common breakable object.
 
 A glob of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
 

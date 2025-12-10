@@ -1,14 +1,14 @@
 # EDS Energy Shield
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" width="auto" height="16px"/> **EDS Energy Shield** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="EDS Energy Shield icon" loading="lazy" width="auto" height="16px"> **EDS Energy Shield** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
 An energy shield that will expire once broken or overtime.  
-This variation of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" width="auto" height="16px"/> [static shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield) was produced using mical crystals, giving it a dark crimson tint.  
+This variation of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" width="auto" height="16px"> [static shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield) was produced using mical crystals, giving it a dark crimson tint.  
 Alta: A static shield that looks like it came from [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) technology.
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_eds_shielder.png" alt="EDS Shielder ★ icon" loading="lazy" width="auto" height="16px"/> [EDS Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/EDSShielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_eds_shielder.png" alt="EDS Shielder ★ icon" loading="lazy" width="auto" height="16px"> [EDS Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/EDSShielder)
 
 ## Parameters
 

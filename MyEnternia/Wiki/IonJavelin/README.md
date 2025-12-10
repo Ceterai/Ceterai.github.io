@@ -1,6 +1,6 @@
 # Ion Javelin ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" width="auto" height="16px"/> **Ion Javelin ★** is a legendary electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" width="auto" height="16px"> **Ion Javelin ★** is a legendary electric throwable item.
 
 An improved and reinforced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) javelin full of freed alternia and enternia energy. Commonly used by [dreamers](https://ceterai.github.io/MyEnternia/Wiki/Dreamer) for hunting.
 
@@ -8,12 +8,12 @@ An improved and reinforced <img src="https://raw.githubusercontent.com/Ceterai/E
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" width="auto" height="16px"/> Ion Javelin ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png" alt="Hevika Javelin icon" loading="lazy" width="auto" height="16px"/> [Hevika Javelin](https://ceterai.github.io/MyEnternia/Wiki/HevikaJavelin) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*1*
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon2.png) [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" width="auto" height="16px"/> Ion Javelin ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png" alt="Hevika Javelin icon" loading="lazy" width="auto" height="16px"/> [Hevika Javelin](https://ceterai.github.io/MyEnternia/Wiki/HevikaJavelin) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*28*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" width="auto" height="16px"> Ion Javelin ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png" alt="Hevika Javelin icon" loading="lazy" width="auto" height="16px"> [Hevika Javelin](https://ceterai.github.io/MyEnternia/Wiki/HevikaJavelin) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*1*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon2.png) [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" width="auto" height="16px"> Ion Javelin ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_javelin.png" alt="Hevika Javelin icon" loading="lazy" width="auto" height="16px"> [Hevika Javelin](https://ceterai.github.io/MyEnternia/Wiki/HevikaJavelin) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*28*
 
 Can be bought from merchants:
 

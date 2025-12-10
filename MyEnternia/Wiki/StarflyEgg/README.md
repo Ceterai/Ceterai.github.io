@@ -1,8 +1,8 @@
 # Starfly Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_starfly_egg.png" alt="Starfly Egg icon" loading="lazy" width="auto" height="16px"/> **Starfly Egg** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/bugs/ct_starfly_egg.png" alt="Starfly Egg icon" loading="lazy" width="auto" height="16px"> **Starfly Egg** is a legendary throwable item.
 
-Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/starfly/icon.png" alt="Starfly icon" loading="lazy" width="auto" height="16px"/> [starfly](https://ceterai.github.io/MyEnternia/Wiki/Starfly), a big beautiful butterfly made from stardust.  
+Can be used to spawn a bug called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/starfly/icon.png" alt="Starfly icon" loading="lazy" width="auto" height="16px"> [starfly](https://ceterai.github.io/MyEnternia/Wiki/Starfly), a big beautiful butterfly made from stardust.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame
@@ -24,7 +24,7 @@ This will turn them into a collectable item valued by many collectionists, one o
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/starfly/icon.png" alt="Starfly icon" loading="lazy" width="auto" height="16px"/> [Starfly](https://ceterai.github.io/MyEnternia/Wiki/Starfly)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/starfly/icon.png" alt="Starfly icon" loading="lazy" width="auto" height="16px"> [Starfly](https://ceterai.github.io/MyEnternia/Wiki/Starfly)
 
 ## Sources
 

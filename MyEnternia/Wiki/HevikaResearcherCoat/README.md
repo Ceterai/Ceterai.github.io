@@ -1,6 +1,6 @@
 # Hevika Researcher Coat
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Hevika Researcher Coat icon" loading="lazy" width="auto" height="16px"/> **Hevika Researcher Coat** is a rare chest cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Hevika Researcher Coat icon" loading="lazy" width="auto" height="16px"> **Hevika Researcher Coat** is a rare chest cosmetic item.
 
 An official Hevika Ordis researcher's coat. Practical and well thought-out.  
 Just like other pieces of alta laboratory attire, this one provides full body coverage with optional gloves to complete the set.

@@ -1,6 +1,6 @@
 # Boko Plushie
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_boko_plush.png" alt="Boko Plushie icon" loading="lazy" width="auto" height="16px"/> **Boko Plushie** is a common toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_boko_plush.png" alt="Boko Plushie icon" loading="lazy" width="auto" height="16px"> **Boko Plushie** is a common toy.
 
 A small plushie of an easily-irritated critter found in alterash gardens.  
 Bokos are known for their grumpy demeanor and tendency to charge at anything that moves. This plushie is a safe way to enjoy their charm.

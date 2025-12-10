@@ -1,6 +1,6 @@
 # Wild Vionora Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Wild Vionora Seed icon" loading="lazy" width="auto" height="16px"/> **Wild Vionora Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Wild Vionora Seed icon" loading="lazy" width="auto" height="16px"> **Wild Vionora Seed** is a common plantable item.
 
 A small colorful wooden sprout that is constantly growing.
 
@@ -23,15 +23,15 @@ Growing stages:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - `rainbowwood` x*2* (weight: 0.49)
    - `rainbowwood` x*1* (weight: 0.4)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"/> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed) x*1* (weight: 0.01)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed) x*1* (weight: 0.01)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"/> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed) x*1* (weight: 1.0)
 
 ## Sources
 

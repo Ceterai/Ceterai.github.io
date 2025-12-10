@@ -1,6 +1,6 @@
 # Gheatsyn Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Gheatsyn Drone icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Drone** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Gheatsyn Drone icon" loading="lazy" width="auto" height="16px"> **Gheatsyn Drone** is a rare throwable item.
 
 An armored drone with an alarm system that attracts protective units.  
 Its main purpose is observation duty, for which it has an enhanced visor that acts as a projector.

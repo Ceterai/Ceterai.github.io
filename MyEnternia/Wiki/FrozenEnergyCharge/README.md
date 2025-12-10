@@ -1,6 +1,6 @@
 # Frozen Energy Charge
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy1/icon.png" alt="Frozen Energy Charge icon" loading="lazy" width="auto" height="16px"/> **Frozen Energy Charge** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy1/icon.png" alt="Frozen Energy Charge icon" loading="lazy" width="auto" height="16px"> **Frozen Energy Charge** is a common breakable object.
 
 This ball of lightning got frozen. How is that even possible?
 
@@ -30,34 +30,34 @@ This object **doesn't drop itself** when broken.
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/b/b4/Smooth_Ice.png" alt="Smooth Ice icon" loading="lazy" width="12px" height="12px"/> [Smooth Ice](https://starbounder.org/Smooth_Ice) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" width="8px" height="16px"/> [Cryonic Extract](https://starbounder.org/Cryonic_Extract) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/b/b4/Smooth_Ice.png" alt="Smooth Ice icon" loading="lazy" width="12px" height="12px"> [Smooth Ice](https://starbounder.org/Smooth_Ice) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" width="8px" height="16px"> [Cryonic Extract](https://starbounder.org/Cryonic_Extract) x*1* (weight: 1.0)
 
 Drops following **drop option 2** loot:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [Ice](https://starbounder.org/Ice) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/b/b4/Smooth_Ice.png" alt="Smooth Ice icon" loading="lazy" width="12px" height="12px"/> [Smooth Ice](https://starbounder.org/Smooth_Ice) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/b/b4/Smooth_Ice.png" alt="Smooth Ice icon" loading="lazy" width="12px" height="12px"> [Smooth Ice](https://starbounder.org/Smooth_Ice) x*1* (weight: 1.0)
 
 Drops following **drop option 3** loot:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/b/b4/Smooth_Ice.png" alt="Smooth Ice icon" loading="lazy" width="12px" height="12px"/> [Smooth Ice](https://starbounder.org/Smooth_Ice) x*2* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/b/b4/Smooth_Ice.png" alt="Smooth Ice icon" loading="lazy" width="12px" height="12px"> [Smooth Ice](https://starbounder.org/Smooth_Ice) x*2* (weight: 1.0)
 
 Drops following **drop option 4** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"/> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) x*1* (weight: 1.0)
 
 Drops following **drop option 5** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"/> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) x*1* (weight: 1.0)
 
 Drops following **drop option 6** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"/> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) x*1* (weight: 1.0)
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Alta Button
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"/> **Alta Button** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"> **Alta Button** is an uncommon wiring component.
 
 A compact button that activates for 0.4s when pressed. Very tiny.
 
@@ -23,9 +23,9 @@ A compact button that activates for 0.4s when pressed. Very tiny.
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"/> Alta Button x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"/> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*1*
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"> Alta Button x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*1*
 
 Can be bought from merchants:
 

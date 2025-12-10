@@ -1,6 +1,6 @@
 # AirPlus Water
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="AirPlus Water icon" loading="lazy" width="auto" height="16px"/> **AirPlus Water** is a common drink.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/ct_alta_water.png" alt="AirPlus Water icon" loading="lazy" width="auto" height="16px"> **AirPlus Water** is a common drink.
 
 ## Ingame
 

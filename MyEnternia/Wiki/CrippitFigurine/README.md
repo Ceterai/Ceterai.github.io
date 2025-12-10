@@ -1,6 +1,6 @@
 # Crippit Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crippit.png" alt="Crippit Figurine icon" loading="lazy" width="auto" height="16px"/> **Crippit Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crippit.png" alt="Crippit Figurine icon" loading="lazy" width="auto" height="16px"> **Crippit Figurine** is a legendary figurine.
 
 The label reads, "Moonrock crippits tend to be pretty shy in public, most likely due to not being able to find a pretty crystal shell instead."
 

@@ -19,16 +19,16 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel) x*32* (weight: 0.2)
-- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"/> [Prism Shard](https://starbounder.org/Prism_Shard) x*4* (weight: 0.15)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"> [Pixel](https://starbounder.org/Pixel) x*32* (weight: 0.2)
+- <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"> [Prism Shard](https://starbounder.org/Prism_Shard) x*4* (weight: 0.15)
 - `silverbar` x*1* (weight: 0.2)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1* (weight: 0.15)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"/> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" width="auto" height="16px"/> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" width="auto" height="16px"/> [Alta's Recommendation Letter](https://ceterai.github.io/MyEnternia/Wiki/Alta'sRecommendationLetter) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"/> [Alta Cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta History - From A Speck icon" loading="lazy" width="auto" height="16px"/> [Alta History - From A Speck](https://ceterai.github.io/MyEnternia/Wiki/AltaHistory-FromASpeck) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta History - Born With A Purpose icon" loading="lazy" width="auto" height="16px"/> [Alta History - Born With A Purpose](https://ceterai.github.io/MyEnternia/Wiki/AltaHistory-BornWithAPurpose) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1* (weight: 0.15)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" width="auto" height="16px"> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Alta's Recommendation Letter icon" loading="lazy" width="auto" height="16px"> [Alta's Recommendation Letter](https://ceterai.github.io/MyEnternia/Wiki/Alta'sRecommendationLetter) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"> [Alta Cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta History - From A Speck icon" loading="lazy" width="auto" height="16px"> [Alta History - From A Speck](https://ceterai.github.io/MyEnternia/Wiki/AltaHistory-FromASpeck) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta History - Born With A Purpose icon" loading="lazy" width="auto" height="16px"> [Alta History - Born With A Purpose](https://ceterai.github.io/MyEnternia/Wiki/AltaHistory-BornWithAPurpose) x*1* (weight: 0.05)
 
 ## Technical Information
 

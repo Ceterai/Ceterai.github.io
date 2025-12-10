@@ -1,6 +1,6 @@
 # Wild Tonna Tuber
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Wild Tonna Tuber icon" loading="lazy" width="auto" height="16px"/> **Wild Tonna Tuber** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Wild Tonna Tuber icon" loading="lazy" width="auto" height="16px"> **Wild Tonna Tuber** is a common plantable item.
 
 An alta-engineered small plant that grows tonna nuts at a smaller scale.
 
@@ -21,16 +21,16 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"/> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*1* (weight: 0.89)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" width="auto" height="16px"/> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber) x*1* (weight: 0.01)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*1* (weight: 0.89)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" width="auto" height="16px"> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber) x*1* (weight: 0.01)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" width="auto" height="16px"/> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/icon.png" alt="Tonna Tuber icon" loading="lazy" width="auto" height="16px"> [Tonna Tuber](https://ceterai.github.io/MyEnternia/Wiki/TonnaTuber) x*1* (weight: 1.0)
 
 ## Sources
 

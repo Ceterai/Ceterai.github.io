@@ -1,6 +1,6 @@
 # EDS Defensive Droid ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" width="auto" height="16px"/> **EDS Defensive Droid ★★** is a rare electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" width="auto" height="16px"> **EDS Defensive Droid ★★** is a rare electric throwable item.
 
 A protective machine that could take on a tank.  
 Packed with an arsenal of different energy generators and missile launchers, it's unable to fly and thus has to walk on the ground.
@@ -26,7 +26,7 @@ Anything to protect an alta.
 
 ### EDS Drone
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" width="auto" height="16px"/> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder).
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" width="auto" height="16px"> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder).
 Deals physical damage on touch.  
 Its heavy armored structure was designed and manufactured by EDS.
 

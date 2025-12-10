@@ -1,6 +1,6 @@
 # Cocola Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/sapling/icon.png" alt="Cocola Sapling ★ icon" loading="lazy" width="auto" height="16px"/> **Cocola Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/sapling/icon.png" alt="Cocola Sapling ★ icon" loading="lazy" width="auto" height="16px"> **Cocola Sapling ★** is an uncommon plantable item.
 
 A proper sapling that takes less space and has increased and more consistent speed of growth stages. Requires to be at least 50% in a liquid.
 
@@ -21,7 +21,7 @@ Growing stages:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - `liquidmilk` x*2* (weight: 0.49)
    - `liquidmilk` x*1* (weight: 0.5)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" width="auto" height="16px"/> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed) x*1* (weight: 0.01)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" width="auto" height="16px"> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed) x*1* (weight: 0.01)
 
 ## Usage
 
@@ -29,26 +29,26 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/boosted/icon.png" alt="Boosted Cocola Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Cocola Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCocolaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/boosted/icon.png" alt="Boosted Cocola Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Cocola Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedCocolaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" width="auto" height="16px"/> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" width="auto" height="16px"> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/sapling/icon.png" alt="Cocola Sapling ★ icon" loading="lazy" width="auto" height="16px"/> Cocola Sapling ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" width="auto" height="16px"/> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"/> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/sapling/icon.png" alt="Cocola Sapling ★ icon" loading="lazy" width="auto" height="16px"> Cocola Sapling ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" width="auto" height="16px"> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
 
 Can be bought from merchants:
 

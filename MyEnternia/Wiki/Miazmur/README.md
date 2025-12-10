@@ -1,6 +1,6 @@
 # Miazmur
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/miazmur/icon.png" alt="Miazmur icon" loading="lazy" width="auto" height="16px"/> **Miazmur** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/miazmur/icon.png" alt="Miazmur icon" loading="lazy" width="auto" height="16px"> **Miazmur** is an uncommon decorative object.
 
 An attached note reads, "Looking at it through the bottle can cause optical illusions."
 

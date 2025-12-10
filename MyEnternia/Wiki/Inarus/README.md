@@ -1,10 +1,10 @@
 # Inarus ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram_2.png" alt="Inarus ★ icon" loading="lazy" width="auto" height="16px"/> **Inarus ★** is a legendary one-handed electric chakram.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram_2.png" alt="Inarus ★ icon" loading="lazy" width="auto" height="16px"> **Inarus ★** is a legendary one-handed electric chakram.
 
-Fusing this chakram with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) has revealed its true form - one of the lost staris relics, scattered accross io.
+Fusing this chakram with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) has revealed its true form - one of the lost staris relics, scattered accross io.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"/> [Plasma Chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"> [Plasma Chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram).
 
 ## Ingame
 
@@ -21,16 +21,16 @@ Now has more distance and spin time.
 
 Parameters:
 
-- Energy Usage: 16
 - Fire Time: 0.6
+- Type: `ct_inarus`
+- Base Dps: 4
+- Energy Usage: 16
 - Params:
+  - Hover Time: 1.0
+  - Hover Max Distance: 18
+  - Damage Repeat Timeout: 0.2
   - Pickup Distance: 1.0
   - Return On Hit:
-  - Damage Repeat Timeout: 0.2
-  - Hover Max Distance: 18
-  - Hover Time: 1.0
-- Base Dps: 4
-- Type: `ct_inarus`
 
 ## Sources
 

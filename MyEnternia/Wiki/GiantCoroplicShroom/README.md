@@ -1,6 +1,6 @@
 # Giant Coroplic Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_coroplic_mutant_giant.png" alt="Giant Coroplic Shroom icon" loading="lazy" width="auto" height="16px"/> **Giant Coroplic Shroom** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_coroplic_mutant_giant.png" alt="Giant Coroplic Shroom icon" loading="lazy" width="auto" height="16px"> **Giant Coroplic Shroom** is an uncommon tree sapling.
 
 This [corplic shroom](https://ceterai.github.io/MyEnternia/Wiki/corplicshroom) has grown to enormous sizes.
 
@@ -45,22 +45,22 @@ Stem drops:
 - drop option 1
 
   - for threat level **0+**:
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"/> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
 
 - drop option 2
 
   - for threat level **0+**:
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"/> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
 
 - drop option 3
 
   - for threat level **0+**:
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"/> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*1* (weight: 1.0)
 
 - drop option 4
 
   - for threat level **0+**:
-  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 1.0)
+  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 1.0)
 
 Foliage drops:
 
@@ -73,19 +73,19 @@ Foliage drops:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_coroplic_mutant_giant.png" alt="Giant Coroplic Shroom icon" loading="lazy" width="auto" height="16px"/> Giant Coroplic Shroom x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"/> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*8*
-  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [Bio Sample](https://starbounder.org/Bio_Sample) x*8*
-  - <img src="https://starbounder.org/mediawiki/images/3/3d/Venom_Sample.png" alt="Venom Sample icon" loading="lazy" width="12px" height="13px"/> [Venom Sample](https://starbounder.org/Venom_Sample) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_coroplic_mutant_giant.png" alt="Giant Coroplic Shroom icon" loading="lazy" width="auto" height="16px"> Giant Coroplic Shroom x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Toxic_Waste.png" alt="Toxic Waste icon" loading="lazy" width="12px" height="13px"> [Toxic Waste](https://starbounder.org/Toxic_Waste) x*8*
+  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*8*
+  - <img src="https://starbounder.org/mediawiki/images/3/3d/Venom_Sample.png" alt="Venom Sample icon" loading="lazy" width="12px" height="13px"> [Venom Sample](https://starbounder.org/Venom_Sample) x*1*
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" width="12px" height="12px"/> [Toxic Chest](https://starbounder.org/Toxic_Chest)
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" width="12px" height="12px"> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" width="auto" height="16px"> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

@@ -1,6 +1,6 @@
 # Alta Festive Station
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/festive_station/icon.png" alt="Alta Festive Station icon" loading="lazy" width="auto" height="16px"/> **Alta Festive Station** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/festive_station/icon.png" alt="Alta Festive Station icon" loading="lazy" width="auto" height="16px"> **Alta Festive Station** is a legendary crafting station.
 
 A festive crafting station for celebrating alta holidays throughout the planetary and interplanetary calendars.  
 The Alta Festive Station allows crafting of holiday-themed decorations, costumes, and special items for celebrating [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sona'sVeil), [Ava Day](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), and [Alta National Day](https://ceterai.github.io/MyEnternia/Wiki/AltaNationalDay). Each holiday brings its own unique crafts and traditions, from spooky costumes to warm winter decorations to gift-giving items to patriotic displays.

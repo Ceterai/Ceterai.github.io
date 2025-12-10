@@ -1,6 +1,6 @@
 # Alta Dart Board
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/basic/icon.png" alt="Alta Dart Board icon" loading="lazy" width="auto" height="16px"/> **Alta Dart Board** is a common toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/basic/icon.png" alt="Alta Dart Board icon" loading="lazy" width="auto" height="16px"> **Alta Dart Board** is a common toy.
 
 A basic alta board for playing darts.
 

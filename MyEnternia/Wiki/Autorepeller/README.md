@@ -1,14 +1,14 @@
 # Autorepeller
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"/> **Autorepeller** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hit_burst/ct_autorepeller.png" alt="Autorepeller icon" loading="lazy" width="auto" height="16px"> **Autorepeller** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
 Launches an [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) wave around you whenever you're hit.
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="GR Guard ★ icon" loading="lazy" width="auto" height="16px"/> [GR Guard ★](https://ceterai.github.io/MyEnternia/Wiki/GRGuard)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Repelling Stim Pack ★ icon" loading="lazy" width="auto" height="16px"/> [Repelling Stim Pack ★](https://ceterai.github.io/MyEnternia/Wiki/RepellingStimPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" width="auto" height="16px"/> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="GR Guard ★ icon" loading="lazy" width="auto" height="16px"> [GR Guard ★](https://ceterai.github.io/MyEnternia/Wiki/GRGuard)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Repelling Stim Pack ★ icon" loading="lazy" width="auto" height="16px"> [Repelling Stim Pack ★](https://ceterai.github.io/MyEnternia/Wiki/RepellingStimPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="Security Armor icon" loading="lazy" width="auto" height="16px"> [Security Armor](https://ceterai.github.io/MyEnternia/Wiki/SecurityArmor)
 
 ## Parameters
 

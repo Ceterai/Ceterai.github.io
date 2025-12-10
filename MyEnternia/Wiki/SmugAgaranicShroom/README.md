@@ -1,6 +1,6 @@
 # Smug Agaranic Shroom
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic2.png" alt="Smug Agaranic Shroom icon" loading="lazy" width="auto" height="16px"/> **Smug Agaranic Shroom** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic2.png" alt="Smug Agaranic Shroom icon" loading="lazy" width="auto" height="16px"> **Smug Agaranic Shroom** is a common decorative object.
 
 A greenish mushroom.
 
@@ -30,7 +30,7 @@ This object **doesn't drop itself** when broken.
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*1* (weight: 1.0)
 
 ## Sources
 

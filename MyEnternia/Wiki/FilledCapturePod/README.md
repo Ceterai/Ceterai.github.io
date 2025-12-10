@@ -1,6 +1,6 @@
 # Filled Capture Pod
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/capture/filled_pod/icon.png" alt="Filled Capture Pod icon" loading="lazy" width="auto" height="16px"/> **Filled Capture Pod** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/capture/filled_pod/icon.png" alt="Filled Capture Pod icon" loading="lazy" width="auto" height="16px"> **Filled Capture Pod** is a legendary throwable item.
 
 Throw it down to release the creature captured inside!
 

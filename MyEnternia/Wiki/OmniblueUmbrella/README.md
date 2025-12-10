@@ -1,6 +1,6 @@
 # Omniblue Umbrella
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rain/blue_umbrella/icon.png" alt="Omniblue Umbrella icon" loading="lazy" width="auto" height="16px"/> **Omniblue Umbrella** is a common tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rain/blue_umbrella/icon.png" alt="Omniblue Umbrella icon" loading="lazy" width="auto" height="16px"> **Omniblue Umbrella** is a common tool.
 
 Open to gently float while falling. It's bad luck to open inside the house.
 

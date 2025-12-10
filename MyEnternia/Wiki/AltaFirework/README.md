@@ -1,6 +1,6 @@
 # Alta Firework
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/ct_alta_firework.png" alt="Alta Firework icon" loading="lazy" width="auto" height="16px"/> **Alta Firework** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/ct_alta_firework.png" alt="Alta Firework icon" loading="lazy" width="auto" height="16px"> **Alta Firework** is a common throwable item.
 
 Time for a celebration!
 

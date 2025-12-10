@@ -1,6 +1,6 @@
 # Inspired
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/surprised.png:1" alt="Inspired icon" loading="lazy" width="auto" height="16px"/> **Inspired** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/surprised.png:1" alt="Inspired icon" loading="lazy" width="auto" height="16px"> **Inspired** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
 Your mind is filled with ideas and the desire to make them a reality.
 

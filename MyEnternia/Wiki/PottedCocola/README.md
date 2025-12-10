@@ -1,6 +1,6 @@
 # Potted Cocola
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/cocola/icon.png" alt="Potted Cocola icon" loading="lazy" width="auto" height="16px"/> **Potted Cocola** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/cocola/icon.png" alt="Potted Cocola icon" loading="lazy" width="auto" height="16px"> **Potted Cocola** is a rare decorative object.
 
 A seemingly unsuspecting plant in a small pot.
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/cocola/icon.png" alt="Potted Cocola icon" loading="lazy" width="auto" height="16px"/> Potted Cocola x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/b/b6/Moonstone.png" alt="Moonstone icon" loading="lazy" width="10px" height="10px"/> [Moonstone](https://starbounder.org/Moonstone) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/composite/icon.png" alt="Composite Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Composite Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CompositeFlowerPot) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/cocola/icon.png" alt="Potted Cocola icon" loading="lazy" width="auto" height="16px"> Potted Cocola x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/eco/icon.png" alt="Eco Cocola Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Cocola Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoCocolaSapling) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/b/b6/Moonstone.png" alt="Moonstone icon" loading="lazy" width="10px" height="10px"> [Moonstone](https://starbounder.org/Moonstone) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/composite/icon.png" alt="Composite Flower Pot icon" loading="lazy" width="auto" height="16px"> [Composite Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CompositeFlowerPot) x*1*
 
 Can be bought from merchants:
 

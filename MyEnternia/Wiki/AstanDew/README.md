@@ -1,10 +1,10 @@
 # Astan Dew ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" width="auto" height="16px"/> **Astan Dew ★** is a legendary tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" width="auto" height="16px"> **Astan Dew ★** is a legendary tool.
 
 Water your crops with this fashionable watering can.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon.png" alt="Altan Watercan icon" loading="lazy" width="auto" height="16px"/> [Altan Watercan](https://ceterai.github.io/MyEnternia/Wiki/AltanWatercan).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon.png" alt="Altan Watercan icon" loading="lazy" width="auto" height="16px"> [Altan Watercan](https://ceterai.github.io/MyEnternia/Wiki/AltanWatercan).
 
 ## Parameters
 
@@ -16,16 +16,16 @@ An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon.png" alt="Alta Tiller icon" loading="lazy" width="auto" height="16px"/> [Alta Tiller](https://ceterai.github.io/MyEnternia/Wiki/AltaTiller)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon.png" alt="Alta Tiller icon" loading="lazy" width="auto" height="16px"> [Alta Tiller](https://ceterai.github.io/MyEnternia/Wiki/AltaTiller)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" width="auto" height="16px"/> Astan Dew ★ x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"/> [Prism Shard](https://starbounder.org/Prism_Shard) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*2*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" width="auto" height="16px"> Astan Dew ★ x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"> [Prism Shard](https://starbounder.org/Prism_Shard) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*2*
 
 Can be bought from merchants:
 

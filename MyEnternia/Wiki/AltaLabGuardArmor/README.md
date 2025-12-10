@@ -1,6 +1,6 @@
 # Alta Lab Guard Armor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Alta Lab Guard Armor icon" loading="lazy" width="auto" height="16px"/> **Alta Lab Guard Armor** is a rare chest armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Alta Lab Guard Armor icon" loading="lazy" width="auto" height="16px"> **Alta Lab Guard Armor** is a rare chest armor piece.
 
 A piece of equipment worn by [alta lab guards](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard) in most [alta laboratories](https://ceterai.github.io/MyEnternia/Wiki/altalaboratories).  
 Mostly consisting of [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) and suspending materials, it provides a decent amount of protection for a guard.
@@ -15,11 +15,11 @@ Species descriptions:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"/> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +125.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +37.5
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +62.5
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +25.0
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +125.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +37.5
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +62.5
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +25.0
 
 ## Usage
 

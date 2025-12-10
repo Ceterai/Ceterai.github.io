@@ -1,6 +1,6 @@
 # Juviley
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/juviley/icon.png" alt="Juviley icon" loading="lazy" width="auto" height="16px"/> **Juviley** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/juviley/icon.png" alt="Juviley icon" loading="lazy" width="auto" height="16px"> **Juviley** is an uncommon bug.
 
 An attached note reads, "All the colors on juviley's back are meant to act as camouflage to help it be safer in its natural environment."
 
@@ -17,8 +17,8 @@ Species descriptions:
 Can be used to craft:
 
 - `ct_food_mimic`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" width="auto" height="16px"/> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" width="auto" height="16px"/> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" width="auto" height="16px"> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_minto_soup.png" alt="Minto Soup icon" loading="lazy" width="auto" height="16px"> [Minto Soup](https://ceterai.github.io/MyEnternia/Wiki/MintoSoup)
 
 ## Sources
 

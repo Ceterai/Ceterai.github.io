@@ -1,6 +1,6 @@
 # Enviro Android ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/arco.png" alt="Enviro Android ★ icon" loading="lazy" width="auto" height="16px"/> **Enviro Android ★** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/arco.png" alt="Enviro Android ★ icon" loading="lazy" width="auto" height="16px"> **Enviro Android ★** is a rare throwable item.
 
 ## Sources
 

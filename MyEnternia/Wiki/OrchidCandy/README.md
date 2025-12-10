@@ -1,6 +1,6 @@
 # Orchid Candy
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"/> **Orchid Candy** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"> **Orchid Candy** is an uncommon dish.
 
 This candy reminds you of a certain stardust menace... Spooky!  
 A piece of candy made to celebrate the Ceternity event. Eating this candy will give you a temporary jump boost effect. Enjoy!
@@ -15,13 +15,13 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.05s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"/> Orchid Candy x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) x*6*
-  - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"/> [Paper](https://starbounder.org/Paper) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.05s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"> Orchid Candy x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) x*6*
+  - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper) x*1*
 
 Can be bought from merchants:
 

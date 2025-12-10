@@ -1,6 +1,6 @@
 # Azura
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"/> **Azura** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"> **Azura** is an uncommon tree sapling.
 
 An alien tree rarely found anywhere in nature, apart from radioactive planets and scarse alive areas on enterash planets.  
 This tree consists of a special type of wood often used in decorative furniture crafting.
@@ -45,25 +45,25 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"/> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Azura Seed icon" loading="lazy" width="auto" height="16px"/> [Azura Seed](https://ceterai.github.io/MyEnternia/Wiki/AzuraSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Azura Seed icon" loading="lazy" width="auto" height="16px"> [Azura Seed](https://ceterai.github.io/MyEnternia/Wiki/AzuraSeed)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"/> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" width="auto" height="16px"> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"/> Azura x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"> Azura x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/sapling/icon.png" alt="Alta Ship Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Ship Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaShipSapling) x*1*
   - `alienstripedwood` x*24*
-  - <img src="https://starbounder.org/mediawiki/images/c/c8/Living_Root.png" alt="Living Root icon" loading="lazy" width="14px" height="13px"/> [Living Root](https://starbounder.org/Living_Root) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/e/eb/Granite_Rock.png" alt="Granite Rock icon" loading="lazy" width="12px" height="12px"/> [Granite Rock](https://starbounder.org/Granite_Rock) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" width="10px" height="14px"/> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/c/c8/Living_Root.png" alt="Living Root icon" loading="lazy" width="14px" height="13px"> [Living Root](https://starbounder.org/Living_Root) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/e/eb/Granite_Rock.png" alt="Granite Rock icon" loading="lazy" width="12px" height="12px"> [Granite Rock](https://starbounder.org/Granite_Rock) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" width="10px" height="14px"> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer) x*1*
 
 Can be bought from merchants:
 

@@ -1,13 +1,13 @@
 # Happy
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/happy.png:1" alt="Happy icon" loading="lazy" width="auto" height="16px"/> **Happy** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/happy.png:1" alt="Happy icon" loading="lazy" width="auto" height="16px"> **Happy** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
 What is this tingling feeling in your heart?
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"/> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" width="auto" height="16px"/> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" width="auto" height="16px"> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
 
 ## Parameters
 

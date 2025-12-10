@@ -1,12 +1,12 @@
 # GR "Animus" ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR Animus ★ icon" loading="lazy" width="auto" height="16px"/> **GR "Animus" ★** is a legendary head armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR Animus ★ icon" loading="lazy" width="auto" height="16px"> **GR "Animus" ★** is a legendary head armor piece.
 
 A high-tech enternia artifact that hides unknown power. And your face with it.  
-Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [breath protection](https://starbounder.org/Breathing_EPP).  
+Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"> [breath protection](https://starbounder.org/Breathing_EPP).  
 Its energy transceptors fuel your systems with enternia, resulting in a centralized protosystem.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="Security Helmet icon" loading="lazy" width="auto" height="16px"/> [Security Helmet](https://ceterai.github.io/MyEnternia/Wiki/SecurityHelmet).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="Security Helmet icon" loading="lazy" width="auto" height="16px"> [Security Helmet](https://ceterai.github.io/MyEnternia/Wiki/SecurityHelmet).
 
 ## Ingame
 
@@ -22,12 +22,12 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" width="auto" height="16px"/> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
-- <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [Breath Protection](https://starbounder.org/Breathing_EPP)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +90.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +24.0
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +18.0
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +18.0
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" width="auto" height="16px"> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+- <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"> [Breath Protection](https://starbounder.org/Breathing_EPP)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +90.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +24.0
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +18.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +18.0
 
 ## Usage
 

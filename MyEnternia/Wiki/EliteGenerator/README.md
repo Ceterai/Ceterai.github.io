@@ -1,6 +1,6 @@
 # Elite Generator ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"/> **Elite Generator ★** is a legendary enviro protection pack.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"> **Elite Generator ★** is a legendary enviro protection pack.
 
 Generates [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) Imperial Aura, providing the wearer with its benefits. Provides a life support system. Has an augment slot.  
 To provide enough energy to power the entire range with its aura, the generator uses multiple energy cores in its blueprint.
@@ -19,8 +19,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"/> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" width="auto" height="16px"> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Usage
 
@@ -32,14 +32,14 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.75s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"/> Elite Generator ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*8*
-  - <img src="https://starbounder.org/mediawiki/images/a/a0/Refined_Aegisalt.png" alt="Refined Aegisalt icon" loading="lazy" width="13px" height="13px"/> [Refined Aegisalt](https://starbounder.org/Refined_Aegisalt) x*6*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" width="auto" height="16px"/> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder) x*2*
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon2.png) [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"/> Elite Generator ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png" alt="Elite Protector icon" loading="lazy" width="auto" height="16px"/> [Elite Protector](https://ceterai.github.io/MyEnternia/Wiki/EliteProtector) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*960*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.75s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"> Elite Generator ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*8*
+  - <img src="https://starbounder.org/mediawiki/images/a/a0/Refined_Aegisalt.png" alt="Refined Aegisalt icon" loading="lazy" width="13px" height="13px"> [Refined Aegisalt](https://starbounder.org/Refined_Aegisalt) x*6*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" width="auto" height="16px"> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder) x*2*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon2.png) [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"> Elite Generator ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png" alt="Elite Protector icon" loading="lazy" width="auto" height="16px"> [Elite Protector](https://ceterai.github.io/MyEnternia/Wiki/EliteProtector) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*960*
 
 Can be bought from merchants:
 

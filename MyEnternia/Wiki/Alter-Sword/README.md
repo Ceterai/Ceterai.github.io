@@ -1,19 +1,19 @@
 # Alter-Sword ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" width="auto" height="16px"/> **Alter-Sword ★★** is a legendary two-handed electric broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" width="auto" height="16px"> **Alter-Sword ★★** is a legendary two-handed electric broadsword.
 
-The blade of this sword is pure plasma, entirely made out of concentrated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) and enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
+The blade of this sword is pure plasma, entirely made out of concentrated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) and enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
 This modification significantly increases the amount of plasma impact on evergy hit and allows this energy tool to gather alternia from all around it to increase its power.
 
 These rare devices were secretly developed specifically as part of the [project Ceterai](https://ceterai.github.io/MyEnternia/Wiki/projectCeterai) as means of withstanding the consequences of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="icon" width="16" height="16"/> [hevikai incident](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevikai-incident).
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword.png" alt="Plasmasword ★ icon" loading="lazy" width="auto" height="16px"/> [Plasmasword ★](https://ceterai.github.io/MyEnternia/Wiki/Plasmasword).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword.png" alt="Plasmasword ★ icon" loading="lazy" width="auto" height="16px"> [Plasmasword ★](https://ceterai.github.io/MyEnternia/Wiki/Plasmasword).
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: Now this is an energy tool to all energy tools! It cuts through <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [titanium](https://starbounder.org/Titanium_Bar) and weaker metals easily, and I'm not even talking about light stuff like [ayakut](https://ceterai.github.io/MyEnternia/Wiki/ayakut)!
+- Alta: Now this is an energy tool to all energy tools! It cuts through <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) and weaker metals easily, and I'm not even talking about light stuff like [ayakut](https://ceterai.github.io/MyEnternia/Wiki/ayakut)!
 
 Radiomessages on pickup:
 
@@ -23,25 +23,26 @@ Radiomessages on pickup:
 
 ### Plasmic Overlock
 
-Can provide up to 5 (+1) combo hits, with 3rd & 4th applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"/> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), and the last one - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"/> [Overcharged Air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
+Can provide up to 5 (+1) combo hits, with 3rd & 4th applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), and the last one - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"> [Overcharged Air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
 The combo itself is very familiar to any alta soldier as it follows standard [combat protocols](https://ceterai.github.io/MyEnternia/Wiki/combatprotocols).
 
 Parameters:
 
-- Energy Usage: 36
-- Hold Time Max: 0.3
 - Fire Time: 0.9
 - Hold Params:
-  - Charge Border: `b0e0fc88`
-  - Energy Factor: 1.0
-  - Cooldown Time: 0.5
   - Charge Time: 0.7
+  - Cooldown Time: 0.5
+  - Energy Factor: 1.0
+  - Charge Border: `b0e0fc88`
+- Base Dps: 13
 - Damage Config:
   - Base Damage: 22.5
   - Knockback: 40
   - Damage Source Kind: `electricbroadsword`
   - Knockback Mode: `facing`
   - Timeout: 0.5
+- Energy Usage: 36
+- Hold Time Max: 0.3
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor: 0.5
@@ -58,20 +59,19 @@ Parameters:
 - Knockback: 20.0
 - Swoosh: `swoosh3`
 - Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
-- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"/> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), 
+- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), 
 - Damage Factor: 1.3
 - Energy Factor: 0.65
 - Knockback: 25.0
 - Swoosh: `swoosh1`
 - Swoosh Offset:  0.75, ,  4.25,  5.0
-- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"/> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), 
+- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), 
 - Damage Factor: 1.3
 - Energy Factor: 0.35
 - Knockback: 10.0
 - Swoosh: `swoosh1`
 - Swoosh Offset:  0.75, ,  4.25,  5.0
-- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"/> [Overcharged Air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir)
-- Base Dps: 13
+- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"> [Overcharged Air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir)
 
 ### Enhanced Energy Aura
 

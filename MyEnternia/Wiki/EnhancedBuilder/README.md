@@ -1,11 +1,11 @@
 # Enhanced Builder ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/quick_builder/icon_upg.png" alt="Enhanced Builder ★ icon" loading="lazy" width="auto" height="16px"/> **Enhanced Builder ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/quick_builder/icon_upg.png" alt="Enhanced Builder ★ icon" loading="lazy" width="auto" height="16px"> **Enhanced Builder ★** is a legendary two-handed tool.
 
 Intended for sending instects to sleep. Can be used instead of a bug net.
 Charge: 200 blocks.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/quick_builder/icon.png" alt="Alta Quick Builder icon" loading="lazy" width="auto" height="16px"/> [Alta Quick Builder](https://ceterai.github.io/MyEnternia/Wiki/AltaQuickBuilder).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/quick_builder/icon.png" alt="Alta Quick Builder icon" loading="lazy" width="auto" height="16px"> [Alta Quick Builder](https://ceterai.github.io/MyEnternia/Wiki/AltaQuickBuilder).
 
 ## Parameters
 
@@ -15,12 +15,12 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Energy Per Shot: 45
-- Power Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
 - Inaccuracy: 0.01
-- Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"/> [Throwing Block](https://starbounder.org/Throwing_Block)
-- Power Projectile Time:  1.0, 
+- Power Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"> [Throwing Block](https://starbounder.org/Throwing_Block)
 - Cooldown Time: 0.1
+- Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"> [Throwing Block](https://starbounder.org/Throwing_Block)
+- Energy Per Shot: 45
+- Power Projectile Time:  1.0, 
 
 ## Sources
 

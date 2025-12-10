@@ -6,7 +6,7 @@ The tag `halloween` contains 2 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"/> [Halloween Poster](https://ceterai.github.io/MyEnternia/Wiki/HalloweenPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"> [Halloween Poster](https://ceterai.github.io/MyEnternia/Wiki/HalloweenPoster)
 
 ## Tenants
 

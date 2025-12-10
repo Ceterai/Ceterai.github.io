@@ -1,6 +1,6 @@
 # Shieldrone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Shieldrone ★★★** is an uncommon cryogenic throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/shield.png" alt="Shieldrone ★★★ icon" loading="lazy" width="auto" height="16px"> **Shieldrone ★★★** is an uncommon cryogenic throwable item.
 
 This drone model may not put up a fight, but it will definitely put up a shield.  
 Being one of the first drone models with an integrated energy shield, this drone is considered a staple of alta technology.
@@ -19,12 +19,12 @@ Radiomessages on pickup:
 
 ### Chill
 
-Will launch a big cloud of <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice) gas at targets. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+Will launch a big cloud of <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [ice](https://starbounder.org/Ice) gas at targets. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
 Its freezing capabilities don't make it enough to act as a fridge, but definitely enough to give your targets some freezing cool.
 
 ### Shielded Drone
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder).
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder).
 Deals physical damage on touch.  
 While energy shields are common among alta technology, these ones in particular are extra good.
 

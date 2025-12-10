@@ -1,6 +1,6 @@
 # Pretty Alta Plane
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane_pretty.png" alt="Pretty Alta Plane icon" loading="lazy" width="auto" height="16px"/> **Pretty Alta Plane** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane_pretty.png" alt="Pretty Alta Plane icon" loading="lazy" width="auto" height="16px"> **Pretty Alta Plane** is an uncommon throwable item.
 
 A small plane made out of colored ayaka paper. Just don't be too wasteful!
 

@@ -1,6 +1,6 @@
 # Ayaka Stick
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_ayaka_stick.png" alt="Ayaka Stick icon" loading="lazy" width="auto" height="16px"/> **Ayaka Stick** is a common one-handed shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_ayaka_stick.png" alt="Ayaka Stick icon" loading="lazy" width="auto" height="16px"> **Ayaka Stick** is a common one-handed shortsword.
 
 A sturdy resilient one-handed stick made from ayakut and isowire. Used as a cane, hiking staff, or as a simple baton.
 

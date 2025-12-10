@@ -1,8 +1,8 @@
 # Baked Alta Pear
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Alta Pear icon" loading="lazy" width="auto" height="16px"/> **Baked Alta Pear** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Alta Pear icon" loading="lazy" width="auto" height="16px"> **Baked Alta Pear** is a common dish.
 
-Baked insides of a fermented <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"/> [alta pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear), slightly cut into slices for presentation.  
+Baked insides of a fermented <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [alta pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear), slightly cut into slices for presentation.  
 A great way to make a common fruit look exotic is to partially cut inside it, ferment it in sweeteners and cover with a bit of spice.
 
 ## Ingame
@@ -14,7 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Usage
 
@@ -22,15 +22,15 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"/> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Alta Pear icon" loading="lazy" width="auto" height="16px"/> Baked Alta Pear x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Alta Pear icon" loading="lazy" width="auto" height="16px"> Baked Alta Pear x*1*):
   - `alienfruit` x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"/> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
 
 Can be bought from merchants:
 

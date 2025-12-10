@@ -1,6 +1,6 @@
 # Ionic Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" width="auto" height="16px"/> **Ionic Seed** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" width="auto" height="16px"> **Ionic Seed** is a rare plantable item.
 
 A plant with a big purple fruit at the top. Requires to be at least 50% in a liquid.
 
@@ -23,10 +23,10 @@ Growing stages:
 3. Lasts from 1670 to 1730 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*3* (weight: 0.49)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*2* (weight: 0.4)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" width="auto" height="16px"/> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed) x*1* (weight: 0.01)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"/> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*3* (weight: 0.49)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*2* (weight: 0.4)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" width="auto" height="16px"> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed) x*1* (weight: 0.01)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
 ## Usage
 
@@ -34,45 +34,45 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" width="auto" height="16px"/> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" width="auto" height="16px"> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" width="auto" height="16px"> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Ela Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoElaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" width="auto" height="16px"/> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/eco/icon.png" alt="Eco Ela Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Ela Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoElaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" width="auto" height="16px"> [Ion Core Monitoring](https://ceterai.github.io/MyEnternia/Wiki/IonCoreMonitoring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" width="auto" height="16px"/> Ionic Seed x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" width="auto" height="16px"/> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"/> [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"/> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" width="7px" height="15px"/> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" width="auto" height="16px"> Ionic Seed x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/eva/icon.png" alt="Evara Seed icon" loading="lazy" width="auto" height="16px"> [Evara Seed](https://ceterai.github.io/MyEnternia/Wiki/EvaraSeed) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"> [Ceternia Core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" width="7px" height="15px"> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Wild Ionic Seed icon" loading="lazy" width="auto" height="16px"/> [Wild Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIonicSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Wild Ionic Seed icon" loading="lazy" width="auto" height="16px"> [Wild Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIonicSeed)
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" width="auto" height="16px"/> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" width="auto" height="16px"/> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Wild Ionic Seed icon" loading="lazy" width="auto" height="16px"/> [Wild Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIonicSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/boosted/icon.png" alt="Boosted Ionic Sapling icon" loading="lazy" width="auto" height="16px"> [Boosted Ionic Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/eco/icon.png" alt="Eco Ionic Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Eco Ionic Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoIonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/pod/icon.png" alt="Ionic Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Ionic Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/IonicEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Ionic Seed icon" loading="lazy" width="auto" height="16px"> [Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/IonicSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/icon.png" alt="Wild Ionic Seed icon" loading="lazy" width="auto" height="16px"> [Wild Ionic Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIonicSeed)
 
 </details>
 

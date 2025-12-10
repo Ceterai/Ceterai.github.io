@@ -1,6 +1,6 @@
 # Astral Narfin Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_astral_narfin.png" alt="Astral Narfin Figurine ★ icon" loading="lazy" width="auto" height="16px"/> **Astral Narfin Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_astral_narfin.png" alt="Astral Narfin Figurine ★ icon" loading="lazy" width="auto" height="16px"> **Astral Narfin Figurine ★** is a legendary figurine.
 
 The label reads, "These colourful smooth-skinned creatures like to hide among stardust crystals. Their horns, in turn, are made from pure, astral stardust."
 

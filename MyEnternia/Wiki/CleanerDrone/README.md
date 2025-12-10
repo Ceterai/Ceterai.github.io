@@ -1,6 +1,6 @@
 # Cleaner Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Cleaner Drone icon" loading="lazy" width="auto" height="16px"/> **Cleaner Drone** is an uncommon electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Cleaner Drone icon" loading="lazy" width="auto" height="16px"> **Cleaner Drone** is an uncommon electric throwable item.
 
 An observer drone equipped with suppression tools.  
 These security helpers can usually be found assisting a security team or patrolling relatively smal areas.

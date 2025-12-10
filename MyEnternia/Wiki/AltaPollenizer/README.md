@@ -1,10 +1,10 @@
 # Alta Pollenizer ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon.png" alt="Alta Pollenizer ★ icon" loading="lazy" width="auto" height="16px"/> **Alta Pollenizer ★** is a rare two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon.png" alt="Alta Pollenizer ★ icon" loading="lazy" width="auto" height="16px"> **Alta Pollenizer ★** is a rare two-handed tool.
 
 An advanced rechargeable pump intended for sending instects to sleep. Can be used instead of a bug net.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon_upg.png" alt="Pollenizer M7 ★★ icon" loading="lazy" width="auto" height="16px"/> [Pollenizer M7 ★★](https://ceterai.github.io/MyEnternia/Wiki/PollenizerM7) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon_upg.png" alt="Pollenizer M7 ★★ icon" loading="lazy" width="auto" height="16px"> [Pollenizer M7 ★★](https://ceterai.github.io/MyEnternia/Wiki/PollenizerM7) at the Weapon Upgrade Anvil.
 
 ## Parameters
 

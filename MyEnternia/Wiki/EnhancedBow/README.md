@@ -1,10 +1,10 @@
 # Enhanced Bow ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon_upg.png" alt="Enhanced Bow ★ icon" loading="lazy" width="auto" height="16px"/> **Enhanced Bow ★** is a legendary two-handed bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon_upg.png" alt="Enhanced Bow ★ icon" loading="lazy" width="auto" height="16px"> **Enhanced Bow ★** is a legendary two-handed bow.
 
 A sports tool that increases your chances of getting a trophy when defeating an opponent!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon.png" alt="Composite Bow icon" loading="lazy" width="auto" height="16px"/> [Composite Bow](https://ceterai.github.io/MyEnternia/Wiki/CompositeBow).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon.png" alt="Composite Bow icon" loading="lazy" width="auto" height="16px"> [Composite Bow](https://ceterai.github.io/MyEnternia/Wiki/CompositeBow).
 
 ## Ingame
 

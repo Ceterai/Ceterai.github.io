@@ -1,6 +1,6 @@
 # Yaara Keeper's Helmet ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Helmet ★ icon" loading="lazy" width="auto" height="16px"/> **Yaara Keeper's Helmet ★** is an uncommon head armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Helmet ★ icon" loading="lazy" width="auto" height="16px"> **Yaara Keeper's Helmet ★** is an uncommon head armor piece.
 
 A plant-based piece of armor fused with very sturdy materials, decorated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) leaves, petals and crystals.  
 Mainly used by [yaara keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper) hunters and protectors, it's looks are meant to defend, scare and disguise.
@@ -22,7 +22,7 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" width="auto" height="16px"/> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" width="auto" height="16px"> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be bought from merchants:
 
@@ -30,7 +30,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" width="auto" height="16px"> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).
 

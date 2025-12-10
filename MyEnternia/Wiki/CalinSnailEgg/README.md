@@ -1,8 +1,8 @@
 # Calin Snail Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_calin_snail_egg.png" alt="Calin Snail Egg icon" loading="lazy" width="auto" height="16px"/> **Calin Snail Egg** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_calin_snail_egg.png" alt="Calin Snail Egg icon" loading="lazy" width="auto" height="16px"> **Calin Snail Egg** is an uncommon throwable item.
 
-Can be used to spawn a snail called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/calin_snail/icon.png" alt="Calin Snail icon" loading="lazy" width="auto" height="16px"/> [calin snail](https://ceterai.github.io/MyEnternia/Wiki/CalinSnail).  
+Can be used to spawn a snail called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/calin_snail/icon.png" alt="Calin Snail icon" loading="lazy" width="auto" height="16px"> [calin snail](https://ceterai.github.io/MyEnternia/Wiki/CalinSnail).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame
@@ -29,7 +29,7 @@ This will turn them into a collectable item valued by many collectionists, one o
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/calin_snail/icon.png" alt="Calin Snail icon" loading="lazy" width="auto" height="16px"/> [Calin Snail](https://ceterai.github.io/MyEnternia/Wiki/CalinSnail)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/calin_snail/icon.png" alt="Calin Snail icon" loading="lazy" width="auto" height="16px"> [Calin Snail](https://ceterai.github.io/MyEnternia/Wiki/CalinSnail)
 
 ## Sources
 

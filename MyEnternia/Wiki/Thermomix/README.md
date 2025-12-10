@@ -1,6 +1,6 @@
 # Thermomix
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermomix icon" loading="lazy" width="auto" height="16px"/> **Thermomix** is an uncommon fiery throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermomix icon" loading="lazy" width="auto" height="16px"> **Thermomix** is an uncommon fiery throwable item.
 
 A highly flammable substance made with volatile powder contained in a blast device.  
 This nade is classified as harmful by the blast equipment alta CEN, and yet it's made specifically to not be immediately lethal to altas. There are limits to everything, obviously.
@@ -17,18 +17,18 @@ Species descriptions:
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_bishyn_nade.png" alt="Bishyn Nade icon" loading="lazy" width="auto" height="16px"/> [Bishyn Nade](https://ceterai.github.io/MyEnternia/Wiki/BishynNade)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_phosphonade.png" alt="Phosphonade icon" loading="lazy" width="auto" height="16px"/> [Phosphonade](https://ceterai.github.io/MyEnternia/Wiki/Phosphonade)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" width="auto" height="16px"/> [Vortex Nade ★](https://ceterai.github.io/MyEnternia/Wiki/VortexNade)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_bishyn_nade.png" alt="Bishyn Nade icon" loading="lazy" width="auto" height="16px"> [Bishyn Nade](https://ceterai.github.io/MyEnternia/Wiki/BishynNade)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_phosphonade.png" alt="Phosphonade icon" loading="lazy" width="auto" height="16px"> [Phosphonade](https://ceterai.github.io/MyEnternia/Wiki/Phosphonade)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" width="auto" height="16px"> [Vortex Nade ★](https://ceterai.github.io/MyEnternia/Wiki/VortexNade)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermomix icon" loading="lazy" width="auto" height="16px"/> Thermomix x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/b/b4/Volatile_Powder.png" alt="Volatile Powder icon" loading="lazy" width="15px" height="12px"/> [Volatile Powder](https://starbounder.org/Volatile_Powder) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermomix icon" loading="lazy" width="auto" height="16px"> Thermomix x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/b/b4/Volatile_Powder.png" alt="Volatile Powder icon" loading="lazy" width="15px" height="12px"> [Volatile Powder](https://starbounder.org/Volatile_Powder) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*1*
 
 Can be bought from merchants:
 

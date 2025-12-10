@@ -1,6 +1,6 @@
 # Crystal Poptop Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_crystal_poptop.png" alt="Crystal Poptop Figurine ★ icon" loading="lazy" width="auto" height="16px"/> **Crystal Poptop Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_crystal_poptop.png" alt="Crystal Poptop Figurine ★ icon" loading="lazy" width="auto" height="16px"> **Crystal Poptop Figurine ★** is a legendary figurine.
 
 The label reads, "Crystal poptops are adult poptops that have formed fully crystallized powerful claws, able to strike with significant force."
 

@@ -1,6 +1,6 @@
 # Archi Ice Cream
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Archi Ice Cream icon" loading="lazy" width="auto" height="16px"/> **Archi Ice Cream** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Archi Ice Cream icon" loading="lazy" width="auto" height="16px"> **Archi Ice Cream** is an uncommon dish.
 
 This icy creamy dessert is sparkling with sourness! Can you lick it without flinching?  
 Almost like a lemon ice cream, this dessert can be decieving in its presentation.
@@ -14,21 +14,21 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 20
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 Applies effects:
 
-- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="Swim Boost icon" loading="lazy" width="16px" height="16px"/> [Swim Boost (Cola)](https://starbounder.org/Swim_Boost) (120s)
+- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="Swim Boost icon" loading="lazy" width="16px" height="16px"> [Swim Boost (Cola)](https://starbounder.org/Swim_Boost) (120s)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Archi Ice Cream icon" loading="lazy" width="auto" height="16px"/> Archi Ice Cream x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Archi Ice Cream icon" loading="lazy" width="auto" height="16px"> Archi Ice Cream x*1*):
   - `boneboo` x*1*
   - `pussplum` x*1*
   - `snowball` x*1*
-  - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"/> [Milk](https://starbounder.org/Milk) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*1*
 
 Can be bought from merchants:
 

@@ -1,6 +1,6 @@
 # Potted Yaara Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" width="auto" height="16px"/> **Potted Yaara Flower** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" width="auto" height="16px"> **Potted Yaara Flower** is an uncommon decorative object.
 
 A seemingly unsuspecting flower in a tall pot.
 
@@ -14,15 +14,15 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" width="auto" height="16px"/> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="About Yaara Keepers icon" loading="lazy" width="auto" height="16px"> [About Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" width="auto" height="16px"/> Potted Yaara Flower x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"/> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" width="auto" height="16px"> Potted Yaara Flower x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
   - `plantmatter` x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/calin/icon.png" alt="Crystal Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Crystal Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CrystalFlowerPot) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/calin/icon.png" alt="Crystal Flower Pot icon" loading="lazy" width="auto" height="16px"> [Crystal Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/CrystalFlowerPot) x*1*
 
 Can be bought from merchants:
 

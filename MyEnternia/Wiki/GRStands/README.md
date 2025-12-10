@@ -1,11 +1,11 @@
 # GR Stands ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="GR Stands ★ icon" loading="lazy" width="auto" height="16px"/> **GR Stands ★** is a legendary leg armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="GR Stands ★ icon" loading="lazy" width="auto" height="16px"> **GR Stands ★** is a legendary leg armor piece.
 
-These protective greaves with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) layers once belonged to Kora. They're yours now. Enjoy!  
+These protective greaves with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) layers once belonged to Kora. They're yours now. Enjoy!  
 They're part of the Kora's gift to inexperienced alta security guards as means of care and support!
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="Security Greaves icon" loading="lazy" width="auto" height="16px"/> [Security Greaves](https://ceterai.github.io/MyEnternia/Wiki/SecurityGreaves).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="Security Greaves icon" loading="lazy" width="auto" height="16px"> [Security Greaves](https://ceterai.github.io/MyEnternia/Wiki/SecurityGreaves).
 
 ## Ingame
 
@@ -17,13 +17,13 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" width="auto" height="16px"/> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_velocity_jump.png" alt="Velocity Jump icon" loading="lazy" width="auto" height="16px"> [Velocity Jump](https://ceterai.github.io/MyEnternia/Wiki/VelocityJump)
 - `fallDamageMultiplier` +0%
 - `knockbackThreshold` +3.0
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +60.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +16.0
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +12.0
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +12.0
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +60.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +16.0
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +12.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +12.0
 
 ## Usage
 

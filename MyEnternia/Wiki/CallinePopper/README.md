@@ -1,6 +1,6 @@
 # Calline Popper
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_calline_popper.png" alt="Calline Popper icon" loading="lazy" width="auto" height="16px"/> **Calline Popper** is an uncommon toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_calline_popper.png" alt="Calline Popper icon" loading="lazy" width="auto" height="16px"> **Calline Popper** is an uncommon toy.
 
 ## Sources
 

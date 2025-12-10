@@ -1,6 +1,6 @@
 # Ionic Drizzle
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_ionic_drizzle.png" alt="Ionic Drizzle icon" loading="lazy" width="auto" height="16px"/> **Ionic Drizzle** is a special [weather condition](https://ceterai.github.io/MyEnternia/Wiki/Weather).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_ionic_drizzle.png" alt="Ionic Drizzle icon" loading="lazy" width="auto" height="16px"> **Ionic Drizzle** is a special [weather condition](https://ceterai.github.io/MyEnternia/Wiki/Weather).
 
 Just a little drizzle with a little zap to it. Mostly harmless.  
 Can still make you wet, so take that into account. This type of wheather is pretty common and can do more good than harm by watering crops.  

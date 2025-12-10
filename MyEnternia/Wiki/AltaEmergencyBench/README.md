@@ -1,6 +1,6 @@
 # Alta Emergency Bench
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bench/icon1.png" alt="Alta Emergency Bench icon" loading="lazy" width="auto" height="16px"/> **Alta Emergency Bench** is a common crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bench/icon1.png" alt="Alta Emergency Bench icon" loading="lazy" width="auto" height="16px"> **Alta Emergency Bench** is a common crafting station.
 
 Used to craft basic alta armor and upgrade to a beacon.
 

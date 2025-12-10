@@ -1,6 +1,6 @@
 # EDS Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" width="auto" height="16px"/> **EDS Set** is a rare loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" width="auto" height="16px"> **EDS Set** is a rare loot item.
 
 Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
@@ -23,18 +23,18 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 When used:
 
 - for threat level **1+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" width="auto" height="16px"/> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Body Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSBodyArmor) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" width="auto" height="16px"/> [EDS Armored Greaves](https://ceterai.github.io/MyEnternia/Wiki/EDSArmoredGreaves) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: EDS Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: EDS Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-EDSSet) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" width="auto" height="16px"> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" width="auto" height="16px"> [EDS Body Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSBodyArmor) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" width="auto" height="16px"> [EDS Armored Greaves](https://ceterai.github.io/MyEnternia/Wiki/EDSArmoredGreaves) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: EDS Set icon" loading="lazy" width="auto" height="16px"> [Tech Docs: EDS Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-EDSSet) x*1* (always present)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" width="auto" height="16px"/> EDS Set x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"/> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*14*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/eds.png" alt="EDS Set icon" loading="lazy" width="auto" height="16px"> EDS Set x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*14*
 
 Can be bought from merchants:
 

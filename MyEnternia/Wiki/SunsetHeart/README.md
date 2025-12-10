@@ -1,6 +1,6 @@
 # Sunset Heart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Sunset Heart icon" loading="lazy" width="auto" height="16px"/> **Sunset Heart** is an uncommon head armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Sunset Heart icon" loading="lazy" width="auto" height="16px"> **Sunset Heart** is an uncommon head armor piece.
 
 Some fashionable altas like to wear this stylish safety helmet when riding scouting and traveling hoverbikes, and so can you!  
 Designed by... Wait, what? This helment wasn't designed by Perizhad. Wow. Well, thanks to "Viona's Surprize Shop" for such a find!
@@ -19,12 +19,12 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"/> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision)
-- <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"/> [Breath Protection](https://starbounder.org/Breathing_EPP)
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +60.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +21.0
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +12.0
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +24.0
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision)
+- <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"> [Breath Protection](https://starbounder.org/Breathing_EPP)
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +60.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +21.0
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +12.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +24.0
 
 ## Usage
 

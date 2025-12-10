@@ -1,6 +1,6 @@
 # Phospholion Sample ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/phospholion/icon.png" alt="Phospholion Sample ★★ icon" loading="lazy" width="auto" height="16px"/> **Phospholion Sample ★★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/phospholion/icon.png" alt="Phospholion Sample ★★ icon" loading="lazy" width="auto" height="16px"> **Phospholion Sample ★★** is a rare decorative object.
 
 A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) metal, preserved on a small titanium pedestal.
 

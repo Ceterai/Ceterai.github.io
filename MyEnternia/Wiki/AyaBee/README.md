@@ -1,8 +1,8 @@
 # Aya Bee
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" width="auto" height="16px"/> **Aya Bee** is a common bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/aya_bee/icon.png" alt="Aya Bee icon" loading="lazy" width="auto" height="16px"> **Aya Bee** is a common bug.
 
-An attached note reads, "As the name suggests, this pseudo-bee is very fond of ripe <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"/> [ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya) and other pretty fruits."
+An attached note reads, "As the name suggests, this pseudo-bee is very fond of ripe <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya) and other pretty fruits."
 
 ## Ingame
 

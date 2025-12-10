@@ -1,6 +1,6 @@
 # Alta Bubble Wand
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/basic/icon.png" alt="Alta Bubble Wand icon" loading="lazy" width="auto" height="16px"/> **Alta Bubble Wand** is a common toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/basic/icon.png" alt="Alta Bubble Wand icon" loading="lazy" width="auto" height="16px"> **Alta Bubble Wand** is a common toy.
 
 Wee! Bubbles!
 Charge: 20 blows.

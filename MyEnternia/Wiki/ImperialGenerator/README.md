@@ -1,8 +1,8 @@
 # Imperial Generator ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"/> **Imperial Generator ★** is a legendary enviro protection pack.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"> **Imperial Generator ★** is a legendary enviro protection pack.
 
-Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"/> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
+Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
 While similar in characteristics to the original model, this one has alternative markings to signify its belonging.
 
 ## Ingame
@@ -19,8 +19,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"/> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_elite.png" alt="Elite Autoshielder icon" loading="lazy" width="auto" height="16px"> [Elite Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EliteAutoshielder)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support_system.png" alt="Life Support System icon" loading="lazy" width="auto" height="16px"> [Life Support System](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportSystem)
 
 ## Usage
 

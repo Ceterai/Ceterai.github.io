@@ -1,6 +1,6 @@
 # Alta Ship Terminal
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" width="auto" height="16px"/> **Alta Ship Terminal** is a legendary wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" width="auto" height="16px"> **Alta Ship Terminal** is a legendary wiring component.
 
 A reinforced terminal. Seems like it'll keep working under any conditions.
 
@@ -27,10 +27,10 @@ A reinforced terminal. Seems like it'll keep working under any conditions.
 
 Can be crafted:
 
-- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" width="auto" height="16px"/> Alta Ship Terminal x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaTerminal) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_ai_chip.png" alt="Alta Basic A.I. Chip icon" loading="lazy" width="auto" height="16px"/> [Alta Basic A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaBasicA.I.Chip) x*1*
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" width="auto" height="16px"> Alta Ship Terminal x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" width="auto" height="16px"> [Alta Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaTerminal) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_ai_chip.png" alt="Alta Basic A.I. Chip icon" loading="lazy" width="auto" height="16px"> [Alta Basic A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaBasicA.I.Chip) x*1*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

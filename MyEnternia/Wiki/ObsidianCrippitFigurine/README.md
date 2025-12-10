@@ -1,6 +1,6 @@
 # Obsidian Crippit Figurine ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_obsidian_crippit.png" alt="Obsidian Crippit Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> **Obsidian Crippit Figurine ★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_obsidian_crippit.png" alt="Obsidian Crippit Figurine ★★ icon" loading="lazy" width="auto" height="16px"> **Obsidian Crippit Figurine ★★** is a legendary figurine.
 
 The label reads, "The shell of this crippit is made out of actual obsidian - it's a mystery how they are able to carve a space for themselves inside it."
 

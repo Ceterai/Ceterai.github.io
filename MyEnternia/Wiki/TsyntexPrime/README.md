@@ -1,11 +1,11 @@
 # Tsyntex Prime ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" width="auto" height="16px"/> **Tsyntex Prime ★** is a legendary one-handed poisonous pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" width="auto" height="16px"> **Tsyntex Prime ★** is a legendary one-handed poisonous pistol.
 
-A pristine model of original tsyntex blaster with its power enhanced by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
+A pristine model of original tsyntex blaster with its power enhanced by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
 It feels a little heavier than usual, but part of that can be attributed to a different material used for casing and some of the blaster's insides.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"/> [Tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"> [Tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
 
 ## Ingame
 
@@ -21,29 +21,29 @@ Radiomessages on pickup:
 
 ### Ultimate Gheablast
 
-Semiauto [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) bursts on press (+1 blast per burst), or 2x [gheatsyn charges](https://ceterai.github.io/MyEnternia/Wiki/gheatsyncharges) on hold (40% faster charge). The hold damage increases by 0.2% for every <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [gheatsyn shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) in inventory (max 300 or 60%).  
+Semiauto [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) bursts on press (+1 blast per burst), or 2x [gheatsyn charges](https://ceterai.github.io/MyEnternia/Wiki/gheatsyncharges) on hold (40% faster charge). The hold damage increases by 0.2% for every <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [gheatsyn shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) in inventory (max 300 or 60%).  
 Now packing a special accelerator module ran on stardust, it speeds up tsyntex significantly, improving overall performace of this tool.
 
 Parameters:
 
-- Press Params:
-  - Inaccuracy: 0.04
-  - Type: `ct_impulse_small`
-  - Count: 4
-- Press Type: `semi`
-- Energy Usage: 16
-- Hold Time Max: 0.45
 - Fire Time: 0.1
+- Hold Type: `semi`
 - Hold Params:
+  - Count: 2
+  - Type: `ct_gheatsyn_charge`
   - Item Bonus:
-    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
     - Damage Factor: 0.002
     - Max: 300
   - Inaccuracy: 0.01
-  - Type: `ct_gheatsyn_charge`
-  - Count: 2
-- Hold Type: `semi`
 - Base Dps: 4
+- Energy Usage: 16
+- Press Type: `semi`
+- Hold Time Max: 0.45
+- Press Params:
+  - Count: 4
+  - Type: `ct_impulse_small`
+  - Inaccuracy: 0.04
 
 ## Sources
 

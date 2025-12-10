@@ -1,6 +1,6 @@
 # Alta Armory
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/armory/icon.png" alt="Alta Armory icon" loading="lazy" width="auto" height="16px"/> **Alta Armory** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/armory/icon.png" alt="Alta Armory icon" loading="lazy" width="auto" height="16px"> **Alta Armory** is a legendary crafting station.
 
 An alta sewing machine with additional functionality.  
 Can create folded seams and protects the operator from the needle.

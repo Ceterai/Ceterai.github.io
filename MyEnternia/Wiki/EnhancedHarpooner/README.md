@@ -1,10 +1,10 @@
 # Enhanced Harpooner ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon_upg.png" alt="Enhanced Harpooner ★ icon" loading="lazy" width="auto" height="16px"/> **Enhanced Harpooner ★** is a legendary bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon_upg.png" alt="Enhanced Harpooner ★ icon" loading="lazy" width="auto" height="16px"> **Enhanced Harpooner ★** is a legendary bow.
 
 An improved tool for safely gathering glow fibres and cell matter from jellies. Do not use on anything else.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon.png" alt="Composite Hunter icon" loading="lazy" width="auto" height="16px"/> [Composite Hunter](https://ceterai.github.io/MyEnternia/Wiki/CompositeHunter).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon.png" alt="Composite Hunter icon" loading="lazy" width="auto" height="16px"> [Composite Hunter](https://ceterai.github.io/MyEnternia/Wiki/CompositeHunter).
 
 ## Ingame
 

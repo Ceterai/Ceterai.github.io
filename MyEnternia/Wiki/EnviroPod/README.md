@@ -1,6 +1,6 @@
 # Enviro Pod ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arco/pod/icon.png" alt="Enviro Pod ★★ icon" loading="lazy" width="auto" height="16px"/> **Enviro Pod ★★** is a rare storage unit.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arco/pod/icon.png" alt="Enviro Pod ★★ icon" loading="lazy" width="auto" height="16px"> **Enviro Pod ★★** is a rare storage unit.
 
 A high-tech protected pod with additional environmental resistance.  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.
@@ -44,9 +44,9 @@ You can sort items and have them not drop when destroyed with <img src="https://
 
 Can be crafted:
 
-- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arco/pod/icon.png" alt="Enviro Pod ★★ icon" loading="lazy" width="auto" height="16px"/> Enviro Pod ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*1*
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arco/pod/icon.png" alt="Enviro Pod ★★ icon" loading="lazy" width="auto" height="16px"> Enviro Pod ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*1*
 
 Can be bought from merchants:
 

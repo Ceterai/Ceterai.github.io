@@ -1,6 +1,6 @@
 # Zephyr Spark Launcher
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/body.png:default.1" alt="Zephyr Spark Launcher icon" loading="lazy" width="auto" height="16px"/> **Zephyr Spark Launcher** is a legendary two-handed rocket launcher.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/body.png:default.1" alt="Zephyr Spark Launcher icon" loading="lazy" width="auto" height="16px"> **Zephyr Spark Launcher** is a legendary two-handed rocket launcher.
 
 Yes, it shoots fireworks!
 

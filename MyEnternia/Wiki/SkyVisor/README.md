@@ -1,6 +1,6 @@
 # Sky Visor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_visor/icon.png" alt="Sky Visor icon" loading="lazy" width="auto" height="16px"/> **Sky Visor** is an uncommon head cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_visor/icon.png" alt="Sky Visor icon" loading="lazy" width="auto" height="16px"> **Sky Visor** is an uncommon head cosmetic item.
 
 A light version of the original EDS visor.
 
@@ -8,7 +8,7 @@ A light version of the original EDS visor.
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"/> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision)
 
 ## Usage
 

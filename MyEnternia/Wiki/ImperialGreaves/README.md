@@ -1,8 +1,8 @@
 # Imperial Greaves
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Imperial Greaves icon" loading="lazy" width="auto" height="16px"/> **Imperial Greaves** is a legendary leg armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Imperial Greaves icon" loading="lazy" width="auto" height="16px"> **Imperial Greaves** is a legendary leg armor piece.
 
-Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"/> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
+Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
 While similar in characteristics to the original model, this one has alternative markings to signify its belonging.
 
 ## Ingame
@@ -19,13 +19,13 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" width="auto" height="16px"/> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" width="auto" height="16px"> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage)
 - `fallDamageMultiplier` +0%
 - `knockbackThreshold` +3.0
-- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"/> [Attack power](https://starbounder.org/Attack_power) +60.0%
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"/> [Health](https://starbounder.org/Health) +16.0
-- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"/> [Energy](https://starbounder.org/Energy) +30.0
-- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"/> [Defense](https://starbounder.org/Defense) +12.0
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +60.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +16.0
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +30.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +12.0
 
 ## Usage
 

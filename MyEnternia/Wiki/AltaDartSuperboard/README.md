@@ -1,6 +1,6 @@
 # Alta Dart Superboard
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/super/body.png" alt="Alta Dart Superboard icon" loading="lazy" width="auto" height="16px"/> **Alta Dart Superboard** is an uncommon toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/super/body.png" alt="Alta Dart Superboard icon" loading="lazy" width="auto" height="16px"> **Alta Dart Superboard** is an uncommon toy.
 
 A basic alta board for playing darts.
 

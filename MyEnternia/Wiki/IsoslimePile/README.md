@@ -1,6 +1,6 @@
 # Isoslime Pile
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime2/icon.png" alt="Isoslime Pile icon" loading="lazy" width="auto" height="16px"/> **Isoslime Pile** is a common breakable object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime2/icon.png" alt="Isoslime Pile icon" loading="lazy" width="auto" height="16px"> **Isoslime Pile** is a common breakable object.
 
 A glob of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
 

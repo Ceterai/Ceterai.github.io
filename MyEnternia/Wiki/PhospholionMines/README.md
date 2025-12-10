@@ -2,7 +2,7 @@
 
  **Phospholion Mines** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
-These are the caves where [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) and kaiters mine <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion). Be extra careful, because there are explosive <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phosphobulbs/icon.png" alt="Irradiated Phosphobulb icon" loading="lazy" width="auto" height="16px"/> [irradiated phosphobulbs](https://ceterai.github.io/MyEnternia/Wiki/IrradiatedPhosphobulb). Don't accidentally step on them.
+These are the caves where [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) and kaiters mine <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion). Be extra careful, because there are explosive <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phosphobulbs/icon.png" alt="Irradiated Phosphobulb icon" loading="lazy" width="auto" height="16px"> [irradiated phosphobulbs](https://ceterai.github.io/MyEnternia/Wiki/IrradiatedPhosphobulb). Don't accidentally step on them.
 
 ## Technical Information
 

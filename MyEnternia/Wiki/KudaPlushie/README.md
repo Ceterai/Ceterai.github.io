@@ -1,6 +1,6 @@
 # Kuda Plushie
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_kuda_plush.png" alt="Kuda Plushie icon" loading="lazy" width="auto" height="16px"/> **Kuda Plushie** is an uncommon toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_kuda_plush.png" alt="Kuda Plushie icon" loading="lazy" width="auto" height="16px"> **Kuda Plushie** is an uncommon toy.
 
 A shark plushie. Every good girl needs one.  
 Kudas are known for their sleek bodies and sharp teeth, but this plushie version is all about comfort and cuddliness.

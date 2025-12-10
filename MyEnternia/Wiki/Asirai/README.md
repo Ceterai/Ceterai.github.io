@@ -1,11 +1,11 @@
 # Asirai ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/asirai.png" alt="Asirai ★★ icon" loading="lazy" width="auto" height="16px"/> **Asirai ★★** is a rare two-handed electric spear.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/asirai.png" alt="Asirai ★★ icon" loading="lazy" width="auto" height="16px"> **Asirai ★★** is a rare two-handed electric spear.
 
 This belongs to Ceterai. How did you get it?  
 This mysterious weapon-looking item is actually an energy tool, similar to alta protospears. Ceterai uses it to manipulate energy and help herself travel on long distances.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/ammerax.png" alt="Ammerax ★★★ icon" loading="lazy" width="auto" height="16px"/> [Ammerax ★★★](https://ceterai.github.io/MyEnternia/Wiki/Ammerax) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/ammerax.png" alt="Ammerax ★★★ icon" loading="lazy" width="auto" height="16px"> [Ammerax ★★★](https://ceterai.github.io/MyEnternia/Wiki/Ammerax) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -43,7 +43,7 @@ Parameters:
 - Status Effects:  `paralysis`
 - Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
 - Projectile Parameters:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"/> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"/> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
 
 ### Alternia Discharge
 
@@ -55,9 +55,9 @@ Parameters:
 - Power: 4
 - Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
 - Damage Config:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"/> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension)
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension)
 - Projectile Parameters:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"/> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
 
 ## Sources
 

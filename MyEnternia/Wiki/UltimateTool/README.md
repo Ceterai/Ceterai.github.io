@@ -1,11 +1,11 @@
 # Ultimate Tool ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" width="auto" height="16px"/> **Ultimate Tool ★** is a legendary one-handed shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" width="auto" height="16px"> **Ultimate Tool ★** is a legendary one-handed shortsword.
 
-A perfect multi-tool enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Now we're talking!  
+A perfect multi-tool enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Now we're talking!  
 This seemingly already useful thing just got more useful somehow. And still, only a few of altas could find or create such a thing due to it not being able to be manufactured.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" width="auto" height="16px"/> [Multi-Tool](https://ceterai.github.io/MyEnternia/Wiki/Multi-Tool).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" width="auto" height="16px"> [Multi-Tool](https://ceterai.github.io/MyEnternia/Wiki/Multi-Tool).
 
 ## Ingame
 
@@ -26,10 +26,10 @@ This one got enhanced with extra switches and was re-weighted to make each swing
 
 Parameters:
 
-- Block Radius: 2
-- Tool Range: 3.5
 - Fire Time: 0.625
 - Base Dps: 6
+- Block Radius: 2
+- Tool Range: 3.5
 - Tile Damage: 1.8
 
 ## Sources

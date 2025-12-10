@@ -1,6 +1,6 @@
 # Perfect Cooking
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"/> **Perfect Cooking** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"> **Perfect Cooking** is an uncommon codex entry.
 
 A guide on what perfect cooking is and how to achieve it. _Explains the Perfect Cooking mechanic of alta food._  
 This guide explains the art of perfect cooking - that magical moment when a dish transcends its base recipe to become something truly special.
@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"/> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
 
 By Miara, Grand Alta Chef
 
@@ -46,13 +46,13 @@ A perfectly cooked dish will have:
 - Better presentation
 - Sometimes unique coloration
 
-For example, a standard [Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/AltaDinner) might become <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"/> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove) - made with that extra care!
+For example, a standard [Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/AltaDinner) might become <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove) - made with that extra care!
 
 [Special Cases](https://ceterai.github.io/MyEnternia/Wiki/SpecialCases)
 
 Some dishes naturally vary during preparation, separate from perfect cooking:
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" width="auto" height="16px"/> [Nia Cocktails](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail) will polarize into Ceternia, Alternia, or Enternia variants. Perfect cooking creates the rare <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"/> [Staris Cocktail](https://ceterai.github.io/MyEnternia/Wiki/StarisCocktail) instead!
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" width="auto" height="16px"> [Nia Cocktails](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail) will polarize into Ceternia, Alternia, or Enternia variants. Perfect cooking creates the rare <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"> [Staris Cocktail](https://ceterai.github.io/MyEnternia/Wiki/StarisCocktail) instead!
 
 [The Lesser - The Better](https://ceterai.github.io/MyEnternia/Wiki/TheLesser-TheBetter)
 
@@ -78,13 +78,13 @@ Make sure to pour your efforts and love into a single dish, and not try to mass-
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"/> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"/> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

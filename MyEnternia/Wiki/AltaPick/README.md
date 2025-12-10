@@ -1,10 +1,10 @@
 # Alta Pick
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon.png" alt="Alta Pick icon" loading="lazy" width="auto" height="16px"/> **Alta Pick** is a common two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon.png" alt="Alta Pick icon" loading="lazy" width="auto" height="16px"> **Alta Pick** is a common two-handed tool.
 
 This tool won't last long, but I'll be able to dig pretty fast with it.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon_upg.png" alt="Starpick ★ icon" loading="lazy" width="auto" height="16px"/> [Starpick ★](https://ceterai.github.io/MyEnternia/Wiki/Starpick) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon_upg.png" alt="Starpick ★ icon" loading="lazy" width="auto" height="16px"> [Starpick ★](https://ceterai.github.io/MyEnternia/Wiki/Starpick) at the Weapon Upgrade Anvil.
 
 ## Sources
 

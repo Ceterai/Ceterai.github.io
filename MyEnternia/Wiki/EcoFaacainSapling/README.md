@@ -1,6 +1,6 @@
 # Eco Faacain Sapling ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" width="auto" height="16px"/> **Eco Faacain Sapling ★** is an uncommon plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" width="auto" height="16px"> **Eco Faacain Sapling ★** is an uncommon plantable item.
 
 This core fragment sapling was genetically modified to fit into small spaces and consume almost no liquids.
 
@@ -27,25 +27,25 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/boosted/icon.png" alt="Boosted Faacain Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Faacain Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedFaacainSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Diamond Bud icon" loading="lazy" width="auto" height="16px"/> [Diamond Bud](https://ceterai.github.io/MyEnternia/Wiki/DiamondBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/boosted/icon.png" alt="Boosted Faacain Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Faacain Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedFaacainSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/diamond/icon.png" alt="Diamond Bud icon" loading="lazy" width="auto" height="16px"> [Diamond Bud](https://ceterai.github.io/MyEnternia/Wiki/DiamondBud)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/pod/icon.png" alt="Faacain Eco Pod ★ icon" loading="lazy" width="auto" height="16px"/> [Faacain Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaacainEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/pod/icon.png" alt="Faacain Eco Pod ★ icon" loading="lazy" width="auto" height="16px"> [Faacain Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaacainEcoPod)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" width="auto" height="16px"/> [Faacain Sapling](https://ceterai.github.io/MyEnternia/Wiki/FaacainSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" width="auto" height="16px"> [Faacain Sapling](https://ceterai.github.io/MyEnternia/Wiki/FaacainSapling)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" width="auto" height="16px"/> Eco Faacain Sapling ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" width="auto" height="16px"/> [Faacain Sapling](https://ceterai.github.io/MyEnternia/Wiki/FaacainSapling) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" width="auto" height="16px"/> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/eco/icon.png" alt="Eco Faacain Sapling ★ icon" loading="lazy" width="auto" height="16px"> Eco Faacain Sapling ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/sapling/icon.png" alt="Faacain Sapling icon" loading="lazy" width="auto" height="16px"> [Faacain Sapling](https://ceterai.github.io/MyEnternia/Wiki/FaacainSapling) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/core/icon.png" alt="Faacain Bud icon" loading="lazy" width="auto" height="16px"> [Faacain Bud](https://ceterai.github.io/MyEnternia/Wiki/FaacainBud) x*1*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

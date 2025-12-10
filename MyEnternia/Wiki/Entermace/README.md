@@ -1,6 +1,6 @@
 # Entermace
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_entermace.png" alt="Entermace icon" loading="lazy" width="auto" height="16px"/> **Entermace** is a legendary one-handed axe.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_entermace.png" alt="Entermace icon" loading="lazy" width="auto" height="16px"> **Entermace** is a legendary one-handed axe.
 
 **WIP**. A strange weapon covered in rough, dark [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash) soil. Is this a golden shine or mystical glow of the void?..  
 Forged from [enterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime) materials, it might be rare find outside of enterash planets. Still, some alta adventurers in proper gear might find a proper use for this enternia-saturated tool of combat.
@@ -39,7 +39,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

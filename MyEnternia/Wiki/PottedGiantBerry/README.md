@@ -1,6 +1,6 @@
 # Potted Giant Berry
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/berry/icon.png" alt="Potted Giant Berry icon" loading="lazy" width="auto" height="16px"/> **Potted Giant Berry** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/berry/icon.png" alt="Potted Giant Berry icon" loading="lazy" width="auto" height="16px"> **Potted Giant Berry** is a rare decorative object.
 
 A decorative plant in a big altan vase-like pod.
 
@@ -39,15 +39,15 @@ Can be used to craft:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" width="auto" height="16px"/> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" width="auto" height="16px"> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/berry/icon.png" alt="Potted Giant Berry icon" loading="lazy" width="auto" height="16px"/> Potted Giant Berry x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/berry/icon.png" alt="Potted Giant Berry icon" loading="lazy" width="auto" height="16px"> Potted Giant Berry x*1*):
   - `berryhead` x*1*
   - `clay` x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" width="auto" height="16px"> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" width="auto" height="16px"> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod) x*1*
 
 Can be bought from merchants:
 

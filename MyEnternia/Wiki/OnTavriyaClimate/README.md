@@ -1,6 +1,6 @@
 # On Tavriya Climate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"/> **On Tavriya Climate** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"> **On Tavriya Climate** is a rare codex entry.
 
 This datamass describes a report on a rare phenomenon that occurs in [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya) areas on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.  
 The growth mentioned in the report is cryonic algae that forms deep underneath the surface, usually from remains of isoslime residue.
@@ -36,20 +36,20 @@ This might deem "warm tavriya" zones as uniquely valuable because of this curren
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"/> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" width="auto" height="16px"/> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" width="auto" height="16px"> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"/> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"/> On Tavriya Climate x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" width="auto" height="16px"/> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"> On Tavriya Climate x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" width="auto" height="16px"> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite) x*1*
 
 Found naturally in containers:
 
@@ -58,7 +58,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" width="auto" height="16px"> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

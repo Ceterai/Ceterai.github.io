@@ -1,8 +1,8 @@
 # EDS Halterfence
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_fence/icon.png" alt="EDS Halterfence icon" loading="lazy" width="auto" height="16px"/> **EDS Halterfence** is an uncommon electric trap.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_fence/icon.png" alt="EDS Halterfence icon" loading="lazy" width="auto" height="16px"> **EDS Halterfence** is an uncommon electric trap.
 
-A defensive [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. Works as a fence. <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"/> [Electrified](https://starbounder.org/Electrified).  
+A defensive [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. Works as a fence. <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified).  
 These were created to trap small creatures in place, as well as rogue or hostile machinery.
 
 ## Ingame
@@ -30,9 +30,9 @@ This object **doesn't drop itself** when broken.
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon4.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_fence/icon.png" alt="EDS Halterfence icon" loading="lazy" width="auto" height="16px"/> EDS Halterfence x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" width="15px" height="14px"/> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*4*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon4.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_fence/icon.png" alt="EDS Halterfence icon" loading="lazy" width="auto" height="16px"> EDS Halterfence x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" width="15px" height="14px"> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*4*
 
 Can be bought from merchants:
 

@@ -1,6 +1,6 @@
 # Geological Trophy ★★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_geo_trophy.png" alt="Geological Trophy ★★★★ icon" loading="lazy" width="auto" height="16px"/> **Geological Trophy ★★★★** is a legendary decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_geo_trophy.png" alt="Geological Trophy ★★★★ icon" loading="lazy" width="auto" height="16px"> **Geological Trophy ★★★★** is a legendary decorative object.
 
 The plaque reads, "Awarded for a all the effort and patience, and for gathering all My Enternia material samples."
 

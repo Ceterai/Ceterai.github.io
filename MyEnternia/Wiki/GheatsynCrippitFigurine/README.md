@@ -1,6 +1,6 @@
 # Gheatsyn Crippit Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_gheatsyn_crippit.png" alt="Gheatsyn Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"/> **Gheatsyn Crippit Figurine ★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_gheatsyn_crippit.png" alt="Gheatsyn Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"> **Gheatsyn Crippit Figurine ★** is a legendary figurine.
 
 The label reads, "The shell of this crippit changes overtime due to unique gheatsyn abilities."
 

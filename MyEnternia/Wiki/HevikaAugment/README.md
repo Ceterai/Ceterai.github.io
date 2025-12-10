@@ -1,8 +1,8 @@
 # Hevika Augment ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_hevika_augment.png" alt="Hevika Augment ★ icon" loading="lazy" width="auto" height="16px"/> **Hevika Augment ★** is a rare EPP augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_hevika_augment.png" alt="Hevika Augment ★ icon" loading="lazy" width="auto" height="16px"> **Hevika Augment ★** is a rare EPP augment.
 
-An EPP module that gives [Hevikai Status Immunity](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStatusImmunity) and adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"/> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals).
+An EPP module that gives [Hevikai Status Immunity](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStatusImmunity) and adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals).
 
 ## Ingame
 
@@ -14,8 +14,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai_block.png" alt="Hevikai Block icon" loading="lazy" width="auto" height="16px"/> [Hevikai Block](https://ceterai.github.io/MyEnternia/Wiki/HevikaiBlock)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"/> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai_block.png" alt="Hevikai Block icon" loading="lazy" width="auto" height="16px"> [Hevikai Block](https://ceterai.github.io/MyEnternia/Wiki/HevikaiBlock)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals)
 
 ## Usage
 
@@ -37,7 +37,7 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" width="auto" height="16px"/> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" width="auto" height="16px"> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
 Can be bought from merchants:
 
@@ -47,8 +47,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" width="auto" height="16px"> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

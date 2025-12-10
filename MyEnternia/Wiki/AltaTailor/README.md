@@ -1,6 +1,6 @@
 # Alta Tailor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/tailor/icon.png" alt="Alta Tailor icon" loading="lazy" width="auto" height="16px"/> **Alta Tailor** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/tailor/icon.png" alt="Alta Tailor icon" loading="lazy" width="auto" height="16px"> **Alta Tailor** is an uncommon crafting station.
 
 An alta sewing machine with additional functionality.  
 Can create folded seams and protects the operator from the needle.

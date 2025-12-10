@@ -1,8 +1,8 @@
 # Engineer Drone ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" width="auto" height="16px"/> **Engineer Drone ★★★** is a rare fiery throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" width="auto" height="16px"> **Engineer Drone ★★★** is a rare fiery throwable item.
 
-A massive technical drone able to repair anything, even itself. Slightly more resistant to [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"/> [ice](https://starbounder.org/Ice).  
+A massive technical drone able to repair anything, even itself. Slightly more resistant to [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) and <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [ice](https://starbounder.org/Ice).  
 And while repair and construction are this drone's main functions, it can put up quite the fight.
 
 ## Ingame
@@ -19,12 +19,12 @@ Radiomessages on pickup:
 
 ### Drone Spawner
 
-Constantly spawns <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"/> [minidrones](https://ceterai.github.io/MyEnternia/Wiki/Minidrone). Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+Constantly spawns <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"> [minidrones](https://ceterai.github.io/MyEnternia/Wiki/Minidrone). Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
 It's hard to imagine all these tiny drones are being constructed on the fly.
 
 ### Enviro Drone
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"/> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection).
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection).
 Deals physical damage on touch.  
 This drone was developed to operate in unsafe conditions.
 

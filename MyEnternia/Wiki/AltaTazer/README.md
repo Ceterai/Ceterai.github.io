@@ -1,6 +1,6 @@
 # Alta Tazer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/tazer/body.png" alt="Alta Tazer icon" loading="lazy" width="auto" height="16px"/> **Alta Tazer** is a common one-handed electric unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/tazer/body.png" alt="Alta Tazer icon" loading="lazy" width="auto" height="16px"> **Alta Tazer** is a common one-handed electric unique weapon.
 
 An emergency tool used for self defence. LMB stuns enemies in front of you.
 
@@ -26,7 +26,7 @@ Parameters:
 - Press Params:
   - Params:
     - Speed: 5
-    - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+    - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
 - Hold Type: `none`
 
 ## Sources

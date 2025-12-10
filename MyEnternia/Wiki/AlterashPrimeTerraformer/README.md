@@ -1,6 +1,6 @@
 # Alterash Prime Terraformer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/planet/alterash_prime/icon.png" alt="Alterash Prime Terraformer icon" loading="lazy" width="auto" height="16px"/> **Alterash Prime Terraformer** is an essential terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/planet/alterash_prime/icon.png" alt="Alterash Prime Terraformer icon" loading="lazy" width="auto" height="16px"> **Alterash Prime Terraformer** is an essential terraformer.
 
 Transforms a planet's climate into alterash prime. An alta attempt at creating planet-wide terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) is a subtype of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash). It can be found as a satellite near frozen stars. Just like alterash, these planets have a highly ionized atmosphere, which majorly affects the nature of the planet and attracts nearby stardust.

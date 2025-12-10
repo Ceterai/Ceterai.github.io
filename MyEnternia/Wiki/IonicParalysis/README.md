@@ -1,8 +1,8 @@
 # Ionic Paralysis
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_stun.png" alt="Ionic Paralysis icon" loading="lazy" width="auto" height="16px"/> **Ionic Paralysis** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_stun.png" alt="Ionic Paralysis icon" loading="lazy" width="auto" height="16px"> **Ionic Paralysis** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
-Stuns you for 2.75 seconds. Adds [EMI Jam](https://ceterai.github.io/MyEnternia/Wiki/EMIJam) if you don't have <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Immunity](https://starbounder.org/Electric_Resistance).
+Stuns you for 2.75 seconds. Adds [EMI Jam](https://ceterai.github.io/MyEnternia/Wiki/EMIJam) if you don't have <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Immunity](https://starbounder.org/Electric_Resistance).
 
 ## Parameters
 
@@ -14,7 +14,7 @@ Effect parameters:
   - Particles:  `sparks`,  `ember`
   - Lights:  `min`
 - Emi: `True`
-- Mini Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
+- Mini Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
 - Vulnerability: `hevikai`
 
 ## Technical Information

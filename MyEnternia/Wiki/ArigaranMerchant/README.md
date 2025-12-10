@@ -20,7 +20,7 @@ Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
 - `bioshroomtable` x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic5.png" alt="Short Agaranic Shroom icon" loading="lazy" width="auto" height="16px"/> [Short Agaranic Shroom](https://ceterai.github.io/MyEnternia/Wiki/ShortAgaranicShroom) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic5.png" alt="Short Agaranic Shroom icon" loading="lazy" width="auto" height="16px"> [Short Agaranic Shroom](https://ceterai.github.io/MyEnternia/Wiki/ShortAgaranicShroom) x*1* (weight: 0.05)
 
 ## Technical Information
 

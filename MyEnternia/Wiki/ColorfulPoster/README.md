@@ -1,6 +1,6 @@
 # Colorful Poster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" width="auto" height="16px"/> **Colorful Poster** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" width="auto" height="16px"> **Colorful Poster** is an uncommon codex entry.
 
 A poster written in pink and purple colors, with lots of drawings on each page. Signed by a "Magician Girl".  
 The poster mentions an _Alta Viona Corfal_ - a correctional facility, or a daycare hospital, for altas severely affected by viona anomalies. Here, they get treatment, care, entertainment and support, to help them deal with the disease.
@@ -37,23 +37,23 @@ P.S. If you do come, I'll let you pet my fluffy tail, hehe ^^ (I got it because 
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" width="auto" height="16px"/> [Colorful Poster](https://ceterai.github.io/MyEnternia/Wiki/ColorfulPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" width="auto" height="16px"> [Colorful Poster](https://ceterai.github.io/MyEnternia/Wiki/ColorfulPoster)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" width="auto" height="16px"/> [Colorful Poster](https://ceterai.github.io/MyEnternia/Wiki/ColorfulPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" width="auto" height="16px"> [Colorful Poster](https://ceterai.github.io/MyEnternia/Wiki/ColorfulPoster)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" width="auto" height="16px"/> Colorful Poster x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="Welcome to Alterash! icon" loading="lazy" width="auto" height="16px"/> [Welcome to Alterash!](https://ceterai.github.io/MyEnternia/Wiki/WelcometoAlterash!) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Enchanted Datamass icon" loading="lazy" width="auto" height="16px"/> [Enchanted Datamass](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" width="auto" height="16px"> Colorful Poster x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="Welcome to Alterash! icon" loading="lazy" width="auto" height="16px"> [Welcome to Alterash!](https://ceterai.github.io/MyEnternia/Wiki/WelcometoAlterash!) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Enchanted Datamass icon" loading="lazy" width="auto" height="16px"> [Enchanted Datamass](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) x*1*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" width="auto" height="16px"/> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" width="auto" height="16px"> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 15 items)</summary>
 
@@ -77,7 +77,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" width="auto" height="16px"> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

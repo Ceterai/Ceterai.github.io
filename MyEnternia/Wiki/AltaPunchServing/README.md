@@ -1,6 +1,6 @@
 # Alta Punch Serving
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" width="auto" height="16px"/> **Alta Punch Serving** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/punch/icon.png" alt="Alta Punch Serving icon" loading="lazy" width="auto" height="16px"> **Alta Punch Serving** is a rare decorative object.
 
 A simple serving of an alta punch. Can be picked up right away to take a closer look.
 
@@ -24,20 +24,20 @@ A simple serving of an alta punch. Can be picked up right away to take a closer 
 Drops following **break** loot:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 1.0)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" width="auto" height="16px"/> [Aya Punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" width="auto" height="16px"/> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" width="auto" height="16px"/> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"/> [Bluesweet Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/BluesweetPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Extra Heecho Punch ★★ icon" loading="lazy" width="auto" height="16px"/> [Extra Heecho Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/ExtraHeechoPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch Deluxe icon" loading="lazy" width="auto" height="16px"/> [Natal Punch Deluxe](https://ceterai.github.io/MyEnternia/Wiki/NatalPunchDeluxe) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Bubble Gum Punch ★ icon" loading="lazy" width="auto" height="16px"/> [Bubble Gum Punch ★](https://ceterai.github.io/MyEnternia/Wiki/BubbleGumPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Exotic Punch icon" loading="lazy" width="auto" height="16px"/> [Exotic Punch](https://ceterai.github.io/MyEnternia/Wiki/ExoticPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"/> [Ayabaycalin Punch ★](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Gillimon Punch icon" loading="lazy" width="auto" height="16px"/> [Gillimon Punch](https://ceterai.github.io/MyEnternia/Wiki/GillimonPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Prism Punch icon" loading="lazy" width="auto" height="16px"/> [Prism Punch](https://ceterai.github.io/MyEnternia/Wiki/PrismPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cuvia Punch icon" loading="lazy" width="auto" height="16px"/> [Cuvia Punch](https://ceterai.github.io/MyEnternia/Wiki/CuviaPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Ciranga Punch icon" loading="lazy" width="auto" height="16px"/> [Ciranga Punch](https://ceterai.github.io/MyEnternia/Wiki/CirangaPunch) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Multifruit Punch icon" loading="lazy" width="auto" height="16px"/> [Multifruit Punch](https://ceterai.github.io/MyEnternia/Wiki/MultifruitPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" width="auto" height="16px"> [Aya Punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" width="auto" height="16px"> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" width="auto" height="16px"> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Bluesweet Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/BluesweetPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Extra Heecho Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Extra Heecho Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/ExtraHeechoPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch Deluxe icon" loading="lazy" width="auto" height="16px"> [Natal Punch Deluxe](https://ceterai.github.io/MyEnternia/Wiki/NatalPunchDeluxe) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Bubble Gum Punch ★ icon" loading="lazy" width="auto" height="16px"> [Bubble Gum Punch ★](https://ceterai.github.io/MyEnternia/Wiki/BubbleGumPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Exotic Punch icon" loading="lazy" width="auto" height="16px"> [Exotic Punch](https://ceterai.github.io/MyEnternia/Wiki/ExoticPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"> [Ayabaycalin Punch ★](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Gillimon Punch icon" loading="lazy" width="auto" height="16px"> [Gillimon Punch](https://ceterai.github.io/MyEnternia/Wiki/GillimonPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Prism Punch icon" loading="lazy" width="auto" height="16px"> [Prism Punch](https://ceterai.github.io/MyEnternia/Wiki/PrismPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cuvia Punch icon" loading="lazy" width="auto" height="16px"> [Cuvia Punch](https://ceterai.github.io/MyEnternia/Wiki/CuviaPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Ciranga Punch icon" loading="lazy" width="auto" height="16px"> [Ciranga Punch](https://ceterai.github.io/MyEnternia/Wiki/CirangaPunch) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Multifruit Punch icon" loading="lazy" width="auto" height="16px"> [Multifruit Punch](https://ceterai.github.io/MyEnternia/Wiki/MultifruitPunch) x*1* (weight: 0.08)
 
 ## Sources
 

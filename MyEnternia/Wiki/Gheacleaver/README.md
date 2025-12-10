@@ -1,11 +1,11 @@
 # Gheacleaver ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade_2.png" alt="Gheacleaver ★ icon" loading="lazy" width="auto" height="16px"/> **Gheacleaver ★** is a legendary one-handed axe.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade_2.png" alt="Gheacleaver ★ icon" loading="lazy" width="auto" height="16px"> **Gheacleaver ★** is a legendary one-handed axe.
 
 The blade of this axe is made from layered <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn). There are electronic compensators on the handle made from the same crystals.  
-These compensators, or gheafluxers, are meant to engage the energy from cimilar crystals nearby, creating a barely visible resonation, that ultimately accelerates <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"/> [tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
+These compensators, or gheafluxers, are meant to engage the energy from cimilar crystals nearby, creating a barely visible resonation, that ultimately accelerates <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"> [tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png" alt="Gheablade icon" loading="lazy" width="auto" height="16px"/> [Gheablade](https://ceterai.github.io/MyEnternia/Wiki/Gheablade).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png" alt="Gheablade icon" loading="lazy" width="auto" height="16px"> [Gheablade](https://ceterai.github.io/MyEnternia/Wiki/Gheablade).
 
 ## Ingame
 
@@ -32,7 +32,7 @@ Parameters:
 - Damage Config:
   - Knockback: 25
   - Item Bonus:
-    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"/> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
     - Damage Factor: 0.005
     - Max: 120
 

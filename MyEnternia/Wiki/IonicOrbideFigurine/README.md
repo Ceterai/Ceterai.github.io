@@ -1,6 +1,6 @@
 # Ionic Orbide Figurine ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/orbide/ct_ionic_orbide.png" alt="Ionic Orbide Figurine ★★ icon" loading="lazy" width="auto" height="16px"/> **Ionic Orbide Figurine ★★** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/orbide/ct_ionic_orbide.png" alt="Ionic Orbide Figurine ★★ icon" loading="lazy" width="auto" height="16px"> **Ionic Orbide Figurine ★★** is a legendary figurine.
 
 The label reads, "Silent in its nature, the only sounds you will hear from a slowly approaching ionic orbide is the electric crackling around it."
 

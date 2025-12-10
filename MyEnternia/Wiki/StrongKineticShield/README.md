@@ -1,6 +1,6 @@
 # Strong Kinetic Shield ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png" alt="Strong Kinetic Shield ★ icon" loading="lazy" width="auto" height="16px"/> **Strong Kinetic Shield ★** is a rare electric shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png" alt="Strong Kinetic Shield ★ icon" loading="lazy" width="auto" height="16px"> **Strong Kinetic Shield ★** is a rare electric shield.
 
 This directional energy shield multiplies the impact and returns it to your enemies, launching them into the air.  
 It's powered by and projected from a special tiny wrist device that connects to your armor.

@@ -1,6 +1,6 @@
 # Asirai's Potential
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_asirai_potential/asirai_potential.png" alt="Asirai's Potential icon" loading="lazy" width="auto" height="16px"/> **Asirai's Potential** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_asirai_potential/asirai_potential.png" alt="Asirai's Potential icon" loading="lazy" width="auto" height="16px"> **Asirai's Potential** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
 Damages nearby enemies with electricity and gives you 20% electric resistance.
 

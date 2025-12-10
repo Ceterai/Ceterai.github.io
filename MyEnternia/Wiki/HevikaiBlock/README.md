@@ -1,12 +1,12 @@
 # Hevikai Block
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai_block.png" alt="Hevikai Block icon" loading="lazy" width="auto" height="16px"/> **Hevikai Block** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai_block.png" alt="Hevikai Block icon" loading="lazy" width="auto" height="16px"> **Hevikai Block** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
-Prevents or cures existing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"/> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai).
+Prevents or cures existing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai).
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png" alt="Hevikai Antidote ★★ icon" loading="lazy" width="auto" height="16px"/> [Hevikai Antidote ★★](https://ceterai.github.io/MyEnternia/Wiki/HevikaiAntidote)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png" alt="Hevikai Antidote ★★ icon" loading="lazy" width="auto" height="16px"> [Hevikai Antidote ★★](https://ceterai.github.io/MyEnternia/Wiki/HevikaiAntidote)
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Alta Vent
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/vent/icon.png" alt="Alta Vent icon" loading="lazy" width="auto" height="16px"/> **Alta Vent** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/vent/icon.png" alt="Alta Vent icon" loading="lazy" width="auto" height="16px"> **Alta Vent** is an uncommon wiring component.
 
 This multi-use vent can also be used to drain liquids!  
 Do tue the variety of its uses, you can often find it in all sorts of places, even on the ground.
@@ -24,11 +24,11 @@ Do tue the variety of its uses, you can often find it in all sorts of places, ev
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/vent/icon.png" alt="Alta Vent icon" loading="lazy" width="auto" height="16px"/> Alta Vent x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"/> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"/> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*1*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/vent/icon.png" alt="Alta Vent icon" loading="lazy" width="auto" height="16px"> Alta Vent x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*1*
 
 Can be bought from merchants:
 

@@ -1,6 +1,6 @@
 # Boosted Neonmelon Sapl. ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/boosted/icon.png" alt="Boosted Neonmelon Sapl. ★★ icon" loading="lazy" width="auto" height="16px"/> **Boosted Neonmelon Sapl. ★★** is a rare plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/boosted/icon.png" alt="Boosted Neonmelon Sapl. ★★ icon" loading="lazy" width="auto" height="16px"> **Boosted Neonmelon Sapl. ★★** is a rare plantable item.
 
 This sapling comes with enhanced mutations that allow much faster ripening.
 
@@ -26,19 +26,19 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/pod/icon.png" alt="Neonmelon Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [Neonmelon Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/pod/icon.png" alt="Neonmelon Eco Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Neonmelon Eco Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/NeonmelonEcoPod)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/eco/icon.png" alt="Eco Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoNeonmelonSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/eco/icon.png" alt="Eco Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoNeonmelonSapling)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/boosted/icon.png" alt="Boosted Neonmelon Sapl. ★★ icon" loading="lazy" width="auto" height="16px"/> Boosted Neonmelon Sapl. ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/cultivated/icon.png" alt="Cultivated Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"/> [Cultivated Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedNeonmelonSapling) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" width="auto" height="16px"/> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/boosted/icon.png" alt="Boosted Neonmelon Sapl. ★★ icon" loading="lazy" width="auto" height="16px"> Boosted Neonmelon Sapl. ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/cultivated/icon.png" alt="Cultivated Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"> [Cultivated Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/CultivatedNeonmelonSapling) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" width="auto" height="16px"> [Boostilizer](https://ceterai.github.io/MyEnternia/Wiki/Boostilizer) x*1*
   - `neonmelonseed` x*2*
   - `liquidhealing` x*2*
 

@@ -22,8 +22,8 @@ Can periodically provide following items as rent:
 - `ricepudding` x*1* (weight: 0.2)
 - `bonbons` x*1* (weight: 0.2)
 - `beakseedtart` x*1* (weight: 0.2)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"/> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*1* (weight: 0.2)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" width="auto" height="16px"/> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings) x*1* (weight: 0.2)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*1* (weight: 0.2)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" width="auto" height="16px"> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings) x*1* (weight: 0.2)
 
 ## Technical Information
 

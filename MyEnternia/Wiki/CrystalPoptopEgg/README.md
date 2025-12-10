@@ -1,6 +1,6 @@
 # Crystal Poptop Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crystal_poptop_egg.png" alt="Crystal Poptop Egg icon" loading="lazy" width="auto" height="16px"/> **Crystal Poptop Egg** is an uncommon one-handed throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_crystal_poptop_egg.png" alt="Crystal Poptop Egg icon" loading="lazy" width="auto" height="16px"> **Crystal Poptop Egg** is an uncommon one-handed throwable item.
 
 Can be used to spawn a creature called [crystal poptop](https://ceterai.github.io/MyEnternia/Wiki/crystalpoptop).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

@@ -1,6 +1,6 @@
 # Klee
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee/icon.png" alt="Klee icon" loading="lazy" width="auto" height="16px"/> **Klee** is a common bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/klee/icon.png" alt="Klee icon" loading="lazy" width="auto" height="16px"> **Klee** is a common bug.
 
 An attached note reads, "These tiny friends like to enjoy a sunny day on an alterash field."
 

@@ -1,6 +1,6 @@
 # Wild Ember Bud
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Wild Ember Bud icon" loading="lazy" width="auto" height="16px"/> **Wild Ember Bud** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Wild Ember Bud icon" loading="lazy" width="auto" height="16px"> **Wild Ember Bud** is a common plantable item.
 
 A warm coral bud that is slowly, but actively growing.
 
@@ -22,15 +22,15 @@ Growing stages:
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
    - `coralfragment` x*1* (weight: 0.89)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" width="auto" height="16px"/> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud) x*1* (weight: 0.01)
-   - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" width="16px" height="16px"/> [Water](https://starbounder.org/Water) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" width="auto" height="16px"> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud) x*1* (weight: 0.01)
+   - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" width="16px" height="16px"> [Water](https://starbounder.org/Water) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" width="auto" height="16px"/> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/coral/icon.png" alt="Ember Bud icon" loading="lazy" width="auto" height="16px"> [Ember Bud](https://ceterai.github.io/MyEnternia/Wiki/EmberBud) x*1* (weight: 1.0)
 
 ## Sources
 

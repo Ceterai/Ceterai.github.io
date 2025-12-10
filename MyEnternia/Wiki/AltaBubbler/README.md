@@ -1,6 +1,6 @@
 # Alta Bubbler
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/blaster/icon.png" alt="Alta Bubbler icon" loading="lazy" width="auto" height="16px"/> **Alta Bubbler** is a common toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/blaster/icon.png" alt="Alta Bubbler icon" loading="lazy" width="auto" height="16px"> **Alta Bubbler** is a common toy.
 
 A bubble blaster! It shoots bubbles! Wheeeee!
 

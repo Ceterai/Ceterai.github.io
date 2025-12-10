@@ -1,6 +1,6 @@
 # Warped Spider
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"/> **Warped Spider** is an uncommon bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"> **Warped Spider** is an uncommon bug.
 
 An attached note reads, "It creeps and crawls among the darker corners of warped forests."
 

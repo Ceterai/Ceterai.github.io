@@ -1,6 +1,6 @@
 # Alta Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" width="auto" height="16px"/> **Alta Figurine** is an uncommon figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" width="auto" height="16px"> **Alta Figurine** is an uncommon figurine.
 
 The label reads, "Caring, loving, considering and reasonable - this alta is a true example to all her sisters!"
 

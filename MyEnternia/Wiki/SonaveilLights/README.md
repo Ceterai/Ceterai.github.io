@@ -1,6 +1,6 @@
 # Sonaveil Lights
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"/> **Sonaveil Lights** is an uncommon light source.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"> **Sonaveil Lights** is an uncommon light source.
 
 Twinkling string lights in warm holiday colors, perfect for decorating during [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sona'sVeil).  
 These twinkling string lights are a staple of Sonaveil decorations, hung throughout alta homes and cities during the cold solstice season.
@@ -24,20 +24,20 @@ These twinkling string lights are a staple of Sonaveil decorations, hung through
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.55s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"/> Sonaveil Lights x*4*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"/> [Alta LED](https://ceterai.github.io/MyEnternia/Wiki/AltaLED) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"/> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.55s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"> Sonaveil Lights x*4*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"> [Alta LED](https://ceterai.github.io/MyEnternia/Wiki/AltaLED) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4*
   - `yellowdye` x*1*
-  - <img src="https://starbounder.org/mediawiki/images/c/c1/Red_Dye.png" alt="Red Dye icon" loading="lazy" width="8px" height="12px"/> [Red Dye](https://starbounder.org/Red_Dye) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/c/c1/Red_Dye.png" alt="Red Dye icon" loading="lazy" width="8px" height="12px"> [Red Dye](https://starbounder.org/Red_Dye) x*1*
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"/> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

@@ -1,6 +1,6 @@
 # Elite Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" width="auto" height="16px"/> **Elite Set** is a legendary loot item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" width="auto" height="16px"> **Elite Set** is a legendary loot item.
 
 Contains full equipment set of an elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) soldier, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
@@ -21,21 +21,21 @@ Radiomessages on pickup:
 When used:
 
 - for threat level **1+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Elite Ceter-Helm icon" loading="lazy" width="auto" height="16px"/> [Elite Ceter-Helm](https://ceterai.github.io/MyEnternia/Wiki/EliteCeter-Helm) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Elite Guard Armor icon" loading="lazy" width="auto" height="16px"/> [Elite Guard Armor](https://ceterai.github.io/MyEnternia/Wiki/EliteGuardArmor) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Elite Energy Greaves icon" loading="lazy" width="auto" height="16px"/> [Elite Energy Greaves](https://ceterai.github.io/MyEnternia/Wiki/EliteEnergyGreaves) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png" alt="Elite Protector icon" loading="lazy" width="auto" height="16px"/> [Elite Protector](https://ceterai.github.io/MyEnternia/Wiki/EliteProtector) x*1* (always present)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Elite Set icon" loading="lazy" width="auto" height="16px"/> [Tech Docs: Elite Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-EliteSet) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Elite Ceter-Helm icon" loading="lazy" width="auto" height="16px"> [Elite Ceter-Helm](https://ceterai.github.io/MyEnternia/Wiki/EliteCeter-Helm) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Elite Guard Armor icon" loading="lazy" width="auto" height="16px"> [Elite Guard Armor](https://ceterai.github.io/MyEnternia/Wiki/EliteGuardArmor) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Elite Energy Greaves icon" loading="lazy" width="auto" height="16px"> [Elite Energy Greaves](https://ceterai.github.io/MyEnternia/Wiki/EliteEnergyGreaves) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png" alt="Elite Protector icon" loading="lazy" width="auto" height="16px"> [Elite Protector](https://ceterai.github.io/MyEnternia/Wiki/EliteProtector) x*1* (always present)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Elite Set icon" loading="lazy" width="auto" height="16px"> [Tech Docs: Elite Set](https://ceterai.github.io/MyEnternia/Wiki/TechDocs-EliteSet) x*1* (always present)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" width="auto" height="16px"/> Elite Set x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"/> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*5*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*20*
-  - <img src="https://starbounder.org/mediawiki/images/a/a0/Refined_Aegisalt.png" alt="Refined Aegisalt icon" loading="lazy" width="13px" height="13px"/> [Refined Aegisalt](https://starbounder.org/Refined_Aegisalt) x*26*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" width="auto" height="16px"/> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder) x*1*
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/elite.png" alt="Elite Set icon" loading="lazy" width="auto" height="16px"> Elite Set x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere) x*5*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*20*
+  - <img src="https://starbounder.org/mediawiki/images/a/a0/Refined_Aegisalt.png" alt="Refined Aegisalt icon" loading="lazy" width="13px" height="13px"> [Refined Aegisalt](https://starbounder.org/Refined_Aegisalt) x*26*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/impulse.png" alt="Elite Protection Order icon" loading="lazy" width="auto" height="16px"> [Elite Protection Order](https://ceterai.github.io/MyEnternia/Wiki/EliteProtectionOrder) x*1*
 
 Can be bought from merchants:
 

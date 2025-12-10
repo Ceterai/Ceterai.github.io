@@ -1,6 +1,6 @@
 # Alta Charger
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_charger.png" alt="Alta Charger icon" loading="lazy" width="auto" height="16px"/> **Alta Charger** is a common one-handed electric unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_charger.png" alt="Alta Charger icon" loading="lazy" width="auto" height="16px"> **Alta Charger** is a common one-handed electric unique weapon.
 
 A basic charger integral to any energy tool. Can collect and discharge energy, and can deliver a mild shock.
 
@@ -26,7 +26,7 @@ Parameters:
 - Press Params:
   - Params:
     - Speed: 5
-    - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+    - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
 - Hold Time Min: 0.9
 - Hold Time Max:
 

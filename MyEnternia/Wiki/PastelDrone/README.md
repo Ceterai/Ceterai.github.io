@@ -1,6 +1,6 @@
 # Pastel Drone ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Pastel Drone ★ icon" loading="lazy" width="auto" height="16px"/> **Pastel Drone ★** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Pastel Drone ★ icon" loading="lazy" width="auto" height="16px"> **Pastel Drone ★** is an uncommon throwable item.
 
 An observer drone, used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) scouts to scan the area.  
 While it doesn't possess any actual combative power, it's still very useful and will do anything to defend its ally.

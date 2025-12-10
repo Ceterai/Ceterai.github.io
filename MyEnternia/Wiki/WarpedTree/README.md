@@ -1,6 +1,6 @@
 # Warped Tree ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_warped_tree.png" alt="Warped Tree ★ icon" loading="lazy" width="auto" height="16px"/> **Warped Tree ★** is an uncommon tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_warped_tree.png" alt="Warped Tree ★ icon" loading="lazy" width="auto" height="16px"> **Warped Tree ★** is an uncommon tree sapling.
 
 A piece of powerful warped growth rich on glow fibre, able to reach significant sizes.  
 In nature, it's unknown whether this tree was ever "un-warped" or grew after areal contamination. In lab environments, altas usually use pre-warped growth in their experiments, rather than relying on contaminating existing plants.
@@ -45,7 +45,7 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" width="auto" height="16px"/> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/warped/icon.png" alt="Potted Warped Bush icon" loading="lazy" width="auto" height="16px"> [Potted Warped Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedWarpedBush)
 
 ## Loot
 
@@ -54,7 +54,7 @@ Stem drops:
 - drop option 1
 
   - for threat level **0+**:
-  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" width="15px" height="14px"/> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*1* (weight: 1.0)
+  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" width="15px" height="14px"> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*1* (weight: 1.0)
 
 Foliage drops:
 
@@ -67,16 +67,16 @@ Foliage drops:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" width="auto" height="16px"/> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" width="auto" height="16px"> [Warped Containment](https://ceterai.github.io/MyEnternia/Wiki/WarpedContainment)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_warped_tree.png" alt="Warped Tree ★ icon" loading="lazy" width="auto" height="16px"/> Warped Tree ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" width="15px" height="14px"/> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*8*
-  - <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"/> [Moonrock](https://starbounder.org/Moonrock) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" width="10px" height="14px"/> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_warped_tree.png" alt="Warped Tree ★ icon" loading="lazy" width="auto" height="16px"> Warped Tree ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" width="15px" height="14px"> [Glow Fibre](https://starbounder.org/Glow_Fibre) x*8*
+  - <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"> [Moonrock](https://starbounder.org/Moonrock) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" alt="Liquid Erchius Fuel icon" loading="lazy" width="10px" height="14px"> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer) x*1*
 
 Can be bought from merchants:
 

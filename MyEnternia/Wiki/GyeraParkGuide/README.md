@@ -1,6 +1,6 @@
 # Gyera Park Guide
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"/> **Gyera Park Guide** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"> **Gyera Park Guide** is an uncommon codex entry.
 
 A small ebook going over sights and contents of a park.  
 It provides information about a random gyera park - a nature preservation site for iora species.
@@ -32,33 +32,33 @@ Here, you can also find rare flowers called [Versalia](https://ceterai.github.io
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"/> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/gyera/icon.png" alt="Gyera Sprinkler icon" loading="lazy" width="auto" height="16px"/> [Gyera Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/GyeraSprinkler)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" width="auto" height="16px"/> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_gyera_fertilizer.png" alt="Gyera Fertilizer icon" loading="lazy" width="auto" height="16px"> [Gyera Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/GyeraFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/gyera/icon.png" alt="Gyera Sprinkler icon" loading="lazy" width="auto" height="16px"> [Gyera Sprinkler](https://ceterai.github.io/MyEnternia/Wiki/GyeraSprinkler)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon.png" alt="Gyera Watering Can icon" loading="lazy" width="auto" height="16px"> [Gyera Watering Can](https://ceterai.github.io/MyEnternia/Wiki/GyeraWateringCan)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" width="auto" height="16px"/> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" width="auto" height="16px"> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"/> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"> [Gyera Park Guide](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"/> Gyera Park Guide x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" width="auto" height="16px"/> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"> Gyera Park Guide x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" width="auto" height="16px"> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia) x*1*
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" width="12px" height="9.75px"/> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" width="12px" height="9.75px"> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought in shops:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" width="auto" height="16px"/> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" width="auto" height="16px"> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
 
 Can be bought from merchants:
 
@@ -77,8 +77,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" width="auto" height="16px"/> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="Gyera Loot Crate icon" loading="lazy" width="auto" height="16px"> [Gyera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GyeraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/packs/advanced/gyera.png" alt="Gyera Pack icon" loading="lazy" width="auto" height="16px"> [Gyera Pack](https://ceterai.github.io/MyEnternia/Wiki/GyeraPack)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

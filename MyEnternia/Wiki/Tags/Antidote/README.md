@@ -10,4 +10,4 @@ The tag `antidote` contains 1 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png" alt="Hevikai Antidote ★★ icon" loading="lazy" width="auto" height="16px"/> [Hevikai Antidote ★★](https://ceterai.github.io/MyEnternia/Wiki/HevikaiAntidote)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png" alt="Hevikai Antidote ★★ icon" loading="lazy" width="auto" height="16px"> [Hevikai Antidote ★★](https://ceterai.github.io/MyEnternia/Wiki/HevikaiAntidote)

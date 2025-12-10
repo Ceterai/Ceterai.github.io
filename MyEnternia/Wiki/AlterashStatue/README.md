@@ -1,6 +1,6 @@
 # Alterash Statue ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/statues/alterash/icon.png" alt="Alterash Statue ★ icon" loading="lazy" width="auto" height="16px"/> **Alterash Statue ★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/statues/alterash/icon.png" alt="Alterash Statue ★ icon" loading="lazy" width="auto" height="16px"> **Alterash Statue ★** is a rare decorative object.
 
 A statue on a titanium platform. The label says the statue was build to represent [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) homelands.  
 While the label doesn't explicitly mention it, this model specifically is made to represent Alta-1 - the first alterash planet to be inhabited by altas.

@@ -1,10 +1,10 @@
 # Double Point MNG ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng_2.png" alt="Double Point MNG ★ icon" loading="lazy" width="auto" height="16px"/> **Double Point MNG ★** is a legendary one-handed electric machine gun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng_2.png" alt="Double Point MNG ★ icon" loading="lazy" width="auto" height="16px"> **Double Point MNG ★** is a legendary one-handed electric machine gun.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) enhancement allows this wrist blaster to launch two Ion Minis at the same time.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) enhancement allows this wrist blaster to launch two Ion Minis at the same time.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng.png" alt="EDS MNG icon" loading="lazy" width="auto" height="16px"/> [EDS MNG](https://ceterai.github.io/MyEnternia/Wiki/EDSMNG).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng.png" alt="EDS MNG icon" loading="lazy" width="auto" height="16px"> [EDS MNG](https://ceterai.github.io/MyEnternia/Wiki/EDSMNG).
 
 ## Ingame
 
@@ -22,16 +22,16 @@ Compact phosicore of this weapon is able to rapidly generate small accelerated [
 
 Parameters:
 
-- Press Params:
-  - Inaccuracy: 0.06
-  - Type: `ct_ionic_small`
-  - Count: 2
-- Press Type: `blast`
-- Energy Usage: 16
-- Hold Time Max:
 - Fire Time: 0.11
-- Hold Time Min: 0.9
 - Base Dps: 4
+- Energy Usage: 16
+- Press Type: `blast`
+- Hold Time Min: 0.9
+- Hold Time Max:
+- Press Params:
+  - Count: 2
+  - Type: `ct_ionic_small`
+  - Inaccuracy: 0.06
 
 ## Sources
 

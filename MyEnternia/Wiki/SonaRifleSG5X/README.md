@@ -1,11 +1,11 @@
 # Sona Rifle SG5X ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle_2.png" alt="Sona Rifle SG5X ★ icon" loading="lazy" width="auto" height="16px"/> **Sona Rifle SG5X ★** is a legendary two-handed cryogenic assault rifle.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle_2.png" alt="Sona Rifle SG5X ★ icon" loading="lazy" width="auto" height="16px"> **Sona Rifle SG5X ★** is a legendary two-handed cryogenic assault rifle.
 
-A sona rifle encrusted with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals.  
+A sona rifle encrusted with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals.  
 Can produce more powerful sona charges while using the same amount of energy.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png" alt="Sona Rifle SG5 icon" loading="lazy" width="auto" height="16px"/> [Sona Rifle SG5](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle.png" alt="Sona Rifle SG5 icon" loading="lazy" width="auto" height="16px"> [Sona Rifle SG5](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5).
 
 ## Ingame
 

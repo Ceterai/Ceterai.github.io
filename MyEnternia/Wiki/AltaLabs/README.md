@@ -1,6 +1,6 @@
 # Alta Labs
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"/> **Alta Labs** is a rare codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"> **Alta Labs** is a rare codex entry.
 
 An ebook describing alta laboratorial safety guidelines.  
 It goes over most common safety mechanisms and mechanics used in most alta labs, and also mentions some more specific examples.
@@ -23,9 +23,9 @@ Most often they depend on the direction of the laboratory and the research group
 
 Laboratories focused on the study and production of energy very often have many [energy locks](https://ceterai.github.io/MyEnternia/Wiki/energylocks) in addition to the usual protocols, especially if they are locally produced.
 
-Such labs, in addition to the usual equipment such as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"/> [alta lab capsules](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" width="auto" height="16px"/> [alta lab terminals](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" width="auto" height="16px"/> [alta lab servers](https://ceterai.github.io/MyEnternia/Wiki/AltaLabServer), are usually filled with special energy equipment such as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"/> [alta lab amplifiers](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier), most often used in the development of terraformers, or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"/> [alta lab capsules](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule), the main purpose of which is most often either to simply contain energy fuel or synthesis of energy in vacuum space.
+Such labs, in addition to the usual equipment such as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"> [alta lab capsules](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" width="auto" height="16px"> [alta lab terminals](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" width="auto" height="16px"> [alta lab servers](https://ceterai.github.io/MyEnternia/Wiki/AltaLabServer), are usually filled with special energy equipment such as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"> [alta lab amplifiers](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier), most often used in the development of terraformers, or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"> [alta lab capsules](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule), the main purpose of which is most often either to simply contain energy fuel or synthesis of energy in vacuum space.
 
-Medical laboratories, on the other hand, most often have a large number of advanced models of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" width="auto" height="16px"/> [alta lifechambers](https://ceterai.github.io/MyEnternia/Wiki/AltaLifechamber) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/bed/icon.png" alt="Alta Lab Bed icon" loading="lazy" width="auto" height="16px"/> [alta lab beds](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBed), allowing not only to perform dangerous operations, but also to send altas into medical stasis, keeping them alive.  
+Medical laboratories, on the other hand, most often have a large number of advanced models of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" width="auto" height="16px"> [alta lifechambers](https://ceterai.github.io/MyEnternia/Wiki/AltaLifechamber) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/bed/icon.png" alt="Alta Lab Bed icon" loading="lazy" width="auto" height="16px"> [alta lab beds](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBed), allowing not only to perform dangerous operations, but also to send altas into medical stasis, keeping them alive.  
 Similar equipment, but for plants, can be found in botanical research gardens - [alta lab eco chambers](https://ceterai.github.io/MyEnternia/Wiki/altalabecochambers) designed to support life for specimens that require non-standard conditions.
 
 Thus, complexes with similar equipment can be easily found in places where the research industry is concentrated - on the islands of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera), among [astera](https://ceterai.github.io/MyEnternia/Wiki/Astera) asteroids and occasionally near the moderate [ion cores](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) of planets.
@@ -36,7 +36,7 @@ Some scientific companies and organizations use their own developed equipment, s
 
 In such cases, access and security technologies are based on the company's own protocols, in addition to the mandatory ones.
 
-The calling card of alta labs is considered to be the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"/> [alta lab pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod) - a standard model used almost everywhere due to its properties.
+The calling card of alta labs is considered to be the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"> [alta lab pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod) - a standard model used almost everywhere due to its properties.
 
 ## Usage
 
@@ -44,23 +44,23 @@ The calling card of alta labs is considered to be the <img src="https://raw.gith
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"/> [Alta Labs](https://ceterai.github.io/MyEnternia/Wiki/AltaLabs)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"> [Alta Labs](https://ceterai.github.io/MyEnternia/Wiki/AltaLabs)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"/> [Alta Labs](https://ceterai.github.io/MyEnternia/Wiki/AltaLabs)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"> [Alta Labs](https://ceterai.github.io/MyEnternia/Wiki/AltaLabs)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"/> Alta Labs x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" width="auto" height="16px"/> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"> Alta Labs x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" width="auto" height="16px"> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia) x*1*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
-- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"/> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
+- <img src="https://starbounder.org/mediawiki/images/e/e4/Large_Shipping_Container.png" alt="Large Shipping Container icon" loading="lazy" width="30px" height="12px"> [Large Shipping Container](https://starbounder.org/Large_Shipping_Container)
 
 Can be bought from merchants:
 
@@ -106,7 +106,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" width="auto" height="16px"/> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Tier 3 Pad icon" loading="lazy" width="auto" height="16px"> [Tier 3 Pad](https://ceterai.github.io/MyEnternia/Wiki/Tier3Pad)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

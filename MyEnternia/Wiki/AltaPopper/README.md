@@ -1,6 +1,6 @@
 # Alta Popper
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_popper.png" alt="Alta Popper icon" loading="lazy" width="auto" height="16px"/> **Alta Popper** is a common toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_popper.png" alt="Alta Popper icon" loading="lazy" width="auto" height="16px"> **Alta Popper** is a common toy.
 
 A confetti popper filled with blue and white confetti. For Alliana!
 
@@ -10,7 +10,7 @@ A confetti popper filled with blue and white confetti. For Alliana!
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/ct_alta_firework.png" alt="Alta Firework icon" loading="lazy" width="auto" height="16px"/> [Alta Firework](https://ceterai.github.io/MyEnternia/Wiki/AltaFirework)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/ct_alta_firework.png" alt="Alta Firework icon" loading="lazy" width="auto" height="16px"> [Alta Firework](https://ceterai.github.io/MyEnternia/Wiki/AltaFirework)
 
 ## Sources
 

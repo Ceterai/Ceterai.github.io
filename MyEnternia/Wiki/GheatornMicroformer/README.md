@@ -1,6 +1,6 @@
 # Gheatorn Microformer ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/gheatorn/icon.png" alt="Gheatorn Microformer ★★★ icon" loading="lazy" width="auto" height="16px"/> **Gheatorn Microformer ★★★** is a legendary terraformer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/gheatorn/icon.png" alt="Gheatorn Microformer ★★★ icon" loading="lazy" width="auto" height="16px"> **Gheatorn Microformer ★★★** is a legendary terraformer.
 
 Transforms an area of a planet into a gheatsyn rock stratum. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
 Gheatorn are caves full of special poisonous crystals called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn). They grow right from the ground, resulting in weird strain-like rock formations called _gheatorn monuments_. Certain <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" width="16" height="16"/> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun) labs can be found here, built by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) geo-researchers.

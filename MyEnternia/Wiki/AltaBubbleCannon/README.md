@@ -1,6 +1,6 @@
 # Alta Bubble Cannon
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/cannon/icon.png" alt="Alta Bubble Cannon icon" loading="lazy" width="auto" height="16px"/> **Alta Bubble Cannon** is an uncommon two-handed toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/cannon/icon.png" alt="Alta Bubble Cannon icon" loading="lazy" width="auto" height="16px"> **Alta Bubble Cannon** is an uncommon two-handed toy.
 
 A powerful bubble cannon! It shoots big bubbles that can knock back enemies!
 

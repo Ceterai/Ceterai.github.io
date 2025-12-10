@@ -1,6 +1,6 @@
 # Lava Drone ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png" alt="Lava Drone ★★ icon" loading="lazy" width="auto" height="16px"/> **Lava Drone ★★** is a legendary fiery throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png" alt="Lava Drone ★★ icon" loading="lazy" width="auto" height="16px"> **Lava Drone ★★** is a legendary fiery throwable item.
 
 This drone likes to swim in lava. Made out of a highly resistant material.  
 Based on the once infamous R200 model, for what it lacks in attacking power it compensates in protection.
@@ -20,12 +20,12 @@ Radiomessages on pickup:
 ### Fire Cannon
 
 Can charge up a powerful [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) rocket. Periodically disperses [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) clouds around it. Will explode with [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) particles on destruction.  
-Using the heat from outside environment, it can generate according charges with a set of properly configured <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore).
+Using the heat from outside environment, it can generate according charges with a set of properly configured <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore).
 
 ### Magma-Robot
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics).
-Deals [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage on touch, applying <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"/> [Burning](https://starbounder.org/Burning).  
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics).
+Deals [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage on touch, applying <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"> [Burning](https://starbounder.org/Burning).  
 Due to used materials and airtight design, it's almost completely resistant to lava.
 
 ## Sources

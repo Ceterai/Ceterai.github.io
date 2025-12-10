@@ -1,6 +1,6 @@
 # Isoslime Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"/> **Isoslime Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"> **Isoslime Seed** is a common plantable item.
 
 A plant covered in slime. It's a bit cold to the touch.
 
@@ -23,9 +23,9 @@ Growing stages:
 3. Lasts from 1670 to 1730 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"/> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*1* (weight: 0.89)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"/> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed) x*1* (weight: 0.01)
-   - <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"/> [Slime Blob](https://starbounder.org/Slime_Blob) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*1* (weight: 0.89)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed) x*1* (weight: 0.01)
+   - <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"> [Slime Blob](https://starbounder.org/Slime_Blob) x*1* (weight: 0.1)
 
 ## Usage
 
@@ -33,18 +33,18 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" width="auto" height="16px"/> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" width="auto" height="16px"> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 
 <details markdown="1"><summary>Can be used to craft: (Expand 7 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco_green/icon.png" alt="Eco Poi Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Poi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoPoiSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Isoslime Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" width="auto" height="16px"/> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" width="auto" height="16px"/> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco_green/icon.png" alt="Eco Poi Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Poi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoPoiSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" width="auto" height="16px"> [Isoslime Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" width="auto" height="16px"> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" width="auto" height="16px"> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" width="auto" height="16px"> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
 
 </details>
 
@@ -52,33 +52,33 @@ Unlocks blueprints for:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Isoslime Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" width="auto" height="16px"/> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/eco_alta/icon.png" alt="Eco Alta Jelly Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Eco Alta Jelly Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/EcoAltaJellySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" width="auto" height="16px"> [Isoslime Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/isoslime.png" alt="Isoslime In Cooking icon" loading="lazy" width="auto" height="16px"> [Isoslime In Cooking](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeInCooking)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" width="auto" height="16px"> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"/> Isoslime Seed x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" width="auto" height="16px"/> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" width="auto" height="16px"/> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"/> [Slime Blob](https://starbounder.org/Slime_Blob) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" width="7px" height="15px"/> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"> Isoslime Seed x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/icon.png" alt="Jelly Bud icon" loading="lazy" width="auto" height="16px"> [Jelly Bud](https://ceterai.github.io/MyEnternia/Wiki/JellyBud) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" width="auto" height="16px"> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"> [Slime Blob](https://starbounder.org/Slime_Blob) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/0/00/Medical_Syringe.png" alt="Medical Syringe icon" loading="lazy" width="7px" height="15px"> [Medical Syringe](https://starbounder.org/Medical_Syringe) x*1*
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" width="auto" height="16px"/> [Wild Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIsoslimeSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" width="auto" height="16px"> [Wild Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIsoslimeSeed)
 
 <details markdown="1"><summary>Can be harvested from: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco_green/icon.png" alt="Eco Poi Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Poi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoPoiSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Isoslime Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" width="auto" height="16px"/> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"/> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"/> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" width="auto" height="16px"/> [Wild Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIsoslimeSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco_green/icon.png" alt="Eco Poi Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Poi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoPoiSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" width="auto" height="16px"> [Isoslime Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" width="auto" height="16px"> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod_green/icon.png" alt="Poi Eco Pod icon" loading="lazy" width="auto" height="16px"> [Poi Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/PoiEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" width="auto" height="16px"> [Wild Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIsoslimeSeed)
 
 </details>
 

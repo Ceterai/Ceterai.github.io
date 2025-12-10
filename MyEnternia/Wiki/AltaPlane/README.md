@@ -1,6 +1,6 @@
 # Alta Plane
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane.png" alt="Alta Plane icon" loading="lazy" width="auto" height="16px"/> **Alta Plane** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane.png" alt="Alta Plane icon" loading="lazy" width="auto" height="16px"> **Alta Plane** is a common throwable item.
 
 A small plane made out of ayaka paper. Just don't be too wasteful!
 

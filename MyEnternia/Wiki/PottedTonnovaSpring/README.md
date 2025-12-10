@@ -1,6 +1,6 @@
 # Potted Tonnova Spring
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"/> **Potted Tonnova Spring** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"> **Potted Tonnova Spring** is a rare decorative object.
 
 A seemingly unsuspecting plant in a tall pot.
 
@@ -14,16 +14,16 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_spiral_tree.png" alt="Tonnova Spiral icon" loading="lazy" width="auto" height="16px"/> [Tonnova Spiral](https://ceterai.github.io/MyEnternia/Wiki/TonnovaSpiral)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" width="auto" height="16px"/> [Wide Tonnova](https://ceterai.github.io/MyEnternia/Wiki/WideTonnova)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_spiral_tree.png" alt="Tonnova Spiral icon" loading="lazy" width="auto" height="16px"> [Tonnova Spiral](https://ceterai.github.io/MyEnternia/Wiki/TonnovaSpiral)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" width="auto" height="16px"> [Wide Tonnova](https://ceterai.github.io/MyEnternia/Wiki/WideTonnova)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"/> Potted Tonnova Spring x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"/> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/4/4e/Snow.png" alt="Snow icon" loading="lazy" width="10px" height="10px"/> [Snow](https://starbounder.org/Snow) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"/> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/bion/icon.png" alt="Bion Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Bion Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/BionFlowerPot) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/tonnova/icon.png" alt="Potted Tonnova Spring icon" loading="lazy" width="auto" height="16px"> Potted Tonnova Spring x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [Bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/4/4e/Snow.png" alt="Snow icon" loading="lazy" width="10px" height="10px"> [Snow](https://starbounder.org/Snow) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/bion/icon.png" alt="Bion Flower Pot icon" loading="lazy" width="auto" height="16px"> [Bion Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/BionFlowerPot) x*1*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

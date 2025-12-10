@@ -1,6 +1,6 @@
 # Halloween Poster
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"/> **Halloween Poster** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"> **Halloween Poster** is a common decorative object.
 
 A pumpkin face painted onto a poster made to celebrate a spooky human event called Halloween. Happy spooky season!  
 A poster featuring a pumpkin, the biggest mascot of the Halloween event. The design is abstract and colorful, evoking a sense of mystery and wonder. It's a great way to show your support for the event and add some festive decor to your home.
@@ -24,15 +24,15 @@ A poster featuring a pumpkin, the biggest mascot of the Halloween event. The des
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"/> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"/> Halloween Poster x*1*):
-  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"/> [Silk](https://starbounder.org/Silk) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*4*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"> Halloween Poster x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*4*
   - `liquidoil` x*8*
   - `orangedye` x*1*
 

@@ -1,6 +1,6 @@
 # Potted Blossom Plant
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" width="auto" height="16px"/> **Potted Blossom Plant** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" width="auto" height="16px"> **Potted Blossom Plant** is an uncommon decorative object.
 
 A decorative plant in a big titanium vase.
 
@@ -27,14 +27,14 @@ A decorative plant in a big titanium vase.
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" width="auto" height="16px"/> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/blossom/sapling/icon.png" alt="Blossom Sapling icon" loading="lazy" width="auto" height="16px"> [Blossom Sapling](https://ceterai.github.io/MyEnternia/Wiki/BlossomSapling)
 
 Can be crafted:
 
-- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" width="auto" height="16px"/> Potted Blossom Plant x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" width="15px" height="14px"/> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod) x*1*
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/blossom/icon.png" alt="Potted Blossom Plant icon" loading="lazy" width="auto" height="16px"> Potted Blossom Plant x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" width="15px" height="14px"> [Silk Fibre](https://starbounder.org/Silk_Fibre) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" width="auto" height="16px"> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod) x*1*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

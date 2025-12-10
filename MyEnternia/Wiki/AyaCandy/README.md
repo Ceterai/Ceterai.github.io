@@ -1,6 +1,6 @@
 # Aya Candy
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" width="auto" height="16px"/> **Aya Candy** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" width="auto" height="16px"> **Aya Candy** is an uncommon dish.
 
 Made with aya jam, it's a sour and sweet lollipop!  
 Usually prepared and sold in packs, these are great to share with friends and are perfect if you really need to not think of anything.
@@ -14,37 +14,37 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"/> [Full Belly](https://starbounder.org/Full_Belly)
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 Applies effects:
 
-- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="Jump Boost icon" loading="lazy" width="16px" height="16px"/> [Jump Boost (Food)](https://starbounder.org/Jump_Boost) (125s)
+- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="Jump Boost icon" loading="lazy" width="16px" height="16px"> [Jump Boost (Food)](https://starbounder.org/Jump_Boost) (125s)
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Pop ★ icon" loading="lazy" width="auto" height="16px"/> [Aya Pop ★](https://ceterai.github.io/MyEnternia/Wiki/AyaPop) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Pop ★ icon" loading="lazy" width="auto" height="16px"> [Aya Pop ★](https://ceterai.github.io/MyEnternia/Wiki/AyaPop) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"/> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"/> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Estralis Extract icon" loading="lazy" width="auto" height="16px"/> [Estralis Extract](https://ceterai.github.io/MyEnternia/Wiki/EstralisExtract)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"/> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"/> [Runeva Jam](https://ceterai.github.io/MyEnternia/Wiki/RunevaJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Virma Honey icon" loading="lazy" width="auto" height="16px"/> [Virma Honey](https://ceterai.github.io/MyEnternia/Wiki/VirmaHoney)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Estralis Extract icon" loading="lazy" width="auto" height="16px"> [Estralis Extract](https://ceterai.github.io/MyEnternia/Wiki/EstralisExtract)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"> [Runeva Jam](https://ceterai.github.io/MyEnternia/Wiki/RunevaJam)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Virma Honey icon" loading="lazy" width="auto" height="16px"> [Virma Honey](https://ceterai.github.io/MyEnternia/Wiki/VirmaHoney)
 
 </details>
 
 Can be crafted:
 
-- <img src="https://starbounder.org/mediawiki/images/b/b2/Chic_Cooking_Table.png" alt="Cooking Stations icon" width="12" height="8"/> [Cooking Stations](https://starbounder.org/Cooking#Meal_Prep_Stations), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" width="auto" height="16px"/> Aya Candy x*3*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"/> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) x*1*
+- <img src="https://starbounder.org/mediawiki/images/b/b2/Chic_Cooking_Table.png" alt="Cooking Stations icon" width="12" height="8"/> [Cooking Stations](https://starbounder.org/Cooking#Meal_Prep_Stations), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" width="auto" height="16px"> Aya Candy x*3*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) x*1*
 
 Can be bought in shops:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" width="auto" height="16px"/> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/alta/icon.png" alt="Alta Vendor icon" loading="lazy" width="auto" height="16px"> [Alta Vendor](https://ceterai.github.io/MyEnternia/Wiki/AltaVendor)
 
 Can be bought from merchants:
 

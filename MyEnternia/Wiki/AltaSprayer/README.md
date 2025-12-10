@@ -1,6 +1,6 @@
 # Alta Sprayer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/sprayer/icon.png" alt="Alta Sprayer icon" loading="lazy" width="auto" height="16px"/> **Alta Sprayer** is a common aquatic tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/sprayer/icon.png" alt="Alta Sprayer icon" loading="lazy" width="auto" height="16px"> **Alta Sprayer** is a common aquatic tool.
 
 A basic alta applicator with a spray nozzle.
 

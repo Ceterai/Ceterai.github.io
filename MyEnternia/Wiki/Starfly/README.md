@@ -1,6 +1,6 @@
 # Starfly
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/starfly/icon.png" alt="Starfly icon" loading="lazy" width="auto" height="16px"/> **Starfly** is a legendary bug.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/starfly/icon.png" alt="Starfly icon" loading="lazy" width="auto" height="16px"> **Starfly** is a legendary bug.
 
 An attached note reads, "This big dark-colored shimmering butterfly is made almost entirely out of stardust."
 

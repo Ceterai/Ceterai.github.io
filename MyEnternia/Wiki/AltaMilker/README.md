@@ -1,6 +1,6 @@
 # Alta Milker
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" width="auto" height="16px"/> **Alta Milker** is an uncommon crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" width="auto" height="16px"> **Alta Milker** is an uncommon crafting station.
 
 A piece of alta kitchen technology for making freshes, juices, and other raw squeezes.  
 A bit bulky in size, it was made to be like this to make sure any fruits and other ingredients fit in.
@@ -24,13 +24,13 @@ A bit bulky in size, it was made to be like this to make sure any fruits and oth
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" width="auto" height="16px"/> Alta Milker x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cup/icon.png" alt="Alta Cup icon" loading="lazy" width="auto" height="16px"/> [Alta Cup](https://ceterai.github.io/MyEnternia/Wiki/AltaCup) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"/> [Alta LED](https://ceterai.github.io/MyEnternia/Wiki/AltaLED) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"/> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"/> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*4*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" width="auto" height="16px"> Alta Milker x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cup/icon.png" alt="Alta Cup icon" loading="lazy" width="auto" height="16px"> [Alta Cup](https://ceterai.github.io/MyEnternia/Wiki/AltaCup) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"> [Alta LED](https://ceterai.github.io/MyEnternia/Wiki/AltaLED) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*4*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

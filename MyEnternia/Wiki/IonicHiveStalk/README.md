@@ -1,6 +1,6 @@
 # Ionic Hive Stalk
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_hive_tree.png" alt="Ionic Hive Stalk icon" loading="lazy" width="auto" height="16px"/> **Ionic Hive Stalk** is a rare tree sapling.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_hive_tree.png" alt="Ionic Hive Stalk icon" loading="lazy" width="auto" height="16px"> **Ionic Hive Stalk** is a rare tree sapling.
 
 A huge tentacle-looking stem full of insects. Better to not touch it.  
 Similar to regular hive stalks, this one was adapted to grow on alterash planets.
@@ -45,27 +45,27 @@ Growing stages:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" width="auto" height="16px"/> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" width="auto" height="16px"> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" width="auto" height="16px"/> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" width="auto" height="16px"> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_hive_tree.png" alt="Ionic Hive Stalk icon" loading="lazy" width="auto" height="16px"/> Ionic Hive Stalk x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_hive_tree.png" alt="Ionic Hive Stalk icon" loading="lazy" width="auto" height="16px"> Ionic Hive Stalk x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling) x*1*
   - `larva` x*32*
-  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"/> [Bio Sample](https://starbounder.org/Bio_Sample) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/b/b6/Moonstone.png" alt="Moonstone icon" loading="lazy" width="10px" height="10px"/> [Moonstone](https://starbounder.org/Moonstone) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/b/b6/Moonstone.png" alt="Moonstone icon" loading="lazy" width="10px" height="10px"> [Moonstone](https://starbounder.org/Moonstone) x*1*
   - `liquidmilk` x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer) x*1*
 
 Can be bought from merchants:
 

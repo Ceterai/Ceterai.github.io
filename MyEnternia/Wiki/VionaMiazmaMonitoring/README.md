@@ -1,8 +1,8 @@
 # Viona Miazma Monitoring
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"/> **Viona Miazma Monitoring** is an uncommon codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"> **Viona Miazma Monitoring** is an uncommon codex entry.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) containing a report on the recent energy-related measurements in an anomalous area.  
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) containing a report on the recent energy-related measurements in an anomalous area.  
 The data shows numerous energy anomalies, or [miazmas](https://ceterai.github.io/MyEnternia/Wiki/miazmas), in different so-called [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) areas, or ["enchanted" areas](https://ceterai.github.io/MyEnternia/Wiki/enchantedareas) of the planet.
 
 ## Ingame
@@ -28,8 +28,8 @@ In worse cases, explosions and frostblasts have been reported in the area by the
 
 Monitoring equipment:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier) ID: AIN-ndr29fd6  
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" width="auto" height="16px"/> [Alta Lab Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal) ID: AIC-cr6bnb30
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier) ID: AIN-ndr29fd6  
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" width="auto" height="16px"> [Alta Lab Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal) ID: AIC-cr6bnb30
 
 Responsible team: A.R.C.O. RS-68 "Santia"
 
@@ -41,7 +41,7 @@ They have also provided help in finding proper samples for our cause, including 
 
 The sample should be held under the High Containment Protocol, according to their documentation. This should significantly boost our research.
 
-As far as we're aware, Neiteru were already able to successfully use a live miazma before, in a project called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"/> ["Vionos Twins"](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins), so let's keep our hopes up.
+As far as we're aware, Neiteru were already able to successfully use a live miazma before, in a project called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"> ["Vionos Twins"](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins), so let's keep our hopes up.
 
 ## Usage
 
@@ -49,24 +49,24 @@ As far as we're aware, Neiteru were already able to successfully use a live miaz
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"/> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" width="auto" height="16px"/> [Vionora](https://ceterai.github.io/MyEnternia/Wiki/Vionora)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_viona_tree.png" alt="Vionora icon" loading="lazy" width="auto" height="16px"> [Vionora](https://ceterai.github.io/MyEnternia/Wiki/Vionora)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"/> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"> [Viona Miazma Monitoring](https://ceterai.github.io/MyEnternia/Wiki/VionaMiazmaMonitoring)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"/> Viona Miazma Monitoring x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"/> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Enchanted Datamass icon" loading="lazy" width="auto" height="16px"/> [Enchanted Datamass](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"> Viona Miazma Monitoring x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Enchanted Datamass icon" loading="lazy" width="auto" height="16px"> [Enchanted Datamass](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) x*1*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" width="auto" height="16px"/> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" width="auto" height="16px"> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 32 items)</summary>
 
@@ -107,7 +107,7 @@ Found naturally in containers:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" width="auto" height="16px"> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

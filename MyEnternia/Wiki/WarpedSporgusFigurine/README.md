@@ -1,6 +1,6 @@
 # Warped Sporgus Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/sporgus/ct_warped_sporgus.png" alt="Warped Sporgus Figurine icon" loading="lazy" width="auto" height="16px"/> **Warped Sporgus Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/sporgus/ct_warped_sporgus.png" alt="Warped Sporgus Figurine icon" loading="lazy" width="auto" height="16px"> **Warped Sporgus Figurine** is a legendary figurine.
 
 The label reads, "A venomous sporgus, transformed by warped growth, which made it even stronger than before."
 

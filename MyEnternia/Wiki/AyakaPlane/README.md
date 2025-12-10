@@ -1,6 +1,6 @@
 # Ayaka Plane
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_ayaka_plane.png" alt="Ayaka Plane icon" loading="lazy" width="auto" height="16px"/> **Ayaka Plane** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_ayaka_plane.png" alt="Ayaka Plane icon" loading="lazy" width="auto" height="16px"> **Ayaka Plane** is a common throwable item.
 
 A small plane made out of ayaka paper. Just don't be too wasteful!
 

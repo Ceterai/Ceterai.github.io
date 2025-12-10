@@ -1,6 +1,6 @@
 # Enchanted Sunset
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_abstract_art.png" alt="Enchanted Sunset icon" loading="lazy" width="auto" height="16px"/> **Enchanted Sunset** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_abstract_art.png" alt="Enchanted Sunset icon" loading="lazy" width="auto" height="16px"> **Enchanted Sunset** is an uncommon decorative object.
 
 An abstract picture with a warm, dreamy mood. Can add to the atmosphere of any place.
 

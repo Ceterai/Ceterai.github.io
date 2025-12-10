@@ -1,6 +1,6 @@
 # Alta Resque Station
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/resque_station/icon.png" alt="Alta Resque Station icon" loading="lazy" width="auto" height="16px"/> **Alta Resque Station** is a legendary crafting station.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/resque_station/icon.png" alt="Alta Resque Station icon" loading="lazy" width="auto" height="16px"> **Alta Resque Station** is a legendary crafting station.
 
 ## Sources
 

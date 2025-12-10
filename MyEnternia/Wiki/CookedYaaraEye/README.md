@@ -1,8 +1,8 @@
 # Cooked Yaara Eye
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Yaara Eye icon" loading="lazy" width="auto" height="16px"/> **Cooked Yaara Eye** is a common dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Yaara Eye icon" loading="lazy" width="auto" height="16px"> **Cooked Yaara Eye** is a common dish.
 
-An evenly cooked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"/> [yaara eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) soaking with boiling juice. Now, how do you eat it without burning yourself?  
+An evenly cooked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [yaara eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) soaking with boiling juice. Now, how do you eat it without burning yourself?  
 An experienced chef can cut a cooked yaara eye in half without spilling out most of the juice, and serve it with herbs and spices as a side dish.
 
 ## Ingame
@@ -19,8 +19,8 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Yaara Eye icon" loading="lazy" width="auto" height="16px"/> Cooked Yaara Eye x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"/> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Yaara Eye icon" loading="lazy" width="auto" height="16px"> Cooked Yaara Eye x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
 
 Can be bought from merchants:
 

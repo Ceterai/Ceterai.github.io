@@ -1,6 +1,6 @@
 # Little Star and Her Ray Of Light
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"/> **Little Star and Her Ray Of Light** is a legendary codex entry.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"> **Little Star and Her Ray Of Light** is a legendary codex entry.
 
 An ebook containing a story about love between two unexpected beings and a hopeful happy ending.  
 This story shows the destructive power of radiation and its effects on stardust, which are the reason for the existence of manu phospholion-related regulations.
@@ -89,23 +89,23 @@ I'm sorry that I won't be able to travel with you, but I promise to forever ligh
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"/> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"/> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"/> Little Star and Her Ray Of Light x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" width="auto" height="16px"/> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" width="auto" height="16px"/> [Life, Value And Meaning](https://ceterai.github.io/MyEnternia/Wiki/Life,ValueAndMeaning) x*1*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"> Little Star and Her Ray Of Light x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="Guide to My Enternia icon" loading="lazy" width="auto" height="16px"> [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Life, Value And Meaning icon" loading="lazy" width="auto" height="16px"> [Life, Value And Meaning](https://ceterai.github.io/MyEnternia/Wiki/Life,ValueAndMeaning) x*1*
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" width="12px" height="9.75px"/> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
+- <img src="https://starbounder.org/mediawiki/images/b/ba/Giant_Flower_Chest.png" alt="Giant Flower Chest icon" loading="lazy" width="12px" height="9.75px"> [Giant Flower Chest](https://starbounder.org/Giant_Flower_Chest)
 
 Can be bought from merchants:
 
@@ -113,7 +113,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" width="auto" height="16px"> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

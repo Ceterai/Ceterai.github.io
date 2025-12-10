@@ -1,10 +1,10 @@
 # Starpick ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon_upg.png" alt="Starpick ★ icon" loading="lazy" width="auto" height="16px"/> **Starpick ★** is a legendary two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon_upg.png" alt="Starpick ★ icon" loading="lazy" width="auto" height="16px"> **Starpick ★** is a legendary two-handed tool.
 
 This tool won't last long, but I'll be able to dig pretty fast with it.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon.png" alt="Alta Pick icon" loading="lazy" width="auto" height="16px"/> [Alta Pick](https://ceterai.github.io/MyEnternia/Wiki/AltaPick).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon.png" alt="Alta Pick icon" loading="lazy" width="auto" height="16px"> [Alta Pick](https://ceterai.github.io/MyEnternia/Wiki/AltaPick).
 
 ## Sources
 

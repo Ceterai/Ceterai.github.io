@@ -1,6 +1,6 @@
 # Alta Ship Captain's Chair
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/captains_chair/icon.png" alt="Alta Ship Captain's Chair icon" loading="lazy" width="auto" height="16px"/> **Alta Ship Captain's Chair** is a legendary piece of furniture.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/captains_chair/icon.png" alt="Alta Ship Captain's Chair icon" loading="lazy" width="auto" height="16px"> **Alta Ship Captain's Chair** is a legendary piece of furniture.
 
 The Captain sits here to fly the ship.
 

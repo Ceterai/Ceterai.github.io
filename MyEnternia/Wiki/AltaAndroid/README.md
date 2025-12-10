@@ -19,8 +19,8 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"/> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*2* (weight: 0.5)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"/> [Alta LED](https://ceterai.github.io/MyEnternia/Wiki/AltaLED) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"> [Alta LED](https://ceterai.github.io/MyEnternia/Wiki/AltaLED) x*2* (weight: 0.5)
 
 ## Technical Information
 

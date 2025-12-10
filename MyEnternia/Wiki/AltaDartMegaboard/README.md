@@ -1,6 +1,6 @@
 # Alta Dart Megaboard
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/mega/body.png" alt="Alta Dart Megaboard icon" loading="lazy" width="auto" height="16px"/> **Alta Dart Megaboard** is a rare toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/mega/body.png" alt="Alta Dart Megaboard icon" loading="lazy" width="auto" height="16px"> **Alta Dart Megaboard** is a rare toy.
 
 A basic alta board for playing darts.
 

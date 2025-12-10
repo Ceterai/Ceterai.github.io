@@ -1,8 +1,8 @@
 # Toxic Spores Collar ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_aric_collar.png" alt="Toxic Spores Collar ★★ icon" loading="lazy" width="auto" height="16px"/> **Toxic Spores Collar ★★** is a rare collar.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_aric_collar.png" alt="Toxic Spores Collar ★★ icon" loading="lazy" width="auto" height="16px"> **Toxic Spores Collar ★★** is a rare collar.
 
-An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) collar that causes your pet to periodically spray <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) around it and gives it [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection.
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) collar that causes your pet to periodically spray <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) around it and gives it [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection.
 
 ## Ingame
 
@@ -14,8 +14,8 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://starbounder.org/mediawiki/images/9/91/Poison_Resist_Augment.png" alt="Poison Block icon" loading="lazy" width="11px" height="16px"/> [Poison Block (Augment)](https://starbounder.org/Poison_Resist_Augment)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"/> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)
+- <img src="https://starbounder.org/mediawiki/images/9/91/Poison_Resist_Augment.png" alt="Poison Block icon" loading="lazy" width="11px" height="16px"> [Poison Block (Augment)](https://starbounder.org/Poison_Resist_Augment)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds)
 
 ## Usage
 
@@ -33,11 +33,11 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Found naturally in containers:
 
-- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" width="12px" height="12px"/> [Toxic Chest](https://starbounder.org/Toxic_Chest)
+- <img src="https://starbounder.org/mediawiki/images/c/c4/Toxic-Chest.png" alt="Toxic Chest icon" loading="lazy" width="12px" height="12px"> [Toxic Chest](https://starbounder.org/Toxic_Chest)
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" width="auto" height="16px"> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

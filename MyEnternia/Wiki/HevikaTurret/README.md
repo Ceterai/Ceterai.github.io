@@ -1,6 +1,6 @@
 # Hevika Turret
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" width="auto" height="16px"/> **Hevika Turret** is a rare electric wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" width="auto" height="16px"> **Hevika Turret** is a rare electric wiring component.
 
 An automated security turret powered by hevika crystals.
 
@@ -33,20 +33,20 @@ This object **doesn't drop itself** when broken.
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_hevika_turret_gun.png" alt="Hevika Turret Gun ★ icon" loading="lazy" width="auto" height="16px"/> [Hevika Turret Gun ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurretGun)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_hevika_turret_gun.png" alt="Hevika Turret Gun ★ icon" loading="lazy" width="auto" height="16px"> [Hevika Turret Gun ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurretGun)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" width="auto" height="16px"/> Hevika Turret x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"/> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_flare.png" alt="Hevika Flare icon" loading="lazy" width="auto" height="16px"/> [Hevika Flare](https://ceterai.github.io/MyEnternia/Wiki/HevikaFlare) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*10*
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/turret/icon.png" alt="Hevika Turret icon" loading="lazy" width="auto" height="16px"> Hevika Turret x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_flare.png" alt="Hevika Flare icon" loading="lazy" width="auto" height="16px"> [Hevika Flare](https://ceterai.github.io/MyEnternia/Wiki/HevikaFlare) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*10*
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" width="auto" height="16px"/> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" width="auto" height="16px"> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
 
 Can be bought from merchants:
 
@@ -55,7 +55,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" width="auto" height="16px"> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

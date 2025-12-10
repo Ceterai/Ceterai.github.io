@@ -10,7 +10,7 @@ The tag `compound` contains 4 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altan.png" alt="Altan Compound icon" loading="lazy" width="auto" height="16px"/> [Altan Compound](https://ceterai.github.io/MyEnternia/Wiki/AltanCompound)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/composite.png" alt="Composite Armor icon" loading="lazy" width="auto" height="16px"/> [Composite Armor](https://ceterai.github.io/MyEnternia/Wiki/CompositeArmor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"/> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altan.png" alt="Altan Compound icon" loading="lazy" width="auto" height="16px"> [Altan Compound](https://ceterai.github.io/MyEnternia/Wiki/AltanCompound)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/composite.png" alt="Composite Armor icon" loading="lazy" width="auto" height="16px"> [Composite Armor](https://ceterai.github.io/MyEnternia/Wiki/CompositeArmor)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor)

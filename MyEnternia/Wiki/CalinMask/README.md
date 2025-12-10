@@ -1,6 +1,6 @@
 # Calin Mask
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Mask icon" loading="lazy" width="auto" height="16px"/> **Calin Mask** is an uncommon head cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Mask icon" loading="lazy" width="auto" height="16px"> **Calin Mask** is an uncommon head cosmetic item.
 
 A calin crystal mask. It makes your eyes shine.  
 Make from regular refined calin crystals, it might be a bit heavy to wear and needs some time getting used to.

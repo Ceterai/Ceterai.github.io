@@ -1,6 +1,6 @@
 # Elin Emblem
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/elin/body.png" alt="Elin Emblem icon" loading="lazy" width="auto" height="16px"/> **Elin Emblem** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/elin/body.png" alt="Elin Emblem icon" loading="lazy" width="auto" height="16px"> **Elin Emblem** is a common decorative object.
 
 An emplem marking all eling gardens - birthplace of most altas.
 

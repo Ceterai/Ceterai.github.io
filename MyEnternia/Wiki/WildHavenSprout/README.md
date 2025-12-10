@@ -1,6 +1,6 @@
 # Wild Haven Sprout
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Wild Haven Sprout icon" loading="lazy" width="auto" height="16px"/> **Wild Haven Sprout** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Wild Haven Sprout icon" loading="lazy" width="auto" height="16px"> **Wild Haven Sprout** is a common plantable item.
 
 A vibrant multiflower that snives with different colors.
 
@@ -24,14 +24,14 @@ Growing stages:
    - `petalblue` x*1* (weight: 0.33)
    - `petalred` x*1* (weight: 0.33)
    - `petalyellow` x*1* (weight: 0.33)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" width="auto" height="16px"/> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout) x*1* (weight: 0.01)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" width="auto" height="16px"> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout) x*1* (weight: 0.01)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" width="auto" height="16px"/> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/haven/icon.png" alt="Haven Bouquet Sprout icon" loading="lazy" width="auto" height="16px"> [Haven Bouquet Sprout](https://ceterai.github.io/MyEnternia/Wiki/HavenBouquetSprout) x*1* (weight: 1.0)
 
 ## Sources
 

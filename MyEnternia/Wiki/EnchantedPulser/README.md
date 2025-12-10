@@ -1,12 +1,12 @@
 # Enchanted Pulser ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" width="auto" height="16px"/> **Enchanted Pulser ★** is a legendary one-handed cryogenic pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" width="auto" height="16px"> **Enchanted Pulser ★** is a legendary one-handed cryogenic pistol.
 
-An improved pulse blaster enchanted with pure <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.
+An improved pulse blaster enchanted with pure <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.
 Now has an attached laserpointer.  
 From a toy to an energy tool to a stardust relic. In the right hands, anything can reach its prime state.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" width="auto" height="16px"/> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" width="auto" height="16px"> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster).
 
 ## Ingame
 
@@ -29,26 +29,26 @@ It's important to not overhold to not create an out-of-control [miazma](https://
 
 Parameters:
 
-- Press Params:
-  - Params:
-    - Time To Live: 5.0
-    - Damage Kind: `iceplasma`
-    - Speed: 60
-  - Inaccuracy: 0.0225
-  - Type: `blueplasmabullet`
-  - Count: 4
-- Press Type: `semi`
-- Energy Usage: 14
-- Hold Time Max: 0.55
 - Fire Time: 0.2
+- Hold Type: `blast`
 - Hold Params:
+  - Type: `wobbleshot`
+  - Inaccuracy: 0.01
   - Params:
     - Time To Live: 5.0
     - Damage Kind: `iceplasma`
-  - Inaccuracy: 0.01
-  - Type: `wobbleshot`
-- Hold Type: `blast`
 - Base Dps: 3
+- Energy Usage: 14
+- Press Type: `semi`
+- Hold Time Max: 0.55
+- Press Params:
+  - Count: 4
+  - Type: `blueplasmabullet`
+  - Inaccuracy: 0.0225
+  - Params:
+    - Speed: 60
+    - Time To Live: 5.0
+    - Damage Kind: `iceplasma`
 
 ## Sources
 

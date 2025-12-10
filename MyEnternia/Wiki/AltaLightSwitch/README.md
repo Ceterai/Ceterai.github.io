@@ -1,6 +1,6 @@
 # Alta Light Switch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" width="auto" height="16px"/> **Alta Light Switch** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" width="auto" height="16px"> **Alta Light Switch** is an uncommon wiring component.
 
 A compact switch that can be flipped on or off. Very tiny.
 
@@ -25,15 +25,15 @@ A compact switch that can be flipped on or off. Very tiny.
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" alt="Alta Lamp icon" loading="lazy" width="auto" height="16px"/> [Alta Lamp](https://ceterai.github.io/MyEnternia/Wiki/AltaLamp)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" alt="Alta Lamp icon" loading="lazy" width="auto" height="16px"> [Alta Lamp](https://ceterai.github.io/MyEnternia/Wiki/AltaLamp)
 
 ## Sources
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" width="auto" height="16px"/> Alta Light Switch x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"/> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"/> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*1*
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" width="auto" height="16px"> Alta Light Switch x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/circuit/icon.png" alt="Alta Circuit icon" loading="lazy" width="auto" height="16px"> [Alta Circuit](https://ceterai.github.io/MyEnternia/Wiki/AltaCircuit) x*1*
 
 Can be bought from merchants:
 

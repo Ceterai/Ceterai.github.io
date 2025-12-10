@@ -1,6 +1,6 @@
 # Ghearun Droid ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/ghearun.png" alt="Ghearun Droid ★★★ icon" loading="lazy" width="auto" height="16px"/> **Ghearun Droid ★★★** is a legendary poisonous throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/ghearun.png" alt="Ghearun Droid ★★★ icon" loading="lazy" width="auto" height="16px"> **Ghearun Droid ★★★** is a legendary poisonous throwable item.
 
 A robotic giant that could take on an army. Runs on liquid crystal energy from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).  
 Any and all tech and mechanisms equipped on this droid are initially meant for geological purposes, but leave room for creative use.
@@ -24,8 +24,8 @@ Anything to protect an alta.
 
 ### Elemental Danger
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"/> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder).
-Deals physical damage on touch, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"/> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned).
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_force.png" alt="Force Field Autoshielder icon" loading="lazy" width="auto" height="16px"> [Force Field Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/ForceFieldAutoshielder).
+Deals physical damage on touch, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned).
 
 ## Sources
 

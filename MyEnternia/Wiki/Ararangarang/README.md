@@ -1,12 +1,12 @@
 # Ararangarang ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang_2.png" alt="Ararangarang ★ icon" loading="lazy" width="auto" height="16px"/> **Ararangarang ★** is a legendary one-handed poisonous boomerang.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang_2.png" alt="Ararangarang ★ icon" loading="lazy" width="auto" height="16px"> **Ararangarang ★** is a legendary one-handed poisonous boomerang.
 
-Fueled by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), this thing is now blooming with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) lifeforms. So pretty!
+Fueled by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), this thing is now blooming with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) lifeforms. So pretty!
 
 The shards now also inflict poison.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"/> [Ararang](https://ceterai.github.io/MyEnternia/Wiki/Ararang).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"> [Ararang](https://ceterai.github.io/MyEnternia/Wiki/Ararang).
 
 ## Ingame
 
@@ -25,7 +25,7 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.6
-- Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"/> [Ararang](https://ceterai.github.io/MyEnternia/Wiki/Ararang)
+- Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"> [Ararang](https://ceterai.github.io/MyEnternia/Wiki/Ararang)
 - Params:
   - Knockback:
   - Ignore Terrain:

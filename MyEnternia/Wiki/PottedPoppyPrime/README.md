@@ -1,6 +1,6 @@
 # Potted Poppy Prime
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" width="auto" height="16px"/> **Potted Poppy Prime** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" width="auto" height="16px"> **Potted Poppy Prime** is a rare decorative object.
 
 A seemingly unsuspecting flower in a bion pot.
 
@@ -14,17 +14,17 @@ Species descriptions:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" width="auto" height="16px"/> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" width="auto" height="16px"/> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" width="auto" height="16px"> [Haven Toxins](https://ceterai.github.io/MyEnternia/Wiki/HavenToxins)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/stardust/icon.png" alt="Stardust Eco Pod icon" loading="lazy" width="auto" height="16px"> [Stardust Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/StardustEcoPod)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" width="auto" height="16px"/> Potted Poppy Prime x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/poppy/icon.png" alt="Potted Poppy Prime icon" loading="lazy" width="auto" height="16px"> Potted Poppy Prime x*1*):
   - `petalred` x*12*
-  - <img src="https://starbounder.org/mediawiki/images/4/4f/Plant_Fibre.png" alt="Plant Fibre icon" loading="lazy" width="14px" height="15px"/> [Plant Fibre](https://starbounder.org/Plant_Fibre) x*4*
-  - <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" width="16px" height="16px"/> [Cloud](https://starbounder.org/Cloud) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/bion/icon.png" alt="Bion Flower Pot icon" loading="lazy" width="auto" height="16px"/> [Bion Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/BionFlowerPot) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/4/4f/Plant_Fibre.png" alt="Plant Fibre icon" loading="lazy" width="14px" height="15px"> [Plant Fibre](https://starbounder.org/Plant_Fibre) x*4*
+  - <img src="https://starbounder.org/mediawiki/images/d/d2/Cloud.png" alt="Cloud icon" loading="lazy" width="16px" height="16px"> [Cloud](https://starbounder.org/Cloud) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" width="auto" height="16px"> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/bion/icon.png" alt="Bion Flower Pot icon" loading="lazy" width="auto" height="16px"> [Bion Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/BionFlowerPot) x*1*
 
 Can be bought from merchants:
 

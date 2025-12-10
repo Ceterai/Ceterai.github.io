@@ -1,6 +1,6 @@
 # Celestial Pick
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/celestial_pick/icon.png" alt="Celestial Pick icon" loading="lazy" width="auto" height="16px"/> **Celestial Pick** is an essential two-handed tool.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/celestial_pick/icon.png" alt="Celestial Pick icon" loading="lazy" width="auto" height="16px"> **Celestial Pick** is an essential two-handed tool.
 
 A mining tool unlike anything you've seen in other media.
 

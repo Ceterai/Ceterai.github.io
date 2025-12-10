@@ -1,10 +1,10 @@
 # Eva Linn ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance_2.png" alt="Eva Linn ★ icon" loading="lazy" width="auto" height="16px"/> **Eva Linn ★** is a legendary two-handed cryogenic sniper rifle.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance_2.png" alt="Eva Linn ★ icon" loading="lazy" width="auto" height="16px"> **Eva Linn ★** is a legendary two-handed cryogenic sniper rifle.
 
 An advanced [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight) tool designed to withstand the cold and pressure in the skyes of Eva & [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance.png" alt="Sky Lance icon" loading="lazy" width="auto" height="16px"/> [Sky Lance](https://ceterai.github.io/MyEnternia/Wiki/SkyLance).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance.png" alt="Sky Lance icon" loading="lazy" width="auto" height="16px"> [Sky Lance](https://ceterai.github.io/MyEnternia/Wiki/SkyLance).
 
 ## Ingame
 
@@ -39,14 +39,14 @@ Hold - launch an Icy Cloud Nade.
 
 Parameters:
 
-- Energy Usage: 32
 - Fire Time: 0.5
+- Hold Type: `nade`
+- Attachments:  `none`,  `laser`,  `stabilizer`
 - Hold Params:
   - Type: `icecloudgrenade`
-- Hold Type: `nade`
-- Press Attachments: `True`
 - Base Dps: 9
-- Attachments:  `none`,  `laser`,  `stabilizer`
+- Press Attachments: `True`
+- Energy Usage: 32
 
 ## Sources
 

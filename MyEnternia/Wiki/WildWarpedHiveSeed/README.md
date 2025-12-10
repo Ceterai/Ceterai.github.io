@@ -1,6 +1,6 @@
 # Wild Warped Hive Seed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Wild Warped Hive Seed icon" loading="lazy" width="auto" height="16px"/> **Wild Warped Hive Seed** is a common plantable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Wild Warped Hive Seed icon" loading="lazy" width="auto" height="16px"> **Wild Warped Hive Seed** is a common plantable item.
 
 Warped plant with hive growing atop of it.
 
@@ -30,15 +30,15 @@ Growing stages:
 3. Lasts from 1170 to 1230 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" width="auto" height="16px"/> [Warped Hive](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive) x*1* (weight: 0.9)
-   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" width="auto" height="16px"/> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed) x*1* (weight: 0.1)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" width="auto" height="16px"> [Warped Hive](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive) x*1* (weight: 0.9)
+   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" width="auto" height="16px"> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed) x*1* (weight: 0.1)
 
 ## Loot
 
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" width="auto" height="16px"/> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" alt="Warped Hive Seed icon" loading="lazy" width="auto" height="16px"> [Warped Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/WarpedHiveSeed) x*1* (weight: 1.0)
 
 ## Sources
 

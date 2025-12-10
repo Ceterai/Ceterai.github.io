@@ -1,8 +1,8 @@
 # Conscious Collar
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_yaara_collar.png" alt="Conscious Collar icon" loading="lazy" width="auto" height="16px"/> **Conscious Collar** is an uncommon collar.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_yaara_collar.png" alt="Conscious Collar icon" loading="lazy" width="auto" height="16px"> **Conscious Collar** is an uncommon collar.
 
-A collar that boosts your pet's <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"/> [electric resistance](https://starbounder.org/Electric_Resistance) by 15% and gives it <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"/> [Electric Immunity](https://starbounder.org/Electric_Resistance).
+A collar that boosts your pet's <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [electric resistance](https://starbounder.org/Electric_Resistance) by 15% and gives it <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Immunity](https://starbounder.org/Electric_Resistance).
 
 ## Ingame
 
@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_electroblockade.png" alt="Electroblockade icon" loading="lazy" width="auto" height="16px"/> [Electroblockade](https://ceterai.github.io/MyEnternia/Wiki/Electroblockade)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_electroblockade.png" alt="Electroblockade icon" loading="lazy" width="auto" height="16px"> [Electroblockade](https://ceterai.github.io/MyEnternia/Wiki/Electroblockade)
 
 ## Usage
 
@@ -32,7 +32,7 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" width="auto" height="16px"/> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" width="auto" height="16px"> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be bought from merchants:
 
@@ -40,8 +40,8 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" width="auto" height="16px"> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

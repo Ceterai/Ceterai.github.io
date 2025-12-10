@@ -1,6 +1,6 @@
 # Purple Paintgun
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgunpurple.png" alt="Purple Paintgun icon" loading="lazy" width="auto" height="16px"/> **Purple Paintgun** is an uncommon two-handed toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgunpurple.png" alt="Purple Paintgun icon" loading="lazy" width="auto" height="16px"> **Purple Paintgun** is an uncommon two-handed toy.
 
 This gun makes it rain purple.
 

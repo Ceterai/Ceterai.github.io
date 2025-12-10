@@ -1,6 +1,6 @@
 # Calotronics
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/calotronics.png" alt="Calotronics icon" loading="lazy" width="auto" height="16px"/> **Calotronics** is a common crafting material.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/calotronics.png" alt="Calotronics icon" loading="lazy" width="auto" height="16px"> **Calotronics** is a common crafting material.
 
 A piece of alta technology - general set of crystal electronics, or calotronics for short.  
 It includes all of the simplest basics used by altas in most of their devices.

@@ -1,6 +1,6 @@
 # Alta Cake Figurine ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" width="auto" height="16px"/> **Alta Cake Figurine ★** is an uncommon figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" width="auto" height="16px"> **Alta Cake Figurine ★** is an uncommon figurine.
 
 The label reads, "A figurine of a... cake?"
 

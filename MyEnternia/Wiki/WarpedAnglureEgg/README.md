@@ -1,6 +1,6 @@
 # Warped Anglure Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_warped_anglure_egg.png" alt="Warped Anglure Egg icon" loading="lazy" width="auto" height="16px"/> **Warped Anglure Egg** is a rare one-handed throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_warped_anglure_egg.png" alt="Warped Anglure Egg icon" loading="lazy" width="auto" height="16px"> **Warped Anglure Egg** is a rare one-handed throwable item.
 
 Can be used to spawn a creature called [warped anglure](https://ceterai.github.io/MyEnternia/Wiki/warpedanglure).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

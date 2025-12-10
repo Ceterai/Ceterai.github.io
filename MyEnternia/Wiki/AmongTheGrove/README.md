@@ -1,6 +1,6 @@
 # Among The Grove
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_yaara_art.png" alt="Among The Grove icon" loading="lazy" width="auto" height="16px"/> **Among The Grove** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_yaara_art.png" alt="Among The Grove icon" loading="lazy" width="auto" height="16px"> **Among The Grove** is an uncommon decorative object.
 
 A picture of a small assortment of yaara plants. Seems like it could be a part of a bigger picture.
 

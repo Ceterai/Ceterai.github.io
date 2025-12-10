@@ -1,6 +1,6 @@
 # Alta Neon Bubble Wand
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"/> **Alta Neon Bubble Wand** is a common toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"> **Alta Neon Bubble Wand** is a common toy.
 
 Wee! Bubbles!
 

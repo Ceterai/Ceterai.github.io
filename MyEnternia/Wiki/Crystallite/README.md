@@ -1,6 +1,6 @@
 # Crystallite
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystallite icon" loading="lazy" width="auto" height="16px"/> **Crystallite** is an uncommon shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystallite icon" loading="lazy" width="auto" height="16px"> **Crystallite** is an uncommon shield.
 
 A rare amethyst crystal formation with good protective capabilities. Quite pretty as well.  
 This variation of a regular gemstone is much more resistant than usual, however, not nearly as resistant as some other crystals.
@@ -24,11 +24,11 @@ Radiomessages on pickup:
 
 Applies effects when raised:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" width="auto" height="16px"/> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" width="auto" height="16px"> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator)
 
 ### Power Activation
 
-Provides an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" width="auto" height="16px"/> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator) status effect when raised.
+Provides an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_generator.png" alt="Energy Generator icon" loading="lazy" width="auto" height="16px"> [Energy Generator](https://ceterai.github.io/MyEnternia/Wiki/EnergyGenerator) status effect when raised.
 Activate block fast enough (parry time) to perform a perfect block.
 
 ## Sources

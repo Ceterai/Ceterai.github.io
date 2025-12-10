@@ -1,6 +1,6 @@
 # Calin Crippit Figurine
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_calin_crippit.png" alt="Calin Crippit Figurine icon" loading="lazy" width="auto" height="16px"/> **Calin Crippit Figurine** is a legendary figurine.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_calin_crippit.png" alt="Calin Crippit Figurine icon" loading="lazy" width="auto" height="16px"> **Calin Crippit Figurine** is a legendary figurine.
 
 The label reads, "Calin crippits tend to be no different from regular ones - except they don't come outside as often due to the reflectiveness of their shells."
 

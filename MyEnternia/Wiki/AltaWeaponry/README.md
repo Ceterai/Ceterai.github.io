@@ -29,19 +29,19 @@ Some weapons, mostly [rifles](#rifles), are able to **switch** between multiple 
 
 ##### Flashlight
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/abils/utils/flashlight.png" alt="icon" loading="lazy" width="12px" height="10px"/> A regular flashlight as a weapon attachment. Can have different power, range and color.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/abils/utils/flashlight.png" alt="icon" loading="lazy" width="12px" height="10px"> A regular flashlight as a weapon attachment. Can have different power, range and color.
 
 ##### Laser Pointer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/abils/utils/laser.png" alt="icon" loading="lazy" width="12px" height="10px"/> A laser pointer that can have different length, visibility and color.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/abils/utils/laser.png" alt="icon" loading="lazy" width="12px" height="10px"> A laser pointer that can have different length, visibility and color.
 
 ##### Stabilizer
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/abils/utils/stabilizer.png" alt="icon" loading="lazy" width="12px" height="10px"/> A special attachment that increases damage by 1.25x times.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/abils/utils/stabilizer.png" alt="icon" loading="lazy" width="12px" height="10px"> A special attachment that increases damage by 1.25x times.
 
 ##### Bipods
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/abils/utils/stand.png" alt="icon" loading="lazy" width="12px" height="10px"/> A sizeable attachment that increases firerate and accuracy by 1.35x times.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/abils/utils/stand.png" alt="icon" loading="lazy" width="12px" height="10px"> A sizeable attachment that increases firerate and accuracy by 1.35x times.
 
 ### Melee Mechanics
 

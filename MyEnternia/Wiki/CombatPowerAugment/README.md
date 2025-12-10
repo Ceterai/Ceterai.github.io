@@ -1,6 +1,6 @@
 # Combat Power Augment ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png" alt="Combat Power Augment ★★ icon" loading="lazy" width="auto" height="16px"/> **Combat Power Augment ★★** is a rare EPP augment.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png" alt="Combat Power Augment ★★ icon" loading="lazy" width="auto" height="16px"> **Combat Power Augment ★★** is a rare EPP augment.
 
 An EPP module that slightly boosts your power and overall mobility.
 
@@ -17,7 +17,7 @@ Applies effects:
 - `jumpboostaugment`
 - `rageaugment1`
 - `runboostaugment`
-- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="Swim Boost icon" loading="lazy" width="16px" height="16px"/> [Swim Boost](https://starbounder.org/Swim_Boost)
+- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="Swim Boost icon" loading="lazy" width="16px" height="16px"> [Swim Boost](https://starbounder.org/Swim_Boost)
 
 ## Usage
 
@@ -39,11 +39,11 @@ Can be extracted from EPPs with <img src="https://steamuserimages-a.akamaihd.net
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.35s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png" alt="Combat Power Augment ★★ icon" loading="lazy" width="auto" height="16px"/> Combat Power Augment ★★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"/> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"/> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
-  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"/> [Diamond](https://starbounder.org/Diamond) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Combat Protocol Datamass icon" loading="lazy" width="auto" height="16px"/> [Combat Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/CombatProtocolDatamass) x*4*
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 5.35s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_combat_power_augment.png" alt="Combat Power Augment ★★ icon" loading="lazy" width="auto" height="16px"> Combat Power Augment ★★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
+  - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"> [Diamond](https://starbounder.org/Diamond) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/combat.png" alt="Combat Protocol Datamass icon" loading="lazy" width="auto" height="16px"> [Combat Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/CombatProtocolDatamass) x*4*
 
 Can be bought from merchants:
 

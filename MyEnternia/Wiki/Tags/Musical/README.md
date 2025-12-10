@@ -6,8 +6,8 @@ The tag `musical` contains 4 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" width="auto" height="16px"/> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/clubdecks/icon.png" alt="Calin Club Decks icon" loading="lazy" width="auto" height="16px"/> [Calin Club Decks](https://ceterai.github.io/MyEnternia/Wiki/CalinClubDecks)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" width="auto" height="16px"> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/clubdecks/icon.png" alt="Calin Club Decks icon" loading="lazy" width="auto" height="16px"> [Calin Club Decks](https://ceterai.github.io/MyEnternia/Wiki/CalinClubDecks)
 
 ### Vanilla Objects
 
@@ -23,4 +23,4 @@ Following tenants require this colony tag:
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_lira.png" alt="Lira ★★ icon" loading="lazy" width="auto" height="16px"/> [Lira ★★](https://ceterai.github.io/MyEnternia/Wiki/Lira)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_lira.png" alt="Lira ★★ icon" loading="lazy" width="auto" height="16px"> [Lira ★★](https://ceterai.github.io/MyEnternia/Wiki/Lira)

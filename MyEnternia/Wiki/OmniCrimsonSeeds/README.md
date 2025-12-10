@@ -1,6 +1,6 @@
 # Omni Crimson Seeds ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.png" alt="Omni Crimson Seeds ★ icon" loading="lazy" width="auto" height="16px"/> **Omni Crimson Seeds ★** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.png" alt="Omni Crimson Seeds ★ icon" loading="lazy" width="auto" height="16px"> **Omni Crimson Seeds ★** is a legendary throwable item.
 
 Toss these on any ground to grow crimson-colored grass!
 
@@ -10,15 +10,15 @@ Toss these on any ground to grow crimson-colored grass!
 
 Can be used to craft:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"/> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.png" alt="Omni Crimson Seeds ★ icon" loading="lazy" width="auto" height="16px"/> Omni Crimson Seeds ★ x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_crimson_grass_seeds.png" alt="Crimson Grass Seeds icon" loading="lazy" width="auto" height="16px"/> [Crimson Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/CrimsonGrassSeeds) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"/> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/omni/ct_crimson_grass_seeds.png" alt="Omni Crimson Seeds ★ icon" loading="lazy" width="auto" height="16px"> Omni Crimson Seeds ★ x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_crimson_grass_seeds.png" alt="Crimson Grass Seeds icon" loading="lazy" width="auto" height="16px"> [Crimson Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/CrimsonGrassSeeds) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
 
 Can be bought from merchants:
 

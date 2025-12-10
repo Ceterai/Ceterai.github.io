@@ -1,6 +1,6 @@
 # Bishyn Shield ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Bishyn Shield ★ icon" loading="lazy" width="auto" height="16px"/> **Bishyn Shield ★** is a rare shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Bishyn Shield ★ icon" loading="lazy" width="auto" height="16px"> **Bishyn Shield ★** is a rare shield.
 
 This simple shield is hiding some secret poison-related powers that you might want to explore.  
 It has a special device attached to the handle that is meant to adapt your body to the nature of bishyn crystal poison.
@@ -24,27 +24,27 @@ Radiomessages on pickup:
 
 Applies effects:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" width="auto" height="16px"/> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" width="auto" height="16px"> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer)
 
 Applies effects when raised:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"/> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection)
 
 Applies effects on knockback:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"/> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned)
 
 ### Redistribution
 
-Provides an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"/> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection) status effect when raised.  
-Inflicts <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"/> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned) on hit.  
+Provides an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="Enviro Protection icon" loading="lazy" width="auto" height="16px"> [Enviro Protection](https://ceterai.github.io/MyEnternia/Wiki/EnviroProtection) status effect when raised.  
+Inflicts <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned) on hit.  
 Activate block fast enough (parry time) to perform a perfect block.
 
 ## Sources
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" width="auto" height="16px"/> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chest/icon.png" alt="Bishyn Chest icon" loading="lazy" width="auto" height="16px"> [Bishyn Chest](https://ceterai.github.io/MyEnternia/Wiki/BishynChest)
 
 Can be bought from merchants:
 
@@ -54,7 +54,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" width="auto" height="16px"> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).
 

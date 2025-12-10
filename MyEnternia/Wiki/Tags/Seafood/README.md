@@ -10,4 +10,4 @@ The tag `seafood` contains 1 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_benema_fertilizer.png" alt="Benema Fertilizer icon" loading="lazy" width="auto" height="16px"> [Benema Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BenemaFertilizer)

@@ -1,11 +1,11 @@
 # Crystal Razor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" width="auto" height="16px"/> **Crystal Razor ★** is a legendary two-handed electric broadsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" width="auto" height="16px"> **Crystal Razor ★** is a legendary two-handed electric broadsword.
 
 A combat tool created as an art piece by an unknown Faradea Legend.  
 Perhaps this is what led to the creation of all of the prototypes. Seems like calline crystals might have some hidden extraordinary features...
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" width="auto" height="16px"/> [Crystalline Sword](https://ceterai.github.io/MyEnternia/Wiki/CrystallineSword).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" width="auto" height="16px"> [Crystalline Sword](https://ceterai.github.io/MyEnternia/Wiki/CrystallineSword).
 
 ## Ingame
 
@@ -26,10 +26,11 @@ This refined, almost razor-sharp blade spins in your hand, creating a light show
 
 Parameters:
 
-- Energy Usage: 32
 - Fire Time: 0.9
+- Base Dps: 12
 - Damage Config:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"/> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- Energy Usage: 32
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -55,7 +56,6 @@ Parameters:
 - Swoosh: `swoosh1`
 - Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
 - Swoosh Sound: `primary_hold`
-- Base Dps: 12
 
 ### Sinara's Blast
 

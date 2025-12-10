@@ -1,6 +1,6 @@
 # Ionic Drone ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" width="auto" height="16px"/> **Ionic Drone ★★** is a rare electric throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" width="auto" height="16px"> **Ionic Drone ★★** is a rare electric throwable item.
 
 An advanced armored drone filled with enternia energy. Has ranged attacks and spreads ionized clouds.  
 This model is a direct upgrade to a once commonplace alta battle drone.
@@ -24,8 +24,8 @@ Ion discharges can be very dangerous to other types of machinery, since they jum
 
 ### Supercharged Drone
 
-Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"/> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_mind.png" alt="Mind Field icon" loading="lazy" width="auto" height="16px"/> [Mind Field](https://ceterai.github.io/MyEnternia/Wiki/MindField), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"/> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds).
-Deals [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) damage on touch, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"/> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock).  
+Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_mind.png" alt="Mind Field icon" loading="lazy" width="auto" height="16px"> [Mind Field](https://ceterai.github.io/MyEnternia/Wiki/MindField), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_clouds.png" alt="Ionic Clouds icon" loading="lazy" width="auto" height="16px"> [Ionic Clouds](https://ceterai.github.io/MyEnternia/Wiki/IonicClouds).
+Deals [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) damage on touch, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock).  
 Warning: very high voltage!
 
 ## Sources

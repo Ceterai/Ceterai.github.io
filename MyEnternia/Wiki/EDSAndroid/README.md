@@ -19,9 +19,9 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"/> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1* (weight: 0.5)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"/> [Alta Button](https://ceterai.github.io/MyEnternia/Wiki/AltaButton) x*2* (weight: 0.5)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/visor/icon.png" alt="Omniblue Visor icon" loading="lazy" width="auto" height="16px"/> [Omniblue Visor](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVisor) x*1* (weight: 0.05)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"> [Alta Button](https://ceterai.github.io/MyEnternia/Wiki/AltaButton) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/visor/icon.png" alt="Omniblue Visor icon" loading="lazy" width="auto" height="16px"> [Omniblue Visor](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVisor) x*1* (weight: 0.05)
 
 ## Technical Information
 

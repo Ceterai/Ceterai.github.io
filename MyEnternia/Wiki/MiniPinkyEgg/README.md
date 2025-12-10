@@ -1,6 +1,6 @@
 # Mini Pinky Egg
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_mini_pinky_egg.png" alt="Mini Pinky Egg icon" loading="lazy" width="auto" height="16px"/> **Mini Pinky Egg** is a legendary throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_mini_pinky_egg.png" alt="Mini Pinky Egg icon" loading="lazy" width="auto" height="16px"> **Mini Pinky Egg** is a legendary throwable item.
 
 Can be used to spawn a slime called [mini pinky](https://ceterai.github.io/MyEnternia/Wiki/minipinky).  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.

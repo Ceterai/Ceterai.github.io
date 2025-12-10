@@ -1,6 +1,6 @@
 # Alta Marine Display
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" width="auto" height="16px"/> **Alta Marine Display** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" width="auto" height="16px"> **Alta Marine Display** is a common decorative object.
 
 An aquarium with enough space for a small squid, or a big jello.  
 Can be used for capturing water critters for collection and to have them as pets.
@@ -24,12 +24,12 @@ Can be used for capturing water critters for collection and to have them as pets
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" width="auto" height="16px"/> Alta Marine Display x*1*):
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shelf/icon.png" alt="Alta Shelf icon" loading="lazy" width="auto" height="16px"/> [Alta Shelf](https://ceterai.github.io/MyEnternia/Wiki/AltaShelf) x*2*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/sink/icon.png" alt="Alta Sink icon" loading="lazy" width="auto" height="16px"/> [Alta Sink](https://ceterai.github.io/MyEnternia/Wiki/AltaSink) x*1*
-  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"/> [Crystal](https://starbounder.org/Crystal) x*12*
-  - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" width="16px" height="16px"/> [Water](https://starbounder.org/Water) x*40*
-  - <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" width="10px" height="10px"/> [Moondust](https://starbounder.org/Moondust) x*16*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" width="auto" height="16px"> Alta Marine Display x*1*):
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/shelf/icon.png" alt="Alta Shelf icon" loading="lazy" width="auto" height="16px"> [Alta Shelf](https://ceterai.github.io/MyEnternia/Wiki/AltaShelf) x*2*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/sink/icon.png" alt="Alta Sink icon" loading="lazy" width="auto" height="16px"> [Alta Sink](https://ceterai.github.io/MyEnternia/Wiki/AltaSink) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*12*
+  - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" width="16px" height="16px"> [Water](https://starbounder.org/Water) x*40*
+  - <img src="https://starbounder.org/mediawiki/images/f/fc/Moondust.png" alt="Moondust icon" loading="lazy" width="10px" height="10px"> [Moondust](https://starbounder.org/Moondust) x*16*
   - `kelp` x*2*
   - `coralfragment` x*2*
 

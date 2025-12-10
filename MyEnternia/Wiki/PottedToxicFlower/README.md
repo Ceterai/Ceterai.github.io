@@ -1,6 +1,6 @@
 # Potted Toxic Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" width="auto" height="16px"/> **Potted Toxic Flower** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" width="auto" height="16px"> **Potted Toxic Flower** is a rare decorative object.
 
 A decorative plant in a big altan vase-like pod.
 
@@ -39,15 +39,15 @@ Can be used to craft:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" width="auto" height="16px"/> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alta/icon.png" alt="Potted Alta Plant icon" loading="lazy" width="auto" height="16px"> [Potted Alta Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAltaPlant)
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" width="auto" height="16px"/> Potted Toxic Flower x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" width="auto" height="16px"> Potted Toxic Flower x*1*):
   - `toxicflowerback` x*1*
-  - <img src="https://starbounder.org/mediawiki/images/1/12/Waste.png" alt="Waste icon" loading="lazy" width="10px" height="10px"/> [Waste](https://starbounder.org/Waste) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"/> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer) x*1*
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" width="auto" height="16px"/> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/1/12/Waste.png" alt="Waste icon" loading="lazy" width="10px" height="10px"> [Waste](https://starbounder.org/Waste) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"> [Biomix Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BiomixFertilizer) x*1*
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/plant/icon.png" alt="Alta Plant Pod icon" loading="lazy" width="auto" height="16px"> [Alta Plant Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPlantPod) x*1*
 
 Can be bought from merchants:
 

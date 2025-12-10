@@ -1,6 +1,6 @@
 # Sharp Phospholion Deposit
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit3/icon.png" alt="Sharp Phospholion Deposit icon" loading="lazy" width="auto" height="16px"/> **Sharp Phospholion Deposit** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_deposits/ct_phospholion_deposit3/icon.png" alt="Sharp Phospholion Deposit icon" loading="lazy" width="auto" height="16px"> **Sharp Phospholion Deposit** is a common decorative object.
 
 This moonrock formation is full of some metal shards.
 
@@ -30,26 +30,26 @@ This object **doesn't drop itself** when broken.
 Drops following **drop option 1** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"/> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*3* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"/> [Moonrock](https://starbounder.org/Moonrock) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*3* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"> [Moonrock](https://starbounder.org/Moonrock) x*1* (weight: 1.0)
 
 Drops following **drop option 2** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"/> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*2* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"/> [Moonrock](https://starbounder.org/Moonrock) x*2* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*2* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"> [Moonrock](https://starbounder.org/Moonrock) x*2* (weight: 1.0)
 
 Drops following **drop option 3** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"/> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*2* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"/> [Moonrock](https://starbounder.org/Moonrock) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*2* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"> [Moonrock](https://starbounder.org/Moonrock) x*1* (weight: 1.0)
 
 Drops following **drop option 4** loot:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"/> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*1* (weight: 1.0)
-- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"/> [Moonrock](https://starbounder.org/Moonrock) x*1* (weight: 1.0)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [Phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) x*1* (weight: 1.0)
+- <img src="https://starbounder.org/mediawiki/images/b/b8/Moonrock.png" alt="Moonrock icon" loading="lazy" width="10px" height="10px"> [Moonrock](https://starbounder.org/Moonrock) x*1* (weight: 1.0)
 
 ## Sources
 

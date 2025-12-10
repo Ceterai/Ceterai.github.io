@@ -1,6 +1,6 @@
 # Ceterteal Dart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart_ceterteal.png" alt="Ceterteal Dart icon" loading="lazy" width="auto" height="16px"/> **Ceterteal Dart** is a common throwable item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart_ceterteal.png" alt="Ceterteal Dart icon" loading="lazy" width="auto" height="16px"> **Ceterteal Dart** is a common throwable item.
 
 A throwing dart, aim for the bullseye.
 

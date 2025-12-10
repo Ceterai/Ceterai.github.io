@@ -1,8 +1,8 @@
 # Spectre
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_spectre.png" alt="Spectre icon" loading="lazy" width="auto" height="16px"/> **Spectre** is a legendary two-handed poisonous hammer.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_spectre.png" alt="Spectre icon" loading="lazy" width="auto" height="16px"> **Spectre** is a legendary two-handed poisonous hammer.
 
-A powerful battle axe. Its razor is made out of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy and can change its polarity on a whim.  
+A powerful battle axe. Its razor is made out of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy and can change its polarity on a whim.  
 These energy swaps, while spectacular, are quite unstable. Therefore, the Spectre tends to suffer from elemental offsets, where some of its abilities might get the element change with a certain delay.
 
 ## Ingame
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Spectral Tear
 
-A sequence of 3 heavy strikes. Each strike changes the element. Hold to create a [Traveling Slash](https://ceterai.github.io/MyEnternia/Wiki/TravelingSlash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+A sequence of 3 heavy strikes. Each strike changes the element. Hold to create a [Traveling Slash](https://ceterai.github.io/MyEnternia/Wiki/TravelingSlash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 The element changes are affecting the _Spectral Tear_ immediately, but might take time to spread onto [Spectral Wave](https://ceterai.github.io/MyEnternia/Wiki/SpectralWave) as well.
 
 Parameters:
@@ -29,7 +29,7 @@ Parameters:
 - Energy Usage: 32
 - Damage Config:
   - Item Bonus:
-    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
     - Damage Factor: 0.005
     - Max: 120
 - Switch Element Config: 
@@ -70,7 +70,7 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"/> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

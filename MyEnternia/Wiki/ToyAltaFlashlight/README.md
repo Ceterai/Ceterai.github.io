@@ -1,6 +1,6 @@
 # Toy Alta Flashlight
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/flashlight/icon.png" alt="Toy Alta Flashlight icon" loading="lazy" width="auto" height="16px"/> **Toy Alta Flashlight** is an uncommon toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/flashlight/icon.png" alt="Toy Alta Flashlight icon" loading="lazy" width="auto" height="16px"> **Toy Alta Flashlight** is an uncommon toy.
 
 A handy toy flashlight!
 

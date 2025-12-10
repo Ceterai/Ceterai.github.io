@@ -19,8 +19,8 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel) x*48* (weight: 0.1)
-- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"/> [Pixel](https://starbounder.org/Pixel) x*32* (weight: 0.1)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"> [Pixel](https://starbounder.org/Pixel) x*48* (weight: 0.1)
+- <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"> [Pixel](https://starbounder.org/Pixel) x*32* (weight: 0.1)
 - `goldbar` x*1* (weight: 0.1)
 - `treasurehoard` x*8* (weight: 0.1)
 - `goldvase1` x*1* (weight: 0.02)

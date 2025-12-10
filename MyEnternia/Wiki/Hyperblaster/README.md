@@ -1,11 +1,11 @@
 # Hyperblaster ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" width="auto" height="16px"/> **Hyperblaster ★** is a legendary one-handed electric pistol.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" width="auto" height="16px"> **Hyperblaster ★** is a legendary one-handed electric pistol.
 
-This cutting tool has been upgraded to a full-on automatic blaster that uses <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"/> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy for its pulses.
+This cutting tool has been upgraded to a full-on automatic blaster that uses <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy for its pulses.
 Now with a laser pointer.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" width="auto" height="16px"/> [Pulsecutter](https://ceterai.github.io/MyEnternia/Wiki/Pulsecutter).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" width="auto" height="16px"> [Pulsecutter](https://ceterai.github.io/MyEnternia/Wiki/Pulsecutter).
 
 ## Ingame
 
@@ -21,18 +21,18 @@ Enhanced pulses with higher damage output.
 
 Parameters:
 
-- Press Params:
-  - Type: `ct_impulse_small`
-  - Inaccuracy: 0.01
-- Press Type: `semi`
-- Energy Usage: 16
-- Hold Time Max: 0.75
 - Fire Time: 0.2
+- Hold Type: `blast`
 - Hold Params:
   - Type: `ct_impulse_medium`
   - Inaccuracy: 0.01
-- Hold Type: `blast`
 - Base Dps: 4
+- Energy Usage: 16
+- Press Type: `semi`
+- Hold Time Max: 0.75
+- Press Params:
+  - Type: `ct_impulse_small`
+  - Inaccuracy: 0.01
 
 ## Sources
 

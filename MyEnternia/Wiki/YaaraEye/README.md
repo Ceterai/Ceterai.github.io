@@ -1,6 +1,6 @@
 # Yaara Eye
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"/> **Yaara Eye** is an uncommon food item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> **Yaara Eye** is an uncommon food item.
 
 This juicy fruit-like sphere is actually part of a flower. Can be used for cooking, but is fermenting very quickly.  
 The texture is a bit similar to the pulp of a [lychee](https://en.wikipedia.org/wiki/Lychee) fruit.
@@ -17,21 +17,21 @@ Species descriptions:
 
 Unlocks blueprints for:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" width="auto" height="16px"/> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" width="auto" height="16px"/> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" width="auto" height="16px"> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" width="auto" height="16px"> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings)
 
 <details markdown="1"><summary>Can be used to craft: (Expand 10 items)</summary>
 
 - `ct_food_mimic`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" width="auto" height="16px"/> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" width="auto" height="16px"/> [Impulse Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ImpulseStimPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"/> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"/> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" width="auto" height="16px"/> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" width="auto" height="16px"> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" width="auto" height="16px"> [Impulse Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ImpulseStimPack)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" width="auto" height="16px"> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava)
 - `orangedye`
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" width="auto" height="16px"/> [Potted Yaara Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraFlower)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"/> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" width="auto" height="16px"/> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" width="auto" height="16px"> [Potted Yaara Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" width="auto" height="16px"> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings)
 
 </details>
 
@@ -43,7 +43,7 @@ Can be used in transmutation studies in the <img src="https://steamuserimages-a.
 
 Found naturally in containers:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" width="auto" height="16px"/> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" width="auto" height="16px"> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)
 
 Can be bought from merchants:
 
@@ -63,25 +63,25 @@ Can be bought from merchants:
 
 Can be obtained from special items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" width="auto" height="16px"/> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" width="auto" height="16px"> [Yaara Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/YaaraLootCrate)
 
 Drops from big plants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" width="auto" height="16px"/> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" width="auto" height="16px"/> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_eye_node.png" alt="Eyed Yaara Node icon" loading="lazy" width="auto" height="16px"> [Eyed Yaara Node](https://ceterai.github.io/MyEnternia/Wiki/EyedYaaraNode)
 
 Drops from destroyed obstacles:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_bulb/icon.png" alt="Yaara Bulb icon" loading="lazy" width="auto" height="16px"/> [Yaara Bulb](https://ceterai.github.io/MyEnternia/Wiki/YaaraBulb)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_bulb/icon.png" alt="Yaara Bulb icon" loading="lazy" width="auto" height="16px"> [Yaara Bulb](https://ceterai.github.io/MyEnternia/Wiki/YaaraBulb)
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" width="auto" height="16px"/> [Boosted Yaavi Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaviSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" width="auto" height="16px"/> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" width="auto" height="16px"/> [Wild Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraEyeSprout)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sapling/icon.png" alt="Yaara Eye Sapling icon" loading="lazy" width="auto" height="16px"/> [Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" width="auto" height="16px"/> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/pod/icon.png" alt="Yaavi Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"/> [Yaavi Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaviEcoPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/boosted/icon.png" alt="Boosted Yaavi Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Boosted Yaavi Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaviSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/icon.png" alt="Wild Yaara Eye Sprout icon" loading="lazy" width="auto" height="16px"> [Wild Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildYaaraEyeSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/sapling/icon.png" alt="Yaara Eye Sapling icon" loading="lazy" width="auto" height="16px"> [Yaara Eye Sapling](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" width="auto" height="16px"> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/pod/icon.png" alt="Yaavi Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"> [Yaavi Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaviEcoPod)
 
 </details>
 

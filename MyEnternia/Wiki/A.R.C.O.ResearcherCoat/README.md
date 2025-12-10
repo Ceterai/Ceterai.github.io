@@ -1,6 +1,6 @@
 # A.R.C.O. Researcher Coat
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="A.R.C.O. Researcher Coat icon" loading="lazy" width="auto" height="16px"/> **A.R.C.O. Researcher Coat** is a rare chest cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="A.R.C.O. Researcher Coat icon" loading="lazy" width="auto" height="16px"> **A.R.C.O. Researcher Coat** is a rare chest cosmetic item.
 
 An official A.R.C.O. researcher's coat. Practical and well thought-out.  
 Just like other pieces of alta laboratory attire, this one provides full body coverage with optional gloves to complete the set.

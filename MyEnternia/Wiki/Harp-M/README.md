@@ -1,10 +1,10 @@
 # Harp-M ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon_upg.png" alt="Harp-M ★ icon" loading="lazy" width="auto" height="16px"/> **Harp-M ★** is a legendary bow.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon_upg.png" alt="Harp-M ★ icon" loading="lazy" width="auto" height="16px"> **Harp-M ★** is a legendary bow.
 
 A special squid capturing device with electric neutralizers - to defeat, but not over-defeat.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon.png" alt="Alta Harpooner icon" loading="lazy" width="auto" height="16px"/> [Alta Harpooner](https://ceterai.github.io/MyEnternia/Wiki/AltaHarpooner).
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon.png" alt="Alta Harpooner icon" loading="lazy" width="auto" height="16px"> [Alta Harpooner](https://ceterai.github.io/MyEnternia/Wiki/AltaHarpooner).
 
 ## Ingame
 

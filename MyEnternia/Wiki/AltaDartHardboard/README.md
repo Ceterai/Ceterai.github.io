@@ -1,6 +1,6 @@
 # Alta Dart Hardboard
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/hard/body.png" alt="Alta Dart Hardboard icon" loading="lazy" width="auto" height="16px"/> **Alta Dart Hardboard** is an uncommon toy.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/hard/body.png" alt="Alta Dart Hardboard icon" loading="lazy" width="auto" height="16px"> **Alta Dart Hardboard** is an uncommon toy.
 
 A basic alta board for playing darts.
 

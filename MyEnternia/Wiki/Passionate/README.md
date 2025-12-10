@@ -1,12 +1,12 @@
 # Passionate
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/passionate.png:1" alt="Passionate icon" loading="lazy" width="auto" height="16px"/> **Passionate** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/passionate.png:1" alt="Passionate icon" loading="lazy" width="auto" height="16px"> **Passionate** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
 An amazing feeling of being in the moment over something you enjoy.
 
 Applied by following items:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" width="auto" height="16px"/> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" width="auto" height="16px"> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
 
 ## Parameters
 
