@@ -1,6 +1,6 @@
 # Alta Comm Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/human/human-tier1/icons.png:head" alt="Alta Comm Set icon" loading="lazy" width="auto" height="16px"> **Alta Comm Set** is a common head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-comm_set.png" alt="Alta Comm Set icon" loading="lazy" width="auto" height="16px"> **Alta Comm Set** is a common head armor piece.
 
 This ordinary communication set doesn't take a lot of space on your head, yet still provides simple protection. Like a headset, but useful.  
 These are usually worn by supervisors and agents on space stations.

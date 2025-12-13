@@ -1,6 +1,6 @@
 # Calin Dress Top
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/costumes/hotholiday/icons.png:chest" alt="Calin Dress Top icon" loading="lazy" width="auto" height="16px"> **Calin Dress Top** is a legendary chest cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_body_mimic-calin_dress.png" alt="Calin Dress Top icon" loading="lazy" width="auto" height="16px"> **Calin Dress Top** is a legendary chest cosmetic item.
 
 A night dress often worn to [alta clubhouses](https://ceterai.github.io/MyEnternia/Wiki/altaclubhouses). Designed by [perizhad](https://ceterai.github.io/MyEnternia/Wiki/Alta#perizhad).  
 Made from a high-quality material, this dress will make you the center of attention.

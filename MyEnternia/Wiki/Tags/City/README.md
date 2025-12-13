@@ -37,7 +37,7 @@ The tag `city` contains 46 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" width="auto" height="16px"> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" width="auto" height="16px"> [Potted Toxic Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedToxicFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" width="auto" height="16px"> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/hylotl/softdrinksign/softdrinksignicon.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-tea_cafe_sign.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
 
 </details>
 

@@ -1,6 +1,6 @@
 # Aric Stew
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier6/wartweedstew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> **Aric Stew** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-aric_stew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> **Aric Stew** is a rare dish.
 
 A mushroom stew that requires very high temperatures for cooking, which is why it's served in a [bionium](https://ceterai.github.io/MyEnternia/Wiki/bionium) bowl. Don't get burned!  
 If properly prepared, will result in a proper meaty-mushroomy stew. If not, then, well, the bowl will probably explode.
@@ -24,7 +24,7 @@ Applies effects:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier6/wartweedstew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> Aric Stew x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-aric_stew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> Aric Stew x*1*):
   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*4*
   - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam) x*1*

@@ -1,6 +1,6 @@
 # Neo-MP ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/unrand/neouzi/neouzi.png" alt="Neo-MP ★ icon" loading="lazy" width="auto" height="16px"> **Neo-MP ★** is a rare one-handed poisonous machine gun.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-neo_mp.png" alt="Neo-MP ★ icon" loading="lazy" width="auto" height="16px"> **Neo-MP ★** is a rare one-handed poisonous machine gun.
 
 A neo model fuzed with alta tech an various protocols. Its batteries generate plasma with high levels of acidity.
 
@@ -18,14 +18,14 @@ Rapid fire of elemental projectiles that leave a negative effect on the target.
 
 Parameters:
 
-- Muzzle Flash Variants: 1
-- Energy Usage: 20
 - Projectile Count: 1
 - Projectile Type: `neotommygunbullet`
+- Muzzle Flash Variants: 1
+- Base Dps: 6.5
+- Energy Usage: 20
+- Inaccuracy: 0.05
 - Fire Type: `auto`
 - Fire Time: 0.13
-- Inaccuracy: 0.05
-- Base Dps: 6.5
 
 ## Sources
 

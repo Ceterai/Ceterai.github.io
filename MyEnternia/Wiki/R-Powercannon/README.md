@@ -5,7 +5,7 @@
 A powerful cannon that utilizes <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) both as coolant and as missile component.  
 This heavy energy tool has outside origins and was simply altered in a Neiteru alta lab.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/exmachina/exmachina.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype).
+An upgrade for <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype).
 
 ## Ingame
 
@@ -25,15 +25,15 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Energy Usage: 40
-- Projectile Parameters:
-  - Knockback: 40
 - Projectile Count: 1
 - Projectile Type: `poisonplasmarocket`
-- Fire Type: `auto`
-- Fire Time: 1.5
-- Inaccuracy:
 - Base Dps: 10
+- Energy Usage: 40
+- Inaccuracy:
+- Fire Type: `auto`
+- Projectile Parameters:
+  - Knockback: 40
+- Fire Time: 1.5
 
 ### Secondary Ability
 

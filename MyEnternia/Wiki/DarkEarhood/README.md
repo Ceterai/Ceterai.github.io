@@ -1,6 +1,6 @@
 # Dark Earhood
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/kathood/icons.png:head" alt="Dark Earhood icon" loading="lazy" width="auto" height="16px"> **Dark Earhood** is a rare head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-earhood.png" alt="Dark Earhood icon" loading="lazy" width="auto" height="16px"> **Dark Earhood** is a rare head cosmetic item.
 
 A cozy hood with pretty ears that will make any gamer happy.  
 Increases chances of being hugged by another alta by 500%. Which is mostly useless considering they are already at 90%.

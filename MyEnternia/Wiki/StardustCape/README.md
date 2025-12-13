@@ -1,6 +1,6 @@
 # Stardust Cape
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/backitems/rainbowcape/rainbowcapebackicon.png" alt="Stardust Cape icon" loading="lazy" width="auto" height="16px"> **Stardust Cape** is a rare back cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_back_mimic-cape_stardust.png" alt="Stardust Cape icon" loading="lazy" width="auto" height="16px"> **Stardust Cape** is a rare back cosmetic item.
 
 A pretty cape made of starmatter and pure stardust.  
 You can see tiny stardust particles radiate from inside it.

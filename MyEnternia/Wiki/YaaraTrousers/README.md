@@ -1,6 +1,6 @@
 # Yaara Trousers
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/costumes/rainbowood/icons.png:pants" alt="Yaara Trousers icon" loading="lazy" width="auto" height="16px"> **Yaara Trousers** is a rare leg cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_legs_mimic-yaara.png" alt="Yaara Trousers icon" loading="lazy" width="auto" height="16px"> **Yaara Trousers** is a rare leg cosmetic item.
 
 These trousers make a pleasant woody sound when walking.  
 Worth noting that the wooden texture of this peace of costume doesn't reflect it's protective capabilities.

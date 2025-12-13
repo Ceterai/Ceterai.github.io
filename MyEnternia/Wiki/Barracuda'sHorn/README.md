@@ -25,8 +25,8 @@ The aerodynamic shape of the horn allows to make smooth, yet slow hits on the ta
 
 Parameters:
 
-- Fire Time: 1.0
 - Base Dps: 13
+- Fire Time: 1.0
 
 ### Secondary Ability
 
@@ -35,9 +35,9 @@ Launches a poison wave, dealing damage to all targets in its path.
 Parameters:
 
 - Energy Usage: 80
-- Base Damage: 1
-- Projectile Offset:  4.5,  0.5
 - Projectile Type: `webblast`
+- Projectile Offset:  4.5,  0.5
+- Base Damage: 1
 
 ## Sources
 

@@ -6,7 +6,7 @@ The tag `enchanted` contains 9 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/avian/goldenducky/goldenduckyicon.png" alt="Little Quackie icon" loading="lazy" width="auto" height="16px"> [Little Quackie](https://ceterai.github.io/MyEnternia/Wiki/LittleQuackie)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-duck.png" alt="Little Quackie icon" loading="lazy" width="auto" height="16px"> [Little Quackie](https://ceterai.github.io/MyEnternia/Wiki/LittleQuackie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/vio_zych/icon.png" alt="Vio Zych icon" loading="lazy" width="auto" height="16px"> [Vio Zych](https://ceterai.github.io/MyEnternia/Wiki/VioZych)
 
 ## Tenants
@@ -19,8 +19,8 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" width="auto" height="16px"> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" width="auto" height="16px"> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Pulser ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedPulser)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/images/eyepatch.png:nearidle" alt="Enchanted Shield ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Shield ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedShield)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/images/uncommon/1.png:nearidle" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"> [Vi-Callista ★★](https://ceterai.github.io/MyEnternia/Wiki/Vi-Callista)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-viona_shield.png" alt="Enchanted Shield ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Shield ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedShield)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-vi_callista.png" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"> [Vi-Callista ★★](https://ceterai.github.io/MyEnternia/Wiki/Vi-Callista)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"> [Vionos Twins](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins)
 
 </details>

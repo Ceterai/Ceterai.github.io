@@ -1,6 +1,6 @@
 # Alta Scout Chair
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3chair/tier3chairicon.png" alt="Alta Scout Chair icon" loading="lazy" width="auto" height="16px"> **Alta Scout Chair** is an uncommon piece of furniture.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_chair.png" alt="Alta Scout Chair icon" loading="lazy" width="auto" height="16px"> **Alta Scout Chair** is an uncommon piece of furniture.
 
 A deep-seat chair with titanium railing and silk cover.  
 These extremely relaxing chairs were designed to give exhausted alta scouts proper ergonomic rest.

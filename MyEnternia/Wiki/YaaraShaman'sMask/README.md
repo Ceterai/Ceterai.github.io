@@ -1,6 +1,6 @@
 # Yaara Shaman's Mask ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/floran/floran-tier6manipulator/icons.png:head" alt="Yaara Shaman's Mask ★ icon" loading="lazy" width="auto" height="16px"> **Yaara Shaman's Mask ★** is a legendary head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-yaara_shaman_mask.png" alt="Yaara Shaman's Mask ★ icon" loading="lazy" width="auto" height="16px"> **Yaara Shaman's Mask ★** is a legendary head cosmetic item.
 
 A fierce looking ritualistic mask full of ornaments designating a shaman among [yaara keepers](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper).  
 Enchanted eyes and a silent grin are the least disquieting aspects of this terrifying mask.

@@ -1,6 +1,6 @@
 # Mirazh ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/protectorate/violiumshortsword/violiumshortswordicon.png" alt="Mirazh ★ icon" loading="lazy" width="auto" height="16px"> **Mirazh ★** is a rare one-handed electric shortsword.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-mirazh.png" alt="Mirazh ★ icon" loading="lazy" width="auto" height="16px"> **Mirazh ★** is a rare one-handed electric shortsword.
 
 An energy sword wrapped in sturdy heat-reducing astera materials. A favorite of any spacedrifter.
 

@@ -50,19 +50,19 @@ Following tenants require this colony tag:
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/oculemonmeringue.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> [Alta Charlotte](https://ceterai.github.io/MyEnternia/Wiki/AltaCharlotte)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_charlotte.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> [Alta Charlotte](https://ceterai.github.io/MyEnternia/Wiki/AltaCharlotte)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-birthday_cake.png" alt="Birthday Cake icon" loading="lazy" width="auto" height="16px"> [Birthday Cake](https://ceterai.github.io/MyEnternia/Wiki/BirthdayCake)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-calin_jam_dumplings.png" alt="Calin Jam Dumplings icon" loading="lazy" width="auto" height="16px"> [Calin Jam Dumplings](https://ceterai.github.io/MyEnternia/Wiki/CalinJamDumplings)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-dreamer.png" alt="Dreamer's Tea icon" loading="lazy" width="auto" height="16px"> [Dreamer's Tea](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sTea)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-graa_venetto.png" alt="Graa Venetto icon" loading="lazy" width="auto" height="16px"> [Graa Venetto](https://ceterai.github.io/MyEnternia/Wiki/GraaVenetto)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" width="auto" height="16px"> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/costumes/hawaiian/icons.png:pants" alt="Koywa Skirt icon" loading="lazy" width="auto" height="16px"> [Koywa Skirt](https://ceterai.github.io/MyEnternia/Wiki/KoywaSkirt)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_legs_mimic-koywa_skirt.png" alt="Koywa Skirt icon" loading="lazy" width="auto" height="16px"> [Koywa Skirt](https://ceterai.github.io/MyEnternia/Wiki/KoywaSkirt)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" width="auto" height="16px"> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_lifespring-lifesapling.png" alt="Lifesapling icon" loading="lazy" width="auto" height="16px"> [Lifesapling](https://ceterai.github.io/MyEnternia/Wiki/Lifesapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_bio_fresh-miko.png" alt="Miko Fresh icon" loading="lazy" width="auto" height="16px"> [Miko Fresh](https://ceterai.github.io/MyEnternia/Wiki/MikoFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/koywa.png" alt="River Camping Brochure icon" loading="lazy" width="auto" height="16px"> [River Camping Brochure](https://ceterai.github.io/MyEnternia/Wiki/RiverCampingBrochure)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-koywa.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/spookypie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> ["Sentia's Crown" Pie ★](https://ceterai.github.io/MyEnternia/Wiki/Sentia'sCrownPie)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-sentia_crown_pie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> ["Sentia's Crown" Pie ★](https://ceterai.github.io/MyEnternia/Wiki/Sentia'sCrownPie)
 
 </details>

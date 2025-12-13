@@ -1,6 +1,6 @@
 # Spectral Pod ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/crystalline/crystalchest/crystalchesticon.png" alt="Spectral Pod ★★★ icon" loading="lazy" width="auto" height="16px"> **Spectral Pod ★★★** is a legendary storage unit.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-spectral_pod.png" alt="Spectral Pod ★★★ icon" loading="lazy" width="auto" height="16px"> **Spectral Pod ★★★** is a legendary storage unit.
 
 This resilient chest is made out of strforged materials.  
 It shines with slight stardust tint.

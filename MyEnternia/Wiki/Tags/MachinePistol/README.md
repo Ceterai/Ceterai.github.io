@@ -15,7 +15,7 @@ The tag `machinepistol` contains 7 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" width="auto" height="16px"> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"> [Faradeus Prime ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeusPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_hevika_turret_gun.png" alt="Hevika Turret Gun ★ icon" loading="lazy" width="auto" height="16px"> [Hevika Turret Gun ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaTurretGun)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/unrand/neouzi/neouzi.png" alt="Neo-MP ★ icon" loading="lazy" width="auto" height="16px"> [Neo-MP ★](https://ceterai.github.io/MyEnternia/Wiki/Neo-MP)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-neo_mp.png" alt="Neo-MP ★ icon" loading="lazy" width="auto" height="16px"> [Neo-MP ★](https://ceterai.github.io/MyEnternia/Wiki/Neo-MP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Plasmora icon" loading="lazy" width="auto" height="16px"> [Plasmora](https://ceterai.github.io/MyEnternia/Wiki/Plasmora)
 
 </details>

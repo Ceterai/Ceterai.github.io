@@ -1,10 +1,10 @@
 # Energo-Aperture ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/chakram/neochakram_l6.png" alt="Energo-Aperture ★★ icon" loading="lazy" width="auto" height="16px"> **Energo-Aperture ★★** is a legendary one-handed electric chakram.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-neo_orbit-upgrade.png" alt="Energo-Aperture ★★ icon" loading="lazy" width="auto" height="16px"> **Energo-Aperture ★★** is a legendary one-handed electric chakram.
 
 Crackling with destructive energy.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/chakram/neochakram.png" alt="Energo-Orbit ★ icon" loading="lazy" width="auto" height="16px"> [Energo-Orbit ★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Orbit).
+An upgrade for <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-neo_orbit.png" alt="Energo-Orbit ★ icon" loading="lazy" width="auto" height="16px"> [Energo-Orbit ★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Orbit).
 
 ## Ingame
 

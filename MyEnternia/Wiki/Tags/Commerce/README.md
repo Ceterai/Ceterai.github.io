@@ -12,7 +12,7 @@ The tag `commerce` contains 45 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/table_mini/icon.png" alt="Alta Minitable icon" loading="lazy" width="auto" height="16px"> [Alta Minitable](https://ceterai.github.io/MyEnternia/Wiki/AltaMinitable)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_promo/icon.png" alt="Alta Promo Stand icon" loading="lazy" width="auto" height="16px"> [Alta Promo Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaPromoStand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds_rare/icon.png" alt="Alta Rare Seed Vendor ★ icon" loading="lazy" width="auto" height="16px"> [Alta Rare Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaRareSeedVendor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3table/tier3tableicon.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"> [Alta Scout Table](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutTable)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_table.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"> [Alta Scout Table](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutTable)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/seeds/icon.png" alt="Alta Seed Vendor ★ icon" loading="lazy" width="auto" height="16px"> [Alta Seed Vendor ★](https://ceterai.github.io/MyEnternia/Wiki/AltaSeedVendor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/shaker/icon.png" alt="Alta Shaker icon" loading="lazy" width="auto" height="16px"> [Alta Shaker](https://ceterai.github.io/MyEnternia/Wiki/AltaShaker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container_medium/icon.png" alt="Alta Ship Container G2 icon" loading="lazy" width="auto" height="16px"> [Alta Ship Container G2](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainerG2)
@@ -23,7 +23,7 @@ The tag `commerce` contains 45 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/table/icon.png" alt="Gheatsyn Table icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Table](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTable)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/vendors/gyera/icon.png" alt="Gyera Vendor icon" loading="lazy" width="auto" height="16px"> [Gyera Vendor](https://ceterai.github.io/MyEnternia/Wiki/GyeraVendor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/table/icon.png" alt="Hevika Table icon" loading="lazy" width="auto" height="16px"> [Hevika Table](https://ceterai.github.io/MyEnternia/Wiki/HevikaTable)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/hylotl/softdrinksign/softdrinksignicon.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-tea_cafe_sign.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
 
 </details>
 

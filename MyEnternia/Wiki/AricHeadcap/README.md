@@ -1,6 +1,6 @@
 # Aric Headcap
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/biome/mushroom/mushroom/icons.png:head" alt="Aric Headcap icon" loading="lazy" width="auto" height="16px"> **Aric Headcap** is a rare head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-aric_headcap.png" alt="Aric Headcap icon" loading="lazy" width="auto" height="16px"> **Aric Headcap** is a rare head cosmetic item.
 
 With this hat, you'll be a fungi to be around.  
 ...Also it might be toxic so be careful.

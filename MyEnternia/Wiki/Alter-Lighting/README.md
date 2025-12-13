@@ -24,14 +24,14 @@ This is only possible with the use of advanced power redirectors and multiple al
 
 Parameters:
 
-- Chain Dps: 8
+- Projectile Type: `whipcrackelectric`
 - Damage Config:
   - Damage Source Kind: `electric`
-- Projectile Type: `whipcrackelectric`
-- Fire Time: 0.9
-- Base Dps: 16
-- Crack Dps: 16
 - Energy Usage: 44
+- Fire Time: 0.9
+- Crack Dps: 16
+- Chain Dps: 8
+- Base Dps: 16
 
 ### Secondary Ability
 

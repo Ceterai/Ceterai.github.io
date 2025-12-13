@@ -10,10 +10,10 @@ The tag `alta_scout` contains 14 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" width="auto" height="16px"> [Alta Energy Source](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergySource)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/flag/icon.png" alt="Alta Flag icon" loading="lazy" width="auto" height="16px"> [Alta Flag](https://ceterai.github.io/MyEnternia/Wiki/AltaFlag)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" width="auto" height="16px"> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3bed/tier3bedicon.png" alt="Alta Scout Bed icon" loading="lazy" width="auto" height="16px"> [Alta Scout Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutBed)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3chair/tier3chairicon.png" alt="Alta Scout Chair icon" loading="lazy" width="auto" height="16px"> [Alta Scout Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutChair)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3switch/tier3switchicon.png" alt="Alta Scout Console icon" loading="lazy" width="auto" height="16px"> [Alta Scout Console](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutConsole)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3table/tier3tableicon.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"> [Alta Scout Table](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutTable)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_bed.png" alt="Alta Scout Bed icon" loading="lazy" width="auto" height="16px"> [Alta Scout Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutBed)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_chair.png" alt="Alta Scout Chair icon" loading="lazy" width="auto" height="16px"> [Alta Scout Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutChair)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_console.png" alt="Alta Scout Console icon" loading="lazy" width="auto" height="16px"> [Alta Scout Console](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutConsole)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_table.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"> [Alta Scout Table](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutTable)
 
 </details>
 

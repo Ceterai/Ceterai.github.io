@@ -30,6 +30,7 @@ Parameters:
 - Hold Damage Config:
   - Timeout Group: `hold`
   - Timeout: 0.5
+- Base Dps: 12
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
   - Knockback Mode: `aim`
@@ -37,7 +38,6 @@ Parameters:
   - Timeout Group: `primary`
 - Hold Damage Multiplier: 0.1
 - Fire Time: 0.6
-- Base Dps: 12
 
 ## Sources
 

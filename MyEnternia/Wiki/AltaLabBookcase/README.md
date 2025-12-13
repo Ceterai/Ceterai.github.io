@@ -1,6 +1,6 @@
 # Alta Lab Bookcase
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/apex/apexcoolbookcase/apexcoolbookcaseicon.png" alt="Alta Lab Bookcase icon" loading="lazy" width="auto" height="16px"> **Alta Lab Bookcase** is an uncommon storage unit.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_bookcase.png" alt="Alta Lab Bookcase icon" loading="lazy" width="auto" height="16px"> **Alta Lab Bookcase** is an uncommon storage unit.
 
 A simple <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) closet with scientific works about alta research.  
 All contained materials are well-organized and sorted by categories and relevancy, behind the glass casing made out of refined crystals.

@@ -1,6 +1,6 @@
 # Viona Motsu ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/oculemonstew.png" alt="Viona Motsu ★ icon" loading="lazy" width="auto" height="16px"> **Viona Motsu ★** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-viona_motsu.png" alt="Viona Motsu ★ icon" loading="lazy" width="auto" height="16px"> **Viona Motsu ★** is a rare dish.
 
 A motsu like you've never tasted before! With roasted [warped honey](https://ceterai.github.io/MyEnternia/Wiki/warpedhoney), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [baked ayas](https://ceterai.github.io/MyEnternia/Wiki/BakedAya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"> [minto spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice) and some special [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" width="16" height="16"/> [koywa](https://ceterai.github.io/MyEnternia/Wiki/Koywa) herbs!  
 While altas are generally wary of enchanted anomalies and energy, the enchanted herbs used in the recipe are checked throughroughly before serving.
@@ -25,7 +25,7 @@ Applies effects:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/oculemonstew.png" alt="Viona Motsu ★ icon" loading="lazy" width="auto" height="16px"> Viona Motsu ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-viona_motsu.png" alt="Viona Motsu ★ icon" loading="lazy" width="auto" height="16px"> Viona Motsu ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
   - `grapes` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*2*

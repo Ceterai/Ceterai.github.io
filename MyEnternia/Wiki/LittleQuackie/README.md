@@ -1,6 +1,6 @@
 # Little Quackie
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/avian/goldenducky/goldenduckyicon.png" alt="Little Quackie icon" loading="lazy" width="auto" height="16px"> **Little Quackie** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-duck.png" alt="Little Quackie icon" loading="lazy" width="auto" height="16px"> **Little Quackie** is an uncommon decorative object.
 
 A pretty rubber toy in form of a bird unknown to altas. Yet its cuteness makes them cherish it with all their hearts.  
 No one knows how it got here. Perhaps it's all those [magician girls](https://ceterai.github.io/MyEnternia/Wiki/magiciangirls) and their enchanted spells.

@@ -1,11 +1,11 @@
 # Powerang ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/boomerang/boomerang_l6.png" alt="Powerang ★ icon" loading="lazy" width="auto" height="16px"> **Powerang ★** is a legendary one-handed boomerang.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-boomerang-upgrade.png" alt="Powerang ★ icon" loading="lazy" width="auto" height="16px"> **Powerang ★** is a legendary one-handed boomerang.
 
 A simple alta toy with powerful thrusters. You won't use it for hurting anyone, right?  
 Its simple shape and common alta colors make it a staple in alta culture and a common item at [alterash riverside](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides) resorts.
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/boomerang/boomerang.png" alt="Boomerang icon" loading="lazy" width="auto" height="16px"> [Boomerang](https://ceterai.github.io/MyEnternia/Wiki/Boomerang).
+An upgrade for <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-boomerang.png" alt="Boomerang icon" loading="lazy" width="auto" height="16px"> [Boomerang](https://ceterai.github.io/MyEnternia/Wiki/Boomerang).
 
 ## Ingame
 

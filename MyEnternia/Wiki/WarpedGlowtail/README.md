@@ -1,6 +1,6 @@
 # Warped Glowtail
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/backitems/tigertail/tigertailicon.png" alt="Warped Glowtail icon" loading="lazy" width="auto" height="16px"> **Warped Glowtail** is a rare back cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_back_mimic-warped_glowtail.png" alt="Warped Glowtail icon" loading="lazy" width="auto" height="16px"> **Warped Glowtail** is a rare back cosmetic item.
 
 A decorative [wapred](https://ceterai.github.io/MyEnternia/Wiki/wapred) tail-like growth that dimly glows in the dark. Stylish!  
 While not very practical, it's 100% eco-friendly and does provide a tiny lightsource.

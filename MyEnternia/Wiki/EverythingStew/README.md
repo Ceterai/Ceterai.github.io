@@ -1,6 +1,6 @@
 # Everything Stew ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/bonbonbonbons.png" alt="Everything Stew ★★ icon" loading="lazy" width="auto" height="16px"> **Everything Stew ★★** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-everything_stew.png" alt="Everything Stew ★★ icon" loading="lazy" width="auto" height="16px"> **Everything Stew ★★** is a rare dish.
 
 There're so many things in this stew it looks like it'll start overflowing any second now, so better eat it fast! Yummi veggie goodness awaits!  
 Including <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [alta pears](https://ceterai.github.io/MyEnternia/Wiki/AltaPear) boiled in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) juice, finely cut [tsays](https://ceterai.github.io/MyEnternia/Wiki/tsays), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) and [archulin](https://ceterai.github.io/MyEnternia/Wiki/archulin) spice.
@@ -24,7 +24,7 @@ Applies effects:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/bonbonbonbons.png" alt="Everything Stew ★★ icon" loading="lazy" width="auto" height="16px"> Everything Stew ★★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-everything_stew.png" alt="Everything Stew ★★ icon" loading="lazy" width="auto" height="16px"> Everything Stew ★★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) x*1*
   - `pearlpea` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam) x*1*

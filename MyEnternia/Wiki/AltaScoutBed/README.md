@@ -1,6 +1,6 @@
 # Alta Scout Bed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3bed/tier3bedicon.png" alt="Alta Scout Bed icon" loading="lazy" width="auto" height="16px"> **Alta Scout Bed** is an uncommon piece of furniture.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_bed.png" alt="Alta Scout Bed icon" loading="lazy" width="auto" height="16px"> **Alta Scout Bed** is an uncommon piece of furniture.
 
 Proper wide bed with a special [protocharger](https://ceterai.github.io/MyEnternia/Wiki/protocharger).  
 This cozy platform of sleep usually hosts two alta scouts instead of just one. The charger is used to replenish energy in their protosystems.

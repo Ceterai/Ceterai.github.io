@@ -1,6 +1,6 @@
 # Yaara Keeper's Mask
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/floran/floran-tier5separator/icons.png:head" alt="Yaara Keeper's Mask icon" loading="lazy" width="auto" height="16px"> **Yaara Keeper's Mask** is a rare head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-yaara_keeper_mask.png" alt="Yaara Keeper's Mask icon" loading="lazy" width="auto" height="16px"> **Yaara Keeper's Mask** is a rare head cosmetic item.
 
 A floran ceremonial mask. It's like you went to a floran carnival!  
 Perfect for special occasions and to hide your identity.

@@ -25,16 +25,16 @@ Swiftly projects a burst of icy plasma charges onto the targets.
 
 Parameters:
 
-- Muzzle Flash Variants: 1
-- Energy Usage: 30
-- Projectile Parameters:
-  - Knockback Range:  10,  40
 - Projectile Count: 5
 - Projectile Type: `iceplasma`
-- Fire Type: `auto`
-- Fire Time: 0.8
-- Inaccuracy: 0.13
+- Muzzle Flash Variants: 1
 - Base Dps: 10
+- Energy Usage: 30
+- Inaccuracy: 0.13
+- Fire Type: `auto`
+- Projectile Parameters:
+  - Knockback Range:  10,  40
+- Fire Time: 0.8
 
 ### Secondary Ability
 

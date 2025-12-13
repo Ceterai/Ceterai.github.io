@@ -9,7 +9,7 @@ It gets pretty tingy depending on the juice and powder ratio, but you can rarely
 
 Species descriptions:
 
-- Alta: No idea what others think, but it goes very well on [caliopa](https://ceterai.github.io/MyEnternia/Wiki/caliopa) and even as an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/oculemonmeringue.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> [alta charlotte](https://ceterai.github.io/MyEnternia/Wiki/AltaCharlotte)'s filling.
+- Alta: No idea what others think, but it goes very well on [caliopa](https://ceterai.github.io/MyEnternia/Wiki/caliopa) and even as an <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_charlotte.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> [alta charlotte](https://ceterai.github.io/MyEnternia/Wiki/AltaCharlotte)'s filling.
 
 ## Parameters
 

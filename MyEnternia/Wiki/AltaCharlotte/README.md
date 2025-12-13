@@ -1,6 +1,6 @@
 # Alta Charlotte
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/oculemonmeringue.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> **Alta Charlotte** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_charlotte.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> **Alta Charlotte** is a rare dish.
 
 This charlotte is baked using [faro koywa](https://ceterai.github.io/MyEnternia/Wiki/farokoywa) dough, with sweet fruits like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya), <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [alta pears](https://ceterai.github.io/MyEnternia/Wiki/AltaPear) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye), or even <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alunika.png" alt="Alunika icon" loading="lazy" width="auto" height="16px"> [alunikas](https://ceterai.github.io/MyEnternia/Wiki/Alunika).  
 At its base, this charlotte can become a regular pie is you use jam instead of solid fruits, so make sure not to squish them too much.
@@ -25,7 +25,7 @@ Applies effects:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/oculemonmeringue.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> Alta Charlotte x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_charlotte.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> Alta Charlotte x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*2*

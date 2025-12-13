@@ -1,10 +1,10 @@
 # Solus Katana ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/bossdrop/soluskatana/soluskatanaicon_l6.png" alt="Solus Katana ★ icon" loading="lazy" width="auto" height="16px"> **Solus Katana ★** is a legendary two-handed poisonous shortsword.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-suria-upgrade.png" alt="Solus Katana ★ icon" loading="lazy" width="auto" height="16px"> **Solus Katana ★** is a legendary two-handed poisonous shortsword.
 
 This energy saber produces a very special type of plasma of unknown polarity - sura-plasma. Similar to enternia, you can feel the air around you go static...
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/bossdrop/soluskatana/soluskatanaicon.png" alt="Suria-Prime ★★ icon" loading="lazy" width="auto" height="16px"> [Suria-Prime ★★](https://ceterai.github.io/MyEnternia/Wiki/Suria-Prime).
+An upgrade for <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-suria.png" alt="Suria-Prime ★★ icon" loading="lazy" width="auto" height="16px"> [Suria-Prime ★★](https://ceterai.github.io/MyEnternia/Wiki/Suria-Prime).
 
 ## Ingame
 
@@ -20,8 +20,8 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Time: 0.83
 - Base Dps: 11.5
+- Fire Time: 0.83
 
 ## Sources
 

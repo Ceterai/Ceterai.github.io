@@ -40,7 +40,7 @@ The tag `isoslime` contains 27 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-honey.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-poivani.png" alt="Poivani icon" loading="lazy" width="auto" height="16px"> [Poivani](https://ceterai.github.io/MyEnternia/Wiki/Poivani)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/exmachina/exmachina.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power-upgrade.png" alt="R-Powercannon ★★★ icon" loading="lazy" width="auto" height="16px"> [R-Powercannon ★★★](https://ceterai.github.io/MyEnternia/Wiki/R-Powercannon)
 
 </details>

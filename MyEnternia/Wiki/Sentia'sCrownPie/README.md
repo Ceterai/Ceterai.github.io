@@ -1,6 +1,6 @@
 # "Sentia's Crown" Pie ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/spookypie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> **"Sentia's Crown" Pie ★** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-sentia_crown_pie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> **"Sentia's Crown" Pie ★** is a rare dish.
 
 Full of sweet-sweet hardened [warped honey](https://ceterai.github.io/MyEnternia/Wiki/warpedhoney), enchanting [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) extracts and [archulin jam](https://ceterai.github.io/MyEnternia/Wiki/archulinjam)-based topping, this pie is basically filled with love! And... something else?...  
 It's known that [nivera sentias](https://ceterai.github.io/MyEnternia/Wiki/niverasentias) are often seen baking this interesting dish, and feeding it to unsuspecting altas. Sounds scary...
@@ -37,7 +37,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/spookypie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> "Sentia's Crown" Pie ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-sentia_crown_pie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> "Sentia's Crown" Pie ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice) x*2*

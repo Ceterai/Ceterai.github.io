@@ -2,14 +2,14 @@
 
 The mod adds a total of 36 light sources:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/generic/bluelight/bluelighticon.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"> [Alta Altolight](https://ceterai.github.io/MyEnternia/Wiki/AltaAltolight)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-altolight.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"> [Alta Altolight](https://ceterai.github.io/MyEnternia/Wiki/AltaAltolight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/light/icon.png" alt="Alta Lab Light icon" loading="lazy" width="auto" height="16px"> [Alta Lab Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLabLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" alt="Alta Lamp icon" loading="lazy" width="auto" height="16px"> [Alta Lamp](https://ceterai.github.io/MyEnternia/Wiki/AltaLamp)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/lamppost/icon.png" alt="Alta Lamppost icon" loading="lazy" width="auto" height="16px"> [Alta Lamppost](https://ceterai.github.io/MyEnternia/Wiki/AltaLamppost)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"> [Alta LED](https://ceterai.github.io/MyEnternia/Wiki/AltaLED)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light/icon.png" alt="Alta Light icon" loading="lazy" width="auto" height="16px"> [Alta Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" width="auto" height="16px"> [Alta Light Bar](https://ceterai.github.io/MyEnternia/Wiki/AltaLightBar)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/neon/neonlight/neonlighticon.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"> [Alta Mikolight](https://ceterai.github.io/MyEnternia/Wiki/AltaMikolight)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-mikolight.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"> [Alta Mikolight](https://ceterai.github.io/MyEnternia/Wiki/AltaMikolight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/light/icon.png" alt="Alta Ship Light icon" loading="lazy" width="auto" height="16px"> [Alta Ship Light](https://ceterai.github.io/MyEnternia/Wiki/AltaShipLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/national_day/lights/icon.png" alt="Alta String Lights icon" loading="lazy" width="auto" height="16px"> [Alta String Lights](https://ceterai.github.io/MyEnternia/Wiki/AltaStringLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/lamp/icon.png" alt="Bishyn Lamp icon" loading="lazy" width="auto" height="16px"> [Bishyn Lamp](https://ceterai.github.io/MyEnternia/Wiki/BishynLamp)

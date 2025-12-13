@@ -15,7 +15,7 @@ The tag `rocketlauncher` contains 7 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" width="auto" height="16px"> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_ion_launcher.png" alt="Ion Launcher WIP icon" loading="lazy" width="auto" height="16px"> [Ion Launcher WIP](https://ceterai.github.io/MyEnternia/Wiki/IonLauncherWIP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_magmataur_x.png" alt="Magmataur X icon" loading="lazy" width="auto" height="16px"> [Magmataur X](https://ceterai.github.io/MyEnternia/Wiki/MagmataurX)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/exmachina/exmachina.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power-upgrade.png" alt="R-Powercannon ★★★ icon" loading="lazy" width="auto" height="16px"> [R-Powercannon ★★★](https://ceterai.github.io/MyEnternia/Wiki/R-Powercannon)
 
 </details>

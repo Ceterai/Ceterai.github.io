@@ -1,6 +1,6 @@
 # Artistic Bandana
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/bandithat1/icons.png:head" alt="Artistic Bandana icon" loading="lazy" width="auto" height="16px"> **Artistic Bandana** is a common head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-bandana.png" alt="Artistic Bandana icon" loading="lazy" width="auto" height="16px"> **Artistic Bandana** is a common head cosmetic item.
 
 A simple bandana used by some artists to keep hair or other things out of their face.  
 _Where to find:_ [Alta Artist](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist)  
@@ -22,7 +22,7 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/bandithat1/icons.png:head" alt="Artistic Bandana icon" loading="lazy" width="auto" height="16px"> Artistic Bandana x*1*):
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-bandana.png" alt="Artistic Bandana icon" loading="lazy" width="auto" height="16px"> Artistic Bandana x*1*):
   - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk) x*3*
 
 Can be bought from merchants:

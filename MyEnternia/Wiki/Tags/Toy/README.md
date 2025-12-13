@@ -6,7 +6,7 @@ The tag `toy` contains 52 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/avian/goldenducky/goldenduckyicon.png" alt="Little Quackie icon" loading="lazy" width="auto" height="16px"> [Little Quackie](https://ceterai.github.io/MyEnternia/Wiki/LittleQuackie)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-duck.png" alt="Little Quackie icon" loading="lazy" width="auto" height="16px"> [Little Quackie](https://ceterai.github.io/MyEnternia/Wiki/LittleQuackie)
 
 ## Tenants
 
@@ -35,7 +35,7 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/starlight/ct_b803_plush.png" alt="B3 Plushie icon" loading="lazy" width="auto" height="16px"> [B3 Plushie](https://ceterai.github.io/MyEnternia/Wiki/B3Plushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgunblue.png" alt="Blue Paintgun icon" loading="lazy" width="auto" height="16px"> [Blue Paintgun](https://ceterai.github.io/MyEnternia/Wiki/BluePaintgun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_boko_plush.png" alt="Boko Plushie icon" loading="lazy" width="auto" height="16px"> [Boko Plushie](https://ceterai.github.io/MyEnternia/Wiki/BokoPlushie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/boomerang/boomerang.png" alt="Boomerang icon" loading="lazy" width="auto" height="16px"> [Boomerang](https://ceterai.github.io/MyEnternia/Wiki/Boomerang)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-boomerang.png" alt="Boomerang icon" loading="lazy" width="auto" height="16px"> [Boomerang](https://ceterai.github.io/MyEnternia/Wiki/Boomerang)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_calline_popper.png" alt="Calline Popper icon" loading="lazy" width="auto" height="16px"> [Calline Popper](https://ceterai.github.io/MyEnternia/Wiki/CallinePopper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart_ceterteal.png" alt="Ceterteal Dart icon" loading="lazy" width="auto" height="16px"> [Ceterteal Dart](https://ceterai.github.io/MyEnternia/Wiki/CetertealDart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane_cool.png" alt="Cool Alta Plane icon" loading="lazy" width="auto" height="16px"> [Cool Alta Plane](https://ceterai.github.io/MyEnternia/Wiki/CoolAltaPlane)
@@ -49,7 +49,7 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_omni_narfin_plush.png" alt="Omni Narfin Plushie icon" loading="lazy" width="auto" height="16px"> [Omni Narfin Plushie](https://ceterai.github.io/MyEnternia/Wiki/OmniNarfinPlushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart_omniblue.png" alt="Omniblue Dart icon" loading="lazy" width="auto" height="16px"> [Omniblue Dart](https://ceterai.github.io/MyEnternia/Wiki/OmniblueDart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_poi_plush.png" alt="Poi Plushie icon" loading="lazy" width="auto" height="16px"> [Poi Plushie](https://ceterai.github.io/MyEnternia/Wiki/PoiPlushie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/boomerang/boomerang_l6.png" alt="Powerang ★ icon" loading="lazy" width="auto" height="16px"> [Powerang ★](https://ceterai.github.io/MyEnternia/Wiki/Powerang)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-boomerang-upgrade.png" alt="Powerang ★ icon" loading="lazy" width="auto" height="16px"> [Powerang ★](https://ceterai.github.io/MyEnternia/Wiki/Powerang)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane_pretty.png" alt="Pretty Alta Plane icon" loading="lazy" width="auto" height="16px"> [Pretty Alta Plane](https://ceterai.github.io/MyEnternia/Wiki/PrettyAltaPlane)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paint/paintgunpurple.png" alt="Purple Paintgun icon" loading="lazy" width="auto" height="16px"> [Purple Paintgun](https://ceterai.github.io/MyEnternia/Wiki/PurplePaintgun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_rainbow_popper.png" alt="Rainbow Alta Popper icon" loading="lazy" width="auto" height="16px"> [Rainbow Alta Popper](https://ceterai.github.io/MyEnternia/Wiki/RainbowAltaPopper)

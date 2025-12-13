@@ -20,7 +20,7 @@ The tag `dreamer` contains 12 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Dreamer's Mask icon" loading="lazy" width="auto" height="16px"> [Dreamer's Mask](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png" alt="Dreamer's Plating icon" loading="lazy" width="auto" height="16px"> [Dreamer's Plating](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sPlating)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.png" alt="Ion Reaper ★ icon" loading="lazy" width="auto" height="16px"> [Ion Reaper ★](https://ceterai.github.io/MyEnternia/Wiki/IonReaper)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/protectorate/violiumshortsword/violiumshortswordicon.png" alt="Mirazh ★ icon" loading="lazy" width="auto" height="16px"> [Mirazh ★](https://ceterai.github.io/MyEnternia/Wiki/Mirazh)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-mirazh.png" alt="Mirazh ★ icon" loading="lazy" width="auto" height="16px"> [Mirazh ★](https://ceterai.github.io/MyEnternia/Wiki/Mirazh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/ionic.png" alt="Prototype: The Dreamer icon" loading="lazy" width="auto" height="16px"> [Prototype: The Dreamer](https://ceterai.github.io/MyEnternia/Wiki/Prototype-TheDreamer)
 
 </details>

@@ -27,6 +27,7 @@ The clover concentrates its power on the ends of the petals, making them more ye
 
 Parameters:
 
+- Base Dps: 6
 - Fire Time: 0.9
 - Damage Config:
   - Knockback: 25
@@ -34,7 +35,6 @@ Parameters:
     - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
     - Damage Factor: 0.005
     - Max: 120
-- Base Dps: 6
 
 ## Sources
 

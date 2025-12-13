@@ -1,6 +1,6 @@
 # Enternia Geode Sample
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/geologicalsample/geodepurplesample/icon.png" alt="Enternia Geode Sample icon" loading="lazy" width="auto" height="16px"> **Enternia Geode Sample** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-enternia_sample.png" alt="Enternia Geode Sample icon" loading="lazy" width="auto" height="16px"> **Enternia Geode Sample** is a rare decorative object.
 
 A pretty, purple geode. The crystals contained in this specimen are saturated with enternia.  
 These rarely form in general, when an outstanding amount of enternia is filling up moonrock, resulting in slowly forming crystals that cannot be found anywhere else.

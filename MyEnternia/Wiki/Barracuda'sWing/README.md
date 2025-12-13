@@ -25,8 +25,8 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Time: 1.0
 - Base Dps: 13
+- Fire Time: 1.0
 
 ### Secondary Ability
 
@@ -35,9 +35,9 @@ Alternative ability of the item, activated with right mouse button.
 Parameters:
 
 - Energy Usage: 80
-- Base Damage: 1
-- Projectile Offset:  4.5,  0.5
 - Projectile Type: `webblast`
+- Projectile Offset:  4.5,  0.5
+- Base Damage: 1
 
 ## Sources
 

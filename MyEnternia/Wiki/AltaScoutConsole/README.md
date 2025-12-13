@@ -1,6 +1,6 @@
 # Alta Scout Console
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3switch/tier3switchicon.png" alt="Alta Scout Console icon" loading="lazy" width="auto" height="16px"> **Alta Scout Console** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_console.png" alt="Alta Scout Console icon" loading="lazy" width="auto" height="16px"> **Alta Scout Console** is an uncommon wiring component.
 
 Simple in-built console. A rare find in alta culture.  
 The main reason some scout facilities still use consoles is because some of them, like this one, aren't modular - they're in-built into the system.

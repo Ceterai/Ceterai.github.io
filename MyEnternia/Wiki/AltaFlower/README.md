@@ -1,6 +1,6 @@
 # Alta Flower
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/protectorateflower/icons.png:head" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"> **Alta Flower** is a common head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-flower.png" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"> **Alta Flower** is a common head cosmetic item.
 
 This fake flower made out of silk represents one of common alta colors.  
 A symbol of patriotism and innocence, this flower is often worn by some [alta social workers](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker) and [alta caretakers](https://ceterai.github.io/MyEnternia/Wiki/altacaretakers).

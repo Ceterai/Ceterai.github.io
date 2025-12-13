@@ -1,6 +1,6 @@
 # Stardust Hood
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/rainbowhood/icons.png:head" alt="Stardust Hood icon" loading="lazy" width="auto" height="16px"> **Stardust Hood** is a legendary head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-hood_stardust.png" alt="Stardust Hood icon" loading="lazy" width="auto" height="16px"> **Stardust Hood** is a legendary head cosmetic item.
 
 This magical hood is glittering with stardust colors!  
 Very soft it the touch, it was sewed by Celestia herself to make an alta happy.

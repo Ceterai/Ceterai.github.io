@@ -1,6 +1,6 @@
 # Aric Toxicap
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/biome/mushroom/evilmushroom/icons.png:head" alt="Aric Toxicap icon" loading="lazy" width="auto" height="16px"> **Aric Toxicap** is a rare head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-aric_toxicap.png" alt="Aric Toxicap icon" loading="lazy" width="auto" height="16px"> **Aric Toxicap** is a rare head cosmetic item.
 
 It never stops staring. Who would make such a thing?  
 ...Also it might be toxic so be careful.

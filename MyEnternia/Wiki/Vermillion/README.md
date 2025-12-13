@@ -27,15 +27,15 @@ Provides an improved burst power thanks to all of the enhancements and an update
 
 Parameters:
 
-- Projectile Parameters:
-  - Knockback: 20
 - Projectile Count: 7
 - Projectile Type: `fireplasma`
+- Base Dps: 10
+- Energy Usage: 40
+- Inaccuracy: 0.11
+- Projectile Parameters:
+  - Knockback: 20
 - Fire Type: `auto`
 - Fire Time: 0.9
-- Base Dps: 10
-- Inaccuracy: 0.11
-- Energy Usage: 40
 
 ### Secondary Ability
 
@@ -44,10 +44,10 @@ Alternative ability of the item, activated with right mouse button.
 Parameters:
 
 - Projectile Type: `grenade`
+- Energy Usage: 20
 - Elemental Config:
   - Physical:
     - Projectile Type: `doomgrenade`
-- Energy Usage: 20
 
 ## Sources
 

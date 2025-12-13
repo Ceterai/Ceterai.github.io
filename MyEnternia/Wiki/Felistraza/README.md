@@ -1,6 +1,6 @@
 # Felistraza
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/protectorateflower/icons.png:head" alt="Felistraza icon" loading="lazy" width="auto" height="16px"> **Felistraza** is a common head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-felistraza.png" alt="Felistraza icon" loading="lazy" width="auto" height="16px"> **Felistraza** is a common head cosmetic item.
 
 A very rare ionic flower that makes for a great hair accessory.  
 It often growns as part of a felistraze bushes, that can grow up to 2 meters in height. You can often find 3-5 flowers per bush.

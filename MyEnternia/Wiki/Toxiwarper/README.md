@@ -1,10 +1,10 @@
 # Toxiwarper ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/tentaclegun/wormgun_l6.png" alt="Toxiwarper ★ icon" loading="lazy" width="auto" height="16px"> **Toxiwarper ★** is a legendary two-handed poisonous unique weapon.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-warper-upgrade.png" alt="Toxiwarper ★ icon" loading="lazy" width="auto" height="16px"> **Toxiwarper ★** is a legendary two-handed poisonous unique weapon.
 
 A full on creature that you can wear on your hand. Be careful - its tentacles are pretty venomous...
 
-An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/tentaclegun/wormgun.png" alt="Venomous Warper icon" loading="lazy" width="auto" height="16px"> [Venomous Warper](https://ceterai.github.io/MyEnternia/Wiki/VenomousWarper).
+An upgrade for <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-warper.png" alt="Venomous Warper icon" loading="lazy" width="auto" height="16px"> [Venomous Warper](https://ceterai.github.io/MyEnternia/Wiki/VenomousWarper).
 
 ## Ingame
 
@@ -22,23 +22,23 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Max Length: 20
-- Energy Usage: 40
+- Projectile Type: `invisibletentaclefist`
+- Base Dps: 6.0
 - Max Projectiles: 10
-- Projectile Parameters:
-  - Knockback: 5
-  - Speed: 40
-  - Time To Live: 10
+- Guide Projectiles: `True`
+- Energy Usage: 40
+- Inaccuracy: 0.01
 - Chain:
   - Taper: 0.5
   - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
   - End Segment Image: `/items/active/weapons/other/tentaclegun/wormend.png`
   - Segment Size: 1.0
-- Projectile Type: `invisibletentaclefist`
-- Guide Projectiles: `True`
+- Max Length: 20
+- Projectile Parameters:
+  - Knockback: 5
+  - Speed: 40
+  - Time To Live: 10
 - Fire Time: 0.2
-- Inaccuracy: 0.01
-- Base Dps: 6.0
 
 ### Secondary Ability
 

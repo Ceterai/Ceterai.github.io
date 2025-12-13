@@ -1,6 +1,6 @@
 # Alta Lab Monitor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/apex/apexcoolcomputer/apexcoolcomputericon.png" alt="Alta Lab Monitor icon" loading="lazy" width="auto" height="16px"> **Alta Lab Monitor** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_monitor.png" alt="Alta Lab Monitor icon" loading="lazy" width="auto" height="16px"> **Alta Lab Monitor** is an uncommon decorative object.
 
 A simple compact monitor made out of <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) and [ayakut](https://ceterai.github.io/MyEnternia/Wiki/ayakut).  
 These are usually connected directly to a network of alta lab servers and alta lab datablocks, and not to a computer, where a laptop would be used.

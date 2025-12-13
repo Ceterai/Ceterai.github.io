@@ -36,10 +36,10 @@ Following tenants require this colony tag:
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 7 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/biome/mushroom/mushroom/icons.png:head" alt="Aric Headcap icon" loading="lazy" width="auto" height="16px"> [Aric Headcap](https://ceterai.github.io/MyEnternia/Wiki/AricHeadcap)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-aric_headcap.png" alt="Aric Headcap icon" loading="lazy" width="auto" height="16px"> [Aric Headcap](https://ceterai.github.io/MyEnternia/Wiki/AricHeadcap)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier6/wartweedstew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> [Aric Stew](https://ceterai.github.io/MyEnternia/Wiki/AricStew)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/biome/mushroom/evilmushroom/icons.png:head" alt="Aric Toxicap icon" loading="lazy" width="auto" height="16px"> [Aric Toxicap](https://ceterai.github.io/MyEnternia/Wiki/AricToxicap)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-aric_stew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> [Aric Stew](https://ceterai.github.io/MyEnternia/Wiki/AricStew)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-aric_toxicap.png" alt="Aric Toxicap icon" loading="lazy" width="auto" height="16px"> [Aric Toxicap](https://ceterai.github.io/MyEnternia/Wiki/AricToxicap)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-cooked_arics.png" alt="Cooked Arics icon" loading="lazy" width="auto" height="16px"> [Cooked Arics](https://ceterai.github.io/MyEnternia/Wiki/CookedArics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" width="auto" height="16px"> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_aric_collar.png" alt="Toxic Spores Collar ★★ icon" loading="lazy" width="auto" height="16px"> [Toxic Spores Collar ★★](https://ceterai.github.io/MyEnternia/Wiki/ToxicSporesCollar)

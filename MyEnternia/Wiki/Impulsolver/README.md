@@ -25,11 +25,11 @@ The energy-generated "blade" of this tool deals electric damage on impact. Be ca
 
 Parameters:
 
+- Base Dps: 7.5
 - Damage Config:
   - Damage Source Kind: `electrobaton`
   - Status Effects:  <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified)
 - Fire Time: 0.8
-- Base Dps: 7.5
 
 ## Sources
 
