@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/lost.png:1" alt="Confused icon" loading="lazy" width="auto" height="16px"> [Confused](https://ceterai.github.io/MyEnternia/Wiki/Confused) (120s)
-- <img src="https://starbounder.org/mediawiki/images/8/88/Ice_Resist_Augment.png" alt="Ice Block icon" loading="lazy" width="11px" height="16px"> [Ice Block (Augment)](https://starbounder.org/Ice_Resist_Augment) (240s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> [Exotic Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ExoticTea) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_vermont_tea-exotic.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> [Exotic Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ExoticTea) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -40,19 +32,19 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 13 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-alien.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"> [Aya Essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-essence.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"> [Aya Essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" width="auto" height="16px"> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"> [Gillikada Split](https://ceterai.github.io/MyEnternia/Wiki/GillikadaSplit)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"> [Haven Pouches](https://ceterai.github.io/MyEnternia/Wiki/HavenPouches)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Markvin Fresh icon" loading="lazy" width="auto" height="16px"> [Markvin Fresh](https://ceterai.github.io/MyEnternia/Wiki/MarkvinFresh)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Perfectly Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Perfectly Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/PerfectlyCookedTsay)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gillikada-split.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"> [Gillikada Split](https://ceterai.github.io/MyEnternia/Wiki/GillikadaSplit)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-haven.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"> [Haven Pouches](https://ceterai.github.io/MyEnternia/Wiki/HavenPouches)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-markvin.png" alt="Markvin Fresh icon" loading="lazy" width="auto" height="16px"> [Markvin Fresh](https://ceterai.github.io/MyEnternia/Wiki/MarkvinFresh)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-perfect.png" alt="Perfectly Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Perfectly Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/PerfectlyCookedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Violas icon" loading="lazy" width="auto" height="16px"> [Violas](https://ceterai.github.io/MyEnternia/Wiki/Violas)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Viona Fresh icon" loading="lazy" width="auto" height="16px"> [Viona Fresh](https://ceterai.github.io/MyEnternia/Wiki/VionaFresh)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-koywa.png" alt="Violas icon" loading="lazy" width="auto" height="16px"> [Violas](https://ceterai.github.io/MyEnternia/Wiki/Violas)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-viona.png" alt="Viona Fresh icon" loading="lazy" width="auto" height="16px"> [Viona Fresh](https://ceterai.github.io/MyEnternia/Wiki/VionaFresh)
 
 </details>
 

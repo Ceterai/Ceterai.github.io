@@ -1,6 +1,6 @@
 # Albino Mask
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png" alt="Albino Mask icon" loading="lazy" width="auto" height="16px"> **Albino Mask** is an uncommon head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_mask-medic.png" alt="Albino Mask icon" loading="lazy" width="auto" height="16px"> **Albino Mask** is an uncommon head armor piece.
 
 A mask typically worn by [alta medics](https://ceterai.github.io/MyEnternia/Wiki/AltaMedic). It provides medical insights and first aid instructions to the wearer.  
 The in-built emergency healing system is meant to protect the medic in case of unforseen circumstances.

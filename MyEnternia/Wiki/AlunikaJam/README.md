@@ -1,8 +1,8 @@
 # Alunika Jam
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika Jam icon" loading="lazy" width="auto" height="16px"> **Alunika Jam** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alunika_jam.png" alt="Alunika Jam icon" loading="lazy" width="auto" height="16px"> **Alunika Jam** is a common dish.
 
-This plain <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika icon" loading="lazy" width="auto" height="16px"> [alunika](https://ceterai.github.io/MyEnternia/Wiki/Alunika) jam is a favourite for many altas, but requires special tech to make. Too bad you don't know any recipes that use it...  
+This plain <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alunika.png" alt="Alunika icon" loading="lazy" width="auto" height="16px"> [alunika](https://ceterai.github.io/MyEnternia/Wiki/Alunika) jam is a favourite for many altas, but requires special tech to make. Too bad you don't know any recipes that use it...  
 While making some alunika powder doesn't seem like a problem, an important part of this jam - alunika extract, is pretty hard to... well, extract.
 
 ## Ingame
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alunika Jam icon" loading="lazy" width="auto" height="16px"> Alunika Jam x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alunika_jam.png" alt="Alunika Jam icon" loading="lazy" width="auto" height="16px"> Alunika Jam x*1*):
   - <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="Crystal Plant icon" loading="lazy" width="13px" height="12px"> [Crystal Plant](https://starbounder.org/Crystal_Plant) x*4*
 
 Can be bought from merchants:

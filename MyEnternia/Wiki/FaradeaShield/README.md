@@ -1,6 +1,6 @@
 # Faradea Shield
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="Faradea Shield icon" loading="lazy" width="auto" height="16px"> **Faradea Shield** is a rare shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-faradea.png" alt="Faradea Shield icon" loading="lazy" width="auto" height="16px"> **Faradea Shield** is a rare shield.
 
 An EDS shield repurposed by Faradea mercs.  
 Gorgeous blue and yellow are symbolizing freedom, the goal and desire of every Faradea merc.

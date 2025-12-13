@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alliana_cake-love.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_trans_cake.png" alt="Orchid Cake icon" loading="lazy" width="auto" height="16px"> [Orchid Cake](https://ceterai.github.io/MyEnternia/Wiki/OrchidCake) (chance: 30.0%)
 
 ## Usage
@@ -32,10 +32,10 @@ Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" width="auto" height="16px"> [Aya Punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" width="auto" height="16px"> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Bluesweet Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/BluesweetPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Ciranga Pie ★ icon" loading="lazy" width="auto" height="16px"> [Ciranga Pie ★](https://ceterai.github.io/MyEnternia/Wiki/CirangaPie)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_punch-bluesweet.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Bluesweet Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/BluesweetPunch)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_gil_pie-alien.png" alt="Ciranga Pie ★ icon" loading="lazy" width="auto" height="16px"> [Ciranga Pie ★](https://ceterai.github.io/MyEnternia/Wiki/CirangaPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"> [Runeva Pie ★★](https://ceterai.github.io/MyEnternia/Wiki/RunevaPie)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_gil_pie-runeva.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"> [Runeva Pie ★★](https://ceterai.github.io/MyEnternia/Wiki/RunevaPie)
 
 </details>
 

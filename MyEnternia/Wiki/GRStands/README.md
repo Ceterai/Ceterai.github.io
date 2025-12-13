@@ -1,6 +1,6 @@
 # GR Stands ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/legwear/icon.png" alt="GR Stands ★ icon" loading="lazy" width="auto" height="16px"> **GR Stands ★** is a legendary leg armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_legwear-upgrade.png" alt="GR Stands ★ icon" loading="lazy" width="auto" height="16px"> **GR Stands ★** is a legendary leg armor piece.
 
 These protective greaves with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) layers once belonged to Kora. They're yours now. Enjoy!  
 They're part of the Kora's gift to inexperienced alta security guards as means of care and support!

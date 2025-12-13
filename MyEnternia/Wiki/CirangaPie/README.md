@@ -1,6 +1,6 @@
 # Ciranga Pie ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Ciranga Pie ★ icon" loading="lazy" width="auto" height="16px"> **Ciranga Pie ★** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_gil_pie-alien.png" alt="Ciranga Pie ★ icon" loading="lazy" width="auto" height="16px"> **Ciranga Pie ★** is a rare dish.
 
 This tingy pie is teeming with ciranga flavoring. Which is interesting, considering they're unusual for this type of dish.  
 This recipe uses a freshly-made tonnakada as base for its recipe. Therefore, the baked tonna shell is used as pie casing too.
@@ -10,15 +10,6 @@ This recipe uses a freshly-made tonnakada as base for its recipe. Therefore, the
 Species descriptions:
 
 - Alta: This is one of the reasons cooking is so fun - you can achieve similar results with different ingredients!
-
-## Parameters
-
-- Food Value: 42
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" width="auto" height="16px"> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage) (255s)
 
 ## Usage
 
@@ -35,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Ciranga Pie ★ icon" loading="lazy" width="auto" height="16px"> Ciranga Pie ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_gil_pie-alien.png" alt="Ciranga Pie ★ icon" loading="lazy" width="auto" height="16px"> Ciranga Pie ★ x*1*):
   - `dirturchin` x*2*
   - `kiwi` x*1*
   - `cocoa` x*2*

@@ -1,6 +1,6 @@
 # GR Supply ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="GR Supply ★ icon" loading="lazy" width="auto" height="16px"> **GR Supply ★** is a legendary enviro protection pack.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_pack-upgrade.png" alt="GR Supply ★ icon" loading="lazy" width="auto" height="16px"> **GR Supply ★** is a legendary enviro protection pack.
 
 A compact <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)-enhanced life support system once worn by Kora.  
 Kora wore this supply not as much for herself - more so for other altas in need.

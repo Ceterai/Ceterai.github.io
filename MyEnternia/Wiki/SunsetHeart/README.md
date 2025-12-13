@@ -1,6 +1,6 @@
 # Sunset Heart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Sunset Heart icon" loading="lazy" width="auto" height="16px"> **Sunset Heart** is an uncommon head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_dreamer_helmet-viona.png" alt="Sunset Heart icon" loading="lazy" width="auto" height="16px"> **Sunset Heart** is an uncommon head armor piece.
 
 Some fashionable altas like to wear this stylish safety helmet when riding scouting and traveling hoverbikes, and so can you!  
 Designed by... Wait, what? This helment wasn't designed by Perizhad. Wow. Well, thanks to "Viona's Surprize Shop" for such a find!

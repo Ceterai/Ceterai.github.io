@@ -1,6 +1,6 @@
 # Nia Assorti
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Nia Assorti icon" loading="lazy" width="auto" height="16px"> **Nia Assorti** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-nia_assorti.png" alt="Nia Assorti icon" loading="lazy" width="auto" height="16px"> **Nia Assorti** is an uncommon dish.
 
 A finely-cut and arranged assorti of nia fruit slices, alta pear rings and izo-balls, all covered a slight layer of [ion jam](https://ceterai.github.io/MyEnternia/Wiki/ionjam).  
 Every chef has a preference in arranging, as well as favourite cutting granularity, resulting in differing assortis from chef to chef.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Nia Assorti icon" loading="lazy" width="auto" height="16px"> Nia Assorti x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-nia_assorti.png" alt="Nia Assorti icon" loading="lazy" width="auto" height="16px"> Nia Assorti x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*2*
   - `alienfruit` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*2*

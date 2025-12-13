@@ -1,6 +1,6 @@
 # Elin's Love ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Elin's Love ★ icon" loading="lazy" width="auto" height="16px"> **Elin's Love ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_onitti_cake-love.png" alt="Elin's Love ★ icon" loading="lazy" width="auto" height="16px"> **Elin's Love ★** is a legendary dish.
 
 Multiple layers of pure love and care for all [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) in existence. It melts your heart with essence of love.  
 This advanced recipe makes sure you put a lot of effort in it to achieve perfection.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Elin's Love ★ icon" loading="lazy" width="auto" height="16px"> Elin's Love ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_onitti_cake-love.png" alt="Elin's Love ★ icon" loading="lazy" width="auto" height="16px"> Elin's Love ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*4*

@@ -1,6 +1,6 @@
 # Crystal Plant Shield
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystal Plant Shield icon" loading="lazy" width="auto" height="16px"> **Crystal Plant Shield** is an uncommon shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-carel.png" alt="Crystal Plant Shield icon" loading="lazy" width="auto" height="16px"> **Crystal Plant Shield** is an uncommon shield.
 
 Contrary to popular opinion, you cannot eat this shield. You can try, but I wouldn't recommend.  
 It's not entirely known whether these crystal shields are forming naturally, but so far there has been no evidence of alta assistance in the process.

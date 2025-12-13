@@ -1,6 +1,6 @@
 # Viona Fresh
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Viona Fresh icon" loading="lazy" width="auto" height="16px"> **Viona Fresh** is a common drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-viona.png" alt="Viona Fresh icon" loading="lazy" width="auto" height="16px"> **Viona Fresh** is a common drink.
 
 A drink of science, that first was discovered in an actual lab, where the enchanted energy was being researched. Not it's a hit with partygoers!  
 Generally viona anomalies are things to be cautious of, but even an energy miazma can become a source of a good drink sometimes.
@@ -10,15 +10,6 @@ Generally viona anomalies are things to be cautious of, but even an energy miazm
 Species descriptions:
 
 - Alta: A fun fact - the fruits used for this usually change their color after being "vionified" and can go from yellow or red to pink or blue.
-
-## Parameters
-
-- Food Value: 14
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `lowgrav` (60s)
 
 ## Usage
 
@@ -32,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Viona Fresh icon" loading="lazy" width="auto" height="16px"> Viona Fresh x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-viona.png" alt="Viona Fresh icon" loading="lazy" width="auto" height="16px"> Viona Fresh x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
   - `grapes` x*1*
 

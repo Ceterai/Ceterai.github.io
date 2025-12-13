@@ -128,7 +128,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Dark Earhood icon" loading="lazy" width="auto" height="16px"> [Dark Earhood](https://ceterai.github.io/MyEnternia/Wiki/DarkEarhood)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Felistraza icon" loading="lazy" width="auto" height="16px"> [Felistraza](https://ceterai.github.io/MyEnternia/Wiki/Felistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Gyera Flower Crown ★ icon" loading="lazy" width="auto" height="16px"> [Gyera Flower Crown ★](https://ceterai.github.io/MyEnternia/Wiki/GyeraFlowerCrown)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Pastel Drone ★ icon" loading="lazy" width="auto" height="16px"> [Pastel Drone ★](https://ceterai.github.io/MyEnternia/Wiki/PastelDrone)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_drone-pastel.png" alt="Pastel Drone ★ icon" loading="lazy" width="auto" height="16px"> [Pastel Drone ★](https://ceterai.github.io/MyEnternia/Wiki/PastelDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaarafinger's Crown ★ icon" loading="lazy" width="auto" height="16px"> [Yaarafinger's Crown ★](https://ceterai.github.io/MyEnternia/Wiki/Yaarafinger'sCrown)
 
 </details>

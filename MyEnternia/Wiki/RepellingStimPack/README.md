@@ -1,6 +1,6 @@
 # Repelling Stim Pack ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Repelling Stim Pack ★ icon" loading="lazy" width="auto" height="16px"> **Repelling Stim Pack ★** is a rare medical item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_catalyst-repell.png" alt="Repelling Stim Pack ★ icon" loading="lazy" width="auto" height="16px"> **Repelling Stim Pack ★** is a rare medical item.
 
 This enhancer makes you very defensive. Passively. For 2 minutes.  
 It causes you to "auto-repell", or to discharge an impulse every time your nerv system negatively reacts to an outside factor.

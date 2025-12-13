@@ -1,6 +1,6 @@
-# Natal Punch Deluxe
+# Natal Punch Deluxe ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch Deluxe icon" loading="lazy" width="auto" height="16px"> **Natal Punch Deluxe** is a legendary drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_natal_punch-deluxe.png" alt="Natal Punch Deluxe ★★ icon" loading="lazy" width="auto" height="16px"> **Natal Punch Deluxe ★★** is a rare drink.
 
 A punch so high on calcium it might grow bones and run away, so better drink it quickly.  
 This "premium" version of the recipe contains a much higher concentration of crystals and thus might not be for everyone.
@@ -10,15 +10,6 @@ This "premium" version of the recipe contains a much higher concentration of cry
 Species descriptions:
 
 - Alta: Nice touch if you have something chewy to go along with it, or something like a pizza.
-
-## Parameters
-
-- Food Value: 30
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `biomeradiationImmunity` (360s)
 
 ## Usage
 
@@ -34,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch Deluxe icon" loading="lazy" width="auto" height="16px"> Natal Punch Deluxe x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_natal_punch-deluxe.png" alt="Natal Punch Deluxe ★★ icon" loading="lazy" width="auto" height="16px"> Natal Punch Deluxe ★★ x*1*):
   - `alienfruit` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" width="auto" height="16px"> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheatsyn Tea icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Tea](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTea) x*1*
@@ -53,8 +44,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_natal_punch-deluxe`
-- Level: `6`
+- Level: `5`
 - Power: `1.0`
-- Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`punch`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Punch), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`punch`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Punch), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/items/generic/food/tier3/ct_natal_punch.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_natal_punch.consumable)

@@ -1,6 +1,6 @@
 # Poi Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Poi Tea icon" loading="lazy" width="auto" height="16px"> **Poi Tea** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-poi_tea.png" alt="Poi Tea icon" loading="lazy" width="auto" height="16px"> **Poi Tea** is an uncommon dish.
 
 Very thick and fulfilling tea, almost like a well-made kissel.  
 No slimes were hurt in the process of making this tea, I swear.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Poi Tea icon" loading="lazy" width="auto" height="16px"> Poi Tea x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-poi_tea.png" alt="Poi Tea icon" loading="lazy" width="auto" height="16px"> Poi Tea x*1*):
   - <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"> [Slime Blob](https://starbounder.org/Slime_Blob) x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*1*

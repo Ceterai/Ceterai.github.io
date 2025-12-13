@@ -1,6 +1,6 @@
 # Tonnakada Split
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada Split icon" loading="lazy" width="auto" height="16px"> **Tonnakada Split** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonnakada-split.png" alt="Tonnakada Split icon" loading="lazy" width="auto" height="16px"> **Tonnakada Split** is an uncommon dish.
 
 A perfectly cooked tonna. These soft milky insides are oozing from the sides!  
 Interesting how extra effort can result in a different taste and an even more enticing presentation.
@@ -10,15 +10,6 @@ Interesting how extra effort can result in a different taste and an even more en
 Species descriptions:
 
 - Alta: I think I will need a napkin for this one.
-
-## Parameters
-
-- Food Value: 24
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (60s)
 
 ## Usage
 
@@ -33,7 +24,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada Split icon" loading="lazy" width="auto" height="16px"> Tonnakada Split x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonnakada-split.png" alt="Tonnakada Split icon" loading="lazy" width="auto" height="16px"> Tonnakada Split x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*2*
 

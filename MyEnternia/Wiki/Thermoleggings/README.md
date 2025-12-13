@@ -1,6 +1,6 @@
 # Thermoleggings ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="Thermoleggings ★ icon" loading="lazy" width="auto" height="16px"> **Thermoleggings ★** is an uncommon leg armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_legwear-koywa.png" alt="Thermoleggings ★ icon" loading="lazy" width="auto" height="16px"> **Thermoleggings ★** is an uncommon leg armor piece.
 
 A power ranger legwear often used by riverside alta scouts.  
 It provides additional armor and step extendings to protect the legs and add weight to them.

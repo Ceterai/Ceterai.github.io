@@ -1,6 +1,6 @@
 # Light Tag
 
-The tag `light` contains 242 total entries.
+The tag `light` contains 244 total entries.
 
 ## Objects
 
@@ -56,7 +56,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 181 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 183 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -161,6 +161,8 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 - [Alta Social Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker)
 - [Alta Solarium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaSolariumProtecta)
 - [Alta Soldier](https://ceterai.github.io/MyEnternia/Wiki/AltaSoldier)
+- [Alta Sonaveil Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilGirl)
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 - [Alta Spooky Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSpookyGirl)
 - [Alta Stone Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaStoneGardener)
 - [Alta Supervisor](https://ceterai.github.io/MyEnternia/Wiki/AltaSupervisor)
@@ -258,10 +260,10 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/gheatsyn.png" alt="Gheatsyn Glowstick icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Glowstick](https://ceterai.github.io/MyEnternia/Wiki/GheatsynGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_hevika_flare.png" alt="Hevika Flare icon" loading="lazy" width="auto" height="16px"> [Hevika Flare](https://ceterai.github.io/MyEnternia/Wiki/HevikaFlare)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" width="auto" height="16px"> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Light Stim Pack icon" loading="lazy" width="auto" height="16px"> [Light Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/LightStimPack)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_hevikai_stim-light.png" alt="Light Stim Pack icon" loading="lazy" width="auto" height="16px"> [Light Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/LightStimPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/mical.png" alt="Mical Glowstick icon" loading="lazy" width="auto" height="16px"> [Mical Glowstick](https://ceterai.github.io/MyEnternia/Wiki/MicalGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/omniblue.png" alt="Omniblue Glowstick icon" loading="lazy" width="auto" height="16px"> [Omniblue Glowstick](https://ceterai.github.io/MyEnternia/Wiki/OmniblueGlowstick)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Repelling Stim Pack ★ icon" loading="lazy" width="auto" height="16px"> [Repelling Stim Pack ★](https://ceterai.github.io/MyEnternia/Wiki/RepellingStimPack)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_catalyst-repell.png" alt="Repelling Stim Pack ★ icon" loading="lazy" width="auto" height="16px"> [Repelling Stim Pack ★](https://ceterai.github.io/MyEnternia/Wiki/RepellingStimPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/stardust.png" alt="Stardust Glowstick icon" loading="lazy" width="auto" height="16px"> [Stardust Glowstick](https://ceterai.github.io/MyEnternia/Wiki/StardustGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_glowbomb.png" alt="Warped Fumes icon" loading="lazy" width="auto" height="16px"> [Warped Fumes](https://ceterai.github.io/MyEnternia/Wiki/WarpedFumes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Warped Glowtail icon" loading="lazy" width="auto" height="16px"> [Warped Glowtail](https://ceterai.github.io/MyEnternia/Wiki/WarpedGlowtail)

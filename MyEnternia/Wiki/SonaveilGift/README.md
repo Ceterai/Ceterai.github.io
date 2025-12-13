@@ -24,10 +24,10 @@ When used:
 - `snowflake` x*8* (weight: 0.08)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonasweet.png" alt="Sonasweet icon" loading="lazy" width="auto" height="16px"> [Sonasweet](https://ceterai.github.io/MyEnternia/Wiki/Sonasweet) x*1* (weight: 0.13)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"> [Sonaveil Cake](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCake) x*1* (weight: 0.05)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_cake-love.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove) x*1* (weight: 0.01)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sonaveil Pie ★ icon" loading="lazy" width="auto" height="16px"> [Sonaveil Pie ★](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPie) x*1* (weight: 0.07)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace) x*1* (weight: 0.01)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> [Gheamont ★](https://ceterai.github.io/MyEnternia/Wiki/Gheamont) x*1* (weight: 0.13)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_pie-hug.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace) x*1* (weight: 0.01)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gheatsyn_tea-gheamont.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> [Gheamont ★](https://ceterai.github.io/MyEnternia/Wiki/Gheamont) x*1* (weight: 0.13)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"> [Sonaveil Lights](https://ceterai.github.io/MyEnternia/Wiki/SonaveilLights) x*4* (weight: 0.02)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"> [Sonaveil Lights](https://ceterai.github.io/MyEnternia/Wiki/SonaveilLights) x*2* (weight: 0.05)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sonaveil_scarf_wall.png" alt="Sonaveil Wall Scarf icon" loading="lazy" width="auto" height="16px"> [Sonaveil Wall Scarf](https://ceterai.github.io/MyEnternia/Wiki/SonaveilWallScarf) x*1* (weight: 0.06)
@@ -51,6 +51,10 @@ When used:
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
+
+Can be bought from merchants:
+
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 
 Can be obtained from special items:
 

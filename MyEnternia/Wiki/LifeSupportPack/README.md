@@ -5,7 +5,7 @@
 A standard protocol life support system for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) units. Adds slow health regen, unaffected by regen blockers.  
 This necessary life-saving technology is required for every security guard by safety protocols, but has to be worn separately from the suit.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="GR Supply ★ icon" loading="lazy" width="auto" height="16px"> [GR Supply ★](https://ceterai.github.io/MyEnternia/Wiki/GRSupply) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_pack-upgrade.png" alt="GR Supply ★ icon" loading="lazy" width="auto" height="16px"> [GR Supply ★](https://ceterai.github.io/MyEnternia/Wiki/GRSupply) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

@@ -1,6 +1,6 @@
 # Crystal Heart ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystal Heart ★ icon" loading="lazy" width="auto" height="16px"> **Crystal Heart ★** is a legendary shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calin_shield-upgrade.png" alt="Crystal Heart ★ icon" loading="lazy" width="auto" height="16px"> **Crystal Heart ★** is a legendary shield.
 
 A crystal shield enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Now you can feel it pulsate with new energy, see the sparks come off of it into nowhere.  
 It's barely visible cosmic shimmer is almost hypnotizing.

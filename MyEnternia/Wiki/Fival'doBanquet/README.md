@@ -1,6 +1,6 @@
-# Fival'do Banquet
+# Fival'do Banquet ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" width="auto" height="16px"> **Fival'do Banquet** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_fivaldo_salad-banquet.png" alt="Fival'do Banquet ★ icon" loading="lazy" width="auto" height="16px"> **Fival'do Banquet ★** is a rare dish.
 
 Now we're talking! This salad goes far and beyond, what a masterpiece!  
 While this particular variation doesn't require as much cutting and mixing as the original salad, the presentation and distribution play a big role in the overall experience.
@@ -10,17 +10,6 @@ While this particular variation doesn't require as much cutting and mixing as th
 Species descriptions:
 
 - Alta: A whole banquet is very much a party thing. Fast to prepare, and the big portion size is great for a lot of friends. Or even just for you.
-
-## Parameters
-
-- Food Value: 55
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `runboostfood` (210s)
-- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="Jump Boost icon" loading="lazy" width="16px" height="16px"> [Jump Boost (Food)](https://starbounder.org/Jump_Boost) (210s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (210s)
 
 ## Usage
 
@@ -36,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" width="auto" height="16px"> Fival'do Banquet x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_fivaldo_salad-banquet.png" alt="Fival'do Banquet ★ icon" loading="lazy" width="auto" height="16px"> Fival'do Banquet ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*2*
@@ -56,8 +45,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_fivaldo_salad-banquet`
-- Level: `6`
+- Level: `5`
 - Power: `1.0`
-- Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`salad`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Salad)
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`salad`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Salad)
 - File: [`/items/generic/food/tier3/ct_fivaldo_salad.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_fivaldo_salad.consumable)

@@ -1,6 +1,6 @@
 # Crimson Plant Tea ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Crimson Plant Tea ★ icon" loading="lazy" width="auto" height="16px"> **Crimson Plant Tea ★** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_maito_tea-crimson.png" alt="Crimson Plant Tea ★ icon" loading="lazy" width="auto" height="16px"> **Crimson Plant Tea ★** is an uncommon drink.
 
 A mixed cuisine tea that will make all the toubles go away.  
 Using specific concentration of tonna fruit and extract with fired ayaka sap and specific calin spices creates a natural sedative, considered very efficient by altas.
@@ -10,16 +10,6 @@ Using specific concentration of tonna fruit and extract with fired ayaka sap and
 Species descriptions:
 
 - Alta: Borderline medicine, but in a good way. Nothing better to drink if you're nervous or afraid. The slight taste of boiled tonna milk is a perfect finisher.
-
-## Parameters
-
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/b/b3/Status_Regeneration.png" alt="Regeneration I icon" loading="lazy" width="16px" height="16px"> [Regeneration I](https://starbounder.org/Regeneration_(Buff)) (240s)
-- `lowgrav` (240s)
 
 ## Usage
 
@@ -35,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Crimson Plant Tea ★ icon" loading="lazy" width="auto" height="16px"> Crimson Plant Tea ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_maito_tea-crimson.png" alt="Crimson Plant Tea ★ icon" loading="lazy" width="auto" height="16px"> Crimson Plant Tea ★ x*1*):
   - `feathercrown` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*2*
 

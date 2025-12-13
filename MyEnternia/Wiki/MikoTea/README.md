@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/passionate.png:1" alt="Passionate icon" loading="lazy" width="auto" height="16px"> [Passionate](https://ceterai.github.io/MyEnternia/Wiki/Passionate) (240s)
-- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Love icon" loading="lazy" width="15px" height="15px"> [Love](https://starbounder.org/Personality#NPC_Reactions) (240s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"> [Yae Tea ★](https://ceterai.github.io/MyEnternia/Wiki/YaeTea) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_miko_tea-yae.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"> [Yae Tea ★](https://ceterai.github.io/MyEnternia/Wiki/YaeTea) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -47,7 +39,7 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"> [Gillikada Split](https://ceterai.github.io/MyEnternia/Wiki/GillikadaSplit)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gillikada-split.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"> [Gillikada Split](https://ceterai.github.io/MyEnternia/Wiki/GillikadaSplit)
 
 Can be crafted:
 

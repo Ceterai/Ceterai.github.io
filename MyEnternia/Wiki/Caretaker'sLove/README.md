@@ -1,6 +1,6 @@
 # Caretaker's Love
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> **Caretaker's Love** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_dinner-caretaker.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> **Caretaker's Love** is a rare dish.
 
 Just like your caretaker used to make!  
 A great example of "made with love" that will leave no alta indifferent.
@@ -10,16 +10,6 @@ A great example of "made with love" that will leave no alta indifferent.
 Species descriptions:
 
 - Alta: Words can't describe my feelings about this, but the name reflects them perfectly.
-
-## Parameters
-
-- Food Value: 75
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (120s)
-- `runboostfood` (120s)
 
 ## Usage
 
@@ -36,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> Caretaker's Love x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_dinner-caretaker.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> Caretaker's Love x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*1*
@@ -55,8 +45,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_alta_dinner-caretaker`
-- Level: `6`
+- Level: `5`
 - Power: `1.0`
-- Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`meal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Meal), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`meal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Meal), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/items/generic/food/tier3/ct_alta_dinner.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_alta_dinner.consumable)

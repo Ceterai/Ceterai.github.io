@@ -1,6 +1,6 @@
 # Viona Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"> **Viona Tea** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaara_tea-viona.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"> **Viona Tea** is an uncommon drink.
 
 Perhaps a tad too much life in this one. You can feel its stare and menacing presence.  
 Freshly made from various roots and flowers commonly found in [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove), like [ialistas](https://ceterai.github.io/MyEnternia/Wiki/ialistas), [bayuns](https://ceterai.github.io/MyEnternia/Wiki/bayuns) and [caloyas](https://ceterai.github.io/MyEnternia/Wiki/caloyas).
@@ -10,16 +10,6 @@ Freshly made from various roots and flowers commonly found in [yaara groves](htt
 Species descriptions:
 
 - Alta: A pleasant texture and a promising variety in the recipe, which sounds exciting.
-
-## Parameters
-
-- Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/happy.png:1" alt="Happy icon" loading="lazy" width="auto" height="16px"> [Happy](https://ceterai.github.io/MyEnternia/Wiki/Happy) (120s)
-- <img src="https://starbounder.org/mediawiki/images/b/b3/Status_Regeneration.png" alt="Regeneration I icon" loading="lazy" width="16px" height="16px"> [Regeneration I](https://starbounder.org/Regeneration_(Buff)) (240s)
 
 ## Usage
 
@@ -35,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"> Viona Tea x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaara_tea-viona.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"> Viona Tea x*1*):
   - `avesmingo` x*1*
   - `alienfruit` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1*

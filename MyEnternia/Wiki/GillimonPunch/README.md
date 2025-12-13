@@ -1,6 +1,6 @@
-# Gillimon Punch
+# Gillimon Punch ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Gillimon Punch icon" loading="lazy" width="auto" height="16px"> **Gillimon Punch** is a rare drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-gillimon.png" alt="Gillimon Punch ★ icon" loading="lazy" width="auto" height="16px"> **Gillimon Punch ★** is a rare drink.
 
 A mistery mixture that takes a fresh turn on the heecho punch.  
 An exciting twist that makes a punch enjoyable with changing it too much. This one is also a shorter blend and has a slightly thicker texture compared to the original.
@@ -10,16 +10,6 @@ An exciting twist that makes a punch enjoyable with changing it too much. This o
 Species descriptions:
 
 - Alta: This is what happens when a friend making this decides to experiment with it a bit, and it's pretty delicious.
-
-## Parameters
-
-- Food Value: 25
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals) (240s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (20%)](https://starbounder.org/Status_Effects#Stat_Boosts) (240s)
 
 ## Usage
 
@@ -36,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Gillimon Punch icon" loading="lazy" width="auto" height="16px"> Gillimon Punch x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-gillimon.png" alt="Gillimon Punch ★ icon" loading="lazy" width="auto" height="16px"> Gillimon Punch ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*2*

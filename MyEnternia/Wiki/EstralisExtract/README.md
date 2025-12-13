@@ -1,6 +1,6 @@
 # Estralis Extract
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Estralis Extract icon" loading="lazy" width="auto" height="16px"> **Estralis Extract** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_jam-sap.png" alt="Estralis Extract icon" loading="lazy" width="auto" height="16px"> **Estralis Extract** is an uncommon dish.
 
 Estralis extract, also known as _estralis sap_, is a natural juice that can be safely gathered from a ripe <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"> [estralis vyurm](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm).  
 Usually only done by experienced [alta gardeners](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener), the process of extraction is quite complicated.  
@@ -11,15 +11,6 @@ Good substitute for aya jam.
 Species descriptions:
 
 - Alta: They could've just called it a passion juice or love nectar or something at this point. Very nice smell though.
-
-## Parameters
-
-- Food Value: 29
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="Jump Boost icon" loading="lazy" width="16px" height="16px"> [Jump Boost (Food)](https://starbounder.org/Jump_Boost) (45s)
 
 ## Usage
 
@@ -35,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Estralis Extract icon" loading="lazy" width="auto" height="16px"> Estralis Extract x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_jam-sap.png" alt="Estralis Extract icon" loading="lazy" width="auto" height="16px"> Estralis Extract x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*4*
 

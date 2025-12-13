@@ -1,6 +1,6 @@
 # Yae Tea ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"> **Yae Tea ★** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_miko_tea-yae.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"> **Yae Tea ★** is an uncommon drink.
 
 A nice variation on the miko tea if you really want to show off for some reason. Good job I guess.  
 With additional spices and increased sweetness from [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) extract, this drink will go well for someone in an already good mood.
@@ -10,15 +10,6 @@ With additional spices and increased sweetness from [miko koywa](https://ceterai
 Species descriptions:
 
 - Alta: Can be a hit and a miss, both taste-wise and sentiment-wise. There's even an alta saying "Yae Miko is too much", for when you're not sure if the person you're talking to is comfortable with the subject.
-
-## Parameters
-
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/steaming.png:1" alt="Lustful icon" loading="lazy" width="auto" height="16px"> [Lustful](https://ceterai.github.io/MyEnternia/Wiki/Lustful) (300s)
 
 ## Usage
 
@@ -32,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"> Yae Tea ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_miko_tea-yae.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"> Yae Tea ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*1*

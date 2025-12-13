@@ -1,6 +1,6 @@
 # Cooked Arics
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Arics icon" loading="lazy" width="auto" height="16px"> **Cooked Arics** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-cooked_arics.png" alt="Cooked Arics icon" loading="lazy" width="auto" height="16px"> **Cooked Arics** is a common dish.
 
 Simple cooked edible arics. While they are quite easy to cook, it takes some proficiency to prepare them because aof possible microtoxins.  
 These are usually made in large portions, roasted in a high-temperature grill, spiced, and often sliced down before serving.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Arics icon" loading="lazy" width="auto" height="16px"> Cooked Arics x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-cooked_arics.png" alt="Cooked Arics icon" loading="lazy" width="auto" height="16px"> Cooked Arics x*1*):
   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*4*
 
 Can be bought from merchants:

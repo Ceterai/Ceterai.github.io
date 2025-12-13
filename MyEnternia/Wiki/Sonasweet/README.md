@@ -24,7 +24,7 @@ Unlocks blueprints for:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_pie-hug.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonasweet.png" alt="Sonasweet icon" loading="lazy" width="auto" height="16px"> [Sonasweet](https://ceterai.github.io/MyEnternia/Wiki/Sonasweet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sonaveil Pie ★ icon" loading="lazy" width="auto" height="16px"> [Sonaveil Pie ★](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPie)
@@ -35,6 +35,10 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice) x*1*
   - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4*
+
+Can be bought from merchants:
+
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 
 Can be obtained from special items:
 

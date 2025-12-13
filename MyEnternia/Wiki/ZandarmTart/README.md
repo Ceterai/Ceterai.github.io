@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 25
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `energyregen` (120s)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock) (5s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> [Zandarm Prime ★](https://ceterai.github.io/MyEnternia/Wiki/ZandarmPrime) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_zandarm_tart-prime.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> [Zandarm Prime ★](https://ceterai.github.io/MyEnternia/Wiki/ZandarmPrime) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -42,13 +34,13 @@ Can be used to craft:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Essence icon" loading="lazy" width="auto" height="16px"> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-cryo.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ionic_fresh-essence.png" alt="Ionic Essence icon" loading="lazy" width="auto" height="16px"> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-honey.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" width="auto" height="16px"> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ionic_fresh-party.png" alt="Party Fresh icon" loading="lazy" width="auto" height="16px"> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh)
 
 </details>
 

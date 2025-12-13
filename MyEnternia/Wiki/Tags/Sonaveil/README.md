@@ -1,6 +1,6 @@
 # Sonaveil Tag
 
-The tag `sonaveil` contains 17 total entries.
+The tag `sonaveil` contains 19 total entries.
 
 ## Objects
 
@@ -14,14 +14,19 @@ Following objects have this colony tag:
 
 ## Tenants
 
+Following tenants require this colony tag:
+
+- [Alta Sonaveil Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilGirl)
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
+
 ## Items
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/alta_scarf/icon.png" alt="Alta Scarf icon" loading="lazy" width="auto" height="16px"> [Alta Scarf](https://ceterai.github.io/MyEnternia/Wiki/AltaScarf)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Hot Sona Milk icon" loading="lazy" width="auto" height="16px"> [Hot Sona Milk](https://ceterai.github.io/MyEnternia/Wiki/HotSonaMilk)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_pie-hug.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_cake-love.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonasweet.png" alt="Sonasweet icon" loading="lazy" width="auto" height="16px"> [Sonasweet](https://ceterai.github.io/MyEnternia/Wiki/Sonasweet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"> [Sonaveil Cake](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)
@@ -29,6 +34,6 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sonaveil Pie ★ icon" loading="lazy" width="auto" height="16px"> [Sonaveil Pie ★](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_sonaveil_popper.png" alt="Sonaveil Popper icon" loading="lazy" width="auto" height="16px"> [Sonaveil Popper](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPopper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/scarf/icon.png" alt="Sonaveil Scarf icon" loading="lazy" width="auto" height="16px"> [Sonaveil Scarf](https://ceterai.github.io/MyEnternia/Wiki/SonaveilScarf)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> [Thick Sona Milk ★](https://ceterai.github.io/MyEnternia/Wiki/ThickSonaMilk)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sona_milk_hot-thick.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> [Thick Sona Milk ★](https://ceterai.github.io/MyEnternia/Wiki/ThickSonaMilk)
 
 </details>

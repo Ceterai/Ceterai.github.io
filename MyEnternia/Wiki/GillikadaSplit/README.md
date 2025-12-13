@@ -1,6 +1,6 @@
 # Gillikada Split
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"> **Gillikada Split** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gillikada-split.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"> **Gillikada Split** is an uncommon dish.
 
 This perfectly crafted gillikada has a thin, satisfying crust covering its gentle mash. Very fulfilling.  
 The crust can be achieved in many ways, but is often made by covering the outside in an even layer of mashed gil seeds and some cooking oil.
@@ -10,15 +10,6 @@ The crust can be achieved in many ways, but is often made by covering the outsid
 Species descriptions:
 
 - Alta: Not sure if I prefer this or the regular version. Both are pretty neat.
-
-## Parameters
-
-- Food Value: 24
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `runboostfood` (60s)
 
 ## Usage
 
@@ -33,7 +24,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"> Gillikada Split x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gillikada-split.png" alt="Gillikada Split icon" loading="lazy" width="auto" height="16px"> Gillikada Split x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*
 

@@ -25,7 +25,7 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_astera_tear.png" alt="Astera's Tear icon" loading="lazy" width="auto" height="16px"> [Astera's Tear](https://ceterai.github.io/MyEnternia/Wiki/Astera'sTear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" width="auto" height="16px"> [Meteoblaster WIP](https://ceterai.github.io/MyEnternia/Wiki/MeteoblasterWIP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_oni_nerus.png" alt="Oni-Nerus ★ icon" loading="lazy" width="auto" height="16px"> [Oni-Nerus ★](https://ceterai.github.io/MyEnternia/Wiki/Oni-Nerus)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="Space Helmet icon" loading="lazy" width="auto" height="16px"> [Space Helmet](https://ceterai.github.io/MyEnternia/Wiki/SpaceHelmet)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ceterai_helmet-astera.png" alt="Space Helmet icon" loading="lazy" width="auto" height="16px"> [Space Helmet](https://ceterai.github.io/MyEnternia/Wiki/SpaceHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png" alt="Starblaster ★ icon" loading="lazy" width="auto" height="16px"> [Starblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Starblaster)
 
 </details>

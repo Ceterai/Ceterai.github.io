@@ -1,6 +1,6 @@
 # Smart Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Smart Drone icon" loading="lazy" width="auto" height="16px"> **Smart Drone** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_drone-smart.png" alt="Smart Drone icon" loading="lazy" width="auto" height="16px"> **Smart Drone** is a rare throwable item.
 
 An observer drone, used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) scouts to scan the area.  
 While it doesn't possess any actual combative power, it's still very useful and will do anything to defend its ally.

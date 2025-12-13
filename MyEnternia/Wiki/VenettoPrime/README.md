@@ -1,6 +1,6 @@
 # Venetto Prime ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Venetto Prime ★ icon" loading="lazy" width="auto" height="16px"> **Venetto Prime ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_haruplavu_venetto-prime.png" alt="Venetto Prime ★ icon" loading="lazy" width="auto" height="16px"> **Venetto Prime ★** is a legendary dish.
 
 A well-made haruplavu that somehow tastes very different from the original. Still incredibly tasty.  
 A chef's hand made this dish irreversibly unique.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Venetto Prime ★ icon" loading="lazy" width="auto" height="16px"> Venetto Prime ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_haruplavu_venetto-prime.png" alt="Venetto Prime ★ icon" loading="lazy" width="auto" height="16px"> Venetto Prime ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*2*

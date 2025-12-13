@@ -1,6 +1,6 @@
 # Aya Mash
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Aya Mash icon" loading="lazy" width="auto" height="16px"> **Aya Mash** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-mash.png" alt="Aya Mash icon" loading="lazy" width="auto" height="16px"> **Aya Mash** is an uncommon dish.
 
 This baked aya was mashed and mixed after cooking, making it into a proper garnish. Good with runeva fruits like gils and cooked tsays.  
 A common ingredient in full-course meals, like [alta dinners](https://ceterai.github.io/MyEnternia/Wiki/altadinners), combos and mixes. Also, commonly prepared by caretaker for sick and unwell altas.
@@ -10,11 +10,6 @@ A common ingredient in full-course meals, like [alta dinners](https://ceterai.gi
 Species descriptions:
 
 - Alta: My caretaker makes the best mash I've ever tried! With calin sticks, or yaarings, or just about anything else.
-
-## Parameters
-
-- Food Value: 24
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Usage
 
@@ -28,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Aya Mash icon" loading="lazy" width="auto" height="16px"> Aya Mash x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-mash.png" alt="Aya Mash icon" loading="lazy" width="auto" height="16px"> Aya Mash x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*2*
 
 Can be bought from merchants:

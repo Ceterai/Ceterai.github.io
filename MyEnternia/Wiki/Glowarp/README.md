@@ -1,6 +1,6 @@
 # Glowarp ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Glowarp ★ icon" loading="lazy" width="auto" height="16px"> **Glowarp ★** is a legendary drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_warped_cocktail-glowarp.png" alt="Glowarp ★ icon" loading="lazy" width="auto" height="16px"> **Glowarp ★** is a legendary drink.
 
 An extra-warpy drink that will warp your perception of drinks as a concept.  
 This recipe actually uses some warped ingredients in its recipe, like archulins and a little bit of warped honey.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Glowarp ★ icon" loading="lazy" width="auto" height="16px"> Glowarp ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_warped_cocktail-glowarp.png" alt="Glowarp ★ icon" loading="lazy" width="auto" height="16px"> Glowarp ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheatsyn Tea icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Tea](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTea) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) x*1*

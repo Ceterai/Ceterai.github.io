@@ -78,7 +78,7 @@ Unlocks blueprints for:
 - `ct_starsteel`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_dream_eater.png" alt="Dream Eater icon" loading="lazy" width="auto" height="16px"> [Dream Eater](https://ceterai.github.io/MyEnternia/Wiki/DreamEater)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_drone_visor.png" alt="Drone Visor ★ icon" loading="lazy" width="auto" height="16px"> [Drone Visor ★](https://ceterai.github.io/MyEnternia/Wiki/DroneVisor)
-- `dyeremover`
+- <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye Remover icon" loading="lazy" width="8px" height="12px"> [Dye Remover](https://starbounder.org/Dye_Remover)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/eds/body.png" alt="EDS Emblem icon" loading="lazy" width="auto" height="16px"> [EDS Emblem](https://ceterai.github.io/MyEnternia/Wiki/EDSEmblem)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" width="auto" height="16px"> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/elin/body.png" alt="Elin Emblem icon" loading="lazy" width="auto" height="16px"> [Elin Emblem](https://ceterai.github.io/MyEnternia/Wiki/ElinEmblem)

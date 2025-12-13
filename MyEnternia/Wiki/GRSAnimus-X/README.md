@@ -1,6 +1,6 @@
 # GRS "Animus-X" ★★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GRS Animus-X ★★★★ icon" loading="lazy" width="auto" height="16px"> **GRS "Animus-X" ★★★★** is a legendary head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_helmet-omni.png" alt="GRS Animus-X ★★★★ icon" loading="lazy" width="auto" height="16px"> **GRS "Animus-X" ★★★★** is a legendary head armor piece.
 
 An Animus prototype that uses omni-stardust energy to run, instead of relying on enternia.  
 Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"> [breath protection](https://starbounder.org/Breathing_EPP).  

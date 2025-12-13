@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_cake-love.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -29,7 +29,7 @@ Unlocks blueprints for:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_cake-love.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> [Sona's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sLove)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"> [Sonaveil Cake](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
 
@@ -41,6 +41,10 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*1*
   - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*12*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*2*
+
+Can be bought from merchants:
+
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 
 Can be obtained from special items:
 

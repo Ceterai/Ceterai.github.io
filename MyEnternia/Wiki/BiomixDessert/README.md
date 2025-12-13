@@ -1,6 +1,6 @@
 # Biomix Dessert ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Dessert ★ icon" loading="lazy" width="auto" height="16px"> **Biomix Dessert ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_biomix_icecream-dessert.png" alt="Biomix Dessert ★ icon" loading="lazy" width="auto" height="16px"> **Biomix Dessert ★** is an uncommon dish.
 
 An indescribable taste mix in a very special desert. This is not a regular ice cream anymore!  
 Often described as a general icy dessert, it is sometimes served in different alta cafes and restaurants, thanks to its versatile flavor mix.
@@ -10,16 +10,6 @@ Often described as a general icy dessert, it is sometimes served in different al
 Species descriptions:
 
 - Alta: The presentation is pretty imaginitive, and the overall palette only makes it better.
-
-## Parameters
-
-- Food Value: 24
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `thorns` (75s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (20%)](https://starbounder.org/Status_Effects#Stat_Boosts) (75s)
 
 ## Usage
 
@@ -33,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Dessert ★ icon" loading="lazy" width="auto" height="16px"> Biomix Dessert ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_biomix_icecream-dessert.png" alt="Biomix Dessert ★ icon" loading="lazy" width="auto" height="16px"> Biomix Dessert ★ x*1*):
   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam) x*1*
   - <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="Crystal Plant icon" loading="lazy" width="13px" height="12px"> [Crystal Plant](https://starbounder.org/Crystal_Plant) x*2*

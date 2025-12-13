@@ -1,6 +1,6 @@
 # Alien Coralbakes
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> **Alien Coralbakes** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-alien.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> **Alien Coralbakes** is an uncommon dish.
 
 A cold-served baked alien coral with edible insides and recepticles, but unedible blue shell that also serves as a container for the dish. Useful.  
 Corals are quite uncommon to come by on alterash planets, so this dish is often considered a delicacy.
@@ -10,11 +10,6 @@ Corals are quite uncommon to come by on alterash planets, so this dish is often 
 Species descriptions:
 
 - Alta: Hard to put it on the scale, I'm not very used to seafood in general.
-
-## Parameters
-
-- Food Value: 24
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Usage
 
@@ -30,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> Alien Coralbakes x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-alien.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> Alien Coralbakes x*1*):
   - `coralcreep` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1*
 
@@ -43,7 +38,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_tsay_cooked-alien`
-- Level: `4`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
 - Tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`sea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sea), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)

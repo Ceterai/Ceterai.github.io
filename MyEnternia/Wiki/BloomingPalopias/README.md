@@ -1,6 +1,6 @@
 # Blooming Palopias ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Blooming Palopias ★ icon" loading="lazy" width="auto" height="16px"> **Blooming Palopias ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_palopias-blooming.png" alt="Blooming Palopias ★ icon" loading="lazy" width="auto" height="16px"> **Blooming Palopias ★** is a legendary dish.
 
 A bouquet of flavors on a plate. These palopias turned out better than ever! Check the fortune afterwards!  
 This recipe is quite special in that it requires certain ingredients to be in a very specific stage of their lifecycle, which isn't always easy to achieve.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Blooming Palopias ★ icon" loading="lazy" width="auto" height="16px"> Blooming Palopias ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_palopias-blooming.png" alt="Blooming Palopias ★ icon" loading="lazy" width="auto" height="16px"> Blooming Palopias ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" width="auto" height="16px"> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*2*

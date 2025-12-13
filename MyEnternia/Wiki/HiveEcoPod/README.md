@@ -20,8 +20,8 @@ Growing stages:
 4. Lasts from 1860 to 1940 seconds.
 5. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - `larva` x*2* (weight: 0.49)
-   - `larva` x*1* (weight: 0.4)
+   - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*2* (weight: 0.49)
+   - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*1* (weight: 0.4)
    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" width="auto" height="16px"> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed) x*1* (weight: 0.01)
    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 
@@ -45,7 +45,7 @@ Can be crafted:
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/eco/icon.png" alt="Eco Hive Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Hive Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoHiveSapling) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" width="auto" height="16px"> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" width="auto" height="16px"> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed) x*1*
-  - `liquidmilk` x*2*
+  - <img src="https://starbounder.org/mediawiki/images/c/c7/Coconut_Milk.png" alt="Milk icon" loading="lazy" width="12px" height="16px"> [Milk](https://starbounder.org/Coconut_Milk) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/lab/icon.png" alt="Alta Lab Eco Pod icon" loading="lazy" width="auto" height="16px"> [Alta Lab Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabEcoPod) x*1*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).

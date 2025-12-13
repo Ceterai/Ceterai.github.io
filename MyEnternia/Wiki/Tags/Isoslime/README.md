@@ -29,8 +29,8 @@ The tag `isoslime` contains 26 total entries.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" width="auto" height="16px"> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" width="auto" height="16px"> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Iced Aya Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Iced Aya Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedAyaDessert)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-cryo.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_icecream-dessert.png" alt="Iced Aya Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Iced Aya Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedAyaDessert)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" width="auto" height="16px"> [Isoblaster](https://ceterai.github.io/MyEnternia/Wiki/Isoblaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" width="auto" height="16px"> [Isoblaster Prime ★](https://ceterai.github.io/MyEnternia/Wiki/IsoblasterPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime)
@@ -38,8 +38,8 @@ The tag `isoslime` contains 26 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="Isoslime Loot Crate icon" loading="lazy" width="auto" height="16px"> [Isoslime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_iso_ball.png" alt="Izo Ball icon" loading="lazy" width="auto" height="16px"> [Izo Ball](https://ceterai.github.io/MyEnternia/Wiki/IzoBall)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Poivani icon" loading="lazy" width="auto" height="16px"> [Poivani](https://ceterai.github.io/MyEnternia/Wiki/Poivani)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-honey.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-poivani.png" alt="Poivani icon" loading="lazy" width="auto" height="16px"> [Poivani](https://ceterai.github.io/MyEnternia/Wiki/Poivani)
 - [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype)
 
 </details>

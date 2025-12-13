@@ -1,6 +1,6 @@
 # Markvin Fresh
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Markvin Fresh icon" loading="lazy" width="auto" height="16px"> **Markvin Fresh** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-markvin.png" alt="Markvin Fresh icon" loading="lazy" width="auto" height="16px"> **Markvin Fresh** is an uncommon drink.
 
 This special fresh mix has a little fizz to it. A riverside multifruit mix with a mango-ish aftertaste.  
 This drink is a pretty common option at many alta cafes and is very popular with altas who are looking for something kicky.
@@ -10,15 +10,6 @@ This drink is a pretty common option at many alta cafes and is very popular with
 Species descriptions:
 
 - Alta: I feel like I'm partying at the beach when drinking this. Very energetic, but also so chilling!
-
-## Parameters
-
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `lowgrav` (60s)
 
 ## Usage
 
@@ -32,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Markvin Fresh icon" loading="lazy" width="auto" height="16px"> Markvin Fresh x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-markvin.png" alt="Markvin Fresh icon" loading="lazy" width="auto" height="16px"> Markvin Fresh x*1*):
   - `redapple` x*1*
   - `pearlpea` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*1*

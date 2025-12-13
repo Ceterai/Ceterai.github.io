@@ -1,6 +1,6 @@
 # Gheamont ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> **Gheamont ★** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gheatsyn_tea-gheamont.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> **Gheamont ★** is an uncommon drink.
 
 Some gheatsyn vermont tea. You can feel the spice just enough to get the resemblance.  
 The mix is much more complicated than with a regular gheatsyn tea, and requires a set of roasted spices to prepare.
@@ -10,15 +10,6 @@ The mix is much more complicated than with a regular gheatsyn tea, and requires 
 Species descriptions:
 
 - Alta: Perfect. Now to get myself some cookies, a cozy blanket and some ionic rain outside.
-
-## Parameters
-
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `lightaugment2` (300s)
 
 ## Usage
 
@@ -34,13 +25,14 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> Gheamont ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gheatsyn_tea-gheamont.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> Gheamont ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*4*
 
 Can be bought from merchants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 
 Can be obtained from special items:
 

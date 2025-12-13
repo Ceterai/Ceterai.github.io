@@ -5,11 +5,11 @@
 The mod adds a total of 9 nades:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_bishyn_nade.png" alt="Bishyn Nade icon" loading="lazy" width="auto" height="16px"> [Bishyn Nade](https://ceterai.github.io/MyEnternia/Wiki/BishynNade)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Handmade Thermomix icon" loading="lazy" width="auto" height="16px"> [Handmade Thermomix](https://ceterai.github.io/MyEnternia/Wiki/HandmadeThermomix)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_thermomix_nade-diy.png" alt="Handmade Thermomix icon" loading="lazy" width="auto" height="16px"> [Handmade Thermomix](https://ceterai.github.io/MyEnternia/Wiki/HandmadeThermomix)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_impulse_nade.png" alt="Impulse Nade icon" loading="lazy" width="auto" height="16px"> [Impulse Nade](https://ceterai.github.io/MyEnternia/Wiki/ImpulseNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ionic_nade.png" alt="Ion Nade icon" loading="lazy" width="auto" height="16px"> [Ion Nade](https://ceterai.github.io/MyEnternia/Wiki/IonNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_phosphonade.png" alt="Phosphonade icon" loading="lazy" width="auto" height="16px"> [Phosphonade](https://ceterai.github.io/MyEnternia/Wiki/Phosphonade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_plasma_nade.png" alt="Plasma Nade icon" loading="lazy" width="auto" height="16px"> [Plasma Nade](https://ceterai.github.io/MyEnternia/Wiki/PlasmaNade)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermofrag Nade icon" loading="lazy" width="auto" height="16px"> [Thermofrag Nade](https://ceterai.github.io/MyEnternia/Wiki/ThermofragNade)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_thermomix_nade-koywa.png" alt="Thermofrag Nade icon" loading="lazy" width="auto" height="16px"> [Thermofrag Nade](https://ceterai.github.io/MyEnternia/Wiki/ThermofragNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermomix icon" loading="lazy" width="auto" height="16px"> [Thermomix](https://ceterai.github.io/MyEnternia/Wiki/Thermomix)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" width="auto" height="16px"> [Vortex Nade ★](https://ceterai.github.io/MyEnternia/Wiki/VortexNade)

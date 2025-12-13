@@ -1,6 +1,6 @@
 # Alliana's Love ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"> **Alliana's Love ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alliana_cake-love.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"> **Alliana's Love ★** is a legendary dish.
 
 The empress loves and cares for you! Though this cake can't express it fully, this time it got very close.  
 This recipe is incredibly hard to replicate, with only few being able to create it perfectly. After all, feelings are a presonal thing, that you can't just take and copy.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"> Alliana's Love ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alliana_cake-love.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"> Alliana's Love ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*4*

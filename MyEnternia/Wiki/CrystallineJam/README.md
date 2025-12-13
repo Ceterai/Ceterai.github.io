@@ -1,6 +1,6 @@
 # Crystalline Jam
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystalline Jam icon" loading="lazy" width="auto" height="16px"> **Crystalline Jam** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_jam-calline.png" alt="Crystalline Jam icon" loading="lazy" width="auto" height="16px"> **Crystalline Jam** is a common dish.
 
 This pristine condiment with great sour-sweet balance and perfectly melted [calline](https://ceterai.github.io/MyEnternia/Wiki/calline) is glowing in the dark.  
 While fluorescence is not a common calline ability, this jam uses other small ingredients that make it achieve that goal.
@@ -10,15 +10,6 @@ While fluorescence is not a common calline ability, this jam uses other small in
 Species descriptions:
 
 - Alta: Tastes very similar to gheatsyn jam, just glows much brighter. Which is still pretty nice.
-
-## Parameters
-
-- Food Value: 24
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `lightaugment1` (60s)
 
 ## Usage
 
@@ -35,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystalline Jam icon" loading="lazy" width="auto" height="16px"> Crystalline Jam x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_jam-calline.png" alt="Crystalline Jam icon" loading="lazy" width="auto" height="16px"> Crystalline Jam x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*2*
   - <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="Crystal Plant icon" loading="lazy" width="13px" height="12px"> [Crystal Plant](https://starbounder.org/Crystal_Plant) x*4*
 
@@ -52,8 +43,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_crystal_jam-calline`
-- Level: `3`
+- Level: `2`
 - Power: `1.0`
-- Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`jam`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Jam), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Rarity: `Common`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`calin_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/CalinCuisine), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`crystalline`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystalline), [`jam`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Jam)
 - File: [`/items/generic/food/tier1/ct_crystal_jam.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_crystal_jam.consumable)

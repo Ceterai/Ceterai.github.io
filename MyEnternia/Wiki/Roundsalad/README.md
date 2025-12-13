@@ -2,13 +2,20 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Roundsalad icon" loading="lazy" width="auto" height="16px"> **Roundsalad** is a rare dish.
 
-A round layered salad made with fresh vegetables and a light dressing.
+A round layered salad made with fresh vegetables and a light dressing.  
+The palette might not be as vibrant, but this delightful new year's mix of crisp roots, juicy arics, crunchy beakseeds, and colorful tsays, all layed out one after another. Big enough for a big group of friends to share!
+
+## Ingame
+
+Species descriptions:
+
+- Alta: A fresh and healthy choice to start the new year right!
 
 ## Parameters
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"> [Round Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/RoundBanquet) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_round_salad-banquet.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"> [Round Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/RoundBanquet) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 

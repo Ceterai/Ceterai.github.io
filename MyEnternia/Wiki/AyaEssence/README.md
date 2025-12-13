@@ -1,6 +1,6 @@
 # Aya Essence
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"> **Aya Essence** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-essence.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"> **Aya Essence** is an uncommon drink.
 
 A well-made fresh that perfectly captures the aya essence. Its incredibly soft fruity mixture bursts with flavor and goes down increadibly easy.  
 Some skilled altas often make stands specifically to sell simillar essences, and are quite popular with runners and love groups.
@@ -10,15 +10,6 @@ Some skilled altas often make stands specifically to sell simillar essences, and
 Species descriptions:
 
 - Alta: It might not look that different, but the texture is pretty telling that this is no regular fresh.
-
-## Parameters
-
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `lowgrav` (60s)
 
 ## Usage
 
@@ -32,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"> Aya Essence x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-essence.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"> Aya Essence x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*1*

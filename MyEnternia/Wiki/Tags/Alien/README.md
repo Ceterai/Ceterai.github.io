@@ -42,6 +42,6 @@ Following tenants require this colony tag:
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Alien Pearls icon" loading="lazy" width="auto" height="16px"> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Xenopod icon" loading="lazy" width="auto" height="16px"> [Baked Xenopod](https://ceterai.github.io/MyEnternia/Wiki/BakedXenopod)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-alien.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-alien_pearls.png" alt="Alien Pearls icon" loading="lazy" width="auto" height="16px"> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-xenopod.png" alt="Baked Xenopod icon" loading="lazy" width="auto" height="16px"> [Baked Xenopod](https://ceterai.github.io/MyEnternia/Wiki/BakedXenopod)

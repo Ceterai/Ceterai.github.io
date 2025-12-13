@@ -1,6 +1,6 @@
 # Yaavi Ice Cream
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaavi Ice Cream icon" loading="lazy" width="auto" height="16px"> **Yaavi Ice Cream** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-yaavi_ice_cream.png" alt="Yaavi Ice Cream icon" loading="lazy" width="auto" height="16px"> **Yaavi Ice Cream** is an uncommon dish.
 
 A simple ice cream in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [yaara eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) colors. In reality only the yellow layer uses a yaara eye powder as an ingredient.  
 One of many special custom recipes shared by many alta chefs. Meant to taste like a caramelled fruit part of the yaara eye.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Yaavi Ice Cream icon" loading="lazy" width="auto" height="16px"> Yaavi Ice Cream x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-yaavi_ice_cream.png" alt="Yaavi Ice Cream icon" loading="lazy" width="auto" height="16px"> Yaavi Ice Cream x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*2*
   - `snowball` x*1*

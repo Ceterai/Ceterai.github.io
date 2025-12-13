@@ -1,6 +1,6 @@
 # GR Guard ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/chest/icon.png" alt="GR Guard ★ icon" loading="lazy" width="auto" height="16px"> **GR Guard ★** is a legendary chest armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_chest-upgrade.png" alt="GR Guard ★ icon" loading="lazy" width="auto" height="16px"> **GR Guard ★** is a legendary chest armor piece.
 
 A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)-infused piece of armor made from bionix. Label on the inner side reads "From Kora ❤".  
 This gift is part of Kora's relics, that she worn or used as the first security guard.

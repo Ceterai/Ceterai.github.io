@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Perfect Ion Risotto ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Ion Risotto ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectIonRisotto) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ion_risotto-perfect.png" alt="Perfect Ion Risotto ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Ion Risotto ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectIonRisotto) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
@@ -23,10 +23,10 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Niatto Motsu Soup icon" loading="lazy" width="auto" height="16px"> [Niatto Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/NiattoMotsuSoup)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Perfect Niatto Motsu icon" loading="lazy" width="auto" height="16px"> [Perfect Niatto Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectNiattoMotsu)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"> [Sunset Crumble](https://ceterai.github.io/MyEnternia/Wiki/SunsetCrumble)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_niatto_motsu-perfect.png" alt="Perfect Niatto Motsu ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Niatto Motsu ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectNiattoMotsu)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_meringue-crumble.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"> [Sunset Crumble](https://ceterai.github.io/MyEnternia/Wiki/SunsetCrumble)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonna Meringue icon" loading="lazy" width="auto" height="16px"> [Tonna Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnaMeringue)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonnakada Meringue icon" loading="lazy" width="auto" height="16px"> [Tonnakada Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaMeringue)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_meringue-kada.png" alt="Tonnakada Meringue ★★ icon" loading="lazy" width="auto" height="16px"> [Tonnakada Meringue ★★](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaMeringue)
 
 </details>
 

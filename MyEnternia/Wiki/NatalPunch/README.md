@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 25
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `biomeradiationImmunity` (300s)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned) (10s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch Deluxe icon" loading="lazy" width="auto" height="16px"> [Natal Punch Deluxe](https://ceterai.github.io/MyEnternia/Wiki/NatalPunchDeluxe) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_natal_punch-deluxe.png" alt="Natal Punch Deluxe ★★ icon" loading="lazy" width="auto" height="16px"> [Natal Punch Deluxe ★★](https://ceterai.github.io/MyEnternia/Wiki/NatalPunchDeluxe) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -44,14 +36,14 @@ Can be used to craft:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Ayabaycalin Tea icon" loading="lazy" width="auto" height="16px"> [Ayabaycalin Tea](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calio_tea-ayaka.png" alt="Ayabaycalin Tea icon" loading="lazy" width="auto" height="16px"> [Ayabaycalin Tea](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" width="auto" height="16px"> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Carel Tea icon" loading="lazy" width="auto" height="16px"> [Carel Tea](https://ceterai.github.io/MyEnternia/Wiki/CarelTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Ciranga Tea icon" loading="lazy" width="auto" height="16px"> [Ciranga Tea](https://ceterai.github.io/MyEnternia/Wiki/CirangaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> [Gheamont ★](https://ceterai.github.io/MyEnternia/Wiki/Gheamont)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calio_tea-carel.png" alt="Carel Tea icon" loading="lazy" width="auto" height="16px"> [Carel Tea](https://ceterai.github.io/MyEnternia/Wiki/CarelTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gheatsyn_tea-alien.png" alt="Ciranga Tea icon" loading="lazy" width="auto" height="16px"> [Ciranga Tea](https://ceterai.github.io/MyEnternia/Wiki/CirangaTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gheatsyn_tea-gheamont.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> [Gheamont ★](https://ceterai.github.io/MyEnternia/Wiki/Gheamont)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheatsyn Tea icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Tea](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Thick Calio Tea ★ icon" loading="lazy" width="auto" height="16px"> [Thick Calio Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ThickCalioTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calio_tea-thick.png" alt="Thick Calio Tea ★ icon" loading="lazy" width="auto" height="16px"> [Thick Calio Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ThickCalioTea)
 
 </details>
 

@@ -1,6 +1,15 @@
 # Round Banquet ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"> **Round Banquet ★** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_round_salad-banquet.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"> **Round Banquet ★** is a rare dish.
+
+A true new year's center tablepiece! This large roundsalad is made for sharing with a big group of friends.  
+A well-cooked and carefully prepared roundsalad, made with extra ingredients in a bit of a bigger bowl. Perfect for celebrating the new year with your loved ones, these are more common when celebrating the start of a new alecta.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: A grand feast to welcome the new year!
 
 ## Usage
 
@@ -16,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"> Round Banquet ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_round_salad-banquet.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"> Round Banquet ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*2*

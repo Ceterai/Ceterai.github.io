@@ -35,5 +35,5 @@ Can periodically provide following items as rent:
 
 - In-game ID: `ct_alta_warm_tenant`
 - NPC type: `ct_alta_warm_girl`
-- Priority: `5`
+- Priority: `7`
 - File: [`/tenants/alta/events/sonaveil/warm.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/events/sonaveil/warm.tenant)

@@ -29,6 +29,10 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
 
+Can be bought from merchants:
+
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
+
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)

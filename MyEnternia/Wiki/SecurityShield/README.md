@@ -1,6 +1,6 @@
 # Security Shield ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="Security Shield ★ icon" loading="lazy" width="auto" height="16px"> **Security Shield ★** is an uncommon shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-security.png" alt="Security Shield ★ icon" loading="lazy" width="auto" height="16px"> **Security Shield ★** is an uncommon shield.
 
 A shield used by some security guards. They have been deprecated since altas were able to find a way to co-exists with slimes.  
 They were the most prominent "visitors" of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"> [alta cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities), and had to be gotten rid of somehow. These shields are taller than most slimes' jump height, and thus are perfect for containing them.

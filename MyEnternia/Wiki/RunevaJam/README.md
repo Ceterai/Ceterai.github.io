@@ -1,6 +1,6 @@
 # Runeva Jam
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"> **Runeva Jam** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_jam-runeva.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"> **Runeva Jam** is an uncommon dish.
 
 The purest jam from best baked ayas. Excellent for pancakes!  
 Can be used as a substitute for aya jam.  
@@ -11,15 +11,6 @@ Usually recipes for it include mixing in bits of other common runeva ingredients
 Species descriptions:
 
 - Alta: It's as if someone made a jam out of an aya punch. I like it.
-
-## Parameters
-
-- Food Value: 29
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="Jump Boost icon" loading="lazy" width="16px" height="16px"> [Jump Boost (Food)](https://starbounder.org/Jump_Boost) (45s)
 
 ## Usage
 
@@ -35,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"> Runeva Jam x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_jam-runeva.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"> Runeva Jam x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay) x*1*

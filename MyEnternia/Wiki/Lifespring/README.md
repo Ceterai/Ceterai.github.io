@@ -13,16 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (60s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifesapling icon" loading="lazy" width="auto" height="16px"> [Lifesapling](https://ceterai.github.io/MyEnternia/Wiki/Lifesapling) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_lifespring-lifesapling.png" alt="Lifesapling icon" loading="lazy" width="auto" height="16px"> [Lifesapling](https://ceterai.github.io/MyEnternia/Wiki/Lifesapling) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 

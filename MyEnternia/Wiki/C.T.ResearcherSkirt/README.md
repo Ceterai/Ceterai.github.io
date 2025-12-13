@@ -1,6 +1,6 @@
 # C.T. Researcher Skirt
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="C.T. Researcher Skirt icon" loading="lazy" width="auto" height="16px"> **C.T. Researcher Skirt** is a rare leg cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_researcher_skirt-ceterai.png" alt="C.T. Researcher Skirt icon" loading="lazy" width="auto" height="16px"> **C.T. Researcher Skirt** is a rare leg cosmetic item.
 
 An official Project Ceterai researcher's legwear. Practical and well thought-out.
 

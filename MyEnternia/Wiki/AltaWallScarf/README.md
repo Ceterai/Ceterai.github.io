@@ -11,10 +11,14 @@ Blueprint unlocked by obtaining:
 Can be crafted:
 
 - Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 5.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_alta_scarf_wall.png" alt="Alta Wall Scarf icon" loading="lazy" width="auto" height="16px"> Alta Wall Scarf x*1*):
-  - `cottonwool` x*4*
+  - <img src="https://starbounder.org/mediawiki/images/1/1a/Cotton_Wool.png" alt="Cotton icon" loading="lazy" width="16px" height="15px"> [Cotton](https://starbounder.org/Cotton_Wool) x*4*
   - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4*
-  - `string` x*2*
+  - <img src="https://starbounder.org/mediawiki/images/a/a0/String.png" alt="String icon" loading="lazy" width="11px" height="10px"> [String](https://starbounder.org/String) x*2*
   - <img src="https://starbounder.org/mediawiki/images/c/c9/Blue_Dye.png" alt="Blue Dye icon" loading="lazy" width="8px" height="12px"> [Blue Dye](https://starbounder.org/Blue_Dye) x*1*
+
+Can be bought from merchants:
+
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 
 Can be obtained from special items:
 

@@ -24,13 +24,13 @@ A simple serving of an alta salad. Can be picked up right away to take a closer 
 Drops following **break** loot:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 1.0)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Nia Assorti icon" loading="lazy" width="auto" height="16px"> [Nia Assorti](https://ceterai.github.io/MyEnternia/Wiki/NiaAssorti) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-nia_assorti.png" alt="Nia Assorti icon" loading="lazy" width="auto" height="16px"> [Nia Assorti](https://ceterai.github.io/MyEnternia/Wiki/NiaAssorti) x*1* (weight: 0.08)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_assorti-salad.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad) x*1* (weight: 0.08)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" width="auto" height="16px"> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" width="auto" height="16px"> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_fivaldo_salad-banquet.png" alt="Fival'do Banquet ★ icon" loading="lazy" width="auto" height="16px"> [Fival'do Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet) x*1* (weight: 0.08)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Special Mimosa ★★ icon" loading="lazy" width="auto" height="16px"> [Special Mimosa ★★](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"> [Lenn's Mimosa ★★★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_special_mimosa-lenn.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"> [Lenn's Mimosa ★★★](https://ceterai.github.io/MyEnternia/Wiki/Lenn'sMimosa) x*1* (weight: 0.08)
 
 ## Sources
 

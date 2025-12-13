@@ -40,7 +40,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"> [Aric Sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> [Aric Stew](https://ceterai.github.io/MyEnternia/Wiki/AricStew)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Aric Toxicap icon" loading="lazy" width="auto" height="16px"> [Aric Toxicap](https://ceterai.github.io/MyEnternia/Wiki/AricToxicap)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cooked Arics icon" loading="lazy" width="auto" height="16px"> [Cooked Arics](https://ceterai.github.io/MyEnternia/Wiki/CookedArics)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-cooked_arics.png" alt="Cooked Arics icon" loading="lazy" width="auto" height="16px"> [Cooked Arics](https://ceterai.github.io/MyEnternia/Wiki/CookedArics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" width="auto" height="16px"> [Shroomic Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_aric_collar.png" alt="Toxic Spores Collar ★★ icon" loading="lazy" width="auto" height="16px"> [Toxic Spores Collar ★★](https://ceterai.github.io/MyEnternia/Wiki/ToxicSporesCollar)
 

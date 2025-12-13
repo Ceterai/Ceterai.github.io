@@ -1,6 +1,6 @@
-# Perfect Onitti Motsu
+# Perfect Onitti Motsu ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Perfect Onitti Motsu icon" loading="lazy" width="auto" height="16px"> **Perfect Onitti Motsu** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_onitti_motsu-perfect.png" alt="Perfect Onitti Motsu ★ icon" loading="lazy" width="auto" height="16px"> **Perfect Onitti Motsu ★** is a rare dish.
 
 An exceptionally nutritious motsu from pristine yava ingredients.  
 A classic recipe with a small set of adjustments that can make it just-right for some altas.
@@ -10,15 +10,6 @@ A classic recipe with a small set of adjustments that can make it just-right for
 Species descriptions:
 
 - Alta: Seems like this motsu has turned out better than ever! What a treat!
-
-## Parameters
-
-- Food Value: 45
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (360s)
 
 ## Usage
 
@@ -34,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Perfect Onitti Motsu icon" loading="lazy" width="auto" height="16px"> Perfect Onitti Motsu x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_onitti_motsu-perfect.png" alt="Perfect Onitti Motsu ★ icon" loading="lazy" width="auto" height="16px"> Perfect Onitti Motsu ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*2*
@@ -53,8 +44,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_onitti_motsu-perfect`
-- Level: `6`
+- Level: `5`
 - Power: `1.0`
-- Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier3/ct_onitti_motsu.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_onitti_motsu.consumable)

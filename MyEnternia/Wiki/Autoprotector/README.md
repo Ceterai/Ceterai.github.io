@@ -8,7 +8,7 @@ Applied by following items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Elite Ceter-Helm icon" loading="lazy" width="auto" height="16px"> [Elite Ceter-Helm](https://ceterai.github.io/MyEnternia/Wiki/EliteCeter-Helm)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/helmet/icon.png" alt="Ghearun M1 Helm icon" loading="lazy" width="auto" height="16px"> [Ghearun M1 Helm](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Helm)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="GR Supply ★ icon" loading="lazy" width="auto" height="16px"> [GR Supply ★](https://ceterai.github.io/MyEnternia/Wiki/GRSupply)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_pack-upgrade.png" alt="GR Supply ★ icon" loading="lazy" width="auto" height="16px"> [GR Supply ★](https://ceterai.github.io/MyEnternia/Wiki/GRSupply)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Imperial Guard Helmet icon" loading="lazy" width="auto" height="16px"> [Imperial Guard Helmet](https://ceterai.github.io/MyEnternia/Wiki/ImperialGuardHelmet)
 
 ## Parameters

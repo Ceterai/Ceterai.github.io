@@ -15,7 +15,7 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 Can be crafted:
 
 - Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_skirt/icon.png" alt="Researcher Skirt icon" loading="lazy" width="auto" height="16px"> Researcher Skirt x*1*):
-  - `cottonwool` x*2*
+  - <img src="https://starbounder.org/mediawiki/images/1/1a/Cotton_Wool.png" alt="Cotton icon" loading="lazy" width="16px" height="15px"> [Cotton](https://starbounder.org/Cotton_Wool) x*2*
   - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk) x*20*
 
 Found naturally in containers:

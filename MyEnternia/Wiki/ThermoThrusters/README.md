@@ -1,6 +1,6 @@
 # Thermo Thrusters ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Thermo Thrusters ★ icon" loading="lazy" width="auto" height="16px"> **Thermo Thrusters ★** is an uncommon fiery enviro protection pack.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_dreamer_enhancer-koywa.png" alt="Thermo Thrusters ★ icon" loading="lazy" width="auto" height="16px"> **Thermo Thrusters ★** is an uncommon fiery enviro protection pack.
 
 These camo-painted backthrusters blend in perfectly with koywa fields! Almost perfectly. Often used by riverside scouts.  
 The design is meant to protect the wearer with heat bursts and bost their movement at the same time.

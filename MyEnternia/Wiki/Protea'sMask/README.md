@@ -1,6 +1,6 @@
 # Protea's Mask ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protea's Mask ★ icon" loading="lazy" width="auto" height="16px"> **Protea's Mask ★** is a legendary head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_mask-upgrade.png" alt="Protea's Mask ★ icon" loading="lazy" width="auto" height="16px"> **Protea's Mask ★** is a legendary head armor piece.
 
 A mask worn by Protea - a staris [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) scout known for her vigilance and agility. Hairs on the back are made of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).  
 This brings the gathered energy levels to a maximum, powering the whole protosystem almost instantly.

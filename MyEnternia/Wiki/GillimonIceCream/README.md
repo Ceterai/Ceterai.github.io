@@ -1,6 +1,6 @@
 # Gillimon Ice Cream ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Gillimon Ice Cream ★ icon" loading="lazy" width="auto" height="16px"> **Gillimon Ice Cream ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-gillimon_ice_cream.png" alt="Gillimon Ice Cream ★ icon" loading="lazy" width="auto" height="16px"> **Gillimon Ice Cream ★** is an uncommon dish.
 
 An ice cream flavor made from a distinct gil-poi mix called _gillimon_. The nia candy sticks in it are a nice addition.  
 The flavor could be described as a barely-sour milk chocolate, with more milk than chocolate.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Gillimon Ice Cream ★ icon" loading="lazy" width="auto" height="16px"> Gillimon Ice Cream ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-gillimon_ice_cream.png" alt="Gillimon Ice Cream ★ icon" loading="lazy" width="auto" height="16px"> Gillimon Ice Cream ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*2*
   - `snowball` x*1*

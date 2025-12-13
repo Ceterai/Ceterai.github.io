@@ -1,6 +1,6 @@
 # Sona Jacketarmor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Sona Jacketarmor ★ icon" loading="lazy" width="auto" height="16px"> **Sona Jacketarmor ★** is a rare chest armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_chest-light.png" alt="Sona Jacketarmor ★ icon" loading="lazy" width="auto" height="16px"> **Sona Jacketarmor ★** is a rare chest armor piece.
 
 A warm, armored uniform jacket usually used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) and [arknightss](https://ceterai.github.io/MyEnternia/Wiki/arknightss).  
 The in-built emergency healing system is meant to protect the wearer in case of unforseen circumstances.

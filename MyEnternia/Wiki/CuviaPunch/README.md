@@ -1,6 +1,6 @@
 # Cuvia Punch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cuvia Punch icon" loading="lazy" width="auto" height="16px"> **Cuvia Punch** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-cuvia_punch.png" alt="Cuvia Punch icon" loading="lazy" width="auto" height="16px"> **Cuvia Punch** is a rare dish.
 
 Some straight punch with a sweet taste to it. It says it was made from... cuvia? What is cuva?  
 Not to be mixed with kuva - some grineer might get angry at you if you make a kuva punch...
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Cuvia Punch icon" loading="lazy" width="auto" height="16px"> Cuvia Punch x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-cuvia_punch.png" alt="Cuvia Punch icon" loading="lazy" width="auto" height="16px"> Cuvia Punch x*1*):
   - `chili` x*1*
   - `pussplum` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*

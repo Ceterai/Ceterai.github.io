@@ -2,7 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_milebites.png" alt="Milebites ★★ icon" loading="lazy" width="auto" height="16px"> **Milebites ★★** is a rare dish.
 
-A large bowl of neat milestone bites - a traditional new year treat.
+A large bowl of neat milestone bites - a traditional new year treat.  
+As the name suggests, these are made to celebrate milestones and new beginnings. They are small, bite-sized pieces of various ingredients, often including sweet and savory flavors, symbolizing the pleasant experiences of the past year and the hope for a prosperous new one.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: This meal is a milestone in and of itself~
 
 ## Usage
 

@@ -1,6 +1,6 @@
-# Spice-Hive Curry
+# Spice-Hive Curry ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" width="auto" height="16px"> **Spice-Hive Curry** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_hive_curry-spice.png" alt="Spice-Hive Curry ★ icon" loading="lazy" width="auto" height="16px"> **Spice-Hive Curry ★** is a rare dish.
 
 Don't try this if you're even slightly scared of larva, spices, taste, or eating in general.  
 This recipe is ablsolutely overloaded on spices, which might scare some altas off, but will atract other ones looking for something exotic.
@@ -10,17 +10,6 @@ This recipe is ablsolutely overloaded on spices, which might scare some altas of
 Species descriptions:
 
 - Alta: Spicy! Overwhelmingly curry, to the point where you might not even realise that it's all izoling-based.
-
-## Parameters
-
-- Food Value: 50
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (215s)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) (215s)
-- <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"> [Burning](https://starbounder.org/Burning) (5s)
 
 ## Usage
 
@@ -36,9 +25,9 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" width="auto" height="16px"> Spice-Hive Curry x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_hive_curry-spice.png" alt="Spice-Hive Curry ★ icon" loading="lazy" width="auto" height="16px"> Spice-Hive Curry ★ x*1*):
   - `chili` x*2*
-  - `larva` x*2*
+  - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*2*
   - `rice` x*1*
   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*
@@ -52,8 +41,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_hive_curry-spice`
-- Level: `6`
+- Level: `5`
 - Power: `1.0`
-- Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`curry`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Curry), [`hive`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hive), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`curry`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Curry), [`hive`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Hive), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier3/ct_hive_curry.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_hive_curry.consumable)

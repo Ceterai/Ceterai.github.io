@@ -1,6 +1,6 @@
 # Aya-Tsay Salad ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> **Aya-Tsay Salad ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_assorti-salad.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> **Aya-Tsay Salad ★** is an uncommon dish.
 
 This dish went beyond a simple assorti and became a full-fledged salad with proper slicing, mixing & dressing.  
 With additional length of preparation this gives a much more fulfilling result, while also turning into a functional dish.
@@ -10,15 +10,6 @@ With additional length of preparation this gives a much more fulfilling result, 
 Species descriptions:
 
 - Alta: This would go perfect with a condiment, like a sweet cream or a frinsh.
-
-## Parameters
-
-- Food Value: 29
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `runboostfood` (135s)
 
 ## Usage
 
@@ -34,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> Aya-Tsay Salad ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_assorti-salad.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> Aya-Tsay Salad ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*1*

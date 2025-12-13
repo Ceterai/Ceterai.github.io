@@ -1,6 +1,6 @@
 # Protea's Jacket ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" width="auto" height="16px"> **Protea's Jacket ★** is a legendary chest armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_lightwear-upgrade.png" alt="Protea's Jacket ★ icon" loading="lazy" width="auto" height="16px"> **Protea's Jacket ★** is a legendary chest armor piece.
 
 This protective jacket is encrusted with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Label on the inner side reads "From Protea ❤".  
 This gift is part of Protea's relics, that she worn or used as a scout.

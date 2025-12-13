@@ -1,6 +1,6 @@
 # Multifruit Punch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Multifruit Punch icon" loading="lazy" width="auto" height="16px"> **Multifruit Punch** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-multi_punch.png" alt="Multifruit Punch icon" loading="lazy" width="auto" height="16px"> **Multifruit Punch** is a rare dish.
 
 Some freshly made fruit multipunch. Wait, no.  
 Just pick your favourite fruits and throw them into a mixer! Oh, apparently you also need to be pretty skilled at it.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Multifruit Punch icon" loading="lazy" width="auto" height="16px"> Multifruit Punch x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-multi_punch.png" alt="Multifruit Punch icon" loading="lazy" width="auto" height="16px"> Multifruit Punch x*1*):
   - `reefpod` x*1*
   - `avesmingo` x*1*
   - `banana` x*1*

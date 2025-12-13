@@ -65,7 +65,7 @@ Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.1s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_biomix_fertilizer.png" alt="Biomix Fertilizer icon" loading="lazy" width="auto" height="16px"> Biomix Fertilizer x*1*):
   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*4*
-  - `larva` x*4*
+  - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*4*
   - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper) x*2*
 
 Can be bought in shops:

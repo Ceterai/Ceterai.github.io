@@ -94,7 +94,7 @@ The quintessential Sonaveil dish! Made from:
 
 The pie keeps its warmth for hours - some say it needs holiday spirit to bake properly! Every city has their own recipe variation~
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace)
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_pie-hug.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace)
 
 The perfect Sonaveil pie is called Sona's Embrace:
 
@@ -185,6 +185,10 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*1*
   - `snowflake` x*4*
+
+Can be bought from merchants:
+
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 
 Can be obtained from special items:
 

@@ -1,6 +1,6 @@
 # Bluesweet Punch ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> **Bluesweet Punch ★★** is a rare drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_punch-bluesweet.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> **Bluesweet Punch ★★** is a rare drink.
 
 An aya punch with extra ayas and extra sweetness. The name checks out.  
 For this recipe, ayas are intentionally kept as sweet as possible. This results in a flavor shower that keeps on giving.
@@ -10,15 +10,6 @@ For this recipe, ayas are intentionally kept as sweet as possible. This results 
 Species descriptions:
 
 - Alta: A punch with an actual flavor punch to it, huh. Wouldn't expect it from something just plain sweet.
-
-## Parameters
-
-- Food Value: 28
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `lowgrav` (330s)
 
 ## Usage
 
@@ -33,7 +24,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> Bluesweet Punch ★★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_punch-bluesweet.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> Bluesweet Punch ★★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*2*

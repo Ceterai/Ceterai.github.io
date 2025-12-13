@@ -1,6 +1,6 @@
 # Celestia's Love ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"> **Celestia's Love ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_pavolda_cake-love.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"> **Celestia's Love ★** is a legendary dish.
 
 The mother of stars looks at you with love through the crystal specs in this masterpiece of a cake.  
 The recipe itself makes the cakes crunchier than the original recipe, with an additional shift in taste.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"> Celestia's Love ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_pavolda_cake-love.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"> Celestia's Love ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Crystal Ice Cream icon" loading="lazy" width="auto" height="16px"> [Crystal Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/CrystalIceCream) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*2*

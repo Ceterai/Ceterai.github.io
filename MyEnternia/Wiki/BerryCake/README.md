@@ -1,6 +1,6 @@
 # Berry Cake ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Berry Cake ★★ icon" loading="lazy" width="auto" height="16px"> **Berry Cake ★★** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alliana_cake-berry.png" alt="Berry Cake ★★ icon" loading="lazy" width="auto" height="16px"> **Berry Cake ★★** is a rare dish.
 
 A very puffy, soft berry cake with meringue topping made from different alta berries. Melts in your mouth and dissapears pretty quickly.  
 This recipe is incredibly hard to replicate, with only few being able to create it perfectly. After all, feelings are a presonal thing, that you can't just take and copy.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Berry Cake ★★ icon" loading="lazy" width="auto" height="16px"> Berry Cake ★★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alliana_cake-berry.png" alt="Berry Cake ★★ icon" loading="lazy" width="auto" height="16px"> Berry Cake ★★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) x*2*
   - `grapes` x*2*
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*2*

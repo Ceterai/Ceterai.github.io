@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 35
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/b/b3/Status_Regeneration.png" alt="Regeneration II icon" loading="lazy" width="16px" height="16px"> [Regeneration II](https://starbounder.org/Regeneration_(Buff)) (270s)
-- `weakpoison` (5s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Extra Toppings Slice icon" loading="lazy" width="auto" height="16px"> [Yaarizza Extra Toppings Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaExtraToppingsSlice) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarizza-extra.png" alt="Yaarizza Extra Toppings Slice ★ icon" loading="lazy" width="auto" height="16px"> [Yaarizza Extra Toppings Slice ★](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaExtraToppingsSlice) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -41,8 +33,8 @@ Unlocks blueprints for:
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Ceternia Tea ★ icon" loading="lazy" width="auto" height="16px"> [Ceternia Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaara_tea-ceternia.png" alt="Ceternia Tea ★ icon" loading="lazy" width="auto" height="16px"> [Ceternia Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaara_tea-viona.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" width="auto" height="16px"> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 

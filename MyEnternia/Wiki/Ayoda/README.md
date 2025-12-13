@@ -9,7 +9,7 @@ In fact, in order to not blend the natural <img src="https://raw.githubuserconte
 
 Species descriptions:
 
-- Alta: Wouldn't call it better than an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"> [aya essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence) or a proper <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" width="auto" height="16px"> [aya punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch), but it's definitely up there.
+- Alta: Wouldn't call it better than an <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-essence.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"> [aya essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence) or a proper <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" width="auto" height="16px"> [aya punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch), but it's definitely up there.
 
 ## Usage
 

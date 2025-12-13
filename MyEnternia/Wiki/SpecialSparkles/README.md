@@ -2,7 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_sparkles.png" alt="Special Sparkles ★★★ icon" loading="lazy" width="auto" height="16px"> **Special Sparkles ★★★** is a legendary drink.
 
-All this fizziness might end up everywhere if you're not careful enough.
+All this fizziness might end up everywhere if you're not careful enough.  
+A festive new year's drink, made with sparkling water, a hint of ciranga, and a touch of sweetness. The drink is garnished with edible glitter to give it that extra sparkle, making it perfect for celebrating the new year in style.
+
+## Ingame
+
+Species descriptions:
+
+- Alta: A drink that sparkles as much as the fireworks in the sky~
 
 ## Sources
 

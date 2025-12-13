@@ -13,16 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 25
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `runboostfood` (135s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_assorti-salad.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -44,18 +37,18 @@ Can be used to craft:
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 12 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-alien.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Aya Mash icon" loading="lazy" width="auto" height="16px"> [Aya Mash](https://ceterai.github.io/MyEnternia/Wiki/AyaMash)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Alta Pear icon" loading="lazy" width="auto" height="16px"> [Baked Alta Pear](https://ceterai.github.io/MyEnternia/Wiki/BakedAltaPear)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-mash.png" alt="Aya Mash icon" loading="lazy" width="auto" height="16px"> [Aya Mash](https://ceterai.github.io/MyEnternia/Wiki/AyaMash)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-alta_pear.png" alt="Baked Alta Pear icon" loading="lazy" width="auto" height="16px"> [Baked Alta Pear](https://ceterai.github.io/MyEnternia/Wiki/BakedAltaPear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Xenopod icon" loading="lazy" width="auto" height="16px"> [Baked Xenopod](https://ceterai.github.io/MyEnternia/Wiki/BakedXenopod)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-xenopod.png" alt="Baked Xenopod icon" loading="lazy" width="auto" height="16px"> [Baked Xenopod](https://ceterai.github.io/MyEnternia/Wiki/BakedXenopod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"> [Haven Pouches](https://ceterai.github.io/MyEnternia/Wiki/HavenPouches)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Perfectly Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Perfectly Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/PerfectlyCookedTsay)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-haven.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"> [Haven Pouches](https://ceterai.github.io/MyEnternia/Wiki/HavenPouches)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-perfect.png" alt="Perfectly Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Perfectly Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/PerfectlyCookedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Violas icon" loading="lazy" width="auto" height="16px"> [Violas](https://ceterai.github.io/MyEnternia/Wiki/Violas)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Yaara Mash icon" loading="lazy" width="auto" height="16px"> [Yaara Mash](https://ceterai.github.io/MyEnternia/Wiki/YaaraMash)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-koywa.png" alt="Violas icon" loading="lazy" width="auto" height="16px"> [Violas](https://ceterai.github.io/MyEnternia/Wiki/Violas)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-yaara.png" alt="Yaara Mash icon" loading="lazy" width="auto" height="16px"> [Yaara Mash](https://ceterai.github.io/MyEnternia/Wiki/YaaraMash)
 
 </details>
 

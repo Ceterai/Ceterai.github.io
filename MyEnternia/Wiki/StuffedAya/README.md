@@ -1,6 +1,6 @@
 # Stuffed Aya
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Stuffed Aya icon" loading="lazy" width="auto" height="16px"> **Stuffed Aya** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-stuffed_aya.png" alt="Stuffed Aya icon" loading="lazy" width="auto" height="16px"> **Stuffed Aya** is an uncommon dish.
 
 A properly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [baked aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) stuffed with different runeva goodness. What will you get this time?  
 Its variations usually include either <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) filling or a [nia jam](https://ceterai.github.io/MyEnternia/Wiki/niajam) of your choice.
@@ -23,7 +23,7 @@ Applies effects:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Stuffed Aya icon" loading="lazy" width="auto" height="16px"> Stuffed Aya x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-stuffed_aya.png" alt="Stuffed Aya icon" loading="lazy" width="auto" height="16px"> Stuffed Aya x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) x*1*
   - `sugar` x*1*
 

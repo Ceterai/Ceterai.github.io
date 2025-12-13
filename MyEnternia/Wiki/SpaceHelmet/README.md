@@ -1,6 +1,6 @@
 # Space Helmet
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/helmet/icon.png" alt="Space Helmet icon" loading="lazy" width="auto" height="16px"> **Space Helmet** is a legendary head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ceterai_helmet-astera.png" alt="Space Helmet icon" loading="lazy" width="auto" height="16px"> **Space Helmet** is a legendary head armor piece.
 
 A piece of equipment worn by alta researchers and workers in [Astera Ordis](https://ceterai.github.io/MyEnternia/Wiki/AsteraOrdis). Can sometimes be found on a spacedrifter as well.  
 Its special built-in visor protects your eyes from direct light from nearby stars and disperces it, allowing you to see better in the dark spots.

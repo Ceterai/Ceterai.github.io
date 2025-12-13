@@ -1,6 +1,6 @@
 # Thermoscreen ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Thermoscreen ★ icon" loading="lazy" width="auto" height="16px"> **Thermoscreen ★** is an uncommon head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_mask_mk2-koywa.png" alt="Thermoscreen ★ icon" loading="lazy" width="auto" height="16px"> **Thermoscreen ★** is an uncommon head armor piece.
 
 An advanced armored mask with a thermoscanner. What does it do? Nobody knows.  
 These masks are often worn by riverside scouts and are used to detect any small fire spreads in sight.

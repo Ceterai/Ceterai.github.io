@@ -35,6 +35,11 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/c/c1/Red_Dye.png" alt="Red Dye icon" loading="lazy" width="8px" height="12px"> [Red Dye](https://starbounder.org/Red_Dye) x*1*
   - <img src="https://starbounder.org/mediawiki/images/b/be/Green_Dye.png" alt="Green Dye icon" loading="lazy" width="8px" height="12px"> [Green Dye](https://starbounder.org/Green_Dye) x*1*
 
+Can be bought from merchants:
+
+- [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
+
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)

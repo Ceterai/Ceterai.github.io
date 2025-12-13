@@ -1,6 +1,6 @@
 # GR "Animus" ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR Animus ★ icon" loading="lazy" width="auto" height="16px"> **GR "Animus" ★** is a legendary head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_helmet-upgrade.png" alt="GR Animus ★ icon" loading="lazy" width="auto" height="16px"> **GR "Animus" ★** is a legendary head armor piece.
 
 A high-tech enternia artifact that hides unknown power. And your face with it.  
 Has built-in <img src="https://starbounder.org/mediawiki/images/7/74/Water_Balloon.png" alt="Breath Protection icon" loading="lazy" width="15px" height="15px"> [breath protection](https://starbounder.org/Breathing_EPP).  

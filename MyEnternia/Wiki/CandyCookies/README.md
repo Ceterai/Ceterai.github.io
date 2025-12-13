@@ -1,6 +1,6 @@
 # Candy Cookies ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" width="auto" height="16px"> **Candy Cookies ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_cookies-candy.png" alt="Candy Cookies ★ icon" loading="lazy" width="auto" height="16px"> **Candy Cookies ★** is an uncommon dish.
 
 A perfect amount of crystals creates a perfect candy-like substance! So are these cookies or candy?  
 Technically speaking, these are candies, since the koywa dough is no longer used in the recipe, but the texture tends to say otherwise, prompting the confusion.
@@ -10,15 +10,6 @@ Technically speaking, these are candies, since the koywa dough is no longer used
 Species descriptions:
 
 - Alta: I personally believe that these are nuts. They have a shell in form of candy and a seed in for of jam. No, I don't take critisisms of my theory.
-
-## Parameters
-
-- Food Value: 34
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `nova` (90s)
 
 ## Usage
 
@@ -34,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" width="auto" height="16px"> Candy Cookies ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_cookies-candy.png" alt="Candy Cookies ★ icon" loading="lazy" width="auto" height="16px"> Candy Cookies ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam) x*1*
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*1*
   - <img src="https://starbounder.org/mediawiki/images/2/26/Egg.png" alt="Egg icon" loading="lazy" width="16px" height="16px"> [Egg](https://starbounder.org/Egg) x*1*

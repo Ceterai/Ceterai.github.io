@@ -1,6 +1,6 @@
 # Perfect Staris Soup ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Perfect Staris Soup ★ icon" loading="lazy" width="auto" height="16px"> **Perfect Staris Soup ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_staris_soup-perfect.png" alt="Perfect Staris Soup ★ icon" loading="lazy" width="auto" height="16px"> **Perfect Staris Soup ★** is a legendary dish.
 
 A dish of the fallen! What are these feelings inside of you? Have you ever felt them before?  
 A perfectly followed recipe that led to a perfectly cooked meal. Nothing else to add here, really.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Perfect Staris Soup ★ icon" loading="lazy" width="auto" height="16px"> Perfect Staris Soup ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_staris_soup-perfect.png" alt="Perfect Staris Soup ★ icon" loading="lazy" width="auto" height="16px"> Perfect Staris Soup ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" width="auto" height="16px"> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard) x*1*

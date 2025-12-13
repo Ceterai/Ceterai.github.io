@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Perfect Staris Soup ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Staris Soup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectStarisSoup) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_staris_soup-perfect.png" alt="Perfect Staris Soup ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Staris Soup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectStarisSoup) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
@@ -23,9 +23,9 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" width="auto" height="16px"> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Stuffed Crust Slice icon" loading="lazy" width="auto" height="16px"> [Caliopa Stuffed Crust Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaStuffedCrustSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Larva Motsu icon" loading="lazy" width="auto" height="16px"> [Larva Motsu](https://ceterai.github.io/MyEnternia/Wiki/LarvaMotsu)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Perfect Rimar Motsu icon" loading="lazy" width="auto" height="16px"> [Perfect Rimar Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectRimarMotsu)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_caliopa-stuffed.png" alt="Caliopa Stuffed Crust Slice ★ icon" loading="lazy" width="auto" height="16px"> [Caliopa Stuffed Crust Slice ★](https://ceterai.github.io/MyEnternia/Wiki/CaliopaStuffedCrustSlice)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_rimar_motsu-hive.png" alt="Larva Motsu icon" loading="lazy" width="auto" height="16px"> [Larva Motsu](https://ceterai.github.io/MyEnternia/Wiki/LarvaMotsu)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_rimar_motsu-perfect.png" alt="Perfect Rimar Motsu ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Rimar Motsu ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectRimarMotsu)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
 
 </details>

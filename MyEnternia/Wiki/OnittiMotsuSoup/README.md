@@ -13,16 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 35
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (360s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_onitti_motsu.png" alt="Perfect Onitti Motsu icon" loading="lazy" width="auto" height="16px"> [Perfect Onitti Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectOnittiMotsu) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_onitti_motsu-perfect.png" alt="Perfect Onitti Motsu ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Onitti Motsu ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectOnittiMotsu) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -39,9 +32,9 @@ Unlocks blueprints for:
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Dreamer's Tea icon" loading="lazy" width="auto" height="16px"> [Dreamer's Tea](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-dreamer.png" alt="Dreamer's Tea icon" loading="lazy" width="auto" height="16px"> [Dreamer's Tea](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" width="auto" height="16px"> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-koywa.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 
 Can be crafted:

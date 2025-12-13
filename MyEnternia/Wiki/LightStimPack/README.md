@@ -1,6 +1,6 @@
 # Light Stim Pack
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Light Stim Pack icon" loading="lazy" width="auto" height="16px"> **Light Stim Pack** is an uncommon medical item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_hevikai_stim-light.png" alt="Light Stim Pack icon" loading="lazy" width="auto" height="16px"> **Light Stim Pack** is an uncommon medical item.
 
 Adds a little bioluminescence in safe level to your body for 2 mins. Taking more than one won't make you shine brighter, but will cause an overdose.  
 The mixture in this enhancer is safe for most organic and semi-organic creatures and provides a dim glow after reacting with the body.

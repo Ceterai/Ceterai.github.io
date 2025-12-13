@@ -1,6 +1,6 @@
 # Protea's Vectors ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/velocity_eaters/icon.png" alt="Protea's Vectors ★ icon" loading="lazy" width="auto" height="16px"> **Protea's Vectors ★** is a legendary leg armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_velocity_eaters-upgrade.png" alt="Protea's Vectors ★ icon" loading="lazy" width="auto" height="16px"> **Protea's Vectors ★** is a legendary leg armor piece.
 
 These protective leggings with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals once belonged to Protea. They're yours now. Enjoy!  
 They're part of the Protea's gift to inexperienced alta scouts as means of care and support!

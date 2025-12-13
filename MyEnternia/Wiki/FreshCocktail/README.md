@@ -1,6 +1,6 @@
 # Fresh Cocktail
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Fresh Cocktail icon" loading="lazy" width="auto" height="16px"> **Fresh Cocktail** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-fresh_cocktail.png" alt="Fresh Cocktail icon" loading="lazy" width="auto" height="16px"> **Fresh Cocktail** is a legendary dish.
 
 Strainght and simple - this is a "fresh" cocktail, as in a cocktail made from a fresh! Very neat, so much foam too.  
 While there are no strict rules on what fresh to use, some might perform better than others.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Fresh Cocktail icon" loading="lazy" width="auto" height="16px"> Fresh Cocktail x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-fresh_cocktail.png" alt="Fresh Cocktail icon" loading="lazy" width="auto" height="16px"> Fresh Cocktail x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" width="auto" height="16px"> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" width="auto" height="16px"> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh) x*1*

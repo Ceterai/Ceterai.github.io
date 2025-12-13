@@ -1,6 +1,6 @@
 # Cave Keeper ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Cave Keeper ★ icon" loading="lazy" width="auto" height="16px"> **Cave Keeper ★** is a legendary shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-upgrade.png" alt="Cave Keeper ★ icon" loading="lazy" width="auto" height="16px"> **Cave Keeper ★** is a legendary shield.
 
 This shield shines deemly in the dark. You can barely make out a wisper - "Stars care for you, little one..."  
 Each time you put your grip on the shield, just for a second, you feel someone's presence right behind you. Not in a scary way - you feel pleasant, safe warmth around your shoulders and neck.

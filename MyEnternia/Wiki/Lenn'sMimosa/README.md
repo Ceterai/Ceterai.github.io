@@ -1,6 +1,6 @@
 # Lenn's Mimosa ★★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"> **Lenn's Mimosa ★★★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_special_mimosa-lenn.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"> **Lenn's Mimosa ★★★** is a legendary dish.
 
 A very special mimosa that tastes exactly like that one time! That one time...  
 This very special recipe variation was created for a very special person.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"> Lenn's Mimosa ★★★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_special_mimosa-lenn.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"> Lenn's Mimosa ★★★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay) x*1*
   - `potato` x*1*
   - `carrot` x*1*

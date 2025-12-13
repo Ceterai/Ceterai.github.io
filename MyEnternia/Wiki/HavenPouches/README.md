@@ -1,6 +1,6 @@
 # Haven Pouches
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"> **Haven Pouches** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-haven.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"> **Haven Pouches** is a common dish.
 
 Roasted and de-toxicated flower bits of different [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) flowers. Sometimes can be used as a substitute for cooked tsays.  
 In actuality the process of de-toxication happens while and because of proper roasting, which leads to a proper crisp and pleasant taste.
@@ -14,11 +14,6 @@ Species descriptions:
 Radiomessages on pickup:
 
 - The item you just got seems to have come for alterash haven - flowery areas on alterash planets that tend to have higher levels of toxicity than surrounding nature. Although it equals to toxicity levels on most green planets, it's not a usual sight here, so I would recommend being careful.
-
-## Parameters
-
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Usage
 
@@ -34,7 +29,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"> Haven Pouches x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-haven.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"> Haven Pouches x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay) x*1*
   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*2*
 

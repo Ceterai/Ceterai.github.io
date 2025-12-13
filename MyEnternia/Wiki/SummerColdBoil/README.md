@@ -1,6 +1,6 @@
 # Summer Cold Boil
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Summer Cold Boil icon" loading="lazy" width="auto" height="16px"> **Summer Cold Boil** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gil_tsay_stew-boil.png" alt="Summer Cold Boil icon" loading="lazy" width="auto" height="16px"> **Summer Cold Boil** is an uncommon dish.
 
 This spice-rich stew is exceptionally fulfilling!  
 What you could literally call a spicy turn on the original recipe, it shifts the main focus of the dish, creating its own distinct taste.
@@ -10,16 +10,6 @@ What you could literally call a spicy turn on the original recipe, it shifts the
 Species descriptions:
 
 - Alta: M-m-m, the spice is, just, oa-oa!
-
-## Parameters
-
-- Food Value: 30
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="icon" loading="lazy" width="16px" height="16px"> [Velocity Boost](https://ceterai.github.io/MyEnternia/Wiki/VelocityBoost) (180s)
-- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="icon" loading="lazy" width="16px" height="16px"> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters) (180s)
 
 ## Usage
 
@@ -36,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Summer Cold Boil icon" loading="lazy" width="auto" height="16px"> Summer Cold Boil x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gil_tsay_stew-boil.png" alt="Summer Cold Boil icon" loading="lazy" width="auto" height="16px"> Summer Cold Boil x*1*):
   - `banana` x*1*
   - `corn` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*4*
@@ -57,5 +47,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`stew`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stew), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`stew`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stew), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/tier3/ct_gil_tsay_stew.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_gil_tsay_stew.consumable)

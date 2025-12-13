@@ -1,6 +1,6 @@
 # Birthday Cake
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Birthday Cake icon" loading="lazy" width="auto" height="16px"> **Birthday Cake** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-birthday_cake.png" alt="Birthday Cake icon" loading="lazy" width="auto" height="16px"> **Birthday Cake** is a legendary dish.
 
 It's your birthday!!! Or... is it? Doesn't hurt to try this cake anyway.  
 Its proper pillar cake structure and dense <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [aya jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) filling will satisfy pretty much anyone. The [koywa bread](https://ceterai.github.io/MyEnternia/Wiki/koywabread) base will also ensure its fulfillingness.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Birthday Cake icon" loading="lazy" width="auto" height="16px"> Birthday Cake x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-birthday_cake.png" alt="Birthday Cake icon" loading="lazy" width="auto" height="16px"> Birthday Cake x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) x*2*
   - `sugar` x*2*

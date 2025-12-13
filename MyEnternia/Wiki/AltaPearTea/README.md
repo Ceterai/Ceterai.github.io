@@ -1,6 +1,6 @@
 # Alta Pear Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear Tea icon" loading="lazy" width="auto" height="16px"> **Alta Pear Tea** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear_tea.png" alt="Alta Pear Tea icon" loading="lazy" width="auto" height="16px"> **Alta Pear Tea** is an uncommon dish.
 
 A good old alta pear tea. Not too sweet, not too sour, just about right everywhere. But, using it in cooking will make it similar to carrot juice.  
 The sudden change in taste comes from the meat part of the fruit, making the thickness spread and add more flavor to the mix.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear Tea icon" loading="lazy" width="auto" height="16px"> Alta Pear Tea x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear_tea.png" alt="Alta Pear Tea icon" loading="lazy" width="auto" height="16px"> Alta Pear Tea x*1*):
   - `alienfruit` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*4*
 

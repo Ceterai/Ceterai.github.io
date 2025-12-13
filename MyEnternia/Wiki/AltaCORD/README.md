@@ -2,7 +2,7 @@
 
 > Source: [Alta Worldbuilding Config](https://github.com/Ceterai/Enternia/tree/main/.meta/world.json)
 
-**Alta Comprehensive Ontological Reality Database** (CORD) is the foundational worldbuilding database that defines the very fabric of alta civilization's reality. Stored in **/.meta/world.json**, it serves as the ultimate reference for alta culture, language, and existence itself.
+**Alta Comprehensive Ontological Reality Database** (CORD) is the foundational worldbuilding database that defines the very fabric of alta civilization's reality. Stored in [`/.meta/world.json`](https://github.com/Ceterai/Enternia/tree/main/.meta/world.json), it serves as the ultimate reference for alta culture, language, and existence itself.
 
 **Database Contents:**
 

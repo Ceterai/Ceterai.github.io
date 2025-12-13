@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Perfect Altasoup ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Altasoup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectAltasoup) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_soup-perfect.png" alt="Perfect Altasoup ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Altasoup ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectAltasoup) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -29,16 +29,16 @@ Can be used to craft:
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 10 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gharus Stew icon" loading="lazy" width="auto" height="16px"> [Gharus Stew](https://ceterai.github.io/MyEnternia/Wiki/GharusStew)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_dinner-caretaker.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gil_tsay_stew-gharus.png" alt="Gharus Stew ★ icon" loading="lazy" width="auto" height="16px"> [Gharus Stew ★](https://ceterai.github.io/MyEnternia/Wiki/GharusStew)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gil-Tsay Stew icon" loading="lazy" width="auto" height="16px"> [Gil-Tsay Stew](https://ceterai.github.io/MyEnternia/Wiki/Gil-TsayStew)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Larva Motsu icon" loading="lazy" width="auto" height="16px"> [Larva Motsu](https://ceterai.github.io/MyEnternia/Wiki/LarvaMotsu)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_rimar_motsu-hive.png" alt="Larva Motsu icon" loading="lazy" width="auto" height="16px"> [Larva Motsu](https://ceterai.github.io/MyEnternia/Wiki/LarvaMotsu)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_milebites.png" alt="Milebites ★★ icon" loading="lazy" width="auto" height="16px"> [Milebites ★★](https://ceterai.github.io/MyEnternia/Wiki/Milebites)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Perfect Rimar Motsu icon" loading="lazy" width="auto" height="16px"> [Perfect Rimar Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectRimarMotsu)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_rimar_motsu-perfect.png" alt="Perfect Rimar Motsu ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Rimar Motsu ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectRimarMotsu)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" width="auto" height="16px"> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Summer Cold Boil icon" loading="lazy" width="auto" height="16px"> [Summer Cold Boil](https://ceterai.github.io/MyEnternia/Wiki/SummerColdBoil)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gil_tsay_stew-boil.png" alt="Summer Cold Boil icon" loading="lazy" width="auto" height="16px"> [Summer Cold Boil](https://ceterai.github.io/MyEnternia/Wiki/SummerColdBoil)
 
 </details>
 

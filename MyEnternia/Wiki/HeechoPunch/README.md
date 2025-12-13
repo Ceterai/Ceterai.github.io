@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 25
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals) (240s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (20%)](https://starbounder.org/Status_Effects#Stat_Boosts) (240s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Extra Heecho Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Extra Heecho Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/ExtraHeechoPunch) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-extra.png" alt="Extra Heecho Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Extra Heecho Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/ExtraHeechoPunch) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -41,14 +33,14 @@ Unlocks blueprints for:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Ayamix Ice Cream icon" loading="lazy" width="auto" height="16px"> [Ayamix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyamixIceCream)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Biomix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/BiomixDessert)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_biomix_icecream-ayaka.png" alt="Ayamix Ice Cream icon" loading="lazy" width="auto" height="16px"> [Ayamix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyamixIceCream)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_biomix_icecream-dessert.png" alt="Biomix Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Biomix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/BiomixDessert)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" width="auto" height="16px"> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Calming Tea ★ icon" loading="lazy" width="auto" height="16px"> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Crimson Plant Tea ★ icon" loading="lazy" width="auto" height="16px"> [Crimson Plant Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CrimsonPlantTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Keromix Ice Cream icon" loading="lazy" width="auto" height="16px"> [Keromix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/KeromixIceCream)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_maito_tea-calm.png" alt="Calming Tea ★ icon" loading="lazy" width="auto" height="16px"> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_maito_tea-crimson.png" alt="Crimson Plant Tea ★ icon" loading="lazy" width="auto" height="16px"> [Crimson Plant Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CrimsonPlantTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_biomix_icecream-red.png" alt="Keromix Ice Cream icon" loading="lazy" width="auto" height="16px"> [Keromix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/KeromixIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" width="auto" height="16px"> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Virmix Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Virmix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/VirmixDessert)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_biomix_icecream-virma.png" alt="Virmix Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Virmix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/VirmixDessert)
 
 </details>
 

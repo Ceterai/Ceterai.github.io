@@ -1,6 +1,6 @@
 # Energy Blockade ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png" alt="Energy Blockade ★ icon" loading="lazy" width="auto" height="16px"> **Energy Blockade ★** is a legendary electric shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_kinetic_shield-upgrade.png" alt="Energy Blockade ★ icon" loading="lazy" width="auto" height="16px"> **Energy Blockade ★** is a legendary electric shield.
 
 A shield made of pure energy has been enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). How much energy is too much energy?  
 Its projecting device is now a sunject to overcharges, but thankfully, due to the proper use of [overlocks](https://ceterai.github.io/MyEnternia/Wiki/overlocks), this energy gets dispersed and adds onto the shield's power level.

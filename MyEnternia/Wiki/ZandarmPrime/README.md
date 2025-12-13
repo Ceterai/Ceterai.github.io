@@ -1,6 +1,6 @@
 # Zandarm Prime ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> **Zandarm Prime ★** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_zandarm_tart-prime.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> **Zandarm Prime ★** is an uncommon dish.
 
 This tart turned out amazing. The tingy filling slowly oozes from the side, waiting to be eaten.  
 The right amount of exposure, the temperature and the distribution of ingredients played a huge role in the result.
@@ -10,16 +10,6 @@ The right amount of exposure, the temperature and the distribution of ingredient
 Species descriptions:
 
 - Alta: Not too soft, not too crunchy, letting you fully focus on the taste. Very nice!
-
-## Parameters
-
-- Food Value: 29
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `energyregen` (120s)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock) (5s)
 
 ## Usage
 
@@ -33,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> Zandarm Prime ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_zandarm_tart-prime.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> Zandarm Prime ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam) x*1*
   - `beakseed` x*1*

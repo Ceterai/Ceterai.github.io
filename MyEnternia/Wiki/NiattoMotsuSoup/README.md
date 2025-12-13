@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 35
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (270s)
-- `energyregen` (30s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Perfect Niatto Motsu icon" loading="lazy" width="auto" height="16px"> [Perfect Niatto Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectNiattoMotsu) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_niatto_motsu-perfect.png" alt="Perfect Niatto Motsu ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Niatto Motsu ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectNiattoMotsu) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -40,11 +32,11 @@ Unlocks blueprints for:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Calming Tea ★ icon" loading="lazy" width="auto" height="16px"> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Crimson Plant Tea ★ icon" loading="lazy" width="auto" height="16px"> [Crimson Plant Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CrimsonPlantTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_maito_tea-calm.png" alt="Calming Tea ★ icon" loading="lazy" width="auto" height="16px"> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_maito_tea-crimson.png" alt="Crimson Plant Tea ★ icon" loading="lazy" width="auto" height="16px"> [Crimson Plant Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CrimsonPlantTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" width="auto" height="16px"> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> [Zandarm Prime ★](https://ceterai.github.io/MyEnternia/Wiki/ZandarmPrime)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_zandarm_tart-prime.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> [Zandarm Prime ★](https://ceterai.github.io/MyEnternia/Wiki/ZandarmPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" width="auto" height="16px"> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
 
 </details>

@@ -13,18 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/sleepy.png:1" alt="Bored icon" loading="lazy" width="auto" height="16px"> [Bored](https://ceterai.github.io/MyEnternia/Wiki/Bored) (120s)
-- <img src="https://starbounder.org/mediawiki/images/b/b3/Status_Regeneration.png" alt="Regeneration I icon" loading="lazy" width="16px" height="16px"> [Regeneration I](https://starbounder.org/Regeneration_(Buff)) (180s)
-- `lowgrav` (180s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Calming Tea ★ icon" loading="lazy" width="auto" height="16px"> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_maito_tea-calm.png" alt="Calming Tea ★ icon" loading="lazy" width="auto" height="16px"> [Calming Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CalmingTea) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -46,15 +37,15 @@ Can be used to craft:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 10 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Essence icon" loading="lazy" width="auto" height="16px"> [Bio Essence](https://ceterai.github.io/MyEnternia/Wiki/BioEssence)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_bio_fresh-essence.png" alt="Bio Essence icon" loading="lazy" width="auto" height="16px"> [Bio Essence](https://ceterai.github.io/MyEnternia/Wiki/BioEssence)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" width="auto" height="16px"> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Essence icon" loading="lazy" width="auto" height="16px"> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ionic_fresh-essence.png" alt="Ionic Essence icon" loading="lazy" width="auto" height="16px"> [Ionic Essence](https://ceterai.github.io/MyEnternia/Wiki/IonicEssence)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Miko Fresh icon" loading="lazy" width="auto" height="16px"> [Miko Fresh](https://ceterai.github.io/MyEnternia/Wiki/MikoFresh)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Party Fresh icon" loading="lazy" width="auto" height="16px"> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_bio_fresh-miko.png" alt="Miko Fresh icon" loading="lazy" width="auto" height="16px"> [Miko Fresh](https://ceterai.github.io/MyEnternia/Wiki/MikoFresh)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ionic_fresh-party.png" alt="Party Fresh icon" loading="lazy" width="auto" height="16px"> [Party Fresh](https://ceterai.github.io/MyEnternia/Wiki/PartyFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada Split icon" loading="lazy" width="auto" height="16px"> [Tonnakada Split](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaSplit)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Virmakada icon" loading="lazy" width="auto" height="16px"> [Virmakada](https://ceterai.github.io/MyEnternia/Wiki/Virmakada)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonnakada-split.png" alt="Tonnakada Split icon" loading="lazy" width="auto" height="16px"> [Tonnakada Split](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaSplit)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonnakada-virma.png" alt="Virmakada icon" loading="lazy" width="auto" height="16px"> [Virmakada](https://ceterai.github.io/MyEnternia/Wiki/Virmakada)
 
 </details>
 

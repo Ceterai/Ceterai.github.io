@@ -1,6 +1,6 @@
 # Storage Tag
 
-The tag `storage` contains 53 total entries.
+The tag `storage` contains 54 total entries.
 
 ## Objects
 
@@ -52,7 +52,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Storage](htt
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 16 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 17 items)</summary>
 
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
@@ -61,6 +61,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Storage](htt
 - [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
 - [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 - [Ceterai Archiver](https://ceterai.github.io/MyEnternia/Wiki/CeteraiArchiver)
 - [EDS Archiver](https://ceterai.github.io/MyEnternia/Wiki/EDSArchiver)
 - [Ghearun Archiver](https://ceterai.github.io/MyEnternia/Wiki/GhearunArchiver)

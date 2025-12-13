@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> [Thick Sona Milk ★](https://ceterai.github.io/MyEnternia/Wiki/ThickSonaMilk) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sona_milk_hot-thick.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> [Thick Sona Milk ★](https://ceterai.github.io/MyEnternia/Wiki/ThickSonaMilk) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -30,7 +30,7 @@ Unlocks blueprints for:
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Hot Sona Milk icon" loading="lazy" width="auto" height="16px"> [Hot Sona Milk](https://ceterai.github.io/MyEnternia/Wiki/HotSonaMilk)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> [Thick Sona Milk ★](https://ceterai.github.io/MyEnternia/Wiki/ThickSonaMilk)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sona_milk_hot-thick.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> [Thick Sona Milk ★](https://ceterai.github.io/MyEnternia/Wiki/ThickSonaMilk)
 
 Can be crafted:
 

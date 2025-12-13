@@ -1,6 +1,6 @@
 # Exotic Tea ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> **Exotic Tea ★** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_vermont_tea-exotic.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> **Exotic Tea ★** is an uncommon drink.
 
 This definitely tastes weird. Good weird, I think you're onto something.  
 The original vermont tea mix with significant modifications. It's secret lies in switching up spices with aya powder, and using less soury ingredients.
@@ -10,15 +10,6 @@ The original vermont tea mix with significant modifications. It's secret lies in
 Species descriptions:
 
 - Alta: It's really hard to describe the flavor other than a sweet and milky vermont tea. I feel like I've unlocked a new color palette.
-
-## Parameters
-
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/8/88/Ice_Resist_Augment.png" alt="Ice Block icon" loading="lazy" width="11px" height="16px"> [Ice Block (Augment)](https://starbounder.org/Ice_Resist_Augment) (300s)
 
 ## Usage
 
@@ -35,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> Exotic Tea ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_vermont_tea-exotic.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> Exotic Tea ★ x*1*):
   - `alienfruit` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
 

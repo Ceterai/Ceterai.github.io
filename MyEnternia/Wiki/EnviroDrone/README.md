@@ -1,6 +1,6 @@
 # Enviro Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Enviro Drone icon" loading="lazy" width="auto" height="16px"> **Enviro Drone** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_drone-arco.png" alt="Enviro Drone icon" loading="lazy" width="auto" height="16px"> **Enviro Drone** is a rare throwable item.
 
 An observer drone, used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) scouts to scan the area.  
 While it doesn't possess any actual combative power, it's still very useful and will do anything to defend its ally.
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 1s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" alt="Enviro Drone icon" loading="lazy" width="auto" height="16px"> Enviro Drone x*1*):
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 1s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_drone-arco.png" alt="Enviro Drone icon" loading="lazy" width="auto" height="16px"> Enviro Drone x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*3*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arco.png" alt="A.R.C.O. Research icon" loading="lazy" width="auto" height="16px"> [A.R.C.O. Research](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) x*1*

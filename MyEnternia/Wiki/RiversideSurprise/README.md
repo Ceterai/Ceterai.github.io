@@ -1,6 +1,6 @@
 # Riverside Surprise ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> **Riverside Surprise ★** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-koywa.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> **Riverside Surprise ★** is an uncommon drink.
 
 A regular herb tea with a special touch. You feel recognizably better after drinking it.  
 Aside from additional ingredients, the secret of the recipe tends to include a bit of fresh-boiled koywa grass in small amounts, which adds a slight touch of sweet bitterness to the drink.
@@ -13,12 +13,12 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+- Food Value: 10
 
 Applies effects:
 
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (300s)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/confused.png:1" alt="Curious icon" loading="lazy" width="auto" height="16px"> [Curious](https://ceterai.github.io/MyEnternia/Wiki/Curious) (240s)
+- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (240s)
 
 ## Usage
 
@@ -34,7 +34,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> Riverside Surprise ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-koywa.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> Riverside Surprise ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam) x*1*
 

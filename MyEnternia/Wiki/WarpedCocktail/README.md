@@ -15,24 +15,24 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_warped_cocktail.png" alt="Glowarp ★ icon" loading="lazy" width="auto" height="16px"> [Glowarp ★](https://ceterai.github.io/MyEnternia/Wiki/Glowarp) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_warped_cocktail-glowarp.png" alt="Glowarp ★ icon" loading="lazy" width="auto" height="16px"> [Glowarp ★](https://ceterai.github.io/MyEnternia/Wiki/Glowarp) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 12 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"> [Ayabaycalin Punch ★](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Bubble Gum Punch ★ icon" loading="lazy" width="auto" height="16px"> [Bubble Gum Punch ★](https://ceterai.github.io/MyEnternia/Wiki/BubbleGumPunch)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-ayaka.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"> [Ayabaycalin Punch ★](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinPunch)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_natal_punch-gum.png" alt="Bubble Gum Punch ★ icon" loading="lazy" width="auto" height="16px"> [Bubble Gum Punch ★](https://ceterai.github.io/MyEnternia/Wiki/BubbleGumPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" width="auto" height="16px"> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Stuffed Crust Slice icon" loading="lazy" width="auto" height="16px"> [Caliopa Stuffed Crust Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaStuffedCrustSlice)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Exotic Punch icon" loading="lazy" width="auto" height="16px"> [Exotic Punch](https://ceterai.github.io/MyEnternia/Wiki/ExoticPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Extra Heecho Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Extra Heecho Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/ExtraHeechoPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Gillimon Punch icon" loading="lazy" width="auto" height="16px"> [Gillimon Punch](https://ceterai.github.io/MyEnternia/Wiki/GillimonPunch)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_caliopa-stuffed.png" alt="Caliopa Stuffed Crust Slice ★ icon" loading="lazy" width="auto" height="16px"> [Caliopa Stuffed Crust Slice ★](https://ceterai.github.io/MyEnternia/Wiki/CaliopaStuffedCrustSlice)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-alien.png" alt="Exotic Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Exotic Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/ExoticPunch)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-extra.png" alt="Extra Heecho Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Extra Heecho Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/ExtraHeechoPunch)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-gillimon.png" alt="Gillimon Punch ★ icon" loading="lazy" width="auto" height="16px"> [Gillimon Punch ★](https://ceterai.github.io/MyEnternia/Wiki/GillimonPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" width="auto" height="16px"> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch icon" loading="lazy" width="auto" height="16px"> [Natal Punch](https://ceterai.github.io/MyEnternia/Wiki/NatalPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_natal_punch.png" alt="Natal Punch Deluxe icon" loading="lazy" width="auto" height="16px"> [Natal Punch Deluxe](https://ceterai.github.io/MyEnternia/Wiki/NatalPunchDeluxe)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Prism Punch icon" loading="lazy" width="auto" height="16px"> [Prism Punch](https://ceterai.github.io/MyEnternia/Wiki/PrismPunch)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_natal_punch-deluxe.png" alt="Natal Punch Deluxe ★★ icon" loading="lazy" width="auto" height="16px"> [Natal Punch Deluxe ★★](https://ceterai.github.io/MyEnternia/Wiki/NatalPunchDeluxe)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-prism.png" alt="Prism Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Prism Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/PrismPunch)
 
 </details>
 

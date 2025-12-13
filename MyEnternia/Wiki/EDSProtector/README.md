@@ -1,6 +1,6 @@
 # EDS Protector ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="EDS Protector ★ icon" loading="lazy" width="auto" height="16px"> **EDS Protector ★** is a legendary shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-upgrade.png" alt="EDS Protector ★ icon" loading="lazy" width="auto" height="16px"> **EDS Protector ★** is a legendary shield.
 
 Armor of this shield has beed encrusted with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). With more power come more powerful effects!  
 The basic energy has been increased, which also allowed for new, heavier systems to be installed. This is common practice with stardust-enhanced and enternia-enhanced EDS tech.

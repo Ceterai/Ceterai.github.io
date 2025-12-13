@@ -1,6 +1,6 @@
 # Perfect Altasoup ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Perfect Altasoup ★ icon" loading="lazy" width="auto" height="16px"> **Perfect Altasoup ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_soup-perfect.png" alt="Perfect Altasoup ★ icon" loading="lazy" width="auto" height="16px"> **Perfect Altasoup ★** is a legendary dish.
 
 This soup is exceptionally nourishing! Only the best [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) restaurants are able to make them taste this good.  
 A perfectly followed recipe that led to a perfectly cooked meal. Nothing else to add here, really.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alta_soup.png" alt="Perfect Altasoup ★ icon" loading="lazy" width="auto" height="16px"> Perfect Altasoup ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_soup-perfect.png" alt="Perfect Altasoup ★ icon" loading="lazy" width="auto" height="16px"> Perfect Altasoup ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay) x*1*

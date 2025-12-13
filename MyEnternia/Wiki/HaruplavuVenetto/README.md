@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Venetto Prime ★ icon" loading="lazy" width="auto" height="16px"> [Venetto Prime ★](https://ceterai.github.io/MyEnternia/Wiki/VenettoPrime) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_haruplavu_venetto-prime.png" alt="Venetto Prime ★ icon" loading="lazy" width="auto" height="16px"> [Venetto Prime ★](https://ceterai.github.io/MyEnternia/Wiki/VenettoPrime) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
@@ -23,14 +23,14 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" width="auto" height="16px"> [Aya Punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" width="auto" height="16px"> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Bluesweet Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/BluesweetPunch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Ciranga Pie ★ icon" loading="lazy" width="auto" height="16px"> [Ciranga Pie ★](https://ceterai.github.io/MyEnternia/Wiki/CirangaPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gharus Stew icon" loading="lazy" width="auto" height="16px"> [Gharus Stew](https://ceterai.github.io/MyEnternia/Wiki/GharusStew)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_punch-bluesweet.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> [Bluesweet Punch ★★](https://ceterai.github.io/MyEnternia/Wiki/BluesweetPunch)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_gil_pie-alien.png" alt="Ciranga Pie ★ icon" loading="lazy" width="auto" height="16px"> [Ciranga Pie ★](https://ceterai.github.io/MyEnternia/Wiki/CirangaPie)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gil_tsay_stew-gharus.png" alt="Gharus Stew ★ icon" loading="lazy" width="auto" height="16px"> [Gharus Stew ★](https://ceterai.github.io/MyEnternia/Wiki/GharusStew)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gil-Tsay Stew icon" loading="lazy" width="auto" height="16px"> [Gil-Tsay Stew](https://ceterai.github.io/MyEnternia/Wiki/Gil-TsayStew)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_milebites.png" alt="Milebites ★★ icon" loading="lazy" width="auto" height="16px"> [Milebites ★★](https://ceterai.github.io/MyEnternia/Wiki/Milebites)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"> [Runeva Pie ★★](https://ceterai.github.io/MyEnternia/Wiki/RunevaPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Summer Cold Boil icon" loading="lazy" width="auto" height="16px"> [Summer Cold Boil](https://ceterai.github.io/MyEnternia/Wiki/SummerColdBoil)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_gil_pie-runeva.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"> [Runeva Pie ★★](https://ceterai.github.io/MyEnternia/Wiki/RunevaPie)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gil_tsay_stew-boil.png" alt="Summer Cold Boil icon" loading="lazy" width="auto" height="16px"> [Summer Cold Boil](https://ceterai.github.io/MyEnternia/Wiki/SummerColdBoil)
 
 </details>
 

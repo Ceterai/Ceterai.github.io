@@ -74,6 +74,7 @@ An artificial species of humanoids created to study the nature of . The main foc
       - [New Year](#new-year)
       - [Ava Day](#ava-day)
       - [Alta Day](#alta-day)
+    - [Chronowonder](#chronowonder)
   - [Settlements](#settlements)
     - [Settlement Types](#settlement-types)
       - [Colonies](#colonies)
@@ -179,7 +180,7 @@ Their appearance is characterized by:
 - **Varied hair colors** including dark blues, grays, light blues, pinks, and whites
 - **Relatively short stature** compared to average humans
 
-The "light and simple" **Arcolar** architectural and design style is considered the main aesthetic for all governmental infrastructure, extending to furniture, clothing, and technology casings.
+The "light and simple" **arcolar** architectural and design style is considered the main aesthetic for all governmental infrastructure, extending to furniture, clothing, and technology casings.
 
 ### Birth and Aging
 
@@ -203,12 +204,11 @@ Altas speak **Alkey**, a constructed language that serves as the primary communi
 **Common Alkey Words:**
 
 - **Alta** - the species name itself
-- **Aya** - a mango/pear-like fruit
-- **Gil** - a common produce item
-- **Tsay** - another staple ingredient
-- **Yaara** - vital grove plants full of ceternia
-- **Staris** - stardust
+- **Arci** - science
+- **Aya** - a common produce item
 - **Nia** - energy
+- **Staris** - stardust
+- **Yaara** - vital grove plants full of ceternia
 
 The language reflects alta priorities and worldview, with extensive vocabulary for technology, research, crystals, and energy concepts.
 
@@ -226,7 +226,7 @@ Altas are herbivores (plant-based diet) and also eat some crystals and insects:
 - Mushrooms
 - Seaweed
 - Crystals (certain edible types)
-- Milk (plant-based alternatives, like tonnova ([tonna](../items/throwables/ct_tonna.thrownitem)) or [cocola](../objects/farmables/alta/liquid/cocola/ct_cocola_seed.object), human variants like almond or oat milk are also edible though unusual)
+- Milk (plant-based alternatives, like [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) or [cocola](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed), human variants like almond or oat milk are also edible though unusual)
 
 </details>
 
@@ -333,11 +333,11 @@ Alta fashion mainly uses the **arcolar** style - light, simple, and functional d
 
 **Common Clothing Categories:**
 
-- **Alta Artist** - Casual creative wear for artistic and entertainment pursuits
-- **Alta Official** - Governmental and formal attire for official functions
-- **Alta Light** - Everyday comfortable wear for daily activities
-- **Alta Service** - Professional uniforms for commercial and service roles
-- **Alta Social** - Simple outfits for social work
+- [Alta Artist](https://ceterai.github.io/MyEnternia/Wiki/ArtisticCrop-Top) - Casual creative wear for artistic and entertainment pursuits
+- [Alta Official](https://ceterai.github.io/MyEnternia/Wiki/OfficialJacket) - Governmental and formal attire for official functions
+- [Alta Casual](https://ceterai.github.io/MyEnternia/Wiki/LightShirt) - Everyday comfortable wear for daily activities
+- [Alta Service](https://ceterai.github.io/MyEnternia/Wiki/ServiceJacket) - Professional uniforms for commercial and service roles
+- [Alta Social](https://ceterai.github.io/MyEnternia/Wiki/SocialWorkerTop) - Simple outfits for social work
 
 **Fashion Industry:**
 
@@ -351,7 +351,7 @@ Due to the FHC (First Human Contact) operation, many "Earth fans" among altas we
 
 **Materials:**
 
-Alta clothing often incorporates **bion compounds** and **bionid** combinations as protective materials. These sturdy materials can be used for both casual clothing and protective armor plating. See the [Materials](#materials) section for details on bion compounds.
+Alta clothing often incorporates various [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) as protective materials. These sturdy materials can be used for both casual clothing and protective armor plating. See the [Materials](#materials) section for details on bion compounds.
 
 **Design Philosophy:**
 
@@ -360,7 +360,7 @@ The Arcolar style prioritizes:
 - Simplicity and clean lines
 - Functionality over ornamentation
 - Light, breathable materials
-- Integration with technology (pockets for **datamasses**, energy cell charging)
+- Integration with technology (pockets for [datamasses](https://ceterai.github.io/MyEnternia/Wiki/Datamass), energy cell charging)
 - Adaptability to ionized atmospheres
 
 </details>
@@ -454,8 +454,6 @@ Most alta food (usually level 4+) has a chance to be prepared perfectly, increas
 
 Alta society's primary focus is research and exploration for technological advancement. Most research is conducted in underground laboratories hidden in **esetera** pocket spaces, equipped with bion compound materials and powered by energy cells. See the **Technology** section for details on alta equipment and materials.
 
-Full list of lab decorations: **Alta Lab Decorations**
-
 #### Botanics
 
 > Main page: [Alta Botanics Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
@@ -534,7 +532,7 @@ The study of insect-like creatures, particularly hive-dwelling species.
 
 **Major Research Areas:**
 
-- **Ionic hives** in alterash prime planet depths
+- [Ionic hives](https://ceterai.github.io/MyEnternia/Wiki/IonicHive) in alterash prime planet depths
 - Midnight hive ecosystem parallels
 - Sentient larvling co-research programs
 - Hive structure and social organization
@@ -547,8 +545,8 @@ Various research organizations focus on genetic modification and species develop
 
 **Controversial Projects:**
 
-- **Arigarans** - Aric-adapted agarans created by Mita-3V Ordis
-- **Arilings** - Resulted from arigaran introduction to aric forests
+- [Arigarans](https://ceterai.github.io/MyEnternia/Wiki/AltaRelations#arigarans) - Aric-adapted agarans created by Mita-3V Ordis
+- [Arilings](https://ceterai.github.io/MyEnternia/Wiki/Ariling) - Resulted from arigaran introduction to aric forests
 - **Advanced Alta FEA** - Floral Enhancement Appliances with unpredictable results
 
 **Ethical Concerns:** Arigaran settlements remain protected from their creators by Alliana forces due to ethical complications.
@@ -746,6 +744,10 @@ Ava Day is the alta gift-giving holiday, analogous to Earth's Valentine's Day bu
 
 Alta Day is the species-wide interplanetary celebration commemorating alta identity, culture, and achievements. It's the most patriotic of alta holidays, featuring displays of alta symbols, visits to cultural sites, and community celebrations that reinforce species-shared pride.
 
+### Chronowonder
+
+Since the planetary calendars are usually misaligned to the interplanetary one, altas have came up with a fictional planet called Chronowonder - an alterash prime planet where the planetary calendar perfectly aligns with the interplanetary alta calendar. This unique synchronization allows for seamless timekeeping and holiday observance and is often used as a dummy planet in different calculations.
+
 ## Settlements
 
 Alta civilization is spread across numerous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets, with settlements ranging from small research colonies to massive metropolitan capitals. The structure and purpose of these settlements vary greatly depending on their location, population, and strategic importance.
@@ -754,7 +756,7 @@ Alta civilization is spread across numerous <img src="https://raw.githubusercont
 
 #### Colonies
 
-> See also: [Tenants, Colonies & the Colony Deed](https://starbounder.org/Colony_Deed)
+> See also: [Alta Tenants](https://ceterai.github.io/MyEnternia/Wiki/Tenants), [Colonies, Tenants & the Colony Deed](https://starbounder.org/Colony_Deed)
 
 Small outposts build for altas with shared interests, such as research teams or specialized workers. These colonies are often located in remote areas of alterash planets, serving as bases for scientific exploration and resource gathering.
 

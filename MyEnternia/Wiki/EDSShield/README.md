@@ -5,7 +5,7 @@
 A hand-held bastion that will protect you against all unknown threats awaiting in the dark.  
 It's sliding plates allow it to stay relatively combat when unused, while expanding in area when necessary.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="EDS Protector ★ icon" loading="lazy" width="auto" height="16px"> [EDS Protector ★](https://ceterai.github.io/MyEnternia/Wiki/EDSProtector) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-upgrade.png" alt="EDS Protector ★ icon" loading="lazy" width="auto" height="16px"> [EDS Protector ★](https://ceterai.github.io/MyEnternia/Wiki/EDSProtector) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

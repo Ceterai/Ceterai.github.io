@@ -1,6 +1,6 @@
 # Yaara Mash
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Yaara Mash icon" loading="lazy" width="auto" height="16px"> **Yaara Mash** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-yaara.png" alt="Yaara Mash icon" loading="lazy" width="auto" height="16px"> **Yaara Mash** is an uncommon dish.
 
 A mashed baked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [yaara eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) covered in roasted roots and different spices. Makes for a good addition to a cut kada of choice, or a salad.  
 While the texture might not be that of a usual, familiar mash, the taste compensates enough to make it a part of many alta restaurant menu items.
@@ -10,11 +10,6 @@ While the texture might not be that of a usual, familiar mash, the taste compens
 Species descriptions:
 
 - Alta: Tastes like a yaara eye dough flavoring, but is much easier to eat than plain dough, so it's actually quite nice.
-
-## Parameters
-
-- Food Value: 24
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Usage
 
@@ -28,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Yaara Mash icon" loading="lazy" width="auto" height="16px"> Yaara Mash x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-yaara.png" alt="Yaara Mash icon" loading="lazy" width="auto" height="16px"> Yaara Mash x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*2*
 

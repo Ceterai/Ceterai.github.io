@@ -1,6 +1,6 @@
 # Thermoarmor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="Thermoarmor ★ icon" loading="lazy" width="auto" height="16px"> **Thermoarmor ★** is an uncommon chest armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_chest-koywa.png" alt="Thermoarmor ★ icon" loading="lazy" width="auto" height="16px"> **Thermoarmor ★** is an uncommon chest armor piece.
 
 A power ranger body protection often used by riverside alta scouts.  
 A fireblast material is covering most of this chestpiece's surface to protect from dangerous environment.

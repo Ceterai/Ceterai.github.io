@@ -76,7 +76,7 @@ Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 0.1s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_boost_fertilizer.png" alt="Boostilizer icon" loading="lazy" width="auto" height="16px"> Boostilizer x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/gil/icon.png" alt="Gil Seeds icon" loading="lazy" width="auto" height="16px"> [Gil Seeds](https://ceterai.github.io/MyEnternia/Wiki/GilSeeds) x*1*
-  - `swampwater` x*2*
+  - <img src="https://starbounder.org/mediawiki/images/3/3b/Swamp_Water.png" alt="Swamp Water icon" loading="lazy" width="12px" height="16px"> [Swamp Water](https://starbounder.org/Swamp_Water) x*2*
   - <img src="https://starbounder.org/mediawiki/images/b/b6/Moonstone.png" alt="Moonstone icon" loading="lazy" width="10px" height="10px"> [Moonstone](https://starbounder.org/Moonstone) x*2*
   - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper) x*2*
 

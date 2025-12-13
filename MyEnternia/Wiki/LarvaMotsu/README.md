@@ -1,6 +1,6 @@
 # Larva Motsu
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Larva Motsu icon" loading="lazy" width="auto" height="16px"> **Larva Motsu** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_rimar_motsu-hive.png" alt="Larva Motsu icon" loading="lazy" width="auto" height="16px"> **Larva Motsu** is a rare dish.
 
 A motsu made mostly from hive and yava ingredients.  
 Though this motsu turned out better than usual, it's important to understand that there is no recipe for excellence.
@@ -10,17 +10,6 @@ Though this motsu turned out better than usual, it's important to understand tha
 Species descriptions:
 
 - Alta: Yum!
-
-## Parameters
-
-- Food Value: 35
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (180s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (180s)
-- `lightaugment2` (180s)
 
 ## Usage
 
@@ -36,8 +25,8 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Larva Motsu icon" loading="lazy" width="auto" height="16px"> Larva Motsu x*1*):
-  - `larva` x*8*
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_rimar_motsu-hive.png" alt="Larva Motsu icon" loading="lazy" width="auto" height="16px"> Larva Motsu x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*8*
   - `cocoa` x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice) x*2*
@@ -58,5 +47,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`motsu`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Motsu), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`soup`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Soup)
 - File: [`/items/generic/food/tier3/ct_rimar_motsu.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_rimar_motsu.consumable)

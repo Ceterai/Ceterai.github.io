@@ -15,12 +15,12 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Inaccuracy: 0.01
 - Power Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"> [Throwing Block](https://starbounder.org/Throwing_Block)
 - Cooldown Time: 0.1
-- Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"> [Throwing Block](https://starbounder.org/Throwing_Block)
 - Energy Per Shot: 45
 - Power Projectile Time:  1.0, 
+- Inaccuracy: 0.01
+- Projectile Type: <img src="https://starbounder.org/mediawiki/images/d/d3/Throwing_Block.png" alt="Throwing Block icon" loading="lazy" width="10px" height="10px"> [Throwing Block](https://starbounder.org/Throwing_Block)
 
 ## Sources
 

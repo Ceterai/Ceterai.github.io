@@ -1,6 +1,6 @@
 # Sky Visor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_visor/icon.png" alt="Sky Visor icon" loading="lazy" width="auto" height="16px"> **Sky Visor** is an uncommon head cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_visor-light.png" alt="Sky Visor icon" loading="lazy" width="auto" height="16px"> **Sky Visor** is an uncommon head cosmetic item.
 
 A light version of the original EDS visor.
 

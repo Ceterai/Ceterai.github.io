@@ -7,7 +7,7 @@ Periodically burst with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tag
 Applied by following items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Dreamer's Enhancer icon" loading="lazy" width="auto" height="16px"> [Dreamer's Enhancer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sEnhancer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Thermo Thrusters ★ icon" loading="lazy" width="auto" height="16px"> [Thermo Thrusters ★](https://ceterai.github.io/MyEnternia/Wiki/ThermoThrusters)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_dreamer_enhancer-koywa.png" alt="Thermo Thrusters ★ icon" loading="lazy" width="auto" height="16px"> [Thermo Thrusters ★](https://ceterai.github.io/MyEnternia/Wiki/ThermoThrusters)
 
 ## Parameters
 

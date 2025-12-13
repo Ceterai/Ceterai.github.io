@@ -6,12 +6,12 @@ Applies <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/
 
 <details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask/icon.png" alt="Albino Mask icon" loading="lazy" width="auto" height="16px"> [Albino Mask](https://ceterai.github.io/MyEnternia/Wiki/AlbinoMask)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_mask-medic.png" alt="Albino Mask icon" loading="lazy" width="auto" height="16px"> [Albino Mask](https://ceterai.github.io/MyEnternia/Wiki/AlbinoMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Combat Uniform icon" loading="lazy" width="auto" height="16px"> [Combat Uniform](https://ceterai.github.io/MyEnternia/Wiki/CombatUniform)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Faceless Mask ★ icon" loading="lazy" width="auto" height="16px"> [Faceless Mask ★](https://ceterai.github.io/MyEnternia/Wiki/FacelessMask)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/lightwear/icon.png" alt="Protea's Jacket ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/chest/icon.png" alt="Sona Jacketarmor ★ icon" loading="lazy" width="auto" height="16px"> [Sona Jacketarmor ★](https://ceterai.github.io/MyEnternia/Wiki/SonaJacketarmor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Thermoscreen ★ icon" loading="lazy" width="auto" height="16px"> [Thermoscreen ★](https://ceterai.github.io/MyEnternia/Wiki/Thermoscreen)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_mask_mk2-stardust.png" alt="Faceless Mask ★ icon" loading="lazy" width="auto" height="16px"> [Faceless Mask ★](https://ceterai.github.io/MyEnternia/Wiki/FacelessMask)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_lightwear-upgrade.png" alt="Protea's Jacket ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Jacket ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sJacket)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_chest-light.png" alt="Sona Jacketarmor ★ icon" loading="lazy" width="auto" height="16px"> [Sona Jacketarmor ★](https://ceterai.github.io/MyEnternia/Wiki/SonaJacketarmor)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_mask_mk2-koywa.png" alt="Thermoscreen ★ icon" loading="lazy" width="auto" height="16px"> [Thermoscreen ★](https://ceterai.github.io/MyEnternia/Wiki/Thermoscreen)
 
 </details>
 

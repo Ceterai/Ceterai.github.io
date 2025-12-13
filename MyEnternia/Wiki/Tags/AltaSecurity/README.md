@@ -49,7 +49,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet_mk2/icon.png" alt="Security MkII Helmet ★ icon" loading="lazy" width="auto" height="16px"> [Security MkII Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityMkIIHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Security Protocol Datamass icon" loading="lazy" width="auto" height="16px"> [Security Protocol Datamass](https://ceterai.github.io/MyEnternia/Wiki/SecurityProtocolDatamass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security.png" alt="Security Set icon" loading="lazy" width="auto" height="16px"> [Security Set](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="Security Shield ★ icon" loading="lazy" width="auto" height="16px"> [Security Shield ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityShield)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-security.png" alt="Security Shield ★ icon" loading="lazy" width="auto" height="16px"> [Security Shield ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/sentry.png" alt="Sentry Drone ★★★ icon" loading="lazy" width="auto" height="16px"> [Sentry Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/SentryDrone)
 
 </details>

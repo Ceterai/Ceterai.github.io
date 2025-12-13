@@ -1,6 +1,6 @@
 # Ayabaycalin Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Ayabaycalin Tea icon" loading="lazy" width="auto" height="16px"> **Ayabaycalin Tea** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calio_tea-ayaka.png" alt="Ayabaycalin Tea icon" loading="lazy" width="auto" height="16px"> **Ayabaycalin Tea** is an uncommon drink.
 
 This calio tea is dense with tingy calin sweetness! Like some nice tea with honey, this is definitely perfect.  
 Jam is a prevalent ingredient in thick types of tea, often replaced with honey, extract, sap, and other sweet jam-like substances.
@@ -10,15 +10,6 @@ Jam is a prevalent ingredient in thick types of tea, often replaced with honey, 
 Species descriptions:
 
 - Alta: You can feel the saturation on your tongue!
-
-## Parameters
-
-- Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `poisonblock` (240s)
 
 ## Usage
 
@@ -33,7 +24,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Ayabaycalin Tea icon" loading="lazy" width="auto" height="16px"> Ayabaycalin Tea x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calio_tea-ayaka.png" alt="Ayabaycalin Tea icon" loading="lazy" width="auto" height="16px"> Ayabaycalin Tea x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*4*
   - `bottledwater` x*1*
 

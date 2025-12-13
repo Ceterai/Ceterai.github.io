@@ -1,6 +1,6 @@
 # Thick Sona Milk ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> **Thick Sona Milk ★** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sona_milk_hot-thick.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> **Thick Sona Milk ★** is an uncommon drink.
 
 A rich and creamy version of hot sona milk, made with extra tonna cream for a thicker texture and enhanced flavor.  
 Perfect for those cold Sonaveil nights when you need an extra comforting drink.
@@ -23,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- <img src="https://starbounder.org/mediawiki/images/b/b2/Chic_Cooking_Table.png" alt="Cooking Stations icon" width="12" height="8"/> [Cooking Stations](https://starbounder.org/Cooking#Meal_Prep_Stations), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 1.05s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> Thick Sona Milk ★ x*1*):
+- <img src="https://starbounder.org/mediawiki/images/b/b2/Chic_Cooking_Table.png" alt="Cooking Stations icon" width="12" height="8"/> [Cooking Stations](https://starbounder.org/Cooking#Meal_Prep_Stations), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 1.05s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sona_milk_hot-thick.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> Thick Sona Milk ★ x*1*):
   - `snowball` x*2*
   - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4*
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*2*

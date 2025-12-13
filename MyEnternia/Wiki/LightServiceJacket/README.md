@@ -1,6 +1,6 @@
 # Light Service Jacket
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_jacket/icon.png" alt="Light Service Jacket icon" loading="lazy" width="auto" height="16px"> **Light Service Jacket** is a common chest cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_service_jacket-light.png" alt="Light Service Jacket icon" loading="lazy" width="auto" height="16px"> **Light Service Jacket** is a common chest cosmetic item.
 
 A typical jacket worn by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) servicers of different establishments.
 
@@ -14,8 +14,8 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_jacket/icon.png" alt="Light Service Jacket icon" loading="lazy" width="auto" height="16px"> Light Service Jacket x*1*):
-  - `cottonwool` x*2*
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_service_jacket-light.png" alt="Light Service Jacket icon" loading="lazy" width="auto" height="16px"> Light Service Jacket x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/1/1a/Cotton_Wool.png" alt="Cotton icon" loading="lazy" width="16px" height="15px"> [Cotton](https://starbounder.org/Cotton_Wool) x*2*
   - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*20*
 
 Can be bought from merchants:

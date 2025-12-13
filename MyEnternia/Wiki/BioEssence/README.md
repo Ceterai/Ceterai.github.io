@@ -1,6 +1,6 @@
 # Bio Essence
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Essence icon" loading="lazy" width="auto" height="16px"> **Bio Essence** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_bio_fresh-essence.png" alt="Bio Essence icon" loading="lazy" width="auto" height="16px"> **Bio Essence** is a common drink.
 
 This vitamin-full juice, made from finest prime <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [biosamples](https://starbounder.org/Bio_Sample), is both very healthy and exceptionally refreshing.  
 Biosample primification involves exposing it to environments of differing toxicity levels, and seeing which one will "click".
@@ -10,15 +10,6 @@ Biosample primification involves exposing it to environments of differing toxici
 Species descriptions:
 
 - Alta: This looks like it was synthesysed in a lab, even if it was made on accident.
-
-## Parameters
-
-- Food Value: 15
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (20%)](https://starbounder.org/Status_Effects#Stat_Boosts) (75s)
 
 ## Usage
 
@@ -33,9 +24,9 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Essence icon" loading="lazy" width="auto" height="16px"> Bio Essence x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_bio_fresh-essence.png" alt="Bio Essence icon" loading="lazy" width="auto" height="16px"> Bio Essence x*1*):
   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*4*
-  - `larva` x*4*
+  - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*1*
 
 Can be bought from merchants:
@@ -51,8 +42,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_bio_fresh-essence`
-- Level: `3`
+- Level: `2`
 - Power: `1.0`
-- Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`extract`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Extract), [`fresh`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fresh), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
+- Rarity: `Common`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bio`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bio), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`extract`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Extract), [`fresh`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fresh), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/generic/food/tier1/ct_bio_fresh.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_bio_fresh.consumable)

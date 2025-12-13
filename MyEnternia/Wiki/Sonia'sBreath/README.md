@@ -20,20 +20,20 @@ An advanced cooling mechanism that's able to generate a stream of cold gas mass 
 
 Parameters:
 
-- Fire Time: 0.065
 - Hold Type: `thrower`
+- Hold Cooldown:
+- Hold Time Min:
+- Hold Time Max:
+- Energy Usage: 16
+- Fire Time: 0.065
 - Hold Params:
   - Type: `icethrower`
-  - Interval:
   - Params:
     - Time To Live: 0.98
     - Animation Cycle: 1
+  - Interval:
 - Base Dps: 4
-- Hold Cooldown:
-- Energy Usage: 16
 - Loop: `True`
-- Hold Time Min:
-- Hold Time Max:
 
 ## Sources
 

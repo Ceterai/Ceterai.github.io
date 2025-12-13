@@ -196,4 +196,4 @@ The tag `alterash` contains 182 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [Alta Pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [Alta Pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear)

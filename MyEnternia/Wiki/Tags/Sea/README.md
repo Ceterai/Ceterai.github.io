@@ -47,7 +47,7 @@ Following tenants require this colony tag:
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-alien.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Cry ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sCry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" width="auto" height="16px"> [Barracuda's Fin](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sFin)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Violas icon" loading="lazy" width="auto" height="16px"> [Violas](https://ceterai.github.io/MyEnternia/Wiki/Violas)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-koywa.png" alt="Violas icon" loading="lazy" width="auto" height="16px"> [Violas](https://ceterai.github.io/MyEnternia/Wiki/Violas)

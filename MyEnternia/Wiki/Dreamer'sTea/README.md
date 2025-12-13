@@ -1,6 +1,6 @@
 # Dreamer's Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Dreamer's Tea icon" loading="lazy" width="auto" height="16px"> **Dreamer's Tea** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-dreamer.png" alt="Dreamer's Tea icon" loading="lazy" width="auto" height="16px"> **Dreamer's Tea** is an uncommon drink.
 
 A regular herb tea with a special touch. You feel recognizably better after drinking it.  
 Aside from additional ingredients, the secret of the recipe tends to include a bit of fresh-boiled koywa grass in small amounts, which adds a slight touch of sweet bitterness to the drink.
@@ -14,7 +14,6 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 Applies effects:
 
@@ -35,7 +34,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Dreamer's Tea icon" loading="lazy" width="auto" height="16px"> Dreamer's Tea x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-dreamer.png" alt="Dreamer's Tea icon" loading="lazy" width="auto" height="16px"> Dreamer's Tea x*1*):
   - `alienfruit` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*2*
 

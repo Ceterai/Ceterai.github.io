@@ -56,16 +56,16 @@ Species descriptions:
 
 ### Liquid Extraction
 
-Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain `<wiki.extract.Recipe object at 0x00000154D6FD8410>` (if you have it installed).
+Can be used in a <img src="https://steamuserimages-a.akamaihd.net/ugc/13632332873483066507/7B6D0E2D050259EAB13B8AEF8B391DBB2AE98569/" alt="Liquid Extractor icon" width="16" height="16"/> [Liquid Extractor](https://steamcommunity.com/sharedfiles/filedetails/?id=3525229778) to obtain <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" width="16px" height="16px"> [Water](https://starbounder.org/Water) (if you have it installed).
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-cryo.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> [Cryo Jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-honey.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
 
 Can be crafted:
 

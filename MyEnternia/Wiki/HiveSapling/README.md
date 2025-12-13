@@ -19,8 +19,8 @@ Growing stages:
 3. Lasts from 1600 to 1800 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - `larva` x*2* (weight: 0.49)
-   - `larva` x*1* (weight: 0.4)
+   - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*2* (weight: 0.49)
+   - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*1* (weight: 0.4)
    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/hive/icon.png" alt="Hive Seed icon" loading="lazy" width="auto" height="16px"> [Hive Seed](https://ceterai.github.io/MyEnternia/Wiki/HiveSeed) x*1* (weight: 0.01)
    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*1* (weight: 0.1)
 

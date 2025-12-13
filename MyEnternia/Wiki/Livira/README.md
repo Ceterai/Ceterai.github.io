@@ -62,7 +62,7 @@ Can be crafted:
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [Yaara Root](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot) x*4*
   - <img src="https://starbounder.org/mediawiki/images/c/c8/Living_Root.png" alt="Living Root icon" loading="lazy" width="14px" height="13px"> [Living Root](https://starbounder.org/Living_Root) x*1*
   - <img src="https://starbounder.org/mediawiki/images/e/eb/Granite_Rock.png" alt="Granite Rock icon" loading="lazy" width="12px" height="12px"> [Granite Rock](https://starbounder.org/Granite_Rock) x*1*
-  - `liquidslime` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/38/Slime.png" alt="Slime icon" loading="lazy" width="12px" height="16px"> [Slime](https://starbounder.org/Slime) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" width="auto" height="16px"> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer) x*1*
 
 Can be bought from merchants:

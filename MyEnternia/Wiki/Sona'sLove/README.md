@@ -1,6 +1,6 @@
 # Sona's Love ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> **Sona's Love ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_cake-love.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> **Sona's Love ★** is a legendary dish.
 
 A perfectly baked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"> [Sonaveil Cake](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCake) decorated with crimson frosting and snow-white crystalline sugar.  
 This special variant of Sonaveil cake is made with extra care and love, resulting in perfectly balanced flavors and a beautiful warm crimson frosting with cooling sonasweet sprinkles designed to resemble fresh snow. The crimson represents the warmth of love shared during the cold season - the very heart of Sona's Veil's message about staying warm together. Perfect for sharing it with all of your friends!
@@ -23,13 +23,17 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 4.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> Sona's Love ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 4.0s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_cake-love.png" alt="Sona's Love ★ icon" loading="lazy" width="auto" height="16px"> Sona's Love ★ x*1*):
   - `avesmingojuice` x*1*
   - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*12*
   - `sugar` x*1*
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*1*
   - <img src="https://starbounder.org/mediawiki/images/2/26/Egg.png" alt="Egg icon" loading="lazy" width="16px" height="16px"> [Egg](https://starbounder.org/Egg) x*1*
   - `avesmingo` x*1*
+
+Can be bought from merchants:
+
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 
 Can be obtained from special items:
 

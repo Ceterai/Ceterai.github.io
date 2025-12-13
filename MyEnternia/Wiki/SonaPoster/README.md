@@ -34,6 +34,10 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*12*
   - <img src="https://starbounder.org/mediawiki/images/c/c9/Blue_Dye.png" alt="Blue Dye icon" loading="lazy" width="8px" height="12px"> [Blue Dye](https://starbounder.org/Blue_Dye) x*1*
 
+Can be bought from merchants:
+
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
+
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)

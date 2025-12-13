@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 40
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="icon" loading="lazy" width="16px" height="16px"> [Velocity Boost](https://ceterai.github.io/MyEnternia/Wiki/VelocityBoost) (180s)
-- <img src="https://starbounder.org/mediawiki/images/b/b6/Status_Swim_Boost.png" alt="icon" loading="lazy" width="16px" height="16px"> [Swim Boosters](https://ceterai.github.io/MyEnternia/Wiki/SwimBoosters) (180s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gharus Stew icon" loading="lazy" width="auto" height="16px"> [Gharus Stew](https://ceterai.github.io/MyEnternia/Wiki/GharusStew) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gil_tsay_stew-gharus.png" alt="Gharus Stew ★ icon" loading="lazy" width="auto" height="16px"> [Gharus Stew ★](https://ceterai.github.io/MyEnternia/Wiki/GharusStew) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -41,8 +33,8 @@ Unlocks blueprints for:
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> [Exotic Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ExoticTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Mint-Tsay Tea icon" loading="lazy" width="auto" height="16px"> [Mint-Tsay Tea](https://ceterai.github.io/MyEnternia/Wiki/Mint-TsayTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_vermont_tea-exotic.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> [Exotic Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ExoticTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_vermont_tea-tsay.png" alt="Mint-Tsay Tea icon" loading="lazy" width="auto" height="16px"> [Mint-Tsay Tea](https://ceterai.github.io/MyEnternia/Wiki/Mint-TsayTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" width="auto" height="16px"> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 

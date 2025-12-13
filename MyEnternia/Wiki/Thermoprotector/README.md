@@ -1,6 +1,6 @@
 # Thermoprotector ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Thermoprotector ★ icon" loading="lazy" width="auto" height="16px"> **Thermoprotector ★** is an uncommon electric shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ioncore_shield-koywa.png" alt="Thermoprotector ★ icon" loading="lazy" width="auto" height="16px"> **Thermoprotector ★** is an uncommon electric shield.
 
 An armored heat dispencer with a built-in energy generator. Better be careful around plants.  
 Often used by riverside scouts, it can often be used to heat up the environment.

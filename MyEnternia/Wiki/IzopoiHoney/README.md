@@ -1,6 +1,6 @@
 # Izopoi Honey
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> **Izopoi Honey** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-honey.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> **Izopoi Honey** is an uncommon dish.
 
 A surpridingly sticky isoslime ferment, often used a sweet honey mix in desserts. Can be used as a substitute for izo jam.  
 While its freezing capabilities are not as well defined as in other isoslime condiments, it definitely is easy to melt or dissolve.
@@ -10,15 +10,6 @@ While its freezing capabilities are not as well defined as in other isoslime con
 Species descriptions:
 
 - Alta: Sweet and sticky, just like any honey. Right, honey?
-
-## Parameters
-
-- Food Value: 22
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Augment)](https://starbounder.org/Status_Effects#Stat_Boosts) (65s)
 
 ## Usage
 
@@ -34,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> Izopoi Honey x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-honey.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> Izopoi Honey x*1*):
   - `neonmelon` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*2*
 
@@ -51,8 +42,8 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 ## Technical Information
 
 - In-game ID: `ct_iso_jam-honey`
-- Level: `2`
+- Level: `3`
 - Power: `1.0`
-- Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`honey`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Honey), [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine)
+- Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`honey`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Honey), [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/tier1/ct_iso_jam.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier1/ct_iso_jam.consumable)

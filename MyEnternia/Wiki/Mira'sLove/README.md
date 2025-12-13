@@ -1,6 +1,6 @@
 # Mira's Love ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Mira's Love ★ icon" loading="lazy" width="auto" height="16px"> **Mira's Love ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ion_cake-love.png" alt="Mira's Love ★ icon" loading="lazy" width="auto" height="16px"> **Mira's Love ★** is a legendary dish.
 
 This well-made ion cake is beyond all praises! Surely it deserves the Al'deron's commander name next to it.  
 Every bit is calculated and planned, all measurements are exact, including your reaction and what side of the cake you'll start with.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Mira's Love ★ icon" loading="lazy" width="auto" height="16px"> Mira's Love ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ion_cake-love.png" alt="Mira's Love ★ icon" loading="lazy" width="auto" height="16px"> Mira's Love ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*2*
   - `sugar` x*1*

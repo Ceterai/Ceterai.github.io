@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/alta/happy.png:1" alt="Happy icon" loading="lazy" width="auto" height="16px"> [Happy](https://ceterai.github.io/MyEnternia/Wiki/Happy) (120s)
-- <img src="https://starbounder.org/mediawiki/images/b/b3/Status_Regeneration.png" alt="Regeneration I icon" loading="lazy" width="16px" height="16px"> [Regeneration I](https://starbounder.org/Regeneration_(Buff)) (240s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Ceternia Tea ★ icon" loading="lazy" width="auto" height="16px"> [Ceternia Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaTea) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaara_tea-ceternia.png" alt="Ceternia Tea ★ icon" loading="lazy" width="auto" height="16px"> [Ceternia Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaTea) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -39,12 +31,12 @@ Unlocks blueprints for:
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Alien Pearls icon" loading="lazy" width="auto" height="16px"> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-alien_pearls.png" alt="Alien Pearls icon" loading="lazy" width="auto" height="16px"> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Hot Yaarings icon" loading="lazy" width="auto" height="16px"> [Hot Yaarings](https://ceterai.github.io/MyEnternia/Wiki/HotYaarings)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifesapling icon" loading="lazy" width="auto" height="16px"> [Lifesapling](https://ceterai.github.io/MyEnternia/Wiki/Lifesapling)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-hot.png" alt="Hot Yaarings icon" loading="lazy" width="auto" height="16px"> [Hot Yaarings](https://ceterai.github.io/MyEnternia/Wiki/HotYaarings)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_lifespring-lifesapling.png" alt="Lifesapling icon" loading="lazy" width="auto" height="16px"> [Lifesapling](https://ceterai.github.io/MyEnternia/Wiki/Lifesapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Poivani icon" loading="lazy" width="auto" height="16px"> [Poivani](https://ceterai.github.io/MyEnternia/Wiki/Poivani)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-poivani.png" alt="Poivani icon" loading="lazy" width="auto" height="16px"> [Poivani](https://ceterai.github.io/MyEnternia/Wiki/Poivani)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_yaarings.png" alt="Yaarings icon" loading="lazy" width="auto" height="16px"> [Yaarings](https://ceterai.github.io/MyEnternia/Wiki/Yaarings)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 

@@ -14,16 +14,16 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Time: 0.12
-- Inaccuracy: 0.1
-- Base Dps: 10
-- Projectile Type: `ct_foam_spray`
-- Energy Usage: 28
-- Muzzle Flash Variants: 1
+- Fire Type: `auto`
 - Projectile Parameters:
   - Knockback Range:  10,  40
 - Projectile Count: 1
-- Fire Type: `auto`
+- Energy Usage: 28
+- Fire Time: 0.12
+- Inaccuracy: 0.1
+- Muzzle Flash Variants: 1
+- Base Dps: 10
+- Projectile Type: `ct_foam_spray`
 
 ## Sources
 

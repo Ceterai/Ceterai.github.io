@@ -1,6 +1,6 @@
 # Cirangata
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Cirangata icon" loading="lazy" width="auto" height="16px"> **Cirangata** is a legendary drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_mohitava_cocktail-alien.png" alt="Cirangata icon" loading="lazy" width="auto" height="16px"> **Cirangata** is a legendary drink.
 
 A ciranga-mohitava variation with vitamin-like freshness.  
 The base in this recipe changed from plain water to yaara crystal juice for added taste!
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Cirangata icon" loading="lazy" width="auto" height="16px"> Cirangata x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_mohitava_cocktail-alien.png" alt="Cirangata icon" loading="lazy" width="auto" height="16px"> Cirangata x*1*):
   - `pineapple` x*1*
   - `carrotjuice` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay) x*1*

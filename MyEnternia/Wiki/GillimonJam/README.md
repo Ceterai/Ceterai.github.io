@@ -1,6 +1,6 @@
 # Gillimon Jam
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Gillimon Jam icon" loading="lazy" width="auto" height="16px"> **Gillimon Jam** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-gillimon_jam.png" alt="Gillimon Jam icon" loading="lazy" width="auto" height="16px"> **Gillimon Jam** is a common dish.
 
 A gil-poi mix called _gillimon_ turned into jam. Perfect for sweet bakery and desserts. Too bad you don't know any recipes that use it...  
 While not known for its sweetness, it's often used in desserts to provide a unique, interesting flavor.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Gillimon Jam icon" loading="lazy" width="auto" height="16px"> Gillimon Jam x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-gillimon_jam.png" alt="Gillimon Jam icon" loading="lazy" width="auto" height="16px"> Gillimon Jam x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*2*
 

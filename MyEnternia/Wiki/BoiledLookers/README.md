@@ -1,6 +1,6 @@
 # Boiled Lookers
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Boiled Lookers icon" loading="lazy" width="auto" height="16px"> **Boiled Lookers** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-boiled_lookers.png" alt="Boiled Lookers icon" loading="lazy" width="auto" height="16px"> **Boiled Lookers** is an uncommon dish.
 
 Yaara eyes don't do good by themselves when boiled, but an experienced chef can easily fix that with a proper mix of spices and other ingredients.  
 This is why alta chefs often add multiple herbs and bio extracts to even out the texture of the boiled juice, and make sure the eye doesn't drown.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Boiled Lookers icon" loading="lazy" width="auto" height="16px"> Boiled Lookers x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-boiled_lookers.png" alt="Boiled Lookers icon" loading="lazy" width="auto" height="16px"> Boiled Lookers x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [Yaara Eye](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice) x*1*
 

@@ -1,6 +1,6 @@
 # Runeva Pie ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"> **Runeva Pie ★★** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_gil_pie-runeva.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"> **Runeva Pie ★★** is a rare dish.
 
 A carefully crafted pie from peak-ripe ayas and gils.  
 A variety in original recipe that creates a proper runeva fruit mix filling for this amazing pie.
@@ -10,15 +10,6 @@ A variety in original recipe that creates a proper runeva fruit mix filling for 
 Species descriptions:
 
 - Alta: Smells like autumn and a nice walk in a fruitful garden...
-
-## Parameters
-
-- Food Value: 45
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_velocity_jump/ct_longfall.png" alt="1/4 Falldamage icon" loading="lazy" width="auto" height="16px"> [1/4 Falldamage](https://ceterai.github.io/MyEnternia/Wiki/1By4Falldamage) (255s)
 
 ## Usage
 
@@ -35,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"> Runeva Pie ★★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_gil_pie-runeva.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"> Runeva Pie ★★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice) x*1*

@@ -1,6 +1,6 @@
 # Blue Boil
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Blue Boil icon" loading="lazy" width="auto" height="16px"> **Blue Boil** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_boiled-blue_boil.png" alt="Blue Boil icon" loading="lazy" width="auto" height="16px"> **Blue Boil** is an uncommon dish.
 
 A bowl of thick dense boiled ayas. Often prepared this way in [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) hospitals for patients. Very yummy!  
 The denseness of the fruits in this dish is also good for making a boiled fruit salad afterwards, if anything is left.
@@ -10,11 +10,6 @@ The denseness of the fruits in this dish is also good for making a boiled fruit 
 Species descriptions:
 
 - Alta: For when you feel like having more fruit than boil. I should add something to it to make it even better!
-
-## Parameters
-
-- Food Value: 24
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Usage
 
@@ -28,7 +23,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Blue Boil icon" loading="lazy" width="auto" height="16px"> Blue Boil x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_boiled-blue_boil.png" alt="Blue Boil icon" loading="lazy" width="auto" height="16px"> Blue Boil x*1*):
   - `alienfruit` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*3*
 

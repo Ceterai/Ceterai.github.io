@@ -26,11 +26,6 @@ This refined, almost razor-sharp blade spins in your hand, creating a light show
 
 Parameters:
 
-- Fire Time: 0.9
-- Base Dps: 12
-- Damage Config:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
-- Energy Usage: 32
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -56,6 +51,11 @@ Parameters:
 - Swoosh: `swoosh1`
 - Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
 - Swoosh Sound: `primary_hold`
+- Energy Usage: 32
+- Damage Config:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- Fire Time: 0.9
+- Base Dps: 12
 
 ### Sinara's Blast
 

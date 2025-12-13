@@ -1,6 +1,6 @@
 # Sunset Crumble
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"> **Sunset Crumble** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_meringue-crumble.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"> **Sunset Crumble** is an uncommon dish.
 
 The softness of this crumble pie makes it feel like it's melting in your mouth.  
 A combination of rare fruits gives it an additionally exceptional texture, eating it hot is preferred due to that as well.
@@ -10,15 +10,6 @@ A combination of rare fruits gives it an additionally exceptional texture, eatin
 Species descriptions:
 
 - Alta: A soft, warm crumble pie is such an excellent dish to go along with some tea!
-
-## Parameters
-
-- Food Value: 35
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (255s)
 
 ## Usage
 
@@ -34,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"> Sunset Crumble x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_meringue-crumble.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"> Sunset Crumble x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
   - `pineapple` x*1*
   - `feathercrownjam` x*1*

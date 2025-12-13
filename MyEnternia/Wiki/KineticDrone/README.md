@@ -1,6 +1,6 @@
 # Kinetic Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Kinetic Drone icon" loading="lazy" width="auto" height="16px"> **Kinetic Drone** is a common throwable item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_mini_drone-kinetic.png" alt="Kinetic Drone icon" loading="lazy" width="auto" height="16px"> **Kinetic Drone** is a common throwable item.
 
 Small armored [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) drone. Usually nests inside larger drones.  
 These compact flying robots are not that much smaller than a rebular alta drone, but enough to be able to fit in much smaller spaces.

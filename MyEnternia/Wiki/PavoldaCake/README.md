@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"> [Celestia's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Celestia'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_pavolda_cake-love.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"> [Celestia's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Celestia'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
@@ -23,7 +23,7 @@ Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crunchy Pie icon" loading="lazy" width="auto" height="16px"> [Crunchy Pie](https://ceterai.github.io/MyEnternia/Wiki/CrunchyPie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crystal Pie icon" loading="lazy" width="auto" height="16px"> [Crystal Pie](https://ceterai.github.io/MyEnternia/Wiki/CrystalPie)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crunchy_pie-calin.png" alt="Crystal Pie ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Pie ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalPie)
 
 Can be crafted:
 

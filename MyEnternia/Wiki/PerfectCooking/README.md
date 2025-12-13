@@ -46,13 +46,13 @@ A perfectly cooked dish will have:
 - Better presentation
 - Sometimes unique coloration
 
-For example, a standard [Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/AltaDinner) might become <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove) - made with that extra care!
+For example, a standard [Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/AltaDinner) might become <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_dinner-caretaker.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove) - made with that extra care!
 
 [Special Cases](https://ceterai.github.io/MyEnternia/Wiki/SpecialCases)
 
 Some dishes naturally vary during preparation, separate from perfect cooking:
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" width="auto" height="16px"> [Nia Cocktails](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail) will polarize into Ceternia, Alternia, or Enternia variants. Perfect cooking creates the rare <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"> [Staris Cocktail](https://ceterai.github.io/MyEnternia/Wiki/StarisCocktail) instead!
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" width="auto" height="16px"> [Nia Cocktails](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail) will polarize into Ceternia, Alternia, or Enternia variants. Perfect cooking creates the rare <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_nia_cocktail-stardust.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"> [Staris Cocktail](https://ceterai.github.io/MyEnternia/Wiki/StarisCocktail) instead!
 
 [The Lesser - The Better](https://ceterai.github.io/MyEnternia/Wiki/TheLesser-TheBetter)
 

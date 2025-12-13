@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_tonna_split.png" alt="Split Surprize ★ icon" loading="lazy" width="auto" height="16px"> [Split Surprize ★](https://ceterai.github.io/MyEnternia/Wiki/SplitSurprize) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_split-surprize.png" alt="Split Surprize ★ icon" loading="lazy" width="auto" height="16px"> [Split Surprize ★](https://ceterai.github.io/MyEnternia/Wiki/SplitSurprize) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_tonna_split_extra.png" alt="Tonna Split Extra icon" loading="lazy" width="auto" height="16px"> [Tonna Split Extra](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplitExtra) (chance: 30.0%)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_tonna_split_mega.png" alt="Tonna Split Mega icon" loading="lazy" width="auto" height="16px"> [Tonna Split Mega](https://ceterai.github.io/MyEnternia/Wiki/TonnaSplitMega) (chance: 20.0%)
 
@@ -31,14 +31,14 @@ Can be used to craft:
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Alta Shake icon" loading="lazy" width="auto" height="16px"> [Alta Shake](https://ceterai.github.io/MyEnternia/Wiki/AltaShake)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Ciranga Shake icon" loading="lazy" width="auto" height="16px"> [Ciranga Shake](https://ceterai.github.io/MyEnternia/Wiki/CirangaShake)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_shake-alta.png" alt="Alta Shake icon" loading="lazy" width="auto" height="16px"> [Alta Shake](https://ceterai.github.io/MyEnternia/Wiki/AltaShake)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_shake-alien.png" alt="Ciranga Shake icon" loading="lazy" width="auto" height="16px"> [Ciranga Shake](https://ceterai.github.io/MyEnternia/Wiki/CirangaShake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Perfect Tonna Shake icon" loading="lazy" width="auto" height="16px"> [Perfect Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/PerfectTonnaShake)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"> [Sunset Crumble](https://ceterai.github.io/MyEnternia/Wiki/SunsetCrumble)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_shake-perfect.png" alt="Perfect Tonna Shake ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Tonna Shake ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectTonnaShake)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_meringue-crumble.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"> [Sunset Crumble](https://ceterai.github.io/MyEnternia/Wiki/SunsetCrumble)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonna Meringue icon" loading="lazy" width="auto" height="16px"> [Tonna Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnaMeringue)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" width="auto" height="16px"> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_meringue.png" alt="Tonnakada Meringue icon" loading="lazy" width="auto" height="16px"> [Tonnakada Meringue](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaMeringue)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_meringue-kada.png" alt="Tonnakada Meringue ★★ icon" loading="lazy" width="auto" height="16px"> [Tonnakada Meringue ★★](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaMeringue)
 
 </details>
 

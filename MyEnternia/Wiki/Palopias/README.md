@@ -15,21 +15,21 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Blooming Palopias ★ icon" loading="lazy" width="auto" height="16px"> [Blooming Palopias ★](https://ceterai.github.io/MyEnternia/Wiki/BloomingPalopias) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_palopias-blooming.png" alt="Blooming Palopias ★ icon" loading="lazy" width="auto" height="16px"> [Blooming Palopias ★](https://ceterai.github.io/MyEnternia/Wiki/BloomingPalopias) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 11 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" width="auto" height="16px"> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_dinner-caretaker.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_fivaldo_salad-banquet.png" alt="Fival'do Banquet ★ icon" loading="lazy" width="auto" height="16px"> [Fival'do Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" width="auto" height="16px"> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Hive Curry icon" loading="lazy" width="auto" height="16px"> [Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/HiveCurry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" width="auto" height="16px"> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"> [Round Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/RoundBanquet)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_round_salad-banquet.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"> [Round Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/RoundBanquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Roundsalad icon" loading="lazy" width="auto" height="16px"> [Roundsalad](https://ceterai.github.io/MyEnternia/Wiki/Roundsalad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Spice-Hive Curry icon" loading="lazy" width="auto" height="16px"> [Spice-Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/Spice-HiveCurry)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Extra Toppings Slice icon" loading="lazy" width="auto" height="16px"> [Yaarizza Extra Toppings Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaExtraToppingsSlice)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_hive_curry-spice.png" alt="Spice-Hive Curry ★ icon" loading="lazy" width="auto" height="16px"> [Spice-Hive Curry ★](https://ceterai.github.io/MyEnternia/Wiki/Spice-HiveCurry)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarizza-extra.png" alt="Yaarizza Extra Toppings Slice ★ icon" loading="lazy" width="auto" height="16px"> [Yaarizza Extra Toppings Slice ★](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaExtraToppingsSlice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_yaarizza.png" alt="Yaarizza Slice icon" loading="lazy" width="auto" height="16px"> [Yaarizza Slice](https://ceterai.github.io/MyEnternia/Wiki/YaarizzaSlice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 

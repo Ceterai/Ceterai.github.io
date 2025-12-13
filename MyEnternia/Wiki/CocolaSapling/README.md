@@ -19,8 +19,8 @@ Growing stages:
 3. Lasts from 1600 to 1800 seconds.
 4. Can be harvested:
    - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-   - `liquidmilk` x*2* (weight: 0.49)
-   - `liquidmilk` x*1* (weight: 0.5)
+   - <img src="https://starbounder.org/mediawiki/images/c/c7/Coconut_Milk.png" alt="Milk icon" loading="lazy" width="12px" height="16px"> [Milk](https://starbounder.org/Coconut_Milk) x*2* (weight: 0.49)
+   - <img src="https://starbounder.org/mediawiki/images/c/c7/Coconut_Milk.png" alt="Milk icon" loading="lazy" width="12px" height="16px"> [Milk](https://starbounder.org/Coconut_Milk) x*1* (weight: 0.5)
    - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/cocola/icon.png" alt="Cocola Seed icon" loading="lazy" width="auto" height="16px"> [Cocola Seed](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed) x*1* (weight: 0.01)
 
 ## Usage

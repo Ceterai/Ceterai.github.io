@@ -1,6 +1,6 @@
 # Bishyn Shield ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Bishyn Shield ★ icon" loading="lazy" width="auto" height="16px"> **Bishyn Shield ★** is a rare shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-bishyn.png" alt="Bishyn Shield ★ icon" loading="lazy" width="auto" height="16px"> **Bishyn Shield ★** is a rare shield.
 
 This simple shield is hiding some secret poison-related powers that you might want to explore.  
 It has a special device attached to the handle that is meant to adapt your body to the nature of bishyn crystal poison.

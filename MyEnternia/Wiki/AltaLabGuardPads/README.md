@@ -1,6 +1,6 @@
 # Alta Lab Guard Pads
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/legwear/icon.png" alt="Alta Lab Guard Pads icon" loading="lazy" width="auto" height="16px"> **Alta Lab Guard Pads** is a rare leg armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_arco_legwear-lab.png" alt="Alta Lab Guard Pads icon" loading="lazy" width="auto" height="16px"> **Alta Lab Guard Pads** is a rare leg armor piece.
 
 A piece of equipment worn by [alta lab guards](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard) in most [alta laboratories](https://ceterai.github.io/MyEnternia/Wiki/altalaboratories).  
 Mostly consisting of [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) and suspending materials, it provides a decent amount of protection for a guard.

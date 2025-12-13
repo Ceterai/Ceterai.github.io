@@ -1,6 +1,6 @@
 # Staris Cocktail ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"> **Staris Cocktail ★** is a legendary drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_nia_cocktail-stardust.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"> **Staris Cocktail ★** is a legendary drink.
 
 An ultimate nia cocktail that perfactly encompasses the vibe and original taste.  
 Representing stardust energy and stardust, this drink feels almost like a powder, or a powdery drink, with the food coloring mixixng as you drink, making it seem like the drink is changing colors, or "reacting" to you drinking it.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"> Staris Cocktail ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_nia_cocktail-stardust.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"> Staris Cocktail ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*1*

@@ -1,6 +1,6 @@
 # Ciranga Tea
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Ciranga Tea icon" loading="lazy" width="auto" height="16px"> **Ciranga Tea** is an uncommon drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gheatsyn_tea-alien.png" alt="Ciranga Tea icon" loading="lazy" width="auto" height="16px"> **Ciranga Tea** is an uncommon drink.
 
 Some gheatsyn vermont tea. You can feel the spice just enough to get the resemblance.  
 The mix is much more complicated than with a regular gheatsyn tea, and requires a set of roasted spices to prepare.
@@ -10,16 +10,6 @@ The mix is much more complicated than with a regular gheatsyn tea, and requires 
 Species descriptions:
 
 - Alta: Perfect. Now to get myself some cookies, a cozy blanket and some ionic rain outside.
-
-## Parameters
-
-- Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/confused.png:1" alt="Curious icon" loading="lazy" width="auto" height="16px"> [Curious](https://ceterai.github.io/MyEnternia/Wiki/Curious) (240s)
-- `lightaugment2` (240s)
 
 ## Usage
 
@@ -35,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Ciranga Tea icon" loading="lazy" width="auto" height="16px"> Ciranga Tea x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gheatsyn_tea-alien.png" alt="Ciranga Tea icon" loading="lazy" width="auto" height="16px"> Ciranga Tea x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam) x*1*
   - `alienfruit` x*1*
 

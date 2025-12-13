@@ -1,6 +1,6 @@
 # Ciranga Cake ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Ciranga Cake ★★ icon" loading="lazy" width="auto" height="16px"> **Ciranga Cake ★★** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ion_cake-alien.png" alt="Ciranga Cake ★★ icon" loading="lazy" width="auto" height="16px"> **Ciranga Cake ★★** is a rare dish.
 
 A pretty tough cake with wet bread and ciranga filling. Simple, yet effective. Pretty tasty, unlike its pie counterpart.  
 Every bit is calculated and planned, all measurements are exact, including your reaction and what side of the cake you'll start with.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Ciranga Cake ★★ icon" loading="lazy" width="auto" height="16px"> Ciranga Cake ★★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ion_cake-alien.png" alt="Ciranga Cake ★★ icon" loading="lazy" width="auto" height="16px"> Ciranga Cake ★★ x*1*):
   - `carrotjuice` x*1*
   - `kiwi` x*1*
   - `cocoa` x*2*

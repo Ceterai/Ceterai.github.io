@@ -1,6 +1,6 @@
 # Cryo Jam
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> **Cryo Jam** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-cryo.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> **Cryo Jam** is an uncommon dish.
 
 This izo jam turned out colder and purer than usual. Some say it tastes much better this way. Can be used as a substitute for izo jam.  
 Can also be used as a substitute for actual [izon](https://ceterai.github.io/MyEnternia/Wiki/izon), you're smart enough. Or brave enough.
@@ -10,15 +10,6 @@ Can also be used as a substitute for actual [izon](https://ceterai.github.io/MyE
 Species descriptions:
 
 - Alta: Better to not freeze myself by eating a cryo jam candy.
-
-## Parameters
-
-- Food Value: 24
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `energyregen` (55s)
 
 ## Usage
 
@@ -34,7 +25,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> Cryo Jam x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-cryo.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> Cryo Jam x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) x*2*
   - <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" width="8px" height="16px"> [Cryonic Extract](https://starbounder.org/Cryonic_Extract) x*1*
 

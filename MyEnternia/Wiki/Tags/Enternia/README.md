@@ -29,6 +29,6 @@ The tag `enternia` contains 15 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_entermace.png" alt="Entermace icon" loading="lazy" width="auto" height="16px"> [Entermace](https://ceterai.github.io/MyEnternia/Wiki/Entermace)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_enternia_augment.png" alt="Enternia Augment ★★ icon" loading="lazy" width="auto" height="16px"> [Enternia Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_enternia_cocktail.png" alt="Enternia Cocktail icon" loading="lazy" width="auto" height="16px"> [Enternia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCocktail)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/helmet/icon.png" alt="GR Animus Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [GR "Animus" Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/GRAnimusPrototype)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_helmet-enternia.png" alt="GR Animus Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [GR "Animus" Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/GRAnimusPrototype)
 
 </details>

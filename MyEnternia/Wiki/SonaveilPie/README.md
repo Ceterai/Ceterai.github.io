@@ -15,7 +15,7 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_pie-hug.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -30,7 +30,7 @@ Unlocks blueprints for:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_pie-hug.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> [Sona's Embrace ★★](https://ceterai.github.io/MyEnternia/Wiki/Sona'sEmbrace)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonasweet.png" alt="Sonasweet icon" loading="lazy" width="auto" height="16px"> [Sonasweet](https://ceterai.github.io/MyEnternia/Wiki/Sonasweet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sonaveil Pie ★ icon" loading="lazy" width="auto" height="16px"> [Sonaveil Pie ★](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPie)
@@ -42,6 +42,10 @@ Can be crafted:
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/prime/icon.png" alt="Verriskoywa Prime Grass icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Prime Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) x*1*
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*1*
+
+Can be bought from merchants:
+
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 
 Can be obtained from special items:
 

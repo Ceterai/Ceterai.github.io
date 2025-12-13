@@ -16,8 +16,8 @@ The tag `enhancer` contains 9 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"> [Hevikai Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStimPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" width="auto" height="16px"> [Impulse Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ImpulseStimPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_ionic_stim.png" alt="Ionic Stim Pack icon" loading="lazy" width="auto" height="16px"> [Ionic Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/IonicStimPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Light Stim Pack icon" loading="lazy" width="auto" height="16px"> [Light Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/LightStimPack)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_hevikai_stim-light.png" alt="Light Stim Pack icon" loading="lazy" width="auto" height="16px"> [Light Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/LightStimPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_plasma_stim.png" alt="Plasma Stim Pack icon" loading="lazy" width="auto" height="16px"> [Plasma Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/PlasmaStimPack)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_catalyst.png" alt="Repelling Stim Pack ★ icon" loading="lazy" width="auto" height="16px"> [Repelling Stim Pack ★](https://ceterai.github.io/MyEnternia/Wiki/RepellingStimPack)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_catalyst-repell.png" alt="Repelling Stim Pack ★ icon" loading="lazy" width="auto" height="16px"> [Repelling Stim Pack ★](https://ceterai.github.io/MyEnternia/Wiki/RepellingStimPack)
 
 </details>

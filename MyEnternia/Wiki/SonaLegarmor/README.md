@@ -1,6 +1,6 @@
 # Sona Legarmor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/legwear/icon.png" alt="Sona Legarmor ★ icon" loading="lazy" width="auto" height="16px"> **Sona Legarmor ★** is a rare leg armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_legwear-light.png" alt="Sona Legarmor ★ icon" loading="lazy" width="auto" height="16px"> **Sona Legarmor ★** is a rare leg armor piece.
 
 Warm, armored uniform bottoms usually used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) and [arknightss](https://ceterai.github.io/MyEnternia/Wiki/arknightss).  
 Mobility with a reasonable level of defense creates a great balance useful during rapid combat.

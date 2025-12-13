@@ -1,6 +1,6 @@
 # Virmakada
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Virmakada icon" loading="lazy" width="auto" height="16px"> **Virmakada** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonnakada-virma.png" alt="Virmakada icon" loading="lazy" width="auto" height="16px"> **Virmakada** is a common dish.
 
 A kada made out of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" width="auto" height="16px"> [aya virma](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma) ivy. Tastes nice until you realise that it fooled you. Again.  
 Soury virma cream and succulent juices make this an especially interesting dish to taste, including the tentacle parts.
@@ -10,15 +10,6 @@ Soury virma cream and succulent juices make this an especially interesting dish 
 Species descriptions:
 
 - Alta: But why though? I mean, it's tasty and everything, but, like, what if it comes alive?
-
-## Parameters
-
-- Food Value: 20
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (60s)
 
 ## Usage
 
@@ -33,7 +24,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Virmakada icon" loading="lazy" width="auto" height="16px"> Virmakada x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonnakada-virma.png" alt="Virmakada icon" loading="lazy" width="auto" height="16px"> Virmakada x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*4*
 

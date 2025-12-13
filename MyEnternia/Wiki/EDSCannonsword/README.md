@@ -25,12 +25,6 @@ A sequence of 4 _(+1)_ heavy strikes. Hold to perform a [rising slash](https://c
 
 Parameters:
 
-- Fire Time: 1.1
-- Hold Params:
-  - Cooldown Time: 0.2
-  - Energy Factor: 1.0
-- Base Dps: 12
-- Energy Usage: 32
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -53,6 +47,12 @@ Parameters:
 - Swoosh: `swoosh1`
 - Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
 - Swoosh Sound: `primary_hold`
+- Energy Usage: 32
+- Fire Time: 1.1
+- Hold Params:
+  - Cooldown Time: 0.2
+  - Energy Factor: 1.0
+- Base Dps: 12
 
 ### Elerune CDR Barrage
 
@@ -60,25 +60,25 @@ Launches stabilizing Ion Rockets that deal electric damage. _Press for 1 or hold
 
 Parameters:
 
-- Fire Time: 1.2
 - Hold Type: `blast`
-- Hold Params:
-  - Offset:  -0.75,  5.0
-  - Type: `ct_ionic_large`
-  - Interval: 0.1
-  - Count: 3
-  - Params:
-    - Time To Live: 5.0
-    - Knockback: 15
-- Base Dps: 9
-- Energy Usage: 36
 - Press Type: `blast`
+- Energy Usage: 36
 - Press Params:
   - Type: `ct_ionic_large`
   - Inaccuracy:
   - Params:
     - Time To Live: 5.0
   - Offset:  -0.45,  5.0
+- Fire Time: 1.2
+- Hold Params:
+  - Interval: 0.1
+  - Count: 3
+  - Params:
+    - Time To Live: 5.0
+    - Knockback: 15
+  - Type: `ct_ionic_large`
+  - Offset:  -0.75,  5.0
+- Base Dps: 9
 
 ## Sources
 

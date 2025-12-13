@@ -1,6 +1,6 @@
 # Yuri Deluxe ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"> **Yuri Deluxe ★** is a legendary drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yuri_cocktail-deluxe.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"> **Yuri Deluxe ★** is a legendary drink.
 
 You can't describe the emotions that fill you whenever you drink this. What is this?  
 This cocktail is blooming with typical love ingredients often used in certain dishes.
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"> Yuri Deluxe ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yuri_cocktail-deluxe.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"> Yuri Deluxe ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" width="auto" height="16px"> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) x*2*

@@ -1,6 +1,6 @@
 # Alta Lab Drone
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Lab Drone icon" loading="lazy" width="auto" height="16px"> **Alta Lab Drone** is a rare throwable item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ionic_drone-lab.png" alt="Alta Lab Drone icon" loading="lazy" width="auto" height="16px"> **Alta Lab Drone** is a rare throwable item.
 
 An advanced armored drone filled with enternia energy. Has ranged attacks and spreads ionized clouds.  
 This model is a direct upgrade to a once commonplace alta battle drone.

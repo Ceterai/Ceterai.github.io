@@ -1,6 +1,6 @@
 # Miko Honey
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Miko Honey icon" loading="lazy" width="auto" height="16px"> **Miko Honey** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-miko_honey.png" alt="Miko Honey icon" loading="lazy" width="auto" height="16px"> **Miko Honey** is an uncommon dish.
 
 An incredibly sweet honey made from a [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) extract. It's bright pink and it was made with love! Too bad you don't know any recipes that use it...  
 This herb-based honey can sweeten-up any dish, even if not intended, so be careful.
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Miko Honey icon" loading="lazy" width="auto" height="16px"> Miko Honey x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-miko_honey.png" alt="Miko Honey icon" loading="lazy" width="auto" height="16px"> Miko Honey x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*4*
 
 Can be bought from merchants:

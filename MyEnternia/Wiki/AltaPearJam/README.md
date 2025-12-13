@@ -1,8 +1,8 @@
 # Alta Pear Jam
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear Jam icon" loading="lazy" width="auto" height="16px"> **Alta Pear Jam** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear_jam.png" alt="Alta Pear Jam icon" loading="lazy" width="auto" height="16px"> **Alta Pear Jam** is a common dish.
 
-Moderately sweet jam with borderline liquid viscousity and small pieces of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [alta pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear) blending in with everything else.  
+Moderately sweet jam with borderline liquid viscousity and small pieces of <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [alta pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear) blending in with everything else.  
 Although alta pears are not particularly rare, they usually grow in very specific regions, making such jams pseudo-common in general.
 
 ## Ingame
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Pear Jam icon" loading="lazy" width="auto" height="16px"> Alta Pear Jam x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear_jam.png" alt="Alta Pear Jam icon" loading="lazy" width="auto" height="16px"> Alta Pear Jam x*1*):
   - `alienfruit` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*1*
 

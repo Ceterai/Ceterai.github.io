@@ -29,4 +29,4 @@ Can periodically provide following items as rent:
 - In-game ID: `ct_alta_christmas_tenant`
 - NPC type: `ct_alta_christmas_girl`
 - Priority: `12`
-- File: [`/tenants/alta/events/sonaveil/christmas.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/events/sonaveil/christmas.tenant)
+- File: [`/tenants/alta/events/sonaveil/merchants/christmas.tenant`](https://github.com/Ceterai/Enternia/blob/main/tenants/alta/events/sonaveil/merchants/christmas.tenant)

@@ -13,16 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 10
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="Jump Boost icon" loading="lazy" width="16px" height="16px"> [Jump Boost (Food)](https://starbounder.org/Jump_Boost) (125s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Pop ★ icon" loading="lazy" width="auto" height="16px"> [Aya Pop ★](https://ceterai.github.io/MyEnternia/Wiki/AyaPop) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_candy-pop.png" alt="Aya Pop ★ icon" loading="lazy" width="auto" height="16px"> [Aya Pop ★](https://ceterai.github.io/MyEnternia/Wiki/AyaPop) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
@@ -30,10 +23,10 @@ Other variants:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Estralis Extract icon" loading="lazy" width="auto" height="16px"> [Estralis Extract](https://ceterai.github.io/MyEnternia/Wiki/EstralisExtract)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_jam-sap.png" alt="Estralis Extract icon" loading="lazy" width="auto" height="16px"> [Estralis Extract](https://ceterai.github.io/MyEnternia/Wiki/EstralisExtract)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"> [Runeva Jam](https://ceterai.github.io/MyEnternia/Wiki/RunevaJam)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Virma Honey icon" loading="lazy" width="auto" height="16px"> [Virma Honey](https://ceterai.github.io/MyEnternia/Wiki/VirmaHoney)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_jam-runeva.png" alt="Runeva Jam icon" loading="lazy" width="auto" height="16px"> [Runeva Jam](https://ceterai.github.io/MyEnternia/Wiki/RunevaJam)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_jam-honey.png" alt="Virma Honey icon" loading="lazy" width="auto" height="16px"> [Virma Honey](https://ceterai.github.io/MyEnternia/Wiki/VirmaHoney)
 
 </details>
 

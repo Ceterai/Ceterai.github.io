@@ -13,17 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 60
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (120s)
-- `runboostfood` (120s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_dinner-caretaker.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -45,11 +37,11 @@ Can be used to craft:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Calin Chip Cookies icon" loading="lazy" width="auto" height="16px"> [Calin Chip Cookies](https://ceterai.github.io/MyEnternia/Wiki/CalinChipCookies)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Candy Cookies ★ icon" loading="lazy" width="auto" height="16px"> [Candy Cookies ★](https://ceterai.github.io/MyEnternia/Wiki/CandyCookies)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_cookies-calin.png" alt="Calin Chip Cookies icon" loading="lazy" width="auto" height="16px"> [Calin Chip Cookies](https://ceterai.github.io/MyEnternia/Wiki/CalinChipCookies)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_cookies-candy.png" alt="Candy Cookies ★ icon" loading="lazy" width="auto" height="16px"> [Candy Cookies ★](https://ceterai.github.io/MyEnternia/Wiki/CandyCookies)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" width="auto" height="16px"> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> [Exotic Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ExoticTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Mint-Tsay Tea icon" loading="lazy" width="auto" height="16px"> [Mint-Tsay Tea](https://ceterai.github.io/MyEnternia/Wiki/Mint-TsayTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_vermont_tea-exotic.png" alt="Exotic Tea ★ icon" loading="lazy" width="auto" height="16px"> [Exotic Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ExoticTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_vermont_tea-tsay.png" alt="Mint-Tsay Tea icon" loading="lazy" width="auto" height="16px"> [Mint-Tsay Tea](https://ceterai.github.io/MyEnternia/Wiki/Mint-TsayTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_vermont_tea.png" alt="Vermont Tea icon" loading="lazy" width="auto" height="16px"> [Vermont Tea](https://ceterai.github.io/MyEnternia/Wiki/VermontTea)
 
 </details>

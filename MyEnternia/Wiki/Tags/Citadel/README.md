@@ -21,7 +21,7 @@ Following tenants require this colony tag:
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 9 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Alta Citadel Drone ★★★ icon" loading="lazy" width="auto" height="16px"> [Alta Citadel Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadelDrone)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ionic_drone-neon.png" alt="Alta Citadel Drone ★★★ icon" loading="lazy" width="auto" height="16px"> [Alta Citadel Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadelDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"> [Alta Citadels ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/defensive.png" alt="EDS Defensive Droid ★★ icon" loading="lazy" width="auto" height="16px"> [EDS Defensive Droid ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDroid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/defensive.png" alt="EDS Defensive Drone ★ icon" loading="lazy" width="auto" height="16px"> [EDS Defensive Drone ★](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDrone)

@@ -27,8 +27,8 @@ The clover concentrates its power on the ends of the petals, making them more ye
 
 Parameters:
 
-- Fire Time: 0.9
 - Base Dps: 6
+- Fire Time: 0.9
 - Damage Config:
   - Knockback: 25
   - Item Bonus:

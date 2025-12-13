@@ -13,18 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 45
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- `runboostfood` (210s)
-- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="Jump Boost icon" loading="lazy" width="16px" height="16px"> [Jump Boost (Food)](https://starbounder.org/Jump_Boost) (210s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (210s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Banquet icon" loading="lazy" width="auto" height="16px"> [Fival'do Banquet](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_fivaldo_salad-banquet.png" alt="Fival'do Banquet ★ icon" loading="lazy" width="auto" height="16px"> [Fival'do Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -46,10 +37,10 @@ Can be used to craft:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Dreamer's Tea icon" loading="lazy" width="auto" height="16px"> [Dreamer's Tea](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_assorti-salad.png" alt="Aya-Tsay Salad ★ icon" loading="lazy" width="auto" height="16px"> [Aya-Tsay Salad ★](https://ceterai.github.io/MyEnternia/Wiki/Aya-TsaySalad)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-dreamer.png" alt="Dreamer's Tea icon" loading="lazy" width="auto" height="16px"> [Dreamer's Tea](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" width="auto" height="16px"> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-koywa.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise)
 
 </details>
 

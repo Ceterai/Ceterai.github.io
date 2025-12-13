@@ -1,6 +1,6 @@
 # Ayabaycalin Punch ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"> **Ayabaycalin Punch ★** is a rare drink.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-ayaka.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"> **Ayabaycalin Punch ★** is a rare drink.
 
 A mistery mixture that takes a fresh turn on the heecho punch.  
 An exciting twist that makes a punch enjoyable with changing it too much. This one is also a shorter blend and has a slightly thicker texture compared to the original.
@@ -10,16 +10,6 @@ An exciting twist that makes a punch enjoyable with changing it too much. This o
 Species descriptions:
 
 - Alta: This is what happens when a friend making this decides to experiment with it a bit, and it's pretty delicious.
-
-## Parameters
-
-- Food Value: 26
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals) (260s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (20%)](https://starbounder.org/Status_Effects#Stat_Boosts) (260s)
 
 ## Usage
 
@@ -36,7 +26,7 @@ Unlocks blueprints for:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"> Ayabaycalin Punch ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-ayaka.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"> Ayabaycalin Punch ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_biomix_icecream.png" alt="Biomix Ice Cream icon" loading="lazy" width="auto" height="16px"> [Biomix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/BiomixIceCream) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*2*
@@ -58,5 +48,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - Level: `5`
 - Power: `1.0`
 - Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`punch`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Punch), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`punch`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Punch), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/tier3/ct_heecho_punch.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier3/ct_heecho_punch.consumable)

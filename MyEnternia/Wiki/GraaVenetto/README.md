@@ -1,6 +1,6 @@
 # Graa Venetto
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Graa Venetto icon" loading="lazy" width="auto" height="16px"> **Graa Venetto** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-graa_venetto.png" alt="Graa Venetto icon" loading="lazy" width="auto" height="16px"> **Graa Venetto** is a legendary dish.
 
 A pleasant dish with a layered cake-like mixture with [yukva](https://ceterai.github.io/MyEnternia/Wiki/yukva) cream and [koywa bread](https://ceterai.github.io/MyEnternia/Wiki/koywabread), with roasted [archulin](https://ceterai.github.io/MyEnternia/Wiki/archulin) paste base.  
 This complicated dish smells similar to roasted vegetables. The cake part is meant to be eaten together with paste, dipped in it slightly.
@@ -24,7 +24,7 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Graa Venetto icon" loading="lazy" width="auto" height="16px"> Graa Venetto x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-graa_venetto.png" alt="Graa Venetto icon" loading="lazy" width="auto" height="16px"> Graa Venetto x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*

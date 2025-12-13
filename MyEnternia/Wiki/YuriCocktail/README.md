@@ -15,15 +15,15 @@ Species descriptions:
 
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"> [Yuri Deluxe ★](https://ceterai.github.io/MyEnternia/Wiki/YuriDeluxe) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yuri_cocktail-deluxe.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"> [Yuri Deluxe ★](https://ceterai.github.io/MyEnternia/Wiki/YuriDeluxe) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" width="auto" height="16px"> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Vitamin Tea ★ icon" loading="lazy" width="auto" height="16px"> [Vitamin Tea ★](https://ceterai.github.io/MyEnternia/Wiki/VitaminTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"> [Yae Tea ★](https://ceterai.github.io/MyEnternia/Wiki/YaeTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_miko_tea-vitamin.png" alt="Vitamin Tea ★ icon" loading="lazy" width="auto" height="16px"> [Vitamin Tea ★](https://ceterai.github.io/MyEnternia/Wiki/VitaminTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_miko_tea-yae.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"> [Yae Tea ★](https://ceterai.github.io/MyEnternia/Wiki/YaeTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 
 Can be crafted:

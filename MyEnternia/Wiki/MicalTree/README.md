@@ -52,7 +52,7 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/4/43/Geode.png" alt="Geode icon" loading="lazy" width="12px" height="11px"> [Geode](https://starbounder.org/Geode) x*4*
   - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*4*
   - <img src="https://starbounder.org/mediawiki/images/2/23/Obsidian.png" alt="Obsidian icon" loading="lazy" width="10px" height="10px"> [Obsidian](https://starbounder.org/Obsidian) x*4*
-  - `liquidlava` x*4*
+  - <img src="https://starbounder.org/mediawiki/images/2/27/Lava.png" alt="Lava icon" loading="lazy" width="16px" height="16px"> [Lava](https://starbounder.org/Lava) x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer) x*1*
 
 Can be bought from merchants:

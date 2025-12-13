@@ -13,18 +13,9 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 35
-- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
-
-Applies effects:
-
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (180s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (180s)
-- `lightaugment2` (180s)
-
 Other variants:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Perfect Rimar Motsu icon" loading="lazy" width="auto" height="16px"> [Perfect Rimar Motsu](https://ceterai.github.io/MyEnternia/Wiki/PerfectRimarMotsu) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_rimar_motsu-perfect.png" alt="Perfect Rimar Motsu ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Rimar Motsu ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectRimarMotsu) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))
 
 ## Usage
 
@@ -45,13 +36,13 @@ Can be used to craft:
 <details markdown="1"><summary>Blueprint unlocked by obtaining: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Caretaker's Ometonna ★ icon" loading="lazy" width="auto" height="16px"> [Caretaker's Ometonna ★](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sOmetonna)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Ceternia Tea ★ icon" loading="lazy" width="auto" height="16px"> [Ceternia Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Ciranga Tea icon" loading="lazy" width="auto" height="16px"> [Ciranga Tea](https://ceterai.github.io/MyEnternia/Wiki/CirangaTea)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> [Gheamont ★](https://ceterai.github.io/MyEnternia/Wiki/Gheamont)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ometonna-caretaker.png" alt="Caretaker's Ometonna ★ icon" loading="lazy" width="auto" height="16px"> [Caretaker's Ometonna ★](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sOmetonna)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaara_tea-ceternia.png" alt="Ceternia Tea ★ icon" loading="lazy" width="auto" height="16px"> [Ceternia Tea ★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gheatsyn_tea-alien.png" alt="Ciranga Tea icon" loading="lazy" width="auto" height="16px"> [Ciranga Tea](https://ceterai.github.io/MyEnternia/Wiki/CirangaTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gheatsyn_tea-gheamont.png" alt="Gheamont ★ icon" loading="lazy" width="auto" height="16px"> [Gheamont ★](https://ceterai.github.io/MyEnternia/Wiki/Gheamont)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheatsyn Tea icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Tea](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" width="auto" height="16px"> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaara_tea-viona.png" alt="Viona Tea icon" loading="lazy" width="auto" height="16px"> [Viona Tea](https://ceterai.github.io/MyEnternia/Wiki/VionaTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" width="auto" height="16px"> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
 
 </details>

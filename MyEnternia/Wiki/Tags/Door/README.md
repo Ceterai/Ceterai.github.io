@@ -1,6 +1,6 @@
 # Door Tag
 
-The tag `door` contains 204 total entries.
+The tag `door` contains 206 total entries.
 
 ## Objects
 
@@ -38,7 +38,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 181 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 183 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -143,6 +143,8 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 - [Alta Social Worker](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker)
 - [Alta Solarium Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaSolariumProtecta)
 - [Alta Soldier](https://ceterai.github.io/MyEnternia/Wiki/AltaSoldier)
+- [Alta Sonaveil Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilGirl)
+- [Alta Sonaveil Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaSonaveilMerchant)
 - [Alta Spooky Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaSpookyGirl)
 - [Alta Stone Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaStoneGardener)
 - [Alta Supervisor](https://ceterai.github.io/MyEnternia/Wiki/AltaSupervisor)

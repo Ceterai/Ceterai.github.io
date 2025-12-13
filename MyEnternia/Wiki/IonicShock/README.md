@@ -4,12 +4,6 @@
 
 Repeatedly damages you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) electricity. Having <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionicblockade.png" alt="icon" width="16" height="16"/> [ionic immunity](https://ceterai.github.io/MyEnternia/Wiki/Enternia#immunity) blocks the effect, <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Immunity](https://starbounder.org/Electric_Resistance) minimizes the damage, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) increases the damage.
 
-Applied by following items:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> [Zandarm Prime ★](https://ceterai.github.io/MyEnternia/Wiki/ZandarmPrime)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" width="auto" height="16px"> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
-
 Applied by following weather:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_ionic_rain.png" alt="Ionic Rain icon" loading="lazy" width="auto" height="16px"> [Ionic Rain](https://ceterai.github.io/MyEnternia/Wiki/IonicRain)

@@ -21,18 +21,18 @@ Enhanced pulses with higher damage output.
 
 Parameters:
 
-- Fire Time: 0.2
 - Hold Type: `blast`
+- Hold Time Max: 0.75
+- Press Type: `semi`
+- Energy Usage: 16
+- Press Params:
+  - Type: `ct_impulse_small`
+  - Inaccuracy: 0.01
+- Fire Time: 0.2
 - Hold Params:
   - Type: `ct_impulse_medium`
   - Inaccuracy: 0.01
 - Base Dps: 4
-- Energy Usage: 16
-- Press Type: `semi`
-- Hold Time Max: 0.75
-- Press Params:
-  - Type: `ct_impulse_small`
-  - Inaccuracy: 0.01
 
 ## Sources
 

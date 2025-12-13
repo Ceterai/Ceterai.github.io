@@ -1,6 +1,6 @@
 # Ayaka Dart
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Ayaka Dart icon" loading="lazy" width="auto" height="16px"> **Ayaka Dart** is a common throwable item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_proj_mimic-dart.png" alt="Ayaka Dart icon" loading="lazy" width="auto" height="16px"> **Ayaka Dart** is a common throwable item.
 
 A simple toy dart that you can throw at a target. Or horibly miss it instead, whatever.  
 Usually manufactured in batches, these are commonly sold in entertainment stores with small safety protocols, even if classified as non-lethal.

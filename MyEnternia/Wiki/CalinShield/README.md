@@ -5,7 +5,7 @@
 A shield made of charged crystals with a sharpened surface. Pulsating energy stuggers any attackers on impact.  
 It overwhelmes the shield's body, smoothing its texture yet gripping it to your hand, making the grab sturdier and more certain.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Crystal Heart ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Heart ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalHeart) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calin_shield-upgrade.png" alt="Crystal Heart ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Heart ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalHeart) at the Weapon Upgrade Anvil.
 
 ## Ingame
 

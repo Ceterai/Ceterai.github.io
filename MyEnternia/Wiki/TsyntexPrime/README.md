@@ -26,24 +26,24 @@ Now packing a special accelerator module ran on stardust, it speeds up tsyntex s
 
 Parameters:
 
-- Fire Time: 0.1
 - Hold Type: `semi`
+- Hold Time Max: 0.45
+- Press Type: `semi`
+- Energy Usage: 16
+- Press Params:
+  - Type: `ct_impulse_small`
+  - Inaccuracy: 0.04
+  - Count: 4
+- Fire Time: 0.1
 - Hold Params:
-  - Count: 2
   - Type: `ct_gheatsyn_charge`
   - Item Bonus:
     - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
     - Damage Factor: 0.002
     - Max: 300
   - Inaccuracy: 0.01
+  - Count: 2
 - Base Dps: 4
-- Energy Usage: 16
-- Press Type: `semi`
-- Hold Time Max: 0.45
-- Press Params:
-  - Count: 4
-  - Type: `ct_impulse_small`
-  - Inaccuracy: 0.04
 
 ## Sources
 

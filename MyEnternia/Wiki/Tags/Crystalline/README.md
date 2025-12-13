@@ -34,9 +34,9 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Crystalline]
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Cave Keeper ★ icon" loading="lazy" width="auto" height="16px"> [Cave Keeper ★](https://ceterai.github.io/MyEnternia/Wiki/CaveKeeper)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-upgrade.png" alt="Cave Keeper ★ icon" loading="lazy" width="auto" height="16px"> [Cave Keeper ★](https://ceterai.github.io/MyEnternia/Wiki/CaveKeeper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Razor ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalRazor)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystalline Jam icon" loading="lazy" width="auto" height="16px"> [Crystalline Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystallineJam)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_jam-calline.png" alt="Crystalline Jam icon" loading="lazy" width="auto" height="16px"> [Crystalline Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystallineJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" width="auto" height="16px"> [Crystalline Prime Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrimeLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" width="auto" height="16px"> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" width="auto" height="16px"> [Crystalline Sword](https://ceterai.github.io/MyEnternia/Wiki/CrystallineSword)

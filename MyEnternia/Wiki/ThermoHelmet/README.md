@@ -1,9 +1,9 @@
 # Thermo Helmet ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="Thermo Helmet ★ icon" loading="lazy" width="auto" height="16px"> **Thermo Helmet ★** is an uncommon head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_helmet-koywa.png" alt="Thermo Helmet ★ icon" loading="lazy" width="auto" height="16px"> **Thermo Helmet ★** is an uncommon head armor piece.
 
 A power ranger helmet often used by riverside alta scouts.  
-Similar to the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/mask_mk2/icon.png" alt="Thermoscreen ★ icon" loading="lazy" width="auto" height="16px"> [thermoscreen](https://ceterai.github.io/MyEnternia/Wiki/Thermoscreen), this helmet is equipped with thermodetective technology.
+Similar to the <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_mask_mk2-koywa.png" alt="Thermoscreen ★ icon" loading="lazy" width="auto" height="16px"> [thermoscreen](https://ceterai.github.io/MyEnternia/Wiki/Thermoscreen), this helmet is equipped with thermodetective technology.
 
 ## Ingame
 

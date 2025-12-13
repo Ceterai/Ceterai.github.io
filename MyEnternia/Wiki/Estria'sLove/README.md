@@ -1,6 +1,6 @@
 # Estria's Love ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Estria's Love ★ icon" loading="lazy" width="auto" height="16px"> **Estria's Love ★** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-estria_love.png" alt="Estria's Love ★ icon" loading="lazy" width="auto" height="16px"> **Estria's Love ★** is a legendary dish.
 
 This cake was prepared following [Estria](https://ceterai.github.io/MyEnternia/Wiki/Estria)'s personal recipe. It's fuming with "love". Make sure not to eat too much, for your own sake.  
 A perfect gift to a love partner. Make sure to eat a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> ["sentia's crown" pie](https://ceterai.github.io/MyEnternia/Wiki/Sentia'sCrownPie) afterwards and wash it down with some <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" width="auto" height="16px"> [miko tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea).
@@ -19,7 +19,7 @@ Species descriptions:
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Estria's Love ★ icon" loading="lazy" width="auto" height="16px"> Estria's Love ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-estria_love.png" alt="Estria's Love ★ icon" loading="lazy" width="auto" height="16px"> Estria's Love ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/miko/icon.png" alt="Verriskoywa Miko Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Miko Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) x*4*
   - `sugar` x*4*

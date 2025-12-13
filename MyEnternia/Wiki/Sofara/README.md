@@ -62,7 +62,7 @@ Can be crafted:
   - `giantflowerpetal` x*8*
   - <img src="https://starbounder.org/mediawiki/images/c/c8/Living_Root.png" alt="Living Root icon" loading="lazy" width="14px" height="13px"> [Living Root](https://starbounder.org/Living_Root) x*1*
   - <img src="https://starbounder.org/mediawiki/images/e/eb/Granite_Rock.png" alt="Granite Rock icon" loading="lazy" width="12px" height="12px"> [Granite Rock](https://starbounder.org/Granite_Rock) x*1*
-  - `liquidlava` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/2/27/Lava.png" alt="Lava icon" loading="lazy" width="16px" height="16px"> [Lava](https://starbounder.org/Lava) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer) x*1*
 
 Can be bought from merchants:
