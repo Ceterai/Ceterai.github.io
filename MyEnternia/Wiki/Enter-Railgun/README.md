@@ -1,6 +1,6 @@
 # Enter-Railgun ★★
 
- **Enter-Railgun ★★** is a legendary electric sniper rifle.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-railgun.png" alt="Enter-Railgun ★★ icon" loading="lazy" width="auto" height="16px"> **Enter-Railgun ★★** is a legendary two-handed electric sniper rifle.
 
 Dreamers hunting on ethereal nightmares of enterash often use means of appropriate size, no matter the limits...  
 The markings on the side mention Avida - possibly a dreamer, or an alta recearcher who created this tool.
@@ -23,8 +23,17 @@ Creates powerful ionic charges able to quickly travel on significant distances t
 
 Parameters:
 
-- Base Dps: 10
 - Energy Usage: 40
+- Projectile Parameters:
+  - Knockback: 40
+  - Speed: 100
+  - Status Effects:  <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified)
+- Projectile Count: 1
+- Projectile Type: `railgunlightning`
+- Fire Type: `auto`
+- Fire Time: 1.5
+- Inaccuracy: 0.008
+- Base Dps: 10
 
 ### Avida's Mark
 
@@ -34,7 +43,7 @@ Markes the taget to assist in aiming. Pretty useful with such a heavy thing.
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs  Enter-Railgun ★★ x*1*):
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-railgun.png" alt="Enter-Railgun ★★ icon" loading="lazy" width="auto" height="16px"> Enter-Railgun ★★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" width="auto" height="16px"> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere) x*3*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*

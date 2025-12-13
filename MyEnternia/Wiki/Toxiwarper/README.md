@@ -1,8 +1,10 @@
 # Toxiwarper ★
 
- **Toxiwarper ★** is a legendary poisonous unique weapon.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/tentaclegun/wormgun_l6.png" alt="Toxiwarper ★ icon" loading="lazy" width="auto" height="16px"> **Toxiwarper ★** is a legendary two-handed poisonous unique weapon.
 
 A full on creature that you can wear on your hand. Be careful - its tentacles are pretty venomous...
+
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/tentaclegun/wormgun.png" alt="Venomous Warper icon" loading="lazy" width="auto" height="16px"> [Venomous Warper](https://ceterai.github.io/MyEnternia/Wiki/VenomousWarper).
 
 ## Ingame
 
@@ -14,9 +16,59 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 ## Parameters
 
-### Venomous Kiss
+### Primary Ability
 
-Exposes its tentacles one by one, each touch equally dangerous.
+Main ability of the item, activated with left mouse button.
+
+Parameters:
+
+- Max Length: 20
+- Energy Usage: 40
+- Max Projectiles: 10
+- Projectile Parameters:
+  - Knockback: 5
+  - Speed: 40
+  - Time To Live: 10
+- Chain:
+  - Taper: 0.5
+  - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
+  - End Segment Image: `/items/active/weapons/other/tentaclegun/wormend.png`
+  - Segment Size: 1.0
+- Projectile Type: `invisibletentaclefist`
+- Guide Projectiles: `True`
+- Fire Time: 0.2
+- Inaccuracy: 0.01
+- Base Dps: 6.0
+
+### Secondary Ability
+
+Alternative ability of the item, activated with right mouse button.
+
+Parameters:
+
+- Chain:
+  - Taper: 0.5
+  - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
+  - End Segment Image: `/items/active/weapons/other/tentaclegun/wormend.png`
+  - Segment Size: 1.0
+- Guide Projectiles:
+- Base Dps: 8.0
+- Fire Time: 2.0
+- Max Projectiles: 20
+- Energy Usage: 28
+- Inaccuracy: 3.14
+- Fire Sound: `altFire`
+- Projectile Count: 20
+- Projectile Type: `invisibletentaclefistnosound`
+- Projectile Tracks User: `True`
+- Projectile Parameters:
+  - Knockback: 40
+  - Knockback Directional: `True`
+  - Speed: 20
+  - Ignore Terrain:
+  - Bounces: 4
+  - Time To Live: 10
+  - Min Velocity: 10
 
 ## Sources
 
@@ -24,7 +76,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 
 ## Technical Information
 
-- In-game ID: `ct_tool_mimic-upgrade`
+- In-game ID: `ct_tool_mimic-warper-upgrade`
 - Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`

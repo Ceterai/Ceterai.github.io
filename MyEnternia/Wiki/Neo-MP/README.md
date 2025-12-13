@@ -1,6 +1,6 @@
 # Neo-MP ★
 
- **Neo-MP ★** is a legendary poisonous machine gun.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/unrand/neouzi/neouzi.png" alt="Neo-MP ★ icon" loading="lazy" width="auto" height="16px"> **Neo-MP ★** is a rare one-handed poisonous machine gun.
 
 A neo model fuzed with alta tech an various protocols. Its batteries generate plasma with high levels of acidity.
 
@@ -16,6 +16,17 @@ Radiomessages on pickup:
 
 Rapid fire of elemental projectiles that leave a negative effect on the target.
 
+Parameters:
+
+- Muzzle Flash Variants: 1
+- Energy Usage: 20
+- Projectile Count: 1
+- Projectile Type: `neotommygunbullet`
+- Fire Type: `auto`
+- Fire Time: 0.13
+- Inaccuracy: 0.05
+- Base Dps: 6.5
+
 ## Sources
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).
@@ -25,6 +36,6 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_tool_mimic-neo_mp`
 - Level: `6`
 - Power: `3.85`
-- Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`machinepistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Machinepistol), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`machinepistol`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Machinepistol), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/buildscripts/ct_mimics/tool.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/tool.activeitem)

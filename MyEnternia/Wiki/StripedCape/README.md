@@ -1,6 +1,6 @@
 # Striped Cape
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Striped Cape icon" loading="lazy" width="auto" height="16px"> **Striped Cape** is a rare back cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/backitems/rainbowcape/rainbowcapebackicon.png" alt="Striped Cape icon" loading="lazy" width="auto" height="16px"> **Striped Cape** is a rare back cosmetic item.
 
 An alta cape with colored stripes used mainly for insignias and other faction markings. Made from flexible bion compounds.  
 While not a very popular option for alta uniforms, it's a personal fashionable choice for many altas.
@@ -21,10 +21,10 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Striped Cape icon" loading="lazy" width="auto" height="16px"> Striped Cape x*1*):
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/backitems/rainbowcape/rainbowcapebackicon.png" alt="Striped Cape icon" loading="lazy" width="auto" height="16px"> Striped Cape x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*4*
   - <img src="https://starbounder.org/mediawiki/images/c/c1/Red_Dye.png" alt="Red Dye icon" loading="lazy" width="8px" height="12px"> [Red Dye](https://starbounder.org/Red_Dye) x*1*
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Striped Cape icon" loading="lazy" width="auto" height="16px"> Striped Cape x*1*):
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/backitems/rainbowcape/rainbowcapebackicon.png" alt="Striped Cape icon" loading="lazy" width="auto" height="16px"> Striped Cape x*1*):
   - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk) x*2*
 
 Can be bought from merchants:

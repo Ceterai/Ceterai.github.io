@@ -1,6 +1,6 @@
 # Eds Tag
 
-The tag `eds` contains 70 total entries.
+The tag `eds` contains 71 total entries.
 
 ## Objects
 
@@ -48,7 +48,7 @@ The tag `eds` contains 70 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 40 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 41 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng_2.png" alt="Double Point MNG ★ icon" loading="lazy" width="auto" height="16px"> [Double Point MNG ★](https://ceterai.github.io/MyEnternia/Wiki/DoublePointMNG)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_eds_ai_chip.png" alt="EDS A.I. Chip ★ icon" loading="lazy" width="auto" height="16px"> [EDS A.I. Chip ★](https://ceterai.github.io/MyEnternia/Wiki/EDSA.I.Chip)
@@ -72,7 +72,7 @@ The tag `eds` contains 70 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/dyes/alta/ct_eds_dye.png" alt="EDS Dye icon" loading="lazy" width="auto" height="16px"> [EDS Dye](https://ceterai.github.io/MyEnternia/Wiki/EDSDye)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate.png" alt="EDS Frigate Drone ★★★ icon" loading="lazy" width="auto" height="16px"> [EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EDSFrigateDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/eds.png" alt="EDS Glowstick icon" loading="lazy" width="auto" height="16px"> [EDS Glowstick](https://ceterai.github.io/MyEnternia/Wiki/EDSGlowstick)
-- [EDS Heavy Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSHeavyBlaster)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy.png" alt="EDS Heavy Blaster ★★ icon" loading="lazy" width="auto" height="16px"> [EDS Heavy Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSHeavyBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" width="auto" height="16px"> [EDS Helmet](https://ceterai.github.io/MyEnternia/Wiki/EDSHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="EDS Loot Crate icon" loading="lazy" width="auto" height="16px"> [EDS Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EDSLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet_mk2/icon.png" alt="EDS MkII Helmet ★★ icon" loading="lazy" width="auto" height="16px"> [EDS MkII Helmet ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSMkIIHelmet)
@@ -90,5 +90,6 @@ The tag `eds` contains 70 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_eds_one.png" alt="EDS-One ★ icon" loading="lazy" width="auto" height="16px"> [EDS-One ★](https://ceterai.github.io/MyEnternia/Wiki/EDS-One)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" width="auto" height="16px"> [Empty EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmptyEDSFrigateDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"> [Minidrone](https://ceterai.github.io/MyEnternia/Wiki/Minidrone)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy-upgrade.png" alt="Vermillion ★★★ icon" loading="lazy" width="auto" height="16px"> [Vermillion ★★★](https://ceterai.github.io/MyEnternia/Wiki/Vermillion)
 
 </details>

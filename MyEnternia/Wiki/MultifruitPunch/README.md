@@ -1,6 +1,6 @@
 # Multifruit Punch
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-multi_punch.png" alt="Multifruit Punch icon" loading="lazy" width="auto" height="16px"> **Multifruit Punch** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-multi_punch.png" alt="Multifruit Punch icon" loading="lazy" width="auto" height="16px"> **Multifruit Punch** is a rare drink.
 
 Some freshly made fruit multipunch. Wait, no.  
 Just pick your favourite fruits and throw them into a mixer! Oh, apparently you also need to be pretty skilled at it.
@@ -14,6 +14,21 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 25
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- `runboostfood` (248s)
+- <img src="https://starbounder.org/mediawiki/images/8/85/Status_Jump_Boost_2.png" alt="Jump Boost icon" loading="lazy" width="16px" height="16px"> [Jump Boost (Food)](https://starbounder.org/Jump_Boost) (248s)
+
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- `fruitsalad`
+- `tropicalpunch`
 
 ## Sources
 

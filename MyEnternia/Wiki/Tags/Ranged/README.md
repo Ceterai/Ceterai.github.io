@@ -1,6 +1,6 @@
 # Ranged Tag
 
-The tag `ranged` contains 97 total entries.
+The tag `ranged` contains 102 total entries.
 
 ## Objects
 
@@ -8,10 +8,11 @@ The tag `ranged` contains 97 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 97 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 102 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/basic/icon.png" alt="Alta Bow icon" loading="lazy" width="auto" height="16px"> [Alta Bow](https://ceterai.github.io/MyEnternia/Wiki/AltaBow)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/body.png:default.1" alt="Alta Firework Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Firework Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaFireworkCannon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"> [Alta Flare Blaster](https://ceterai.github.io/MyEnternia/Wiki/AltaFlareBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_grass_blaster.png" alt="Alta Grass Blaster ★★ icon" loading="lazy" width="auto" height="16px"> [Alta Grass Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/AltaGrassBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon.png" alt="Alta Harpooner icon" loading="lazy" width="auto" height="16px"> [Alta Harpooner](https://ceterai.github.io/MyEnternia/Wiki/AltaHarpooner)
@@ -23,23 +24,24 @@ The tag `ranged` contains 97 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_bipolaris.png" alt="Bipolaris ★ icon" loading="lazy" width="auto" height="16px"> [Bipolaris ★](https://ceterai.github.io/MyEnternia/Wiki/Bipolaris)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun_2.png" alt="Bishyn Cannon ★ icon" loading="lazy" width="auto" height="16px"> [Bishyn Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/BishynCannon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png" alt="Bishyn Gun icon" loading="lazy" width="auto" height="16px"> [Bishyn Gun](https://ceterai.github.io/MyEnternia/Wiki/BishynGun)
-- [Boomerang](https://ceterai.github.io/MyEnternia/Wiki/Boomerang)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/boomerang/boomerang.png" alt="Boomerang icon" loading="lazy" width="auto" height="16px"> [Boomerang](https://ceterai.github.io/MyEnternia/Wiki/Boomerang)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_brontor.png" alt="Brontor icon" loading="lazy" width="auto" height="16px"> [Brontor](https://ceterai.github.io/MyEnternia/Wiki/Brontor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/celestial_bow/icon.png" alt="Celestial Bow icon" loading="lazy" width="auto" height="16px"> [Celestial Bow](https://ceterai.github.io/MyEnternia/Wiki/CelestialBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon.png" alt="Composite Bow icon" loading="lazy" width="auto" height="16px"> [Composite Bow](https://ceterai.github.io/MyEnternia/Wiki/CompositeBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon.png" alt="Composite Hunter icon" loading="lazy" width="auto" height="16px"> [Composite Hunter](https://ceterai.github.io/MyEnternia/Wiki/CompositeHunter)
-- [Cryonic Blaster ★](https://ceterai.github.io/MyEnternia/Wiki/CryonicBlaster)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-cryo.png" alt="Cryonic Blaster ★ icon" loading="lazy" width="auto" height="16px"> [Cryonic Blaster ★](https://ceterai.github.io/MyEnternia/Wiki/CryonicBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng_2.png" alt="Double Point MNG ★ icon" loading="lazy" width="auto" height="16px"> [Double Point MNG ★](https://ceterai.github.io/MyEnternia/Wiki/DoublePointMNG)
-- [EDS Heavy Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSHeavyBlaster)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy.png" alt="EDS Heavy Blaster ★★ icon" loading="lazy" width="auto" height="16px"> [EDS Heavy Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSHeavyBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_eds_mng.png" alt="EDS MNG icon" loading="lazy" width="auto" height="16px"> [EDS MNG](https://ceterai.github.io/MyEnternia/Wiki/EDSMNG)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_eds_one.png" alt="EDS-One ★ icon" loading="lazy" width="auto" height="16px"> [EDS-One ★](https://ceterai.github.io/MyEnternia/Wiki/EDS-One)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Enal'Nia ★★ icon" loading="lazy" width="auto" height="16px"> [Enal'Nia ★★](https://ceterai.github.io/MyEnternia/Wiki/Enal'Nia)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" width="auto" height="16px"> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Pulser ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedPulser)
-- [Energo-Orbit ★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Orbit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/chakram/neochakram_l6.png" alt="Energo-Aperture ★★ icon" loading="lazy" width="auto" height="16px"> [Energo-Aperture ★★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Aperture)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/chakram/neochakram.png" alt="Energo-Orbit ★ icon" loading="lazy" width="auto" height="16px"> [Energo-Orbit ★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Orbit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon_upg.png" alt="Enhanced Bow ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Bow ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon_upg.png" alt="Enhanced Harpooner ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Harpooner ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedHarpooner)
-- [Enter-Railgun ★★](https://ceterai.github.io/MyEnternia/Wiki/Enter-Railgun)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-railgun.png" alt="Enter-Railgun ★★ icon" loading="lazy" width="auto" height="16px"> [Enter-Railgun ★★](https://ceterai.github.io/MyEnternia/Wiki/Enter-Railgun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_entropy.png" alt="Entropy ★ icon" loading="lazy" width="auto" height="16px"> [Entropy ★](https://ceterai.github.io/MyEnternia/Wiki/Entropy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" width="auto" height="16px"> [Estralis Vi](https://ceterai.github.io/MyEnternia/Wiki/EstralisVi)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma_2.png" alt="Estralis Vyurm ★ icon" loading="lazy" width="auto" height="16px"> [Estralis Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/EstralisVyurm)
@@ -68,10 +70,10 @@ The tag `ranged` contains 97 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" width="auto" height="16px"> [Isoblaster Prime ★](https://ceterai.github.io/MyEnternia/Wiki/IsoblasterPrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_magmataur_x.png" alt="Magmataur X icon" loading="lazy" width="auto" height="16px"> [Magmataur X](https://ceterai.github.io/MyEnternia/Wiki/MagmataurX)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster.png" alt="Meteoblaster WIP icon" loading="lazy" width="auto" height="16px"> [Meteoblaster WIP](https://ceterai.github.io/MyEnternia/Wiki/MeteoblasterWIP)
-- [Mirazh ★](https://ceterai.github.io/MyEnternia/Wiki/Mirazh)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/protectorate/violiumshortsword/violiumshortswordicon.png" alt="Mirazh ★ icon" loading="lazy" width="auto" height="16px"> [Mirazh ★](https://ceterai.github.io/MyEnternia/Wiki/Mirazh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_naghurta.png" alt="Naghurta icon" loading="lazy" width="auto" height="16px"> [Naghurta](https://ceterai.github.io/MyEnternia/Wiki/Naghurta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" width="auto" height="16px"> [Neo Blaster](https://ceterai.github.io/MyEnternia/Wiki/NeoBlaster)
-- [Neo-MP ★](https://ceterai.github.io/MyEnternia/Wiki/Neo-MP)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/unrand/neouzi/neouzi.png" alt="Neo-MP ★ icon" loading="lazy" width="auto" height="16px"> [Neo-MP ★](https://ceterai.github.io/MyEnternia/Wiki/Neo-MP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_ngx000.png" alt="NGX-000 ★★ icon" loading="lazy" width="auto" height="16px"> [NGX-000 ★★](https://ceterai.github.io/MyEnternia/Wiki/NGX-000)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_oni_nerus.png" alt="Oni-Nerus ★ icon" loading="lazy" width="auto" height="16px"> [Oni-Nerus ★](https://ceterai.github.io/MyEnternia/Wiki/Oni-Nerus)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_phase_cannon.png" alt="Phase Cannon ★★★ icon" loading="lazy" width="auto" height="16px"> [Phase Cannon ★★★](https://ceterai.github.io/MyEnternia/Wiki/PhaseCannon)
@@ -82,11 +84,14 @@ The tag `ranged` contains 97 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Plasma Rifle NG5X ★ icon" loading="lazy" width="auto" height="16px"> [Plasma Rifle NG5X ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5X)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Plasmora icon" loading="lazy" width="auto" height="16px"> [Plasmora](https://ceterai.github.io/MyEnternia/Wiki/Plasmora)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_plasmorbs.png" alt="Plasmorbs icon" loading="lazy" width="auto" height="16px"> [Plasmorbs](https://ceterai.github.io/MyEnternia/Wiki/Plasmorbs)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/boomerang/boomerang_l6.png" alt="Powerang ★ icon" loading="lazy" width="auto" height="16px"> [Powerang ★](https://ceterai.github.io/MyEnternia/Wiki/Powerang)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_pulsar.png" alt="Pulsar icon" loading="lazy" width="auto" height="16px"> [Pulsar](https://ceterai.github.io/MyEnternia/Wiki/Pulsar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png" alt="Pulse Railgun ★ icon" loading="lazy" width="auto" height="16px"> [Pulse Railgun ★](https://ceterai.github.io/MyEnternia/Wiki/PulseRailgun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" width="auto" height="16px"> [Pulsecutter](https://ceterai.github.io/MyEnternia/Wiki/Pulsecutter)
-- [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/exmachina/exmachina.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power-upgrade.png" alt="R-Powercannon ★★★ icon" loading="lazy" width="auto" height="16px"> [R-Powercannon ★★★](https://ceterai.github.io/MyEnternia/Wiki/R-Powercannon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/riftera/icon.png" alt="Riftera-S icon" loading="lazy" width="auto" height="16px"> [Riftera-S](https://ceterai.github.io/MyEnternia/Wiki/Riftera-S)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-cryo-upgrade.png" alt="S'urysk ★★ icon" loading="lazy" width="auto" height="16px"> [S'urysk ★★](https://ceterai.github.io/MyEnternia/Wiki/S'urysk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="Scout Emergencer icon" loading="lazy" width="auto" height="16px"> [Scout Emergencer](https://ceterai.github.io/MyEnternia/Wiki/ScoutEmergencer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Scout Protector ★ icon" loading="lazy" width="auto" height="16px"> [Scout Protector ★](https://ceterai.github.io/MyEnternia/Wiki/ScoutProtector)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance.png" alt="Sky Lance icon" loading="lazy" width="auto" height="16px"> [Sky Lance](https://ceterai.github.io/MyEnternia/Wiki/SkyLance)
@@ -96,16 +101,16 @@ The tag `ranged` contains 97 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" width="auto" height="16px"> [Soniathrower](https://ceterai.github.io/MyEnternia/Wiki/Soniathrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png" alt="Starblaster ★ icon" loading="lazy" width="auto" height="16px"> [Starblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Starblaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_starburst.png" alt="Starburst ★★ icon" loading="lazy" width="auto" height="16px"> [Starburst ★★](https://ceterai.github.io/MyEnternia/Wiki/Starburst)
-- [Toxiwarper ★](https://ceterai.github.io/MyEnternia/Wiki/Toxiwarper)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/tentaclegun/wormgun_l6.png" alt="Toxiwarper ★ icon" loading="lazy" width="auto" height="16px"> [Toxiwarper ★](https://ceterai.github.io/MyEnternia/Wiki/Toxiwarper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_tsentarish.png" alt="Tsentarish ★ WIP icon" loading="lazy" width="auto" height="16px"> [Tsentarish ★ WIP](https://ceterai.github.io/MyEnternia/Wiki/TsentarishWIP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"> [Tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" width="auto" height="16px"> [Tsyntex Prime ★](https://ceterai.github.io/MyEnternia/Wiki/TsyntexPrime)
-- [Venomous Warper](https://ceterai.github.io/MyEnternia/Wiki/VenomousWarper)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/tentaclegun/wormgun.png" alt="Venomous Warper icon" loading="lazy" width="auto" height="16px"> [Venomous Warper](https://ceterai.github.io/MyEnternia/Wiki/VenomousWarper)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy-upgrade.png" alt="Vermillion ★★★ icon" loading="lazy" width="auto" height="16px"> [Vermillion ★★★](https://ceterai.github.io/MyEnternia/Wiki/Vermillion)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_vitershai.png" alt="Viter-Shai ★ icon" loading="lazy" width="auto" height="16px"> [Viter-Shai ★](https://ceterai.github.io/MyEnternia/Wiki/Viter-Shai)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon_upg.png" alt="Warped Bow ★ icon" loading="lazy" width="auto" height="16px"> [Warped Bow ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" width="auto" height="16px"> [Warped Gun](https://ceterai.github.io/MyEnternia/Wiki/WarpedGun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/warped_hunter/icon.png" alt="Warped Hunter icon" loading="lazy" width="auto" height="16px"> [Warped Hunter](https://ceterai.github.io/MyEnternia/Wiki/WarpedHunter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/body.png:default.1" alt="Zephyr Spark Launcher icon" loading="lazy" width="auto" height="16px"> [Zephyr Spark Launcher](https://ceterai.github.io/MyEnternia/Wiki/ZephyrSparkLauncher)
 
 </details>

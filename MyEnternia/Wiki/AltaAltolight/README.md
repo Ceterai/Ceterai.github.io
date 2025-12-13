@@ -1,15 +1,24 @@
 # Alta Altolight
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"> **Alta Altolight** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/generic/bluelight/bluelighticon.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"> **Alta Altolight** is an uncommon light source.
 
 A neon blue light used by altas everywhere, especially in clubhouses.  
 It illuminates the space with highly-saturated dim glow, perfect for a relaxed atmosphere. The colors mix together beautifully when near each other.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I want to grab a cocktail and dance under a bunch of these!
+- Apex: These lights give off a cold blue hue.
+- Avian: This blue light makes my shiver, although it isn't actually cold.
+- Floran: Floran thinksss blue is okay colour. Not asss good as green or red!
+- Glitch: Intrigued. Why does this light make me feel so cold?
+- Human: Blue lights, for when you want to give a room a cool atmosphere.
+- Hylotl: This blue light reminds me of sunbeam filtered through sapphire oceans.
+- Novakid: This light's like a cold burnin' star, though a little smaller.
+
+</details>
 
 ## Parameters
 

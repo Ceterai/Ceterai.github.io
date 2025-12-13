@@ -1,6 +1,6 @@
 # Impulse Tag
 
-The tag `impulse` contains 18 total entries.
+The tag `impulse` contains 19 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `impulse` contains 18 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 18 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 19 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_brontor.png" alt="Brontor icon" loading="lazy" width="auto" height="16px"> [Brontor](https://ceterai.github.io/MyEnternia/Wiki/Brontor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"> [Ceter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Ceter-Sphere)
@@ -24,9 +24,10 @@ The tag `impulse` contains 18 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.png" alt="Impulse Rifle NG4-2 icon" loading="lazy" width="auto" height="16px"> [Impulse Rifle NG4-2](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4-2)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_2.png" alt="Impulse Rifle NG4X ★ icon" loading="lazy" width="auto" height="16px"> [Impulse Rifle NG4X ★](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4X)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" width="auto" height="16px"> [Impulse Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ImpulseStimPack)
-- [Impulsolver ★](https://ceterai.github.io/MyEnternia/Wiki/Impulsolver)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-baton.png" alt="Impulsolver ★ icon" loading="lazy" width="auto" height="16px"> [Impulsolver ★](https://ceterai.github.io/MyEnternia/Wiki/Impulsolver)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_pulsar.png" alt="Pulsar icon" loading="lazy" width="auto" height="16px"> [Pulsar](https://ceterai.github.io/MyEnternia/Wiki/Pulsar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png" alt="Pulse Railgun ★ icon" loading="lazy" width="auto" height="16px"> [Pulse Railgun ★](https://ceterai.github.io/MyEnternia/Wiki/PulseRailgun)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-baton-upgrade.png" alt="Pulse Rejector ★★ icon" loading="lazy" width="auto" height="16px"> [Pulse Rejector ★★](https://ceterai.github.io/MyEnternia/Wiki/PulseRejector)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" width="auto" height="16px"> [Pulsecutter](https://ceterai.github.io/MyEnternia/Wiki/Pulsecutter)
 
 </details>

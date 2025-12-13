@@ -1,6 +1,6 @@
 # Crystal Crayon
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Crystal Crayon icon" loading="lazy" width="auto" height="16px"> **Crystal Crayon** is an uncommon back cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/biome/colorful/crayonredback/icon.png" alt="Crystal Crayon icon" loading="lazy" width="auto" height="16px"> **Crystal Crayon** is a rare back cosmetic item.
 
 A gigantic crayon that you can wear on your back! Comes in many colors popular among altas!  
 Since many altas are used to playing and drawing with crayons in either Elin Gardens or CorFals (correctional facilities), this item might be more than familiar to them.
@@ -10,6 +10,12 @@ Since many altas are used to playing and drawing with crayons in either Elin Gar
 Species descriptions:
 
 - Alta: Oaa, I used to have a set of these back in the CorFal! Except, well, smaller. I remember losing one at some point, but my caretaker found it a day later!
+
+## Parameters
+
+Applies effects:
+
+- `colorred`
 
 ## Usage
 
@@ -31,5 +37,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_back_mimic-crayon`
 - Level: `4`
 - Power: `2.5`
-- Rarity: `Uncommon`
+- Rarity: `Rare`
 - File: [`/items/buildscripts/ct_mimics/back.back`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/back.back)

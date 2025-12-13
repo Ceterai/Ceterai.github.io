@@ -1,15 +1,24 @@
 # Alta Lab Datablock
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Datablock icon" loading="lazy" width="auto" height="16px"> **Alta Lab Datablock** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/apex/apexcoolserver/apexcoolservericon.png" alt="Alta Lab Datablock icon" loading="lazy" width="auto" height="16px"> **Alta Lab Datablock** is an uncommon decorative object.
 
 A serverless matrix for storing large amounts of data.  
 These datablocks usually contain compacted and structured archives of information, including code, models, logs, etc.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This data unit is an informational goldmine. I wonder what's inside.
+- Apex: A secure server. Inaccessible.
+- Avian: There are many blinking lights.
+- Floran: Box of lights makes clicky ssound.
+- Glitch: Ashamed. A server protected by security even I can not bypass.
+- Human: It looks like a data server. No way we're getting anything from this.
+- Hylotl: This server would contain enough data to fill a thousand Hylotl libraries.
+- Novakid: This piece of technology stores information.
+
+</details>
 
 ## Parameters
 

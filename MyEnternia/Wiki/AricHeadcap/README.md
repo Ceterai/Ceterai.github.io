@@ -1,6 +1,6 @@
 # Aric Headcap
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Aric Headcap icon" loading="lazy" width="auto" height="16px"> **Aric Headcap** is an uncommon head cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/biome/mushroom/mushroom/icons.png:head" alt="Aric Headcap icon" loading="lazy" width="auto" height="16px"> **Aric Headcap** is a rare head cosmetic item.
 
 With this hat, you'll be a fungi to be around.  
 ...Also it might be toxic so be careful.
@@ -34,6 +34,6 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_head_mimic-aric_headcap`
 - Level: `4`
 - Power: `2.5`
-- Rarity: `Uncommon`
-- Tags: [`aric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Rarity: `Rare`
+- Tags: [`aric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
 - File: [`/items/buildscripts/ct_mimics/head.head`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/head.head)

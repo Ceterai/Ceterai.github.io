@@ -10,5 +10,5 @@ The tag `eyepatch` contains 2 total entries.
 
 Following items have this item tag:
 
-- [Enchanted Shield ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedShield)
-- [Warped Shield ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedShield)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/images/eyepatch.png:nearidle" alt="Enchanted Shield ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Shield ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedShield)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-warped_shield.png" alt="Warped Shield ★ icon" loading="lazy" width="auto" height="16px"> [Warped Shield ★](https://ceterai.github.io/MyEnternia/Wiki/WarpedShield)

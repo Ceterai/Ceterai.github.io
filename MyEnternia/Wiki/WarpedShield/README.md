@@ -1,6 +1,6 @@
 # Warped Shield ★
 
- **Warped Shield ★** is an uncommon poisonous shield.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-warped_shield.png" alt="Warped Shield ★ icon" loading="lazy" width="auto" height="16px"> **Warped Shield ★** is an uncommon one-handed poisonous shield.
 
 It's not staring at you, I swear.  
 Looks like a piece of natural warped growth, full on some sort of herbal bone-like matter, making it pretty sturdy.
@@ -20,6 +20,9 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 ## Parameters
 
 - Shield Health: 52
+- Min time: 0.2s
+- Cooldown: 0.5s
+- Knockback: 10
 
 Applies effects on knockback:
 

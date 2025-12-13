@@ -1,6 +1,6 @@
 # Alter-Lighting ★★★
 
- **Alter-Lighting ★★★** is a legendary electric whip.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-alter_whip.png" alt="Alter-Lighting ★★★ icon" loading="lazy" width="auto" height="16px"> **Alter-Lighting ★★★** is a legendary two-handed electric whip.
 
 Simple, but powerful energy tool with limited set of functions compensating the sheer power of each crack.  
 All pure energy equipment has to have a trade-off to be able to maintain levels of energy this high, devoting a lot of design to proper energy containers and sources.
@@ -24,10 +24,13 @@ This is only possible with the use of advanced power redirectors and multiple al
 
 Parameters:
 
+- Chain Dps: 8
+- Damage Config:
+  - Damage Source Kind: `electric`
+- Projectile Type: `whipcrackelectric`
 - Fire Time: 0.9
 - Base Dps: 16
 - Crack Dps: 16
-- Chain Dps: 8
 - Energy Usage: 44
 
 ### Secondary Ability
@@ -45,7 +48,7 @@ Parameters:
 
 Can be crafted:
 
-- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs  Alter-Lighting ★★★ x*1*):
+- Tier 4 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon4.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-alter_whip.png" alt="Alter-Lighting ★★★ icon" loading="lazy" width="auto" height="16px"> Alter-Lighting ★★★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*

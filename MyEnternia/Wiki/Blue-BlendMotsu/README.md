@@ -1,6 +1,6 @@
 # Blue-Blend Motsu ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Blue-Blend Motsu ★ icon" loading="lazy" width="auto" height="16px"> **Blue-Blend Motsu ★** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/pussplumpudding.png" alt="Blue-Blend Motsu ★ icon" loading="lazy" width="auto" height="16px"> **Blue-Blend Motsu ★** is a rare dish.
 
 This motsu is usually made for altas in corfals, [elin gardens](https://ceterai.github.io/MyEnternia/Wiki/elingardens) and hospitals. It's a sweet motsu soup made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"> [boiled ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas) and <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [alta pears](https://ceterai.github.io/MyEnternia/Wiki/AltaPear).  
 Usually motsus are not supposed to be sweet, but this dish is an exclusion. Anything for well-behaving altas.
@@ -14,12 +14,19 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 38
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/3/37/Status_Rage.png" alt="Rage icon" loading="lazy" width="16px" height="16px"> [Rage (Food)](https://starbounder.org/Rage) (165s)
+- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (165s)
+- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (165s)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Blue-Blend Motsu ★ icon" loading="lazy" width="auto" height="16px"> Blue-Blend Motsu ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/pussplumpudding.png" alt="Blue-Blend Motsu ★ icon" loading="lazy" width="auto" height="16px"> Blue-Blend Motsu ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya) x*1*
   - `alienfruit` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower) x*2*

@@ -1,15 +1,24 @@
 # Alta Scout Chair
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Chair icon" loading="lazy" width="auto" height="16px"> **Alta Scout Chair** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3chair/tier3chairicon.png" alt="Alta Scout Chair icon" loading="lazy" width="auto" height="16px"> **Alta Scout Chair** is an uncommon piece of furniture.
 
 A deep-seat chair with titanium railing and silk cover.  
 These extremely relaxing chairs were designed to give exhausted alta scouts proper ergonomic rest.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I feel like I'm relaxing at the beach when sitting in this.
+- Apex: A pretty comfortable chair. I'm happy with it.
+- Avian: A highly decent place to sit.
+- Floran: Floran sssit on chair and think about hunting.
+- Glitch: Relaxed. This chair is exceptionally comfortable for the Glitch.
+- Human: A pretty soft chair. Reminds me of being at home.
+- Hylotl: Almost the luxury Hylotl are used to. There's satisfaction to be gained here.
+- Novakid: This kinda chair makes me wanna put my feet up!
+
+</details>
 
 ## Parameters
 

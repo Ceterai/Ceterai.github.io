@@ -1,6 +1,6 @@
 # Alunika
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alunika.png" alt="Alunika icon" loading="lazy" width="auto" height="16px"> **Alunika** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alunika.png" alt="Alunika icon" loading="lazy" width="auto" height="16px"> **Alunika** is a common food item.
 
 This crimson calin fruit is a true giant among alta fruits. While not as juicy, it's very sweet and soft.  
 Alunika is considered a biocrystal by altas. This means, that, despite organic materials, its cells have crystallic structure.
@@ -14,6 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 7.5
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Sources
 

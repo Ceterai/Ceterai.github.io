@@ -1,6 +1,6 @@
 # Wiring Components
 
-The mod adds a total of 42 wiring components:
+The mod adds a total of 43 wiring components:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"> [Alta Button](https://ceterai.github.io/MyEnternia/Wiki/AltaButton)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" width="auto" height="16px"> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
@@ -21,6 +21,7 @@ The mod adds a total of 42 wiring components:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/timer.png:default.5.1" alt="Alta Logic - Timer icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Timer](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Timer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor.png:default.1" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - XOR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-XOR)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/sprinklers/rincer/icon.png" alt="Alta Rincer ★ icon" loading="lazy" width="auto" height="16px"> [Alta Rincer ★](https://ceterai.github.io/MyEnternia/Wiki/AltaRincer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3switch/tier3switchicon.png" alt="Alta Scout Console icon" loading="lazy" width="auto" height="16px"> [Alta Scout Console](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutConsole)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/camera/icon.png" alt="Alta Security Camera icon" loading="lazy" width="auto" height="16px"> [Alta Security Camera](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCamera)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/terminal/icon.png" alt="Alta Security Terminal icon" loading="lazy" width="auto" height="16px"> [Alta Security Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" width="auto" height="16px"> [Alta Ship Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTerminal)

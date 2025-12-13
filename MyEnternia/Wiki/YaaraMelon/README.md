@@ -1,6 +1,6 @@
 # Yaara Melon
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-yaara_melon.png" alt="Yaara Melon icon" loading="lazy" width="auto" height="16px"> **Yaara Melon** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-yaara_melon.png" alt="Yaara Melon icon" loading="lazy" width="auto" height="16px"> **Yaara Melon** is a common food item.
 
 At their core, yaara melons are just an oversized sort of regular <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye), with a different texture and a slightly differing taste.  
 Size-wise they usually grow up similar to a pretty small watermelon, or a big pineapple (without the leaves).
@@ -14,6 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 10
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Sources
 

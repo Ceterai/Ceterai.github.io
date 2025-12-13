@@ -26,17 +26,17 @@ Instructions are simple - just hold the trigger until mission is clear! Your [pl
 
 Parameters:
 
-- Hold Time Min: 0.9
 - Hold Time Max:
-- Press Type: `blast`
 - Energy Usage: 12
 - Press Params:
-  - Type: `ct_plasma_small`
   - Params:
     - Bounces: 1
     - Action On Collide: 
 - Action: `sound`
 - Options:  `/sfx/projectiles/bullet_ricochet1.ogg`,  `/sfx/projectiles/bullet_ricochet2.ogg`,  `/sfx/projectiles/bullet_ricochet3.ogg`,  `/sfx/projectiles/bullet_ricochet4.ogg`,  `/sfx/projectiles/bullet_ricochet5.ogg`,  `/sfx/projectiles/bullet_ricochet6.ogg`,  `/sfx/projectiles/bullet_ricochet7.ogg`,  `/sfx/projectiles/bullet_ricochet8.ogg`,  `/sfx/projectiles/bullet_ricochet9.ogg`,  `/sfx/projectiles/bullet_ricochet10.ogg`,  `/sfx/projectiles/bullet_ricochet11.ogg`,  `/sfx/projectiles/bullet_ricochet12.ogg`,  `/sfx/projectiles/bullet_ricochet13.ogg`
+  - Type: `ct_plasma_small`
+- Press Type: `blast`
+- Hold Time Min: 0.9
 - Fire Time: 0.11
 - Base Dps: 3.5
 

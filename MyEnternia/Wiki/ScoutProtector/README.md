@@ -28,20 +28,20 @@ All enhanced capabilities are partially achieved due to the slightly increased s
 
 Parameters:
 
-- Hold Type: `rocket`
 - Hold Time Max: 0.55
-- Press Type: `tazer`
 - Energy Usage: 10
 - Press Params:
   - Params:
+    - Time To Live: 2.0
     - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
     - Speed: 5
-    - Time To Live: 2.0
-- Fire Time: 1.2
 - Hold Params:
   - Type: `ct_emergencer_charge`
-  - Count: 2
   - Interval: 0.1
+  - Count: 2
+- Press Type: `tazer`
+- Fire Time: 1.2
+- Hold Type: `rocket`
 - Base Dps: 1.5
 
 ## Sources

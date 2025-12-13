@@ -1,6 +1,6 @@
 # Warped Glowtail
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Warped Glowtail icon" loading="lazy" width="auto" height="16px"> **Warped Glowtail** is an uncommon back cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/backitems/tigertail/tigertailicon.png" alt="Warped Glowtail icon" loading="lazy" width="auto" height="16px"> **Warped Glowtail** is a rare back cosmetic item.
 
 A decorative [wapred](https://ceterai.github.io/MyEnternia/Wiki/wapred) tail-like growth that dimly glows in the dark. Stylish!  
 While not very practical, it's 100% eco-friendly and does provide a tiny lightsource.
@@ -43,6 +43,6 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_back_mimic-warped_glowtail`
 - Level: `4`
 - Power: `2.5`
-- Rarity: `Uncommon`
-- Tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)
+- Rarity: `Rare`
+- Tags: [`light`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped)
 - File: [`/items/buildscripts/ct_mimics/back.back`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/back.back)

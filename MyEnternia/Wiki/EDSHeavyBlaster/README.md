@@ -1,9 +1,11 @@
 # EDS Heavy Blaster ★★
 
- **EDS Heavy Blaster ★★** is a rare fiery shotgun.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy.png" alt="EDS Heavy Blaster ★★ icon" loading="lazy" width="auto" height="16px"> **EDS Heavy Blaster ★★** is a legendary two-handed fiery shotgun.
 
 This armored cannon containing a powerful phosic energen can generate multiple accelerated blasts at once.  
 All the armor hide a complex cooling system needed to contain and redirect all the energy from the phosicores inside.
+
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy-upgrade.png" alt="Vermillion ★★★ icon" loading="lazy" width="auto" height="16px"> [Vermillion ★★★](https://ceterai.github.io/MyEnternia/Wiki/Vermillion) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -25,9 +27,15 @@ Generates periodic bursts of condensed burning energy using the enhanced energen
 
 Parameters:
 
-- Projectile Type: `fireplasma`
-- Base Dps: 10
 - Energy Usage: 40
+- Projectile Parameters:
+  - Knockback: 20
+- Projectile Count: 7
+- Projectile Type: `fireplasma`
+- Fire Type: `auto`
+- Fire Time: 0.9
+- Inaccuracy: 0.11
+- Base Dps: 10
 
 ### Physnade
 
@@ -36,12 +44,16 @@ Launches a simple physical nade.
 Parameters:
 
 - Projectile Type: `grenade`
+- Elemental Config:
+  - Physical:
+    - Projectile Type: `doomgrenade`
+- Energy Usage: 20
 
 ## Sources
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs  EDS Heavy Blaster ★★ x*1*):
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 4s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy.png" alt="EDS Heavy Blaster ★★ icon" loading="lazy" width="auto" height="16px"> EDS Heavy Blaster ★★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore) x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS Armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor) x*2*
   - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"> [Diamond](https://starbounder.org/Diamond) x*1*
@@ -58,7 +70,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 
 - In-game ID: `ct_tool_mimic-eds_heavy`
 - Level: `5`
-- Power: `3.58`
-- Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Power: `3.59`
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`eds`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds), [`fire`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`shotgun`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shotgun), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/buildscripts/ct_mimics/tool.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/tool.activeitem)

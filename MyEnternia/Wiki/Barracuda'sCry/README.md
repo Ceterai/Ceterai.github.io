@@ -27,6 +27,13 @@ The fin is pretty heavy, so any of this might take some additional effort.
 Parameters:
 
 - Hold Time Max: 0.35
+- Energy Usage: 32
+- Damage Config:
+  - Base Damage: 22.5
+  - Knockback: 40
+  - Damage Source Kind: `broadsword`
+  - Knockback Mode: `facing`
+  - Timeout: 0.5
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -49,24 +56,16 @@ Parameters:
 - Swoosh: `swoosh1`
 - Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
 - Swoosh Sound: `primary_hold`
-- Energy Usage: 32
-- Damage Config:
-  - Base Damage: 22.5
-  - Knockback: 40
-  - Damage Source Kind: `broadsword`
-  - Knockback Mode: `facing`
-  - Timeout: 0.5
 - Press Params:
   - Flash:
     - Time: 0.15
     - Directives: `fade=FFFFFFFF=0.15`
   - Combo Speed Factor: 0.7
   - Edge Trigger Grace: 0.25
-- Fire Time: 0.7
 - Hold Params:
   - Cooldown Time: 0.8
   - Energy Factor: 1.0
-- Base Dps: 12
+- Fire Time: 0.7
 - Downstab Params:
   - Cooldown Time: 0.5
   - Energy Factor: 0.2
@@ -79,6 +78,7 @@ Parameters:
     - Knockback: ,  -35
     - Timeout: 0.2
     - Timeout Group: `primary`
+- Base Dps: 12
 
 ### Steelspin
 

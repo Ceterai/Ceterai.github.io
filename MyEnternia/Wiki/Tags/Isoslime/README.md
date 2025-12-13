@@ -1,6 +1,6 @@
 # Isoslime Tag
 
-The tag `isoslime` contains 26 total entries.
+The tag `isoslime` contains 27 total entries.
 
 ## Objects
 
@@ -25,7 +25,7 @@ The tag `isoslime` contains 26 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 15 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" width="auto" height="16px"> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" width="auto" height="16px"> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
@@ -40,6 +40,7 @@ The tag `isoslime` contains 26 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-honey.png" alt="Izopoi Honey icon" loading="lazy" width="auto" height="16px"> [Izopoi Honey](https://ceterai.github.io/MyEnternia/Wiki/IzopoiHoney)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-poivani.png" alt="Poivani icon" loading="lazy" width="auto" height="16px"> [Poivani](https://ceterai.github.io/MyEnternia/Wiki/Poivani)
-- [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/exmachina/exmachina.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power-upgrade.png" alt="R-Powercannon ★★★ icon" loading="lazy" width="auto" height="16px"> [R-Powercannon ★★★](https://ceterai.github.io/MyEnternia/Wiki/R-Powercannon)
 
 </details>

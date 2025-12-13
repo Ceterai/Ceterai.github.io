@@ -5,6 +5,8 @@
 An armored heat dispencer with a built-in energy generator. Better be careful around plants.  
 Often used by riverside scouts, it can often be used to heat up the environment.
 
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ioncore_shield-koywa-upgrade.png" alt="Plasmic Heater ★★ icon" loading="lazy" width="auto" height="16px"> [Plasmic Heater ★★](https://ceterai.github.io/MyEnternia/Wiki/PlasmicHeater) at the Weapon Upgrade Anvil.
+
 ## Ingame
 
 Species descriptions:

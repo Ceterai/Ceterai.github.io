@@ -14,16 +14,16 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Type: `auto`
+- Muzzle Flash Variants: 1
+- Energy Usage: 28
 - Projectile Parameters:
   - Knockback Range:  10,  40
 - Projectile Count: 1
-- Energy Usage: 28
+- Projectile Type: `ct_slime_spray`
+- Fire Type: `auto`
 - Fire Time: 0.12
 - Inaccuracy: 0.1
-- Muzzle Flash Variants: 1
 - Base Dps: 10
-- Projectile Type: `ct_slime_spray`
 
 ## Sources
 

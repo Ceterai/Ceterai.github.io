@@ -1,15 +1,24 @@
 # Alta Lab Microscope
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Microscope icon" loading="lazy" width="auto" height="16px"> **Alta Lab Microscope** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/apex/microscope/microscopeicon.png" alt="Alta Lab Microscope icon" loading="lazy" width="auto" height="16px"> **Alta Lab Microscope** is an uncommon decorative object.
 
 This microscope can micro-scope! And with it, so can you!  
 These devices are pretty common in different alta labs, from biolabs, to crystal research labs, to medical centers and alien study complexes.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A simple microscope. Probably with some crystal specks under them.
+- Apex: Are these Apex cells?
+- Avian: The Avian have a similar device for peering into the distance with accuracy of a hawk.
+- Floran: Tassty flesh cells.
+- Glitch: Mournful. The cells beneath this device are long-dead.
+- Human: I don't know what I'm looking at.
+- Hylotl: The Apex cells present here are remarkably similar to the cells of a human.
+- Novakid: A delicate device for seeing tiny things with more clarity.
+
+</details>
 
 ## Parameters
 

@@ -26,6 +26,13 @@ Full resonation engaged! A perfect viona anomaly to rule them all.
 
 Parameters:
 
+- Energy Usage: 32
+- Damage Config:
+  - Base Damage: 22.5
+  - Knockback: 40
+  - Damage Source Kind: `broadsword`
+  - Knockback Mode: `facing`
+  - Timeout: 0.5
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -62,27 +69,20 @@ Parameters:
   - Inaccuracy: 1.57
   - Offset:  5.0,  -0.85
   - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
-- Energy Usage: 32
-- Damage Config:
-  - Base Damage: 22.5
-  - Knockback: 40
-  - Damage Source Kind: `broadsword`
-  - Knockback Mode: `facing`
-  - Timeout: 0.5
-- Fire Time: 0.93
 - Hold Params:
-  - Charge Border: `FF33FF88`
   - Damage Config:
-    - Status Effects:  `frostslow`
+    - Damage Source Kind: `icebroadsword`
     - Ranged:
-      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
-      - Type: `smallicecloud`
-      - Offset:  5.0,  -0.85
-      - Inaccuracy: 1.57
-      - Count: 5
       - Params:
         - Speed: 15
-    - Damage Source Kind: `icebroadsword`
+      - Type: `smallicecloud`
+      - Count: 5
+      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
+      - Offset:  5.0,  -0.85
+      - Inaccuracy: 1.57
+    - Status Effects:  `frostslow`
+  - Charge Border: `FF33FF88`
+- Fire Time: 0.93
 - Base Dps: 12
 
 ### Enchanted Resonation

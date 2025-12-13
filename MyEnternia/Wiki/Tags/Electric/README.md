@@ -1,6 +1,6 @@
 # Electric Tag
 
-The tag `electric` contains 114 total entries.
+The tag `electric` contains 117 total entries.
 
 ## Objects
 
@@ -31,13 +31,13 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 99 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 102 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_charger.png" alt="Alta Charger icon" loading="lazy" width="auto" height="16px"> [Alta Charger](https://ceterai.github.io/MyEnternia/Wiki/AltaCharger)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"> [Alta Flare Blaster](https://ceterai.github.io/MyEnternia/Wiki/AltaFlareBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/tazer/body.png" alt="Alta Tazer icon" loading="lazy" width="auto" height="16px"> [Alta Tazer](https://ceterai.github.io/MyEnternia/Wiki/AltaTazer)
-- [Alter-Lighting ★★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Lighting)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-alter_whip.png" alt="Alter-Lighting ★★★ icon" loading="lazy" width="auto" height="16px"> [Alter-Lighting ★★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Lighting)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" width="auto" height="16px"> [Alter-Sword ★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sword)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" width="auto" height="16px"> [Alternia Spear](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSpear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/ammerax.png" alt="Ammerax ★★★ icon" loading="lazy" width="auto" height="16px"> [Ammerax ★★★](https://ceterai.github.io/MyEnternia/Wiki/Ammerax)
@@ -67,10 +67,11 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_elite_stunner.png" alt="Elite Stunner ★ icon" loading="lazy" width="auto" height="16px"> [Elite Stunner ★](https://ceterai.github.io/MyEnternia/Wiki/EliteStunner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/frigate_empty.png" alt="Empty EDS Frigate Drone ★★★ icon" loading="lazy" width="auto" height="16px"> [Empty EDS Frigate Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EmptyEDSFrigateDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Enal'Nia ★★ icon" loading="lazy" width="auto" height="16px"> [Enal'Nia ★★](https://ceterai.github.io/MyEnternia/Wiki/Enal'Nia)
-- [Energo-Orbit ★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Orbit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/chakram/neochakram_l6.png" alt="Energo-Aperture ★★ icon" loading="lazy" width="auto" height="16px"> [Energo-Aperture ★★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Aperture)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/chakram/neochakram.png" alt="Energo-Orbit ★ icon" loading="lazy" width="auto" height="16px"> [Energo-Orbit ★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Orbit)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_kinetic_shield-upgrade.png" alt="Energy Blockade ★ icon" loading="lazy" width="auto" height="16px"> [Energy Blockade ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyBlockade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_energy_shielder.png" alt="Energy Shielder ★ icon" loading="lazy" width="auto" height="16px"> [Energy Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyShielder)
-- [Enter-Railgun ★★](https://ceterai.github.io/MyEnternia/Wiki/Enter-Railgun)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-railgun.png" alt="Enter-Railgun ★★ icon" loading="lazy" width="auto" height="16px"> [Enter-Railgun ★★](https://ceterai.github.io/MyEnternia/Wiki/Enter-Railgun)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon_upg.png" alt="Enternia Cutter ★ icon" loading="lazy" width="auto" height="16px"> [Enternia Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCutter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/enternia_halberd.png" alt="Enternia Halberd ★ icon" loading="lazy" width="auto" height="16px"> [Enternia Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaHalberd)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_entropy.png" alt="Entropy ★ icon" loading="lazy" width="auto" height="16px"> [Entropy ★](https://ceterai.github.io/MyEnternia/Wiki/Entropy)
@@ -90,7 +91,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle.png" alt="Impulse Rifle NG4 icon" loading="lazy" width="auto" height="16px"> [Impulse Rifle NG4](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2.png" alt="Impulse Rifle NG4-2 icon" loading="lazy" width="auto" height="16px"> [Impulse Rifle NG4-2](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4-2)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_2.png" alt="Impulse Rifle NG4X ★ icon" loading="lazy" width="auto" height="16px"> [Impulse Rifle NG4X ★](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4X)
-- [Impulsolver ★](https://ceterai.github.io/MyEnternia/Wiki/Impulsolver)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-baton.png" alt="Impulsolver ★ icon" loading="lazy" width="auto" height="16px"> [Impulsolver ★](https://ceterai.github.io/MyEnternia/Wiki/Impulsolver)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram_2.png" alt="Inarus ★ icon" loading="lazy" width="auto" height="16px"> [Inarus ★](https://ceterai.github.io/MyEnternia/Wiki/Inarus)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ion_collider.png" alt="Ion Collider WIP icon" loading="lazy" width="auto" height="16px"> [Ion Collider WIP](https://ceterai.github.io/MyEnternia/Wiki/IonColliderWIP)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" width="auto" height="16px"> [Ion Fortress](https://ceterai.github.io/MyEnternia/Wiki/IonFortress)
@@ -103,7 +104,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/ionic.png" alt="Ionic Drone ★★ icon" loading="lazy" width="auto" height="16px"> [Ionic Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/IonicDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_ionic_rifle.png" alt="Ionic Rifle NG6 icon" loading="lazy" width="auto" height="16px"> [Ionic Rifle NG6](https://ceterai.github.io/MyEnternia/Wiki/IonicRifleNG6)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_kinetic_shield.png" alt="Kinetic Shield icon" loading="lazy" width="auto" height="16px"> [Kinetic Shield](https://ceterai.github.io/MyEnternia/Wiki/KineticShield)
-- [Mirazh ★](https://ceterai.github.io/MyEnternia/Wiki/Mirazh)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/protectorate/violiumshortsword/violiumshortswordicon.png" alt="Mirazh ★ icon" loading="lazy" width="auto" height="16px"> [Mirazh ★](https://ceterai.github.io/MyEnternia/Wiki/Mirazh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_naghurta.png" alt="Naghurta icon" loading="lazy" width="auto" height="16px"> [Naghurta](https://ceterai.github.io/MyEnternia/Wiki/Naghurta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_ngx000.png" alt="NGX-000 ★★ icon" loading="lazy" width="auto" height="16px"> [NGX-000 ★★](https://ceterai.github.io/MyEnternia/Wiki/NGX-000)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_kinetic_shield-orange.png" alt="Orange Kinetic Shield icon" loading="lazy" width="auto" height="16px"> [Orange Kinetic Shield](https://ceterai.github.io/MyEnternia/Wiki/OrangeKineticShield)
@@ -113,12 +114,14 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle.png" alt="Plasma Rifle NG5 icon" loading="lazy" width="auto" height="16px"> [Plasma Rifle NG5](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Plasma Rifle NG5X ★ icon" loading="lazy" width="auto" height="16px"> [Plasma Rifle NG5X ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5X)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword.png" alt="Plasmasword ★ icon" loading="lazy" width="auto" height="16px"> [Plasmasword ★](https://ceterai.github.io/MyEnternia/Wiki/Plasmasword)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ioncore_shield-koywa-upgrade.png" alt="Plasmic Heater ★★ icon" loading="lazy" width="auto" height="16px"> [Plasmic Heater ★★](https://ceterai.github.io/MyEnternia/Wiki/PlasmicHeater)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Plasmora icon" loading="lazy" width="auto" height="16px"> [Plasmora](https://ceterai.github.io/MyEnternia/Wiki/Plasmora)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_plasmorbs.png" alt="Plasmorbs icon" loading="lazy" width="auto" height="16px"> [Plasmorbs](https://ceterai.github.io/MyEnternia/Wiki/Plasmorbs)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Spear ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sSpear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_pulsar.png" alt="Pulsar icon" loading="lazy" width="auto" height="16px"> [Pulsar](https://ceterai.github.io/MyEnternia/Wiki/Pulsar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png" alt="Pulse Railgun ★ icon" loading="lazy" width="auto" height="16px"> [Pulse Railgun ★](https://ceterai.github.io/MyEnternia/Wiki/PulseRailgun)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-baton-upgrade.png" alt="Pulse Rejector ★★ icon" loading="lazy" width="auto" height="16px"> [Pulse Rejector ★★](https://ceterai.github.io/MyEnternia/Wiki/PulseRejector)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" width="auto" height="16px"> [Pulsecutter](https://ceterai.github.io/MyEnternia/Wiki/Pulsecutter)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_kinetic_shield-red.png" alt="Red Kinetic Shield icon" loading="lazy" width="auto" height="16px"> [Red Kinetic Shield](https://ceterai.github.io/MyEnternia/Wiki/RedKineticShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="Scout Emergencer icon" loading="lazy" width="auto" height="16px"> [Scout Emergencer](https://ceterai.github.io/MyEnternia/Wiki/ScoutEmergencer)
@@ -130,7 +133,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" width="auto" height="16px"> [Stun Stick](https://ceterai.github.io/MyEnternia/Wiki/StunStick)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ioncore_shield-koywa.png" alt="Thermoprotector ★ icon" loading="lazy" width="auto" height="16px"> [Thermoprotector ★](https://ceterai.github.io/MyEnternia/Wiki/Thermoprotector)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_drone-toy.png" alt="Toy Drone ★★ icon" loading="lazy" width="auto" height="16px"> [Toy Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/ToyDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/buildscripts/ct_mimics/images/uncommon/1.png:nearidle" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"> [Vi-Callista ★★](https://ceterai.github.io/MyEnternia/Wiki/Vi-Callista)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/images/uncommon/1.png:nearidle" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"> [Vi-Callista ★★](https://ceterai.github.io/MyEnternia/Wiki/Vi-Callista)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"> [Vionos Twins](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins)
 
 </details>

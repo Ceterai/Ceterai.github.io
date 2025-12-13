@@ -1,9 +1,11 @@
 # Barracuda's Horn
 
- **Barracuda's Horn** is an uncommon poisonous broadsword.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-horn.png" alt="Barracuda's Horn icon" loading="lazy" width="auto" height="16px"> **Barracuda's Horn** is a legendary two-handed poisonous broadsword.
 
 A horn from an especially massive cuda lurking in the flooded alterash caves.  
 It looks polished due to special cover that can be found on some appendages of rare cudas.
+
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-horn-upgrade.png" alt="Barracuda's Wing ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Wing ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sWing) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -21,9 +23,21 @@ Radiomessages on pickup:
 
 The aerodynamic shape of the horn allows to make smooth, yet slow hits on the target.
 
+Parameters:
+
+- Fire Time: 1.0
+- Base Dps: 13
+
 ### Secondary Ability
 
 Launches a poison wave, dealing damage to all targets in its path.
+
+Parameters:
+
+- Energy Usage: 80
+- Base Damage: 1
+- Projectile Offset:  4.5,  0.5
+- Projectile Type: `webblast`
 
 ## Sources
 
@@ -47,6 +61,6 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_tool_mimic-horn`
 - Level: `4`
 - Power: `2.5`
-- Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`barracuda`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Barracuda), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`barracuda`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Barracuda), [`broadsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Broadsword), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/buildscripts/ct_mimics/tool.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/tool.activeitem)

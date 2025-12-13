@@ -1,6 +1,6 @@
 # Felistraza
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Felistraza icon" loading="lazy" width="auto" height="16px"> **Felistraza** is a rare head cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/protectorateflower/icons.png:head" alt="Felistraza icon" loading="lazy" width="auto" height="16px"> **Felistraza** is a common head cosmetic item.
 
 A very rare ionic flower that makes for a great hair accessory.  
 It often growns as part of a felistraze bushes, that can grow up to 2 meters in height. You can often find 3-5 flowers per bush.
@@ -30,6 +30,6 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_head_mimic-felistraza`
 - Level: `5`
 - Power: `3.0`
-- Rarity: `Rare`
-- Tags: [`flower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Flower), [`gyera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare)
+- Rarity: `Common`
+- Tags: [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`flower`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Flower), [`gyera`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gyera), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)
 - File: [`/items/buildscripts/ct_mimics/head.head`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/head.head)

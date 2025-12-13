@@ -1,12 +1,13 @@
 # Storage Objects
 
-The mod adds a total of 42 storage objects:
+The mod adds a total of 44 storage objects:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/bin/icon.png" alt="Alta Bin icon" loading="lazy" width="auto" height="16px"> [Alta Bin](https://ceterai.github.io/MyEnternia/Wiki/AltaBin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/cabinet/icon.png" alt="Alta Cabinet icon" loading="lazy" width="auto" height="16px"> [Alta Cabinet](https://ceterai.github.io/MyEnternia/Wiki/AltaCabinet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cafe/cooler/icon.png" alt="Alta Cooler icon" loading="lazy" width="auto" height="16px"> [Alta Cooler](https://ceterai.github.io/MyEnternia/Wiki/AltaCooler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/alta/icon.png" alt="Alta Flower Pot icon" loading="lazy" width="auto" height="16px"> [Alta Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerPot)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/fridge/icon.png" alt="Alta Fridge icon" loading="lazy" width="auto" height="16px"> [Alta Fridge](https://ceterai.github.io/MyEnternia/Wiki/AltaFridge)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/apex/apexcoolbookcase/apexcoolbookcaseicon.png" alt="Alta Lab Bookcase icon" loading="lazy" width="auto" height="16px"> [Alta Lab Bookcase](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBookcase)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="Alta Pod icon" loading="lazy" width="auto" height="16px"> [Alta Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" width="auto" height="16px"> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
@@ -41,6 +42,7 @@ The mod adds a total of 42 storage objects:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/chest/icon.png" alt="Gheatsyn Chest icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Chest](https://ceterai.github.io/MyEnternia/Wiki/GheatsynChest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/minifridge/icon.png" alt="Gheatsyn Minifridge icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Minifridge](https://ceterai.github.io/MyEnternia/Wiki/GheatsynMinifridge)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/chest/icon.png" alt="Hevika Chest icon" loading="lazy" width="auto" height="16px"> [Hevika Chest](https://ceterai.github.io/MyEnternia/Wiki/HevikaChest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/crystalline/crystalchest/crystalchesticon.png" alt="Spectral Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Spectral Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/SpectralPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/chest/icon.png" alt="Warped Chest icon" loading="lazy" width="auto" height="16px"> [Warped Chest](https://ceterai.github.io/MyEnternia/Wiki/WarpedChest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/cabinet/icon.png" alt="Yaara Cabinet icon" loading="lazy" width="auto" height="16px"> [Yaara Cabinet](https://ceterai.github.io/MyEnternia/Wiki/YaaraCabinet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/orb/icon.png" alt="Yaara Orb icon" loading="lazy" width="auto" height="16px"> [Yaara Orb](https://ceterai.github.io/MyEnternia/Wiki/YaaraOrb)

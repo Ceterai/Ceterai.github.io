@@ -1,6 +1,6 @@
 # Alta Pear Tea
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear_tea.png" alt="Alta Pear Tea icon" loading="lazy" width="auto" height="16px"> **Alta Pear Tea** is an uncommon dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear_tea.png" alt="Alta Pear Tea icon" loading="lazy" width="auto" height="16px"> **Alta Pear Tea** is an uncommon drink.
 
 A good old alta pear tea. Not too sweet, not too sour, just about right everywhere. But, using it in cooking will make it similar to carrot juice.  
 The sudden change in taste comes from the meat part of the fruit, making the thickness spread and add more flavor to the mix.
@@ -14,6 +14,20 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 10
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (90s)
+
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- `carrotsoup`
+- `gardensalad`
 
 ## Sources
 

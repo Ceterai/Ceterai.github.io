@@ -1,6 +1,6 @@
 # Alta Security Tag
 
-The tag `alta_security` contains 33 total entries.
+The tag `alta_security` contains 34 total entries.
 
 ## Objects
 
@@ -29,11 +29,12 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 20 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 21 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/security_mk2.png" alt="Advanced Security Set ★ icon" loading="lazy" width="auto" height="16px"> [Advanced Security Set ★](https://ceterai.github.io/MyEnternia/Wiki/AdvancedSecuritySet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_alta_security_ai_chip.png" alt="Alta Security A.I. Chip icon" loading="lazy" width="auto" height="16px"> [Alta Security A.I. Chip](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityA.I.Chip)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/composite.png" alt="Composite Armor icon" loading="lazy" width="auto" height="16px"> [Composite Armor](https://ceterai.github.io/MyEnternia/Wiki/CompositeArmor)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-security-upgrade.png" alt="Elite Shield ★★ icon" loading="lazy" width="auto" height="16px"> [Elite Shield ★★](https://ceterai.github.io/MyEnternia/Wiki/EliteShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" width="auto" height="16px"> [Life Support Pack](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/protective_collar/icon.png" alt="Protective Collar icon" loading="lazy" width="auto" height="16px"> [Protective Collar](https://ceterai.github.io/MyEnternia/Wiki/ProtectiveCollar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/security.png" alt="Security Android icon" loading="lazy" width="auto" height="16px"> [Security Android](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroid)

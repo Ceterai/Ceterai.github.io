@@ -1,6 +1,6 @@
 # "Ruvikva" Pizza Slice ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Ruvikva Pizza Slice ★★ icon" loading="lazy" width="auto" height="16px"> **"Ruvikva" Pizza Slice ★★** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/pineapplepizzaslice.png" alt="Ruvikva Pizza Slice ★★ icon" loading="lazy" width="auto" height="16px"> **"Ruvikva" Pizza Slice ★★** is a rare dish.
 
 A chunky pizza for big-bite lovers. [Roasted aya](https://ceterai.github.io/MyEnternia/Wiki/Roastedaya) slices can be easily cut through, so sharing is not a problem!  
 The unique coloring of this pizza is achived through the harmonical combination of its topping, slowly melted together during cooking.
@@ -14,12 +14,18 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 43
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- `runboostfood` (248s)
+- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (248s)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Ruvikva Pizza Slice ★★ icon" loading="lazy" width="auto" height="16px"> "Ruvikva" Pizza Slice ★★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/pineapplepizzaslice.png" alt="Ruvikva Pizza Slice ★★ icon" loading="lazy" width="auto" height="16px"> "Ruvikva" Pizza Slice ★★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*2*

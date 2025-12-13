@@ -1,8 +1,10 @@
-# Asterix
+# Solus Katana ★
 
- **Asterix** is a legendary poisonous shortsword.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/bossdrop/soluskatana/soluskatanaicon_l6.png" alt="Solus Katana ★ icon" loading="lazy" width="auto" height="16px"> **Solus Katana ★** is a legendary two-handed poisonous shortsword.
 
-Reinforced titanium blade polished with pure stardust... It shimmers in the dark, as if reflecting light that's not there.
+This energy saber produces a very special type of plasma of unknown polarity - sura-plasma. Similar to enternia, you can feel the air around you go static...
+
+An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/bossdrop/soluskatana/soluskatanaicon.png" alt="Suria-Prime ★★ icon" loading="lazy" width="auto" height="16px"> [Suria-Prime ★★](https://ceterai.github.io/MyEnternia/Wiki/Suria-Prime).
 
 ## Ingame
 
@@ -12,9 +14,14 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Starblade
+### Primary Ability
 
-A set of attacks that glitter with stardust.
+Main ability of the item, activated with left mouse button.
+
+Parameters:
+
+- Fire Time: 0.83
+- Base Dps: 11.5
 
 ## Sources
 
@@ -22,9 +29,9 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 
 ## Technical Information
 
-- In-game ID: `ct_tool_mimic-astrosabredeluxe`
+- In-game ID: `ct_tool_mimic-suria-upgrade`
 - Level: `6`
-- Power: `3.5`
+- Power: `3.85`
 - Rarity: `Legendary`
 - Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`shortsword`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shortsword), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/buildscripts/ct_mimics/tool.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/tool.activeitem)

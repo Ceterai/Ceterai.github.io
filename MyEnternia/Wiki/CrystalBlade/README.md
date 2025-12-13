@@ -27,6 +27,9 @@ The new energy flow is able to concentrate faster, building up at the impact rim
 
 Parameters:
 
+- Damage Config:
+  - Damage Source Kind: `shortsword`
+  - Timeout: 0.5
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -52,9 +55,6 @@ Parameters:
 - Swoosh: `swoosh_small1`
 - Swoosh Offset:  -0.5,  -0.75,  2.0,  1.5
 - Swoosh Sound: `primary_press`
-- Damage Config:
-  - Damage Source Kind: `shortsword`
-  - Timeout: 0.5
 - Fire Time: 0.625
 - Base Dps: 6
 

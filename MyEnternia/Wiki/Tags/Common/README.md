@@ -1,6 +1,6 @@
 # Common Tag
 
-The tag `common` contains 391 total entries.
+The tag `common` contains 395 total entries.
 
 ## Objects
 
@@ -225,7 +225,7 @@ The tag `common` contains 391 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 179 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 183 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-alien_pearls.png" alt="Alien Pearls icon" loading="lazy" width="auto" height="16px"> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_baton.png" alt="Alta Baton icon" loading="lazy" width="auto" height="16px"> [Alta Baton](https://ceterai.github.io/MyEnternia/Wiki/AltaBaton)
@@ -238,7 +238,7 @@ The tag `common` contains 391 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/nets/bug_net/icon.png" alt="Alta Bug Net icon" loading="lazy" width="auto" height="16px"> [Alta Bug Net](https://ceterai.github.io/MyEnternia/Wiki/AltaBugNet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_charger.png" alt="Alta Charger icon" loading="lazy" width="auto" height="16px"> [Alta Charger](https://ceterai.github.io/MyEnternia/Wiki/AltaCharger)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/climbing_tool/icon.png" alt="Alta Climbing Tool icon" loading="lazy" width="auto" height="16px"> [Alta Climbing Tool](https://ceterai.github.io/MyEnternia/Wiki/AltaClimbingTool)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Comm Set icon" loading="lazy" width="auto" height="16px"> [Alta Comm Set](https://ceterai.github.io/MyEnternia/Wiki/AltaCommSet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/human/human-tier1/icons.png:head" alt="Alta Comm Set icon" loading="lazy" width="auto" height="16px"> [Alta Comm Set](https://ceterai.github.io/MyEnternia/Wiki/AltaCommSet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart.png" alt="Alta Dart icon" loading="lazy" width="auto" height="16px"> [Alta Dart](https://ceterai.github.io/MyEnternia/Wiki/AltaDart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/basic/icon.png" alt="Alta Dart Board icon" loading="lazy" width="auto" height="16px"> [Alta Dart Board](https://ceterai.github.io/MyEnternia/Wiki/AltaDartBoard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/dyes/alta/ct_alta_dye.png" alt="Alta Dye icon" loading="lazy" width="auto" height="16px"> [Alta Dye](https://ceterai.github.io/MyEnternia/Wiki/AltaDye)
@@ -247,10 +247,12 @@ The tag `common` contains 391 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/ct_alta_firework.png" alt="Alta Firework icon" loading="lazy" width="auto" height="16px"> [Alta Firework](https://ceterai.github.io/MyEnternia/Wiki/AltaFirework)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flare_blaster/body.png" alt="Alta Flare Blaster icon" loading="lazy" width="auto" height="16px"> [Alta Flare Blaster](https://ceterai.github.io/MyEnternia/Wiki/AltaFlareBlaster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/protectorateflower/icons.png:head" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"> [Alta Flower](https://ceterai.github.io/MyEnternia/Wiki/AltaFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon.png" alt="Alta Foam Sprayer icon" loading="lazy" width="auto" height="16px"> [Alta Foam Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaFoamSprayer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_art.png" alt="Alta Format icon" loading="lazy" width="auto" height="16px"> [Alta Format](https://ceterai.github.io/MyEnternia/Wiki/AltaFormat)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/hoe/icon.png" alt="Alta Hoe icon" loading="lazy" width="auto" height="16px"> [Alta Hoe](https://ceterai.github.io/MyEnternia/Wiki/AltaHoe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_alta_jelly_egg.png" alt="Alta Jelly Egg icon" loading="lazy" width="auto" height="16px"> [Alta Jelly Egg](https://ceterai.github.io/MyEnternia/Wiki/AltaJellyEgg)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_proj_mimic-metal_javelin.png" alt="Alta Kinetic Javelin icon" loading="lazy" width="auto" height="16px"> [Alta Kinetic Javelin](https://ceterai.github.io/MyEnternia/Wiki/AltaKineticJavelin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"> [Alta Neon Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonBubbleWand)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [Alta Pear](https://ceterai.github.io/MyEnternia/Wiki/AltaPear)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear_jam.png" alt="Alta Pear Jam icon" loading="lazy" width="auto" height="16px"> [Alta Pear Jam](https://ceterai.github.io/MyEnternia/Wiki/AltaPearJam)
@@ -273,7 +275,7 @@ The tag `common` contains 391 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" width="auto" height="16px"> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder)
-- [Ayaka Band-Aid](https://ceterai.github.io/MyEnternia/Wiki/AyakaBand-Aid)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aid_mimic-bandade.png" alt="Ayaka Band-Aid icon" loading="lazy" width="auto" height="16px"> [Ayaka Band-Aid](https://ceterai.github.io/MyEnternia/Wiki/AyakaBand-Aid)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_proj_mimic-dart.png" alt="Ayaka Dart icon" loading="lazy" width="auto" height="16px"> [Ayaka Dart](https://ceterai.github.io/MyEnternia/Wiki/AyakaDart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" width="auto" height="16px"> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_ayaka_plane.png" alt="Ayaka Plane icon" loading="lazy" width="auto" height="16px"> [Ayaka Plane](https://ceterai.github.io/MyEnternia/Wiki/AyakaPlane)
@@ -286,11 +288,11 @@ The tag `common` contains 391 total entries.
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-xenopod.png" alt="Baked Xenopod icon" loading="lazy" width="auto" height="16px"> [Baked Xenopod](https://ceterai.github.io/MyEnternia/Wiki/BakedXenopod)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_bio_fresh-essence.png" alt="Bio Essence icon" loading="lazy" width="auto" height="16px"> [Bio Essence](https://ceterai.github.io/MyEnternia/Wiki/BioEssence)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" width="auto" height="16px"> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aid_mimic-bandade_bion.png" alt="Bion-Aid icon" loading="lazy" width="auto" height="16px"> [Bion-Aid](https://ceterai.github.io/MyEnternia/Wiki/Bion-Aid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-boiled_tonna.png" alt="Boiled Tonna icon" loading="lazy" width="auto" height="16px"> [Boiled Tonna](https://ceterai.github.io/MyEnternia/Wiki/BoiledTonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_boki_egg.png" alt="Boki Egg icon" loading="lazy" width="auto" height="16px"> [Boki Egg](https://ceterai.github.io/MyEnternia/Wiki/BokiEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_boko_plush.png" alt="Boko Plushie icon" loading="lazy" width="auto" height="16px"> [Boko Plushie](https://ceterai.github.io/MyEnternia/Wiki/BokoPlushie)
-- [Boomerang](https://ceterai.github.io/MyEnternia/Wiki/Boomerang)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/calotronics.png" alt="Calotronics icon" loading="lazy" width="auto" height="16px"> [Calotronics](https://ceterai.github.io/MyEnternia/Wiki/Calotronics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" width="auto" height="16px"> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_ceternity_poster.png" alt="Ceternity Poster icon" loading="lazy" width="auto" height="16px"> [Ceternity Poster](https://ceterai.github.io/MyEnternia/Wiki/CeternityPoster)
@@ -308,6 +310,7 @@ The tag `common` contains 391 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [Datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" width="auto" height="16px"> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_jam-sap.png" alt="Estralis Extract icon" loading="lazy" width="auto" height="16px"> [Estralis Extract](https://ceterai.github.io/MyEnternia/Wiki/EstralisExtract)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/protectorateflower/icons.png:head" alt="Felistraza icon" loading="lazy" width="auto" height="16px"> [Felistraza](https://ceterai.github.io/MyEnternia/Wiki/Felistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_flowery_grass_seeds.png" alt="Flowery Grass Seeds icon" loading="lazy" width="auto" height="16px"> [Flowery Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/FloweryGrassSeeds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_gheanade.png" alt="Gheanade icon" loading="lazy" width="auto" height="16px"> [Gheanade](https://ceterai.github.io/MyEnternia/Wiki/Gheanade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_gheanade.png" alt="Gheanade Max icon" loading="lazy" width="auto" height="16px"> [Gheanade Max](https://ceterai.github.io/MyEnternia/Wiki/GheanadeMax)
@@ -354,6 +357,7 @@ The tag `common` contains 391 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/rain/blue_umbrella/icon.png" alt="Omniblue Umbrella icon" loading="lazy" width="auto" height="16px"> [Omniblue Umbrella](https://ceterai.github.io/MyEnternia/Wiki/OmniblueUmbrella)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-perfect.png" alt="Perfectly Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Perfectly Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/PerfectlyCookedTsay)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-poivani.png" alt="Poivani icon" loading="lazy" width="auto" height="16px"> [Poivani](https://ceterai.github.io/MyEnternia/Wiki/Poivani)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aid_mimic-bandade_pretty.png" alt="Pretty Band-Aid icon" loading="lazy" width="auto" height="16px"> [Pretty Band-Aid](https://ceterai.github.io/MyEnternia/Wiki/PrettyBand-Aid)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_rainbow_popper.png" alt="Rainbow Alta Popper icon" loading="lazy" width="auto" height="16px"> [Rainbow Alta Popper](https://ceterai.github.io/MyEnternia/Wiki/RainbowAltaPopper)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-red_archulins.png" alt="Red Archulins icon" loading="lazy" width="auto" height="16px"> [Red Archulins](https://ceterai.github.io/MyEnternia/Wiki/RedArchulins)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/respiratory_mask/icon.png" alt="Respiratory Mask icon" loading="lazy" width="auto" height="16px"> [Respiratory Mask](https://ceterai.github.io/MyEnternia/Wiki/RespiratoryMask)

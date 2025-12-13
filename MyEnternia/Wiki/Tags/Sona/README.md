@@ -1,6 +1,6 @@
 # Sona Tag
 
-The tag `sona` contains 27 total entries.
+The tag `sona` contains 28 total entries.
 
 ## Objects
 
@@ -20,13 +20,14 @@ The tag `sona` contains 27 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 20 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 21 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/ct_alta_snowthrower.png" alt="Alta Snowthrower icon" loading="lazy" width="auto" height="16px"> [Alta Snowthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowthrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_brontor.png" alt="Brontor icon" loading="lazy" width="auto" height="16px"> [Brontor](https://ceterai.github.io/MyEnternia/Wiki/Brontor)
-- [Cryonic Blaster ★](https://ceterai.github.io/MyEnternia/Wiki/CryonicBlaster)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-cryo.png" alt="Cryonic Blaster ★ icon" loading="lazy" width="auto" height="16px"> [Cryonic Blaster ★](https://ceterai.github.io/MyEnternia/Wiki/CryonicBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Hot Sona Milk icon" loading="lazy" width="auto" height="16px"> [Hot Sona Milk](https://ceterai.github.io/MyEnternia/Wiki/HotSonaMilk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"> [On Tavriya Climate](https://ceterai.github.io/MyEnternia/Wiki/OnTavriyaClimate)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-cryo-upgrade.png" alt="S'urysk ★★ icon" loading="lazy" width="auto" height="16px"> [S'urysk ★★](https://ceterai.github.io/MyEnternia/Wiki/S'urysk)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_chest-light.png" alt="Sona Jacketarmor ★ icon" loading="lazy" width="auto" height="16px"> [Sona Jacketarmor ★](https://ceterai.github.io/MyEnternia/Wiki/SonaJacketarmor)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_combat_legwear-light.png" alt="Sona Legarmor ★ icon" loading="lazy" width="auto" height="16px"> [Sona Legarmor ★](https://ceterai.github.io/MyEnternia/Wiki/SonaLegarmor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Sona Loot Crate icon" loading="lazy" width="auto" height="16px"> [Sona Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/SonaLootCrate)

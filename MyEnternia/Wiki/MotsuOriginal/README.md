@@ -1,6 +1,6 @@
 # Motsu Original
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Motsu Original icon" loading="lazy" width="auto" height="16px"> **Motsu Original** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/gardensalad.png" alt="Motsu Original icon" loading="lazy" width="auto" height="16px"> **Motsu Original** is a rare dish.
 
 A chef's personal recipe! It's crystal-based secrets are hidden in the mind of its creator, and it's up to you to trust that and take the challenge.  
 While it includes a lot of common crystal ingredients, the main taste can vary depending on the choice of whoever is making it.
@@ -14,12 +14,17 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 35
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (315s)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Motsu Original icon" loading="lazy" width="auto" height="16px"> Motsu Original x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/gardensalad.png" alt="Motsu Original icon" loading="lazy" width="auto" height="16px"> Motsu Original x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro/icon.png" alt="Verriskoywa Faro Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaFaroFlower) x*2*

@@ -1,6 +1,6 @@
 # Bion-Aid
 
- **Bion-Aid** is an uncommon medical item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aid_mimic-bandade_bion.png" alt="Bion-Aid icon" loading="lazy" width="auto" height="16px"> **Bion-Aid** is a common medical item.
 
 A professional aid set with additional healing compatibility for alta bodies.  
 The base material is comprized from a specific bionic mix, made to be accepted by an alta organism.
@@ -33,6 +33,6 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_aid_mimic-bandade_bion`
 - Level: `4`
 - Power: `2.5`
-- Rarity: `Uncommon`
-- Tags: [`aid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Rarity: `Common`
+- Tags: [`aid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`bion`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common)
 - File: [`/items/buildscripts/ct_mimics/aid.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/aid.consumable)

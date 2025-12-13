@@ -1,15 +1,24 @@
 # Collectioner's Reward ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Collectioner's Reward ★★ icon" loading="lazy" width="auto" height="16px"> **Collectioner's Reward ★★** is a rare decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/hoard/grail/grailicon.png" alt="Collectioner's Reward ★★ icon" loading="lazy" width="auto" height="16px"> **Collectioner's Reward ★★** is a rare decorative object.
 
 Congradulations! This reward goes out to the most dedicated collectioners out there! The only thing left is to write your name on it.  
 A solid titanium cup with decorative rims and a nameplate that mentiones a very efficient collectioner. You.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: This collectioner's reward looks amazing! Too bad it's so tall, I don't think I'll be able to brew myself some tea in it...
+- Apex: A golden cup. Might be nice to drink out of.
+- Avian: This chalice hums with a powerful energy.
+- Floran: Floran drink from shiny cup.
+- Glitch: Observant. A chalice of some sort.
+- Human: Looks like a fancy cup. Is it meant to be special?
+- Hylotl: A basic, functional golden cup.
+- Novakid: I get a feelin' this is meant to be special, but I can't quite work out why.
+
+</details>
 
 ## Sources
 

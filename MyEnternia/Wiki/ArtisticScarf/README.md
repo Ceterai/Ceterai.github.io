@@ -1,6 +1,6 @@
 # Artistic Scarf
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Scarf icon" loading="lazy" width="auto" height="16px"> **Artistic Scarf** is a rare head cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/clothes/scarf/icons.png:head" alt="Artistic Scarf icon" loading="lazy" width="auto" height="16px"> **Artistic Scarf** is a rare head cosmetic item.
 
 A pretty neat scarf that increases your artistic charm by 60%.  
 Like many alta fasion items, this one was likely designed by [perizhad](https://ceterai.github.io/MyEnternia/Wiki/Alta#perizhad).
@@ -21,7 +21,7 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Can be crafted:
 
-- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Artistic Scarf icon" loading="lazy" width="auto" height="16px"> Artistic Scarf x*1*):
+- Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon3.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/clothes/scarf/icons.png:head" alt="Artistic Scarf icon" loading="lazy" width="auto" height="16px"> Artistic Scarf x*1*):
   - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk) x*4*
 
 Can be bought from merchants:

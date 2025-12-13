@@ -1,6 +1,6 @@
 # Fresh Cocktail
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-fresh_cocktail.png" alt="Fresh Cocktail icon" loading="lazy" width="auto" height="16px"> **Fresh Cocktail** is a legendary dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-fresh_cocktail.png" alt="Fresh Cocktail icon" loading="lazy" width="auto" height="16px"> **Fresh Cocktail** is a legendary drink.
 
 Strainght and simple - this is a "fresh" cocktail, as in a cocktail made from a fresh! Very neat, so much foam too.  
 While there are no strict rules on what fresh to use, some might perform better than others.
@@ -14,6 +14,11 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 25
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/3/37/Status_Rage.png" alt="Rage icon" loading="lazy" width="16px" height="16px"> [Rage (Food)](https://starbounder.org/Rage) (225s)
 
 ## Sources
 

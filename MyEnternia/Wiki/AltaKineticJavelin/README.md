@@ -1,6 +1,6 @@
 # Alta Kinetic Javelin
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_proj_mimic-metal_javelin.png" alt="Alta Kinetic Javelin icon" loading="lazy" width="auto" height="16px"> **Alta Kinetic Javelin** is an uncommon throwable item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_proj_mimic-metal_javelin.png" alt="Alta Kinetic Javelin icon" loading="lazy" width="auto" height="16px"> **Alta Kinetic Javelin** is a common throwable item.
 
 A simple toy dart that you can throw at a target. Or horibly miss it instead, whatever.  
 Usually manufactured in batches, these are commonly sold in entertainment stores with small safety protocols, even if classified as non-lethal.
@@ -20,6 +20,6 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_proj_mimic-metal_javelin`
 - Level: `4`
 - Power: `2.4`
-- Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Rarity: `Common`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy)
 - File: [`/items/buildscripts/ct_mimics/proj.thrownitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/proj.thrownitem)

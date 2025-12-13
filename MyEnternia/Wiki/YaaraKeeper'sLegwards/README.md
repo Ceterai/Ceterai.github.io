@@ -1,6 +1,6 @@
 # Yaara Keeper's Legwards ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Yaara Keeper's Legwards ★ icon" loading="lazy" width="auto" height="16px"> **Yaara Keeper's Legwards ★** is an uncommon leg armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/floran/floran-tier5manipulator/icons.png:pants" alt="Yaara Keeper's Legwards ★ icon" loading="lazy" width="auto" height="16px"> **Yaara Keeper's Legwards ★** is a rare leg armor piece.
 
 A plant-based piece of armor fused with very sturdy materials, decorated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) leaves, petals and crystals.  
 Mainly used by [yaara keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper) hunters and protectors, it's looks are meant to defend, scare and disguise.
@@ -11,6 +11,15 @@ Species descriptions:
 
 - Alta: A battlewear of a yaara keeper. It's probably venomus, better not touch it.
 - Floran: Full protection for Floran, sso Floran can protect Floran's home.
+
+## Parameters
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +48.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +14.0
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +8.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +8.0
 
 ## Usage
 
@@ -38,7 +47,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 
 - In-game ID: `ct_legs_mimic-yaara_keeper`
 - Level: `4`
-- Power: `1.0`
-- Rarity: `Uncommon`
-- Tags: [`floran`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Floran), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara), [`yaara_keeper`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YaaraKeeper)
+- Power: `2.75`
+- Rarity: `Rare`
+- Tags: [`floran`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Floran), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`yaara`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Yaara), [`yaara_keeper`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YaaraKeeper)
 - File: [`/items/buildscripts/ct_mimics/legs.legs`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/legs.legs)

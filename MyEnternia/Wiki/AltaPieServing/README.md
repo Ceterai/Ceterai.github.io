@@ -32,8 +32,8 @@ Drops following **break** loot:
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crunchy_pie-calin.png" alt="Crystal Pie ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Pie ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalPie) x*1* (weight: 0.08)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_meringue-kada.png" alt="Tonnakada Meringue ★★ icon" loading="lazy" width="auto" height="16px"> [Tonnakada Meringue ★★](https://ceterai.github.io/MyEnternia/Wiki/TonnakadaMeringue) x*1* (weight: 0.08)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tonna_meringue-crumble.png" alt="Sunset Crumble icon" loading="lazy" width="auto" height="16px"> [Sunset Crumble](https://ceterai.github.io/MyEnternia/Wiki/SunsetCrumble) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> [Alta Charlotte](https://ceterai.github.io/MyEnternia/Wiki/AltaCharlotte) x*1* (weight: 0.08)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> ["Sentia's Crown" Pie ★](https://ceterai.github.io/MyEnternia/Wiki/Sentia'sCrownPie) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/oculemonmeringue.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> [Alta Charlotte](https://ceterai.github.io/MyEnternia/Wiki/AltaCharlotte) x*1* (weight: 0.08)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/spookypie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> ["Sentia's Crown" Pie ★](https://ceterai.github.io/MyEnternia/Wiki/Sentia'sCrownPie) x*1* (weight: 0.08)
 
 ## Sources
 

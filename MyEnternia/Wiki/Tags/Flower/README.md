@@ -29,8 +29,8 @@ The tag `flower` contains 19 total entries.
 
 Following items have this item tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"> [Alta Flower](https://ceterai.github.io/MyEnternia/Wiki/AltaFlower)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Felistraza icon" loading="lazy" width="auto" height="16px"> [Felistraza](https://ceterai.github.io/MyEnternia/Wiki/Felistraza)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/protectorateflower/icons.png:head" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"> [Alta Flower](https://ceterai.github.io/MyEnternia/Wiki/AltaFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/protectorateflower/icons.png:head" alt="Felistraza icon" loading="lazy" width="auto" height="16px"> [Felistraza](https://ceterai.github.io/MyEnternia/Wiki/Felistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword.png" alt="Flowersword icon" loading="lazy" width="auto" height="16px"> [Flowersword](https://ceterai.github.io/MyEnternia/Wiki/Flowersword)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Gyera Flower Crown ★ icon" loading="lazy" width="auto" height="16px"> [Gyera Flower Crown ★](https://ceterai.github.io/MyEnternia/Wiki/GyeraFlowerCrown)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/hawaiian/icons.png:head" alt="Gyera Flower Crown ★ icon" loading="lazy" width="auto" height="16px"> [Gyera Flower Crown ★](https://ceterai.github.io/MyEnternia/Wiki/GyeraFlowerCrown)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword_2.png" alt="Haven Clover ★ icon" loading="lazy" width="auto" height="16px"> [Haven Clover ★](https://ceterai.github.io/MyEnternia/Wiki/HavenClover)

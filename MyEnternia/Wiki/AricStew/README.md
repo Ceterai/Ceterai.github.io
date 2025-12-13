@@ -1,6 +1,6 @@
 # Aric Stew
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> **Aric Stew** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier6/wartweedstew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> **Aric Stew** is a rare dish.
 
 A mushroom stew that requires very high temperatures for cooking, which is why it's served in a [bionium](https://ceterai.github.io/MyEnternia/Wiki/bionium) bowl. Don't get burned!  
 If properly prepared, will result in a proper meaty-mushroomy stew. If not, then, well, the bowl will probably explode.
@@ -14,12 +14,17 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 40
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (360s)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> Aric Stew x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier6/wartweedstew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> Aric Stew x*1*):
   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*4*
   - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam) x*1*

@@ -1,6 +1,6 @@
 # Alta Antennas
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_back_mimic-antennas.png" alt="Alta Antennas icon" loading="lazy" width="auto" height="16px"> **Alta Antennas** is a rare back cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_back_mimic-antennas.png" alt="Alta Antennas icon" loading="lazy" width="auto" height="16px"> **Alta Antennas** is an uncommon back cosmetic item.
 
 A set of protected hitech appendages with an unclear purpose.  
 These are often seen on technical units, as well as alta androids.
@@ -48,5 +48,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_back_mimic-antennas`
 - Level: `5`
 - Power: `3.0`
-- Rarity: `Rare`
+- Rarity: `Uncommon`
 - File: [`/items/buildscripts/ct_mimics/back.back`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/back.back)

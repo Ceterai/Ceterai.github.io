@@ -1,15 +1,24 @@
 # Alta Lab Monitor
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Monitor icon" loading="lazy" width="auto" height="16px"> **Alta Lab Monitor** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/apex/apexcoolcomputer/apexcoolcomputericon.png" alt="Alta Lab Monitor icon" loading="lazy" width="auto" height="16px"> **Alta Lab Monitor** is an uncommon decorative object.
 
 A simple compact monitor made out of <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) and [ayakut](https://ceterai.github.io/MyEnternia/Wiki/ayakut).  
 These are usually connected directly to a network of alta lab servers and alta lab datablocks, and not to a computer, where a laptop would be used.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Perfect for documentaries.
+- Apex: This is a really powerful computer. Apex civilians don't have access to computers.
+- Avian: This computer screen has so many colours.
+- Floran: Floran sssteal technology to sssurvive.
+- Glitch: Appreciative. What a stunning machine.
+- Human: This looks a lot like the kind of computing power humanity used to possess.
+- Hylotl: A basic computer.
+- Novakid: It's a computer screen.
+
+</details>
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Broadsword Tag
 
-The tag `broadsword` contains 12 total entries.
+The tag `broadsword` contains 13 total entries.
 
 ## Objects
 
@@ -8,12 +8,13 @@ The tag `broadsword` contains 12 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 13 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" width="auto" height="16px"> [Alter-Sword ★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sword)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Cry ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sCry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" width="auto" height="16px"> [Barracuda's Fin](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sFin)
-- [Barracuda's Horn](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sHorn)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-horn.png" alt="Barracuda's Horn icon" loading="lazy" width="auto" height="16px"> [Barracuda's Horn](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sHorn)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-horn-upgrade.png" alt="Barracuda's Wing ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Wing ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sWing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" width="auto" height="16px"> [Bi-Blade ★](https://ceterai.github.io/MyEnternia/Wiki/Bi-Blade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_celeste.png" alt="Celeste ★★★ icon" loading="lazy" width="auto" height="16px"> [Celeste ★★★](https://ceterai.github.io/MyEnternia/Wiki/Celeste)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Razor ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalRazor)

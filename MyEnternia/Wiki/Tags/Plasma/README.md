@@ -1,6 +1,6 @@
 # Plasma Tag
 
-The tag `plasma` contains 31 total entries.
+The tag `plasma` contains 32 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `plasma` contains 31 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 31 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 32 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere)
@@ -17,7 +17,8 @@ The tag `plasma` contains 31 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_combat_shielder.png" alt="Combat Shielder ★ icon" loading="lazy" width="auto" height="16px"> [Combat Shielder ★](https://ceterai.github.io/MyEnternia/Wiki/CombatShielder)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_elite_stunner.png" alt="Elite Stunner ★ icon" loading="lazy" width="auto" height="16px"> [Elite Stunner ★](https://ceterai.github.io/MyEnternia/Wiki/EliteStunner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Enal'Nia ★★ icon" loading="lazy" width="auto" height="16px"> [Enal'Nia ★★](https://ceterai.github.io/MyEnternia/Wiki/Enal'Nia)
-- [Energo-Orbit ★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Orbit)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/chakram/neochakram_l6.png" alt="Energo-Aperture ★★ icon" loading="lazy" width="auto" height="16px"> [Energo-Aperture ★★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Aperture)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/chakram/neochakram.png" alt="Energo-Orbit ★ icon" loading="lazy" width="auto" height="16px"> [Energo-Orbit ★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Orbit)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi.png" alt="Estralis Vi icon" loading="lazy" width="auto" height="16px"> [Estralis Vi](https://ceterai.github.io/MyEnternia/Wiki/EstralisVi)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estria's Vyurm ★ icon" loading="lazy" width="auto" height="16px"> [Estria's Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sVyurm)

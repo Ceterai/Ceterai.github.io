@@ -1,6 +1,6 @@
 # Cuvia Punch
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-cuvia_punch.png" alt="Cuvia Punch icon" loading="lazy" width="auto" height="16px"> **Cuvia Punch** is a rare dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-cuvia_punch.png" alt="Cuvia Punch icon" loading="lazy" width="auto" height="16px"> **Cuvia Punch** is a rare drink.
 
 Some straight punch with a sweet taste to it. It says it was made from... cuvia? What is cuva?  
 Not to be mixed with kuva - some grineer might get angry at you if you make a kuva punch...
@@ -14,6 +14,19 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 25
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- `lowgrav` (180s)
+
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- `toxicjuice`
 
 ## Sources
 

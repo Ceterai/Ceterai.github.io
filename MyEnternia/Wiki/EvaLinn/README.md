@@ -39,13 +39,13 @@ Hold - launch an Icy Cloud Nade.
 
 Parameters:
 
-- Attachments:  `none`,  `laser`,  `stabilizer`
-- Hold Type: `nade`
-- Press Attachments: `True`
 - Energy Usage: 32
-- Fire Time: 0.5
+- Attachments:  `none`,  `laser`,  `stabilizer`
+- Press Attachments: `True`
 - Hold Params:
   - Type: `icecloudgrenade`
+- Fire Time: 0.5
+- Hold Type: `nade`
 - Base Dps: 9
 
 ## Sources

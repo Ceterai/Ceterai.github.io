@@ -1,9 +1,11 @@
 # R-Power Prototype ★★
 
- **R-Power Prototype ★★** is a rare poisonous rocket launcher.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/exmachina/exmachina.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> **R-Power Prototype ★★** is a legendary two-handed poisonous rocket launcher.
 
 A powerful cannon that utilizes <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) both as coolant and as missile component.  
 This heavy energy tool has outside origins and was simply altered in a Neiteru alta lab.
+
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power-upgrade.png" alt="R-Powercannon ★★★ icon" loading="lazy" width="auto" height="16px"> [R-Powercannon ★★★](https://ceterai.github.io/MyEnternia/Wiki/R-Powercannon) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -23,7 +25,15 @@ Launches a special mix of toxins and enhanced slime as a rocket.
 
 Parameters:
 
+- Energy Usage: 40
+- Projectile Parameters:
+  - Knockback: 40
+- Projectile Count: 1
 - Projectile Type: `poisonplasmarocket`
+- Fire Type: `auto`
+- Fire Time: 1.5
+- Inaccuracy:
+- Base Dps: 10
 
 ### Secondary Ability
 
@@ -47,7 +57,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 
 - In-game ID: `ct_tool_mimic-r_power`
 - Level: `5`
-- Power: `3.58`
-- Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`rocketlauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rocketlauncher), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Power: `3.6`
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`isoslime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Isoslime), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`poison`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rocketlauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rocketlauncher), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/buildscripts/ct_mimics/tool.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/tool.activeitem)

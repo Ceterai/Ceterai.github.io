@@ -1,6 +1,6 @@
 # Melee Tag
 
-The tag `melee` contains 45 total entries.
+The tag `melee` contains 46 total entries.
 
 ## Objects
 
@@ -8,19 +8,19 @@ The tag `melee` contains 45 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 45 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 46 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_alta_baton.png" alt="Alta Baton icon" loading="lazy" width="auto" height="16px"> [Alta Baton](https://ceterai.github.io/MyEnternia/Wiki/AltaBaton)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" width="auto" height="16px"> [Alter-Sword ★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sword)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" width="auto" height="16px"> [Alternia Spear](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSpear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/ammerax.png" alt="Ammerax ★★★ icon" loading="lazy" width="auto" height="16px"> [Ammerax ★★★](https://ceterai.github.io/MyEnternia/Wiki/Ammerax)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/asirai.png" alt="Asirai ★★ icon" loading="lazy" width="auto" height="16px"> [Asirai ★★](https://ceterai.github.io/MyEnternia/Wiki/Asirai)
-- [Asterix](https://ceterai.github.io/MyEnternia/Wiki/Asterix)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_astralis.png" alt="Astralis ★★ icon" loading="lazy" width="auto" height="16px"> [Astralis ★★](https://ceterai.github.io/MyEnternia/Wiki/Astralis)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_ayaka_stick.png" alt="Ayaka Stick icon" loading="lazy" width="auto" height="16px"> [Ayaka Stick](https://ceterai.github.io/MyEnternia/Wiki/AyakaStick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Cry ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sCry)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" width="auto" height="16px"> [Barracuda's Fin](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sFin)
-- [Barracuda's Horn](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sHorn)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-horn.png" alt="Barracuda's Horn icon" loading="lazy" width="auto" height="16px"> [Barracuda's Horn](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sHorn)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-horn-upgrade.png" alt="Barracuda's Wing ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Wing ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sWing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" width="auto" height="16px"> [Bi-Blade ★](https://ceterai.github.io/MyEnternia/Wiki/Bi-Blade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" width="auto" height="16px"> [Bishyn Spear](https://ceterai.github.io/MyEnternia/Wiki/BishynSpear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png" alt="Calin Sword icon" loading="lazy" width="auto" height="16px"> [Calin Sword](https://ceterai.github.io/MyEnternia/Wiki/CalinSword)
@@ -48,10 +48,11 @@ The tag `melee` contains 45 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" width="auto" height="16px"> [Razhus Az'Ar ★](https://ceterai.github.io/MyEnternia/Wiki/RazhusAz'Ar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_sinigai.png" alt="Sinigai ★★ icon" loading="lazy" width="auto" height="16px"> [Sinigai ★★](https://ceterai.github.io/MyEnternia/Wiki/Sinigai)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/bossdrop/soluskatana/soluskatanaicon_l6.png" alt="Solus Katana ★ icon" loading="lazy" width="auto" height="16px"> [Solus Katana ★](https://ceterai.github.io/MyEnternia/Wiki/SolusKatana)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_spectre.png" alt="Spectre icon" loading="lazy" width="auto" height="16px"> [Spectre](https://ceterai.github.io/MyEnternia/Wiki/Spectre)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_staris_sword.png" alt="Staris Sword ★ icon" loading="lazy" width="auto" height="16px"> [Staris Sword ★](https://ceterai.github.io/MyEnternia/Wiki/StarisSword)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" width="auto" height="16px"> [Stun Stick](https://ceterai.github.io/MyEnternia/Wiki/StunStick)
-- [Suria-Prime ★★](https://ceterai.github.io/MyEnternia/Wiki/Suria-Prime)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/bossdrop/soluskatana/soluskatanaicon.png" alt="Suria-Prime ★★ icon" loading="lazy" width="auto" height="16px"> [Suria-Prime ★★](https://ceterai.github.io/MyEnternia/Wiki/Suria-Prime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" width="auto" height="16px"> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"> [Vionos Twins](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_winged_halberd.png" alt="Winged Halberd ★ icon" loading="lazy" width="auto" height="16px"> [Winged Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/WingedHalberd)

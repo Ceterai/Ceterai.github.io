@@ -4,10 +4,11 @@
 
 Constantly replenishes your energy by 0.5% each second.
 
-<details markdown="1"><summary>Applied by following items: (Expand 11 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-bishyn.png" alt="Bishyn Shield ★ icon" loading="lazy" width="auto" height="16px"> [Bishyn Shield ★](https://ceterai.github.io/MyEnternia/Wiki/BishynShield)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-upgrade.png" alt="Cave Keeper ★ icon" loading="lazy" width="auto" height="16px"> [Cave Keeper ★](https://ceterai.github.io/MyEnternia/Wiki/CaveKeeper)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-bishyn-upgrade.png" alt="Centavra ★★ icon" loading="lazy" width="auto" height="16px"> [Centavra ★★](https://ceterai.github.io/MyEnternia/Wiki/Centavra)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/helmet/icon.png" alt="Combat Helmet ★ icon" loading="lazy" width="auto" height="16px"> [Combat Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/CombatHelmet)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-carel.png" alt="Crystal Plant Shield icon" loading="lazy" width="auto" height="16px"> [Crystal Plant Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystalPlantShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" width="auto" height="16px"> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield)

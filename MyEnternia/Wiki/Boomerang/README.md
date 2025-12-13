@@ -1,9 +1,11 @@
 # Boomerang
 
- **Boomerang** is a common boomerang.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/boomerang/boomerang.png" alt="Boomerang icon" loading="lazy" width="auto" height="16px"> **Boomerang** is a legendary one-handed boomerang.
 
 A simple alta toy with powerful thrusters. You won't use it for hurting anyone, right?  
 Its simple shape and common alta colors make it a staple in alta culture and a common item at [alterash riverside](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides) resorts.
+
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/boomerang/boomerang_l6.png" alt="Powerang ★ icon" loading="lazy" width="auto" height="16px"> [Powerang ★](https://ceterai.github.io/MyEnternia/Wiki/Powerang) at the Weapon Upgrade Anvil.
 
 ## Ingame
 
@@ -14,6 +16,10 @@ Species descriptions:
 Radiomessages on pickup:
 
 - You've just picked up an alta weapon, or an "energy tool", as they call it. According to my database, these usually have an extended set of features. I suggest reading its description.
+
+## Parameters
+
+- Cooldown: 0.6s
 
 ## Sources
 
@@ -28,6 +34,6 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_tool_mimic-boomerang`
 - Level: `2`
 - Power: `1.5`
-- Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`boomerang`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Boomerang), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`boomerang`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Boomerang), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/buildscripts/ct_mimics/tool.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/tool.activeitem)

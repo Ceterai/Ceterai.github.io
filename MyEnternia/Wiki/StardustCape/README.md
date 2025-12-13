@@ -1,6 +1,6 @@
 # Stardust Cape
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Stardust Cape icon" loading="lazy" width="auto" height="16px"> **Stardust Cape** is a legendary back cosmetic item.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/backitems/rainbowcape/rainbowcapebackicon.png" alt="Stardust Cape icon" loading="lazy" width="auto" height="16px"> **Stardust Cape** is a rare back cosmetic item.
 
 A pretty cape made of starmatter and pure stardust.  
 You can see tiny stardust particles radiate from inside it.
@@ -30,6 +30,6 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_back_mimic-cape_stardust`
 - Level: `7`
 - Power: `4.0`
-- Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)
+- Rarity: `Rare`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`stardust`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Stardust)
 - File: [`/items/buildscripts/ct_mimics/back.back`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/back.back)

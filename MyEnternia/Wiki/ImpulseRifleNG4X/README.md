@@ -26,20 +26,20 @@ Firemodes: charge, semiauto.
 
 Parameters:
 
-- Energy Usage: 32
-- Fire Time: 0.7
-- Default Fire Type: `charge`
 - Base Dps: 6
 - Fire Types:
   - Semi:
     - Press Params:
-      - Type: `ct_impulse_medium`
       - Inaccuracy: 0.001
-      - Count: 2
+      - Type: `ct_impulse_medium`
       - Interval: 0.1
+      - Count: 2
     - Hold Time Max:
     - Press Type: `semi`
   - Charge:
+    - Hold Start: `charge`
+    - Hold Loop: `charging`
+    - Hold Type: `blast`
     - Press Params:
       - Type: `ct_impulse_medium`
       - Inaccuracy: 0.001
@@ -48,10 +48,10 @@ Parameters:
       - Type: `ct_impulse_large`
       - Inaccuracy: 0.001
       - Sound: `primary_hold`
-    - Hold Type: `blast`
-    - Hold Start: `charge`
-    - Hold Loop: `charging`
     - Press Type: `blast`
+- Fire Time: 0.7
+- Default Fire Type: `charge`
+- Energy Usage: 32
 
 ### Security Switch
 

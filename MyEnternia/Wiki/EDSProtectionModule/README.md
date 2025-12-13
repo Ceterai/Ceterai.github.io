@@ -4,11 +4,12 @@
 
 Adds 10% electric resistance and 2 defense.
 
-<details markdown="1"><summary>Applied by following items: (Expand 6 items)</summary>
+<details markdown="1"><summary>Applied by following items: (Expand 7 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" width="auto" height="16px"> [EDS Armored Greaves](https://ceterai.github.io/MyEnternia/Wiki/EDSArmoredGreaves)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-upgrade.png" alt="EDS Protector ★ icon" loading="lazy" width="auto" height="16px"> [EDS Protector ★](https://ceterai.github.io/MyEnternia/Wiki/EDSProtector)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_eds_shield.png" alt="EDS Shield icon" loading="lazy" width="auto" height="16px"> [EDS Shield](https://ceterai.github.io/MyEnternia/Wiki/EDSShield)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-security-upgrade.png" alt="Elite Shield ★★ icon" loading="lazy" width="auto" height="16px"> [Elite Shield ★★](https://ceterai.github.io/MyEnternia/Wiki/EliteShield)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-faradea.png" alt="Faradea Shield icon" loading="lazy" width="auto" height="16px"> [Faradea Shield](https://ceterai.github.io/MyEnternia/Wiki/FaradeaShield)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-security.png" alt="Security Shield ★ icon" loading="lazy" width="auto" height="16px"> [Security Shield ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityShield)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_legwear-koywa.png" alt="Thermoleggings ★ icon" loading="lazy" width="auto" height="16px"> [Thermoleggings ★](https://ceterai.github.io/MyEnternia/Wiki/Thermoleggings)

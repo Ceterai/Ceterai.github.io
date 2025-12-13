@@ -1,6 +1,6 @@
 # Alta Pear
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> **Alta Pear** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> **Alta Pear** is a common food item.
 
 These tasty small fruits were named after their shape. These are bush fruits that are very hard to find in the wild, but are often grown by gardeners.  
 Some speculate that deep origins of these fruits relate them to ayas, impacted by a differing environment.
@@ -14,6 +14,7 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 5
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Sources
 

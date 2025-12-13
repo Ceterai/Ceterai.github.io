@@ -1,17 +1,28 @@
 # Alta Lab Desk
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Lab Desk icon" loading="lazy" width="auto" height="16px"> **Alta Lab Desk** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/apex/apexcooldesk/apexcooldeskicon.png" alt="Alta Lab Desk icon" loading="lazy" width="auto" height="16px"> **Alta Lab Desk** is an uncommon piece of furniture.
 
 This full-pack desk compensates its weight with usefulness.  
 Even so, desk are not the most common piece of furniture among altas because they aren't particularly modular, light-weight or simplistic.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A proper desk, with drawers and stuff. Not my style to be honest.
+- Apex: I wonder who worked here...
+- Avian: A desk of metal - clinical in appearance.
+- Floran: Dessk iss cool to touch.
+- Glitch: Indifference. A desk.
+- Human: A professional-looking desk.
+- Hylotl: A thin metal desk.
+- Novakid: A shiny lookin' desk made outta metal.
+
+</details>
 
 ## Parameters
+
+- Slot Count: 9
 
 - Health: 2.0
 

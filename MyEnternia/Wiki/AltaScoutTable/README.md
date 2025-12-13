@@ -1,15 +1,24 @@
 # Alta Scout Table
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"> **Alta Scout Table** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3table/tier3tableicon.png" alt="Alta Scout Table icon" loading="lazy" width="auto" height="16px"> **Alta Scout Table** is an uncommon piece of furniture.
 
 A hefty <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) table with maintenance panel on the side.  
 Alta scouts often use these tables for route planning, map construction and energy tool maintenance. It's broad and edgeless to provide more space.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Is this where [scavas](https://ceterai.github.io/MyEnternia/Wiki/scavas) make their maps?
+- Apex: This titanium table is very sleek.
+- Avian: An immensely sturdy titanium table.
+- Floran: Table good enough for Floran to ssslice meatsss.
+- Glitch: Approving. A very well-made titanium table.
+- Human: A cool titanium table.
+- Hylotl: Not usually my kind of table, but this is rather impressive.
+- Novakid: A good titanium table.
+
+</details>
 
 ## Parameters
 

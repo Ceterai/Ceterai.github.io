@@ -22,14 +22,14 @@ Compact phosicore of this weapon is able to rapidly generate small accelerated [
 
 Parameters:
 
-- Hold Time Min: 0.9
 - Hold Time Max:
-- Press Type: `blast`
 - Energy Usage: 16
 - Press Params:
+  - Count: 2
   - Type: `ct_ionic_small`
   - Inaccuracy: 0.06
-  - Count: 2
+- Press Type: `blast`
+- Hold Time Min: 0.9
 - Fire Time: 0.11
 - Base Dps: 4
 

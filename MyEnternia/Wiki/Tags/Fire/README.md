@@ -1,6 +1,6 @@
 # Fire Tag
 
-The tag `fire` contains 17 total entries.
+The tag `fire` contains 18 total entries.
 
 ## Objects
 
@@ -14,9 +14,9 @@ Following objects have this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 15 items)</summary>
 
-- [EDS Heavy Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSHeavyBlaster)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy.png" alt="EDS Heavy Blaster ★★ icon" loading="lazy" width="auto" height="16px"> [EDS Heavy Blaster ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSHeavyBlaster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/engineer.png" alt="Engineer Drone ★★★ icon" loading="lazy" width="auto" height="16px"> [Engineer Drone ★★★](https://ceterai.github.io/MyEnternia/Wiki/EngineerDrone)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_thermomix_nade-diy.png" alt="Handmade Thermomix icon" loading="lazy" width="auto" height="16px"> [Handmade Thermomix](https://ceterai.github.io/MyEnternia/Wiki/HandmadeThermomix)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/lava.png" alt="Lava Drone ★★ icon" loading="lazy" width="auto" height="16px"> [Lava Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/LavaDrone)
@@ -29,6 +29,7 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_thermomix_nade-koywa.png" alt="Thermofrag Nade icon" loading="lazy" width="auto" height="16px"> [Thermofrag Nade](https://ceterai.github.io/MyEnternia/Wiki/ThermofragNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_thermomix_nade.png" alt="Thermomix icon" loading="lazy" width="auto" height="16px"> [Thermomix](https://ceterai.github.io/MyEnternia/Wiki/Thermomix)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_tsentarish.png" alt="Tsentarish ★ WIP icon" loading="lazy" width="auto" height="16px"> [Tsentarish ★ WIP](https://ceterai.github.io/MyEnternia/Wiki/TsentarishWIP)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy-upgrade.png" alt="Vermillion ★★★ icon" loading="lazy" width="auto" height="16px"> [Vermillion ★★★](https://ceterai.github.io/MyEnternia/Wiki/Vermillion)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_vitershai.png" alt="Viter-Shai ★ icon" loading="lazy" width="auto" height="16px"> [Viter-Shai ★](https://ceterai.github.io/MyEnternia/Wiki/Viter-Shai)
 
 </details>

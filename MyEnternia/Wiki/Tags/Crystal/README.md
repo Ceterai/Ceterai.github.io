@@ -1,6 +1,6 @@
 # Crystal Tag
 
-The tag `crystal` contains 99 total entries.
+The tag `crystal` contains 101 total entries.
 
 ## Objects
 
@@ -83,7 +83,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 34 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="Alternia Shard icon" loading="lazy" width="auto" height="16px"> [Alternia Shard](https://ceterai.github.io/MyEnternia/Wiki/AlterniaShard)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alunika.png" alt="Alunika icon" loading="lazy" width="auto" height="16px"> [Alunika](https://ceterai.github.io/MyEnternia/Wiki/Alunika)
@@ -94,12 +94,13 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-bishyn.png" alt="Bishyn Shield ★ icon" loading="lazy" width="auto" height="16px"> [Bishyn Shield ★](https://ceterai.github.io/MyEnternia/Wiki/BishynShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" width="auto" height="16px"> [Bishyn Spear](https://ceterai.github.io/MyEnternia/Wiki/BishynSpear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calin Loot Crate icon" loading="lazy" width="auto" height="16px"> [Calin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/CalinLootCrate)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Calin Mask icon" loading="lazy" width="auto" height="16px"> [Calin Mask](https://ceterai.github.io/MyEnternia/Wiki/CalinMask)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/biome/geode/geode/icons.png:head" alt="Calin Mask icon" loading="lazy" width="auto" height="16px"> [Calin Mask](https://ceterai.github.io/MyEnternia/Wiki/CalinMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_calin_shield.png" alt="Calin Shield icon" loading="lazy" width="auto" height="16px"> [Calin Shield](https://ceterai.github.io/MyEnternia/Wiki/CalinShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png" alt="Calin Sword icon" loading="lazy" width="auto" height="16px"> [Calin Sword](https://ceterai.github.io/MyEnternia/Wiki/CalinSword)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" width="auto" height="16px"> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calio_tea-carel.png" alt="Carel Tea icon" loading="lazy" width="auto" height="16px"> [Carel Tea](https://ceterai.github.io/MyEnternia/Wiki/CarelTea)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-upgrade.png" alt="Cave Keeper ★ icon" loading="lazy" width="auto" height="16px"> [Cave Keeper ★](https://ceterai.github.io/MyEnternia/Wiki/CaveKeeper)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-bishyn-upgrade.png" alt="Centavra ★★ icon" loading="lazy" width="auto" height="16px"> [Centavra ★★](https://ceterai.github.io/MyEnternia/Wiki/Centavra)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword_2.png" alt="Crystal Blade ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Blade ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalBlade)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calin_shield-upgrade.png" alt="Crystal Heart ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Heart ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalHeart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/misc/ct_misc_crystal_pillar_hat/icon.png" alt="Crystal Pillar Hat icon" loading="lazy" width="auto" height="16px"> [Crystal Pillar Hat](https://ceterai.github.io/MyEnternia/Wiki/CrystalPillarHat)
@@ -109,6 +110,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_crystalline_shield.png" alt="Crystalline Shield icon" loading="lazy" width="auto" height="16px"> [Crystalline Shield](https://ceterai.github.io/MyEnternia/Wiki/CrystallineShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" width="auto" height="16px"> [Crystalline Sword](https://ceterai.github.io/MyEnternia/Wiki/CrystallineSword)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calin_shield-amethyst.png" alt="Crystallite icon" loading="lazy" width="auto" height="16px"> [Crystallite](https://ceterai.github.io/MyEnternia/Wiki/Crystallite)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calin_shield-amethyst-upgrade.png" alt="Crystallite Prime ★ icon" loading="lazy" width="auto" height="16px"> [Crystallite Prime ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallitePrime)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" width="auto" height="16px"> [Halter Compact ★](https://ceterai.github.io/MyEnternia/Wiki/HalterCompact)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_protolaris.png" alt="Ikai Protolaris ★ icon" loading="lazy" width="auto" height="16px"> [Ikai Protolaris ★](https://ceterai.github.io/MyEnternia/Wiki/IkaiProtolaris)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool.png" alt="Multi-Tool icon" loading="lazy" width="auto" height="16px"> [Multi-Tool](https://ceterai.github.io/MyEnternia/Wiki/Multi-Tool)
@@ -116,6 +118,6 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" width="auto" height="16px"> [Stun Stick](https://ceterai.github.io/MyEnternia/Wiki/StunStick)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calio_tea-thick.png" alt="Thick Calio Tea ★ icon" loading="lazy" width="auto" height="16px"> [Thick Calio Tea ★](https://ceterai.github.io/MyEnternia/Wiki/ThickCalioTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" width="auto" height="16px"> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/buildscripts/ct_mimics/images/uncommon/1.png:nearidle" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"> [Vi-Callista ★★](https://ceterai.github.io/MyEnternia/Wiki/Vi-Callista)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/images/uncommon/1.png:nearidle" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"> [Vi-Callista ★★](https://ceterai.github.io/MyEnternia/Wiki/Vi-Callista)
 
 </details>

@@ -1,15 +1,24 @@
 # Alta Scout Bed
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Scout Bed icon" loading="lazy" width="auto" height="16px"> **Alta Scout Bed** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/tiered/tier3bed/tier3bedicon.png" alt="Alta Scout Bed icon" loading="lazy" width="auto" height="16px"> **Alta Scout Bed** is an uncommon piece of furniture.
 
 Proper wide bed with a special [protocharger](https://ceterai.github.io/MyEnternia/Wiki/protocharger).  
 This cozy platform of sleep usually hosts two alta scouts instead of just one. The charger is used to replenish energy in their protosystems.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: Is this where [scavas](https://ceterai.github.io/MyEnternia/Wiki/scavas) have... erm... sleep?.. Can I?..
+- Apex: A nice, comfy bed.
+- Avian: This is very comfortable place to rest my feathers.
+- Floran: Floran ressst in great bed.
+- Glitch: Happy. I will sleep well in this bed.
+- Human: A great bed. Should easily be able to get some rest here.
+- Hylotl: Decent build quality. It'll do.
+- Novakid: Looks like a pretty darn decent bed!
+
+</details>
 
 ## Parameters
 

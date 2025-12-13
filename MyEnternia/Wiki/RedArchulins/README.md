@@ -1,6 +1,6 @@
 # Red Archulins
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-red_archulins.png" alt="Red Archulins icon" loading="lazy" width="auto" height="16px"> **Red Archulins** is a common dish.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-red_archulins.png" alt="Red Archulins icon" loading="lazy" width="auto" height="16px"> **Red Archulins** is a common food item.
 
 A rare sort of [archulins](https://ceterai.github.io/MyEnternia/Wiki/archulins) that is much smaller than usual, and is perfectly safe to eat as it is. Enjoy!  
 These often grow in bigger groups than basic archulins, but are pretty difficult to find due to strict reuirements to the environment.
@@ -19,6 +19,7 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 ## Parameters
 
 - Food Value: 5
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
 
 ## Sources
 

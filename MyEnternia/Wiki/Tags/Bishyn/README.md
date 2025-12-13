@@ -1,6 +1,6 @@
 # Bishyn Tag
 
-The tag `bishyn` contains 29 total entries.
+The tag `bishyn` contains 30 total entries.
 
 ## Objects
 
@@ -31,7 +31,7 @@ The tag `bishyn` contains 29 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 11 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_bishyn_augment.png" alt="Bishyn Augment ★ icon" loading="lazy" width="auto" height="16px"> [Bishyn Augment ★](https://ceterai.github.io/MyEnternia/Wiki/BishynAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun_2.png" alt="Bishyn Cannon ★ icon" loading="lazy" width="auto" height="16px"> [Bishyn Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/BishynCannon)
@@ -42,6 +42,7 @@ The tag `bishyn` contains 29 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_bishyn_nade.png" alt="Bishyn Nade icon" loading="lazy" width="auto" height="16px"> [Bishyn Nade](https://ceterai.github.io/MyEnternia/Wiki/BishynNade)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-bishyn.png" alt="Bishyn Shield ★ icon" loading="lazy" width="auto" height="16px"> [Bishyn Shield ★](https://ceterai.github.io/MyEnternia/Wiki/BishynShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" width="auto" height="16px"> [Bishyn Spear](https://ceterai.github.io/MyEnternia/Wiki/BishynSpear)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-bishyn-upgrade.png" alt="Centavra ★★ icon" loading="lazy" width="auto" height="16px"> [Centavra ★★](https://ceterai.github.io/MyEnternia/Wiki/Centavra)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" width="auto" height="16px"> [Razhus Az'Ar ★](https://ceterai.github.io/MyEnternia/Wiki/RazhusAz'Ar)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Unika Offices Initiative icon" loading="lazy" width="auto" height="16px"> [Unika Offices Initiative](https://ceterai.github.io/MyEnternia/Wiki/UnikaOfficesInitiative)
 

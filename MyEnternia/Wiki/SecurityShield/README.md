@@ -5,6 +5,8 @@
 A shield used by some security guards. They have been deprecated since altas were able to find a way to co-exists with slimes.  
 They were the most prominent "visitors" of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"> [alta cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities), and had to be gotten rid of somehow. These shields are taller than most slimes' jump height, and thus are perfect for containing them.
 
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-security-upgrade.png" alt="Elite Shield ★★ icon" loading="lazy" width="auto" height="16px"> [Elite Shield ★★](https://ceterai.github.io/MyEnternia/Wiki/EliteShield) at the Weapon Upgrade Anvil.
+
 ## Ingame
 
 Species descriptions:

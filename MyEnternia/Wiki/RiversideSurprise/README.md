@@ -11,15 +11,6 @@ Species descriptions:
 
 - Alta: This one is more interesting to drink than anything. You wouldn't exactly call this comfort food, but would still make some on occasion.
 
-## Parameters
-
-- Food Value: 10
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/confused.png:1" alt="Curious icon" loading="lazy" width="auto" height="16px"> [Curious](https://ceterai.github.io/MyEnternia/Wiki/Curious) (240s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (240s)
-
 ## Usage
 
 ### Crafting

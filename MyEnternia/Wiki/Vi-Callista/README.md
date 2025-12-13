@@ -1,6 +1,6 @@
 # Vi-Callista ★★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/buildscripts/ct_mimics/images/uncommon/1.png:nearidle" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"> **Vi-Callista ★★** is a rare electric shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/images/uncommon/1.png:nearidle" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"> **Vi-Callista ★★** is an uncommon one-handed electric shield.
 
 This <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystal](https://starbounder.org/Crystal) shield is ornamented with [enchanted](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted) rims.  
 Its pristine nature is a somewhat rare effect of enchanted influence. This indicates its naturally impecable structure.
@@ -18,6 +18,9 @@ Radiomessages on pickup:
 ## Parameters
 
 - Shield Health: 64
+- Min time: 0.3s
+- Cooldown: 0.9s
+- Knockback: 10
 
 Applies effects on knockback:
 
@@ -39,7 +42,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 
 - In-game ID: `ct_tool_mimic-vi_callista`
 - Level: `5`
-- Power: `3.58`
-- Rarity: `Rare`
-- Tags: [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`enchanted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield)
+- Power: `3.61`
+- Rarity: `Uncommon`
+- Tags: [`crystal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crystal), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`enchanted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/buildscripts/ct_mimics/tool.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/tool.activeitem)

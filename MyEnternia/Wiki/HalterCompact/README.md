@@ -31,10 +31,10 @@ Parameters:
   - Damage Source Kind: `electric`
   - Timeout Group: `primary`
   - Timeout: 0.3
-- Fire Time: 0.625
-- Base Dps: 6
 - Projectile Type: `whipcrackelectric`
 - Crack Dps: 7.2
+- Fire Time: 0.625
+- Base Dps: 6
 
 ## Sources
 

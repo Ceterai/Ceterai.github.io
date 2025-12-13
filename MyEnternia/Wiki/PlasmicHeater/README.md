@@ -1,0 +1,42 @@
+# Plasmic Heater ★★
+
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ioncore_shield-koywa-upgrade.png" alt="Plasmic Heater ★★ icon" loading="lazy" width="auto" height="16px"> **Plasmic Heater ★★** is a legendary electric shield.
+
+A plasma-powered stardust enhancement for a thermoprotector.  
+It's not known who is the original owner of this artifact, since riverside scouts usually reserve to a less powerful factory analog.
+
+An upgrade for <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ioncore_shield-koywa.png" alt="Thermoprotector ★ icon" loading="lazy" width="auto" height="16px"> [Thermoprotector ★](https://ceterai.github.io/MyEnternia/Wiki/Thermoprotector).
+
+## Ingame
+
+Species descriptions:
+
+- Alta: A hand-held directional microwave. Very creative.
+
+Radiomessages on pickup:
+
+- You're holding an alta shield. My database shows an enhanced set of features, loading a proper description for you. Protection is known to be a prominent topic in alta culture and a big research field as well, so this might be worth checking out.
+
+## Parameters
+
+- Shield Health: 58
+- Min time: 0.3s
+- Cooldown: 0.9s
+- Knockback: 10
+
+Applies effects on knockback:
+
+- <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"> [Burning](https://starbounder.org/Burning)
+
+## Sources
+
+Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).
+
+## Technical Information
+
+- In-game ID: `ct_ioncore_shield-koywa-upgrade`
+- Level: `6`
+- Power: `4.21`
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`thermo`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Thermo), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
+- File: [`/items/active/shields/ct_ioncore_shield.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/shields/ct_ioncore_shield.activeitem)

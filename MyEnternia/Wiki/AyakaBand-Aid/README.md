@@ -1,6 +1,6 @@
 # Ayaka Band-Aid
 
- **Ayaka Band-Aid** is a common medical item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aid_mimic-bandade.png" alt="Ayaka Band-Aid icon" loading="lazy" width="auto" height="16px"> **Ayaka Band-Aid** is a common medical item.
 
 A small tidy bandade pack made by a common alta pharmacy. Follows all sanitary protocols and does its job quite well.  
 Made from processed <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) and <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [silk](https://starbounder.org/Silk), it acts as both disinfectant and an absorber.
@@ -23,7 +23,7 @@ Applies effects:
 
 Can be crafted:
 
-- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs  Ayaka Band-Aid x*1*):
+- Tier 1 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon1.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aid_mimic-bandade.png" alt="Ayaka Band-Aid icon" loading="lazy" width="auto" height="16px"> Ayaka Band-Aid x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*4*
 
 Found naturally in containers:

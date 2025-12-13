@@ -1,15 +1,24 @@
 # Alta Mikolight
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"> **Alta Mikolight** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/neon/neonlight/neonlighticon.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"> **Alta Mikolight** is an uncommon light source.
 
 A neon pink light used by altas everywhere, especially in clubhouses.  
 It illuminates the space with highly-saturated dim glow, perfect for a relaxed atmosphere. The colors mix together beautifully when near each other.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: I want to grab a cocktail and dance under a bunch of these!
+- Apex: These lights give off a warm magenta hue.
+- Avian: This neon light reminds me of a sunset, shining through diamond clouds.
+- Floran: Pink isss a strong colour! Colour of strong and healthy flower!
+- Glitch: Calm. This light creates a pleasant atmosphere.
+- Human: neon lights, for when you want to give a room a cool atmosphere.
+- Hylotl: This neon light reminds me of sunbeam filtered through sapphire oceans.
+- Novakid: This light's like a cold burnin' star, though a little smaller.
+
+</details>
 
 ## Parameters
 

@@ -1,15 +1,24 @@
 # Tea Cafe Sign
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"> **Tea Cafe Sign** is an uncommon decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/hylotl/softdrinksign/softdrinksignicon.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"> **Tea Cafe Sign** is an uncommon decorative object.
 
 A sign indicating a nearby herb cafe.  
 Tea cafes are quite common among altas, as well as the tea itself, with hundreds of recipes being shared in different alta cooking books.
 
 ## Ingame
 
-Species descriptions:
+<details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
 - Alta: A cafe sign. Wouldn't mind going for a cup of tea.
+- Apex: The sign is advertising natural soft drinks.
+- Avian: It's an advertisement for soft drinks.
+- Floran: Ssign for drinkss.
+- Glitch: Indifferent. The sign is advertising a brand of all-natural soft drinks.
+- Human: It's a sign advertising soft drinks.
+- Hylotl: The sign is advertising a particularly tasty brand of natural soft drinks.
+- Novakid: It's a ad for a drinks brand.
+
+</details>
 
 ## Parameters
 

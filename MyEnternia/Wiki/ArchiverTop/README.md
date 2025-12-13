@@ -1,6 +1,6 @@
 # Archiver Top
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_body_mimic-archiver.png" alt="Archiver Top icon" loading="lazy" width="auto" height="16px"> **Archiver Top** is an uncommon chest cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_body_mimic-archiver.png" alt="Archiver Top icon" loading="lazy" width="auto" height="16px"> **Archiver Top** is a legendary chest cosmetic item.
 
 A top half of a scientific coat used by alta archivers. Has lots of pockets for storing all the science goods!  
 The underlayered sweater is pretty worm and cozy, and is a bit softer compared to the regular researcher attire.
@@ -37,7 +37,7 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 
 - In-game ID: `ct_body_mimic-archiver`
 - Level: `4`
-- Power: `1.0`
-- Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`knowledge`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Knowledge), [`tier4clothing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Clothing), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Power: `2.5`
+- Rarity: `Legendary`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`knowledge`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Knowledge), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tier4clothing`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier4Clothing)
 - File: [`/items/buildscripts/ct_mimics/body.chest`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/body.chest)

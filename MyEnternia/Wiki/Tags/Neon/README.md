@@ -6,9 +6,9 @@ The tag `neon` contains 5 total entries.
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"> [Alta Altolight](https://ceterai.github.io/MyEnternia/Wiki/AltaAltolight)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"> [Alta Mikolight](https://ceterai.github.io/MyEnternia/Wiki/AltaMikolight)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/generic/bluelight/bluelighticon.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"> [Alta Altolight](https://ceterai.github.io/MyEnternia/Wiki/AltaAltolight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/neon/neonlight/neonlighticon.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"> [Alta Mikolight](https://ceterai.github.io/MyEnternia/Wiki/AltaMikolight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/hylotl/softdrinksign/softdrinksignicon.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
 
 ### Vanilla Objects
 

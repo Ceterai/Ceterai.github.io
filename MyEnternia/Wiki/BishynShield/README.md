@@ -5,6 +5,8 @@
 This simple shield is hiding some secret poison-related powers that you might want to explore.  
 It has a special device attached to the handle that is meant to adapt your body to the nature of bishyn crystal poison.
 
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-bishyn-upgrade.png" alt="Centavra ★★ icon" loading="lazy" width="auto" height="16px"> [Centavra ★★](https://ceterai.github.io/MyEnternia/Wiki/Centavra) at the Weapon Upgrade Anvil.
+
 ## Ingame
 
 Species descriptions:

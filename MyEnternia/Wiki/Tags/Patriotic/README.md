@@ -36,7 +36,7 @@ Following tenants require this colony tag:
 <details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/ct_alta_firework.png" alt="Alta Firework icon" loading="lazy" width="auto" height="16px"> [Alta Firework](https://ceterai.github.io/MyEnternia/Wiki/AltaFirework)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"> [Alta Flower](https://ceterai.github.io/MyEnternia/Wiki/AltaFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/decorative/hats/protectorateflower/icons.png:head" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"> [Alta Flower](https://ceterai.github.io/MyEnternia/Wiki/AltaFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png" alt="EDS Duty Beret icon" loading="lazy" width="auto" height="16px"> [EDS Duty Beret](https://ceterai.github.io/MyEnternia/Wiki/EDSDutyBeret)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"> [Elite Generator ★](https://ceterai.github.io/MyEnternia/Wiki/EliteGenerator)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"> [Imperial Generator ★](https://ceterai.github.io/MyEnternia/Wiki/ImperialGenerator)

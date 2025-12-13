@@ -1,6 +1,6 @@
 # Alta Breathing Pack
 
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_back_mimic-breathing_pack.png" alt="Alta Breathing Pack icon" loading="lazy" width="auto" height="16px"> **Alta Breathing Pack** is an uncommon back cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_back_mimic-breathing_pack.png" alt="Alta Breathing Pack icon" loading="lazy" width="auto" height="16px"> **Alta Breathing Pack** is a rare back cosmetic item.
 
 A pair of tanks filled with condensed oxygen (or any other breathable substance), made by latest alta safety protocols.  
 Most often than not it contains an artificial breathable compound gas (or ABCG for short), most compatible with altas.
@@ -52,5 +52,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - In-game ID: `ct_back_mimic-breathing_pack`
 - Level: `4`
 - Power: `2.5`
-- Rarity: `Uncommon`
+- Rarity: `Rare`
 - File: [`/items/buildscripts/ct_mimics/back.back`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/back.back)

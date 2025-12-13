@@ -5,6 +5,8 @@
 A rare amethyst crystal formation with good protective capabilities. Quite pretty as well.  
 This variation of a regular gemstone is much more resistant than usual, however, not nearly as resistant as some other crystals.
 
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calin_shield-amethyst-upgrade.png" alt="Crystallite Prime ★ icon" loading="lazy" width="auto" height="16px"> [Crystallite Prime ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallitePrime) at the Weapon Upgrade Anvil.
+
 ## Ingame
 
 Species descriptions:

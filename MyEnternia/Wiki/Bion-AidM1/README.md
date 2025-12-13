@@ -1,6 +1,6 @@
 # Bion-Aid M1 ★
 
- **Bion-Aid M1 ★** is an uncommon medical item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aid_mimic-bandade_bion_2.png" alt="Bion-Aid M1 ★ icon" loading="lazy" width="auto" height="16px"> **Bion-Aid M1 ★** is an uncommon medical item.
 
 An advanced set of bandading materials, made specifically for altas in critical conditions.  
 These special bion fibres are charged with the appropriate amount of plasma to increase their efficiency.

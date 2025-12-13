@@ -1,6 +1,6 @@
 # Alta Charlotte
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> **Alta Charlotte** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/oculemonmeringue.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> **Alta Charlotte** is a rare dish.
 
 This charlotte is baked using [faro koywa](https://ceterai.github.io/MyEnternia/Wiki/farokoywa) dough, with sweet fruits like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya), <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [alta pears](https://ceterai.github.io/MyEnternia/Wiki/AltaPear) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_eye.png" alt="Yaara Eye icon" loading="lazy" width="auto" height="16px"> [yaara eyes](https://ceterai.github.io/MyEnternia/Wiki/YaaraEye), or even <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alunika.png" alt="Alunika icon" loading="lazy" width="auto" height="16px"> [alunikas](https://ceterai.github.io/MyEnternia/Wiki/Alunika).  
 At its base, this charlotte can become a regular pie is you use jam instead of solid fruits, so make sure not to squish them too much.
@@ -14,12 +14,18 @@ Species descriptions:
 ## Parameters
 
 - Food Value: 40
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (203s)
+- <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Bonus Energy (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (203s)
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> Alta Charlotte x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/oculemonmeringue.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> Alta Charlotte x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*2*

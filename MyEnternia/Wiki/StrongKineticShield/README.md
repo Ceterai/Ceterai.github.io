@@ -39,5 +39,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - Level: `5`
 - Power: `3.29`
 - Rarity: `Rare`
-- Tags: [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`energy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Energy), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
+- Tags: [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`energy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Energy), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`shield`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
 - File: [`/items/active/shields/ct_kinetic_shield.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/shields/ct_kinetic_shield.activeitem)

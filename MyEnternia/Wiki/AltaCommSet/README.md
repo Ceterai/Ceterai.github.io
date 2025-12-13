@@ -1,6 +1,6 @@
 # Alta Comm Set
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/legwear/icon.png" alt="Alta Comm Set icon" loading="lazy" width="auto" height="16px"> **Alta Comm Set** is a common head armor piece.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/human/human-tier1/icons.png:head" alt="Alta Comm Set icon" loading="lazy" width="auto" height="16px"> **Alta Comm Set** is a common head armor piece.
 
 This ordinary communication set doesn't take a lot of space on your head, yet still provides simple protection. Like a headset, but useful.  
 These are usually worn by supervisors and agents on space stations.
@@ -10,6 +10,15 @@ These are usually worn by supervisors and agents on space stations.
 Species descriptions:
 
 - Alta: That little eye screen displays so much useful info!
+
+## Parameters
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/d/d0/Power_Icon.png" alt="Attack power icon" loading="lazy" width="15px" height="15px"> [Attack power](https://starbounder.org/Attack_power) +30.0%
+- <img src="https://starbounder.org/mediawiki/images/4/44/Health_Icon.png" alt="Health icon" loading="lazy" width="15px" height="15px"> [Health](https://starbounder.org/Health) +13.5
+- <img src="https://starbounder.org/mediawiki/images/a/a3/Energy_Icon.png" alt="Energy icon" loading="lazy" width="15px" height="15px"> [Energy](https://starbounder.org/Energy) +6.0
+- <img src="https://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png" alt="Defense icon" loading="lazy" width="15px" height="15px"> [Defense](https://starbounder.org/Defense) +6.0
 
 ## Usage
 

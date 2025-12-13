@@ -1,6 +1,6 @@
 # "Sentia's Crown" Pie ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> **"Sentia's Crown" Pie ★** is a rare dish.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/spookypie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> **"Sentia's Crown" Pie ★** is a rare dish.
 
 Full of sweet-sweet hardened [warped honey](https://ceterai.github.io/MyEnternia/Wiki/warpedhoney), enchanting [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) extracts and [archulin jam](https://ceterai.github.io/MyEnternia/Wiki/archulinjam)-based topping, this pie is basically filled with love! And... something else?...  
 It's known that [nivera sentias](https://ceterai.github.io/MyEnternia/Wiki/niverasentias) are often seen baking this interesting dish, and feeding it to unsuspecting altas. Sounds scary...
@@ -19,12 +19,25 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 ## Parameters
 
 - Food Value: 40
+- Blocking Effects:  <img src="https://starbounder.org/mediawiki/images/6/60/Status_Well_Fed.png" alt="Full Belly icon" loading="lazy" width="16px" height="16px"> [Full Belly](https://starbounder.org/Full_Belly)
+
+Applies effects:
+
+- <img src="https://starbounder.org/mediawiki/images/3/37/Status_Rage.png" alt="Rage icon" loading="lazy" width="16px" height="16px"> [Rage (Food)](https://starbounder.org/Rage) (270s)
+
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- `spookydonut`
 
 ## Sources
 
 Can be crafted:
 
-- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/assetMissing.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> "Sentia's Crown" Pie ★ x*1*):
+- ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/spookypie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> "Sentia's Crown" Pie ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_gillikada.png" alt="Gillikada icon" loading="lazy" width="auto" height="16px"> [Gillikada](https://ceterai.github.io/MyEnternia/Wiki/Gillikada) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_minto_spice.png" alt="Minto Spice icon" loading="lazy" width="auto" height="16px"> [Minto Spice](https://ceterai.github.io/MyEnternia/Wiki/MintoSpice) x*2*

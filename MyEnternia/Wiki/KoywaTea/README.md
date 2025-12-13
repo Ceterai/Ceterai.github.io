@@ -13,13 +13,6 @@ Species descriptions:
 
 ## Parameters
 
-- Food Value: 10
-
-Applies effects:
-
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/animations/emotes/confused.png:1" alt="Curious icon" loading="lazy" width="auto" height="16px"> [Curious](https://ceterai.github.io/MyEnternia/Wiki/Curious) (240s)
-- <img src="https://starbounder.org/mediawiki/images/thumb/1/16/Status_Health_Boost.png/48px-Status_Health_Boost.png" alt="Bonus Health icon" loading="lazy" width="16px" height="16px"> [Bonus Health (Food)](https://starbounder.org/Status_Effects#Stat_Boosts) (240s)
-
 Other variants:
 
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_koywa_tea-koywa.png" alt="Riverside Surprise ★ icon" loading="lazy" width="auto" height="16px"> [Riverside Surprise ★](https://ceterai.github.io/MyEnternia/Wiki/RiversideSurprise) ([perfect cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking))

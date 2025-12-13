@@ -1,6 +1,6 @@
 # Enchanted Shield ★
 
- **Enchanted Shield ★** is an uncommon cryogenic shield.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/images/eyepatch.png:nearidle" alt="Enchanted Shield ★ icon" loading="lazy" width="auto" height="16px"> **Enchanted Shield ★** is an uncommon one-handed cryogenic shield.
 
 A very familiar shield, corrupted by [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) anomalies.  
 The crystallized globe near the center feels alive in a way. The energy it radiates is similar to miazmas and.. ...did it twitch?..
@@ -18,6 +18,9 @@ Radiomessages on pickup:
 ## Parameters
 
 - Shield Health: 56
+- Min time: 0.2s
+- Cooldown: 0.5s
+- Knockback: 10
 
 Applies effects on knockback:
 

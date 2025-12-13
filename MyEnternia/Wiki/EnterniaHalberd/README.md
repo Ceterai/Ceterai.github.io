@@ -20,13 +20,8 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Power: 16
-- Dash Max Speed: 120
-- Projectile Count:
 - Hold Cooldown: 1.6
-- Damage Config:
-  - Damage Source Kind: `axe`
-- Energy Usage: 50
+- Power: 16
 - Step Damage Config: 
 - Base Damage Factor: 1.35
 - Knockback: 5, 
@@ -38,8 +33,13 @@ Parameters:
 - Knockback: 15
 - Status Effects:  `paralysis`
 - Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
-- Max Dash Time: 0.25
+- Dash Max Speed: 120
+- Projectile Count:
 - Combo Cooldown: 1.0
+- Damage Config:
+  - Damage Source Kind: `axe`
+- Max Dash Time: 0.25
+- Energy Usage: 50
 
 ### Energy Seeker
 
@@ -48,11 +48,11 @@ Alternative ability of the item, activated with right mouse button.
 Parameters:
 
 - Power: 4
+- Damage Config:
+
 - Projectile Parameters:
   - Knockback: 25
   - Time To Live: 2.5
-- Damage Config:
-
 - Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
 
 ## Sources
