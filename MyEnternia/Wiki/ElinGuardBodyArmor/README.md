@@ -1,6 +1,6 @@
 # Elin Guard Body Armor ★
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Elin Guard Body Armor ★ icon" loading="lazy" width="auto" height="16px"> **Elin Guard Body Armor ★** is an uncommon chest armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_elite_chest-elin.png" alt="Elin Guard Body Armor ★ icon" loading="lazy" width="auto" height="16px"> **Elin Guard Body Armor ★** is an uncommon chest armor piece.
 
 Worn by [elin guards](https://ceterai.github.io/MyEnternia/Wiki/ElinGuard) protecting different [elin gardens](https://ceterai.github.io/MyEnternia/Wiki/elingardens) around Io.  
 While inferior in characteristics to the original model, this one is much lighter in size and allows better mobility.

@@ -1,6 +1,6 @@
 # Neiteru-1 Researcher Coat
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/researcher_coat/icon.png" alt="Neiteru-1 Researcher Coat icon" loading="lazy" width="auto" height="16px"> **Neiteru-1 Researcher Coat** is a rare chest cosmetic item.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_researcher_coat-neiteru.png" alt="Neiteru-1 Researcher Coat icon" loading="lazy" width="auto" height="16px"> **Neiteru-1 Researcher Coat** is a rare chest cosmetic item.
 
 An official Neiteru researcher's coat. Practical and well thought-out.  
 Just like other pieces of alta laboratory attire, this one provides full body coverage with optional gloves to complete the set.

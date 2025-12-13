@@ -9,7 +9,7 @@ Applied by following items:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"> [Elite Generator ★](https://ceterai.github.io/MyEnternia/Wiki/EliteGenerator)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/protector/icon.png" alt="Elite Protector icon" loading="lazy" width="auto" height="16px"> [Elite Protector](https://ceterai.github.io/MyEnternia/Wiki/EliteProtector)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/back/icon.png" alt="Ghearun M1 Forcefield icon" loading="lazy" width="auto" height="16px"> [Ghearun M1 Forcefield](https://ceterai.github.io/MyEnternia/Wiki/GhearunM1Forcefield)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"> [Imperial Generator ★](https://ceterai.github.io/MyEnternia/Wiki/ImperialGenerator)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_elite_generator-capital.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"> [Imperial Generator ★](https://ceterai.github.io/MyEnternia/Wiki/ImperialGenerator)
 
 ## Parameters
 

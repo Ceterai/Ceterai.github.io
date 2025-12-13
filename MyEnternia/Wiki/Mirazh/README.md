@@ -18,8 +18,8 @@ Simple plasmic attacks that might take additional energy to generate.
 
 Parameters:
 
-- Fire Time: 0.625
 - Base Dps: 7.5
+- Fire Time: 0.625
 
 ## Sources
 

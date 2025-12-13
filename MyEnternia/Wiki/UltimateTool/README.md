@@ -26,11 +26,11 @@ This one got enhanced with extra switches and was re-weighted to make each swing
 
 Parameters:
 
-- Tool Range: 3.5
-- Base Dps: 6
 - Tile Damage: 1.8
 - Block Radius: 2
+- Base Dps: 6
 - Fire Time: 0.625
+- Tool Range: 3.5
 
 ## Sources
 

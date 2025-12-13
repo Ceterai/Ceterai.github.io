@@ -39,7 +39,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-flower.png" alt="Alta Flower icon" loading="lazy" width="auto" height="16px"> [Alta Flower](https://ceterai.github.io/MyEnternia/Wiki/AltaFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png" alt="EDS Duty Beret icon" loading="lazy" width="auto" height="16px"> [EDS Duty Beret](https://ceterai.github.io/MyEnternia/Wiki/EDSDutyBeret)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"> [Elite Generator ★](https://ceterai.github.io/MyEnternia/Wiki/EliteGenerator)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"> [Imperial Generator ★](https://ceterai.github.io/MyEnternia/Wiki/ImperialGenerator)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_elite_generator-capital.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"> [Imperial Generator ★](https://ceterai.github.io/MyEnternia/Wiki/ImperialGenerator)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/state_beret/icon.png" alt="State Beret icon" loading="lazy" width="auto" height="16px"> [State Beret](https://ceterai.github.io/MyEnternia/Wiki/StateBeret)
 
 </details>

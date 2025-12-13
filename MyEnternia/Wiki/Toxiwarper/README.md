@@ -22,23 +22,23 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Projectile Type: `invisibletentaclefist`
-- Base Dps: 6.0
-- Max Projectiles: 10
-- Guide Projectiles: `True`
-- Energy Usage: 40
-- Inaccuracy: 0.01
+- Projectile Parameters:
+  - Knockback: 5
+  - Speed: 40
+  - Time To Live: 10
 - Chain:
   - Taper: 0.5
   - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
   - End Segment Image: `/items/active/weapons/other/tentaclegun/wormend.png`
   - Segment Size: 1.0
+- Energy Usage: 40
+- Inaccuracy: 0.01
+- Guide Projectiles: `True`
+- Max Projectiles: 10
+- Base Dps: 6.0
 - Max Length: 20
-- Projectile Parameters:
-  - Knockback: 5
-  - Speed: 40
-  - Time To Live: 10
 - Fire Time: 0.2
+- Projectile Type: `invisibletentaclefist`
 
 ### Secondary Ability
 

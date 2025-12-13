@@ -23,7 +23,7 @@ The structure of such cities most often resembles fortresses, with several layer
 
 Thus, the borders of the capitals are also surrounded by a wall, also called the "first line of defense". All subsequent lines are named in a similar way.
 
-Each defense line is equipped with a higher level of protection and is most often guarded by special [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard). In addition, so-called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"> ["imperial generators"](https://ceterai.github.io/MyEnternia/Wiki/ImperialGenerator) are evenly distributed along the lines of the walls, propagating special energy waves over a long distance.
+Each defense line is equipped with a higher level of protection and is most often guarded by special [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard). In addition, so-called <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_elite_generator-capital.png" alt="Imperial Generator ★ icon" loading="lazy" width="auto" height="16px"> ["imperial generators"](https://ceterai.github.io/MyEnternia/Wiki/ImperialGenerator) are evenly distributed along the lines of the walls, propagating special energy waves over a long distance.
 
 These waves increase the effectiveness of alta equipment and thereby strengthen all the guards on the line.
 

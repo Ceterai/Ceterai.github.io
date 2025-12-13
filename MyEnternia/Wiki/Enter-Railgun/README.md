@@ -23,17 +23,17 @@ Creates powerful ionic charges able to quickly travel on significant distances t
 
 Parameters:
 
-- Projectile Count: 1
-- Projectile Type: `railgunlightning`
-- Base Dps: 10
-- Energy Usage: 40
-- Inaccuracy: 0.008
-- Fire Type: `auto`
 - Projectile Parameters:
   - Knockback: 40
   - Speed: 100
   - Status Effects:  <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified)
+- Energy Usage: 40
+- Fire Type: `auto`
+- Inaccuracy: 0.008
+- Base Dps: 10
 - Fire Time: 1.5
+- Projectile Type: `railgunlightning`
+- Projectile Count: 1
 
 ### Avida's Mark
 

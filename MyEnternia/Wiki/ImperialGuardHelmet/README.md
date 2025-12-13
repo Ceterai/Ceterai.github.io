@@ -1,6 +1,6 @@
 # Imperial Guard Helmet
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Imperial Guard Helmet icon" loading="lazy" width="auto" height="16px"> **Imperial Guard Helmet** is a legendary head armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_elite_helmet-capital.png" alt="Imperial Guard Helmet icon" loading="lazy" width="auto" height="16px"> **Imperial Guard Helmet** is a legendary head armor piece.
 
 Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
 While similar in characteristics to the original model, this one has alternative markings to signify its belonging.

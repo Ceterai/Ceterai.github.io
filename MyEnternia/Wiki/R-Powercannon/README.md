@@ -25,15 +25,15 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Projectile Count: 1
-- Projectile Type: `poisonplasmarocket`
-- Base Dps: 10
-- Energy Usage: 40
-- Inaccuracy:
-- Fire Type: `auto`
 - Projectile Parameters:
   - Knockback: 40
+- Energy Usage: 40
+- Fire Type: `auto`
+- Inaccuracy:
+- Base Dps: 10
 - Fire Time: 1.5
+- Projectile Type: `poisonplasmarocket`
+- Projectile Count: 1
 
 ### Secondary Ability
 

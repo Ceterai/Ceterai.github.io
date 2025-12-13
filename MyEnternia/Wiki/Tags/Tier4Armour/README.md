@@ -10,7 +10,7 @@ The tag `tier4armour` contains 17 total entries.
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 17 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Elin Guard Body Armor ★ icon" loading="lazy" width="auto" height="16px"> [Elin Guard Body Armor ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardBodyArmor)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_elite_chest-elin.png" alt="Elin Guard Body Armor ★ icon" loading="lazy" width="auto" height="16px"> [Elin Guard Body Armor ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardBodyArmor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/elin/helmet/icon.png" alt="Elin Guard Helmet ★ icon" loading="lazy" width="auto" height="16px"> [Elin Guard Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/pack/icon.png" alt="Life Support Pack icon" loading="lazy" width="auto" height="16px"> [Life Support Pack](https://ceterai.github.io/MyEnternia/Wiki/LifeSupportPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/proto/helmet/icon.png" alt="Protohelmet icon" loading="lazy" width="auto" height="16px"> [Protohelmet](https://ceterai.github.io/MyEnternia/Wiki/Protohelmet)

@@ -18,7 +18,7 @@ Following objects have this colony tag:
 Following items have this item tag:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/elin.png" alt="Elin Drone ★ icon" loading="lazy" width="auto" height="16px"> [Elin Drone ★](https://ceterai.github.io/MyEnternia/Wiki/ElinDrone)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/chest/icon.png" alt="Elin Guard Body Armor ★ icon" loading="lazy" width="auto" height="16px"> [Elin Guard Body Armor ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardBodyArmor)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_elite_chest-elin.png" alt="Elin Guard Body Armor ★ icon" loading="lazy" width="auto" height="16px"> [Elin Guard Body Armor ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardBodyArmor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/elin/helmet/icon.png" alt="Elin Guard Helmet ★ icon" loading="lazy" width="auto" height="16px"> [Elin Guard Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/ElinGuardHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png" alt="Elin Loot Crate icon" loading="lazy" width="auto" height="16px"> [Elin Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/ElinLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" width="auto" height="16px"> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)

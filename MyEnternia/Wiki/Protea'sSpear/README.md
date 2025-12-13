@@ -27,9 +27,6 @@ With enhanced capabilities, the tool is able to concentrate enough energy to pro
 
 Parameters:
 
-- Projectile Count:
-- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
-- Base Dps: 12
 - Step Damage Config: 
 - Base Damage Factor: 1.35
 - Knockback: 5, 
@@ -40,7 +37,10 @@ Parameters:
 - Base Damage Factor: 2.2
 - Knockback: 15
 - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- Base Dps: 12
 - Fire Time: 0.6
+- Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
+- Projectile Count:
 
 ### Stardust Seeker
 

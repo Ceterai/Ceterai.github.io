@@ -25,16 +25,16 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Projectile Count: 5
-- Projectile Type: `iceplasma`
-- Muzzle Flash Variants: 1
-- Base Dps: 10
-- Energy Usage: 30
-- Inaccuracy: 0.13
-- Fire Type: `auto`
 - Projectile Parameters:
   - Knockback Range:  10,  40
+- Energy Usage: 30
+- Fire Type: `auto`
+- Inaccuracy: 0.13
+- Base Dps: 10
+- Muzzle Flash Variants: 1
 - Fire Time: 0.8
+- Projectile Type: `iceplasma`
+- Projectile Count: 5
 
 ## Sources
 

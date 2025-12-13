@@ -1,6 +1,6 @@
 # Imperial Greaves
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/legwear/icon.png" alt="Imperial Greaves icon" loading="lazy" width="auto" height="16px"> **Imperial Greaves** is a legendary leg armor piece.
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_elite_legwear-capital.png" alt="Imperial Greaves icon" loading="lazy" width="auto" height="16px"> **Imperial Greaves** is a legendary leg armor piece.
 
 Worn by [elite guards](https://ceterai.github.io/MyEnternia/Wiki/EliteGuard) protecting different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"> [alta capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) around Io.  
 While similar in characteristics to the original model, this one has alternative markings to signify its belonging.

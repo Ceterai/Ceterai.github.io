@@ -27,7 +27,6 @@ The new energy flow is able to concentrate faster, building up at the impact rim
 
 Parameters:
 
-- Base Dps: 6
 - Steps: 
 - Damage Factor: 1.0
 - Energy Factor:
@@ -56,6 +55,7 @@ Parameters:
 - Damage Config:
   - Damage Source Kind: `shortsword`
   - Timeout: 0.5
+- Base Dps: 6
 - Fire Time: 0.625
 
 ## Sources
