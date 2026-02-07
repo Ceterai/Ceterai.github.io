@@ -33,6 +33,11 @@ left: 10%
         margin: 2rem 0;
     }
     
+    .pagefind-ui,
+    .pagefind-ui * {
+        font-family: var(--ct_font) !important;
+    }
+    
     .pagefind-ui__search-input {
         width: 100% !important;
         padding: 0.75rem !important;
@@ -69,6 +74,10 @@ left: 10%
         min-width: unset !important;
         width: auto !important;
         height: auto !important;
+        position: absolute !important;
+        right: 0.5rem !important;
+        top: 50% !important;
+        transform: translateY(-50%) !important;
     }
     
     .pagefind-ui__search-clear:hover {
@@ -86,12 +95,18 @@ left: 10%
         opacity: 0.7 !important;
     }
     
+    .pagefind-ui__search-icon path,
+    .pagefind-ui__search-icon circle {
+        fill: var(--ct_3) !important;
+        stroke: var(--ct_3) !important;
+    }
+    
     .pagefind-ui__result {
         border: 2px solid var(--ct_5);
         border-radius: 10px;
         background-color: rgb(from var(--ct_5) r g b / 30%);
-        padding: 1rem;
-        margin: 0.75rem 0;
+        padding: 0.75rem;
+        margin: 0.5rem 0;
         transition: 0.3s;
     }
     
@@ -103,10 +118,14 @@ left: 10%
     .pagefind-ui__result-title,
     .pagefind-ui__result-link {
         color: var(--ct_2) !important;
+        margin-bottom: 0.3rem !important;
     }
     
     .pagefind-ui__result-excerpt {
         color: var(--ct_3) !important;
+        margin-top: 0.3rem !important;
+        font-size: 0.9rem !important;
+        line-height: 1.4 !important;
     }
     
     .pagefind-ui__result-excerpt mark {
