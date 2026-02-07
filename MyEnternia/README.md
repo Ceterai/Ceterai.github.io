@@ -7,4 +7,8 @@ width: 80%
 left: 10%
 ---
 
+<div style="margin: 1.5rem 0; text-align: center;">
+  <a href="search.html" class="ct_button">🔍 Search Wiki</a>
+</div>
+
 {% remote_include https://raw.githubusercontent.com/Ceterai/Enternia/refs/heads/main/README.md %}

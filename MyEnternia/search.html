@@ -1,0 +1,88 @@
+---
+layout: default
+title: My Enternia Wiki Search
+tagline: Search the wiki
+description: Search through all My Enternia wiki pages
+permalink: MyEnternia/search.html
+width: 80%
+left: 10%
+---
+
+<h1>Wiki Search</h1>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+
+<div id="search"></div>
+
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ 
+            element: "#search",
+            showSubResults: true,
+            excerptLength: 30,
+            baseUrl: "{{ site.baseurl }}",
+            bundlePath: "{{ site.baseurl }}/pagefind/"
+        });
+    });
+</script>
+
+<style>
+    #search {
+        margin: 2rem 0;
+    }
+    
+    .pagefind-ui__search-input {
+        width: 100%;
+        padding: 0.75rem;
+        font-size: 1.1rem;
+        border: 2px solid var(--ct_5);
+        border-radius: 10px;
+        background-color: rgb(from var(--ct_5) r g b / 30%);
+        color: var(--ct_2);
+        font-family: var(--ct_font);
+    }
+    
+    .pagefind-ui__search-input:focus {
+        outline: none;
+        border-color: var(--ct_4);
+        background-color: rgb(from var(--ct_5) r g b / 50%);
+    }
+    
+    .pagefind-ui__result {
+        border: 2px solid var(--ct_5);
+        border-radius: 10px;
+        background-color: rgb(from var(--ct_5) r g b / 30%);
+        padding: 1rem;
+        margin: 0.75rem 0;
+        transition: 0.3s;
+    }
+    
+    .pagefind-ui__result:hover {
+        border-color: var(--ct_4);
+        background-color: rgb(from var(--ct_5) r g b / 50%);
+    }
+    
+    .pagefind-ui__result-title,
+    .pagefind-ui__result-link {
+        color: var(--ct_2) !important;
+    }
+    
+    .pagefind-ui__result-excerpt {
+        color: var(--ct_3) !important;
+    }
+    
+    .pagefind-ui__button {
+        background-color: rgb(from var(--ct_5) r g b / 50%);
+        color: var(--ct_3);
+        border: 2px solid var(--ct_5);
+        border-radius: 10px;
+        font-family: var(--ct_font);
+    }
+    
+    .pagefind-ui__button:hover {
+        background-color: rgb(from var(--ct_7) r g b / 50%);
+        color: var(--ct_4);
+        border-color: var(--ct_4);
+    }
+</style>
