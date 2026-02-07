@@ -42,6 +42,7 @@ left: 10%
         width: 100% !important;
         padding: 0.75rem !important;
         padding-left: 3rem !important;
+        padding-right: 5rem !important;
         font-size: 1.1rem !important;
         border: 2px solid var(--ct_5) !important;
         border-radius: 10px !important;
@@ -78,6 +79,9 @@ left: 10%
         right: 0.5rem !important;
         top: 50% !important;
         transform: translateY(-50%) !important;
+        z-index: 10 !important;
+        display: block !important;
+        opacity: 1 !important;
     }
     
     .pagefind-ui__search-clear:hover {
@@ -90,15 +94,8 @@ left: 10%
     }
     
     .pagefind-ui__search-icon {
-        fill: var(--ct_3) !important;
-        stroke: var(--ct_3) !important;
+        filter: invert(66%) sepia(46%) saturate(1463%) hue-rotate(163deg) brightness(103%) contrast(101%) !important;
         opacity: 0.7 !important;
-    }
-    
-    .pagefind-ui__search-icon path,
-    .pagefind-ui__search-icon circle {
-        fill: var(--ct_3) !important;
-        stroke: var(--ct_3) !important;
     }
     
     .pagefind-ui__result {
