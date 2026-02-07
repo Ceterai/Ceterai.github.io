@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My Enternia Wiki Search
+crumb: Search
 tagline: Search the wiki
 description: Search through all My Enternia wiki pages
 permalink: MyEnternia/search.html
@@ -33,20 +34,20 @@ left: 10%
     }
     
     .pagefind-ui__search-input {
-        width: 100%;
-        padding: 0.75rem;
-        font-size: 1.1rem;
-        border: 2px solid var(--ct_5);
-        border-radius: 10px;
-        background-color: rgb(from var(--ct_5) r g b / 30%);
-        color: var(--ct_2);
-        font-family: var(--ct_font);
+        width: 100% !important;
+        padding: 0.75rem !important;
+        font-size: 1.1rem !important;
+        border: 2px solid var(--ct_5) !important;
+        border-radius: 10px !important;
+        background-color: rgb(from var(--ct_5) r g b / 30%) !important;
+        color: var(--ct_2) !important;
+        font-family: var(--ct_font) !important;
     }
     
     .pagefind-ui__search-input:focus {
-        outline: none;
-        border-color: var(--ct_4);
-        background-color: rgb(from var(--ct_5) r g b / 50%);
+        outline: none !important;
+        border-color: var(--ct_4) !important;
+        background-color: rgb(from var(--ct_5) r g b / 50%) !important;
     }
     
     .pagefind-ui__result {
@@ -72,17 +73,26 @@ left: 10%
         color: var(--ct_3) !important;
     }
     
+    .pagefind-ui__result-excerpt mark {
+        background-color: var(--ct_5) !important;
+        color: var(--ct_1) !important;
+    }
+    
+    .pagefind-ui__message {
+        color: var(--ct_2) !important;
+    }
+    
     .pagefind-ui__button {
-        background-color: rgb(from var(--ct_5) r g b / 50%);
-        color: var(--ct_3);
-        border: 2px solid var(--ct_5);
-        border-radius: 10px;
-        font-family: var(--ct_font);
+        background-color: rgb(from var(--ct_5) r g b / 50%) !important;
+        color: var(--ct_3) !important;
+        border: 2px solid var(--ct_5) !important;
+        border-radius: 10px !important;
+        font-family: var(--ct_font) !important;
     }
     
     .pagefind-ui__button:hover {
-        background-color: rgb(from var(--ct_7) r g b / 50%);
-        color: var(--ct_4);
-        border-color: var(--ct_4);
+        background-color: rgb(from var(--ct_7) r g b / 50%) !important;
+        color: var(--ct_4) !important;
+        border-color: var(--ct_4) !important;
     }
 </style>
