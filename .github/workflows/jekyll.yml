@@ -50,7 +50,7 @@ jobs:
       - name: Install Pagefind
         run: npm install -g pagefind
       - name: Build Pagefind index
-        run: npx pagefind --site _site
+        run: npx pagefind --site _site --glob "MyEnternia/Wiki/**/*.html"
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
