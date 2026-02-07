@@ -36,6 +36,7 @@ left: 10%
     .pagefind-ui__search-input {
         width: 100% !important;
         padding: 0.75rem !important;
+        padding-left: 3rem !important;
         font-size: 1.1rem !important;
         border: 2px solid var(--ct_5) !important;
         border-radius: 10px !important;
@@ -44,10 +45,35 @@ left: 10%
         font-family: var(--ct_font) !important;
     }
     
+    .pagefind-ui__search-input::placeholder {
+        color: var(--ct_3) !important;
+        opacity: 0.7 !important;
+    }
+    
     .pagefind-ui__search-input:focus {
         outline: none !important;
         border-color: var(--ct_4) !important;
         background-color: rgb(from var(--ct_5) r g b / 50%) !important;
+    }
+    
+    .pagefind-ui__search-clear {
+        background-color: rgb(from var(--ct_5) r g b / 50%) !important;
+        color: var(--ct_3) !important;
+        border-radius: 10px !important;
+        font-family: var(--ct_font) !important;
+    }
+    
+    .pagefind-ui__search-clear:hover {
+        background-color: rgb(from var(--ct_7) r g b / 50%) !important;
+        color: var(--ct_4) !important;
+    }
+    
+    .pagefind-ui__drawer {
+        color: var(--ct_3) !important;
+    }
+    
+    svg.pagefind-ui__search-icon {
+        color: var(--ct_3) !important;
     }
     
     .pagefind-ui__result {
