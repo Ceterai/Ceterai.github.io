@@ -90,8 +90,8 @@
             .replace(/N([aeiou])/g, 'Ny$1')
             .replace(/N([AEIOU])/g, 'NY$1')
             .replace(/ove/g, 'uv')
-            .replace(/!+/g, '! owo ')
-            .replace(/\./g, ' uwu.');
+            .replace(/!+/g, '!~ owo ')
+            .replace(/\.[^a-zA-Z0-9]/g, '~ uwu');
     }
     
     let uwuActive = false;
@@ -126,9 +126,9 @@
         }
     }
     
-    // Mystery box spawner (5% chance)
+    // Mystery box spawner (1% chance)
     function spawnMysteryBox() {
-        if (Math.random() > 0.05) return; // 5% chance
+        if (Math.random() > 0.01) return; // 1% chance
         
         const box = document.createElement('div');
         box.className = 'mystery-box';
@@ -196,7 +196,7 @@
             }
         });
         
-        // Spawn mystery box (5% chance)
+        // Spawn mystery box (1% chance)
         if (window.location.pathname.includes('/MyEnternia/Wiki/')) {
             spawnMysteryBox();
         }
