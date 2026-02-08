@@ -1,17 +1,10 @@
 // View Counter for Wiki Pages
-// Using counterapi.dev for global view tracking + localStorage for personal stats
+// Tracks your personal exploration of the wiki using localStorage
 (function() {
     'use strict';
     
-    const API_BASE = 'https://api.counterapi.dev/v1';
-    const NAMESPACE = 'ceterai-myenternia';
     const PERSONAL_VIEWS_KEY = 'myEnterniaPersonalViews';
-    const TIMEOUT_MS = 4000;
-    
-    // Convert URL to safe key format
-    function urlToKey(url) {
-        return url.replace(/[^a-zA-Z0-9]/g, '_').substring(0, 64);
-    }
+    const EXTRA_STATS_KEY = 'myEnterniaExtraStats';
     
     // Get personal view tracking (localStorage)
     function getPersonalViews() {
@@ -29,41 +22,64 @@
         } catch (e) {}
     }
     
+    // Get/set extra stats (link clicks, random uses, easter eggs)
+    function getExtraStats() {
+        try {
+            return JSON.parse(localStorage.getItem(EXTRA_STATS_KEY) || '{"linksClicked":0,"randomUsed":0,"easterEggs":0}');
+        } catch (e) {
+            return { linksClicked: 0, randomUsed: 0, easterEggs: 0 };
+        }
+    }
+    
+    function saveExtraStats(stats) {
+        try {
+            localStorage.setItem(EXTRA_STATS_KEY, JSON.stringify(stats));
+        } catch (e) {}
+    }
+    
+    // Expose a global helper so other scripts can bump stats
+    window.myEnterniaStats = {
+        trackLinkClick: function() {
+            const s = getExtraStats();
+            s.linksClicked++;
+            saveExtraStats(s);
+        },
+        trackRandomPage: function() {
+            const s = getExtraStats();
+            s.randomUsed++;
+            saveExtraStats(s);
+        },
+        trackEasterEgg: function() {
+            const s = getExtraStats();
+            s.easterEggs++;
+            saveExtraStats(s);
+        }
+    };
+    
+    // Get bookmark count from bookmarks localStorage
+    function getBookmarkCount() {
+        try {
+            return JSON.parse(localStorage.getItem('myEnterniaBookmarks') || '[]').length;
+        } catch (e) {
+            return 0;
+        }
+    }
+    
     // Check if this is user's first time viewing this page
     function checkFirstView(url) {
         return !getPersonalViews()[url];
     }
     
-    // Mark page as personally viewed
+    // Mark page as personally viewed and return count
     function markAsPersonallyViewed(url) {
         const views = getPersonalViews();
         if (!views[url]) {
-            views[url] = { firstView: Date.now(), viewCount: 1 };
-        } else {
-            views[url].viewCount++;
+            views[url] = { firstView: Date.now(), viewCount: 0 };
         }
+        views[url].viewCount++;
         views[url].lastView = Date.now();
         savePersonalViews(views);
-    }
-    
-    // Fetch with timeout
-    function fetchWithTimeout(url, ms) {
-        const controller = new AbortController();
-        const timeout = setTimeout(() => controller.abort(), ms);
-        return fetch(url, { signal: controller.signal }).finally(() => clearTimeout(timeout));
-    }
-    
-    // Increment global view count via API
-    async function incrementGlobalViewCount(url) {
-        try {
-            const key = urlToKey(url);
-            const response = await fetchWithTimeout(`${API_BASE}/${NAMESPACE}/${key}/up`, TIMEOUT_MS);
-            const data = await response.json();
-            return data.count || 0;
-        } catch (e) {
-            console.warn('View counter API unavailable, using local count');
-            return null;
-        }
+        return views[url].viewCount;
     }
     
     // Get personal stats
@@ -71,17 +87,23 @@
         const views = getPersonalViews();
         const pages = Object.keys(views).length;
         const total = Object.values(views).reduce((sum, v) => sum + v.viewCount, 0);
-        return { pages, total };
+        const extra = getExtraStats();
+        const bookmarks = getBookmarkCount();
+        return { pages, total, linksClicked: extra.linksClicked, randomUsed: extra.randomUsed, bookmarks, easterEggs: extra.easterEggs };
     }
     
-    // Format number
-    function fmt(n) {
-        if (n === null || n === undefined) return '?';
-        return n.toLocaleString();
+    // Track wiki link clicks
+    function setupLinkTracking() {
+        document.addEventListener('click', (e) => {
+            const link = e.target.closest('a[href*="/MyEnternia/Wiki/"]');
+            if (link && !link.closest('.bookmarks-menu') && !link.closest('#wiki-tools')) {
+                window.myEnterniaStats.trackLinkClick();
+            }
+        });
     }
     
     // Initialize view counter
-    async function initViewCounter() {
+    function initViewCounter() {
         if (!window.location.pathname.includes('/MyEnternia/Wiki/')) return;
         
         const toolsBar = document.getElementById('wiki-tools');
@@ -89,32 +111,53 @@
         
         const url = window.location.pathname;
         const firstView = checkFirstView(url);
+        const viewCount = markAsPersonallyViewed(url);
+        const stats = getPersonalStats();
         
         // Create compact view counter button
         const counter = document.createElement('button');
         counter.className = 'wiki-tool-btn view-counter-btn';
-        counter.innerHTML = '👁️ …';
-        counter.title = 'Page views (loading...)';
+        counter.innerHTML = firstView ? '👁️ 1 ✨' : `👁️ ${viewCount}`;
+        counter.title = firstView 
+            ? 'Your first time on this page!' 
+            : `You've visited this page ${viewCount} time${viewCount !== 1 ? 's' : ''}`;
         
         // Create stats wrapper with dropdown
         const statsWrapper = document.createElement('div');
         statsWrapper.className = 'bookmarks-menu-wrapper';
-        
-        const stats = getPersonalStats();
         statsWrapper.innerHTML = `
-            <button class="wiki-tool-btn" id="stats-toggle" title="Your personal stats">📊</button>
+            <button class="wiki-tool-btn" id="stats-toggle" title="Your exploration stats">📊</button>
             <div class="view-stats-dropdown" id="stats-dropdown">
-                <div class="stats-header">Your Stats</div>
+                <div class="stats-header">Your Exploration</div>
                 <div class="stats-item">
-                    <span class="stats-label">Your visits:</span>
-                    <span class="stats-value">${fmt(stats.total)}</span>
+                    <span class="stats-label">Total visits:</span>
+                    <span class="stats-value">${stats.total.toLocaleString()}</span>
                 </div>
                 <div class="stats-item">
                     <span class="stats-label">Pages explored:</span>
-                    <span class="stats-value">${fmt(stats.pages)}</span>
+                    <span class="stats-value">${stats.pages.toLocaleString()}</span>
                 </div>
-                <div class="stats-note">View counts are shared across all visitors</div>
-                <button class="reset-stats">Reset Personal Stats</button>
+                <div class="stats-item">
+                    <span class="stats-label">This page:</span>
+                    <span class="stats-value">${viewCount.toLocaleString()}</span>
+                </div>
+                <div class="stats-item">
+                    <span class="stats-label">Links clicked:</span>
+                    <span class="stats-value">${stats.linksClicked.toLocaleString()}</span>
+                </div>
+                <div class="stats-item">
+                    <span class="stats-label">Random pages:</span>
+                    <span class="stats-value">${stats.randomUsed.toLocaleString()}</span>
+                </div>
+                <div class="stats-item">
+                    <span class="stats-label">Bookmarks:</span>
+                    <span class="stats-value">${stats.bookmarks.toLocaleString()}</span>
+                </div>
+                <div class="stats-item">
+                    <span class="stats-label">Easter eggs:</span>
+                    <span class="stats-value">${stats.easterEggs.toLocaleString()}</span>
+                </div>
+                <button class="reset-stats">Reset Stats</button>
             </div>
         `;
         
@@ -122,52 +165,29 @@
         toolsBar.appendChild(statsWrapper);
         
         // Stats toggle
-        const toggleBtn = statsWrapper.querySelector('#stats-toggle');
-        const dropdown = statsWrapper.querySelector('#stats-dropdown');
-        
-        toggleBtn.addEventListener('click', (e) => {
+        statsWrapper.querySelector('#stats-toggle').addEventListener('click', (e) => {
             e.stopPropagation();
-            dropdown.classList.toggle('show');
+            statsWrapper.querySelector('#stats-dropdown').classList.toggle('show');
         });
         
         // Close dropdown on outside click
         document.addEventListener('click', (e) => {
             if (!statsWrapper.contains(e.target)) {
-                dropdown.classList.remove('show');
+                statsWrapper.querySelector('#stats-dropdown').classList.remove('show');
             }
         });
         
         // Reset button
         statsWrapper.querySelector('.reset-stats').addEventListener('click', () => {
-            if (confirm('Reset your personal statistics?')) {
+            if (confirm('Reset your exploration stats?')) {
                 localStorage.removeItem(PERSONAL_VIEWS_KEY);
+                localStorage.removeItem(EXTRA_STATS_KEY);
                 location.reload();
             }
         });
         
-        // Fetch global count (with timeout so it doesn't hang forever)
-        const globalCount = await incrementGlobalViewCount(url);
-        
-        // Update counter display
-        if (globalCount !== null) {
-            counter.innerHTML = `👁️ ${fmt(globalCount)}`;
-            counter.title = `${fmt(globalCount)} total views`;
-        } else {
-            // Fallback to personal view count
-            const personal = getPersonalViews()[url];
-            const localCount = personal ? personal.viewCount + 1 : 1;
-            counter.innerHTML = `👁️ ${fmt(localCount)}`;
-            counter.title = `${fmt(localCount)} of your views (global counter unavailable)`;
-        }
-        
-        // First view sparkle
-        if (firstView) {
-            counter.innerHTML += ' ✨';
-            counter.title += ' — First visit!';
-        }
-        
-        // Mark as viewed
-        markAsPersonallyViewed(url);
+        // Track wiki link clicks
+        setupLinkTracking();
     }
     
     if (document.readyState === 'loading') {

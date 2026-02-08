@@ -142,6 +142,11 @@
         
         const randomPage = getRandomPage();
         if (randomPage) {
+            // Track random page usage
+            if (window.myEnterniaStats) {
+                window.myEnterniaStats.trackRandomPage();
+            }
+            
             // Add animation
             const button = document.getElementById('random-page-button');
             if (button) {
