@@ -55,7 +55,12 @@
   <body class="ct_bg">
     <div class="container markdown-body ct_body">
       <blockquote>
-        {% include breadcrumbs.html %}
+        <div class="breadcrumb-bar">
+          <div class="breadcrumb-left">
+            {% include breadcrumbs.html %}
+          </div>
+          <div class="breadcrumb-right" id="wiki-tools"></div>
+        </div>
       </blockquote>
       {{ content }}
       {% include footer.html %}

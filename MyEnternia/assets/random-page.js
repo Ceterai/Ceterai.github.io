@@ -2,51 +2,106 @@
 (function() {
     'use strict';
     
-    // Generate list of all wiki pages
-    const wikiPages = [
-        // This will be populated dynamically from the search index
-    ];
-    
     let allPages = [];
+    let loadAttempted = false;
     
-    // Fetch pages from Pagefind index
-    async function fetchWikiPages() {
-        try {
-            // Try to get pages from Pagefind
-            if (window.pagefind) {
-                const search = await window.pagefind.search('');
-                allPages = search.results.map(r => r.url).filter(url => 
-                    url && url.includes('/MyEnternia/Wiki/')
-                );
-            } else {
-                // Fallback: use a predefined list if Pagefind isn't available
-                // In production, you might want to generate this list at build time
-                allPages = await fetchPagesFromSitemap();
+    // Fallback: Generate wiki page list from current page links
+    function extractWikiPagesFromDOM() {
+        const links = document.querySelectorAll('a[href*="/MyEnternia/Wiki/"]');
+        const pages = new Set();
+        
+        links.forEach(link => {
+            const href = link.getAttribute('href');
+            if (href && href.includes('/MyEnternia/Wiki/') && !href.endsWith('/Wiki/')) {
+                // Extract pathname
+                try {
+                    const url = new URL(href, window.location.origin);
+                    pages.add(url.pathname);
+                } catch (e) {
+                    // If relative URL, just use it
+                    if (href.startsWith('/')) {
+                        pages.add(href);
+                    }
+                }
             }
-        } catch (e) {
-            console.error('Error fetching wiki pages:', e);
-            allPages = [];
-        }
+        });
+        
+        return Array.from(pages);
     }
     
-    // Fallback: fetch from sitemap
+    // Fetch pages from sitemap
     async function fetchPagesFromSitemap() {
         try {
             const response = await fetch('/MyEnternia/sitemap.xml');
+            if (!response.ok) throw new Error('Sitemap not found');
+            
             const text = await response.text();
             const parser = new DOMParser();
             const xmlDoc = parser.parseFromString(text, 'text/xml');
             const urls = Array.from(xmlDoc.getElementsByTagName('loc'));
+            
             return urls
                 .map(loc => {
                     const url = loc.textContent;
-                    const path = new URL(url).pathname;
-                    return path;
+                    try {
+                        const path = new URL(url).pathname;
+                        return path;
+                    } catch (e) {
+                        return null;
+                    }
                 })
-                .filter(path => path.includes('/MyEnternia/Wiki/') && !path.endsWith('/Wiki/'));
+                .filter(path => path && path.includes('/MyEnternia/Wiki/') && !path.endsWith('/Wiki/'));
         } catch (e) {
             console.error('Error fetching sitemap:', e);
             return [];
+        }
+    }
+    
+    // Fetch pages from Pagefind index
+    async function fetchFromPagefind() {
+        try {
+            if (typeof PagefindUI === 'undefined') return [];
+            
+            // Wait a bit for Pagefind to initialize
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            
+            if (window.pagefind) {
+                const search = await window.pagefind.search('');
+                return search.results.map(r => r.url).filter(url => 
+                    url && url.includes('/MyEnternia/Wiki/')
+                );
+            }
+        } catch (e) {
+            console.error('Error with Pagefind:', e);
+        }
+        return [];
+    }
+    
+    // Fetch wiki pages using multiple strategies
+    async function fetchWikiPages() {
+        if (loadAttempted) return;
+        loadAttempted = true;
+        
+        try {
+            // Strategy 1: Try sitemap first (most reliable)
+            let pages = await fetchPagesFromSitemap();
+            
+            // Strategy 2: If sitemap fails, try Pagefind
+            if (pages.length === 0) {
+                pages = await fetchFromPagefind();
+            }
+            
+            // Strategy 3: Extract from current page as last resort
+            if (pages.length === 0) {
+                pages = extractWikiPagesFromDOM();
+            }
+            
+            allPages = pages;
+            console.log(`Loaded ${allPages.length} wiki pages for random navigation`);
+        } catch (e) {
+            console.error('Error fetching wiki pages:', e);
+            // Try DOM extraction as final fallback
+            allPages = extractWikiPagesFromDOM();
         }
     }
     
@@ -68,7 +123,23 @@
     }
     
     // Navigate to random page
-    function goToRandomPage() {
+    async function goToRandomPage() {
+        // If pages not loaded yet, try loading them now
+        if (allPages.length === 0 && !loadAttempted) {
+            const button = document.getElementById('random-page-button');
+            if (button) {
+                button.innerHTML = '⏳';
+                button.disabled = true;
+            }
+            
+            await fetchWikiPages();
+            
+            if (button) {
+                button.innerHTML = '🎲';
+                button.disabled = false;
+            }
+        }
+        
         const randomPage = getRandomPage();
         if (randomPage) {
             // Add animation
@@ -82,7 +153,7 @@
                 window.location.href = randomPage;
             }, 500);
         } else {
-            alert('Could not load wiki pages. Please try again.');
+            alert('Could not find wiki pages. Try navigating to another wiki page first, then try again.');
         }
     }
     
@@ -114,40 +185,25 @@
             return;
         }
         
-        // Fetch pages list
-        await fetchWikiPages();
-        
         // Create random button
         const randomButton = document.createElement('button');
         randomButton.id = 'random-page-button';
-        randomButton.className = 'random-page-button';
-        randomButton.innerHTML = '🎲 <span>Random Page</span>';
+        randomButton.className = 'wiki-tool-btn';
+        randomButton.innerHTML = '🎲';
         randomButton.title = 'Go to random wiki page (Press R)';
         randomButton.addEventListener('click', goToRandomPage);
         
-        // Find bookmark container or create one
-        let container = document.querySelector('.bookmark-container');
-        
-        if (!container) {
-            // If no bookmark container, create a button container
-            container = document.createElement('div');
-            container.className = 'wiki-tools-container';
-            
-            const h1 = document.querySelector('.ct_body h1');
-            if (h1) {
-                h1.after(container);
-            } else {
-                const body = document.querySelector('.ct_body');
-                if (body) {
-                    body.insertBefore(container, body.firstChild);
-                }
-            }
+        // Insert into the wiki-tools bar
+        const toolsBar = document.getElementById('wiki-tools');
+        if (toolsBar) {
+            toolsBar.appendChild(randomButton);
         }
-        
-        container.appendChild(randomButton);
         
         // Setup keyboard shortcut
         setupKeyboardShortcut();
+        
+        // Start loading pages in background (don't wait)
+        fetchWikiPages();
     }
     
     // Initialize when DOM is ready

@@ -167,27 +167,12 @@
         // Create stats panel
         const statsPanel = createStatsPanel();
         
-        // Find container or create one
-        let container = document.querySelector('.bookmark-container, .wiki-tools-container');
-        
-        if (!container) {
-            container = document.createElement('div');
-            container.className = 'wiki-tools-container';
-            
-            const h1 = document.querySelector('.ct_body h1');
-            if (h1) {
-                h1.after(container);
-            } else {
-                const body = document.querySelector('.ct_body');
-                if (body) {
-                    body.insertBefore(container, body.firstChild);
-                }
-            }
+        // Insert into the wiki-tools bar
+        const toolsBar = document.getElementById('wiki-tools');
+        if (toolsBar) {
+            toolsBar.appendChild(viewCounter);
+            toolsBar.appendChild(statsPanel);
         }
-        
-        // Add to container
-        container.appendChild(viewCounter);
-        container.appendChild(statsPanel);
         
         // Fetch and update global count
         const globalCount = await incrementGlobalViewCount(url);

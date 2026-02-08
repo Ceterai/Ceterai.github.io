@@ -1,59 +1,78 @@
-/* Bookmark/Favorites System Styles */
-
-.bookmark-container,
-.wiki-tools-container {
+/* Breadcrumb Bar Layout */
+.breadcrumb-bar {
     display: flex;
-    gap: 0.5rem;
+    justify-content: space-between;
     align-items: center;
-    margin: 1rem 0 1.5rem 0;
-    position: relative;
-    flex-wrap: wrap;
+    gap: 0.5rem;
 }
 
-.bookmark-button,
-.bookmarks-menu-button,
-.random-page-button {
+.breadcrumb-left {
+    flex: 1;
+    min-width: 0;
+}
+
+.breadcrumb-right {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    flex-shrink: 0;
+}
+
+/* Compact Wiki Tool Buttons */
+.wiki-tool-btn {
     display: inline-flex;
     align-items: center;
-    gap: 0.4rem;
-    padding: 0.5rem 1rem;
+    justify-content: center;
+    gap: 0.3rem;
+    padding: 0.25rem 0.5rem;
     background: rgb(from var(--ct_5) r g b / 30%);
-    border: 2px solid var(--ct_5);
-    border-radius: 8px;
+    border: 1.5px solid var(--ct_5);
+    border-radius: 6px;
     color: var(--ct_2);
     font-family: var(--ct_font);
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
+    line-height: 1;
+    min-width: 28px;
+    height: 28px;
 }
 
-.bookmark-button:hover,
-.bookmarks-menu-button:hover,
-.random-page-button:hover {
+.wiki-tool-btn:hover {
     background: rgb(from var(--ct_5) r g b / 50%);
     border-color: var(--ct_4);
-    transform: translateY(-2px);
+    transform: translateY(-1px);
 }
 
-.bookmark-button.bookmarked {
+.wiki-tool-btn.bookmarked {
     background: rgb(from var(--ct_7) r g b / 40%);
     border-color: var(--ct_7);
     color: var(--ct_4);
 }
 
-.bookmark-button.bookmarked:hover {
+.wiki-tool-btn.bookmarked:hover {
     background: rgb(from var(--ct_7) r g b / 60%);
 }
 
+.wiki-tool-btn span {
+    font-size: 0.75rem;
+}
+
+/* Bookmarks menu wrapper (for positioning) */
+.bookmarks-menu-wrapper {
+    position: relative;
+    display: inline-flex;
+}
+
 /* Random Page Button Animation */
-.random-page-button.spinning {
+.wiki-tool-btn.spinning {
     animation: spin 0.5s ease-in-out;
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg) translateY(0); }
-    50% { transform: rotate(180deg) translateY(-5px); }
-    100% { transform: rotate(360deg) translateY(0); }
+    0% { transform: rotate(0deg); }
+    50% { transform: rotate(180deg) translateY(-2px); }
+    100% { transform: rotate(360deg); }
 }
 
 /* Bookmarks Menu */
@@ -61,8 +80,8 @@
     position: absolute;
     top: calc(100% + 0.5rem);
     right: 0;
-    width: 350px;
-    max-height: 500px;
+    width: 300px;
+    max-height: 400px;
     background: rgb(from var(--ct_5) r g b / 95%);
     border: 2px solid var(--ct_5);
     border-radius: 10px;
@@ -211,23 +230,25 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .bookmark-container,
-    .wiki-tools-container {
-        flex-direction: column;
-        align-items: stretch;
+    .breadcrumb-bar {
+        flex-wrap: wrap;
+    }
+    
+    .breadcrumb-right {
+        gap: 0.25rem;
+    }
+    
+    .wiki-tool-btn span,
+    .view-label,
+    .view-stats-toggle span {
+        display: none;
     }
     
     .bookmarks-menu {
         width: calc(100vw - 2rem);
-        left: 0;
-        right: 0;
-        margin: 0 auto;
-    }
-    
-    .bookmark-button span,
-    .bookmarks-menu-button span,
-    .random-page-button span {
-        display: none;
+        position: fixed;
+        left: 1rem;
+        right: 1rem;
     }
 }
 
@@ -320,13 +341,14 @@
 .view-counter {
     display: inline-flex;
     align-items: center;
-    padding: 0.5rem 1rem;
+    padding: 0.25rem 0.5rem;
     background: rgb(from var(--ct_5) r g b / 30%);
-    border: 2px solid var(--ct_5);
-    border-radius: 8px;
+    border: 1.5px solid var(--ct_5);
+    border-radius: 6px;
     color: var(--ct_2);
     font-family: var(--ct_font);
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
+    height: 28px;
 }
 
 .view-counter.first-view {
@@ -348,21 +370,21 @@
 .view-counter-item {
     display: flex;
     align-items: center;
-    gap: 0.4rem;
+    gap: 0.3rem;
 }
 
 .view-icon {
-    font-size: 1.1rem;
+    font-size: 0.85rem;
 }
 
 .view-count {
     font-weight: bold;
-    font-size: 1rem;
+    font-size: 0.8rem;
     color: var(--ct_4);
 }
 
 .view-label {
-    font-size: 0.9rem;
+    font-size: 0.75rem;
     color: var(--ct_3);
 }
 
@@ -386,16 +408,18 @@
 .view-stats-toggle {
     display: inline-flex;
     align-items: center;
-    gap: 0.4rem;
-    padding: 0.5rem 1rem;
+    justify-content: center;
+    gap: 0.3rem;
+    padding: 0.25rem 0.5rem;
     background: rgb(from var(--ct_5) r g b / 30%);
-    border: 2px solid var(--ct_5);
-    border-radius: 8px;
+    border: 1.5px solid var(--ct_5);
+    border-radius: 6px;
     color: var(--ct_2);
     font-family: var(--ct_font);
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
+    height: 28px;
 }
 
 .view-stats-toggle:hover {
@@ -493,24 +517,15 @@
 /* Mobile adjustments for view counter */
 @media (max-width: 768px) {
     .view-counter {
-        font-size: 0.85rem;
-        padding: 0.4rem 0.8rem;
+        padding: 0.2rem 0.4rem;
     }
     
     .view-icon {
-        font-size: 1rem;
+        font-size: 0.75rem;
     }
     
     .view-count {
-        font-size: 0.9rem;
-    }
-    
-    .view-label {
-        font-size: 0.8rem;
-    }
-    
-    .view-stats-toggle span {
-        display: none;
+        font-size: 0.75rem;
     }
     
     .view-stats-dropdown {

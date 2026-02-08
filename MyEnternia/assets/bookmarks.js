@@ -75,9 +75,7 @@
         const button = document.getElementById('bookmark-button');
         if (button) {
             button.classList.toggle('bookmarked', bookmarked);
-            button.innerHTML = bookmarked ? 
-                '★ <span>Bookmarked</span>' : 
-                '☆ <span>Bookmark</span>';
+            button.innerHTML = bookmarked ? '★' : '☆';
             button.title = bookmarked ? 'Remove from bookmarks' : 'Add to bookmarks';
         }
     }
@@ -154,15 +152,21 @@
             return;
         }
         
-        // Create bookmark button container
-        const container = document.createElement('div');
-        container.className = 'bookmark-container';
-        container.innerHTML = `
-            <button id="bookmark-button" class="bookmark-button" title="Bookmark this page">
-                ☆ <span>Bookmark</span>
-            </button>
-            <button id="bookmarks-menu-button" class="bookmarks-menu-button" title="View bookmarks">
-                📚 <span>Bookmarks (${getBookmarks().length})</span>
+        // Create bookmark buttons as a fragment
+        const container = document.createDocumentFragment();
+        
+        const bookmarkBtn = document.createElement('button');
+        bookmarkBtn.id = 'bookmark-button';
+        bookmarkBtn.className = 'wiki-tool-btn';
+        bookmarkBtn.title = 'Bookmark this page';
+        bookmarkBtn.innerHTML = '☆';
+        container.appendChild(bookmarkBtn);
+        
+        const menuWrapper = document.createElement('div');
+        menuWrapper.className = 'bookmarks-menu-wrapper';
+        menuWrapper.innerHTML = `
+            <button id="bookmarks-menu-button" class="wiki-tool-btn" title="View bookmarks">
+                📚 <span>${getBookmarks().length}</span>
             </button>
             <div id="bookmarks-menu" class="bookmarks-menu">
                 <div class="bookmarks-menu-header">
@@ -172,17 +176,12 @@
                 <div id="bookmarks-list" class="bookmarks-list"></div>
             </div>
         `;
+        container.appendChild(menuWrapper);
         
-        // Insert after the first h1
-        const h1 = document.querySelector('.ct_body h1');
-        if (h1) {
-            h1.after(container);
-        } else {
-            // Fallback: insert at beginning of content
-            const body = document.querySelector('.ct_body');
-            if (body) {
-                body.insertBefore(container, body.firstChild);
-            }
+        // Insert into the wiki-tools bar in the breadcrumbs
+        const toolsBar = document.getElementById('wiki-tools');
+        if (toolsBar) {
+            toolsBar.appendChild(container);
         }
         
         // Set initial button state
@@ -191,17 +190,14 @@
         updateBookmarksList();
         
         // Add event listeners
-        const bookmarkBtn = document.getElementById('bookmark-button');
-        if (bookmarkBtn) {
-            bookmarkBtn.addEventListener('click', toggleBookmark);
-        }
+        document.getElementById('bookmark-button').addEventListener('click', toggleBookmark);
         
         const menuBtn = document.getElementById('bookmarks-menu-button');
         if (menuBtn) {
             menuBtn.addEventListener('click', toggleBookmarksMenu);
         }
         
-        const closeBtn = container.querySelector('.close-menu');
+        const closeBtn = menuWrapper.querySelector('.close-menu');
         if (closeBtn) {
             closeBtn.addEventListener('click', () => {
                 const menu = document.getElementById('bookmarks-menu');
