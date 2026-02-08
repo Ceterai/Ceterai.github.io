@@ -159,10 +159,10 @@
         }
         
         const url = window.location.pathname;
-        const isFirstView = isFirstView(url);
+        const firstView = isFirstView(url);
         
         // Create view counter with loading state
-        const viewCounter = createViewCounter(null, isFirstView);
+        const viewCounter = createViewCounter(null, firstView);
         
         // Create stats panel
         const statsPanel = createStatsPanel();
@@ -185,7 +185,7 @@
                     <span class="view-icon">👁️</span>
                     <span class="view-count">${formatNumber(globalCount)}</span>
                     <span class="view-label">view${globalCount !== 1 ? 's' : ''}</span>
-                    ${isFirstView ? '<span class="first-view-badge" title="Your first time here!">✨</span>' : ''}
+                    ${firstView ? '<span class="first-view-badge" title="Your first time here!">✨</span>' : ''}
                 `;
             }
         }
@@ -218,7 +218,7 @@
         });
         
         // Show special animation for first view
-        if (isFirstView && globalCount !== null) {
+        if (firstView && globalCount !== null) {
             setTimeout(() => {
                 viewCounter.classList.add('celebrate');
                 setTimeout(() => {
