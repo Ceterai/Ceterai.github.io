@@ -128,7 +128,10 @@
         statsWrapper.innerHTML = `
             <button class="wiki-tool-btn" id="stats-toggle" title="Your exploration stats">📊</button>
             <div class="view-stats-dropdown" id="stats-dropdown">
-                <div class="stats-header">Your Exploration</div>
+                <div class="stats-header">
+                    <h3>Your Exploration</h3>
+                    <button class="close-menu" title="Close">×</button>
+                </div>
                 <div class="stats-item">
                     <span class="stats-label">Total visits:</span>
                     <span class="stats-value">${stats.total.toLocaleString()}</span>
@@ -176,7 +179,14 @@
                 statsWrapper.querySelector('#stats-dropdown').classList.remove('show');
             }
         });
-        
+
+        const closeBtn = menuWrapper.querySelector('.close-menu');
+        if (closeBtn) {
+            closeBtn.addEventListener('click', () => {
+                statsWrapper.querySelector('#stats-dropdown').classList.remove('show');
+            });
+        }
+
         // Reset button
         statsWrapper.querySelector('.reset-stats').addEventListener('click', () => {
             if (confirm('Reset your exploration stats?')) {
