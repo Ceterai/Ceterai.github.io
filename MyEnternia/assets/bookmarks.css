@@ -371,8 +371,7 @@
     transform: translateY(0);
 }
 
-.view-stats-dropdown .stats-item,
-.view-stats-dropdown .reset-stats {
+.view-stats-dropdown .stats-item {
     margin: 0 1rem;
 }
 
@@ -381,7 +380,8 @@
 }
 
 .view-stats-dropdown .reset-stats {
-    margin-bottom: 0.75rem;
+    margin: 0.5rem 1rem 0.75rem;
+    width: calc(100% - 2rem);
 }
 
 .stats-item {
