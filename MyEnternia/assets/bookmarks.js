@@ -55,7 +55,8 @@
     // Toggle bookmark
     function toggleBookmark() {
         const url = window.location.pathname;
-        const title = document.title;
+        // Extract just the page title before " | "
+        const title = document.title.split(' | ')[0].trim();
         
         if (isBookmarked(url)) {
             removeBookmark(url);
