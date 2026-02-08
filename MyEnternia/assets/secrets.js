@@ -188,9 +188,9 @@
         // Check for secret pages
         checkSecretPages();
         
-        // Setup Ctrl+Shift+U shortcut
+        // Setup Alt+U shortcut
         document.addEventListener('keydown', (e) => {
-            if (e.ctrlKey && e.shiftKey && e.key === 'U') {
+            if (e.altKey && e.key === 'u') {
                 e.preventDefault();
                 toggleUwuMode();
             }
