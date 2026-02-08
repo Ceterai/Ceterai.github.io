@@ -91,7 +91,8 @@
             .replace(/N([AEIOU])/g, 'NY$1')
             .replace(/ove/g, 'uv')
             .replace(/!+/g, '!~ owo ')
-            .replace(/\.[^a-zA-Z0-9]/g, '~ uwu');
+            .replace(/\.\n/g, '~ uwu\n')
+            .replace(/\.[^a-zA-Z0-9]/g, '~ uwu ');
     }
     
     let uwuActive = false;
