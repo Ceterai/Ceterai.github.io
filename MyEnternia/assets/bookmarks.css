@@ -338,97 +338,15 @@
 }
 
 /* View Counter Styles */
-.view-counter {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.25rem 0.5rem;
-    background: rgb(from var(--ct_5) r g b / 30%);
-    border: 1.5px solid var(--ct_5);
-    border-radius: 6px;
-    color: var(--ct_2);
-    font-family: var(--ct_font);
-    transition: all 0.2s ease;
-    height: 28px;
+.view-counter-btn {
+    cursor: default;
 }
 
-.view-counter.first-view {
-    border-color: var(--ct_7);
-    background: rgb(from var(--ct_7) r g b / 20%);
+.view-counter-btn:hover {
+    transform: none;
 }
 
-.view-counter.celebrate {
-    animation: celebrate 1s ease-in-out;
-}
-
-@keyframes celebrate {
-    0%, 100% { transform: scale(1); }
-    25% { transform: scale(1.1) rotate(5deg); }
-    50% { transform: scale(1.15) rotate(-5deg); }
-    75% { transform: scale(1.1) rotate(3deg); }
-}
-
-.view-counter-item {
-    display: flex;
-    align-items: center;
-    gap: 0.3rem;
-}
-
-.view-icon {
-    font-size: 0.85rem;
-}
-
-.view-count {
-    font-weight: bold;
-    font-size: 0.8rem;
-    color: var(--ct_4);
-}
-
-.view-label {
-    font-size: 0.75rem;
-    color: var(--ct_3);
-}
-
-.first-view-badge {
-    font-size: 0.9rem;
-    margin-left: 0.3rem;
-    animation: sparkle 1.5s ease-in-out infinite;
-}
-
-@keyframes sparkle {
-    0%, 100% { opacity: 1; transform: scale(1); }
-    50% { opacity: 0.6; transform: scale(1.2); }
-}
-
-/* View Stats Panel */
-.view-stats-panel {
-    position: relative;
-    display: inline-block;
-}
-
-.view-stats-toggle {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.3rem;
-    padding: 0.25rem 0.5rem;
-    background: rgb(from var(--ct_5) r g b / 30%);
-    border: 1.5px solid var(--ct_5);
-    border-radius: 6px;
-    color: var(--ct_2);
-    font-family: var(--ct_font);
-    font-size: 0.85rem;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    height: 28px;
-}
-
-.view-stats-toggle:hover {
-    background: rgb(from var(--ct_5) r g b / 50%);
-    border-color: var(--ct_4);
-    transform: translateY(-2px);
-}
-
-.view-stats-dropdown {
+/* View Stats Dropdown */
     position: absolute;
     top: calc(100% + 0.5rem);
     right: 0;
@@ -512,24 +430,4 @@
     background: rgb(255 100 100 / 80%);
     border-color: rgb(255 50 50);
     color: white;
-}
-
-/* Mobile adjustments for view counter */
-@media (max-width: 768px) {
-    .view-counter {
-        padding: 0.2rem 0.4rem;
-    }
-    
-    .view-icon {
-        font-size: 0.75rem;
-    }
-    
-    .view-count {
-        font-size: 0.75rem;
-    }
-    
-    .view-stats-dropdown {
-        right: auto;
-        left: 0;
-    }
 }
