@@ -91,7 +91,7 @@
             .replace(/N([AEIOU])/g, 'NY$1')
             .replace(/ove/g, 'uv')
             .replace(/!+/g, '!~ owo ')
-            .replace(/\.\n/g, '~ uwu\n')
+            .replace(/\.$/g, '~ uwu')
             .replace(/\.[^a-zA-Z0-9]/g, '~ uwu ');
     }
     
