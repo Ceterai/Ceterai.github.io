@@ -49,10 +49,21 @@
             s.randomUsed++;
             saveExtraStats(s);
         },
-        trackEasterEgg: function() {
-            const s = getExtraStats();
-            s.easterEggs++;
-            saveExtraStats(s);
+        updateSecretCount: function() {
+            // Re-render stats dropdown with updated secret count
+            const dropdown = document.getElementById('stats-dropdown');
+            if (dropdown) {
+                const stats = getPersonalStats();
+                const statsHTML = dropdown.innerHTML;
+                const secretsFound = window.myEnterniaSecrets ? window.myEnterniaSecrets.getFoundCount() : 0;
+                const secretsTotal = window.myEnterniaSecrets ? window.myEnterniaSecrets.getTotalCount() : "?";
+                
+                // Update just the secrets value
+                const secretValue = dropdown.querySelector('.stats-item:last-of-type .stats-value');
+                if (secretValue) {
+                    secretValue.textContent = `${secretsFound}/${secretsTotal}`;
+                }
+            }
         }
     };
     
@@ -89,7 +100,9 @@
         const total = Object.values(views).reduce((sum, v) => sum + v.viewCount, 0);
         const extra = getExtraStats();
         const bookmarks = getBookmarkCount();
-        return { pages, total, linksClicked: extra.linksClicked, randomUsed: extra.randomUsed, bookmarks, easterEggs: extra.easterEggs };
+        const secretsFound = window.myEnterniaSecrets ? window.myEnterniaSecrets.getFoundCount() : 0;
+        const secretsTotal = window.myEnterniaSecrets ? window.myEnterniaSecrets.getTotalCount() : "?";
+        return { pages, total, linksClicked: extra.linksClicked, randomUsed: extra.randomUsed, bookmarks, secretsFound, secretsTotal };
     }
     
     // Track wiki link clicks
@@ -157,8 +170,8 @@
                     <span class="stats-value">${stats.bookmarks.toLocaleString()}</span>
                 </div>
                 <div class="stats-item">
-                    <span class="stats-label">Easter eggs:</span>
-                    <span class="stats-value">${stats.easterEggs.toLocaleString()}</span>
+                    <span class="stats-label">Secrets:</span>
+                    <span class="stats-value">${stats.secretsFound}/${stats.secretsTotal}</span>
                 </div>
                 <button class="reset-stats">Reset Stats</button>
             </div>
@@ -187,7 +200,7 @@
         
         // Reset button
         statsWrapper.querySelector('.reset-stats').addEventListener('click', () => {
-            if (confirm('Reset your exploration stats?')) {
+            if (confirm('Reset your exploration stats? (This will NOT reset discovered secrets)')) {
                 localStorage.removeItem(PERSONAL_VIEWS_KEY);
                 localStorage.removeItem(EXTRA_STATS_KEY);
                 location.reload();

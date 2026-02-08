@@ -437,3 +437,87 @@
     border-color: rgb(255 50 50);
     color: white;
 }
+
+/* Secretive stuff */
+.secret-notification {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -20px);
+    z-index: 10000;
+    opacity: 0;
+    transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.secret-notification.show {
+    opacity: 1;
+    transform: translate(-50%, 0);
+}
+
+.secret-notification-content {
+    background: linear-gradient(135deg, rgb(from var(--ct_7) r g b / 95%) 0%, rgb(from var(--ct_6) r g b / 95%) 100%);
+    border: 3px solid var(--ct_7);
+    border-radius: 15px;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5), 0 0 20px rgb(from var(--ct_7) r g b / 50%);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    min-width: 300px;
+}
+
+.secret-sparkle {
+    font-size: 2rem;
+    animation: sparkle-rotate 2s ease-in-out infinite;
+}
+
+@keyframes sparkle-rotate {
+    0%, 100% { transform: rotate(0deg) scale(1); }
+    25% { transform: rotate(-10deg) scale(1.1); }
+    50% { transform: rotate(10deg) scale(1.2); }
+    75% { transform: rotate(-10deg) scale(1.1); }
+}
+
+.secret-message {
+    color: var(--ct_1);
+    font-family: var(--ct_font);
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.mystery-box {
+    position: relative;
+    display: inline-block;
+    font-size: 2.5rem;
+    cursor: pointer;
+    margin: 2rem 0;
+    animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite;
+    filter: drop-shadow(0 0 10px rgb(from var(--ct_7) r g b / 70%));
+    transition: all 0.3s ease;
+}
+
+.mystery-box:hover {
+    transform: scale(1.2) rotate(15deg);
+    filter: drop-shadow(0 0 20px rgb(from var(--ct_7) r g b / 100%));
+}
+
+.mystery-box.clicked {
+    animation: explode 0.5s ease-out;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+}
+
+@keyframes glow {
+    0%, 100% { filter: drop-shadow(0 0 10px rgb(from var(--ct_7) r g b / 70%)); }
+    50% { filter: drop-shadow(0 0 20px rgb(from var(--ct_7) r g b / 100%)); }
+}
+
+@keyframes explode {
+    0% { transform: scale(1) rotate(0deg); opacity: 1; }
+    50% { transform: scale(1.5) rotate(180deg); opacity: 0.5; }
+    100% { transform: scale(0) rotate(360deg); opacity: 0; }
+}
