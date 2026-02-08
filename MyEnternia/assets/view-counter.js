@@ -128,7 +128,7 @@
         statsWrapper.innerHTML = `
             <button class="wiki-tool-btn" id="stats-toggle" title="Your exploration stats">📊</button>
             <div class="view-stats-dropdown" id="stats-dropdown">
-                <div class="stats-header">
+                <div class="bookmarks-menu-header">
                     <h3>Your Exploration</h3>
                     <button class="close-menu" title="Close">×</button>
                 </div>
@@ -173,20 +173,18 @@
             statsWrapper.querySelector('#stats-dropdown').classList.toggle('show');
         });
         
+        // Close button
+        statsWrapper.querySelector('.close-menu').addEventListener('click', () => {
+            statsWrapper.querySelector('#stats-dropdown').classList.remove('show');
+        });
+        
         // Close dropdown on outside click
         document.addEventListener('click', (e) => {
             if (!statsWrapper.contains(e.target)) {
                 statsWrapper.querySelector('#stats-dropdown').classList.remove('show');
             }
         });
-
-        const closeBtn = menuWrapper.querySelector('.close-menu');
-        if (closeBtn) {
-            closeBtn.addEventListener('click', () => {
-                statsWrapper.querySelector('#stats-dropdown').classList.remove('show');
-            });
-        }
-
+        
         // Reset button
         statsWrapper.querySelector('.reset-stats').addEventListener('click', () => {
             if (confirm('Reset your exploration stats?')) {
