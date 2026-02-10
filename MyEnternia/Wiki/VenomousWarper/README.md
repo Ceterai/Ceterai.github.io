@@ -22,22 +22,22 @@ Exposes its tentacles one by one, each touch equally dangerous.
 
 Parameters:
 
-- Projectile Parameters:
-  - Knockback: 5
-  - Speed: 40
-  - Time To Live: 10
+- Base Dps: 6.0
 - Chain:
   - Taper: 0.5
   - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
   - End Segment Image: `/items/active/weapons/other/tentaclegun/wormend.png`
   - Segment Size: 1.0
 - Energy Usage: 40
-- Inaccuracy: 0.01
-- Guide Projectiles: `True`
-- Max Projectiles: 10
-- Base Dps: 6.0
-- Max Length: 20
 - Fire Time: 0.2
+- Guide Projectiles: `True`
+- Inaccuracy: 0.01
+- Max Length: 20
+- Max Projectiles: 10
+- Projectile Parameters:
+  - Knockback: 5
+  - Speed: 40
+  - Time To Live: 10
 - Projectile Type: `invisibletentaclefist`
 
 ### Tentacle Burst
@@ -46,21 +46,19 @@ Alternative ability of the item, activated with right mouse button.
 
 Parameters:
 
+- Base Dps: 8.0
 - Chain:
   - Taper: 0.5
   - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
   - End Segment Image: `/items/active/weapons/other/tentaclegun/wormend.png`
   - Segment Size: 1.0
-- Guide Projectiles:
-- Base Dps: 8.0
-- Fire Time: 2.0
-- Max Projectiles: 20
 - Energy Usage: 28
-- Inaccuracy: 3.14
 - Fire Sound: `altFire`
+- Fire Time: 2.0
+- Guide Projectiles:
+- Inaccuracy: 3.14
+- Max Projectiles: 20
 - Projectile Count: 20
-- Projectile Type: `invisibletentaclefistnosound`
-- Projectile Tracks User: `True`
 - Projectile Parameters:
   - Knockback: 40
   - Knockback Directional: `True`
@@ -69,6 +67,8 @@ Parameters:
   - Bounces: 4
   - Time To Live: 10
   - Min Velocity: 10
+- Projectile Tracks User: `True`
+- Projectile Type: `invisibletentaclefistnosound`
 
 ## Sources
 

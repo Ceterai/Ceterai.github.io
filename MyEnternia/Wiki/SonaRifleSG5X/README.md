@@ -19,16 +19,18 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Cryo Blast
 
-Main ability of the item, activated with left mouse button.
+Phosicore of this weapon can produce sona energy.  
+Firemodes: burst, auto, charge.  
+Letting it hold on the charge mode will produce a cryoplasma rocket and launch it at a decent speed.
 
 Parameters:
 
 - Base Dps: 8
-- Fire Time: 0.15
-- Energy Usage: 32
 - Default Fire Type: `burst`
+- Energy Usage: 32
+- Fire Time: 0.15
 - Fire Types:
   - Auto:
     - Press Type: `blast`
@@ -51,20 +53,23 @@ Parameters:
       - Fire Time: 0.65
     - Hold Time Max:
 
-### Secondary Ability
+### Tactical Cryonics
 
-Alternative ability of the item, activated with right mouse button.
+A set of functions for tavriya environments.  
+Press - launch an Ice Cloud Nade;  
+Hold - change firemodes.  
+Works especially well against targets vulnerable to low temperatures.
 
 Parameters:
 
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.5
-- Press Type: `nade`
+- Fire Types:  `auto`,  `charge`,  `burst`
+- Hold Firemodes: `True`
 - Press Params:
   - Type: `icecloudgrenade`
-- Hold Firemodes: `True`
-- Fire Types:  `auto`,  `charge`,  `burst`
+- Press Type: `nade`
 
 ## Sources
 

@@ -23,9 +23,9 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 EDS TECHNOLOGY (ET) DEVELOPMENTS DOCUMENTATION
 
 The goal of this document is to maintain a full list of technology, relevant to and used in development of EDS. All entries are assigned according ids, ordered by registration date and relevant connections to other entries.  
-In accordance to the document, all ids must be issued in ETN format (thr. CEN-202).
+In accordance with the document, all ids must be issued in ETN format (thr. CEN-202).
 
-Note, that starting with discovery of stardust energy capabilities and the Enternia phenomenon, all Enternia-related technology should be marked as potentially dangerous.
+Note that starting with discovery of stardust energy capabilities and the Enternia phenomenon, all Enternia-related technology should be marked as potentially dangerous.
 
 ET0, Alterash Technology Reference - ET0 id relates to all AT ids involved in the development of EDS, including regulation and infrastructure systems.
 
@@ -61,7 +61,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_aimbot_augment.png" alt="EDS Aimbot Augment ★★ icon" loading="lazy" width="auto" height="16px"> [EDS Aimbot Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/EDSAimbotAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" width="auto" height="16px"> [EDS Android Defensystem ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidDefensystem)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_head/icon.png" alt="EDS Android Head ★ icon" loading="lazy" width="auto" height="16px"> [EDS Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidHead)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/eds.png" alt="EDS Android ★ icon" loading="lazy" width="auto" height="16px"> [EDS Android ★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/eds.png" alt="EDS Android Nade★ icon" loading="lazy" width="auto" height="16px"> [EDS Android Nade★](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" width="auto" height="16px"> [EDS Armored Greaves](https://ceterai.github.io/MyEnternia/Wiki/EDSArmoredGreaves)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_augment.png" alt="EDS Augment icon" loading="lazy" width="auto" height="16px"> [EDS Augment](https://ceterai.github.io/MyEnternia/Wiki/EDSAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/eds.png" alt="EDS Command Communication Log icon" loading="lazy" width="auto" height="16px"> [EDS Command Communication Log](https://ceterai.github.io/MyEnternia/Wiki/EDSCommandCommunicationLog)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/enternia/icon.png" alt="Enternia Sample ★★ icon" loading="lazy" width="auto" height="16px"> **Enternia Sample ★★** is a legendary decorative object.
 
-A perfect sample of an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia)-saturated rock, preserved on a small titanium pedestal.
+A perfect sample of an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" loading="lazy" width="auto" height="16px"> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia)-saturated rock, preserved on a small titanium pedestal.
 
 ## Ingame
 

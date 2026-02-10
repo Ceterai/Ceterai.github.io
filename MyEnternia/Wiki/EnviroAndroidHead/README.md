@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/android_head/icon.png" alt="Enviro Android Head ★ icon" loading="lazy" width="auto" height="16px"> **Enviro Android Head ★** is a rare head armor piece.
 
-A head of an advanced android prototype for the [Enviro Android Set](https://ceterai.github.io/MyEnternia/Wiki/EnviroAndroidSet) series.
+A head of an advanced android prototype for the Enviro Android Set series.
 
 ## Parameters
 

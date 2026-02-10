@@ -1,6 +1,6 @@
 # Alta Logic - Latch
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/latch.png:default.1" alt="Alta Logic - Latch icon" loading="lazy" width="auto" height="16px"> **Alta Logic - Latch** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/latch_tiled.png" alt="Alta Logic - Latch icon" loading="lazy" width="auto" height="16px"> **Alta Logic - Latch** is an uncommon wiring component.
 
 A Latch. Can be used to store a wire state.
 
@@ -15,7 +15,7 @@ Species descriptions:
 
 Can be crafted:
 
-- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/latch.png:default.1" alt="Alta Logic - Latch icon" loading="lazy" width="auto" height="16px"> Alta Logic - Latch x*1*):
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/latch_tiled.png" alt="Alta Logic - Latch icon" loading="lazy" width="auto" height="16px"> Alta Logic - Latch x*1*):
   - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
   - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*

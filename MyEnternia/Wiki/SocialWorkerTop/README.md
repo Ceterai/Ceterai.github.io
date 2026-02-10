@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/social_top/icon.png" alt="Social Worker Top icon" loading="lazy" width="auto" height="16px"> **Social Worker Top** is a common chest cosmetic item.
 
-A top usually worn by the most altruistic [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).
+A top usually worn by the most altruistic [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta).
 
 ## Usage
 

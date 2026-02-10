@@ -22,10 +22,10 @@ Parameters:
 - Base Dps: 10
 - Energy Usage: 36
 - Fire Time: 1.6
-- Press Type: `snipe`
+- Hold Time Max:
 - Press Params:
   - Type: `ct_ionic_medium`
-- Hold Time Max:
+- Press Type: `snipe`
 
 ### Scavenger's Arsenal
 
@@ -38,9 +38,9 @@ Parameters:
 - Base Dps: 10
 - Energy Usage: 36
 - Fire Time: 0.5
-- Hold Type: `nade`
 - Hold Params:
   - Type: `electriccloudgrenade`
+- Hold Type: `nade`
 - Press Attachments: `True`
 
 ## Sources

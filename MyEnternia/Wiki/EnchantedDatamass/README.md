@@ -18,17 +18,17 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 ### Contents
 
-Viona energy flowing through this land can change its surrounding. This is why it is not recommended to visit [vionostera](https://ceterai.github.io/MyEnternia/Wiki/vionostera) without special equipment.
+Viona energy flowing through this land can change its surrounding. This is why it is not recommended to visit [vionostera](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadows) without special equipment.
 
 The viona phenomenon happens when two or more types of energy with high levels of presence are persistent throughout the area, causing them to mix, resulting in sometimes unpredictable reactions and behaviours.
 
 If you see anything strange in a viona territory, that is likely an enchanted anomaly caused by the viona-saturated energy, or simply vionia.
 
-Vionia has a potential to be an efficient power source, and thus is a frequent subject of interest for research for groups like [Neiteru-1](https://ceterai.github.io/MyEnternia/Wiki/Neiteru-1).
+Vionia has a potential to be an efficient power source, and thus is a frequent subject of interest for research for groups like Neiteru-1.
 
 Many scientific groups are also interested in developing means to either resist, or even "de-enchant" viona, although so far few attempts have been completely successful.
 
-This is why, in its current state, [ion cores](https://ceterai.github.io/MyEnternia/Wiki/Tags/IonCore) of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets still require constant monitoring - rare explosions of vionia activity put the core's stability in danger, and fully getting rid of such cases is a priority for many safety and research teams.
+This is why, in its current state, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [ion cores](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets still require constant monitoring - rare explosions of vionia activity put the core's stability in danger, and fully getting rid of such cases is a priority for many safety and research teams.
 
 ## Usage
 

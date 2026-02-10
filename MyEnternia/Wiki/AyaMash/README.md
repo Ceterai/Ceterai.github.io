@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-mash.png" alt="Aya Mash icon" loading="lazy" width="auto" height="16px"> **Aya Mash** is an uncommon dish.
 
 This baked aya was mashed and mixed after cooking, making it into a proper garnish. Good with runeva fruits like gils and cooked tsays.  
-A common ingredient in full-course meals, like [alta dinners](https://ceterai.github.io/MyEnternia/Wiki/altadinners), combos and mixes. Also, commonly prepared by caretaker for sick and unwell altas.
+A common ingredient in full-course meals, like [alta dinners](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner), combos and mixes. Also, commonly prepared by caretaker for sick and unwell altas.
 
 ## Ingame
 
@@ -20,6 +20,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 
 ## Sources
+
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya).
 
 Can be crafted:
 

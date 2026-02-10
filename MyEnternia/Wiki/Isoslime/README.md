@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> **Isoslime** is a common throwable item.
 
-A chunk of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) (a.k.a. izoslime) that you can maliciously throw at someone to cover them in cryonic goo. Or make jam out of it.  
-**Isoslime**, or **Izoslime**, or **Izopoi** - is a cryogenic slimy substance that tends to form in the subsurface (and rarely surface) layer of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets. This substance is highly viscous and consists of two layers.  
-The **outer** layer, or the **cryo layer**, is heat-isolation slime that protects the inner layer from low temperatures. This is a precious material that is often used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) in construction.  
+A chunk of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) (a.k.a. izoslime) that you can maliciously throw at someone to cover them in cryonic goo. Or make jam out of it.  
+**Isoslime**, or **Izoslime**, or **Izopoi** - is a cryogenic slimy substance that tends to form in the subsurface (and rarely surface) layer of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets. This substance is highly viscous and consists of two layers.  
+The **outer** layer, or the **cryo layer**, is heat-isolation slime that protects the inner layer from low temperatures. This is a precious material that is often used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) in construction.  
 The **inner** layer, or the **poi layer**, consits of pure slime and is the main part of isoslime.
 
 Isoslime is a subtype of regular <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"> [slime](https://starbounder.org/Slime_Blob).
@@ -25,7 +25,6 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/basic/icon.png" alt="Alta Bubble Wand icon" loading="lazy" width="auto" height="16px"> [Alta Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbleWand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/blaster/icon.png" alt="Alta Bubbler icon" loading="lazy" width="auto" height="16px"> [Alta Bubbler](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbler)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"> [Alta Neon Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonBubbleWand)
-- `congealedAcid`
 - `ct_alta_crafting_station7`
 - `ct_food_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
@@ -35,6 +34,7 @@ Species descriptions:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [Phosicore](https://ceterai.github.io/MyEnternia/Wiki/Phosicore)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_plasma_fertilizer.png" alt="Plasma Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> [Plasma Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaFertilizer)
+- <img src="https://starbounder.org/mediawiki/images/3/38/Slime.png" alt="Slime icon" loading="lazy" width="12px" height="16px"> [Slime](https://starbounder.org/Slime)
 - <img src="https://starbounder.org/mediawiki/images/d/dc/Slime_Blob.png" alt="Slime Blob icon" loading="lazy" width="10px" height="14px"> [Slime Blob](https://starbounder.org/Slime_Blob)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/stardust/icon.png" alt="Stardust Bubble Wand icon" loading="lazy" width="auto" height="16px"> [Stardust Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/StardustBubbleWand)
 - <img src="https://starbounder.org/mediawiki/images/6/6a/Static_Cell.png" alt="Static Cell icon" loading="lazy" width="9px" height="14px"> [Static Cell](https://starbounder.org/Static_Cell)
@@ -66,6 +66,7 @@ Drops from defeated creatures:
 
 Drops from creatures defeated with any **bow**:
 
+- `ct_isogloop`
 - `ct_isopod`
 
 Can be obtained from special items:
@@ -85,10 +86,10 @@ Drops from destroyed obstacles:
 
 <details markdown="1"><summary>Can be harvested from: (Expand 6 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Boosted Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedIsoslimeSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/pod/icon.png" alt="Isoslime Eco Pod icon" loading="lazy" width="auto" height="16px"> [Isoslime Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/sapling/icon.png" alt="Isoslime Sapling icon" loading="lazy" width="auto" height="16px"> [Isoslime Sapling](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Isoslime Seed icon" loading="lazy" width="auto" height="16px"> [Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/icon.png" alt="Wild Isoslime Seed icon" loading="lazy" width="auto" height="16px"> [Wild Isoslime Seed](https://ceterai.github.io/MyEnternia/Wiki/WildIsoslimeSeed)
 

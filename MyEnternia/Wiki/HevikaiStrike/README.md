@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai_strike.png" alt="Hevikai Strike icon" loading="lazy" width="auto" height="16px"> **Hevikai Strike** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
-Decreases your <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [electric resistance](https://starbounder.org/Electric_Resistance) and [poison resistance](https://ceterai.github.io/MyEnternia/Wiki/poisonresistance) by 20%.  
+Decreases your <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [electric resistance](https://starbounder.org/Electric_Resistance) and poison resistance by 20%.  
 If you stay in it for too long, you will get a so-called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) disease.
 
 ## Parameters

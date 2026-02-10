@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonasweet.png" alt="Sonasweet icon" loading="lazy" width="auto" height="16px"> **Sonasweet** is a common dish.
 
-A traditional [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sona'sVeil) candy made from a baked sonava fruit.  
+A traditional Sona's Veil candy made from a baked sonava fruit.  
 These festive candies are a beloved Sonaveil treat, combining crispy outer sonava shells with melted fruit preserves inside. While sonavas aren't usually used for cooking doe to general lack of flavor and resistance to baking, but this is what makes it a perfect dish for the holiday - with some spices and additional care it becomes a neat little treat that you can share with your sisters!
 
 ## Ingame

@@ -1,6 +1,6 @@
 # Tenants
 
-This mod adds a total of 181 tenants.
+This mod adds a total of 186 tenants.
 
 ## Alta
 
@@ -1894,6 +1894,42 @@ Description </th></tr>
 
 </td><td>
 
+Type: **Alta Cupid**
+
+Tags: `alta` (4), `ava_day` (12), `pretty` (8)
+
+A cheerful alta dressed as Cupid for Ava Day! She spreads friendship and joy with heart arrows~ (ෆ˙ᵕ˙ෆ)♡
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Girlfriend**
+
+Tags: `alta` (4), `ava_day` (10)
+
+A romantic alta celebrating Ava Day! She's here to spread love and warmth~ < 3
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Love Merchant** (merchant)
+
+Tags: `alta` (4), `ava_day` (16), `storage` (18), `commerce` (12)
+
+This alta is celebrating Ava Day, and she's selling all kinds of romantic gifts and friendship items! Perfect for finding that special something for someone you care about~
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
 Type: **Alta Ceternity Girl**
 
 Tags: `alta` (4), `ceternity` (10)
@@ -1954,6 +1990,30 @@ An alta dressed up in spooky clothes. She's celebrating Ceternity!
 
 </td><td>
 
+Type: **Alta Holiday Girl**
+
+Tags: `alta` (6), `christmas` (8)
+
+An alta dressed up in human festive clothes. While the culture is not native to altas, she wears it either to celebrate, as cosplay, or to fit in with natives.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
+Type: **Alta Sonaveil Girl**
+
+Tags: `alta` (6), `sonaveil` (8)
+
+A Sonaveil alta dressed in warm festive clothes.
+
+</td></tr>
+
+<tr><td valign="middle" align="middle">
+
+</td><td>
+
 Type: **Alta Christmas Girl** (merchant)
 
 Tags: `alta` (12), `christmas` (18), `storage` (18), `commerce` (12)
@@ -1966,11 +2026,11 @@ An alta dressed up in human festive clothes giving out presents. While the cultu
 
 </td><td>
 
-Type: **Alta Holiday Girl**
+Type: **Alta Sonaveil Merchant** (merchant)
 
-Tags: `alta` (6), `christmas` (8)
+Tags: `alta` (12), `sonaveil` (18), `storage` (18), `commerce` (12)
 
-An alta dressed up in human festive clothes. While the culture is not native to altas, she wears it either to celebrate, as cosplay, or to fit in with natives.
+A Sonaveil alta ready to provide you with means to celebrate the Sone's Veil!
 
 </td></tr>
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sonaveil_poster.png" alt="Sonaveil Poster icon" loading="lazy" width="auto" height="16px"> **Sonaveil Poster** is a common decorative object.
 
-A cheerful poster celebrating [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sona'sVeil) - the alta cold solstice holiday of warmth and togetherness.  
+A cheerful poster celebrating Sona's Veil - the alta cold solstice holiday of warmth and togetherness.  
 The poster features traditional sona imagery, like snowflakes and string lights, and warm colors, reminding altas of the holiday atmosphere. These posters are commonly displayed in public spaces, squares, and outposts during the holiday season.
 
 ## Ingame

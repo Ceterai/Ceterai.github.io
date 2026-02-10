@@ -22,6 +22,15 @@ Radiomessages on pickup:
 - Cooldown: 0.45s
 - Knockback: 64
 
+### Whipshock
+
+Hold to perform an Ionic Whip Hit.
+Activate block fast enough (parry time) to perform a perfect block.
+
+### Kinetic Force
+
+This shield knocks enemies back with great power.
+
 ## Sources
 
 Found naturally in containers:

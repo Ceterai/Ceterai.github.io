@@ -25,7 +25,7 @@ Soon you'll find your way to a happy little corfal, where my caretakers will nur
 
 I'm very excited for you, my little, and I hope you're excited too.
 
-With love, [elin](https://ceterai.github.io/MyEnternia/Wiki/Elin-Gardens). ❤
+With love, [Elin](https://ceterai.github.io/MyEnternia/Wiki/Elin-Gardens). ❤
 
 ## Usage
 

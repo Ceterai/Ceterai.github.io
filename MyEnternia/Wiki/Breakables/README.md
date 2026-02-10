@@ -1,6 +1,6 @@
 # Breakables
 
-The mod adds a total of 49 breakables:
+The mod adds a total of 51 breakables:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" alt="Alta Drone Station icon" loading="lazy" width="auto" height="16px"> [Alta Drone Station](https://ceterai.github.io/MyEnternia/Wiki/AltaDroneStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule)
@@ -16,6 +16,7 @@ The mod adds a total of 49 breakables:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/drone_spawner/icon.png" alt="EDS Drone Spawner icon" loading="lazy" width="auto" height="16px"> [EDS Drone Spawner](https://ceterai.github.io/MyEnternia/Wiki/EDSDroneSpawner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enhancedmoonrock/icon.png" alt="Enhanced Moonrock icon" loading="lazy" width="auto" height="16px"> [Enhanced Moonrock](https://ceterai.github.io/MyEnternia/Wiki/EnhancedMoonrock)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_fallen/icon.png" alt="Fallen Aya icon" loading="lazy" width="auto" height="16px"> [Fallen Aya](https://ceterai.github.io/MyEnternia/Wiki/FallenAya)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"> [Frozen Energy Ball](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy1/icon.png" alt="Frozen Energy Charge icon" loading="lazy" width="auto" height="16px"> [Frozen Energy Charge](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyCharge)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy2/icon.png" alt="Frozen Energy Impulse icon" loading="lazy" width="auto" height="16px"> [Frozen Energy Impulse](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyImpulse)
@@ -39,6 +40,7 @@ The mod adds a total of 49 breakables:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal2/icon.png" alt="Shaky Bishyn Crystal icon" loading="lazy" width="auto" height="16px"> [Shaky Bishyn Crystal](https://ceterai.github.io/MyEnternia/Wiki/ShakyBishynCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal3/icon.png" alt="Sharp Bishyn Crystal icon" loading="lazy" width="auto" height="16px"> [Sharp Bishyn Crystal](https://ceterai.github.io/MyEnternia/Wiki/SharpBishynCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="Shiny Bishyn Crystal icon" loading="lazy" width="auto" height="16px"> [Shiny Bishyn Crystal](https://ceterai.github.io/MyEnternia/Wiki/ShinyBishynCrystal)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta1/icon.png" alt="Snowalta icon" loading="lazy" width="auto" height="16px"> [Snowalta](https://ceterai.github.io/MyEnternia/Wiki/Snowalta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_prism/icon.png" alt="Stardust Prism icon" loading="lazy" width="auto" height="16px"> [Stardust Prism](https://ceterai.github.io/MyEnternia/Wiki/StardustPrism)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/alto/icon.png" alt="Verriskoywa Alto Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Alto Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaAltoFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="Verriskoywa Bushy Grass icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Bushy Grass](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaBushyGrass)

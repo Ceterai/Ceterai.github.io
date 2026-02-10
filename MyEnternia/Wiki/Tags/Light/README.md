@@ -4,9 +4,8 @@ The tag `light` contains 244 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 41 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 38 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-altolight.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"> [Alta Altolight](https://ceterai.github.io/MyEnternia/Wiki/AltaAltolight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_blue_icon.png" alt="Alta Lab Capsule With Alcal icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Alcal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithAlcal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_red_icon.png" alt="Alta Lab Capsule With Mical icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Mical](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithMical)
@@ -19,7 +18,6 @@ The tag `light` contains 244 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" width="auto" height="16px"> [Alta Lifechamber](https://ceterai.github.io/MyEnternia/Wiki/AltaLifechamber)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light/icon.png" alt="Alta Light icon" loading="lazy" width="auto" height="16px"> [Alta Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" width="auto" height="16px"> [Alta Light Bar](https://ceterai.github.io/MyEnternia/Wiki/AltaLightBar)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-mikolight.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"> [Alta Mikolight](https://ceterai.github.io/MyEnternia/Wiki/AltaMikolight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/light/icon.png" alt="Alta Ship Light icon" loading="lazy" width="auto" height="16px"> [Alta Ship Light](https://ceterai.github.io/MyEnternia/Wiki/AltaShipLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/national_day/lights/icon.png" alt="Alta String Lights icon" loading="lazy" width="auto" height="16px"> [Alta String Lights](https://ceterai.github.io/MyEnternia/Wiki/AltaStringLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/lamp/icon.png" alt="Bishyn Lamp icon" loading="lazy" width="auto" height="16px"> [Bishyn Lamp](https://ceterai.github.io/MyEnternia/Wiki/BishynLamp)
@@ -34,16 +32,15 @@ The tag `light` contains 244 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/tank/icon.png" alt="Gheatsyn Tank icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Tank](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTank)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/lamp/icon.png" alt="Hevika Lamp icon" loading="lazy" width="auto" height="16px"> [Hevika Lamp](https://ceterai.github.io/MyEnternia/Wiki/HevikaLamp)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/light/icon.png" alt="Hevika Light icon" loading="lazy" width="auto" height="16px"> [Hevika Light](https://ceterai.github.io/MyEnternia/Wiki/HevikaLight)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Neonjack icon" loading="lazy" width="auto" height="16px"> [Neonjack](https://ceterai.github.io/MyEnternia/Wiki/Neonjack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"> [Sonaveil Lights](https://ceterai.github.io/MyEnternia/Wiki/SonaveilLights)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-spectral_pod.png" alt="Spectral Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Spectral Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/SpectralPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"> [Stardust Crystal](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/new_year/lights/icon.png" alt="Stardust Lights icon" loading="lazy" width="auto" height="16px"> [Stardust Lights](https://ceterai.github.io/MyEnternia/Wiki/StardustLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_prism/icon.png" alt="Stardust Prism icon" loading="lazy" width="auto" height="16px"> [Stardust Prism](https://ceterai.github.io/MyEnternia/Wiki/StardustPrism)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/backdoor/icon.png" alt="Unknown Device icon" loading="lazy" width="auto" height="16px"> [Unknown Device](https://ceterai.github.io/MyEnternia/Wiki/UnknownDevice)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/lamp/icon.png" alt="Warped Lamp icon" loading="lazy" width="auto" height="16px"> [Warped Lamp](https://ceterai.github.io/MyEnternia/Wiki/WarpedLamp)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/light/icon.png" alt="Warped Light icon" loading="lazy" width="auto" height="16px"> [Warped Light](https://ceterai.github.io/MyEnternia/Wiki/WarpedLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Yaajack icon" loading="lazy" width="auto" height="16px"> [Yaajack](https://ceterai.github.io/MyEnternia/Wiki/Yaajack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_bulb/icon.png" alt="Yaara Bulb icon" loading="lazy" width="auto" height="16px"> [Yaara Bulb](https://ceterai.github.io/MyEnternia/Wiki/YaaraBulb)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_crystal_icon.png" alt="Yaara Crystal Flower icon" loading="lazy" width="auto" height="16px"> [Yaara Crystal Flower](https://ceterai.github.io/MyEnternia/Wiki/YaaraCrystalFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/lamp/ct_yaara_lamp_icon.png" alt="Yaara Flower icon" loading="lazy" width="auto" height="16px"> [Yaara Flower](https://ceterai.github.io/MyEnternia/Wiki/YaaraFlower)
@@ -56,7 +53,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 183 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 186 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -86,6 +83,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 - [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
 - [Alta Copper Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaCopperGirl)
+- [Alta Cupid](https://ceterai.github.io/MyEnternia/Wiki/AltaCupid)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)
 - [Alta Designer](https://ceterai.github.io/MyEnternia/Wiki/AltaDesigner)
 - [Alta Diamond Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaDiamondProtecta)
@@ -105,6 +103,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 - [Alta Gamer](https://ceterai.github.io/MyEnternia/Wiki/AltaGamer)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Alta Geologist](https://ceterai.github.io/MyEnternia/Wiki/AltaGeologist)
+- [Alta Girlfriend](https://ceterai.github.io/MyEnternia/Wiki/AltaGirlfriend)
 - [Alta Gold Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaGoldKnight)
 - [Alta Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard)
 - [Alta Halloween Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHalloweenGirl)
@@ -123,6 +122,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Light](https
 - [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
 - [Alta Lab Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard)
 - [Alta Lab Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcher)
+- [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
 - [Alta Lunar Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaLunarGuard)
 - [Alta Lunar Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaLunarMiner)
 - [Alta Mechanic](https://ceterai.github.io/MyEnternia/Wiki/AltaMechanic)

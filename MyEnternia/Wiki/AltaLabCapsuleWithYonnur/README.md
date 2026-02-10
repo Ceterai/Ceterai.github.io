@@ -8,7 +8,7 @@ A bionid capsule containing some luminescent material.
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: A lab capsule filled with glowing juice from bulbs of warped plants. It's called '[yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur)'.
+- Alta: A lab capsule filled with glowing juice from bulbs of warped plants. It's called '[Yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur)'.
 - Apex: Perhaps this object contains a glowing liquid material.
 - Avian: It glows in the dark!
 - Floran: Floran wonderssss what's inssside.

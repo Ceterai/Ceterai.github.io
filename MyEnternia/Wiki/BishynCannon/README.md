@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun_2.png" alt="Bishyn Cannon ★ icon" loading="lazy" width="auto" height="16px"> **Bishyn Cannon ★** is a legendary two-handed shotgun.
 
-This massive blaster now shoots <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals encrusted with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
+This massive blaster now shoots <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals encrusted with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun.png" alt="Bishyn Gun icon" loading="lazy" width="auto" height="16px"> [Bishyn Gun](https://ceterai.github.io/MyEnternia/Wiki/BishynGun).
 
@@ -14,38 +14,41 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Bishyn Barrage
 
-Main ability of the item, activated with left mouse button.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals are poisonous - they deal physical damage while applying special effects. Press to burst with shards, hold for a shard discharge.
 
 Parameters:
 
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 0.9
-- Press Type: `burst`
+- Hold Params:
+  - Type: `ct_bishyn_shard`
+  - Inaccuracy: 1.81
+  - Count: 12
+- Hold Type: `clouds`
 - Press Params:
   - Type: `ct_bishyn_shard`
   - Inaccuracy: 0.18
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
-- Hold Type: `clouds`
-- Hold Params:
-  - Type: `ct_bishyn_shard`
-  - Inaccuracy: 1.81
-  - Count: 12
+- Press Type: `burst`
 
-### Secondary Ability
+### Bishyn Discharge
 
-Alternative ability of the item, activated with right mouse button.
+A powerful poisonous discharge - press for a shotgun-like burst of poison, hold to launch a proximity mine.
 
 Parameters:
 
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.9
-- Press Type: `burst`
+- Hold Params:
+  - Type: `poisonproximitymine`
+  - Inaccuracy: 0.01
+- Hold Type: `blast`
 - Press Params:
   - Type: `acidsweep`
   - Inaccuracy: 0.11
@@ -53,10 +56,7 @@ Parameters:
     - Knockback: 20
     - Time To Live: 5.0
   - Count: 3
-- Hold Type: `blast`
-- Hold Params:
-  - Type: `poisonproximitymine`
-  - Inaccuracy: 0.01
+- Press Type: `burst`
 
 ## Sources
 

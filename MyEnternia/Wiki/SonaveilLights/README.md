@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"> **Sonaveil Lights** is an uncommon light source.
 
-Twinkling string lights in warm holiday colors, perfect for decorating during [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sona'sVeil).  
+Twinkling string lights in warm holiday colors, perfect for decorating during Sona's Veil.  
 These twinkling string lights are a staple of Sonaveil decorations, hung throughout alta homes and cities during the cold solstice season.
 
 ## Ingame

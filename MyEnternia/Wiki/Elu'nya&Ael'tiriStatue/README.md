@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/artizzi/icon.png" alt="Elu'nya & Ael'tiri Statue icon" loading="lazy" width="auto" height="16px"> **Elu'nya & Ael'tiri Statue** is an essential decorative object.
 
 Looks like a floating crescent with little crystal pieces around it, just hovering over the pedestal.  
-[Elu'nya](https://ceterai.github.io/MyEnternia/Wiki/Elu'nya) is a small decorative sculpture representing the crescent-shaped symbol associated with initial alta astral origins. The inner sphere, known as [Ael'tiri](https://ceterai.github.io/MyEnternia/Wiki/Ael'tiri), is traditionally interpreted as a point of focused "dream-light", while the surrounding crystal fragments symbolize dispersed harmonic energy.
+Elu'nya is a small decorative sculpture representing the crescent-shaped symbol associated with initial alta astral origins. The inner sphere, known as Ael'tiri, is traditionally interpreted as a point of focused "dream-light", while the surrounding crystal fragments symbolize dispersed harmonic energy.
 This concept is sometimes used in alta interior design as a calm, static reminder of balance between motion and stillness. Despite its dynamic appearance, the piece is entirely solid, created to imitate suspended celestial motion.
 
 ## Ingame

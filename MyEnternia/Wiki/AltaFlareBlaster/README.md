@@ -14,16 +14,16 @@ Radiomessages on pickup:
 
 ### Alta Signal
 
-Press the button to launch an [Emergencer Signal](https://ceterai.github.io/MyEnternia/Wiki/EmergencerSignal).
+Press the button to launch an Emergencer Signal.
 
 Parameters:
 
 - Base Dps: 2
 - Energy Usage: 12
 - Fire Time: 1.2
-- Press Type: `rocket`
 - Press Params:
   - Type: `ct_emergencer_charge`
+- Press Type: `rocket`
 
 ## Sources
 

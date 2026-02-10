@@ -18,10 +18,10 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Projectile Type: `lightarrow`
 - Power Projectile Type: `chargedlightarrow`
 - Projectile Parameters:
   - Power: 6.5
+- Projectile Type: `lightarrow`
 
 ### Secondary Ability
 
@@ -29,9 +29,9 @@ Alternative ability of the item, activated with right mouse button.
 
 Parameters:
 
-- Projectile Type: `lightarrow`
 - Projectile Parameters:
   - Power: 8.125
+- Projectile Type: `lightarrow`
 
 ## Sources
 

@@ -37,7 +37,7 @@ But the ray itself was not like everyone else, unlike ordinary rays. He came fro
 
 You can't just go and... talk to her! What if she doesn't understand? Or even worse - what if she won't like the ray?
 
-And even when the star hovered around him, bombarding him with questions, he could not bring himself to answer her somehow.  
+And even when the star hovered around him, bombarding him with questions, he could not bring himself to answer her somehow.
 The reason for this was not only shyness, but also the very nature of the little ray: he was used to simply observing things from afar and not interfering in their lives, and it was very difficult for him to do otherwise, even when the star itself flew up and greeted him.
 
 It's just a pity that the star didn't understand this. She flew away, afraid to look back and see that the ray was still standing still.
@@ -50,7 +50,7 @@ The little ray thought about that for a long time, until every thought about her
 
 And so, at some point the ray could no longer stand it. He turned in the direction in which the star had flown, and, although he could no longer see her in the cosmic canvas, he rushed forward with incredible, unprecedented speed. At the speed of... a ray of light.
 
-And he had to fly a lot. Fly, search, find, because a star is not a ray of light, she did not like to sit still, or just fly in a straight line. She jumped from planet to planet, from asteroid to asteroid, ran across vast fields, hid in caves, swam in rivers, rushed through the forests.  
+And he had to fly a lot. Fly, search, find, because a star is not a ray of light, she did not like to sit still, or just fly in a straight line. She jumped from planet to planet, from asteroid to asteroid, ran across vast fields, hid in caves, swam in rivers, rushed through the forests.
 Her way of life was very different from the ray's, and that was why it was so difficult for him to find her. But the little ray did not give up.
 
 And suddenly the ray saw a familiar flicker.
@@ -87,14 +87,23 @@ I'm sorry that I won't be able to travel with you, but I promise to forever ligh
 
 ### Crafting
 
-Unlocks blueprints for:
+<details markdown="1"><summary>Unlocks blueprints for: (Expand 7 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="A Perfect Riverside Date icon" loading="lazy" width="auto" height="16px"> [A Perfect Riverside Date](https://ceterai.github.io/MyEnternia/Wiki/APerfectRiversideDate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_poster.png" alt="Ava Day Poster icon" loading="lazy" width="auto" height="16px"> [Ava Day Poster](https://ceterai.github.io/MyEnternia/Wiki/AvaDayPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
+
+</details>
 
 ## Sources
 
 Blueprint unlocked by obtaining:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="A Perfect Riverside Date icon" loading="lazy" width="auto" height="16px"> [A Perfect Riverside Date](https://ceterai.github.io/MyEnternia/Wiki/APerfectRiversideDate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
 
 Can be crafted:
@@ -123,5 +132,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `7`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Tags: [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`lenn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Lenn), [`love`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Love), [`tiana`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tiana)
+- Tags: [`ava_day`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`lenn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Lenn), [`orchid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Orchid)
 - File: [`/codex/alta/ct_love.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_love.codex)

@@ -21,6 +21,10 @@ Radiomessages on pickup:
 
 Can be used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/thrower/body.png" alt="Alta Coldthrower icon" loading="lazy" width="auto" height="16px"> [Alta Coldthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaColdthrower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/cannon/ct_alta_snow_cannon.png" alt="Alta Snow Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Snow Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowCannon)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/sprayer/icon.png" alt="Alta Snow Sprayer icon" loading="lazy" width="auto" height="16px"> [Alta Snow Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowSprayer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/ct_alta_snowthrower.png" alt="Alta Snowthrower icon" loading="lazy" width="auto" height="16px"> [Alta Snowthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowthrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"> [Waterblaster](https://ceterai.github.io/MyEnternia/Wiki/Waterblaster)
 
 ## Sources

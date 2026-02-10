@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_haven_thrower.png" alt="Haven Grassthrower ★★ icon" loading="lazy" width="auto" height="16px"> **Haven Grassthrower ★★** is a legendary one-handed tool.
 
-This [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) tool can very quickly spread seeds of different kinds to grow beautiful things!
+This [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) tool can very quickly spread seeds of different kinds to grow beautiful things!
 
 ## Ingame
 
@@ -20,9 +20,9 @@ Press to rapidly disperse seeds! Hold to change seed type. Available: grass, flo
 Parameters:
 
 - Base Dps: 4
+- Default Fire Type: `grass`
 - Energy Usage: 16
 - Fire Time: 0.05
-- Default Fire Type: `grass`
 - Fire Types:
   - Grass:
     - Type: `blast`

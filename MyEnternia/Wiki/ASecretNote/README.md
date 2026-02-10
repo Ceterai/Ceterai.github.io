@@ -13,10 +13,10 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 ### Contents
 
-Tia thinks that the two of us can handle this, but I'm not as optimistic. Now, that Mira is...
+Tia thinks that the two of us can handle this, but I'm not as optimistic. Now that Mira is...
 
-I told Tia that I'll make sure all 'doorways' no longer have an energy source. Obviously, I can't just pretend like I did that, I'll have to remove them for real.  
-But. Something tells me we'll need someone else's help.  
+I told Tia that I'll make sure all 'doorways' no longer have an energy source. Obviously, I can't just pretend like I did that, I'll have to remove them for real.
+But. Something tells me we'll need someone else's help.
 I'll make sure to send an SOS signal to everywhere I can reach without her noticing.
 
 ...Please. If you're reading this. The energy sources used by 'doorways' are the same sources still installed in the generators on Crimsash satellites.

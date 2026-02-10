@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword.png" alt="Crystalline Sword icon" loading="lazy" width="auto" height="16px"> **Crystalline Sword** is a rare two-handed broadsword.
 
 The blade of this sword is made out of crystalline cave crystals. A bit rough around the edges, but still quite powerful.  
-With no alta markings on it's [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) handle, its electro-crystallic conduction capabilities are very much Io-like.
+With no alta markings on it's [bionix](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) handle, its electro-crystallic conduction capabilities are very much Io-like.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Razor ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalRazor) at the Weapon Upgrade Anvil.
 
@@ -28,26 +28,10 @@ Each swing contributes to the charge, with the handle being isolated enough to n
 Parameters:
 
 - Base Dps: 12
-- Fire Time: 0.9
-- Energy Usage: 32
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor:
-- Knockback: 10.0
-- Swoosh: `swoosh1`
-- Swoosh Offset:  0.75, ,  4.25,  5.0, 
-- Damage Factor: 1.4
-- Energy Factor:
-- Knockback: 5.0
-- Swoosh: `swoosh2`
-- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0, 
-- Damage Factor: 0.6
-- Energy Factor:
-- Knockback: 25.0
-- Swoosh: `swoosh3`
-- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
 - Damage Config:
   - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+- Energy Usage: 32
+- Fire Time: 0.9
 
 ### Sinara's Leap
 

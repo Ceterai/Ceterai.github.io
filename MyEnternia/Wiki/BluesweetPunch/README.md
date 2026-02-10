@@ -22,6 +22,8 @@ Unlocks blueprints for:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_punch.png" alt="Aya Punch icon" loading="lazy" width="auto" height="16px"> [Aya Punch](https://ceterai.github.io/MyEnternia/Wiki/AyaPunch).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_punch-bluesweet.png" alt="Bluesweet Punch ★★ icon" loading="lazy" width="auto" height="16px"> Bluesweet Punch ★★ x*1*):

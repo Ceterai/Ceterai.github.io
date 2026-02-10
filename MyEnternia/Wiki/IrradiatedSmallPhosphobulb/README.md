@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phosphobulbs/icon.png" alt="Irradiated Small Phosphobulb icon" loading="lazy" width="auto" height="16px"> **Irradiated Small Phosphobulb** is a common fiery trap.
 
-A bulb of irradiated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion).
+A bulb of irradiated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion).
 
 ## Ingame
 

@@ -13,6 +13,8 @@ Species descriptions:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Cocktail icon" loading="lazy" width="auto" height="16px"> [Yuri Cocktail](https://ceterai.github.io/MyEnternia/Wiki/YuriCocktail).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yuri_cocktail-deluxe.png" alt="Yuri Deluxe ★ icon" loading="lazy" width="auto" height="16px"> Yuri Deluxe ★ x*1*):

@@ -18,20 +18,20 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Hyperblaster
 
-Compact phosicore of this weapon is able to rapidly generate small accelerated [Ions](https://ceterai.github.io/MyEnternia/Wiki/Ions).
+Compact phosicore of this weapon is able to rapidly generate small accelerated Ions.
 
 Parameters:
 
-- Hold Time Max:
-- Press Type: `blast`
+- Base Dps: 4
 - Energy Usage: 16
+- Fire Time: 0.11
+- Hold Time Max:
 - Hold Time Min: 0.9
 - Press Params:
-  - Inaccuracy: 0.06
   - Count: 2
   - Type: `ct_ionic_small`
-- Base Dps: 4
-- Fire Time: 0.11
+  - Inaccuracy: 0.06
+- Press Type: `blast`
 
 ## Sources
 

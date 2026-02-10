@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="A Virma's Friend icon" loading="lazy" width="auto" height="16px"> **A Virma's Friend** is an uncommon codex entry.
 
 This alta ebook tells a fairy tale about an alta who was living in a forest and was able to talk to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" width="auto" height="16px"> [aya virma](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma) plants.  
-Obviously, no alta is truly able to talk to plants and command them, but there are cases close to that, and special education courses are put in place for [alta gardeners](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener) and [virma tamers](https://ceterai.github.io/MyEnternia/Wiki/virmatamers) that teach them proper communication with different intelligent creatures, like virmas.
+Obviously, no alta is truly able to talk to plants and command them, but there are cases close to that, and special education courses are put in place for [alta gardeners](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener) and virma tamers that teach them proper communication with different intelligent creatures, like virmas.
 
 ## Ingame
 

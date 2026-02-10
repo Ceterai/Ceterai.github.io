@@ -19,9 +19,9 @@ Press to disperse seeds!
 Parameters:
 
 - Base Dps: 4
+- Default Fire Type: `grass`
 - Energy Usage: 16
 - Fire Time: 0.4
-- Default Fire Type: `grass`
 - Fire Types:
   - Grass:
     - Hold Time Max:

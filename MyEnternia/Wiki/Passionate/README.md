@@ -4,6 +4,10 @@
 
 An amazing feeling of being in the moment over something you enjoy.
 
+Applied by following items:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Happy Ava Day! ❤ icon" loading="lazy" width="auto" height="16px"> [Happy Ava Day! ❤](https://ceterai.github.io/MyEnternia/Wiki/HappyAvaDay!)
+
 ## Parameters
 
 Default Duration: 2s  

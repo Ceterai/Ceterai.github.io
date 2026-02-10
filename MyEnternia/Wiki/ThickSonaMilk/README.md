@@ -21,6 +21,8 @@ Unlocks blueprints for:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sona_milk_hot.png" alt="Hot Sona Milk icon" loading="lazy" width="auto" height="16px"> [Hot Sona Milk](https://ceterai.github.io/MyEnternia/Wiki/HotSonaMilk).
+
 Can be crafted:
 
 - <img src="https://starbounder.org/mediawiki/images/b/b2/Chic_Cooking_Table.png" alt="Cooking Stations icon" width="12" height="8"/> [Cooking Stations](https://starbounder.org/Cooking#Meal_Prep_Stations), ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 1.05s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sona_milk_hot-thick.png" alt="Thick Sona Milk ★ icon" loading="lazy" width="auto" height="16px"> Thick Sona Milk ★ x*1*):

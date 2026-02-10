@@ -21,7 +21,7 @@ Altas are proud of their space construction industry. Spaceships of all sizes an
 
 Prowling the expanses of space over long distances, for short flights, for trade, for recreation.
 
-Space stations, starships, cruisers and even the [Al'deron](https://ceterai.github.io/MyEnternia/Wiki/Al'deron) mothership are the pride of many [alta architects](https://ceterai.github.io/MyEnternia/Wiki/altaarchitects) and [alta scientists](https://ceterai.github.io/MyEnternia/Wiki/altascientists).
+Space stations, starships, cruisers and even the Al'deron mothership are the pride of many alta architects and alta scientists.
 
 All ships, as is customary among altas, are subject to their own general standards and protocols.
 
@@ -31,11 +31,11 @@ So, in the case of any space mechanisms, the main conditions are always air-tigh
 
 Many parts of a typical alta spaceship can exist on their own, rather than as an integral part of the ship itself.
 
-Good examples of such part technologies would be [alta ship shelves](https://ceterai.github.io/MyEnternia/Wiki/altashipshelves), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/table/icon.png" alt="Alta Ship Table icon" loading="lazy" width="auto" height="16px"> [alta ship tables](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTable), and even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/bed/icon.png" alt="Alta Ship Bed icon" loading="lazy" width="auto" height="16px"> [alta ship beds](https://ceterai.github.io/MyEnternia/Wiki/AltaShipBed) with protective screens.
+Good examples of such part technologies would be alta ship shelves, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/table/icon.png" alt="Alta Ship Table icon" loading="lazy" width="auto" height="16px"> [alta ship tables](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTable), and even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/bed/icon.png" alt="Alta Ship Bed icon" loading="lazy" width="auto" height="16px"> [alta ship beds](https://ceterai.github.io/MyEnternia/Wiki/AltaShipBed) with protective screens.
 
-If air-tight, many ship devices can continue to operate in any conditions - both underwater and in the vacuum of space. This includes both <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" width="auto" height="16px"> [alta ship terminals](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTerminal) and the simplest [alta ship lamps](https://ceterai.github.io/MyEnternia/Wiki/altashiplamps).
+If air-tight, many ship devices can continue to operate in any conditions - both underwater and in the vacuum of space. This includes both <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/terminal/icon.png" alt="Alta Ship Terminal icon" loading="lazy" width="auto" height="16px"> [alta ship terminals](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTerminal) and the simplest alta ship lamps.
 
-But the main example of tightness and reliability are [alta ship gateways](https://ceterai.github.io/MyEnternia/Wiki/altashipgateways) - massive blast-proof structures that can keep most problems on the other side.
+But the main example of tightness and reliability are alta ship gateways - massive blast-proof structures that can keep most problems on the other side.
 
 In the case of cargo ships, the main objects on board will be the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/container/icon.png" alt="Alta Ship Container icon" loading="lazy" width="auto" height="16px"> [alta ship containers](https://ceterai.github.io/MyEnternia/Wiki/AltaShipContainer) - sealed pods with many fastenings and protective mechanisms.
 

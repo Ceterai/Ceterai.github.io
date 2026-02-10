@@ -28,6 +28,11 @@ Applies effects on knockback:
 
 - <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"> [Burning](https://starbounder.org/Burning)
 
+### Redistribution
+
+Provides an <img src="https://starbounder.org/mediawiki/images/f/f3/Status_Burning.png" alt="Burning icon" loading="lazy" width="16px" height="16px"> [Burning](https://starbounder.org/Burning) on knockback.  
+Activate block fast enough (parry time) to perform a perfect block.
+
 ## Sources
 
 Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have it installed).

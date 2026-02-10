@@ -27,26 +27,26 @@ Provides an improved burst power thanks to all of the enhancements and an update
 
 Parameters:
 
-- Projectile Parameters:
-  - Knockback: 20
+- Base Dps: 10
 - Energy Usage: 40
+- Fire Time: 0.9
 - Fire Type: `auto`
 - Inaccuracy: 0.11
-- Base Dps: 10
-- Fire Time: 0.9
-- Projectile Type: `fireplasma`
 - Projectile Count: 7
+- Projectile Parameters:
+  - Knockback: 20
+- Projectile Type: `fireplasma`
 
-### Secondary Ability
+### Physnade
 
-Alternative ability of the item, activated with right mouse button.
+Launches a simple physical nade.
 
 Parameters:
 
-- Energy Usage: 20
 - Elemental Config:
   - Physical:
     - Projectile Type: `doomgrenade`
+- Energy Usage: 20
 - Projectile Type: `grenade`
 
 ## Sources

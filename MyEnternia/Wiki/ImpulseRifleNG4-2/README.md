@@ -62,8 +62,8 @@ Hold - change firemodes.
 
 Parameters:
 
-- Fire Types:  `charge`,  `semi`,  `single`
 - Attachments:  `none`,  `laser`,  `stabilizer`
+- Fire Types:  `charge`,  `semi`,  `single`
 
 ## Sources
 

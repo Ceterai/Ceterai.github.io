@@ -33,7 +33,7 @@ Sometimes such tools have settings that allow you to increase the current, but t
 
 Gheatsyn grows differently in different conditions. For example, in [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Gheatorn), it is mixed with cave rocks, sometimes becoming noticeably more difficult to extract.
 
-At the same time, gheatsyn growing in [gheaprisms](https://ceterai.github.io/MyEnternia/Wiki/gheaprisms) is quite fragile, but is very difficult to handle with electricity, since it grows in a rather specific atmosphere, which creates a fairly high resistance to any current.
+At the same time, gheatsyn growing in gheaprisms is quite fragile, but is very difficult to handle with electricity, since it grows in a rather specific atmosphere, which creates a fairly high resistance to any current.
 
 In any conditions, this extraction is worth it - gheatsyn is an incredibly convenient and flexible material that has a whole variety of uses.
 

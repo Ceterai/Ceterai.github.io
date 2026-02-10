@@ -21,13 +21,13 @@ Parameters:
 - Base Dps: 5
 - Energy Usage: 20
 - Fire Time: 0.6
-- Type: `ct_lunar_chakram`
 - Params:
   - Damage Repeat Timeout: 0.2
   - Return On Hit:
   - Pickup Distance: 1.0
   - Hover Max Distance: 15
   - Hover Time: 0.8
+- Type: `ct_lunar_chakram`
 
 ## Sources
 

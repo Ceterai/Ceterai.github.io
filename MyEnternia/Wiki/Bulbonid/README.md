@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_bulbonid/icon.png" alt="Bulbonid icon" loading="lazy" width="auto" height="16px"> **Bulbonid** is a common light source.
 
-A tall biocrystallic growth with brightly-lit <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) bulbs on top.
+A tall biocrystallic growth with brightly-lit <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) bulbs on top.
 
 ## Ingame
 

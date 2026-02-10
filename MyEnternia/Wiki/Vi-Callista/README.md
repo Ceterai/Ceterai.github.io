@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-vi_callista.png" alt="Vi-Callista ★★ icon" loading="lazy" width="auto" height="16px"> **Vi-Callista ★★** is an uncommon one-handed electric shield.
 
-This <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystal](https://starbounder.org/Crystal) shield is ornamented with [enchanted](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted) rims.  
+This <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystal](https://starbounder.org/Crystal) shield is ornamented with [enchanted](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadows) rims.  
 Its pristine nature is a somewhat rare effect of enchanted influence. This indicates its naturally impecable structure.
 
 ## Ingame

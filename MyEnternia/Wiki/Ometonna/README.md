@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" width="auto" height="16px"> **Ometonna** is an uncommon dish.
 
 A delicious <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) omelette! Avoid the bionid parts when cooking.  
-While cooking, the [tonna fruit](https://ceterai.github.io/MyEnternia/Wiki/tonnafruit) and [tonna milk](https://ceterai.github.io/MyEnternia/Wiki/tonnamilk) boils up into an omelette-like substance, perfect for a morning charge-up.
+While cooking, the [tonna fruit](https://ceterai.github.io/MyEnternia/Wiki/Tonna) and [tonna milk](https://ceterai.github.io/MyEnternia/Wiki/Tonna#cooking) boils up into an omelette-like substance, perfect for a morning charge-up.
 
 ## Ingame
 

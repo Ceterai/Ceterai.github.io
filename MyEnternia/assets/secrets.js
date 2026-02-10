@@ -13,8 +13,8 @@
         'companiondrone'
     ];
     
-    // Calculate total: 2 fixed secrets (s1=uwu, s2=box) + SECRET_PAGES
-    const TOTAL_SECRETS = 2 + SECRET_PAGES.length;
+    // Calculate total: 3 fixed secrets (s1=uwu, s2=box, s3=trail) + SECRET_PAGES
+    const TOTAL_SECRETS = 3 + SECRET_PAGES.length;
     
     // Get found secrets
     function getFoundSecrets() {
@@ -129,6 +129,61 @@
         }
     }
     
+    // Cursor trail effect
+    let trailActive = false;
+    
+    function createTrailParticle(x, y) {
+        const particle = document.createElement('div');
+        particle.className = 'cursor-trail';
+        particle.style.left = x + 'px';
+        particle.style.top = y + 'px';
+        particle.innerHTML = ['✨', '⭐', '💫', '🌟'][Math.floor(Math.random() * 4)];
+        document.body.appendChild(particle);
+        
+        setTimeout(() => particle.remove(), 1000);
+    }
+    
+    function toggleCursorTrail() {
+        trailActive = !trailActive;
+        
+        if (trailActive) {
+            discoverSecret('s3');
+            document.addEventListener('mousemove', handleTrailMove);
+        } else {
+            document.removeEventListener('mousemove', handleTrailMove);
+        }
+    }
+    
+    function handleTrailMove(e) {
+        if (trailActive && Math.random() > 0.7) {
+            createTrailParticle(e.pageX, e.pageY);
+        }
+    }
+    
+    // Typing detector for secret word
+    let typedChars = '';
+    const SECRET_WORD = 'ceterai';
+    
+    function handleTyping(e) {
+        // Don't trigger in input fields or search page
+        if (e.target.matches('input, textarea') || window.location.pathname.includes('/search')) {
+            return;
+        }
+        
+        typedChars += e.key.toLowerCase();
+        
+        // Keep only last 10 chars
+        if (typedChars.length > 10) {
+            typedChars = typedChars.slice(-10);
+        }
+        
+        // Check if secret word was typed
+        if (typedChars.includes(SECRET_WORD)) {
+            typedChars = '';
+            window.location.href = '/MyEnternia/Wiki/xFw8Uf/';
+        }
+    }
+    
     // Mystery box spawner (1% chance)
     function spawnMysteryBox() {
         if (Math.random() > 0.01) return; // 1% chance
@@ -164,8 +219,8 @@
         // Check each secret page in the list
         SECRET_PAGES.forEach((page, index) => {
             if (path.includes(page)) {
-                // s3, s4, s5, s6 are for secret pages
-                discoverSecret(`s${index + 3}`);
+                // s4, s5, s6, s7 are for secret pages (s3 is trail)
+                discoverSecret(`s${index + 4}`);
             }
         });
     }
@@ -191,13 +246,22 @@
         // Check for secret pages
         checkSecretPages();
         
-        // Setup Alt+U shortcut
+        // Setup Alt+U shortcut for UwU mode
         document.addEventListener('keydown', (e) => {
-            if (e.altKey && e.key === 'u') {
+            if (e.altKey && e.key === 'u' && !e.ctrlKey && !e.shiftKey) {
                 e.preventDefault();
                 toggleUwuMode();
             }
+            
+            // Setup Alt+T shortcut for cursor trail
+            if (e.altKey && e.key === 't' && !e.ctrlKey && !e.shiftKey) {
+                e.preventDefault();
+                toggleCursorTrail();
+            }
         });
+        
+        // Setup typing detector
+        document.addEventListener('keypress', handleTyping);
         
         // Spawn mystery box (1% chance)
         if (window.location.pathname.includes('/MyEnternia/Wiki/')) {

@@ -13,6 +13,8 @@ Species descriptions:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" width="auto" height="16px"> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_pavolda_cake-love.png" alt="Celestia's Love ★ icon" loading="lazy" width="auto" height="16px"> Celestia's Love ★ x*1*):

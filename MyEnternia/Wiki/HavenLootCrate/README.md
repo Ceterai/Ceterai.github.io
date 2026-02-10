@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Haven Loot Crate icon" loading="lazy" width="auto" height="16px"> **Haven Loot Crate** is an uncommon loot item.
 
-Contains random loot from alterash [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) biome chests.  
+Contains random loot from alterash [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) biome chests.  
 The casings has Low Toxicity markings all over it, and an additional safety switch to make sure that the create can't be opened on accident.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: I better not touch this without permissions. I know these are not as toxic as [aric pads](https://ceterai.github.io/MyEnternia/Wiki/aricpads), but better be safe than sorry.
+- Alta: I better not touch this without permissions. I know these are not as toxic as aric pads, but better be safe than sorry.
 
 Radiomessages on pickup:
 

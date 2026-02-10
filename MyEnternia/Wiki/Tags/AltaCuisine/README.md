@@ -1,6 +1,6 @@
 # Alta Cuisine Tag
 
-The tag `alta_cuisine` contains 61 total entries.
+The tag `alta_cuisine` contains 63 total entries.
 
 ## Objects
 
@@ -8,12 +8,13 @@ The tag `alta_cuisine` contains 61 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 61 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 63 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-alien.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-alien_pearls.png" alt="Alien Pearls icon" loading="lazy" width="auto" height="16px"> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_charlotte.png" alt="Alta Charlotte icon" loading="lazy" width="auto" height="16px"> [Alta Charlotte](https://ceterai.github.io/MyEnternia/Wiki/AltaCharlotte)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear_tea.png" alt="Alta Pear Tea icon" loading="lazy" width="auto" height="16px"> [Alta Pear Tea](https://ceterai.github.io/MyEnternia/Wiki/AltaPearTea)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-ayaka.png" alt="Ayabaycalin Punch ★ icon" loading="lazy" width="auto" height="16px"> [Ayabaycalin Punch ★](https://ceterai.github.io/MyEnternia/Wiki/AyabaycalinPunch)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_biomix_icecream-ayaka.png" alt="Ayamix Ice Cream icon" loading="lazy" width="auto" height="16px"> [Ayamix Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyamixIceCream)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_baked-xenopod.png" alt="Baked Xenopod icon" loading="lazy" width="auto" height="16px"> [Baked Xenopod](https://ceterai.github.io/MyEnternia/Wiki/BakedXenopod)
@@ -32,6 +33,7 @@ The tag `alta_cuisine` contains 61 total entries.
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_fivaldo_salad-banquet.png" alt="Fival'do Banquet ★ icon" loading="lazy" width="auto" height="16px"> [Fival'do Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" width="auto" height="16px"> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-fresh_cocktail.png" alt="Fresh Cocktail icon" loading="lazy" width="auto" height="16px"> [Fresh Cocktail](https://ceterai.github.io/MyEnternia/Wiki/FreshCocktail)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-gillimon_ice_cream.png" alt="Gillimon Ice Cream ★ icon" loading="lazy" width="auto" height="16px"> [Gillimon Ice Cream ★](https://ceterai.github.io/MyEnternia/Wiki/GillimonIceCream)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-gillimon_jam.png" alt="Gillimon Jam icon" loading="lazy" width="auto" height="16px"> [Gillimon Jam](https://ceterai.github.io/MyEnternia/Wiki/GillimonJam)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_heecho_punch-gillimon.png" alt="Gillimon Punch ★ icon" loading="lazy" width="auto" height="16px"> [Gillimon Punch ★](https://ceterai.github.io/MyEnternia/Wiki/GillimonPunch)

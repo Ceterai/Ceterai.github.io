@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_prime_tree.png" alt="Ayaka Prime icon" loading="lazy" width="auto" height="16px"> **Ayaka Prime** is a common tree sapling.
 
-A variation of an [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) commonly found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets or in areas saturated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia).
+A variation of an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/plants/trees/ct_ayaka/foliage/ct_ayaka_foliage_blue/icon.png" alt="Ayaka Tree icon" loading="lazy" width="auto" height="16px"> [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) commonly found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets or in areas saturated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia).
 
 ## Ingame
 

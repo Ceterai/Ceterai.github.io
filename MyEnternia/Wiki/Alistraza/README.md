@@ -21,13 +21,13 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.6
-- Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - Params:
   - Knockback: 20
   - Ignore Terrain:
   - Control Force: 165
   - Pickup Distance: 1.0
   - Snap Distance: 1.0
+- Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 
 ## Sources
 

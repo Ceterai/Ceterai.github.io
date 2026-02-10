@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" width="auto" height="16px"> **Pavolda Cake** is a legendary dish.
 
-A crystally cake with a strange name. Most [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) love it anyway.  
+A crystally cake with a strange name. Most [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) love it anyway.  
 While the origin of the name is related to the mix of crystals used in its recipe, referring to the name of the taste, the ingredients themself are a combination of crystal plants, aya dough and some additional sweet spices and frosting.
 
 ## Ingame

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power-upgrade.png" alt="R-Powercannon ★★★ icon" loading="lazy" width="auto" height="16px"> **R-Powercannon ★★★** is a legendary two-handed poisonous rocket launcher.
 
-A powerful cannon that utilizes <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) both as coolant and as missile component.  
+A powerful cannon that utilizes <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) both as coolant and as missile component.  
 This heavy energy tool has outside origins and was simply altered in a Neiteru alta lab.
 
 An upgrade for <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power.png" alt="R-Power Prototype ★★ icon" loading="lazy" width="auto" height="16px"> [R-Power Prototype ★★](https://ceterai.github.io/MyEnternia/Wiki/R-PowerPrototype).
@@ -19,21 +19,21 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Lexiplasma
 
-Main ability of the item, activated with left mouse button.
+Launches a special mix of toxins and enhanced slime as a rocket.
 
 Parameters:
 
-- Projectile Parameters:
-  - Knockback: 40
+- Base Dps: 10
 - Energy Usage: 40
+- Fire Time: 1.5
 - Fire Type: `auto`
 - Inaccuracy:
-- Base Dps: 10
-- Fire Time: 1.5
-- Projectile Type: `poisonplasmarocket`
 - Projectile Count: 1
+- Projectile Parameters:
+  - Knockback: 40
+- Projectile Type: `poisonplasmarocket`
 
 ### Secondary Ability
 

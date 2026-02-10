@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> **Alta Chef's Guide** is a rare codex entry.
 
 An extensive culinary [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) that goes in-depth into alta cooking culture and its meaning to altas in general, as well as provides advanced recipes as examples. (Unlocks tier 3 recipes)  
-This ebook was written by a grand alta chef named Miara, a very caring alta looking forward to educate less experienced altas how to cook!
+This ebook was written by a grand alta chef named Miara, a very caring alta looking forward to educating less experienced altas how to cook!
 
 ## Ingame
 
@@ -17,30 +17,30 @@ Radiomessages on pickup:
 
 ### Contents
 
-Hi again, fellow [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)! My name is Miara and I am a grand chef at one of [Alta-1](https://ceterai.github.io/MyEnternia/Wiki/Alta-1) biggest restaurants.
+Hi again, fellow [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)! My name is Miara and I am a grand chef at one of Alta-1 biggest restaurants.  
 
 In this ebook, I want to go in-depth on more advanced recipes that you can learn to become a great cook!
 
-[Food](https://ceterai.github.io/MyEnternia/Wiki/Food) is an important part of [alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) and often represents similar concepts and reflects its peculiarities.
+Food is an important part of [alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) and often represents similar concepts and reflects its peculiarities.
 
 Thus, the ingredients you can find in different cuisines, and even cuisines themself, might remind you of certain basic alta concepts.
 
-For example, the [runeva cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#runeva) represents the Runeva triangle concept, found in many corners of alta civilization as a whole, and things like the [Gyera Ordis](https://ceterai.github.io/MyEnternia/Wiki/GyeraOrdis) and [Iora Gyera Parks](https://ceterai.github.io/MyEnternia/Wiki/IoraGyeraPark), or the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy components, the fundamental part of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io) herself.
+For example, the [runeva cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#runeva) represents the Runeva triangle concept, found in many corners of alta civilization as a whole, and things like the Gyera Ordis and [Iora Gyera Parks](https://ceterai.github.io/MyEnternia/Wiki/IoraGyeraPark), or the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy components, the fundamental part of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io) herself.
 
 Similarly, most ingredients of the [calin cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#calin) are representative of another fundamental part of alta existence - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal).
 
-[nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#nia) is representative of energy - an important component of Io and the life on stardust planets and other [Io structs](https://ceterai.github.io/MyEnternia/Wiki/Iostructs).
+[Nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#nia) is representative of energy - an important component of Io and the life on stardust planets and other Io structs.
 
-Now, [yava cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#yava) relates to the nature and the overwhelming <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) energy within it, the integral part of life as a whole.
+Now, [yava cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#yava) relates to the nature and the overwhelming <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) energy within it, the integral part of life as a whole.
 
-These four main cuisines represent the [Alta Quaternion](https://ceterai.github.io/MyEnternia/Wiki/AltaQuaternion) - a common occurence in alta civilization, that tends to group things in multitudes of 4 - quarter of 16, the hexadecimal system used by altas.
+These four main cuisines represent the Alta Quaternion - a common occurence in alta civilization, that tends to group things in multitudes of 4 - quarter of 16, the hexadecimal system used by altas.
 
 Related resources:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)  
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)  
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)  
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)  
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 
 ## Usage

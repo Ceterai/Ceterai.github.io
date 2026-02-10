@@ -32,7 +32,7 @@ Growing stages:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/eco/icon.png" alt="Eco Yaavi Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Yaavi Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoYaaviSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Yaajack icon" loading="lazy" width="auto" height="16px"> [Yaajack](https://ceterai.github.io/MyEnternia/Wiki/Yaajack)
 
 Can be used to craft:
 

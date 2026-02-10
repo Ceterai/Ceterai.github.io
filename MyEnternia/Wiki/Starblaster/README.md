@@ -14,21 +14,21 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Meteoblast
 
-Main ability of the item, activated with left mouse button.
+Launches powerful meteorite shards called [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera)'s Shards.
 
 Parameters:
 
-- Fire Time: 1.0
 - Base Dps: 9
 - Energy Usage: 32
+- Fire Time: 1.0
+- Fire Type: `auto`
 - Inaccuracy: 0.12
 - Projectile Count: 1
-- Fire Type: `auto`
-- Projectile Type: `rocketshell`
 - Projectile Parameters:
   - Knockback: 40
+- Projectile Type: `rocketshell`
 
 ### Secondary Ability
 

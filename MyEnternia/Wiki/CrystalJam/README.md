@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> **Crystal Jam** is a common dish.
 
-Slightly fluorescent soury jam made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn). Very tingy and very energy-reactive.  
+Slightly fluorescent soury jam made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn). Very tingy and very energy-reactive.  
 One of the easiest calin jams to make, as it only involves triggering <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"> [tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex), followed by mixing, and a simple purification sequence, meant to make the jam edible.
 
 ## Ingame

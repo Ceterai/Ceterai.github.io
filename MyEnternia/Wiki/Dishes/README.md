@@ -2,7 +2,7 @@
 
 # Dishes
 
-The mod adds a total of 179 dishes:
+The mod adds a total of 181 dishes:
 
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-alien.png" alt="Alien Coralbakes icon" loading="lazy" width="auto" height="16px"> [Alien Coralbakes](https://ceterai.github.io/MyEnternia/Wiki/AlienCoralbakes)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_yaarings-alien_pearls.png" alt="Alien Pearls icon" loading="lazy" width="auto" height="16px"> [Alien Pearls](https://ceterai.github.io/MyEnternia/Wiki/AlienPearls)
@@ -17,6 +17,7 @@ The mod adds a total of 179 dishes:
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_icecream-warped.png" alt="Archi Ice Cream icon" loading="lazy" width="auto" height="16px"> [Archi Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/ArchiIceCream)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-aric_stew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> [Aric Stew](https://ceterai.github.io/MyEnternia/Wiki/AricStew)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" width="auto" height="16px"> [Aya Candy](https://ceterai.github.io/MyEnternia/Wiki/AyaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" width="auto" height="16px"> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
@@ -73,6 +74,7 @@ The mod adds a total of 179 dishes:
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_fivaldo_salad-banquet.png" alt="Fival'do Banquet ★ icon" loading="lazy" width="auto" height="16px"> [Fival'do Banquet ★](https://ceterai.github.io/MyEnternia/Wiki/Fival'doBanquet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" width="auto" height="16px"> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/WIP/ct_fortune_flower.png" alt="Fortune Flower icon" loading="lazy" width="auto" height="16px"> [Fortune Flower](https://ceterai.github.io/MyEnternia/Wiki/FortuneFlower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gil_tsay_stew-gharus.png" alt="Gharus Stew ★ icon" loading="lazy" width="auto" height="16px"> [Gharus Stew ★](https://ceterai.github.io/MyEnternia/Wiki/GharusStew)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_candy-gheatsyn.png" alt="Ghea Candy icon" loading="lazy" width="auto" height="16px"> [Ghea Candy](https://ceterai.github.io/MyEnternia/Wiki/GheaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_gil_tsay_stew.png" alt="Gil-Tsay Stew icon" loading="lazy" width="auto" height="16px"> [Gil-Tsay Stew](https://ceterai.github.io/MyEnternia/Wiki/Gil-TsayStew)

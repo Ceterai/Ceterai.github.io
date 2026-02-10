@@ -15,7 +15,7 @@ Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/
 
 Species descriptions:
 
-- Alta: Now this is an energy tool to all energy tools! It cuts through <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) and weaker metals easily, and I'm not even talking about light stuff like [ayakut](https://ceterai.github.io/MyEnternia/Wiki/ayakut)!
+- Alta: Now this is an energy tool to all energy tools! It cuts through <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) and weaker metals easily, and I'm not even talking about light stuff like ayakut!
 
 Radiomessages on pickup:
 
@@ -25,47 +25,24 @@ Radiomessages on pickup:
 
 ### Plasmic Razor
 
-The rim of this tool is made out of plasma. Can provide up to 4 combo hits, with the last 2 applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
-The combo itself is very familiar to any alta soldier as it follows standard [combat protocols](https://ceterai.github.io/MyEnternia/Wiki/combatprotocols).
+The rim of this tool is made out of plasma. Can provide up to 4 combo hits, with the last 2 applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
+The combo itself is very familiar to any alta soldier as it follows standard [combat protocols](https://ceterai.github.io/MyEnternia/Wiki/CombatProtocolDatamass).
 
 Parameters:
 
 - Base Dps: 13
-- Fire Time: 1.1
-- Energy Usage: 36
-- Hold Params:
-  - Cooldown Time: 0.8
-  - Charge Time: 0.85
-  - Charge Border: `60c0fc88`
 - Damage Config:
   - Base Damage: 22.5
   - Knockback: 40
   - Damage Source Kind: `electricbroadsword`
   - Knockback Mode: `facing`
   - Timeout: 0.5
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor: 0.5
-- Knockback: 10.0
-- Swoosh: `swoosh1`
-- Swoosh Offset:  0.75, ,  4.25,  5.0, 
-- Damage Factor: 0.4
-- Energy Factor: 0.2
-- Knockback: 5.0
-- Swoosh: `swoosh2`
-- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0, 
-- Damage Factor: 1.1
-- Energy Factor: 0.55
-- Knockback: 20.0
-- Swoosh: `swoosh3`
-- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
-- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), 
-- Damage Factor: 1.3
-- Energy Factor: 0.65
-- Knockback: 25.0
-- Swoosh: `swoosh1`
-- Swoosh Offset:  0.75, ,  4.25,  5.0
-- Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn)
+- Energy Usage: 36
+- Fire Time: 1.1
+- Hold Params:
+  - Cooldown Time: 0.8
+  - Charge Time: 0.85
+  - Charge Border: `60c0fc88`
 
 ### Energy Aura
 

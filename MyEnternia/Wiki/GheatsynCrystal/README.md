@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatsyn_crystal/icon.png" alt="Gheatsyn Crystal icon" loading="lazy" width="auto" height="16px"> **Gheatsyn Crystal** is an uncommon breakable object.
 
-A smashable <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal. Can be used for cooking, crafting furniture and useful items. [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan for more.
+A smashable <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal. Can be used for cooking, crafting furniture and useful items. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan for more.
 
 ## Ingame
 

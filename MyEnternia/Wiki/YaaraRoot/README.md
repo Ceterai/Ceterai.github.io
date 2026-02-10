@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> **Yaara Root** is an uncommon cooking ingredient.
 
-A living thriving piece of evolved plant matter called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara). Can be used for cooking and crafting.  
-Its fibres are filled with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) energy, but not enough to extract a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"> [ceternia core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) from it.
+A living thriving piece of evolved plant matter called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara). Can be used for cooking and crafting.  
+Its fibres are filled with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) energy, but not enough to extract a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"> [ceternia core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) from it.
 
 ## Ingame
 
@@ -29,7 +29,6 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_bubble_fertilizer.png" alt="Bubble Fertilizer icon" loading="lazy" width="auto" height="16px"> [Bubble Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/BubbleFertilizer)
-- `congealedWater`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_yaara_collar.png" alt="Conscious Collar icon" loading="lazy" width="auto" height="16px"> [Conscious Collar](https://ceterai.github.io/MyEnternia/Wiki/ConsciousCollar)
 - `ct_alta_crafting_station4`
 - `ct_food_mimic`
@@ -65,6 +64,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/icon.png" alt="Verriskoywa Seed icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/icon.png" alt="Vionora Seed icon" loading="lazy" width="auto" height="16px"> [Vionora Seed](https://ceterai.github.io/MyEnternia/Wiki/VionoraSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Vodakoywa Seed icon" loading="lazy" width="auto" height="16px"> [Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSeed)
+- <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" alt="Water icon" loading="lazy" width="16px" height="16px"> [Water](https://starbounder.org/Water)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/bed/icon.png" alt="Yaara Bed icon" loading="lazy" width="auto" height="16px"> [Yaara Bed](https://ceterai.github.io/MyEnternia/Wiki/YaaraBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_bulb/icon.png" alt="Yaara Bulb icon" loading="lazy" width="auto" height="16px"> [Yaara Bulb](https://ceterai.github.io/MyEnternia/Wiki/YaaraBulb)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/decorative/cabinet/icon.png" alt="Yaara Cabinet icon" loading="lazy" width="auto" height="16px"> [Yaara Cabinet](https://ceterai.github.io/MyEnternia/Wiki/YaaraCabinet)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_jam-calline.png" alt="Crystalline Jam icon" loading="lazy" width="auto" height="16px"> **Crystalline Jam** is a common dish.
 
-This pristine condiment with great sour-sweet balance and perfectly melted [calline](https://ceterai.github.io/MyEnternia/Wiki/calline) is glowing in the dark.  
+This pristine condiment with great sour-sweet balance and perfectly melted calline is glowing in the dark.  
 While fluorescence is not a common calline ability, this jam uses other small ingredients that make it achieve that goal.
 
 ## Ingame
@@ -23,6 +23,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_gheatsyn_tea.png" alt="Gheatsyn Tea icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Tea](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTea)
 
 ## Sources
+
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam).
 
 Can be crafted:
 

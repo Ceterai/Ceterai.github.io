@@ -9,7 +9,7 @@ Designed by... Wait, what? This helment wasn't designed by Perizhad. Wow. Well, 
 
 Species descriptions:
 
-- Alta: Smells like [blossoming ayaka leaves](https://ceterai.github.io/MyEnternia/Wiki/blossomingayakaleaves). Very romantic.
+- Alta: Smells like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" width="auto" height="16px"> [blossoming ayaka](https://ceterai.github.io/MyEnternia/Wiki/BlossomingAyaka) leaves. Very romantic.
 
 Radiomessages on pickup:
 

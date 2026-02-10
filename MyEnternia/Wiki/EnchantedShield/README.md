@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-viona_shield.png" alt="Enchanted Shield ★ icon" loading="lazy" width="auto" height="16px"> **Enchanted Shield ★** is an uncommon one-handed cryogenic shield.
 
-A very familiar shield, corrupted by [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) anomalies.  
+A very familiar shield, corrupted by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="viona icon" loading="lazy" width="auto" height="16px"> [viona](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) anomalies.  
 The crystallized globe near the center feels alive in a way. The energy it radiates is similar to miazmas and.. ...did it twitch?..
 
 ## Ingame

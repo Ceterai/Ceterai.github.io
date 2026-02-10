@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/bishyn/icon.png" alt="Bishyn Halls Microformer ★★★ icon" loading="lazy" width="auto" height="16px"> **Bishyn Halls Microformer ★★★** is a legendary terraformer.
 
 Transforms an area of a planet into a bishyn hall. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Bishyn Halls](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls) is a place full of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals and poison. Both are dangerous.
+[Bishyn Halls](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls) is a place full of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals and poison. Both are dangerous.
 
 ## Ingame
 

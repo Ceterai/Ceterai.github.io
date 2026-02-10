@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceternia/epp/icon.png" alt="Ceter-EPP icon" loading="lazy" width="auto" height="16px"> **Ceter-EPP** is a legendary enviro protection pack.
 
-An EPP with an augment slot. Adds 25% <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [electric resistance](https://starbounder.org/Electric_Resistance), <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Immunity](https://starbounder.org/Electric_Resistance) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_impulse_block.png" alt="icon" width="16" height="16"/> [impulse immunity](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#immunity).
+An EPP with an augment slot. Adds 25% <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [electric resistance](https://starbounder.org/Electric_Resistance), <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Immunity](https://starbounder.org/Electric_Resistance) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_impulse_block.png" alt="icon" loading="lazy" width="auto" height="16px"> [Impulse Immunity](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#immunity).
 
 ## Ingame
 

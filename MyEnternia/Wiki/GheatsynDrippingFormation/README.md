@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatsyn_drop2/icon.png" alt="Gheatsyn Dripping Formation icon" loading="lazy" width="auto" height="16px"> **Gheatsyn Dripping Formation** is a common breakable object.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) can turn liquid, making it slowly drip from this formation.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [Gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) can turn liquid, making it slowly drip from this formation.
 
 ## Ingame
 

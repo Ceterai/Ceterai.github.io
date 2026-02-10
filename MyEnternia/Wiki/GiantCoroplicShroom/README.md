@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_coroplic_mutant_giant.png" alt="Giant Coroplic Shroom icon" loading="lazy" width="auto" height="16px"> **Giant Coroplic Shroom** is an uncommon tree sapling.
 
-This [corplic shroom](https://ceterai.github.io/MyEnternia/Wiki/corplicshroom) has grown to enormous sizes.
+This corplic shroom has grown to enormous sizes.
 
 ## Ingame
 

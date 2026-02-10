@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_horns/icon.png" alt="Gheatorn Horns icon" loading="lazy" width="auto" height="16px"> **Gheatorn Horns** is a common breakable object.
 
-Found in esetera on some alterash prime planets, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystals are growing inside rocks. [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan for more.
+Found in esetera on some alterash prime planets, <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystals are growing inside rocks. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan for more.
 
 ## Ingame
 

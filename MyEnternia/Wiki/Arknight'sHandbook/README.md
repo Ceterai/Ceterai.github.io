@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-According to the [Arknight Protocol](https://ceterai.github.io/MyEnternia/Wiki/ArknightProtocol), my duties include patrolling, general help and coordination, as well as emergencies and missions.
+According to the Arknight Protocol, my duties include patrolling, general help and coordination, as well as emergencies and missions.
 
 As a proper [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight), I should be able to quickly recognize threats and respond to other altas' calls for help.
 

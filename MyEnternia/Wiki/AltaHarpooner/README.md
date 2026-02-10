@@ -20,16 +20,16 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Walk While Firing: `True`
-- Energy Per Shot: 40
 - Cooldown Time: 0.25
+- Energy Per Shot: 40
 - Inaccuracy: 0.01
-- Projectile Type: `harpoon`
-- Power Projectile Type: `chargedharpoon`
 - Power Projectile Time:  0.9,  1.1
+- Power Projectile Type: `chargedharpoon`
 - Projectile Parameters:
   - Speed: 80
   - Power: 6.5
+- Projectile Type: `harpoon`
+- Walk While Firing: `True`
 
 ## Sources
 

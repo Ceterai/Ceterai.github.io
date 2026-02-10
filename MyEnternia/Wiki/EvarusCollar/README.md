@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_eva_collar.png" alt="Evarus Collar icon" loading="lazy" width="auto" height="16px"> **Evarus Collar** is a rare collar.
 
-A collar that makes your pet immune to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) effects.
+A collar that makes your pet immune to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) effects.
 
 ## Ingame
 

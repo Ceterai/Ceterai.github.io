@@ -27,15 +27,15 @@ Generates periodic bursts of condensed burning energy using the enhanced energen
 
 Parameters:
 
-- Projectile Parameters:
-  - Knockback: 20
+- Base Dps: 10
 - Energy Usage: 40
+- Fire Time: 0.9
 - Fire Type: `auto`
 - Inaccuracy: 0.11
-- Base Dps: 10
-- Fire Time: 0.9
-- Projectile Type: `fireplasma`
 - Projectile Count: 7
+- Projectile Parameters:
+  - Knockback: 20
+- Projectile Type: `fireplasma`
 
 ### Physnade
 
@@ -43,10 +43,10 @@ Launches a simple physical nade.
 
 Parameters:
 
-- Energy Usage: 20
 - Elemental Config:
   - Physical:
     - Projectile Type: `doomgrenade`
+- Energy Usage: 20
 - Projectile Type: `grenade`
 
 ## Sources

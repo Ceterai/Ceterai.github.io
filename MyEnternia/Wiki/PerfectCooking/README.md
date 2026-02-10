@@ -25,19 +25,19 @@ Every chef knows that magical feeling - when you taste a dish fresh from prepara
 
 This guide will help you understand and recognize when you've achieved culinary perfection!
 
-[What is Perfect Cooking?](https://ceterai.github.io/MyEnternia/Wiki/WhatisPerfectCooking?)
+What is Perfect Cooking?
 
 When you finish preparing a dish - in that brief window before it begins aging - there's a chance it will develop enhanced properties beyond the base recipe.
 
 Think of it as all the variables aligning perfectly: temperature, timing, ingredient quality, even your mood while cooking!
 
-[The Moment of Truth](https://ceterai.github.io/MyEnternia/Wiki/TheMomentofTruth)
+The Moment of Truth
 
 The transformation happens right after preparation, not while aging. Once a dish starts its aging process, what you have is what you get!
 
 Some dishes are more likely to achieve perfection than others. Complex preparations with multiple components have more variables to align.
 
-[Recognizing Perfect Results](https://ceterai.github.io/MyEnternia/Wiki/RecognizingPerfectResults)
+Recognizing Perfect Results
 
 A perfectly cooked dish will have:
 
@@ -46,19 +46,19 @@ A perfectly cooked dish will have:
 - Better presentation
 - Sometimes unique coloration
 
-For example, a standard [Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/AltaDinner) might become <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_dinner-caretaker.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove) - made with that extra care!
+For example, a standard [Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner) might become <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_dinner-caretaker.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove) - made with that extra care!
 
-[Special Cases](https://ceterai.github.io/MyEnternia/Wiki/SpecialCases)
+Special Cases
 
 Some dishes naturally vary during preparation, separate from perfect cooking:
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" width="auto" height="16px"> [Nia Cocktails](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail) will polarize into Ceternia, Alternia, or Enternia variants. Perfect cooking creates the rare <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_nia_cocktail-stardust.png" alt="Staris Cocktail ★ icon" loading="lazy" width="auto" height="16px"> [Staris Cocktail](https://ceterai.github.io/MyEnternia/Wiki/StarisCocktail) instead!
 
-[The Lesser - The Better](https://ceterai.github.io/MyEnternia/Wiki/TheLesser-TheBetter)
+The Lesser - The Better
 
 Make sure to pour your efforts and love into a single dish, and not try to mass-produce! Perfect cooking is more likely to occur when focusing on one preparation at a time _(a 10% chance)_. Stacking multiple preparations reduces this chance significantly _(5% for a stack of 2 items, 3.3% for a stack of 3, etc)_.
 
-[Tips from Experience](https://ceterai.github.io/MyEnternia/Wiki/TipsfromExperience)
+Tips from Experience
 
 1. Fresh ingredients matter! Higher tier produce creates better results.
 
@@ -70,7 +70,7 @@ Make sure to pour your efforts and love into a single dish, and not try to mass-
 
 5. Even 'failed' variations can be delicious in their own way~
 
-[Good luck in your kitchen, and may your dishes always come out perfectly!](https://ceterai.github.io/MyEnternia/Wiki/Goodluckinyourkitchen,andmayyourdishesalwayscomeoutperfectly!)
+Good luck in your kitchen, and may your dishes always come out perfectly!
 
 ## Usage
 

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_electric_stim.png" alt="Electric Stim Pack icon" loading="lazy" width="auto" height="16px"> **Electric Stim Pack** is an uncommon medical item.
 
 Provides 60s of 15% <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [electric resistance](https://starbounder.org/Electric_Resistance) and <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Immunity](https://starbounder.org/Electric_Resistance).  
-_Starburst Rework: _[Mild Static](https://ceterai.github.io/MyEnternia/Wiki/MildStatic)_ immunity._  
+_Starburst Rework: _<img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Mild Static icon" loading="lazy" width="16px" height="16px"> [Mild Static](https://steamcommunity.com/workshop/filedetails/?id=3025139283)_ immunity._  
 Technically this is not a true stim pack. This is what altas call an enhancer. Since alta biology is not very injection-friendly, they use pills or enhancers instead.
 
 **Enhancers** are often applied to other medicine, but can be ingested directly through the thin, needle-like straw.

@@ -37,7 +37,7 @@ Unlocks blueprints for:
 - `ct_alta_constructor4`
 - `ct_alta_crafting_station10`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/android_head/icon.png" alt="Dreamer Android Head ★ icon" loading="lazy" width="auto" height="16px"> [Dreamer Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroidHead)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/dreamer.png" alt="Dreamer Android ★ icon" loading="lazy" width="auto" height="16px"> [Dreamer Android ★](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/dreamer.png" alt="Dreamer Android Nade ★ icon" loading="lazy" width="auto" height="16px"> [Dreamer Android Nade ★](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroidNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_dreamer_augment.png" alt="Dreamer's Augment ★★ icon" loading="lazy" width="auto" height="16px"> [Dreamer's Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/enhancer/icon.png" alt="Dreamer's Enhancer icon" loading="lazy" width="auto" height="16px"> [Dreamer's Enhancer](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sEnhancer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" width="auto" height="16px"> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP)

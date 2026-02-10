@@ -15,7 +15,7 @@ Species descriptions:
 
 This chill breeze is quite bearable compared to the cosmic coldness of the dark side of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
-Yet the climate is still cold enough for the blue algae to show up, as well as small [tonnova springs](https://ceterai.github.io/MyEnternia/Wiki/tonnovasprings) here and there.
+Yet the climate is still cold enough for the blue algae to show up, as well as small tonnova springs here and there.
 
 I've also seen peculiar round sculptures lying around - according to my coordinator, those are frozen [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) charges, fallen from the sky.
 
@@ -25,9 +25,9 @@ Fascinating.
 
 My squad is tasked with traversing a snow canyon to help build a bridge over it, so we're going to have to explore the bottom of it, mostly to take measurements, and ensure the area is safe.
 
-I've heard there are numerous caves down there, full of either <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
+I've heard there are numerous caves down there, full of either <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
 
-And, in case an avalanche happens while we down there, we've got these cool new [sona helmets](https://ceterai.github.io/MyEnternia/Wiki/sonahelmets) with us, and they can help seeing in pitch dark, and also navigate through the avalanche!
+And, in case an avalanche happens while we down there, we've got these cool new [sona helmets](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldierHelmet) with us, and they can help seeing in pitch dark, and also navigate through the avalanche!
 
 Regardless, my hopes are up, and so is my mood.
 

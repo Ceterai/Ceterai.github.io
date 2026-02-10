@@ -1,10 +1,10 @@
 # Wired Tag
 
-The tag `wired` contains 40 total entries.
+The tag `wired` contains 39 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 40 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 39 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/button/icon.png" alt="Alta Button icon" loading="lazy" width="auto" height="16px"> [Alta Button](https://ceterai.github.io/MyEnternia/Wiki/AltaButton)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/capital/terminal/icon.png" alt="Alta Capital Terminal icon" loading="lazy" width="auto" height="16px"> [Alta Capital Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitalTerminal)
@@ -15,15 +15,14 @@ The tag `wired` contains 40 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/terminal/icon.png" alt="Alta Lab Terminal icon" loading="lazy" width="auto" height="16px"> [Alta Lab Terminal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTerminal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/laptop/icon.png" alt="Alta Laptop icon" loading="lazy" width="auto" height="16px"> [Alta Laptop](https://ceterai.github.io/MyEnternia/Wiki/AltaLaptop)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" width="auto" height="16px"> [Alta Light Switch](https://ceterai.github.io/MyEnternia/Wiki/AltaLightSwitch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/and.png:default.1" alt="Alta Logic - AND icon" loading="lazy" width="auto" height="16px"> [Alta Logic - AND](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-AND)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/clock.png:default.1" alt="Alta Logic - Clock icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Clock](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Clock)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/delay.png:default.1" alt="Alta Logic - Delay icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Delay](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Delay)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/latch.png:default.1" alt="Alta Logic - Latch icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Latch](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Latch)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/not.png:default.1" alt="Alta Logic - NOT icon" loading="lazy" width="auto" height="16px"> [Alta Logic - NOT](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-NOT)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/or.png:default.1" alt="Alta Logic - OR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - OR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-OR)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/timer.png:default.5.1" alt="Alta Logic - Timer icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Timer](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Timer)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor.png:default.1" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - XOR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-XOR)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_console.png" alt="Alta Scout Console icon" loading="lazy" width="auto" height="16px"> [Alta Scout Console](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutConsole)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/and_tiled.png" alt="Alta Logic - AND icon" loading="lazy" width="auto" height="16px"> [Alta Logic - AND](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-AND)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/clock_tiled.png" alt="Alta Logic - Clock icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Clock](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Clock)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/delay_tiled.png" alt="Alta Logic - Delay icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Delay](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Delay)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/latch_tiled.png" alt="Alta Logic - Latch icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Latch](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Latch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/not_tiled.png" alt="Alta Logic - NOT icon" loading="lazy" width="auto" height="16px"> [Alta Logic - NOT](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-NOT)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/or_tiled.png" alt="Alta Logic - OR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - OR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-OR)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/timer_tiled.png" alt="Alta Logic - Timer icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Timer](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Timer)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor_tiled.png" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - XOR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-XOR)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/barrier/icon.png" alt="Alta Security Barrier icon" loading="lazy" width="auto" height="16px"> [Alta Security Barrier](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityBarrier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/camera/icon.png" alt="Alta Security Camera icon" loading="lazy" width="auto" height="16px"> [Alta Security Camera](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityCamera)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" width="auto" height="16px"> [Alta Security Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)

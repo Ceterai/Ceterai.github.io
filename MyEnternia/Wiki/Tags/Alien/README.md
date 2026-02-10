@@ -1,13 +1,12 @@
 # Alien Tag
 
-The tag `alien` contains 23 total entries.
+The tag `alien` contains 22 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 19 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 18 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" width="auto" height="16px"> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_microscope.png" alt="Alta Lab Microscope icon" loading="lazy" width="auto" height="16px"> [Alta Lab Microscope](https://ceterai.github.io/MyEnternia/Wiki/AltaLabMicroscope)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/pod/icon.png" alt="Azura Eco Pod ★ icon" loading="lazy" width="auto" height="16px"> [Azura Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/AzuraEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/sapling/icon.png" alt="Azura Sapling icon" loading="lazy" width="auto" height="16px"> [Azura Sapling](https://ceterai.github.io/MyEnternia/Wiki/AzuraSapling)

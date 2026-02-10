@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="Phospholion Loot Crate icon" loading="lazy" width="auto" height="16px"> **Phospholion Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) biome chests.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) biome chests.  
 Phosic tecnology is the main target content of this category of crates, but it is also often used as a general container for transporting of radioactive materials as well.
 
 ## Ingame

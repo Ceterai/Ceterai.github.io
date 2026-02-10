@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"> **Tsyntex** is a rare one-handed poisonous pistol.
 
-This gheablaster was named after a scpecial reaction that <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) goes through to become a liquid.  
-It's not exactly known whether this was a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" width="16" height="16"/> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun) development or a hand-made wonder of [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) mercs, or perhaps a rare find from an unknown adventurer, but there are no explicit markings on it except for the name on the bottom of the handle.
+This gheablaster was named after a scpecial reaction that <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) goes through to become a liquid.  
+It's not exactly known whether this was a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun) development or a hand-made wonder of [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) mercs, or perhaps a rare find from an unknown adventurer, but there are no explicit markings on it except for the name on the bottom of the handle.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex_2.png" alt="Tsyntex Prime ★ icon" loading="lazy" width="auto" height="16px"> [Tsyntex Prime ★](https://ceterai.github.io/MyEnternia/Wiki/TsyntexPrime) at the Weapon Upgrade Anvil.
 
@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 ### Gheablast
 
-Tsyntex under phosic pressure allows to launch semiauto bursts of impulses on press, and create [gheatsyn charges](https://ceterai.github.io/MyEnternia/Wiki/gheatsyncharges) on hold.  
+Tsyntex under phosic pressure allows to launch semiauto bursts of impulses on press, and create gheatsyn charges on hold.  
 This was proven less effective against rogue or annoying drones, but more so towards unsuspecting poi, who didn't deserve this. Should never be used against altas too.
 
 Parameters:
@@ -29,14 +29,14 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.1
-- Press Type: `semi`
-- Press Params:
-  - Type: `ct_impulse_small`
-  - Inaccuracy: 0.04
-- Hold Type: `blast`
 - Hold Params:
   - Type: `ct_gheatsyn_charge`
   - Inaccuracy: 0.01
+- Hold Type: `blast`
+- Press Params:
+  - Type: `ct_impulse_small`
+  - Inaccuracy: 0.04
+- Press Type: `semi`
 
 ## Sources
 

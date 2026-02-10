@@ -2,21 +2,21 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/architect_station/icon.png" alt="Alta Architect Station icon" loading="lazy" width="auto" height="16px"> **Alta Architect Station** is a legendary crafting station.
 
-An alta sewing machine with additional functionality.  
-Can create folded seams and protects the operator from the needle.
+An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) heavy engineering station for constructing vehicles, mechs, and large-scale machinery.  
+The Alta Architect Station is a tier 6 advanced heavy engineering workshop designed for fabricating extra-large devices and machinery. This massive station produces vehicles like hovercrafts and exploratory rovers, mechs for combat and construction, terraformers for planetary modification, and microformers for biome manipulation. It features heavy-duty assembly equipment, large-scale welding systems, and advanced CAD holographic design interfaces. The station represents the pinnacle of alta industrial engineering, capable of producing machinery far too large for standard crafting stations.
 
 ## Ingame
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: I can make cloth and clothing here.
-- Apex: Some sort of an alta mainframe. Might contain useful information.
-- Avian: A giant electronic library!
-- Floran: Floran can make equipment for wiring thingsss.
-- Glitch: Pleased. A workstation for creating wiring related equipment. Very handy.
-- Human: Wiring related equipment can be crafted on this workstation. Neat!
-- Hylotl: For wiring tools and accessories, this is the go to workstation.
-- Novakid: A workstation for all things wirin' related.
+- Alta: The big machinery workshop! This is where we build vehicles, mechs, and massive terraforming equipment. It's like the workshop but for REALLY big projects!~
+- Apex: Alta heavy engineering capabilities. Their vehicle and mech technology rivals our own.
+- Avian: A workshop for building grand machines! Vehicles that soar and mechs that march.
+- Floran: Makesss big metal thingsss. Big vechilesss, big robotsss. Floran impresssed.
+- Glitch: Impressed. This station's scale and engineering precision are remarkable achievements.
+- Human: Heavy machinery workshop! Mechs, vehicles, terraformers - the big stuff.
+- Hylotl: Engineering on a grand scale. The alta balance ambition with careful craftsmanship.
+- Novakid: Big machine builder! Rovers, mechs, all kinds of heavy equipment and vehicles.
 
 </details>
 
@@ -30,5 +30,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/objects/alta/crafting/architect_station/ct_alta_architect_station.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/crafting/architect_station/ct_alta_architect_station.object)

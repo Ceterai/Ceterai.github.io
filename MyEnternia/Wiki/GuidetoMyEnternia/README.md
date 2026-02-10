@@ -46,17 +46,17 @@ Here's a list of stuff you could try to achieve!
 
 EXPLORE: ALTERASH (T3-4)
 
-- [ ] Reach and explore an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash planet](https://ceterai.github.io/MyEnternia/Wiki/Alterash)! This is where the mod progression starts! _Can be found near Temperate Stars._
+- [ ] Reach and explore an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash planet](https://ceterai.github.io/MyEnternia/Wiki/Alterash)! This is where the mod progression starts! _Can be found near Temperate Stars._
 
-- [ ] Dig deep and explore <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [antorash](https://ceterai.github.io/MyEnternia/Wiki/Alterash#antorash)! An underworld deep in alterash caves, with secret labs and bunkers! _Or... Should you try and reach the asteroids?.._
+- [ ] Dig deep and explore <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [antorash](https://ceterai.github.io/MyEnternia/Wiki/Alterash#antorash)! An underworld deep in alterash caves, with secret labs and bunkers! _Or... Should you try and reach the asteroids?.._
 
 EXPLORE: ALTERASH PRIME (T4-5)
 
-- [ ] Reach and explore an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime planet](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime)! Is it me, or is it getting cold in here?.. _Can be found near Frozen Stars._
+- [ ] Reach and explore an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime planet](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime)! Is it me, or is it getting cold in here?.. _Can be found near Frozen Stars._
 
-- [ ] Explore the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera). SO MANY CRYSTALS!! AND COLORS!!! _Be careful not to fall too deep though..._
+- [ ] Explore the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera). SO MANY CRYSTALS!! AND COLORS!!! _Be careful not to fall too deep though..._
 
-- [ ] Reach the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" width="16" height="16"/> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core). Tier 5 materials, lots of treasure... Wait, what's this? _Some things are yet to be understood._
+- [ ] Reach the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core). Tier 5 materials, lots of treasure... Wait, what's this? _Some things are yet to be understood._
 
 CRAFT YOURSELF T6 ARMOR!
 
@@ -68,19 +68,19 @@ CRAFT YOURSELF T6 ARMOR!
 
 MOD CONCEPTS AND FACTIONS
 
-[alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)  
-Altas are an artificial humanoid species that can commonly be found around <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets. These bionic creatures are primarily focused on crystal-related research.
+[Alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)  
+Altas are an artificial humanoid species that can commonly be found around <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets. These bionic creatures are primarily focused on crystal-related research.
 
 [Io](https://ceterai.github.io/MyEnternia/Wiki/Io)  
-Io is a type of celestial environments high on electric charges and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). This is where planets like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) are usually forming. Altas consider Io to be a its own being, rather than a vague area in space.
+Io is a type of celestial environments high on electric charges and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). This is where planets like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) are usually forming. Altas consider Io to be a its own being, rather than a vague area in space.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara)  
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara)  
 Yaara Groves are huge underground megaplants, that spread into large distances and form their own microclimate with different plants and creatures inside.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped)  
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped](https://ceterai.github.io/MyEnternia/Wiki/Warped)  
 A constantly spreading plant-like matter, that "warps" the surroundings it contaminates. Can often be quite poisonous, and, in some cases, bioluminescent.
 
-[Enchanted](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted)  
+[Enchanted](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadows)  
 Also known as Viona, enchanted areas are anomalous places where different types of energy merge and combine, creating a highly unstable environment.
 
 [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)  
@@ -94,13 +94,13 @@ The rare asteroids beyond the stardust eva sky, that hide rare, yet powerful tre
 
 Since altas are a very research-centered species, you will find many scientific alta factions along the way. For example:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" width="16" height="16"/> [a.r.c.o.](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research)  
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" width="16" height="16"/> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun)  
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" width="16" height="16"/> [hevika ordis](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevika-ordis)  
-- [tserera](https://ceterai.github.io/MyEnternia/Wiki/Alta#tserera)  
-- [Neiteru-1](https://ceterai.github.io/MyEnternia/Wiki/Neiteru-1)  
-- [Yava Gyera Ordis](https://ceterai.github.io/MyEnternia/Wiki/YavaGyeraOrdis)  
-- [Project C.T.](https://ceterai.github.io/MyEnternia/Wiki/ProjectC.T.)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" loading="lazy" width="auto" height="16px"> [A.R.C.O.](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research)  
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun)  
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevika-ordis)  
+- [Tserera](https://ceterai.github.io/MyEnternia/Wiki/Alta#tserera)  
+- Neiteru-1  
+- Yava Gyera Ordis  
+- Project C.T.
 
 ALTA SCANNER
 

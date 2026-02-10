@@ -1,6 +1,6 @@
 # Ice Tag
 
-The tag `ice` contains 39 total entries.
+The tag `ice` contains 41 total entries.
 
 ## Objects
 
@@ -14,8 +14,10 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 36 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 38 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/thrower/body.png" alt="Alta Coldthrower icon" loading="lazy" width="auto" height="16px"> [Alta Coldthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaColdthrower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/cannon/ct_alta_snow_cannon.png" alt="Alta Snow Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Snow Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowCannon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/ct_alta_snowthrower.png" alt="Alta Snowthrower icon" loading="lazy" width="auto" height="16px"> [Alta Snowthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowthrower)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_icecream-warped.png" alt="Archi Ice Cream icon" loading="lazy" width="auto" height="16px"> [Archi Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/ArchiIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" width="auto" height="16px"> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)

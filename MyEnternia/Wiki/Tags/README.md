@@ -1,6 +1,6 @@
 # Tags
 
-The mod adds a total of 397 tags:
+The mod adds a total of 396 tags:
 
 - [Agaranic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Agaranic)
 - [Aid](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid)
@@ -42,6 +42,7 @@ The mod adds a total of 397 tags:
 - [Avianairship](https://ceterai.github.io/MyEnternia/Wiki/Tags/Avianairship)
 - [Axe](https://ceterai.github.io/MyEnternia/Wiki/Tags/Axe)
 - [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka)
+- [Baked](https://ceterai.github.io/MyEnternia/Wiki/Tags/Baked)
 - [Bakery](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bakery)
 - [Barracuda](https://ceterai.github.io/MyEnternia/Wiki/Tags/Barracuda)
 - [Bathroom](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bathroom)
@@ -79,6 +80,7 @@ The mod adds a total of 397 tags:
 - [Ceternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia)
 - [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity)
 - [Chakram](https://ceterai.github.io/MyEnternia/Wiki/Tags/Chakram)
+- [Chocolate](https://ceterai.github.io/MyEnternia/Wiki/Tags/Chocolate)
 - [Christmas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Christmas)
 - [Citadel](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel)
 - [City](https://ceterai.github.io/MyEnternia/Wiki/Tags/City)
@@ -244,7 +246,6 @@ The mod adds a total of 397 tags:
 - [Oculemon](https://ceterai.github.io/MyEnternia/Wiki/Tags/Oculemon)
 - [Odd](https://ceterai.github.io/MyEnternia/Wiki/Tags/Odd)
 - [Office](https://ceterai.github.io/MyEnternia/Wiki/Tags/Office)
-- [Oh No](https://ceterai.github.io/MyEnternia/Wiki/Tags/OhNo)
 - [Omni](https://ceterai.github.io/MyEnternia/Wiki/Tags/Omni)
 - [Opulent](https://ceterai.github.io/MyEnternia/Wiki/Tags/Opulent)
 - [Orchid](https://ceterai.github.io/MyEnternia/Wiki/Tags/Orchid)
@@ -273,7 +274,6 @@ The mod adds a total of 397 tags:
 - [Potted](https://ceterai.github.io/MyEnternia/Wiki/Tags/Potted)
 - [Pretty](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)
 - [Prism](https://ceterai.github.io/MyEnternia/Wiki/Tags/Prism)
-- [Prize](https://ceterai.github.io/MyEnternia/Wiki/Tags/Prize)
 - [Protea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Protea)
 - [Protectorate](https://ceterai.github.io/MyEnternia/Wiki/Tags/Protectorate)
 - [Protogear](https://ceterai.github.io/MyEnternia/Wiki/Tags/Protogear)
@@ -337,7 +337,6 @@ The mod adds a total of 397 tags:
 - [Throwable](https://ceterai.github.io/MyEnternia/Wiki/Tags/Throwable)
 - [Thrower](https://ceterai.github.io/MyEnternia/Wiki/Tags/Thrower)
 - [Throwing Dart](https://ceterai.github.io/MyEnternia/Wiki/Tags/ThrowingDart)
-- [Tiana](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tiana)
 - [Tier0Clothing](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier0Clothing)
 - [Tier1](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier1)
 - [Tier10](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tier10)
@@ -376,8 +375,8 @@ The mod adds a total of 397 tags:
 - [Twinblade](https://ceterai.github.io/MyEnternia/Wiki/Tags/Twinblade)
 - [Umbrella](https://ceterai.github.io/MyEnternia/Wiki/Tags/Umbrella)
 - [Uncommon](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
-- [Unique](https://ceterai.github.io/MyEnternia/Wiki/Tags/Unique)
 - [Upgradeable Weapon](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon)
+- [Valentines](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valentines)
 - [Valuable](https://ceterai.github.io/MyEnternia/Wiki/Tags/Valuable)
 - [Vendor](https://ceterai.github.io/MyEnternia/Wiki/Tags/Vendor)
 - [Vendor Drink](https://ceterai.github.io/MyEnternia/Wiki/Tags/VendorDrink)

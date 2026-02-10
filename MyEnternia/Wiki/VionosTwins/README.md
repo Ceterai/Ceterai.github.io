@@ -21,14 +21,20 @@ Radiomessages on pickup:
 
 ### Viona Resonation
 
-A sequence of 3 heavy strikes. Hold to perform a [blade charge](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Blade-Charge). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
+A sequence of 3 heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Blade-Charge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
 The special resonation creates slight energy vibrations between the twins, providing additional power to each hit.
 
 Parameters:
 
 - Base Dps: 12
-- Fire Time: 0.83
+- Damage Config:
+  - Base Damage: 22.5
+  - Knockback: 40
+  - Damage Source Kind: `broadsword`
+  - Knockback Mode: `facing`
+  - Timeout: 0.5
 - Energy Usage: 32
+- Fire Time: 0.83
 - Hold Params:
   - Charge Border: `FF33FF88`
   - Damage Config:
@@ -42,32 +48,6 @@ Parameters:
       - Inaccuracy: 1.57
       - Offset:  5.0,  -0.85
       - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
-- Damage Config:
-  - Base Damage: 22.5
-  - Knockback: 40
-  - Damage Source Kind: `broadsword`
-  - Knockback Mode: `facing`
-  - Timeout: 0.5
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor:
-- Knockback: 10.0
-- Swoosh: `swoosh1`
-- Swoosh Offset Region:  0.75, ,  4.25,  5.0
-- Element: `physical`, 
-- Damage Factor: 0.4
-- Energy Factor:
-- Knockback: 5.0
-- Swoosh: `swoosh2`
-- Swoosh Offset Region:  3.0,  -0.5,  6.5,  2.0
-- Element: `physical`, 
-- Damage Factor: 1.1
-- Energy Factor:
-- Knockback: 25.0
-- Swoosh: `swoosh3`
-- Swoosh Offset Region:  1.5,  -1.0,  5.5,  1.0
-- Damage Source Kind: `icebroadsword`
-- Status Effects:  `frostslow`
 
 ### Resonation
 

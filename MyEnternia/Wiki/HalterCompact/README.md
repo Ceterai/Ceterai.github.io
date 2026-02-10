@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" width="auto" height="16px"> **Halter Compact ★** is a legendary one-handed shortsword.
 
 An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) halter powered by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Its energy capabilities and range have been increased significantly.  
-Just like many stardust-enhanced tools, this one is a hand-made and can't really be produced on a factory scale. Very rarely, you can find these being used by some of the [elite forces](https://ceterai.github.io/MyEnternia/Wiki/eliteforces) protecting [Alliana](https://ceterai.github.io/MyEnternia/Wiki/Alliana).
+Just like many stardust-enhanced tools, this one is a hand-made and can't really be produced on a factory scale. Very rarely, you can find these being used by some of the [elite forces](https://ceterai.github.io/MyEnternia/Wiki/EliteSet) protecting Alliana.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" width="auto" height="16px"> [Stun Stick](https://ceterai.github.io/MyEnternia/Wiki/StunStick).
 
@@ -26,15 +26,15 @@ Although a lot of improvements are purely technical and don't rely on stardust d
 
 Parameters:
 
+- Base Dps: 6
 - Chain Dps: 1.0
+- Crack Dps: 7.2
 - Damage Config:
   - Damage Source Kind: `electric`
   - Timeout Group: `primary`
   - Timeout: 0.3
-- Base Dps: 6
 - Fire Time: 0.625
 - Projectile Type: `whipcrackelectric`
-- Crack Dps: 7.2
 
 ## Sources
 

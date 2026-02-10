@@ -27,7 +27,7 @@ Growing stages:
 Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/produce/neonmelon/eco/icon.png" alt="Eco Neonmelon Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Neonmelon Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoNeonmelonSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Neonjack icon" loading="lazy" width="auto" height="16px"> [Neonjack](https://ceterai.github.io/MyEnternia/Wiki/Neonjack)
 
 Can be used to craft:
 

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_glowbomb.png" alt="Warped Fumes icon" loading="lazy" width="auto" height="16px"> **Warped Fumes** is an uncommon throwable item.
 
 For when you need a quick light source.  
-These fumes are made with aired [warped honey](https://ceterai.github.io/MyEnternia/Wiki/warpedhoney) for a thich texture and fresh [yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur) for a bright glowing effect.
+These fumes are made with aired [warped honey](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive#cooking) for a thich texture and fresh [yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur) for a bright glowing effect.
 
 ## Ingame
 

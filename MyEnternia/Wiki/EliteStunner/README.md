@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_elite_stunner.png" alt="Elite Stunner ★ icon" loading="lazy" width="auto" height="16px"> **Elite Stunner ★** is a legendary two-handed electric spear.
 
 **WIP**. An [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) spear used by elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) forces to deal with threats.  
-This is an advanced form of a standard alta [halter stick](https://ceterai.github.io/MyEnternia/Wiki/halterstick), with enhanced energy capabilities and additional range in exchange for the original special abilities.
+This is an advanced form of a standard alta [halter stick](https://ceterai.github.io/MyEnternia/Wiki/StunStick), with enhanced energy capabilities and additional range in exchange for the original special abilities.
 
 ## Ingame
 
@@ -24,8 +24,8 @@ All elite guards operating a stunner are trained in a way to get the most of thi
 
 Parameters:
 
-- Fire Time: 0.95
 - Base Dps: 10.5
+- Fire Time: 0.95
 
 ### Stunnerhalt
 

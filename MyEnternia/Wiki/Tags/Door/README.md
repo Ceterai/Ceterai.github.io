@@ -1,6 +1,6 @@
 # Door Tag
 
-The tag `door` contains 206 total entries.
+The tag `door` contains 209 total entries.
 
 ## Objects
 
@@ -38,7 +38,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 
 ## Tenants
 
-<details markdown="1"><summary>Following tenants require this colony tag: (Expand 183 items)</summary>
+<details markdown="1"><summary>Following tenants require this colony tag: (Expand 186 items)</summary>
 
 - [A.R.C.O. Android](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Android)
 - [A.R.C.O. Archiver](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Archiver)
@@ -68,6 +68,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 - [Alta Christmas Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaChristmasGirl)
 - [Alta Collectioner](https://ceterai.github.io/MyEnternia/Wiki/AltaCollectioner)
 - [Alta Copper Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaCopperGirl)
+- [Alta Cupid](https://ceterai.github.io/MyEnternia/Wiki/AltaCupid)
 - [Alta Dancer](https://ceterai.github.io/MyEnternia/Wiki/AltaDancer)
 - [Alta Designer](https://ceterai.github.io/MyEnternia/Wiki/AltaDesigner)
 - [Alta Diamond Protecta](https://ceterai.github.io/MyEnternia/Wiki/AltaDiamondProtecta)
@@ -87,6 +88,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 - [Alta Gamer](https://ceterai.github.io/MyEnternia/Wiki/AltaGamer)
 - [Alta Gardener](https://ceterai.github.io/MyEnternia/Wiki/AltaGardener)
 - [Alta Geologist](https://ceterai.github.io/MyEnternia/Wiki/AltaGeologist)
+- [Alta Girlfriend](https://ceterai.github.io/MyEnternia/Wiki/AltaGirlfriend)
 - [Alta Gold Knight](https://ceterai.github.io/MyEnternia/Wiki/AltaGoldKnight)
 - [Alta Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard)
 - [Alta Halloween Girl](https://ceterai.github.io/MyEnternia/Wiki/AltaHalloweenGirl)
@@ -105,6 +107,7 @@ Following vanilla objects have this colony tag: [Starbounder: Tags: Door](https:
 - [Alta Lab Archiver](https://ceterai.github.io/MyEnternia/Wiki/AltaLabArchiver)
 - [Alta Lab Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuard)
 - [Alta Lab Researcher](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcher)
+- [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
 - [Alta Lunar Guard](https://ceterai.github.io/MyEnternia/Wiki/AltaLunarGuard)
 - [Alta Lunar Miner](https://ceterai.github.io/MyEnternia/Wiki/AltaLunarMiner)
 - [Alta Mechanic](https://ceterai.github.io/MyEnternia/Wiki/AltaMechanic)

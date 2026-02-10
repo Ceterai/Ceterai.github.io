@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-flower_crown.png" alt="Gyera Flower Crown ★ icon" loading="lazy" width="auto" height="16px"> **Gyera Flower Crown ★** is a rare head cosmetic item.
 
-This pretty crown was made with different flowers found around [gyera parks](https://ceterai.github.io/MyEnternia/Wiki/gyeraparks).  
-Often worn by nature-lowing altas, and those altas who're not afraid to put some [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) flowers on their head too.
+This pretty crown was made with different flowers found around [gyera parks](https://ceterai.github.io/MyEnternia/Wiki/IoraGyeraPark).  
+Often worn by nature-lowing altas, and those altas who're not afraid to put some [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) flowers on their head too.
 
 ## Ingame
 

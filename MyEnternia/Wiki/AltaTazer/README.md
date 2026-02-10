@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 ### Pulseshock
 
-A set of emergency tools to save a scout's life. Press the button to create a discharge that will stun a monster, or hold it to launch an [Emergencer Signal](https://ceterai.github.io/MyEnternia/Wiki/EmergencerSignal).  
+A set of emergency tools to save a scout's life. Press the button to create a discharge that will stun a monster, or hold it to launch an Emergencer Signal.  
 These signals are generated from an energy charge produced by putting effort on the respective triggering levers. It also consumes part of acquired energy from the suit if available, as well as the slowly-recharging energy cells.
 
 Parameters:
@@ -22,12 +22,12 @@ Parameters:
 - Base Dps: 2
 - Energy Usage: 12
 - Fire Time: 1.2
-- Press Type: `tazer`
+- Hold Type: `none`
 - Press Params:
   - Params:
     - Speed: 5
     - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
-- Hold Type: `none`
+- Press Type: `tazer`
 
 ## Sources
 

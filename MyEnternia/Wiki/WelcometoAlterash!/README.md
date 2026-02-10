@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="Welcome to Alterash! icon" loading="lazy" width="auto" height="16px"> **Welcome to Alterash!** is a common codex entry.
 
 A printed invitation to a... planet? Planets? Huh.  
-A small card with a simple message. It seems to be made of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) paper, so the material is quite soft.
+A small card with a simple message. It seems to be made of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) paper, so the material is quite soft.
 
 It has a small logo on the back, which looks like a stylized [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) symbol.
 

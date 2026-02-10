@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_head_mimic-yaara_keeper_crown.png" alt="Yaarafinger's Crown ★ icon" loading="lazy" width="auto" height="16px"> **Yaarafinger's Crown ★** is a legendary head cosmetic item.
 
-An ornate headdress, denoting a [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper) as the [Greenfinger](https://ceterai.github.io/MyEnternia/Wiki/Greenfinger) of their tribe.  
+An ornate headdress, denoting a [Yaara Keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper) as the Greenfinger of their tribe.  
 This floran relic can vary in shape and materials from tribe to tribe.
 
 ## Ingame

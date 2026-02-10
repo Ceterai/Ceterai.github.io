@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" width="auto" height="16px"> **Alta Lifechamber** is a common piece of furniture.
 
-A healing station made by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta). Provides additional positive effects.
+A healing station made by [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta). Provides additional positive effects.
 
 ## Ingame
 

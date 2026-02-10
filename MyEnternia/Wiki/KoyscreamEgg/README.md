@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_koyscream_egg.png" alt="Koyscream Egg icon" loading="lazy" width="auto" height="16px"> **Koyscream Egg** is a common throwable item.
 
-Can be used to spawn a frog called [koyscream](https://ceterai.github.io/MyEnternia/Wiki/koyscream).  
+Can be used to spawn a frog called koyscream.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame

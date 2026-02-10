@@ -12,19 +12,19 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Time: 0.15
 - Base Dps:
 - Energy Usage:
-- Projectile Count: 1
-- Inaccuracy: 0.1
+- Fire Time: 0.15
 - Fire Type: `auto`
-- Projectile Type: `watersprinkledroplet`
+- Inaccuracy: 0.1
+- Muzzle Flash Variants: 1
+- Projectile Count: 1
 - Projectile Parameters:
   - Speed: 13
   - Power:
   - Time To Live: 5
   - Color:  10,  255
-- Muzzle Flash Variants: 1
+- Projectile Type: `watersprinkledroplet`
 
 ## Sources
 

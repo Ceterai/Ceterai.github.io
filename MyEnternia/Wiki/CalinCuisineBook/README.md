@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> **Calin Cuisine Book** is an uncommon codex entry.
 
 An ebook containing various crystal-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) recipes and their history. (Unlocks some calin recipes)  
-[alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) revolves heavily around crystals and their utilization. This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different calin recipes and the culture around them.
+[Alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) revolves heavily around crystals and their utilization. This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different calin recipes and the culture around them.
 
 ## Ingame
 
@@ -17,15 +17,15 @@ Radiomessages on pickup:
 
 ### Contents
 
-[calin cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#calin), as the name suggests, is based on edible <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal) and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/Io#crystallic) ingredients.
+[Calin cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#calin), as the name suggests, is based on edible <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal) and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/Io#crystallic) ingredients.
 
-Most common produce like [carels](https://ceterai.github.io/MyEnternia/Wiki/Tags/Carel) figure in almost every calin dish out there.
+Most common produce like <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="icon" loading="lazy" width="13px" height="12px"> [carels](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) figure in almost every calin dish out there.
 
 But due to the sheer variety of crystals in [Io](https://ceterai.github.io/MyEnternia/Wiki/Io), some dishes can use very rare finds in their recipes.
 
-As an example, [Jinighat](https://ceterai.github.io/MyEnternia/Wiki/Jinighat) is an advanced alta dish that uses very rare crystals in its recipe, called [cojils](https://ceterai.github.io/MyEnternia/Wiki/cojils).
+As an example, [Jinighat](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook) is an advanced alta dish that uses very rare crystals in its recipe, called <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="icon" loading="lazy" width="12px" height="16px"> [cojils](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook).
 
-[Cojil](https://ceterai.github.io/MyEnternia/Wiki/Cojil) is a soury-hot crystal that can be found in volcanic underwater environments.
+<img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="icon" loading="lazy" width="12px" height="16px"> [Cojil](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook) is a soury-hot crystal that can be found in volcanic underwater environments.
 
 ## Usage
 

@@ -29,43 +29,12 @@ The fin is pretty heavy, so any of this might take some additional effort.
 Parameters:
 
 - Base Dps: 12
-- Fire Time: 0.9
-- Energy Usage: 32
-- Hold Params:
-  - Cooldown Time: 0.8
-  - Energy Factor: 1.0
-- Hold Time Max: 0.35
 - Damage Config:
   - Base Damage: 22.5
   - Knockback: 40
   - Damage Source Kind: `broadsword`
   - Knockback Mode: `facing`
   - Timeout: 0.5
-- Press Params:
-  - Flash:
-    - Time: 0.15
-    - Directives: `fade=FFFFFFFF=0.15`
-  - Combo Speed Factor: 0.7
-  - Edge Trigger Grace: 0.25
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor:
-- Knockback: 10.0
-- Swoosh: `swoosh1`
-- Swoosh Offset:  0.75, ,  4.25,  5.0
-- Swoosh Sound: `primary_press`, 
-- Damage Factor: 0.4
-- Energy Factor:
-- Knockback: 5.0
-- Swoosh: `swoosh2`
-- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
-- Swoosh Sound: `primary_press`, 
-- Damage Factor: 1.1
-- Energy Factor:
-- Knockback: 25.0
-- Swoosh: `swoosh3`
-- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
-- Swoosh Sound: `primary_press`
 - Downstab Params:
   - Cooldown Time: 0.5
   - Energy Factor: 0.2
@@ -78,6 +47,18 @@ Parameters:
     - Knockback: ,  -35
     - Timeout: 0.2
     - Timeout Group: `primary`
+- Energy Usage: 32
+- Fire Time: 0.9
+- Hold Params:
+  - Cooldown Time: 0.8
+  - Energy Factor: 1.0
+- Hold Time Max: 0.35
+- Press Params:
+  - Flash:
+    - Time: 0.15
+    - Directives: `fade=FFFFFFFF=0.15`
+  - Combo Speed Factor: 0.7
+  - Edge Trigger Grace: 0.25
 
 ### Finspin
 

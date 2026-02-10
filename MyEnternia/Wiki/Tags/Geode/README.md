@@ -1,14 +1,8 @@
 # Geode Tag
 
-The tag `geode` contains 4 total entries.
+The tag `geode` contains 1 total entries.
 
 ## Objects
-
-Following objects have this colony tag:
-
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-alternia_sample.png" alt="Alternia Geode Sample icon" loading="lazy" width="auto" height="16px"> [Alternia Geode Sample](https://ceterai.github.io/MyEnternia/Wiki/AlterniaGeodeSample)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-enternia_sample.png" alt="Enternia Geode Sample icon" loading="lazy" width="auto" height="16px"> [Enternia Geode Sample](https://ceterai.github.io/MyEnternia/Wiki/EnterniaGeodeSample)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-mical_sample.png" alt="Mical Geode Sample icon" loading="lazy" width="auto" height="16px"> [Mical Geode Sample](https://ceterai.github.io/MyEnternia/Wiki/MicalGeodeSample)
 
 ### Vanilla Objects
 

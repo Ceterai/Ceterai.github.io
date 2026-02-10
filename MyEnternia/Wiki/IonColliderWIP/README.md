@@ -21,7 +21,11 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.2
-- Press Type: `semi`
+- Hold Params:
+  - Type: `miniwobbleshot`
+  - Inaccuracy: 0.01
+- Hold Time Max: 0.55
+- Hold Type: `blast`
 - Press Params:
   - Type: `blueplasmabullet`
   - Inaccuracy: 0.04
@@ -29,11 +33,7 @@ Parameters:
     - Damage Kind: `iceplasma`
     - Speed: 60
     - Time To Live: 5.0
-- Hold Type: `blast`
-- Hold Params:
-  - Type: `miniwobbleshot`
-  - Inaccuracy: 0.01
-- Hold Time Max: 0.55
+- Press Type: `semi`
 
 ## Sources
 

@@ -13,6 +13,8 @@ Species descriptions:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_special_mimosa.png" alt="Special Mimosa ★★ icon" loading="lazy" width="auto" height="16px"> [Special Mimosa ★★](https://ceterai.github.io/MyEnternia/Wiki/SpecialMimosa).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_special_mimosa-lenn.png" alt="Lenn's Mimosa ★★★ icon" loading="lazy" width="auto" height="16px"> Lenn's Mimosa ★★★ x*1*):

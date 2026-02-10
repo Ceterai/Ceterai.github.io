@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal2/icon.png" alt="Shaky Bishyn Crystal icon" loading="lazy" width="auto" height="16px"> **Shaky Bishyn Crystal** is an uncommon poisonous breakable object.
 
-A crystal deposit, a bit shaky to the touch. Seems like special <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals.  
+A crystal deposit, a bit shaky to the touch. Seems like special <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals.  
 These form naturally in highly crystallic environments and tend to grow in patches on relatively plateau areas.
 
 ## Ingame

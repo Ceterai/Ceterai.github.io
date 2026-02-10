@@ -10,7 +10,7 @@ Worn by elite alta forces, or **prime vardas**, this powerarmor set is focusing 
 
 Species descriptions:
 
-- Alta: A full set of prime armor. Maximum defense! All that's left is to step aboard [Al'deron](https://ceterai.github.io/MyEnternia/Wiki/Al'deron) in this.
+- Alta: A full set of prime armor. Maximum defense! All that's left is to step aboard Al'deron in this.
 
 Radiomessages on pickup:
 

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arco.png" alt="A.R.C.O. Research icon" loading="lazy" width="auto" height="16px"> **A.R.C.O. Research** is a rare codex entry.
 
 A description of some kind of tech company. Seems like most of the data is encrypted.  
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" width="16" height="16"/> [arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) promo message with attached encrypted research and documentation. It looks like this is an official authorship request, backed up by studies and fully explained. Unfortunatelly, only specific software designed for this can decrypt it.
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" loading="lazy" width="auto" height="16px"> [Arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) promo message with attached encrypted research and documentation. It looks like this is an official authorship request, backed up by studies and fully explained. Unfortunatelly, only specific software designed for this can decrypt it.
 
 ## Ingame
 
@@ -22,10 +22,10 @@ A.R.C.O. RESEARCH COMPILATION
 
 Welcome to A.R.C.O. - one of the biggest and efficient alta research and exploration compounds!
 
-Found in Alliana, A.R.C.O. laboratories have expanded throughout many ionic systems since then and are now covering a great number of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
+Found in Alliana, A.R.C.O. laboratories have expanded throughout many ionic systems since then and are now covering a great number of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
 
 The latest goals of the company were exploring and researching the nature of different [crystallic](https://ceterai.github.io/MyEnternia/Wiki/Io#crystallic) systems found in alterash prime undergrounds.  
-Since most types of <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal) in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) and below exist in hazardous environments, A.R.C.O. presents a new protective gear set - the A.R.C.O. [Envirosuit](https://ceterai.github.io/MyEnternia/Wiki/Envirosuit)!  
+Since most types of <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal) in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) and below exist in hazardous environments, A.R.C.O. presents a new protective gear set - the A.R.C.O. [Envirosuit](https://ceterai.github.io/MyEnternia/Wiki/EnviroSet)!  
 Please see appropriate research, descriptions and instructions below.
 
 - the rest of the data is encrypted -

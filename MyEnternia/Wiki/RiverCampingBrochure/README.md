@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/koywa.png" alt="River Camping Brochure icon" loading="lazy" width="auto" height="16px"> **River Camping Brochure** is an uncommon codex entry.
 
-A presentable invitation to an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) party, styled after the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" width="16" height="16"/> [koywa](https://ceterai.github.io/MyEnternia/Wiki/Koywa) plants.  
+A presentable invitation to an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) party, styled after the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [koywa](https://ceterai.github.io/MyEnternia/Wiki/Koywa) plants.  
 This invitation is to a riverside resort called _Auroza_. Seems like it's the grand opening and they're throwing a party! The paper is covered in heart and bikini stickers, with refreshing cocktails and other beach party attire drawn on the card.
 
 ## Ingame
@@ -19,7 +19,7 @@ Here, in the middle of [alterash riversides](https://ceterai.github.io/MyEnterni
 
 Come to the grand opening and receive gifts for participating in the party events!
 
-Grab your <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"> [waterblaster](https://ceterai.github.io/MyEnternia/Wiki/Waterblaster), your floatie and your [snorkel](https://ceterai.github.io/MyEnternia/Wiki/snorkel), and don't forget your [bikini top](https://ceterai.github.io/MyEnternia/Wiki/bikinitop)! ..And [bikini bottom](https://ceterai.github.io/MyEnternia/Wiki/bikinibottom) too, obviously. Your choice.
+Grab your <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"> [waterblaster](https://ceterai.github.io/MyEnternia/Wiki/Waterblaster), your floatie and your snorkel, and don't forget your bikini top! ..And bikini bottom too, obviously. Your choice.
 
 The fun starts now!
 

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/gheatsyn.png" alt="Ghearun Excavation Protocol icon" loading="lazy" width="auto" height="16px"> **Ghearun Excavation Protocol** is a rare codex entry.
 
 A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) containing encrypted data. It describes a geological protocol.  
-These protocols are used by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" width="16" height="16"/> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun) geologists and miners during excavations.
+These protocols are used by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" loading="lazy" width="auto" height="16px"> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun) geologists and miners during excavations.
 
 ## Ingame
 
@@ -18,14 +18,14 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 ### Contents
 
-The following protocol is designed to help with and regulate any excavation processes in [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Gheatorn) areas, but is also applicable to some extent for areas with similar ground density and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/Io#crystallic) climate, like [gheaprism](https://ceterai.github.io/MyEnternia/Wiki/gheaprism) surfaces and certain [mical](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical) areas.
+The following protocol is designed to help with and regulate any excavation processes in [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Gheatorn) areas, but is also applicable to some extent for areas with similar ground density and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/Io#crystallic) climate, like gheaprism surfaces and certain [mical](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical) areas.
 
 For the sake of navigation, the protocol is divided into cautionary, informational and directive articles.  
 Please refer to an according coordinator in case of any questions.
 
 CAUTIONARY SECTION
 
-Be aware that the [gheatsyn environment](https://ceterai.github.io/MyEnternia/Wiki/gheatsynenvironment) you're exposed to is highly unstable.  
+Be aware that the [gheatsyn environment](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature) you're exposed to is highly unstable.  
 This includes potential dangers relating to ground movement and natural gheatsyn behavior - [tsyntex process](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#crystals),
 
 Due to a constant, although arguably unlikely threat of avalanches, collapses, or coming in contact with liquid gheatsyn, be sure to always wear designated protective equipment, even when operating inside a mech.
@@ -35,7 +35,7 @@ Please refer to your coordinator to receive your equipment - the <img src="https
 INFORMATIONAL SECTION
 
 All equipment is made with power-materials designed to withstand the environment and excessive pressure.  
-It is also important to note that most <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" width="16" height="16"/> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun) equipment operates on extracted gheatsyn energy, decreasing overall fingerprint of the ordis and helping the cause.
+It is also important to note that most <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="icon" loading="lazy" width="auto" height="16px"> [ghearun](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#ghearun) equipment operates on extracted gheatsyn energy, decreasing overall fingerprint of the ordis and helping the cause.
 
 This can be seen in combat tool advances in the general tech sphere - examples being the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"> [Tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex) blaster and the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png" alt="Gheablade icon" loading="lazy" width="auto" height="16px"> [Gheablade](https://ceterai.github.io/MyEnternia/Wiki/Gheablade).
 
@@ -45,7 +45,7 @@ DIRECTIVE SECTION
 
 Be sure to follow all on-site guidelines and act on a coordinator's demand. Do not use work-related equipment without or against designation.
 
-For purposes of any large excavation, use a [Gheatsyn Droid](https://ceterai.github.io/MyEnternia/Wiki/GheatsynDroid), provided by the site or according lab.
+For purposes of any large excavation, use a Gheatsyn Droid, provided by the site or according lab.
 
 All excavations should only be permitted after appropriate planning and geo-scanning.
 

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" width="auto" height="16px"> **Alta Energy Source** is a rare wiring component.
 
 Some sort of crystal energy extractor. Perhaps an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) could provide more insight.  
-G12 marking of the model refers to the general energy source capability (and size), compared to G2 ([alta energy cell](https://ceterai.github.io/MyEnternia/Wiki/altaenergycell)) and G4 (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" width="auto" height="16px"> [alta energy block](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock)).
+G12 marking of the model refers to the general energy source capability (and size), compared to G2 ([alta energy cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell)) and G4 (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" width="auto" height="16px"> [alta energy block](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergyBlock)).
 
 ## Ingame
 

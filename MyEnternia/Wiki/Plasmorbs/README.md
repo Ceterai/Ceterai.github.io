@@ -14,8 +14,8 @@ Radiomessages on pickup:
 
 ### Energy Controller
 
-Intergrated tech that allows you to take control of 3 [Plasmic Orbs](https://ceterai.github.io/MyEnternia/Wiki/PlasmicOrbs).
-Press - launch a [Plasmic Orb](https://ceterai.github.io/MyEnternia/Wiki/PlasmicOrb);
+Intergrated tech that allows you to take control of 3 Plasmic Orbs.
+Press - launch a Plasmic Orb;
 Hold - create a Plasma Shield.
 
 Parameters:
@@ -23,7 +23,6 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.33
-- Type: `ct_plasmorb`
 - Params:
   - Return On Hit: `True`
   - Ignore Terrain:
@@ -31,6 +30,7 @@ Parameters:
   - Pickup Distance: 1.5
   - Snap Distance: 4.0
 - Shield Knockback: 10
+- Type: `ct_plasmorb`
 
 ## Sources
 

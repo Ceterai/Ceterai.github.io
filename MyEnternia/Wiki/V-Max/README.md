@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_vmax.png" alt="V-Max icon" loading="lazy" width="auto" height="16px"> **V-Max** is an uncommon drink.
 
 Tastes like... herbs? Is this an energy tea?  
-An [ionice](https://ceterai.github.io/MyEnternia/Wiki/ionice) tea with a slightly noticeable taste that's meant to be more refreshing and fulfilling, then sweet and punchy.
+An [ionice](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube) tea with a slightly noticeable taste that's meant to be more refreshing and fulfilling, then sweet and punchy.
 
 ## Ingame
 

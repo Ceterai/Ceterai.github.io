@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Antorash Tour Guide icon" loading="lazy" width="auto" height="16px"> **Antorash Tour Guide** is an uncommon codex entry.
 
-A small tour ebook that guides you through the hollow areas deep underneath <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets.  
-There's an encrypted note at the end with exact coordinates that don't work, and a signature that says ["C.T."](https://ceterai.github.io/MyEnternia/Wiki/C.T.).
+A small tour ebook that guides you through the hollow areas deep underneath <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets.  
+There's an encrypted note at the end with exact coordinates that don't work, and a signature that says ["C.T."](https://ceterai.github.io/MyEnternia/Wiki/Project-Ceterai).
 
 ## Ingame
 
@@ -17,14 +17,14 @@ Radiomessages on pickup:
 
 ### Contents
 
-Welcome to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [antorash](https://ceterai.github.io/MyEnternia/Wiki/Alterash#antorash)!  
-Also called The Underworld, this is a surface-like place, located in the depths of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets, lit up mostly by crystals and other natural underground light sources.
+Welcome to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Antorash](https://ceterai.github.io/MyEnternia/Wiki/Alterash#antorash)!  
+Also called The Underworld, this is a surface-like place, located in the depths of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets, lit up mostly by crystals and other natural underground light sources.
 
 Enjoy your time traversing [antorash plains](https://ceterai.github.io/MyEnternia/Wiki/AntorashPlains), or relaxing among the crystals of [starforests](https://ceterai.github.io/MyEnternia/Wiki/Starforest).
 
-If you stumble upon an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"> [alta city](https://ceterai.github.io/MyEnternia/Wiki/AltaCities), be sure to check in with a [security guard](https://ceterai.github.io/MyEnternia/Wiki/securityguard) to register your visit.
+If you stumble upon an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"> [alta city](https://ceterai.github.io/MyEnternia/Wiki/AltaCities), be sure to check in with a [security guard](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet) to register your visit.
 
-Also, stay away from [warped forests](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest). These places have been proven to be somewhat dangerous to [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).
+Also, stay away from [warped forests](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest). These places have been proven to be somewhat dangerous to [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta).
 
 ## Usage
 

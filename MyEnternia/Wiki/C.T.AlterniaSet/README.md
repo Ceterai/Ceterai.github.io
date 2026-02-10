@@ -4,7 +4,7 @@
 
 Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) Project Ceterai researcher, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
-A dark set of powerarmor with enhanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) synergy. It boosts the wearer's performance, while increasing energy capabilities significantly.
+A dark set of powerarmor with enhanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) synergy. It boosts the wearer's performance, while increasing energy capabilities significantly.
 
 ## Ingame
 

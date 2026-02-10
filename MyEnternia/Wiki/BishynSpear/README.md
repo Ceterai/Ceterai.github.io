@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear.png" alt="Bishyn Spear icon" loading="lazy" width="auto" height="16px"> **Bishyn Spear** is a rare two-handed poisonous spear.
 
 **WIP**. Be careful - the blade of this spear is made out of poisonous crystals.  
-In the hands of a professional, it can become both very useful and quite versatile. Made by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) enthusiasts, it has a couple of unfinished features that could unravel its true potential.
+In the hands of a professional, it can become both very useful and quite versatile. Made by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) enthusiasts, it has a couple of unfinished features that could unravel its true potential.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" width="auto" height="16px"> [Razhus Az'Ar ★](https://ceterai.github.io/MyEnternia/Wiki/RazhusAz'Ar) at the Weapon Upgrade Anvil.
 
@@ -23,21 +23,21 @@ Radiomessages on pickup:
 
 **WIP**. A sequence of 3 light strikes. Hold to perform a Hold Strike.
 Enters a charged state every 10 seconds, making next 4 hits deal bonus [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) damage.  
-The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"> [diamonds](https://starbounder.org/Diamond) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals.
+The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"> [diamonds](https://starbounder.org/Diamond) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals.
 
 Parameters:
 
-- Fire Time: 0.6
 - Base Dps: 12
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
-- Hold Damage Multiplier: 0.1
+- Fire Time: 0.6
 - Hold Damage Config:
   - Timeout Group: `hold`
   - Timeout: 0.5
+- Hold Damage Multiplier: 0.1
 
 ### Spearing
 

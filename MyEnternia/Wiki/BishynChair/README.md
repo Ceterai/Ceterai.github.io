@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/chair/icon.png" alt="Bishyn Chair icon" loading="lazy" width="auto" height="16px"> **Bishyn Chair** is an uncommon piece of furniture.
 
-A short <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) chair. [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan objects like these to get additional info.
+A short <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) chair. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan objects like these to get additional info.
 
 ## Ingame
 

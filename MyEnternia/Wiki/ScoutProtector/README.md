@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Scout Protector ★ icon" loading="lazy" width="auto" height="16px"> **Scout Protector ★** is a legendary one-handed electric unique weapon.
 
 This special tool with advanced mechanisms uses <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy for its charges. Anything to protect an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta).  
-The casing of this improved version is made from [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix). This ensures sturdines of the tool while making it lighter and more resistant to temperature changes.
+The casing of this improved version is made from [bionix](https://ceterai.github.io/MyEnternia/Wiki/BionCompound). This ensures sturdines of the tool while making it lighter and more resistant to temperature changes.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="Scout Emergencer icon" loading="lazy" width="auto" height="16px"> [Scout Emergencer](https://ceterai.github.io/MyEnternia/Wiki/ScoutEmergencer).
 
@@ -28,21 +28,21 @@ All enhanced capabilities are partially achieved due to the slightly increased s
 
 Parameters:
 
+- Base Dps: 1.5
+- Energy Usage: 10
+- Fire Time: 1.2
 - Hold Params:
   - Count: 2
   - Type: `ct_emergencer_charge`
   - Interval: 0.1
 - Hold Time Max: 0.55
-- Press Type: `tazer`
-- Energy Usage: 10
 - Hold Type: `rocket`
 - Press Params:
   - Params:
-    - Time To Live: 2.0
-    - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
     - Speed: 5
-- Base Dps: 1.5
-- Fire Time: 1.2
+    - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+    - Time To Live: 2.0
+- Press Type: `tazer`
 
 ## Sources
 

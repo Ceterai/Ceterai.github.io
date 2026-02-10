@@ -1,14 +1,16 @@
 # Sona Tag
 
-The tag `sona` contains 28 total entries.
+The tag `sona` contains 33 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/boosted/icon.png" alt="Boosted Sonava Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Sonava Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedSonavaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/eco/icon.png" alt="Eco Sonava Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Eco Sonava Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoSonavaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/sona/icon.png" alt="Potted Sonava icon" loading="lazy" width="auto" height="16px"> [Potted Sonava](https://ceterai.github.io/MyEnternia/Wiki/PottedSonava)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta1/icon.png" alt="Snowalta icon" loading="lazy" width="auto" height="16px"> [Snowalta](https://ceterai.github.io/MyEnternia/Wiki/Snowalta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/pod/icon.png" alt="Sonava Eco Pod ★ icon" loading="lazy" width="auto" height="16px"> [Sonava Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/SonavaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/sapling/icon.png" alt="Sonava Sapling icon" loading="lazy" width="auto" height="16px"> [Sonava Sapling](https://ceterai.github.io/MyEnternia/Wiki/SonavaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/sona/icon.png" alt="Sonava Seed icon" loading="lazy" width="auto" height="16px"> [Sonava Seed](https://ceterai.github.io/MyEnternia/Wiki/SonavaSeed)
@@ -20,8 +22,11 @@ The tag `sona` contains 28 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 21 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 24 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/thrower/body.png" alt="Alta Coldthrower icon" loading="lazy" width="auto" height="16px"> [Alta Coldthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaColdthrower)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/cannon/ct_alta_snow_cannon.png" alt="Alta Snow Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Snow Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowCannon)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/sprayer/icon.png" alt="Alta Snow Sprayer icon" loading="lazy" width="auto" height="16px"> [Alta Snow Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowSprayer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/ct_alta_snowthrower.png" alt="Alta Snowthrower icon" loading="lazy" width="auto" height="16px"> [Alta Snowthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowthrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_brontor.png" alt="Brontor icon" loading="lazy" width="auto" height="16px"> [Brontor](https://ceterai.github.io/MyEnternia/Wiki/Brontor)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-cryo.png" alt="Cryonic Blaster ★ icon" loading="lazy" width="auto" height="16px"> [Cryonic Blaster ★](https://ceterai.github.io/MyEnternia/Wiki/CryonicBlaster)

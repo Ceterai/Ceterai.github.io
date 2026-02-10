@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/energy_block/icon.png" alt="Alta Energy Block ★ icon" loading="lazy" width="auto" height="16px"> **Alta Energy Block ★** is an uncommon wiring component.
 
 A more powerful version of an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [energy cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell), model G4. Somewhat bigger in size, it can be placed separately on most surfaces and is used in a lot of electronic alta furniture.  
-G4 marking of the model refers to the general energy source capability (and size), compared to G2 ([alta energy cell](https://ceterai.github.io/MyEnternia/Wiki/altaenergycell)) and G12 (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" width="auto" height="16px"> [alta energy source](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergySource)).
+G4 marking of the model refers to the general energy source capability (and size), compared to G2 ([alta energy cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell)) and G12 (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" width="auto" height="16px"> [alta energy source](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergySource)).
 
 ## Ingame
 

@@ -1,6 +1,6 @@
 # Alta Firework Cannon
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/body.png:default.1" alt="Alta Firework Cannon icon" loading="lazy" width="auto" height="16px"> **Alta Firework Cannon** is a legendary two-handed rocket launcher.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/icon.png" alt="Alta Firework Cannon icon" loading="lazy" width="auto" height="16px"> **Alta Firework Cannon** is a legendary two-handed rocket launcher.
 
 Yes, it shoots fireworks!
 
@@ -18,15 +18,15 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Time: 2
 - Base Dps: 0.33
 - Energy Usage: 30
+- Fire Time: 2
+- Fire Type: `auto`
 - Inaccuracy: 0.008
 - Projectile Count: 1
-- Fire Type: `auto`
-- Projectile Type:  `fireworkgun`,  `fireworkgunblue`,  `fireworkgunyellow`,  `fireworkgungreen`,  `fireworkgunred`
 - Projectile Parameters:
   - Knockback: 10
+- Projectile Type:  `fireworkgun`,  `fireworkgunblue`,  `fireworkgunyellow`,  `fireworkgungreen`,  `fireworkgunred`
 
 ## Sources
 
@@ -35,8 +35,8 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 ## Technical Information
 
 - In-game ID: `ct_alta_firework_cannon`
-- Level: `1`
-- Power: `1.0`
+- Level: `6`
+- Power: `3.5`
 - Rarity: `Legendary`
-- Tags: [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rocketlauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rocketlauncher), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`physical`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Physical), [`ranged`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ranged), [`rocketlauncher`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rocketlauncher), [`toy`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Toy), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/active/alta/toys/fireworks/cannon/ct_alta_firework_cannon.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/alta/toys/fireworks/cannon/ct_alta_firework_cannon.activeitem)

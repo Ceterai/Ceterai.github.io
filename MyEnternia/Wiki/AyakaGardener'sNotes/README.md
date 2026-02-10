@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" width="auto" height="16px"> **Ayaka Gardener's Notes** is an uncommon codex entry.
 
-A set of notes about <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) growth maintenance made by an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) gardener.  
+A set of notes about <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) growth maintenance made by an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) gardener.  
 It seems to be covered in dried up blue stains. The notes were carefully written by a professional with a passion for gardening, a tiny signature at the back says "Naya".
 
 **Naya** is a beautiful plant that growth in wet conditions with slight ionization, with some altas ending up choosing it as their name. Though, **Naya The Gardener** usually says that in her case it's a pure coincidence.
@@ -15,7 +15,7 @@ Species descriptions:
 
 ### Contents
 
-[Ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/Ayakatrees) are generally relatively easy to grow and maintain. This is true for almost all ayaka tree types with small exceptions.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/plants/trees/ct_ayaka/foliage/ct_ayaka_foliage_blue/icon.png" alt="Ayaka Tree icon" loading="lazy" width="auto" height="16px"> [Ayaka trees](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) are generally relatively easy to grow and maintain. This is true for almost all ayaka tree types with small exceptions.
 
 When it comes to the difference between cultivated and wild ayakas, it's significantly hard to cultivate rare ayaka species, as most of them require very specific conditions to exist.
 
@@ -23,9 +23,9 @@ This is also true when it comes to fruitfulness. <img src="https://raw.githubuse
 
 The most common species, or the common ayaka tree, however, is pretty cultivation-friendly and can grow almost anywhere.
 
-Besides, the all-new [alta eco chambers](https://ceterai.github.io/MyEnternia/Wiki/altaecochambers) are able to provide most requirements for even the most rare ayaka species, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" width="auto" height="16px"> [stardust ayakas](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" width="auto" height="16px"> [Elin ayakas](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka) and even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" width="auto" height="16px"> [ayaka giants](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant).
+Besides, the all-new alta eco chambers are able to provide most requirements for even the most rare ayaka species, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" width="auto" height="16px"> [stardust ayakas](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_elin_tree.png" alt="Elin Ayaka icon" loading="lazy" width="auto" height="16px"> [Elin ayakas](https://ceterai.github.io/MyEnternia/Wiki/ElinAyaka) and even <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_giant_tree.png" alt="Ayaka Giant icon" loading="lazy" width="auto" height="16px"> [ayaka giants](https://ceterai.github.io/MyEnternia/Wiki/AyakaGiant).
 
-When taking care of wild forest ayakas, make sure to be aware of and careful around <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" width="auto" height="16px"> [aya virmas](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma) - live poisonous ivy that sometimes grows among [ayaka bushes](https://ceterai.github.io/MyEnternia/Wiki/ayakabushes).  
+When taking care of wild forest ayakas, make sure to be aware of and careful around <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_aya_virma.png" alt="Aya Virma icon" loading="lazy" width="auto" height="16px"> [aya virmas](https://ceterai.github.io/MyEnternia/Wiki/AyaVirma) - live poisonous ivy that sometimes grows among ayaka bushes.  
 While mostly docile, they can get pretty touchy, especially during their mating season.
 
 Their poison is not meant to hurt you as much as immobilize, so be wary to not step on one.
@@ -36,7 +36,7 @@ It's mostly used as a building material for light objects, decorations and as ca
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) can also be refined into paper, or, in very rare cases, used as a cooking ingredient, primarily due to its nutritious fibres and ayaka sap.
 
-[Ayaka sap](https://ceterai.github.io/MyEnternia/Wiki/Ayakasap) is a tingy ionic ferment that has a vast variety of uses among altas. It is a common cooking ingredient, as well as a good connective material and ionic accelerator.
+[Ayaka sap](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) is a tingy ionic ferment that has a vast variety of uses among altas. It is a common cooking ingredient, as well as a good connective material and ionic accelerator.
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_aya_powder.png" alt="Aya Powder icon" loading="lazy" width="auto" height="16px"> [Aya Powder](https://ceterai.github.io/MyEnternia/Wiki/AyaPowder) is often used as printing material or a cooking ingredient, and as plasma accelerator.
 

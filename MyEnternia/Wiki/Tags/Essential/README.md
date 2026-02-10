@@ -1,6 +1,6 @@
 # Essential Tag
 
-The tag `essential` contains 18 total entries.
+The tag `essential` contains 19 total entries.
 
 ## Objects
 
@@ -26,10 +26,13 @@ The tag `essential` contains 18 total entries.
 
 ## Items
 
-Following items have this item tag:
+<details markdown="1"><summary>Following items have this item tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/void.png" alt="Alta Omniponics icon" loading="lazy" width="auto" height="16px"> [Alta Omniponics](https://ceterai.github.io/MyEnternia/Wiki/AltaOmniponics)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/starlight/ct_b803_plush.png" alt="B3 Plushie icon" loading="lazy" width="auto" height="16px"> [B3 Plushie](https://ceterai.github.io/MyEnternia/Wiki/B3Plushie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/celestial_bow/icon.png" alt="Celestial Bow icon" loading="lazy" width="auto" height="16px"> [Celestial Bow](https://ceterai.github.io/MyEnternia/Wiki/CelestialBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/celestial_pick/icon.png" alt="Celestial Pick icon" loading="lazy" width="auto" height="16px"> [Celestial Pick](https://ceterai.github.io/MyEnternia/Wiki/CelestialPick)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Happy Ava Day! ❤ icon" loading="lazy" width="auto" height="16px"> [Happy Ava Day! ❤](https://ceterai.github.io/MyEnternia/Wiki/HappyAvaDay!)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/photon_drill/icon.png" alt="Photon Drill icon" loading="lazy" width="auto" height="16px"> [Photon Drill](https://ceterai.github.io/MyEnternia/Wiki/PhotonDrill)
+
+</details>

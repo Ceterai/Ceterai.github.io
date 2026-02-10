@@ -23,21 +23,26 @@ Radiomessages on pickup:
 
 A sequence of 4 (+1) light strikes. Hold to perform a Hold Super-Strike.
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) damage.  
-The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"> [diamonds](https://starbounder.org/Diamond) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals.
+The crystallic mix used as rim cover is harder then a lot of crystals. The only things able to significantly overshadow it are <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" alt="Diamond icon" loading="lazy" width="16px" height="16px"> [diamonds](https://starbounder.org/Diamond) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals.
 
 Parameters:
 
+- Base Dps: 12
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
+- Fire Time: 0.6
 - Hold Damage Config:
   - Timeout Group: `hold`
   - Timeout: 0.5
-- Base Dps: 12
-- Fire Time: 0.6
 - Hold Damage Multiplier: 0.1
+
+### Spearing
+
+Hold to perform a rocket spear ability.  
+This technology is part of the design, however not without flaws. It requires an energy source to function, but has poor compatibility with usual alta tech.
 
 ## Sources
 

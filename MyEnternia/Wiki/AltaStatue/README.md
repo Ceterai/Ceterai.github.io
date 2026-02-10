@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/statues/alta/icon.png" alt="Alta Statue icon" loading="lazy" width="auto" height="16px"> **Alta Statue** is a rare decorative object.
 
-A statue on a titanium platform. The label says the statue was build in the name of all [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).  
+A statue on a titanium platform. The label says the statue was build in the name of all [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta).  
 The alta in researcher's field suit is holding the alta emblem - a circle with a core and lines of progress.
 
 ## Ingame

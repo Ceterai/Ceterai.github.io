@@ -36,7 +36,7 @@ Unlocks blueprints for:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Boosted Turanta Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedTurantaSapling)
 
 Can be crafted:
 

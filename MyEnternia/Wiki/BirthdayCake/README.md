@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-birthday_cake.png" alt="Birthday Cake icon" loading="lazy" width="auto" height="16px"> **Birthday Cake** is a legendary dish.
 
 It's your birthday!!! Or... is it? Doesn't hurt to try this cake anyway.  
-Its proper pillar cake structure and dense <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [aya jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) filling will satisfy pretty much anyone. The [koywa bread](https://ceterai.github.io/MyEnternia/Wiki/koywabread) base will also ensure its fulfillingness.
+Its proper pillar cake structure and dense <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [aya jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam) filling will satisfy pretty much anyone. The koywa bread base will also ensure its fulfillingness.
 
 ## Ingame
 

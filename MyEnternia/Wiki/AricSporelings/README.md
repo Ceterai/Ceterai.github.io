@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"> **Aric Sporelings** is a rare codex entry.
 
 An informative paper that can help you tell good shrooms from bad ones.  
-Most aric shrooms are constantly exposed to extreme mutation, to the point where it's hard to find 2 exact same species. For this reason, [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) recognize them by separate aspects of their appearance.
+Most aric shrooms are constantly exposed to extreme mutation, to the point where it's hard to find 2 exact same species. For this reason, [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) recognize them by separate aspects of their appearance.
 
 ## Ingame
 
@@ -22,7 +22,7 @@ However, if you're able to determine that they're coming from capsule-like appen
 
 If an aric's presence looks very unappealing and defensive, chances are it's entirely edible. Dangerous types of aric generally have glowing parts and/or defensive patterns like spikes or false crystals.
 
-As an example, small [agaranics](https://ceterai.github.io/MyEnternia/Wiki/Tags/Agaranic) are mostly edible, while most [kodorrics](https://ceterai.github.io/MyEnternia/Wiki/Tags/Kodorric) are not.
+As an example, small <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/agaranic/ct_agaranic5.png" alt="agaranic icon" loading="lazy" width="auto" height="16px"> [agaranics](https://ceterai.github.io/MyEnternia/Wiki/GiantAgaranicShroom) are mostly edible, while most <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/kodorric/ct_kodorric4.png" alt="kodorric icon" loading="lazy" width="auto" height="16px"> [kodorrics](https://ceterai.github.io/MyEnternia/Wiki/KodorricShroom) are not.
 
 ## Usage
 

@@ -1,14 +1,13 @@
 # Alternia Tag
 
-The tag `alternia` contains 17 total entries.
+The tag `alternia` contains 16 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"> [Alternia Crystal](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/pod/icon.png" alt="Alternia Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"> [Alternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaEcoPod)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-alternia_sample.png" alt="Alternia Geode Sample icon" loading="lazy" width="auto" height="16px"> [Alternia Geode Sample](https://ceterai.github.io/MyEnternia/Wiki/AlterniaGeodeSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/alternia/icon.png" alt="Alternia Sample ★★ icon" loading="lazy" width="auto" height="16px"> [Alternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/sapling/icon.png" alt="Alternia Sapling icon" loading="lazy" width="auto" height="16px"> [Alternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/alternia/icon.png" alt="Alternia Seed icon" loading="lazy" width="auto" height="16px"> [Alternia Seed](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSeed)

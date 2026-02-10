@@ -1,6 +1,6 @@
 # Collectibles
 
-The mod adds a total of 88 collectibles.
+The mod adds a total of 90 collectibles.
 
 ## Bottled Bugs
 
@@ -26,7 +26,7 @@ The mod adds a total of 17 bottled bugs:
 
 ## Figurines
 
-The mod adds a total of 38 figurines:
+The mod adds a total of 40 figurines:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" width="auto" height="16px"> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
@@ -60,6 +60,8 @@ The mod adds a total of 38 figurines:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_omni_narfin.png" alt="Omni Narfin Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Omni Narfin Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/OmniNarfinFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crustoise/ct_overcharged_crustoise.png" alt="Overcharged Crustoise Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Overcharged Crustoise Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrustoiseFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_prism_crippit.png" alt="Prism Crippit Figurine ★★★ icon" loading="lazy" width="auto" height="16px"> [Prism Crippit Figurine ★★★](https://ceterai.github.io/MyEnternia/Wiki/PrismCrippitFigurine)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowglobe1/icon.png" alt="Sonaglobe icon" loading="lazy" width="auto" height="16px"> [Sonaglobe](https://ceterai.github.io/MyEnternia/Wiki/Sonaglobe)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowglobe2/icon.png" alt="Sonaveil Sonaglobe icon" loading="lazy" width="auto" height="16px"> [Sonaveil Sonaglobe](https://ceterai.github.io/MyEnternia/Wiki/SonaveilSonaglobe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_stardust_crippit.png" alt="Stardust Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Stardust Crippit Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/StardustCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_stardust_narfin.png" alt="Stardust Narfin Figurine icon" loading="lazy" width="auto" height="16px"> [Stardust Narfin Figurine](https://ceterai.github.io/MyEnternia/Wiki/StardustNarfinFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/lenn/af/icon.png" alt="Time Drifter Figurine icon" loading="lazy" width="auto" height="16px"> [Time Drifter Figurine](https://ceterai.github.io/MyEnternia/Wiki/TimeDrifterFigurine)

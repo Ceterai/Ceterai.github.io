@@ -1,21 +1,21 @@
 # Alta Logic - XOR
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor.png:default.1" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> **Alta Logic - XOR** is an uncommon wiring component.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor_tiled.png" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> **Alta Logic - XOR** is an uncommon wiring component.
 
-An /'XOR'/ switch. Requires one input to be on, and one off.
+An "XOR" switch. Requires one input to be on, and one off.
 
 ## Ingame
 
 Species descriptions:
 
-- Floran: An /'XOR'/ sswitch. Requiresss one input to be on, and one off.
-- Glitch: Observation. An /'XOR'/ switch. Requires one input to be on, and one off.
+- Floran: An "XOR" sswitch. Requiresss one input to be on, and one off.
+- Glitch: Observation. An "XOR" switch. Requires one input to be on, and one off.
 
 ## Sources
 
 Can be crafted:
 
-- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor.png:default.1" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> Alta Logic - XOR x*1*):
+- Tier 5 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon5.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor_tiled.png" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> Alta Logic - XOR x*1*):
   - <img src="https://starbounder.org/mediawiki/images/0/09/Durasteel_Bar.png" alt="Durasteel Bar icon" loading="lazy" width="14px" height="13px"> [Durasteel Bar](https://starbounder.org/Durasteel_Bar) x*1*
   - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1*

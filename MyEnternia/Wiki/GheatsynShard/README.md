@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> **Gheatsyn Shard** is a common poisonous throwable item.
 
-A liquid <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal shard that can be used as a throwable poisonous charge or as a crafting material.  
+A liquid <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal shard that can be used as a throwable poisonous charge or as a crafting material.  
 It can also be used in cooking after proper preparation, according to the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> [calin cuisine book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook).
 
 ## Ingame
@@ -19,14 +19,15 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 52 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 55 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" width="auto" height="16px"> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_poster.png" alt="Ava Day Poster icon" loading="lazy" width="auto" height="16px"> [Ava Day Poster](https://ceterai.github.io/MyEnternia/Wiki/AvaDayPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/android_head/icon.png" alt="C.T. Android Head ★ icon" loading="lazy" width="auto" height="16px"> [C.T. Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.AndroidHead)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/mindframe/icon.png" alt="C.T. Mindframe ★ icon" loading="lazy" width="auto" height="16px"> [C.T. Mindframe ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.Mindframe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_calio_tea.png" alt="Calio Tea icon" loading="lazy" width="auto" height="16px"> [Calio Tea](https://ceterai.github.io/MyEnternia/Wiki/CalioTea)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_caliopa.png" alt="Caliopa Slice icon" loading="lazy" width="auto" height="16px"> [Caliopa Slice](https://ceterai.github.io/MyEnternia/Wiki/CaliopaSlice)
-- `congealedAcid`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_crunchy_pie.png" alt="Crunchy Pie icon" loading="lazy" width="auto" height="16px"> [Crunchy Pie](https://ceterai.github.io/MyEnternia/Wiki/CrunchyPie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" width="auto" height="16px"> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Crystal Ice Cream icon" loading="lazy" width="auto" height="16px"> [Crystal Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/CrystalIceCream)
@@ -38,6 +39,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/generator/icon.png" alt="Elite Generator ★ icon" loading="lazy" width="auto" height="16px"> [Elite Generator ★](https://ceterai.github.io/MyEnternia/Wiki/EliteGenerator)
 - <img src="https://starbounder.org/mediawiki/images/9/92/Energy_Javelin.png" alt="Energy Javelin icon" loading="lazy" width="27px" height="3px"> [Energy Javelin](https://starbounder.org/Energy_Javelin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/arco/helmet_mk2/icon.png" alt="Envirosuit MkII Helmet ★★ icon" loading="lazy" width="auto" height="16px"> [Envirosuit MkII Helmet ★★](https://ceterai.github.io/MyEnternia/Wiki/EnvirosuitMkIIHelmet)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/love/icon.png" alt="Estria's Bow icon" loading="lazy" width="auto" height="16px"> [Estria's Bow](https://ceterai.github.io/MyEnternia/Wiki/Estria'sBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png" alt="Gheablade icon" loading="lazy" width="auto" height="16px"> [Gheablade](https://ceterai.github.io/MyEnternia/Wiki/Gheablade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_arc/icon.png" alt="Gheatorn Arc icon" loading="lazy" width="auto" height="16px"> [Gheatorn Arc](https://ceterai.github.io/MyEnternia/Wiki/GheatornArc)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_eye/icon.png" alt="Gheatorn Eye icon" loading="lazy" width="auto" height="16px"> [Gheatorn Eye](https://ceterai.github.io/MyEnternia/Wiki/GheatornEye)
@@ -62,6 +64,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_neoblaster.png" alt="Neo Blaster icon" loading="lazy" width="auto" height="16px"> [Neo Blaster](https://ceterai.github.io/MyEnternia/Wiki/NeoBlaster)
 - <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"> [Pixel](https://starbounder.org/Pixel)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle.png" alt="Plasma Rifle NG5 icon" loading="lazy" width="auto" height="16px"> [Plasma Rifle NG5](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5)
+- <img src="https://starbounder.org/mediawiki/images/0/05/Poison.png" alt="Poison icon" loading="lazy" width="16px" height="16px"> [Poison](https://starbounder.org/Poison)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/captain_helmet/icon.png" alt="Security Captain's Helmet ★ icon" loading="lazy" width="auto" height="16px"> [Security Captain's Helmet ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityCaptain'sHelmet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/security/droid_head/icon.png" alt="Security Droid Head ★ icon" loading="lazy" width="auto" height="16px"> [Security Droid Head ★](https://ceterai.github.io/MyEnternia/Wiki/SecurityDroidHead)

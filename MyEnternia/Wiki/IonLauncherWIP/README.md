@@ -21,13 +21,6 @@ Parameters:
 - Base Dps: 9
 - Energy Usage: 36
 - Fire Time: 1.2
-- Press Type: `blast`
-- Press Params:
-  - Type: `ct_ionic_large`
-  - Inaccuracy:
-  - Params:
-    - Time To Live: 5.0
-- Hold Type: `blast`
 - Hold Params:
   - Type: `ct_ionic_large`
   - Inaccuracy: 0.02
@@ -36,6 +29,13 @@ Parameters:
     - Time To Live: 5.0
   - Count: 2
   - Interval: 0.1
+- Hold Type: `blast`
+- Press Params:
+  - Type: `ct_ionic_large`
+  - Inaccuracy:
+  - Params:
+    - Time To Live: 5.0
+- Press Type: `blast`
 
 ### Secondary Ability
 

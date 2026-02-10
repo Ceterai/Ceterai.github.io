@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" width="auto" height="16px"> **Bionics** is a rare codex entry.
 
-A brief description of various sturdy <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) combinations that can be used as clothing or protective materials.  
+A brief description of various sturdy <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) combinations that can be used as clothing or protective materials.  
 This ebook explains what bionics are and provides examples of popular compounds.
 
 It's worth noting, that altas themselves are classified as **bionical** creatures, or simply **bionicas**.
@@ -11,7 +11,7 @@ It's worth noting, that altas themselves are classified as **bionical** creature
 
 Species descriptions:
 
-- Alta: I've seen some of the compounds discussed in this having a closer look taken at then in some popular alta studies, like [CNOB](https://ceterai.github.io/MyEnternia/Wiki/CNOB) and [ECOC-FIOC](https://ceterai.github.io/MyEnternia/Wiki/ECOC-FIOC).
+- Alta: I've seen some of the compounds discussed in this having a closer look taken at then in some popular alta studies, like [CNOB](https://ceterai.github.io/MyEnternia/Wiki/ComplicatedNatureofBion) and [ECOC-FIOC](https://ceterai.github.io/MyEnternia/Wiki/ComplicatedNatureofBion).
 
 Radiomessages on pickup:
 
@@ -19,30 +19,30 @@ Radiomessages on pickup:
 
 ### Contents
 
-Bionics, or [bion](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bion)-based materials, including <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound), are a family of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid)-related variations used mainly by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) as armor plating and protective clothing.
+Bionics, or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_bionid_loot.png" alt="bion icon" loading="lazy" width="auto" height="16px"> [bion](https://ceterai.github.io/MyEnternia/Wiki/Bionics)-based materials, including <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound), are a family of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid)-related variations used mainly by [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) as armor plating and protective clothing.
 
-Bion is the primary material that makes up majority of any bion connections and variations, the most common of which is the naturally occurring [bionid ore](https://ceterai.github.io/MyEnternia/Wiki/bionidore). Refining it into [pure bion](https://ceterai.github.io/MyEnternia/Wiki/purebion) and further reinforcing it into a compound makes it a perfect armoring resource.
+Bion is the primary material that makes up majority of any bion connections and variations, the most common of which is the naturally occurring bionid ore. Refining it into <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_bionid_loot.png" alt="pure bion icon" loading="lazy" width="auto" height="16px"> [pure bion](https://ceterai.github.io/MyEnternia/Wiki/Bionics) and further reinforcing it into a compound makes it a perfect armoring resource.
 
 Different bion compounds behave differently as well. Listed below are popular formulas and their distincting features.
 
-[Pure Bion](https://ceterai.github.io/MyEnternia/Wiki/PureBion) - while not as luminescent as the bionid ore it comes from, it is very bendable and adaptable with no shape memory.  
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_bionid_loot.png" alt="pure bion icon" loading="lazy" width="auto" height="16px"> [Pure Bion](https://ceterai.github.io/MyEnternia/Wiki/Bionics) - while not as luminescent as the bionid ore it comes from, it is very bendable and adaptable with no shape memory.  
 Often used for protective clothing, like in the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/combat.png" alt="Combat Set icon" loading="lazy" width="auto" height="16px"> [Combat Set](https://ceterai.github.io/MyEnternia/Wiki/CombatSet) of alta equipment.  
 Considered a light tier armor.
 
-[Bionium](https://ceterai.github.io/MyEnternia/Wiki/Bionium) - similar to pure bion in its bending capabilities, it retains strong shape memory to an extent controlled by electricity.  
+[Bionium](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) - similar to pure bion in its bending capabilities, it retains strong shape memory to an extent controlled by electricity.  
 Often used for robotics armor plating, like on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/watcher.png" alt="Watcher Drone icon" loading="lazy" width="auto" height="16px"> [Watcher Drones](https://ceterai.github.io/MyEnternia/Wiki/WatcherDrone) or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/spider.png" alt="Spider Droid icon" loading="lazy" width="auto" height="16px"> [Spider Droids](https://ceterai.github.io/MyEnternia/Wiki/SpiderDroid). Considered a medium tier armor.
 
-[Bionix](https://ceterai.github.io/MyEnternia/Wiki/Bionix) - a sturdy, less bendable variant, that makes it up in hardness and slight shape memory capabilities.  
+[Bionix](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) - a sturdy, less bendable variant, that makes it up in hardness and slight shape memory capabilities.  
 Often used for in-place objects, like alta lab decorations, and combat tools, for example <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Plasmora icon" loading="lazy" width="auto" height="16px"> [Plasmora](https://ceterai.github.io/MyEnternia/Wiki/Plasmora).  
 Considered a heavy tier armor.
 
-[Dianid](https://ceterai.github.io/MyEnternia/Wiki/Dianid) - a light-colored armor variant that utilizes diamonds as a secret ingredient. This is the hardest bendable compound yet, but is also quite expensive to make.  
+[Dianid](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) - a light-colored armor variant that utilizes diamonds as a secret ingredient. This is the hardest bendable compound yet, but is also quite expensive to make.  
 Considered a medium tier armor.
 
 Other useful compounds include:  
-[Bion-2A1](https://ceterai.github.io/MyEnternia/Wiki/Bion-2A1), [Bion-4](https://ceterai.github.io/MyEnternia/Wiki/Bion-4), [Calonid](https://ceterai.github.io/MyEnternia/Wiki/Calonid), [Ionic Bion](https://ceterai.github.io/MyEnternia/Wiki/IonicBion).
+[Bion-2A1](https://ceterai.github.io/MyEnternia/Wiki/BionCompound), [Bion-4](https://ceterai.github.io/MyEnternia/Wiki/BionCompound), [Calonid](https://ceterai.github.io/MyEnternia/Wiki/Bionid), [Ionic Bion](https://ceterai.github.io/MyEnternia/Wiki/BionCompound).
 
-[Biocaloid](https://ceterai.github.io/MyEnternia/Wiki/Biocaloid), though not a compound, is another bionic worth mentioning, since this is a type of bionic commonly found in alta bodies.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_bionid_loot.png" alt="biocaloid icon" loading="lazy" width="auto" height="16px"> [Biocaloid](https://ceterai.github.io/MyEnternia/Wiki/Bionics), though not a compound, is another bionic worth mentioning, since this is a type of bionic commonly found in alta bodies.
 
 ## Usage
 

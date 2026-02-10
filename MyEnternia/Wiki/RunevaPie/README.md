@@ -24,6 +24,8 @@ Unlocks blueprints for:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_aya_gil_pie.png" alt="Aya-Gil Pie icon" loading="lazy" width="auto" height="16px"> [Aya-Gil Pie](https://ceterai.github.io/MyEnternia/Wiki/Aya-GilPie).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_gil_pie-runeva.png" alt="Runeva Pie ★★ icon" loading="lazy" width="auto" height="16px"> Runeva Pie ★★ x*1*):

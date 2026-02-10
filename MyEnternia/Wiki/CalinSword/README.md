@@ -21,36 +21,17 @@ Radiomessages on pickup:
 
 ### Crystal Powers
 
-**WIP**. A sequence of 3 light strikes. Hold to perform a [trail dash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Trail-Dash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
+**WIP**. A sequence of 3 light strikes. Hold to perform a [Trail Dash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Trail-Dash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
 Enters a charged state every 10 seconds, making next 4 hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
 The indent patterns on the blade help directing the impulses in the right direction during the swing.
 
 Parameters:
 
 - Base Dps: 6
-- Fire Time: 0.625
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor:
-- Knockback: 10.0
-- Swoosh: `swoosh_small1`
-- Swoosh Offset:  -1.0,  -0.25,  2.5,  2.0
-- Swoosh Sound: `primary_press`, 
-- Damage Factor: 0.6
-- Energy Factor:
-- Knockback: 20.0
-- Swoosh: `swoosh_small2`
-- Swoosh Offset: ,  -0.5,  2.5,  1.0
-- Swoosh Sound: `primary_press2`, 
-- Damage Factor: 1.4
-- Energy Factor:
-- Knockback: 10.0
-- Swoosh: `swoosh_small2`
-- Swoosh Offset: ,  -0.25,  2.5,  1.0
-- Swoosh Sound: `primary_press`
 - Damage Config:
   - Damage Source Kind: `shortsword`
   - Timeout: 0.5
+- Fire Time: 0.625
 
 ## Sources
 

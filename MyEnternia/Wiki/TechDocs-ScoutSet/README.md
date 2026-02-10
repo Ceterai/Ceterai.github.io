@@ -9,7 +9,7 @@ This document provides an overview of the scout equipment set, designed for agil
 
 Species descriptions:
 
-- Alta: Becoming a scout is a rite of passage for many aspiring [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).
+- Alta: Becoming a scout is a rite of passage for many aspiring [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta).
 
 ### Contents
 

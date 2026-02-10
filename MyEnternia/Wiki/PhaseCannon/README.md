@@ -25,11 +25,6 @@ A powerful generator is able to produce a continous stream while using a relativ
 Parameters:
 
 - Base Dps: 12
-- Fire Time: 0.2
-- Energy Usage: 44
-- Damage Config:
-  - Damage Source Kind: `plasma`
-  - Knockback: 2
 - Beam Length: 50
 - Chain:
   - Start Offset: 
@@ -45,6 +40,11 @@ Parameters:
     - Movement:
   - Fullbright: `True`
   - Light:  249,  21,  207
+- Damage Config:
+  - Damage Source Kind: `plasma`
+  - Knockback: 2
+- Energy Usage: 44
+- Fire Time: 0.2
 
 ### Phase Charge
 
@@ -54,17 +54,8 @@ This sphere is a point of concentrated energy, able to exist for a prolonged per
 Parameters:
 
 - Base Dps: 12
-- Fire Time: 0.9
 - Energy Usage: 48
-- Press Type: `blast`
-- Press Params:
-  - Type: `chargeshotsmall`
-  - Inaccuracy:
-  - Params:
-    - Speed: 20
-    - Knockback:
-    - Time To Live: 5.0
-- Hold Type: `clouds`
+- Fire Time: 0.9
 - Hold Params:
   - Type: `chargeshotlarge`
   - Inaccuracy:
@@ -73,6 +64,15 @@ Parameters:
     - Speed: 10
     - Knockback:
     - Time To Live: 5.0
+- Hold Type: `clouds`
+- Press Params:
+  - Type: `chargeshotsmall`
+  - Inaccuracy:
+  - Params:
+    - Speed: 20
+    - Knockback:
+    - Time To Live: 5.0
+- Press Type: `blast`
 
 ## Sources
 

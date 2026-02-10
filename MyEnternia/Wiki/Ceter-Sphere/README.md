@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="Ceter-Sphere icon" loading="lazy" width="auto" height="16px"> **Ceter-Sphere** is a legendary crafting material.
 
 Source of natural energy, safe to use for generating low levels of pure electricity.  
-Spheres of any type are one of the most powerful energy sources invented by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta). They're able to provide a steady stream of energy, and even have special flow settings. Although, unlike <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore), spheres are unable to convert energy types.
+Spheres of any type are one of the most powerful energy sources invented by [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta). They're able to provide a steady stream of energy, and even have special flow settings. Although, unlike <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/phosicore.png" alt="Phosicore icon" loading="lazy" width="auto" height="16px"> [phosicores](https://ceterai.github.io/MyEnternia/Wiki/Phosicore), spheres are unable to convert energy types.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: A precious ceterfaa, I better be careful not to drop it. Wonderful how something so smal can actually generate <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia).
+- Alta: A precious ceterfaa, I better be careful not to drop it. Wonderful how something so smal can actually generate <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia).
 
 Radiomessages on pickup:
 
@@ -78,7 +78,7 @@ Use them sparingly as they're generally hard to come by.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_hevika_crippit_egg.png" alt="Hevika Crippit Egg icon" loading="lazy" width="auto" height="16px"> [Hevika Crippit Egg](https://ceterai.github.io/MyEnternia/Wiki/HevikaCrippitEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_hevika_scab_egg.png" alt="Hevika Scab Egg icon" loading="lazy" width="auto" height="16px"> [Hevika Scab Egg](https://ceterai.github.io/MyEnternia/Wiki/HevikaScabEgg)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/capital.png" alt="Imperial Android icon" loading="lazy" width="auto" height="16px"> [Imperial Android](https://ceterai.github.io/MyEnternia/Wiki/ImperialAndroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/capital.png" alt="Imperial Android Nade icon" loading="lazy" width="auto" height="16px"> [Imperial Android Nade](https://ceterai.github.io/MyEnternia/Wiki/ImperialAndroidNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_impulse_bobfae_egg.png" alt="Impulse Bobfae Egg ★ icon" loading="lazy" width="auto" height="16px"> [Impulse Bobfae Egg ★](https://ceterai.github.io/MyEnternia/Wiki/ImpulseBobfaeEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_impulse_crawler_egg.png" alt="Impulse Crawler Egg icon" loading="lazy" width="auto" height="16px"> [Impulse Crawler Egg](https://ceterai.github.io/MyEnternia/Wiki/ImpulseCrawlerEgg)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_nia_squid_impulse_egg.png" alt="Impulse Nia Squid Egg icon" loading="lazy" width="auto" height="16px"> [Impulse Nia Squid Egg](https://ceterai.github.io/MyEnternia/Wiki/ImpulseNiaSquidEgg)

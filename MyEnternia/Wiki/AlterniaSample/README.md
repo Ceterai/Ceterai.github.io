@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/alternia/icon.png" alt="Alternia Sample ★★ icon" loading="lazy" width="auto" height="16px"> **Alternia Sample ★★** is a legendary decorative object.
 
-A perfect sample of a shard from an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia)-saturated crystal, preserved on a small titanium pedestal.
+A perfect sample of a shard from an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia)-saturated crystal, preserved on a small titanium pedestal.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: Discovering plasmic crystals was the first instance of altas being able to successfully extract alternia and transform it into a usable form of energy, like electricity. Nowadays quite a lot of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" width="auto" height="16px"> [alta energy sources](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergySource) and [alta energy cells](https://ceterai.github.io/MyEnternia/Wiki/altaenergycells) are created using pieces of these crystals.
+- Alta: Discovering plasmic crystals was the first instance of altas being able to successfully extract alternia and transform it into a usable form of energy, like electricity. Nowadays quite a lot of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" alt="Alta Energy Source icon" loading="lazy" width="auto" height="16px"> [alta energy sources](https://ceterai.github.io/MyEnternia/Wiki/AltaEnergySource) and [alta energy cells](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) are created using pieces of these crystals.
 
 ## Sources
 

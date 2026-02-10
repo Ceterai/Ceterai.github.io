@@ -14,8 +14,8 @@ Radiomessages on pickup:
 
 ### Energy Controller
 
-Intergrated tech that allows you to take control of 3 [Magmorbs](https://ceterai.github.io/MyEnternia/Wiki/Magmorbs).
-Press - launch a [Magmorb](https://ceterai.github.io/MyEnternia/Wiki/Magmorb);
+Intergrated tech that allows you to take control of 3 Magmorbs.
+Press - launch a Magmorb;
 Hold - create a Magma Shield.
 
 Parameters:
@@ -23,7 +23,6 @@ Parameters:
 - Base Dps: 5
 - Energy Usage: 20
 - Fire Time: 0.33
-- Type: `ct_magmorb`
 - Params:
   - Return On Hit: `True`
   - Ignore Terrain:
@@ -31,6 +30,7 @@ Parameters:
   - Pickup Distance: 1.5
   - Snap Distance: 4.0
 - Shield Knockback: 10
+- Type: `ct_magmorb`
 
 ## Sources
 

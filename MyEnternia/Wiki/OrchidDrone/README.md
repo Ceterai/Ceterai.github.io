@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/trans.png" alt="Orchid Drone ★★ icon" loading="lazy" width="auto" height="16px"> **Orchid Drone ★★** is an uncommon throwable item.
 
-This [alta drone](https://ceterai.github.io/MyEnternia/Wiki/altadrone) is very special! She's also extremely shy, so please handle her with care. Likes orchids!  
+This alta drone is very special! She's also extremely shy, so please handle her with care. Likes orchids!  
 She also likes stardust and gazing at the sky once in awhile, bewildered by its beauty, wondering and dreaming of stars and infinity.
 
 ## Ingame
@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Reincarnation
 
-Will swoop at enemies when in range. Will turn into a [Crystal Drone ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalDrone) on destruction.  
+Will swoop at enemies when in range. Will turn into a Crystal Drone ★ on destruction.  
 This isn't a pre-built function of the drone, and is a mistery to some... Although true stardust orchids are known to be able to crystallize, so maybe no surprise here.
 
 ### Scouting Drone

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_enterite.png" alt="Enterite icon" loading="lazy" width="auto" height="16px"> **Enterite** is a rare crafting material.
 
-A piece of contained <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) energy. You can almost... hear it? ...Somehow it feels important.  
+A piece of contained <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" loading="lazy" width="auto" height="16px"> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) energy. You can almost... hear it? ...Somehow it feels important.  
 These minerals are able to gather enternia from the air around them, saturating themselves with it. A rock full of dreams and ambitions, waiting for the rest of the puzzle to come in place.
 
 ## Ingame

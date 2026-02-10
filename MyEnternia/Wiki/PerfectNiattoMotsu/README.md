@@ -23,6 +23,8 @@ Unlocks blueprints for:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_niatto_motsu.png" alt="Niatto Motsu Soup icon" loading="lazy" width="auto" height="16px"> [Niatto Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/NiattoMotsuSoup).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_niatto_motsu-perfect.png" alt="Perfect Niatto Motsu ★ icon" loading="lazy" width="auto" height="16px"> Perfect Niatto Motsu ★ x*1*):

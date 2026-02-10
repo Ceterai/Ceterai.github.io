@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" width="auto" height="16px"> **Ceternia Sample ★★** is a legendary decorative object.
 
-A perfect sample of some <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia)-saturated matter, preserved on a small titanium pedestal.
+A perfect sample of some <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia)-saturated matter, preserved on a small titanium pedestal.
 
 ## Ingame
 

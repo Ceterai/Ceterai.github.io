@@ -1,28 +1,26 @@
 # Toy Tag
 
-The tag `toy` contains 52 total entries.
+The tag `toy` contains 53 total entries.
 
 ## Objects
-
-Following objects have this colony tag:
-
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-duck.png" alt="Little Quackie icon" loading="lazy" width="auto" height="16px"> [Little Quackie](https://ceterai.github.io/MyEnternia/Wiki/LittleQuackie)
 
 ## Tenants
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 51 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 53 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/basic/icon.png" alt="Alta Bow icon" loading="lazy" width="auto" height="16px"> [Alta Bow](https://ceterai.github.io/MyEnternia/Wiki/AltaBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/cannon/icon.png" alt="Alta Bubble Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Bubble Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbleCannon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/basic/icon.png" alt="Alta Bubble Wand icon" loading="lazy" width="auto" height="16px"> [Alta Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbleWand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/blaster/icon.png" alt="Alta Bubbler icon" loading="lazy" width="auto" height="16px"> [Alta Bubbler](https://ceterai.github.io/MyEnternia/Wiki/AltaBubbler)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/thrower/body.png" alt="Alta Coldthrower icon" loading="lazy" width="auto" height="16px"> [Alta Coldthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaColdthrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/dart/ct_alta_dart.png" alt="Alta Dart icon" loading="lazy" width="auto" height="16px"> [Alta Dart](https://ceterai.github.io/MyEnternia/Wiki/AltaDart)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/basic/icon.png" alt="Alta Dart Board icon" loading="lazy" width="auto" height="16px"> [Alta Dart Board](https://ceterai.github.io/MyEnternia/Wiki/AltaDartBoard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/hard/body.png" alt="Alta Dart Hardboard icon" loading="lazy" width="auto" height="16px"> [Alta Dart Hardboard](https://ceterai.github.io/MyEnternia/Wiki/AltaDartHardboard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/mega/body.png" alt="Alta Dart Megaboard icon" loading="lazy" width="auto" height="16px"> [Alta Dart Megaboard](https://ceterai.github.io/MyEnternia/Wiki/AltaDartMegaboard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/super/body.png" alt="Alta Dart Superboard icon" loading="lazy" width="auto" height="16px"> [Alta Dart Superboard](https://ceterai.github.io/MyEnternia/Wiki/AltaDartSuperboard)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/icon.png" alt="Alta Firework Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Firework Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaFireworkCannon)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_proj_mimic-metal_javelin.png" alt="Alta Kinetic Javelin icon" loading="lazy" width="auto" height="16px"> [Alta Kinetic Javelin](https://ceterai.github.io/MyEnternia/Wiki/AltaKineticJavelin)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"> [Alta Neon Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonBubbleWand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/paper/plane/ct_alta_plane.png" alt="Alta Plane icon" loading="lazy" width="auto" height="16px"> [Alta Plane](https://ceterai.github.io/MyEnternia/Wiki/AltaPlane)

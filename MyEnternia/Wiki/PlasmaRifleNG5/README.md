@@ -27,12 +27,12 @@ Firemodes: auto, semiauto, single.
 Parameters:
 
 - Base Dps: 8
-- Fire Time: 0.1
-- Energy Usage: 32
 - Burst Params:
   - Count: 3
   - Interval: 0.1
 - Default Fire Type: `auto`
+- Energy Usage: 32
+- Fire Time: 0.1
 - Fire Types:
   - Auto:
     - Press Type: `blast`
@@ -66,11 +66,11 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.8
-- Press Type: `nade`
+- Fire Types:  `auto`,  `semi`,  `single`
+- Hold Firemodes: `True`
 - Press Params:
   - Type: `ct_plasma_nade_charge`
-- Hold Firemodes: `True`
-- Fire Types:  `auto`,  `semi`,  `single`
+- Press Type: `nade`
 
 ## Sources
 

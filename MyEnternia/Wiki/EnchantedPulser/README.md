@@ -4,7 +4,7 @@
 
 An improved pulse blaster enchanted with pure <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy.
 Now has an attached laserpointer.  
-From a toy to an energy tool to a stardust relic. In the right hands, anything can reach its prime state.
+From a toy to an energy tool to a stardust relic. Processed through starsmithing technology, it proves that with the right tools and in the right hands, anything can reach its prime state.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" width="auto" height="16px"> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster).
 
@@ -12,7 +12,7 @@ An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 Species descriptions:
 
-- Alta: Seems like this blaster spent a bit too much time in [vionia](https://ceterai.github.io/MyEnternia/Wiki/vionia). Oh well. Wobblies!!
+- Alta: Seems like this blaster spent a bit too much time in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="vionia icon" loading="lazy" width="auto" height="16px"> [vionia](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass). Oh well. Wobblies!!
 
 Radiomessages on pickup:
 
@@ -25,30 +25,30 @@ Radiomessages on pickup:
 The power has unleashed!
 Press - now 50% more accurate, 4 blasts instead of 3.
 Hold - the size of the Wobbleshot has increased.  
-It's important to not overhold to not create an out-of-control [miazma](https://ceterai.github.io/MyEnternia/Wiki/miazma). Thankfully, there seems to be a limiter preventing exactly that.
+It's important to not overhold to not create an out-of-control [miazma](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins#miazma). Thankfully, there seems to be a limiter preventing exactly that.
 
 Parameters:
 
+- Base Dps: 3
+- Energy Usage: 14
+- Fire Time: 0.2
 - Hold Params:
-  - Inaccuracy: 0.01
-  - Type: `wobbleshot`
   - Params:
     - Time To Live: 5.0
     - Damage Kind: `iceplasma`
+  - Type: `wobbleshot`
+  - Inaccuracy: 0.01
 - Hold Time Max: 0.55
-- Press Type: `semi`
-- Energy Usage: 14
 - Hold Type: `blast`
 - Press Params:
-  - Inaccuracy: 0.0225
   - Count: 4
-  - Type: `blueplasmabullet`
   - Params:
+    - Speed: 60
     - Time To Live: 5.0
     - Damage Kind: `iceplasma`
-    - Speed: 60
-- Base Dps: 3
-- Fire Time: 0.2
+  - Type: `blueplasmabullet`
+  - Inaccuracy: 0.0225
+- Press Type: `semi`
 
 ## Sources
 

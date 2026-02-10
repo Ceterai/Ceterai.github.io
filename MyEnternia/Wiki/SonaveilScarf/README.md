@@ -13,6 +13,12 @@ Species descriptions:
 
 ## Usage
 
+### Crafting
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
+
 ### Dyeing
 
 Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images/c/cf/Dye_Remover.png" alt="Dye icon" width="8" height="12"/> [Dyes](https://starbounder.org/Dye), including [custom dyes](https://ceterai.github.io/MyEnternia/Wiki/Dyes) from this mod.
@@ -30,6 +36,10 @@ Can be bought from merchants:
 Can be obtained from special items:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

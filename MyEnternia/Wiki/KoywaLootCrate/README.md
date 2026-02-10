@@ -46,7 +46,7 @@ When used:
 - `snorkelhead` x*1* (weight: 0.01)
 - `oxygentank` x*1* (weight: 0.01)
 - `divingmaskhead` x*1* (weight: 0.01)
-- `ct_head_mimic-koywa_skirt` x*1* (weight: 0.016)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_legs_mimic-koywa_skirt.png" alt="Koywa Skirt icon" loading="lazy" width="auto" height="16px"> [Koywa Skirt](https://ceterai.github.io/MyEnternia/Wiki/KoywaSkirt) x*1* (weight: 0.016)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/water/blaster/ct_waterblaster.png" alt="Waterblaster icon" loading="lazy" width="auto" height="16px"> [Waterblaster](https://ceterai.github.io/MyEnternia/Wiki/Waterblaster) x*1* (weight: 0.015)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin.png" alt="Barracuda's Fin icon" loading="lazy" width="auto" height="16px"> [Barracuda's Fin](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sFin) x*1* (weight: 0.015)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-horn.png" alt="Barracuda's Horn icon" loading="lazy" width="auto" height="16px"> [Barracuda's Horn](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sHorn) x*1* (weight: 0.01)

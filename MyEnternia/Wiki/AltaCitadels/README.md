@@ -17,20 +17,20 @@ Radiomessages on pickup:
 
 ### Contents
 
-At the center of every <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"> [alta capital](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) stands a massive citadel. It houses security complexes, main offices of the city administration, the control and order support department, warehouses for city equipment and emergency supplies and generators in case of crisis situations.  
+At the center of every <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"> [alta capital](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals) stands a massive citadel. It houses security complexes, main offices of the city administration, the control and order support department, warehouses for city equipment and emergency supplies and generators in case of crisis situations.
 The citadel itself is equipped with autonomous power supplies and control systems, as well as several energy shield generators. Beneath the citadel is most often the main civilian refuge.
 
-In addition to energy shields and security systems, the citadel is protected by advanced [alta robotics](https://ceterai.github.io/MyEnternia/Wiki/altarobotics), such as [defensive drones](https://ceterai.github.io/MyEnternia/Wiki/defensivedrones), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" width="auto" height="16px"> [stalker droids](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid), and even [frigate drones](https://ceterai.github.io/MyEnternia/Wiki/frigatedrones).
+In addition to energy shields and security systems, the citadel is protected by advanced [alta robotics](https://ceterai.github.io/MyEnternia/Wiki/Alta#robotics), such as [defensive drones](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDrone), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/stalker.png" alt="Stalker Droid ★ icon" loading="lazy" width="auto" height="16px"> [stalker droids](https://ceterai.github.io/MyEnternia/Wiki/StalkerDroid), and even frigate drones.
 
-The walls of the citadel consist of several layers of composite armor, consisting mostly of [bionix](https://ceterai.github.io/MyEnternia/Wiki/bionix) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor), with some levels being partially air-tight.
+The walls of the citadel consist of several layers of composite armor, consisting mostly of [bionix](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> [EDS armor](https://ceterai.github.io/MyEnternia/Wiki/EDSArmor), with some levels being partially air-tight.
 
 While the upper levels of the citadel are dedicated to technical control and communications center, the main entrance levels are the administrative palace, often housing the main staff of the administration, including the city's top commander.
 
-Receptions and city events take place here, and organizational issues are resolved. [Alta palaces](https://ceterai.github.io/MyEnternia/Wiki/Altapalaces) look like large high-tech mansions, either extending into the citadel or being a part of it.
+Receptions and city events take place here, and organizational issues are resolved. Alta palaces look like large high-tech mansions, either extending into the citadel or being a part of it.
 
 Sometimes such palaces are located at the very top of the citadel in form of penthouses overlooking the city. Citadels with palaces of this type can reach particularly big heights, and also allow for greater attention to be paid to defense on the lower floors.
 
-Such citadels are usually located in capitals on planets and continents of high danger, for example on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
+Such citadels are usually located in capitals on planets and continents of high danger, for example on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
 
 ## Usage
 

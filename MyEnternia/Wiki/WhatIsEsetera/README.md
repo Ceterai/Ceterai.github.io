@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="What Is Esetera icon" loading="lazy" width="auto" height="16px"> **What Is Esetera** is a rare codex entry.
 
-A small ebook that explains the gigantic empty space inside of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.  
+A small ebook that explains the gigantic empty space inside of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.  
 This space spans across multiple geological layers of the planet, and thus should be traversed with extreme caution.
 
 ## Ingame
@@ -17,23 +17,23 @@ Radiomessages on pickup:
 
 ### Contents
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera), or The Empty Place, is an underground abyss on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets. A gargantuan space, formed by the unstable ionized nature of [Io Structs](https://ceterai.github.io/MyEnternia/Wiki/IoStructs).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera), or The Empty Place, is an underground abyss on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets. A gargantuan space, formed by the unstable ionized nature of Io Structs.
 
-[Altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) generally use this space to hide their laboratories and facilities from kaiter scouting groups and military squads.
+[Altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) generally use this space to hide their laboratories and facilities from kaiter scouting groups and military squads.
 
 Most of these structures can be found nearly halfway down to the bottom, almost engraved into the massive natural pillars that literally "hold" the surface of the planet.
 
 This is due to the fact that Esetera Depths possesses even more danger due to its instability and numerous hazards.
 
-The bottom of Esetera, or its actual "surface", is called [esetera depths](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-depths). Apart from ubiquitous dangers, the surface is strewn with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal), as well as numerous deep caves that sometimes can lead right to the core of the planet.
+The bottom of Esetera, or its actual "surface", is called [Esetera Depths](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-depths). Apart from ubiquitous dangers, the surface is strewn with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal), as well as numerous deep caves that sometimes can lead right to the core of the planet.
 
 These caves, also known as Esetera Caves, act as a natural shield, protecting the core of the planet from high ionization.
 
-[esetera caves](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-caves) are regular deep caves with mostly hard-to-break materials. Contains the largest amount of ionic crystals.
+[Esetera Caves](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-caves) are regular deep caves with mostly hard-to-break materials. Contains the largest amount of ionic crystals.
 
 The air in Esetera Depths and Esetera Caves is overcharged, meaning that without special protection, the player will constantly experience negative effects.
 
-This effect is absent near the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" width="16" height="16"/> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) of the planet.
+This effect is absent near the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ion Core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) of the planet.
 
 ## Usage
 

@@ -11,7 +11,7 @@ An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main
 
 Species descriptions:
 
-- Alta: Oh wow, I love these! You can almost fly with them, with just a proper swing of an arm! ..Better be mindful of landing though. Preferably in advance.
+- Alta: Oaa, Protea's spear... Legends say it was fused with stardust all the way in Erenai... It feels light, yet powerful. I can see why she loved it so much.
 
 Radiomessages on pickup:
 
@@ -27,6 +27,9 @@ With enhanced capabilities, the tool is able to concentrate enough energy to pro
 
 Parameters:
 
+- Base Dps: 12
+- Fire Time: 0.6
+- Projectile Count:
 - Step Damage Config: 
 - Base Damage Factor: 1.35
 - Knockback: 5, 
@@ -37,10 +40,7 @@ Parameters:
 - Base Damage Factor: 2.2
 - Knockback: 15
 - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
-- Base Dps: 12
-- Fire Time: 0.6
 - Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
-- Projectile Count:
 
 ### Stardust Seeker
 
@@ -49,10 +49,10 @@ This is due to the enhancement allowing more stardust to go through and fill up 
 
 Parameters:
 
-- Power: 4
 - Damage Config:
 
 - Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
+- Power: 4
 
 ## Sources
 
@@ -70,5 +70,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - Level: `6`
 - Power: `3.85`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`plasma`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [`protogear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Protogear), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`upgradeableWeapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/UpgradeableWeapon), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`electric`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`melee`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Melee), [`protea`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Protea), [`spear`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Spear), [`weapon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Weapon)
 - File: [`/items/active/weapons/melee/alta/spear/ct_protospear.activeitem`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/melee/alta/spear/ct_protospear.activeitem)

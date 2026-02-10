@@ -23,12 +23,14 @@ Unlocks blueprints for:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_hive_curry.png" alt="Hive Curry icon" loading="lazy" width="auto" height="16px"> [Hive Curry](https://ceterai.github.io/MyEnternia/Wiki/HiveCurry).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_hive_curry-spice.png" alt="Spice-Hive Curry ★ icon" loading="lazy" width="auto" height="16px"> Spice-Hive Curry ★ x*1*):
   - `chili` x*2*
   - <img src="https://starbounder.org/mediawiki/images/4/42/Baby_Larva.png" alt="Larva icon" loading="lazy" width="14px" height="7px"> [Larva](https://starbounder.org/Baby_Larva) x*2*
-  - `rice` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/d/da/Rice.png" alt="Rice icon" loading="lazy" width="16px" height="16px"> [Rice](https://starbounder.org/Rice) x*1*
   - <img src="https://starbounder.org/mediawiki/images/4/40/Bio_Sample.png" alt="Bio Sample icon" loading="lazy" width="12px" height="9px"> [Bio Sample](https://starbounder.org/Bio_Sample) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> [Gharus Spice](https://ceterai.github.io/MyEnternia/Wiki/GharusSpice) x*1*
 

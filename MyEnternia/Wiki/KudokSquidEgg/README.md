@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_kudok_squid_egg.png" alt="Kudok Squid Egg icon" loading="lazy" width="auto" height="16px"> **Kudok Squid Egg** is an uncommon throwable item.
 
-Can be used to spawn a squid called [kudok squid](https://ceterai.github.io/MyEnternia/Wiki/kudoksquid).  
+Can be used to spawn a squid called kudok squid.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame

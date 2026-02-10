@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="The Miracles of Vionia icon" loading="lazy" width="auto" height="16px"> **The Miracles of Vionia** is an uncommon codex entry.
 
-An informational storybook meant to teach altas about [vionia](https://ceterai.github.io/MyEnternia/Wiki/vionia), or enchanted energy, in a playful, entertaining way.  
-The happenings described in the book are meant to create an association with a healthy caution around [viona anomalies](https://ceterai.github.io/MyEnternia/Wiki/vionaanomalies).
+An informational storybook meant to teach altas about <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="vionia icon" loading="lazy" width="auto" height="16px"> [vionia](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass), or enchanted energy, in a playful, entertaining way.  
+The happenings described in the book are meant to create an association with a healthy caution around viona anomalies.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: I've heard this book is often being read to newcomers to [viona corfals](https://ceterai.github.io/MyEnternia/Wiki/vionacorfals), who weren't wary about viona's negative consequences.
+- Alta: I've heard this book is often being read to newcomers to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="Viona Corfal icon" loading="lazy" width="auto" height="16px"> [viona corfals](https://ceterai.github.io/MyEnternia/Wiki/ColorfulPoster), who weren't wary about viona's negative consequences.
 
 Radiomessages on pickup:
 

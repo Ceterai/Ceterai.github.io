@@ -21,7 +21,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Drone Spawner
 
-Constantly spawns <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"> [minidrones](https://ceterai.github.io/MyEnternia/Wiki/Minidrone) when aggroed. Will turn into [empty frigate drone](https://ceterai.github.io/MyEnternia/Wiki/emptyfrigatedrone) on low health by releasing a [defensive drone](https://ceterai.github.io/MyEnternia/Wiki/defensivedrone).  
+Constantly spawns <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/mini.png" alt="Minidrone icon" loading="lazy" width="auto" height="16px"> [minidrones](https://ceterai.github.io/MyEnternia/Wiki/Minidrone) when aggroed. Will turn into empty frigate drone on low health by releasing a [defensive drone](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensiveDrone).  
 It's hard to imagine all these tiny drones are being constructed on the fly.
 
 ### EDS Drone

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-tonna_bowl.png" alt="Tonna Bowl icon" loading="lazy" width="auto" height="16px"> **Tonna Bowl** is an uncommon dish.
 
 This fulfilling dish is relatively easy to make, but requires quite a lot of tonnas and _blue buds_. usually served with a big spoon.  
-While it looks like a lot, most of it is basically whipped [tonna fruit](https://ceterai.github.io/MyEnternia/Wiki/tonnafruit) with blue buds and some spices for texture and flavor.
+While it looks like a lot, most of it is basically whipped [tonna fruit](https://ceterai.github.io/MyEnternia/Wiki/Tonna) with blue buds and some spices for texture and flavor.
 
 ## Ingame
 
@@ -26,7 +26,7 @@ Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-tonna_bowl.png" alt="Tonna Bowl icon" loading="lazy" width="auto" height="16px"> Tonna Bowl x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada) x*1*
-  - `rice` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/d/da/Rice.png" alt="Rice icon" loading="lazy" width="16px" height="16px"> [Rice](https://starbounder.org/Rice) x*1*
 
 Can be bought from merchants:
 

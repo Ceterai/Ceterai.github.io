@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_back/icon.png" alt="EDS Android Defensystem ★ icon" loading="lazy" width="auto" height="16px"> **EDS Android Defensystem ★** is a rare back cosmetic item.
 
-A modularized defense system of an advanced [EDS Android Set](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidSet).
+A modularized defense system of an advanced EDS Android Set.
 
 ## Ingame
 

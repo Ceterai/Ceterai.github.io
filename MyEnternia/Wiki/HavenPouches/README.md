@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_cooked-haven.png" alt="Haven Pouches icon" loading="lazy" width="auto" height="16px"> **Haven Pouches** is a common dish.
 
-Roasted and de-toxicated flower bits of different [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) flowers. Sometimes can be used as a substitute for cooked tsays.  
+Roasted and de-toxicated flower bits of different [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) flowers. Sometimes can be used as a substitute for cooked tsays.  
 In actuality the process of de-toxication happens while and because of proper roasting, which leads to a proper crisp and pleasant taste.
 
 ## Ingame

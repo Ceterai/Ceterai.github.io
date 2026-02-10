@@ -1,10 +1,10 @@
 # Stardust Tag
 
-The tag `stardust` contains 44 total entries.
+The tag `stardust` contains 43 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 21 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 20 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/stardust/icon.png" alt="Alta Stardust Bed icon" loading="lazy" width="auto" height="16px"> [Alta Stardust Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaStardustBed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/secret/artizzi/icon.png" alt="Elu'nya & Ael'tiri Statue icon" loading="lazy" width="auto" height="16px"> [Elu'nya & Ael'tiri Statue](https://ceterai.github.io/MyEnternia/Wiki/Elu'nya&Ael'tiriStatue)
@@ -13,7 +13,6 @@ The tag `stardust` contains 44 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" width="auto" height="16px"> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_prism_crippit.png" alt="Prism Crippit Figurine ★★★ icon" loading="lazy" width="auto" height="16px"> [Prism Crippit Figurine ★★★](https://ceterai.github.io/MyEnternia/Wiki/PrismCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/prism_wing/icon.png" alt="Prism Wing icon" loading="lazy" width="auto" height="16px"> [Prism Wing](https://ceterai.github.io/MyEnternia/Wiki/PrismWing)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-spectral_pod.png" alt="Spectral Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [Spectral Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/SpectralPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_stardust_tree.png" alt="Stardust Ayaka icon" loading="lazy" width="auto" height="16px"> [Stardust Ayaka](https://ceterai.github.io/MyEnternia/Wiki/StardustAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_stardust_crippit.png" alt="Stardust Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Stardust Crippit Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/StardustCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/stardust/ct_stardust_crystal/icon.png" alt="Stardust Crystal icon" loading="lazy" width="auto" height="16px"> [Stardust Crystal](https://ceterai.github.io/MyEnternia/Wiki/StardustCrystal)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yonnur/icon.png" alt="Yonnur Sample icon" loading="lazy" width="auto" height="16px"> **Yonnur Sample** is a rare decorative object.
 
-A perfect sample of a glowing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) juice, preserved in transparent vial on a small titanium pedestal.
+A perfect sample of a glowing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) juice, preserved in transparent vial on a small titanium pedestal.
 
 ## Ingame
 

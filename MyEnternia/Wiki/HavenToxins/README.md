@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" width="auto" height="16px"> **Haven Toxins** is an uncommon codex entry.
 
-The information in this [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) contains descriptions of [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) plants and their toxic nature.  
+The information in this [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) contains descriptions of [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) plants and their toxic nature.  
 According to this data, the nature on stardust planets appears to be on a toxicity spectrum, with regular nature being at the lowest, and haven nature being somewhere in the middle.
 
 ## Ingame
@@ -18,11 +18,11 @@ Radiomessages on pickup:
 
 ### Contents
 
-While [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) nature looks a lot like regular flowery fields, all of those flowers are based on organic materials that are comparably more toxic than regular ionic iora nature.
+While [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) nature looks a lot like regular flowery fields, all of those flowers are based on organic materials that are comparably more toxic than regular ionic iora nature.
 
 That's the main reason why haven growth is never mentioned in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"> [Gyera Park Guides](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide) - it is simply incompatible with the usual contents.
 
-It needs to be mentioned that haven toxins are far less powerful or harmful compared to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) toxins, even when compared to edible <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"> [aric sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings).
+It needs to be mentioned that haven toxins are far less powerful or harmful compared to [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) toxins, even when compared to edible <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"> [aric sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings).
 
 ## Usage
 

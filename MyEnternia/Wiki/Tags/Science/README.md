@@ -1,20 +1,16 @@
 # Science Tag
 
-The tag `science` contains 34 total entries.
+The tag `science` contains 32 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 7 items)</summary>
+Following objects have this colony tag:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_microscope.png" alt="Alta Lab Microscope icon" loading="lazy" width="auto" height="16px"> [Alta Lab Microscope](https://ceterai.github.io/MyEnternia/Wiki/AltaLabMicroscope)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_monitor.png" alt="Alta Lab Monitor icon" loading="lazy" width="auto" height="16px"> [Alta Lab Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaLabMonitor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/tanks/icon.png" alt="Alta Lab Tanks icon" loading="lazy" width="auto" height="16px"> [Alta Lab Tanks](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTanks)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/sample/icon.png" alt="Gheatsyn Sample icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Sample](https://ceterai.github.io/MyEnternia/Wiki/GheatsynSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/tank/icon.png" alt="Gheatsyn Tank icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Tank](https://ceterai.github.io/MyEnternia/Wiki/GheatsynTank)
-
-</details>
 
 ### Vanilla Objects
 

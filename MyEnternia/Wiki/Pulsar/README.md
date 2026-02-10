@@ -14,22 +14,22 @@ Radiomessages on pickup:
 
 ### Pulsar Charge
 
-Creates semiauto bursts of [Impulse Charges](https://ceterai.github.io/MyEnternia/Wiki/ImpulseCharges) using <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) energy.
+Creates semiauto bursts of Impulse Charges using <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) energy.
 
 Parameters:
 
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 0.65
-- Press Type: `semi`
+- Hold Time Max:
+- Hold Time Min: 0.9
 - Press Params:
   - Type: `ct_impulse_medium`
   - Inaccuracy: 0.04
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
-- Hold Time Min: 0.9
-- Hold Time Max:
+- Press Type: `semi`
 
 ### Twin Pulse
 
@@ -42,14 +42,14 @@ Parameters:
 - Base Dps: 10
 - Energy Usage: 40
 - Fire Time: 0.9
-- Press Type: `rocket`
-- Press Params:
-  - Type: `ct_impulse_large`
-- Hold Type: `burst`
 - Hold Params:
   - Type: `ct_impulse_large`
   - Inaccuracy: 0.21
   - Count: 3
+- Hold Type: `burst`
+- Press Params:
+  - Type: `ct_impulse_large`
+- Press Type: `rocket`
 
 ## Sources
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" width="auto" height="16px"> **Ayaka Loot Crate** is a common loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) forest pods.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) forest pods.  
 It mostly includes ayaka biproducts, like aya powder and ayaka sap, but can also hold rare finds and aya-based prepared dishes.
 
 ## Ingame

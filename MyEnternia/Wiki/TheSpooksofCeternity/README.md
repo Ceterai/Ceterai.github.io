@@ -23,13 +23,13 @@ It's the spooky season!
 
 The Hallowing Ceternity wouldn't be complete without its cast of spooky characters! From mysterious beings to mischievous candy thieves, here's your guide to the (mostly!) friendly faces of the spook night.
 
-[Ceternity - The Heart of Spooks](https://ceterai.github.io/MyEnternia/Wiki/Ceternity-TheHeartofSpooks)
+Ceternity - The Heart of Spooks
 
 The holiday's namesake! Ceternity appears as an abstract, colorful face on posters and decorations throughout alta cities.
 
 No one knows what Ceternity really is - a being? A concept? An aesthetic? But everyone agrees it's the perfect symbol for spooky season!
 
-[Stardust Orchid - Candy Thief!](https://ceterai.github.io/MyEnternia/Wiki/StardustOrchid-CandyThief!)
+Stardust Orchid - Candy Thief!
 
 Watch your treats! The Orchid loves to trick silly altas and steal their Ceternity candies.
 
@@ -37,40 +37,40 @@ If you see mysterious stardust sparkles near your candy stash, she's probably ne
 
 Candies often feature protective wrappers designed to keep Ceternity and Orchid away from your precious sweets. Whether these actually work is... debatable. But they look cute!
 
-[Shadows - Ghostly Guests](https://ceterai.github.io/MyEnternia/Wiki/Shadows-GhostlyGuests)
+Shadows - Ghostly Guests
 
-During Ceternity, altas invite [shadows](https://ceterai.github.io/MyEnternia/Wiki/shadows) to join celebrations! These ghostly void creatures fit perfectly into the spooky atmosphere.
+During Ceternity, altas invite [shadows](https://starbounder.org/Shadow) to join celebrations! These ghostly void creatures fit perfectly into the spooky atmosphere.
 
 Their civilization remains mysterious, but encounters are usually positive - especially when expected! Perfect party guests for spooky season~
 
-[Spooksmen - Professional Scares](https://ceterai.github.io/MyEnternia/Wiki/Spooksmen-ProfessionalScares)
+Spooksmen - Professional Scares
 
 These outer space experts in creating eerie atmospheres collaborate with altas to enhance Ceternity! Known for their professional scaring skills, spooksmen add extra excitement and mystery to celebrations.
 
 They take spookiness seriously - but in a fun way!
 
-[Jack O' Lanterns - Glowing Guardians](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lanterns-GlowingGuardians)
+Jack O' Lanterns - Glowing Guardians
 
-[Neonjacks](https://ceterai.github.io/MyEnternia/Wiki/Neonjacks) (carved neonmelons) glow teal-green, while [Yaajacks](https://ceterai.github.io/MyEnternia/Wiki/Yaajacks) (carved yaara melons) glow orange. Both use natural internal light to create eerie illumination!
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Neonjack icon" loading="lazy" width="auto" height="16px"> [Neonjacks](https://ceterai.github.io/MyEnternia/Wiki/Neonjack) (carved neonmelons) glow teal-green, while <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Yaajack icon" loading="lazy" width="auto" height="16px"> [Yaajacks](https://ceterai.github.io/MyEnternia/Wiki/Yaajack) (carved yaara melons) glow orange. Both use natural internal light to create eerie illumination!
 
 These bioluminescent lanterns line streets and doorways, keeping the spooky atmosphere alive all night long.
 
-[Nightmare Creatures](https://ceterai.github.io/MyEnternia/Wiki/NightmareCreatures)
+Nightmare Creatures
 
 Rare spooky variants of familiar creatures appear during Ceternity season:
 
-[Nightmare Orbides](https://ceterai.github.io/MyEnternia/Wiki/NightmareOrbides) - their limping is the only thing you'll hear in the dark
-[Nightmare Anglures](https://ceterai.github.io/MyEnternia/Wiki/NightmareAnglures) - only their mysterious light visible at night
+Nightmare Orbides - their limping is the only thing you'll hear in the dark
+Nightmare Anglures - only their mysterious light visible at night
 
 They're more terrifying than usual, but still part of the fun!
 
-[Costume Strategy](https://ceterai.github.io/MyEnternia/Wiki/CostumeStrategy)
+Costume Strategy
 
 Here's the secret: dress in scary costumes so the spooks think you're one of them! They'll share their candy instead of stealing yours.
 
 Elegant dark dresses, vampire costumes, witch robes - anything spooky works! The better your costume, the more treats you might receive~
 
-[Lighthearted Spooks](https://ceterai.github.io/MyEnternia/Wiki/LightheartedSpooks)
+Lighthearted Spooks
 
 Despite all the eerie atmosphere and mysterious beings, Ceternity remains a cheerful celebration! The spooks are friendly, the scares are fun, and everyone's here to enjoy the season.
 
@@ -86,15 +86,15 @@ So don't be afraid - embrace the spookiness and join the party! Just maybe keep 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_ceternity_poster.png" alt="Ceternity Poster icon" loading="lazy" width="auto" height="16px"> [Ceternity Poster](https://ceterai.github.io/MyEnternia/Wiki/CeternityPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"> [Halloween Poster](https://ceterai.github.io/MyEnternia/Wiki/HalloweenPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_harrowing_poster.png" alt="Harrowing Poster icon" loading="lazy" width="auto" height="16px"> [Harrowing Poster](https://ceterai.github.io/MyEnternia/Wiki/HarrowingPoster)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_miazma_candy.png" alt="Miazma Candy icon" loading="lazy" width="auto" height="16px"> [Miazma Candy](https://ceterai.github.io/MyEnternia/Wiki/MiazmaCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Neonjack icon" loading="lazy" width="auto" height="16px"> [Neonjack](https://ceterai.github.io/MyEnternia/Wiki/Neonjack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_neonjack_candy.png" alt="Neonjack Candy icon" loading="lazy" width="auto" height="16px"> [Neonjack Candy](https://ceterai.github.io/MyEnternia/Wiki/NeonjackCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"> [Orchid Candy](https://ceterai.github.io/MyEnternia/Wiki/OrchidCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_pumpkin_candy.png" alt="Orchid's Pumpkin Candy icon" loading="lazy" width="auto" height="16px"> [Orchid's Pumpkin Candy](https://ceterai.github.io/MyEnternia/Wiki/Orchid'sPumpkinCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_spider_candy.png" alt="Spidy Candy icon" loading="lazy" width="auto" height="16px"> [Spidy Candy](https://ceterai.github.io/MyEnternia/Wiki/SpidyCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_candy.png" alt="Warpy Candy icon" loading="lazy" width="auto" height="16px"> [Warpy Candy](https://ceterai.github.io/MyEnternia/Wiki/WarpyCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Yaajack icon" loading="lazy" width="auto" height="16px"> [Yaajack](https://ceterai.github.io/MyEnternia/Wiki/Yaajack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_yaajack_candy.png" alt="Yaajack Candy icon" loading="lazy" width="auto" height="16px"> [Yaajack Candy](https://ceterai.github.io/MyEnternia/Wiki/YaajackCandy)
 
 </details>
@@ -103,6 +103,7 @@ So don't be afraid - embrace the spookiness and join the party! Just maybe keep 
 
 Blueprint unlocked by obtaining:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/festive_station/icon.png" alt="Alta Festive Station icon" loading="lazy" width="auto" height="16px"> [Alta Festive Station](https://ceterai.github.io/MyEnternia/Wiki/AltaFestiveStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
 
 Can be crafted:

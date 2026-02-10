@@ -1,6 +1,6 @@
 # Candy Tag
 
-The tag `candy` contains 8 total entries.
+The tag `candy` contains 9 total entries.
 
 ## Objects
 
@@ -8,9 +8,10 @@ The tag `candy` contains 8 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_ceternity_candy.png" alt="Ceternity Candy icon" loading="lazy" width="auto" height="16px"> [Ceternity Candy](https://ceterai.github.io/MyEnternia/Wiki/CeternityCandy)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_miazma_candy.png" alt="Miazma Candy icon" loading="lazy" width="auto" height="16px"> [Miazma Candy](https://ceterai.github.io/MyEnternia/Wiki/MiazmaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_neonjack_candy.png" alt="Neonjack Candy icon" loading="lazy" width="auto" height="16px"> [Neonjack Candy](https://ceterai.github.io/MyEnternia/Wiki/NeonjackCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"> [Orchid Candy](https://ceterai.github.io/MyEnternia/Wiki/OrchidCandy)

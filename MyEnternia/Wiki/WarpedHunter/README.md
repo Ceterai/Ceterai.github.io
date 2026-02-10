@@ -20,10 +20,10 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Projectile Type: `poisonarrow`
 - Power Projectile Type: `chargedpoisonarrow`
 - Projectile Parameters:
   - Power: 6.5
+- Projectile Type: `poisonarrow`
 
 ### Secondary Ability
 
@@ -31,11 +31,11 @@ Alternative ability of the item, activated with right mouse button.
 
 Parameters:
 
-- Projectile Type: `poisonarrow`
 - Projectile Parameters:
   - Power: 8.125
-- Split Delay: 0.2
+- Projectile Type: `poisonarrow`
 - Split Angle: 2
+- Split Delay: 0.2
 
 ## Sources
 

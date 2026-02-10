@@ -26,11 +26,11 @@ Parameters:
 - Base Dps: 9
 - Energy Usage: 36
 - Fire Time: 0.5
-- Press Type: `burst`
+- Hold Time Max:
 - Press Params:
   - Type: `ct_impulse_medium`
   - Count: 5
-- Hold Time Max:
+- Press Type: `burst`
 
 ### Troposwitch
 
@@ -40,14 +40,14 @@ Hold - perform an Impulse Discharge.
 
 Parameters:
 
+- Attachments:  `none`,  `flashlight`,  `stabilizer`
 - Base Dps: 9
 - Energy Usage: 40
 - Fire Time: 0.1
-- Hold Type: `discharge`
 - Hold Params:
   - Type: `ct_impulse_wave_blast`
+- Hold Type: `discharge`
 - Press Attachments: `True`
-- Attachments:  `none`,  `flashlight`,  `stabilizer`
 
 ## Sources
 

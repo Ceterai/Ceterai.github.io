@@ -21,7 +21,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### EDS Battle Machine
 
-Will fire semi-auto bursts of 3 [Ionic Charges](https://ceterai.github.io/MyEnternia/Wiki/IonicCharges) when in range. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+Will fire semi-auto bursts of 3 Ionic Charges when in range. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
 A standard EDS set of combat machine capabilities.
 
 ### Basic Drone

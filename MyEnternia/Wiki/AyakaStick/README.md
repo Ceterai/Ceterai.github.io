@@ -18,8 +18,8 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Time: 0.67
 - Base Dps: 6
+- Fire Time: 0.67
 
 ## Sources
 

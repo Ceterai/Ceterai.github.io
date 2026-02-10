@@ -9,7 +9,7 @@ While it doesn't possess any actual combative power, it's still very useful and 
 
 Species descriptions:
 
-- Alta: Probably the most common drei model out there. Even some [personal drone](https://ceterai.github.io/MyEnternia/Wiki/personaldrone) models are based off of it.
+- Alta: Probably the most common drei model out there. Even some personal drone models are based off of it.
 
 Radiomessages on pickup:
 

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-cryo.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> **Cryo Jam** is an uncommon dish.
 
 This izo jam turned out colder and purer than usual. Some say it tastes much better this way. Can be used as a substitute for izo jam.  
-Can also be used as a substitute for actual [izon](https://ceterai.github.io/MyEnternia/Wiki/izon), you're smart enough. Or brave enough.
+Can also be used as a substitute for actual [izon](https://ceterai.github.io/MyEnternia/Wiki/Isoslime#izon), you're smart enough. Or brave enough.
 
 ## Ingame
 
@@ -22,6 +22,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" width="auto" height="16px"> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart)
 
 ## Sources
+
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam).
 
 Can be crafted:
 

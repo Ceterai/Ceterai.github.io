@@ -19,9 +19,10 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Impulse Blast
 
-Main ability of the item, activated with left mouse button.
+An improved core allows for optimized energy manipulation.
+Firemodes: charge, semiauto, single.
 
 Parameters:
 
@@ -53,14 +54,16 @@ Parameters:
       - Inaccuracy: 0.005
     - Hold Time Max:
 
-### Secondary Ability
+### Security Switch Mk2
 
-Alternative ability of the item, activated with right mouse button.
+Adapted tool body offers more options.
+Press - change attachments: none, laser, stabilizer (x1.25 dmg);
+Hold - change firemodes.
 
 Parameters:
 
-- Fire Types:  `charge`,  `semi`,  `single`
 - Attachments:  `none`,  `laser`,  `stabilizer`
+- Fire Types:  `charge`,  `semi`,  `single`
 
 ## Sources
 

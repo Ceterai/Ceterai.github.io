@@ -26,11 +26,13 @@ Each combo hit of this tool collect energy and releases it in form of electric b
 
 Parameters:
 
-- Power: 4
 - Base Dps: 4
-- Fire Time: 1.0
 - Energy Usage: 30
+- Fire Time: 1.0
 - Hold Energy Usage: 30
+- Power: 4
+- Projectile Parameters:
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
 - Step Damage Config: 
 - Base Damage Factor: 1.35
 - Knockback: 5, 
@@ -42,8 +44,6 @@ Parameters:
 - Knockback: 15
 - Status Effects:  `paralysis`
 - Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
-- Projectile Parameters:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
 
 ### Alternia Discharge
 
@@ -52,10 +52,10 @@ This process creates special energy circulation dynamic that fills the air aroun
 
 Parameters:
 
-- Power: 4
-- Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
 - Damage Config:
   - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_intension/ct_intension.png" alt="Intension icon" loading="lazy" width="auto" height="16px"> [Intension](https://ceterai.github.io/MyEnternia/Wiki/Intension)
+- Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
+- Power: 4
 - Projectile Parameters:
   - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
 

@@ -19,15 +19,15 @@ Radiomessages on pickup:
 
 ### Dual Blast
 
-Able to switch resulting energy from [plasma balls](https://ceterai.github.io/MyEnternia/Wiki/plasmaballs) to accelerated [ions](https://ceterai.github.io/MyEnternia/Wiki/ions).
+Able to switch resulting energy from plasma balls to accelerated ions.
 Firemodes: [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic).
 
 Parameters:
 
-- Fire Time: 0.1
 - Base Dps: 9
-- Energy Usage: 36
 - Default Fire Type: `plasma`
+- Energy Usage: 36
+- Fire Time: 0.1
 - Fire Types:
   - Plasma:
     - Press Type: `blast`
@@ -50,8 +50,8 @@ Hold - change firemodes.
 
 Parameters:
 
-- Fire Types:  `plasma`,  `ionic`
 - Attachments:  `none`,  `laser`,  `stabilizer`
+- Fire Types:  `plasma`,  `ionic`
 
 ## Sources
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/core/icon.png" alt="C.T. Energy Core icon" loading="lazy" width="auto" height="16px"> **C.T. Energy Core** is a legendary enviro protection pack.
 
-This back part of the [C.T. Set](https://ceterai.github.io/MyEnternia/Wiki/C.T.Set) generates additional energy for the wearer. Has an augment slot.
+This back part of the C.T. Set generates additional energy for the wearer. Has an augment slot.
 
 ## Ingame
 

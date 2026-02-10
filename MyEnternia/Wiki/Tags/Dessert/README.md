@@ -1,6 +1,6 @@
 # Dessert Tag
 
-The tag `dessert` contains 55 total entries.
+The tag `dessert` contains 57 total entries.
 
 ## Objects
 
@@ -8,11 +8,12 @@ The tag `dessert` contains 55 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 55 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 57 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" width="auto" height="16px"> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alliana_cake-love.png" alt="Alliana's Love ★ icon" loading="lazy" width="auto" height="16px"> [Alliana's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Alliana'sLove)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_icecream-warped.png" alt="Archi Ice Cream icon" loading="lazy" width="auto" height="16px"> [Archi Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/ArchiIceCream)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" width="auto" height="16px"> [Aya Candy](https://ceterai.github.io/MyEnternia/Wiki/AyaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" width="auto" height="16px"> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_candy-pop.png" alt="Aya Pop ★ icon" loading="lazy" width="auto" height="16px"> [Aya Pop ★](https://ceterai.github.io/MyEnternia/Wiki/AyaPop)
@@ -31,6 +32,7 @@ The tag `dessert` contains 55 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" width="auto" height="16px"> [Crystal Cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Crystal Ice Cream icon" loading="lazy" width="auto" height="16px"> [Crystal Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/CrystalIceCream)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_onitti_cake-love.png" alt="Elin's Love ★ icon" loading="lazy" width="auto" height="16px"> [Elin's Love ★](https://ceterai.github.io/MyEnternia/Wiki/Elin'sLove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_candy-gheatsyn.png" alt="Ghea Candy icon" loading="lazy" width="auto" height="16px"> [Ghea Candy](https://ceterai.github.io/MyEnternia/Wiki/GheaCandy)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_icecream-dessert.png" alt="Iced Aya Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Iced Aya Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedAyaDessert)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_icecream-dessert.png" alt="Iced Crystal Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Iced Crystal Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedCrystalDessert)

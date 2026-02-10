@@ -1,15 +1,14 @@
 # Enternia Tag
 
-The tag `enternia` contains 15 total entries.
+The tag `enternia` contains 14 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 6 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enhancedmoonrock/icon.png" alt="Enhanced Moonrock icon" loading="lazy" width="auto" height="16px"> [Enhanced Moonrock](https://ceterai.github.io/MyEnternia/Wiki/EnhancedMoonrock)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enterite_sample/icon.png" alt="Enterite Sample icon" loading="lazy" width="auto" height="16px"> [Enterite Sample](https://ceterai.github.io/MyEnternia/Wiki/EnteriteSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/pod/icon.png" alt="Enternia Eco Pod ★★ icon" loading="lazy" width="auto" height="16px"> [Enternia Eco Pod ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaEcoPod)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-enternia_sample.png" alt="Enternia Geode Sample icon" loading="lazy" width="auto" height="16px"> [Enternia Geode Sample](https://ceterai.github.io/MyEnternia/Wiki/EnterniaGeodeSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/enternia/icon.png" alt="Enternia Sample ★★ icon" loading="lazy" width="auto" height="16px"> [Enternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/sapling/icon.png" alt="Enternia Sapling icon" loading="lazy" width="auto" height="16px"> [Enternia Sapling](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/enternia/icon.png" alt="Enternia Seed icon" loading="lazy" width="auto" height="16px"> [Enternia Seed](https://ceterai.github.io/MyEnternia/Wiki/EnterniaSeed)

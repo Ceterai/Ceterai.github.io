@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> **Tonna** is a common throwable item.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" width="16" height="16"/> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova) fruit. Feels lighter than a coconut. You can throw it at someone or cook it!  
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova) fruit. Feels lighter than a coconut. You can throw it at someone or cook it!  
 Botanically speaking, this fruit is a nut. It has an outer semi-hard shell and a detached, soft white inside pulp, full of tonnova milk and nutrients.  
 The pulp has a soft, slightly sweet taste that turns into a porrige-like taste during cooking. This is why **tonna porriges** are a thing and are quite popular in the [nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#nia).
 
@@ -20,13 +20,14 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 10 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_calin_fertilizer.png" alt="Calin Fertilizer ★ icon" loading="lazy" width="auto" height="16px"> [Calin Fertilizer ★](https://ceterai.github.io/MyEnternia/Wiki/CalinFertilizer)
 - `ct_alta_crafting_station8`
 - `ct_food_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_fivaldo_salad.png" alt="Fival'do Salad icon" loading="lazy" width="auto" height="16px"> [Fival'do Salad](https://ceterai.github.io/MyEnternia/Wiki/Fival'doSalad)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" width="auto" height="16px"> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)
+- <img src="https://starbounder.org/mediawiki/images/c/c7/Coconut_Milk.png" alt="Milk icon" loading="lazy" width="12px" height="16px"> [Milk](https://starbounder.org/Coconut_Milk)
 - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" width="auto" height="16px"> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)

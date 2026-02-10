@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_crystal_tree.png" alt="Crystal Ayaka icon" loading="lazy" width="auto" height="16px"> **Crystal Ayaka** is an uncommon tree sapling.
 
-This [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) has overgrown with <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal). This can usually happen in crystallic or crystal-rich environments.
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/plants/trees/ct_ayaka/foliage/ct_ayaka_foliage_blue/icon.png" alt="Ayaka Tree icon" loading="lazy" width="auto" height="16px"> [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) has overgrown with <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal). This can usually happen in crystallic or crystal-rich environments.
 
 ## Ingame
 

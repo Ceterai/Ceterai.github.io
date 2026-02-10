@@ -19,9 +19,9 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/and.png:default.1" alt="Alta Logic - AND icon" loading="lazy" width="auto" height="16px"> [Alta Logic - AND](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-AND) x*2* (weight: 0.5)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/or.png:default.1" alt="Alta Logic - OR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - OR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-OR) x*2* (weight: 0.5)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor.png:default.1" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - XOR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-XOR) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/and_tiled.png" alt="Alta Logic - AND icon" loading="lazy" width="auto" height="16px"> [Alta Logic - AND](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-AND) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/or_tiled.png" alt="Alta Logic - OR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - OR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-OR) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor_tiled.png" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - XOR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-XOR) x*2* (weight: 0.5)
 
 ## Technical Information
 

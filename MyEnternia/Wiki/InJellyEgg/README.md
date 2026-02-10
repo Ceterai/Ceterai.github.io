@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_in_jelly_egg.png" alt="In Jelly Egg icon" loading="lazy" width="auto" height="16px"> **In Jelly Egg** is a common throwable item.
 
-Can be used to spawn a jelly called [in jelly](https://ceterai.github.io/MyEnternia/Wiki/injelly), or a "cave" jelly in alkey.  
+Can be used to spawn a jelly called in jelly, or a "cave" jelly in alkey.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame

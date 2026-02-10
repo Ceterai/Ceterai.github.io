@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"> **Ararang** is a rare one-handed poisonous boomerang.
 
-Made out of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) tissue, it glows dimly in the dark. Watch out for spores!
+Made out of [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) tissue, it glows dimly in the dark. Watch out for spores!
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang_2.png" alt="Ararangarang ★ icon" loading="lazy" width="auto" height="16px"> [Ararangarang ★](https://ceterai.github.io/MyEnternia/Wiki/Ararangarang) at the Weapon Upgrade Anvil.
 
@@ -23,13 +23,13 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.6
-- Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"> [Ararang](https://ceterai.github.io/MyEnternia/Wiki/Ararang)
 - Params:
   - Knockback:
   - Ignore Terrain:
   - Control Force: 30
   - Pickup Distance: 1.0
   - Snap Distance: 2.0
+- Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"> [Ararang](https://ceterai.github.io/MyEnternia/Wiki/Ararang)
 
 ## Sources
 

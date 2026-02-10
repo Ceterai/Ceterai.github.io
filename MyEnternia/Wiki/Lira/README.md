@@ -24,17 +24,17 @@ You can hear harmonical humming coming from this instrument.
 
 Parameters:
 
-- Fire Time: 0.6
 - Base Dps: 12
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
-- Hold Damage Multiplier: 0.1
+- Fire Time: 0.6
 - Hold Damage Config:
   - Timeout Group: `hold`
   - Timeout: 0.5
+- Hold Damage Multiplier: 0.1
 
 ### Melody Of The Stars
 
@@ -44,11 +44,6 @@ Perhaps this isn't a very intended feature, but a very useful one instead.
 Parameters:
 
 - Base Dps: 11
-- Fire Time: 0.2
-- Energy Usage: 40
-- Damage Config:
-  - Damage Source Kind: `plasma`
-  - Knockback: 2
 - Beam Length: 50
 - Chain:
   - Start Offset: 
@@ -64,6 +59,11 @@ Parameters:
     - Movement:
   - Fullbright: `True`
   - Light:  249,  21,  207
+- Damage Config:
+  - Damage Source Kind: `plasma`
+  - Knockback: 2
+- Energy Usage: 40
+- Fire Time: 0.2
 
 ## Sources
 

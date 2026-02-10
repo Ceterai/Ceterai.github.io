@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/images/ct_alternia_cocktail.png" alt="Alternia Cocktail icon" loading="lazy" width="auto" height="16px"> **Alternia Cocktail** is a legendary drink.
 
-A nice middleground. You could say the same about the taste, but a lot of [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) like it this way.  
+A nice middleground. You could say the same about the taste, but a lot of [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) like it this way.  
 This drink feels surprisingly thick and fulfilling, making sure to spread accross your tongue to engage as much taste buds as possible.
 
 ## Ingame
@@ -12,6 +12,8 @@ Species descriptions:
 - Alta: If you get this option, be sure not to drink it all at once, because what's the point then.
 
 ## Sources
+
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" width="auto" height="16px"> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail).
 
 Can be crafted:
 

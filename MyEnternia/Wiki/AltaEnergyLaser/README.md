@@ -13,11 +13,6 @@ Main ability of the item, activated with left mouse button.
 Parameters:
 
 - Beam Length: 20
-- Cooldown Time: 0.5
-- Energy Usage: 20.0
-- Damage Interval: 0.1
-- Tile Damage: 20.0
-- Harvest Level: 99
 - Chain:
   - Start Offset: 
   - Segment Image: `/items/active/alta/tools/mine/energy_drill/beam/beam.png`
@@ -31,6 +26,11 @@ Parameters:
     - Movement: 80.0
   - Fullbright: `True`
   - Light:  135,  91,  84
+- Cooldown Time: 0.5
+- Damage Interval: 0.1
+- Energy Usage: 20.0
+- Harvest Level: 99
+- Tile Damage: 20.0
 
 ## Sources
 

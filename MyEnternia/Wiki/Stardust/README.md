@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> **Stardust** is a legendary crafting material.
 
 Put in a bowl and carefully mixed together.  
-This mysterious and powerful powder, also known as **Staris** by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), is the energy matter of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io). When a star explodes, the energy from it bursts in every direction, eventually crystallizing and forming tiny specks, filled with different types of [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy).  
+This mysterious and powerful powder, also known as **Staris** by [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta), is the energy matter of [Io](https://ceterai.github.io/MyEnternia/Wiki/Io). When a star explodes, the energy from it bursts in every direction, eventually crystallizing and forming tiny specks, filled with different types of [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy).  
 Read a related codex for more: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta History - From A Speck icon" loading="lazy" width="auto" height="16px"> [Alta History - From A Speck](https://ceterai.github.io/MyEnternia/Wiki/AltaHistory-FromASpeck)
 
 ## Ingame
@@ -20,7 +20,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" width="auto" height="16px"> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 156 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 157 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" width="auto" height="16px"> [A.R.C.O. Emblem](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Emblem)
@@ -96,6 +96,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_gheatsyn_crippit.png" alt="Gheatsyn Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Crippit Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/GheatsynCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/GheatsynLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/other/gsr.png" alt="GSR Pod ★★★ icon" loading="lazy" width="auto" height="16px"> [GSR Pod ★★★](https://ceterai.github.io/MyEnternia/Wiki/GSRPod)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Happy Ava Day! ❤ icon" loading="lazy" width="auto" height="16px"> [Happy Ava Day! ❤](https://ceterai.github.io/MyEnternia/Wiki/HappyAvaDay!)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_hevika_augment.png" alt="Hevika Augment ★ icon" loading="lazy" width="auto" height="16px"> [Hevika Augment ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_hevika_crippit.png" alt="Hevika Crippit Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Hevika Crippit Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/HevikaCrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" width="auto" height="16px"> [Hevika Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/HevikaLootCrate)

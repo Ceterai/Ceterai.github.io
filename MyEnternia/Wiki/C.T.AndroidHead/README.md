@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/android_head/icon.png" alt="C.T. Android Head ★ icon" loading="lazy" width="auto" height="16px"> **C.T. Android Head ★** is a legendary head armor piece.
 
-A head of a heavy android prototype for the [C.T. Android Set](https://ceterai.github.io/MyEnternia/Wiki/C.T.AndroidSet) series.
+A head of a heavy android prototype for the C.T. Android Set series.
 
 ## Ingame
 

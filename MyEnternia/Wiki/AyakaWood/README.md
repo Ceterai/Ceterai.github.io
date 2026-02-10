@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> **Ayaka Wood** is a common crafting material.
 
-A piece of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood. Can be converted into regular wood or used as a crafting material due to good energy isolation.  
+A piece of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood. Can be converted into regular wood or used as a crafting material due to good energy isolation.  
 This wood type is pretty soft and is full of ions and other useful materials, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [ionic ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment), which acts as sap for this wood.  
 Read more about this: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" width="auto" height="16px"> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
 
@@ -22,7 +22,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
 - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 126 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 132 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="A Perfect Riverside Date icon" loading="lazy" width="auto" height="16px"> [A Perfect Riverside Date](https://ceterai.github.io/MyEnternia/Wiki/APerfectRiversideDate)
@@ -95,6 +95,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/watering_can/icon.png" alt="Alta Watering Can icon" loading="lazy" width="auto" height="16px"> [Alta Watering Can](https://ceterai.github.io/MyEnternia/Wiki/AltaWateringCan)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon.png" alt="Altan Watercan icon" loading="lazy" width="auto" height="16px"> [Altan Watercan](https://ceterai.github.io/MyEnternia/Wiki/AltanWatercan)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_yaara_art.png" alt="Among The Grove icon" loading="lazy" width="auto" height="16px"> [Among The Grove](https://ceterai.github.io/MyEnternia/Wiki/AmongTheGrove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_poster.png" alt="Ava Day Poster icon" loading="lazy" width="auto" height="16px"> [Ava Day Poster](https://ceterai.github.io/MyEnternia/Wiki/AvaDayPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pots/basic/icon.png" alt="Ayaka Flower Pot icon" loading="lazy" width="auto" height="16px"> [Ayaka Flower Pot](https://ceterai.github.io/MyEnternia/Wiki/AyakaFlowerPot)
@@ -109,6 +110,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_abstract_art.png" alt="Enchanted Sunset icon" loading="lazy" width="auto" height="16px"> [Enchanted Sunset](https://ceterai.github.io/MyEnternia/Wiki/EnchantedSunset)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/energy_mask/icon.png" alt="Energy Mask icon" loading="lazy" width="auto" height="16px"> [Energy Mask](https://ceterai.github.io/MyEnternia/Wiki/EnergyMask)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/love/icon.png" alt="Estria's Bow icon" loading="lazy" width="auto" height="16px"> [Estria's Bow](https://ceterai.github.io/MyEnternia/Wiki/Estria'sBow)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_felistraza_art.png" alt="Felistraza Beauty icon" loading="lazy" width="auto" height="16px"> [Felistraza Beauty](https://ceterai.github.io/MyEnternia/Wiki/FelistrazaBeauty)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Flower Lover's Guide icon" loading="lazy" width="auto" height="16px"> [Flower Lover's Guide](https://ceterai.github.io/MyEnternia/Wiki/FlowerLover'sGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_flowery_grass_seeds.png" alt="Flowery Grass Seeds icon" loading="lazy" width="auto" height="16px"> [Flowery Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/FloweryGrassSeeds)
@@ -134,9 +137,12 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/science_pack/icon.png" alt="Scientific Backpack icon" loading="lazy" width="auto" height="16px"> [Scientific Backpack](https://ceterai.github.io/MyEnternia/Wiki/ScientificBackpack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/science_ocular/icon.png" alt="Scientific Visor icon" loading="lazy" width="auto" height="16px"> [Scientific Visor](https://ceterai.github.io/MyEnternia/Wiki/ScientificVisor)
 - <img src="https://starbounder.org/mediawiki/images/9/9f/Silk_Fibre.png" alt="Silk Fibre icon" loading="lazy" width="15px" height="14px"> [Silk Fibre](https://starbounder.org/Silk_Fibre)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta1/icon.png" alt="Snowalta icon" loading="lazy" width="auto" height="16px"> [Snowalta](https://ceterai.github.io/MyEnternia/Wiki/Snowalta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sona_poster.png" alt="Sona Poster icon" loading="lazy" width="auto" height="16px"> [Sona Poster](https://ceterai.github.io/MyEnternia/Wiki/SonaPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowglobe1/icon.png" alt="Sonaglobe icon" loading="lazy" width="auto" height="16px"> [Sonaglobe](https://ceterai.github.io/MyEnternia/Wiki/Sonaglobe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sonaveil_poster.png" alt="Sonaveil Poster icon" loading="lazy" width="auto" height="16px"> [Sonaveil Poster](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowglobe2/icon.png" alt="Sonaveil Sonaglobe icon" loading="lazy" width="auto" height="16px"> [Sonaveil Sonaglobe](https://ceterai.github.io/MyEnternia/Wiki/SonaveilSonaglobe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_alta_scout_art.png" alt="Speed And Safety icon" loading="lazy" width="auto" height="16px"> [Speed And Safety](https://ceterai.github.io/MyEnternia/Wiki/SpeedAndSafety)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_aric_art.png" alt="The Great Friendly Aric icon" loading="lazy" width="auto" height="16px"> [The Great Friendly Aric](https://ceterai.github.io/MyEnternia/Wiki/TheGreatFriendlyAric)
@@ -195,6 +201,11 @@ Can be obtained from special items:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_young_tree.png" alt="Young Ayaka icon" loading="lazy" width="auto" height="16px"> [Young Ayaka](https://ceterai.github.io/MyEnternia/Wiki/YoungAyaka)
 
 </details>
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta1/icon.png" alt="Snowalta icon" loading="lazy" width="auto" height="16px"> [Snowalta](https://ceterai.github.io/MyEnternia/Wiki/Snowalta)
 
 Drops from destroyed obstacles:
 

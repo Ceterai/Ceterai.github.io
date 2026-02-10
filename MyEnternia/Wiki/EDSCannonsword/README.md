@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore_2.png" alt="EDS Cannonsword ★ icon" loading="lazy" width="auto" height="16px"> **EDS Cannonsword ★** is a legendary two-handed broadsword.
 
 This weapon is now a powerful device that can hold any threat back, no matter how far away it is.  
-The enhanced CDR is now able to launch powerful [EDS rockets](https://ceterai.github.io/MyEnternia/Wiki/EDSrockets) at the targets. Packed with the _Litera-7_ homing system, it's able to find it target after a charge.
+The enhanced CDR is now able to launch powerful EDS rockets at the targets. Packed with the _Litera-7_ homing system, it's able to find it target after a charge.
 
 _Centar Thruster_ is what causing the weapon to propell forward, with the use of mentioned rockets as push charges.
 
@@ -21,38 +21,16 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Bastion Stand
 
-A sequence of 4 _(+1)_ heavy strikes. Hold to perform a [rising slash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Rising-Slash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).
+A sequence of 4 _(+1)_ heavy strikes. Hold to perform a [Rising Slash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Rising-Slash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).
 
 Parameters:
 
+- Base Dps: 12
+- Energy Usage: 32
+- Fire Time: 1.1
 - Hold Params:
   - Cooldown Time: 0.2
   - Energy Factor: 1.0
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor:
-- Knockback: 20.0
-- Swoosh: `swoosh1`
-- Swoosh Offset:  0.75, ,  4.25,  5.0, 
-- Damage Factor: 0.6
-- Energy Factor:
-- Knockback: 15.0
-- Swoosh: `swoosh2`
-- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0, 
-- Damage Factor: 1.2
-- Energy Factor:
-- Knockback: 25.0
-- Swoosh: `swoosh3`
-- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0, 
-- Damage Factor: 1.6
-- Energy Factor:
-- Knockback: 35.0
-- Swoosh: `swoosh1`
-- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
-- Swoosh Sound: `primary_hold`
-- Energy Usage: 32
-- Base Dps: 12
-- Fire Time: 1.1
 
 ### Elerune CDR Barrage
 
@@ -60,16 +38,17 @@ Launches stabilizing Ion Rockets that deal electric damage. _Press for 1 or hold
 
 Parameters:
 
+- Base Dps: 9
+- Energy Usage: 36
+- Fire Time: 1.2
 - Hold Params:
-  - Params:
-    - Time To Live: 5.0
-    - Knockback: 15
   - Count: 3
   - Type: `ct_ionic_large`
   - Interval: 0.1
   - Offset:  -0.75,  5.0
-- Press Type: `blast`
-- Energy Usage: 36
+  - Params:
+    - Knockback: 15
+    - Time To Live: 5.0
 - Hold Type: `blast`
 - Press Params:
   - Type: `ct_ionic_large`
@@ -77,8 +56,7 @@ Parameters:
   - Params:
     - Time To Live: 5.0
   - Offset:  -0.45,  5.0
-- Base Dps: 9
-- Fire Time: 1.2
+- Press Type: `blast`
 
 ## Sources
 

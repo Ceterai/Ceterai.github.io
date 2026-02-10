@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Loot Crate icon" loading="lazy" width="auto" height="16px"> **Yaara Loot Crate** is a common loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) biome chests.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) biome chests.  
 It's mostly yaara nature specimes and resources necessary to look after them, as well as other related equipment.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: A yaara pad full of live yaara matter. I think it acts as a mini [eco chamber](https://ceterai.github.io/MyEnternia/Wiki/ecochamber), in order to keep it alive.
+- Alta: A yaara pad full of live yaara matter. I think it acts as a mini [eco chamber](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoPod), in order to keep it alive.
 
 Radiomessages on pickup:
 

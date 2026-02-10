@@ -24,7 +24,7 @@ These two groups are not necessarily interconnected, and seem to mostly have dif
 
 Therefore, each group is often researched separately unless for study-specific reasons.
 
-**Eva Flora** mostly consists of alien grass types, _lumena pods_, [arch-lilies](https://ceterai.github.io/MyEnternia/Wiki/arch-lilies) and other small [alien growth](https://ceterai.github.io/MyEnternia/Wiki/aliengrowth), with its main origin being meteorites with preserved microlife.
+**Eva Flora** mostly consists of alien grass types, _lumena pods_, [arch-lilies](https://ceterai.github.io/MyEnternia/Wiki/EvaNature) and other small alien growth, with its main origin being meteorites with preserved microlife.
 
 These meteorites are coming in from beyond the asteroid layer of the planet, with the majority burning down in the atmosphere. Some, however, get practically stuck in eva clouds, breaking the fall.
 

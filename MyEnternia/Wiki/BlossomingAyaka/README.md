@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_blossom_tree.png" alt="Blossoming Ayaka icon" loading="lazy" width="auto" height="16px"> **Blossoming Ayaka** is an uncommon tree sapling.
 
-An [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) on its blossoming stage. While short and fruitless, it's quite pretty and its leaves can be used to produce <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [silk](https://starbounder.org/Silk).
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/plants/trees/ct_ayaka/foliage/ct_ayaka_foliage_blue/icon.png" alt="Ayaka Tree icon" loading="lazy" width="auto" height="16px"> [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) on its blossoming stage. While short and fruitless, it's quite pretty and its leaves can be used to produce <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [silk](https://starbounder.org/Silk).
 
 ## Ingame
 

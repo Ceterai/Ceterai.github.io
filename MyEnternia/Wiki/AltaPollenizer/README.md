@@ -14,16 +14,16 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Energy Per Shot: 45
 - Cooldown Time: 0.35
+- Energy Per Shot: 45
 - Inaccuracy: 0.01
-- Projectile Type: `pollenpumpgas`
-- Power Projectile Type: `pollenpumpgasspray`
 - Power Projectile Time:  1.0,  60
+- Power Projectile Type: `pollenpumpgasspray`
 - Projectile Parameters:
   - Damage Kind: `bugnet`
   - Speed: 5
   - Power: 6.5
+- Projectile Type: `pollenpumpgas`
 
 ## Sources
 

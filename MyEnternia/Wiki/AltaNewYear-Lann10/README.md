@@ -13,10 +13,10 @@ Species descriptions:
 
 ### Contents
 
-[OFFICIAL ANNOUNCEMENT](https://ceterai.github.io/MyEnternia/Wiki/OFFICIALANNOUNCEMENT)
-[Office of Empress Alliana](https://ceterai.github.io/MyEnternia/Wiki/OfficeofEmpressAlliana)
-[Alta-1, Alliana Capital](https://ceterai.github.io/MyEnternia/Wiki/Alta-1,AllianaCapital)
-[Date: Lann 10-1/1/1](https://ceterai.github.io/MyEnternia/Wiki/Date-Lann10-1By1By1)
+OFFICIAL ANNOUNCEMENT
+Office of Empress Alliana
+Alta-1, Alliana Capital
+Date: Lann 10-1/1/1
 
 ---------------------
 
@@ -24,21 +24,21 @@ To all my beloved sisters across the stars,
 
 As Alecta 10 begins its first cycle, I write to you with warmth in my heart and hope for our shared future.
 
-Whether you find yourself beneath <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) skies, deep in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) labs, or aboard ships beneath [astera](https://ceterai.github.io/MyEnternia/Wiki/Astera), this moment connects us all.
+Whether you find yourself beneath <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) skies, deep in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) labs, or aboard ships beneath [astera](https://ceterai.github.io/MyEnternia/Wiki/Astera), this moment connects us all.
 
 The new year arrives not with routines and deadlines - but with universal <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) light in our hearts.
 
-[The Octagonal Sign](https://ceterai.github.io/MyEnternia/Wiki/TheOctagonalSign)
+The Octagonal Sign
 
 The symbol of the cycle - an octagon with one line - represents completion and continuation. Eight sides for eight season halves, one line marking the next step on our shared path forward.
 
 Endings are also beginnings, and every sister matters.
 
-[Traditional Celebrations](https://ceterai.github.io/MyEnternia/Wiki/TraditionalCelebrations)
+Traditional Celebrations
 
-Gather with your sisters! Set a large table with generous portions - there's always room for more. Light up the night with [fireworks](https://ceterai.github.io/MyEnternia/Wiki/fireworks) painting the sky, [sparklers](https://ceterai.github.io/MyEnternia/Wiki/sparklers) dancing in the night, [confetti poppers](https://ceterai.github.io/MyEnternia/Wiki/confettipoppers) bursting and [rainbow lights](https://ceterai.github.io/MyEnternia/Wiki/rainbowlights) stringing the colors of the future.
+Gather with your sisters! Set a large table with generous portions - there's always room for more. Light up the night with fireworks painting the sky, sparklers dancing in the night, confetti poppers bursting and rainbow lights stringing the colors of the future.
 
-[The Feast](https://ceterai.github.io/MyEnternia/Wiki/TheFeast)
+The Feast
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Roundsalad icon" loading="lazy" width="auto" height="16px"> [Roundsalad](https://ceterai.github.io/MyEnternia/Wiki/Roundsalad) - Circular and full of vegetables, fruits, and herbs representing time's cycle. Each sister adds favorites!
 
@@ -46,13 +46,13 @@ Gather with your sisters! Set a large table with generous portions - there's alw
 
 Prepare enough to share - you never know who might join!
 
-[Words from the Heart](https://ceterai.github.io/MyEnternia/Wiki/WordsfromtheHeart)
+Words from the Heart
 
 My dearest sisters,
 
 This past year brought challenges and triumphs. From [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) protecting borders, to [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) exploring frontiers, to every researcher pursuing knowledge - you contributed to our shared story.
 
-To [gardeners](https://ceterai.github.io/MyEnternia/Wiki/gardeners) tending [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove), [scientists](https://ceterai.github.io/MyEnternia/Wiki/scientists) unraveling mysteries, [guards](https://ceterai.github.io/MyEnternia/Wiki/guards) keeping us safe, and every alta living her best life - thank you.
+To gardeners tending [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove), scientists unraveling mysteries, guards keeping us safe, and every alta living her best life - thank you.
 
 You are why our civilization thrives.
 
@@ -72,10 +72,10 @@ Here's to another year of discovery, growth, and sisterhood!
 
 With endless love and hope,
 
-[Empress Alliana](https://ceterai.github.io/MyEnternia/Wiki/EmpressAlliana)
-[Alta-1, Alliana Capital](https://ceterai.github.io/MyEnternia/Wiki/Alta-1,AllianaCapital)
+Empress Alliana
+Alta-1, Alliana Capital
 
-[Celebration Tips](https://ceterai.github.io/MyEnternia/Wiki/CelebrationTips)
+Celebration Tips
 
 - Decorate with rainbow lights in octagonal pattern
 - Set extra table places
@@ -110,6 +110,7 @@ Be with those who matter.
 
 Blueprint unlocked by obtaining:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/festive_station/icon.png" alt="Alta Festive Station icon" loading="lazy" width="auto" height="16px"> [Alta Festive Station](https://ceterai.github.io/MyEnternia/Wiki/AltaFestiveStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Alta New Year - Lann 10 icon" loading="lazy" width="auto" height="16px"> [Alta New Year - Lann 10](https://ceterai.github.io/MyEnternia/Wiki/AltaNewYear-Lann10)
 
 Can be crafted:

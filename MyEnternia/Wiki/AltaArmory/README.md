@@ -2,21 +2,21 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/armory/icon.png" alt="Alta Armory icon" loading="lazy" width="auto" height="16px"> **Alta Armory** is a legendary crafting station.
 
-An alta sewing machine with additional functionality.  
-Can create folded seams and protects the operator from the needle.
+An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) military crafting station for producing [armor](https://ceterai.github.io/MyEnternia/Wiki/Tags/Armor), [shields](https://ceterai.github.io/MyEnternia/Wiki/Tags/Shield), and defensive equipment.  
+The Alta Armory is a tier 6 military equipment fabrication station specialized in defensive technology. This fortress-grade workshop produces combat armor sets with integrated energy shields, EPP modules with environmental protection, defensive [augments](https://ceterai.github.io/MyEnternia/Wiki/Tags/Augment) for enhanced survivability, and various shield generators and protective devices. The station features armor plating forges, shield field calibration equipment, and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [bion compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) integration systems. While altas prefer peaceful solutions, the Armory ensures they're well-protected when danger is unavoidable.
 
 ## Ingame
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: I can make cloth and clothing here.
-- Apex: Some sort of an alta mainframe. Might contain useful information.
-- Avian: A giant electronic library!
-- Floran: Floran can make equipment for wiring thingsss.
-- Glitch: Pleased. A workstation for creating wiring related equipment. Very handy.
-- Human: Wiring related equipment can be crafted on this workstation. Neat!
-- Hylotl: For wiring tools and accessories, this is the go to workstation.
-- Novakid: A workstation for all things wirin' related.
+- Alta: The defense equipment station! We may prefer peace, but when exploration gets dangerous, proper armor and shields are essential for survival~
+- Apex: Alta defensive technology workshop. Their energy shield integration is highly sophisticated.
+- Avian: A forge for protective armor! Even peaceful explorers need good defense sometimes.
+- Floran: Makesss armor and shieldsss. Floran likesss offenssse more but defenssse good too.
+- Glitch: Approving. This station demonstrates that altas value protection over aggression.
+- Human: Armor workshop! Shields, EPPs, defensive augments - full protection suite.
+- Hylotl: A station dedicated to defense rather than offense. The alta philosophy of protection resonates deeply.
+- Novakid: Armor makin' station! Shields and protective gear for when things get rough out there.
 
 </details>
 
@@ -30,5 +30,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/objects/alta/crafting/armory/ct_alta_armory.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/crafting/armory/ct_alta_armory.object)

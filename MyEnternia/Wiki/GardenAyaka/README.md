@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_garden_tree.png" alt="Garden Ayaka icon" loading="lazy" width="auto" height="16px"> **Garden Ayaka** is an uncommon tree sapling.
 
-An [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/ayakatree) ripe with fresh <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya). Commonly found in [ayaka forests](https://ceterai.github.io/MyEnternia/Wiki/AyakaForest) and [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens).
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/plants/trees/ct_ayaka/foliage/ct_ayaka_foliage_blue/icon.png" alt="Ayaka Tree icon" loading="lazy" width="auto" height="16px"> [ayaka tree](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) ripe with fresh <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya). Commonly found in [ayaka forests](https://ceterai.github.io/MyEnternia/Wiki/AyakaForest) and [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens).
 
 ## Ingame
 

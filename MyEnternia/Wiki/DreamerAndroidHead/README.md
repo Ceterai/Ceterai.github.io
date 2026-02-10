@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/android_head/icon.png" alt="Dreamer Android Head ★ icon" loading="lazy" width="auto" height="16px"> **Dreamer Android Head ★** is a legendary head armor piece.
 
-A head of a heavy android prototype for the [Dreamer Android Set](https://ceterai.github.io/MyEnternia/Wiki/DreamerAndroidSet) series.
+A head of a heavy android prototype for the Dreamer Android Set series.
 
 ## Ingame
 

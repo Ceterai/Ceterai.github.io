@@ -17,37 +17,37 @@ Radiomessages on pickup:
 
 ### Contents
 
-[Sonaveil Celebration Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCelebrationGuide)
+Sonaveil Celebration Guide
 
 A warm holiday during the coldest times!
 
 Sona's Veil is our cold solstice celebration - a time to gather, stay warm, and enjoy the beauty of the cold season together! This guide will help you celebrate properly~
 
-[When to Celebrate](https://ceterai.github.io/MyEnternia/Wiki/WhentoCelebrate)
+When to Celebrate
 
-Sonaveil happens during cold seasons around the cold solstice on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets. The exact timing varies by planet, but it always coincides with the coldest, darkest time of year!
+Sonaveil happens during cold seasons around the cold solstice on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets. The exact timing varies by planet, but it always coincides with the coldest, darkest time of year!
 
 The celebration period usually lasts several weeks around the solstice.
 
-[Stay Warm Together](https://ceterai.github.io/MyEnternia/Wiki/StayWarmTogether)
+Stay Warm Together
 
 The holiday's core message is simple: stay warm together when it's cold outside! This means both literal warmth and emotional warmth through gathering with your sisters.
 
 Wrap up in warm blankets, wear layers, and most importantly - huddle together for warmth and comfort~
 
-[Warm Scarves](https://ceterai.github.io/MyEnternia/Wiki/WarmScarves)
+Warm Scarves
 
 Special blue scarves are given out by local outposts during Sonaveil! Though some altas prefer to knit their own - these warm cotton clothes have become the symbol of the holiday.
 
 Wearing your scarf shows you're celebrating, and they're perfect for staying cozy during outdoor activities like building snowaltas!
 
-[String Lights & Decorations](https://ceterai.github.io/MyEnternia/Wiki/StringLights&Decorations)
+String Lights & Decorations
 
 Hang colorful string lights everywhere! They brighten the long dark nights and create such a warm, festive atmosphere.
 
 Wall scarves and fabric hangings add color and coziness to indoor spaces. The warm reds, yellows, and whites contrast beautifully with the cold blue snow outside!
 
-[Snowaltas](https://ceterai.github.io/MyEnternia/Wiki/Snowaltas)
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta1/icon.png" alt="Snowalta icon" loading="lazy" width="auto" height="16px"> [Snowaltas](https://ceterai.github.io/MyEnternia/Wiki/Snowalta)
 
 Building snowaltas is one of our favorite traditions! These are alta-shaped snow statues made from:
 
@@ -59,7 +59,7 @@ Building snowaltas is one of our favorite traditions! These are alta-shaped snow
 
 They're so cute standing in the snow!
 
-[Snow Activities](https://ceterai.github.io/MyEnternia/Wiki/SnowActivities)
+Snow Activities
 
 Sonaveil isn't just about staying inside! You can:
 
@@ -71,7 +71,7 @@ Sonaveil isn't just about staying inside! You can:
 
 Just don't forget your warm scarf! It's cold out there~
 
-[Hot Drinks](https://ceterai.github.io/MyEnternia/Wiki/HotDrinks)
+Hot Drinks
 
 Staying warm means drinking warm! Traditional Sonaveil beverages include:
 
@@ -105,7 +105,7 @@ The perfect Sonaveil pie is called Sona's Embrace:
 
 These are made with genuine love and holiday spirit. Sharing one is a deep expression of sisterly care!
 
-[Other Holiday Foods](https://ceterai.github.io/MyEnternia/Wiki/OtherHolidayFoods)
+Other Holiday Foods
 
 More delicious Sonaveil treats:
 
@@ -123,7 +123,7 @@ During Sonaveil, you might receive gifts of Holiday Spirit - symbolic tokens rep
 
 These little items carry the festive atmosphere with them. Some say they're made from concentrated celebration energy itself!
 
-[Warm Clothing](https://ceterai.github.io/MyEnternia/Wiki/WarmClothing)
+Warm Clothing
 
 Dress for the season! Popular Sonaveil attire:
 
@@ -135,7 +135,7 @@ Dress for the season! Popular Sonaveil attire:
 
 Staying warm is staying true to the holiday spirit!
 
-[The True Meaning](https://ceterai.github.io/MyEnternia/Wiki/TheTrueMeaning)
+The True Meaning
 
 At its heart, Sonaveil celebrates finding warmth - both physical and emotional - during the coldest, darkest time of year.
 
@@ -147,14 +147,24 @@ Stay warm, stay together, and happy Sona's Veil!
 
 ### Crafting
 
-<details markdown="1"><summary>Unlocks blueprints for: (Expand 16 items)</summary>
+<details markdown="1"><summary>Unlocks blueprints for: (Expand 27 items)</summary>
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/thrower/body.png" alt="Alta Coldthrower icon" loading="lazy" width="auto" height="16px"> [Alta Coldthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaColdthrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/alta_scarf/icon.png" alt="Alta Scarf icon" loading="lazy" width="auto" height="16px"> [Alta Scarf](https://ceterai.github.io/MyEnternia/Wiki/AltaScarf)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/cannon/ct_alta_snow_cannon.png" alt="Alta Snow Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Snow Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowCannon)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/sprayer/icon.png" alt="Alta Snow Sprayer icon" loading="lazy" width="auto" height="16px"> [Alta Snow Sprayer](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowSprayer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/blaster/ct_alta_snowthrower.png" alt="Alta Snowthrower icon" loading="lazy" width="auto" height="16px"> [Alta Snowthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowthrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_alta_scarf_wall.png" alt="Alta Wall Scarf icon" loading="lazy" width="auto" height="16px"> [Alta Wall Scarf](https://ceterai.github.io/MyEnternia/Wiki/AltaWallScarf)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_christmas_poster.png" alt="Christmas Poster icon" loading="lazy" width="auto" height="16px"> [Christmas Poster](https://ceterai.github.io/MyEnternia/Wiki/ChristmasPoster)
 - `ct_sona_hot_milk`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
+- `giganticsnowball`
+- `largesnowball`
+- `mediumsnowball`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta1/icon.png" alt="Snowalta icon" loading="lazy" width="auto" height="16px"> [Snowalta](https://ceterai.github.io/MyEnternia/Wiki/Snowalta)
+- `snowball`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sona_poster.png" alt="Sona Poster icon" loading="lazy" width="auto" height="16px"> [Sona Poster](https://ceterai.github.io/MyEnternia/Wiki/SonaPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowglobe1/icon.png" alt="Sonaglobe icon" loading="lazy" width="auto" height="16px"> [Sonaglobe](https://ceterai.github.io/MyEnternia/Wiki/Sonaglobe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonasweet.png" alt="Sonasweet icon" loading="lazy" width="auto" height="16px"> [Sonasweet](https://ceterai.github.io/MyEnternia/Wiki/Sonasweet)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"> [Sonaveil Cake](https://ceterai.github.io/MyEnternia/Wiki/SonaveilCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/sonaveil.png" alt="Sonaveil Gift icon" loading="lazy" width="auto" height="16px"> [Sonaveil Gift](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGift)
@@ -164,6 +174,7 @@ Stay warm, stay together, and happy Sona's Veil!
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_sonaveil_popper.png" alt="Sonaveil Popper icon" loading="lazy" width="auto" height="16px"> [Sonaveil Popper](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPopper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sonaveil_poster.png" alt="Sonaveil Poster icon" loading="lazy" width="auto" height="16px"> [Sonaveil Poster](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/events/sonaveil/scarf/icon.png" alt="Sonaveil Scarf icon" loading="lazy" width="auto" height="16px"> [Sonaveil Scarf](https://ceterai.github.io/MyEnternia/Wiki/SonaveilScarf)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowglobe2/icon.png" alt="Sonaveil Sonaglobe icon" loading="lazy" width="auto" height="16px"> [Sonaveil Sonaglobe](https://ceterai.github.io/MyEnternia/Wiki/SonaveilSonaglobe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sonaveil_scarf_wall.png" alt="Sonaveil Wall Scarf icon" loading="lazy" width="auto" height="16px"> [Sonaveil Wall Scarf](https://ceterai.github.io/MyEnternia/Wiki/SonaveilWallScarf)
 
 </details>
@@ -176,6 +187,7 @@ Can be used to craft:
 
 Blueprint unlocked by obtaining:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/festive_station/icon.png" alt="Alta Festive Station icon" loading="lazy" width="auto" height="16px"> [Alta Festive Station](https://ceterai.github.io/MyEnternia/Wiki/AltaFestiveStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
 
 Can be crafted:

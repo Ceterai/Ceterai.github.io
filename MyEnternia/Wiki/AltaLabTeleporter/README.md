@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/teleporter/icon.png" alt="Alta Lab Teleporter icon" loading="lazy" width="auto" height="16px"> **Alta Lab Teleporter** is a legendary teleportation device.
 
-A personal teleporter, connects to bookmarked locations. Since when do [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) have teleporters?
+A personal teleporter, connects to bookmarked locations. Since when do [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) have teleporters?
 
 ## Ingame
 

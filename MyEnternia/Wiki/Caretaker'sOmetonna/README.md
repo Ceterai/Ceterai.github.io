@@ -23,6 +23,8 @@ Unlocks blueprints for:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_ometonna.png" alt="Ometonna icon" loading="lazy" width="auto" height="16px"> [Ometonna](https://ceterai.github.io/MyEnternia/Wiki/Ometonna).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ometonna-caretaker.png" alt="Caretaker's Ometonna ★ icon" loading="lazy" width="auto" height="16px"> Caretaker's Ometonna ★ x*1*):

@@ -55,8 +55,9 @@
     // Toggle bookmark
     function toggleBookmark() {
         const url = window.location.pathname;
-        // Extract just the page title before " | "
-        const title = document.title.split(' | ')[0].trim();
+        // Get title from h1 element, fallback to document.title
+        const h1 = document.querySelector('h1');
+        const title = h1 ? h1.textContent.trim() : document.title.split(' | ')[0].trim();
         
         if (isBookmarked(url)) {
             removeBookmark(url);
@@ -162,6 +163,14 @@
         bookmarkBtn.title = 'Bookmark this page';
         bookmarkBtn.innerHTML = '☆';
         container.appendChild(bookmarkBtn);
+        
+        // Add search button
+        const searchBtn = document.createElement('a');
+        searchBtn.href = '/MyEnternia/search.html';
+        searchBtn.className = 'wiki-tool-btn';
+        searchBtn.title = 'Search wiki';
+        searchBtn.innerHTML = '🔍';
+        container.appendChild(searchBtn);
         
         const menuWrapper = document.createElement('div');
         menuWrapper.className = 'bookmarks-menu-wrapper';

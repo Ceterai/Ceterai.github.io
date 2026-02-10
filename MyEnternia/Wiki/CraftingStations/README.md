@@ -1,6 +1,6 @@
 # Crafting Stations
 
-The mod adds a total of 42 crafting stations:
+The mod adds a total of 43 crafting stations:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/aquarium/icon.png" alt="Alta Aquarium icon" loading="lazy" width="auto" height="16px"> [Alta Aquarium](https://ceterai.github.io/MyEnternia/Wiki/AltaAquarium)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/architect_station/icon.png" alt="Alta Architect Station icon" loading="lazy" width="auto" height="16px"> [Alta Architect Station](https://ceterai.github.io/MyEnternia/Wiki/AltaArchitectStation)
@@ -26,6 +26,7 @@ The mod adds a total of 42 crafting stations:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kadamaker/icon.png" alt="Alta Kadamaker icon" loading="lazy" width="auto" height="16px"> [Alta Kadamaker](https://ceterai.github.io/MyEnternia/Wiki/AltaKadamaker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kettle/icon.png" alt="Alta Kettle icon" loading="lazy" width="auto" height="16px"> [Alta Kettle](https://ceterai.github.io/MyEnternia/Wiki/AltaKettle)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/kitchener/icon.png" alt="Alta Kitchener icon" loading="lazy" width="auto" height="16px"> [Alta Kitchener](https://ceterai.github.io/MyEnternia/Wiki/AltaKitchener)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/kitchenmaker/icon.png" alt="Alta Kitchenmaker icon" loading="lazy" width="auto" height="16px"> [Alta Kitchenmaker](https://ceterai.github.io/MyEnternia/Wiki/AltaKitchenmaker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/microwave/icon.png" alt="Alta Microwave Oven icon" loading="lazy" width="auto" height="16px"> [Alta Microwave Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaMicrowaveOven)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/milker/icon.png" alt="Alta Milker icon" loading="lazy" width="auto" height="16px"> [Alta Milker](https://ceterai.github.io/MyEnternia/Wiki/AltaMilker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/mixer/icon.png" alt="Alta Mixer icon" loading="lazy" width="auto" height="16px"> [Alta Mixer](https://ceterai.github.io/MyEnternia/Wiki/AltaMixer)

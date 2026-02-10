@@ -1,12 +1,11 @@
 # Gheatsyn Tag
 
-The tag `gheatsyn` contains 53 total entries.
+The tag `gheatsyn` contains 52 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 34 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 33 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bench/icon1.png" alt="Alta Emergency Bench icon" loading="lazy" width="auto" height="16px"> [Alta Emergency Bench](https://ceterai.github.io/MyEnternia/Wiki/AltaEmergencyBench)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/upgrade_station/icon1.png" alt="Alta Upgrade Station icon" loading="lazy" width="auto" height="16px"> [Alta Upgrade Station](https://ceterai.github.io/MyEnternia/Wiki/AltaUpgradeStation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/boosted/icon.png" alt="Boosted Gheatsyn Sapling icon" loading="lazy" width="auto" height="16px"> [Boosted Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedGheatsynSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/gheatsyn/eco/icon.png" alt="Eco Gheatsyn Sapling icon" loading="lazy" width="auto" height="16px"> [Eco Gheatsyn Sapling](https://ceterai.github.io/MyEnternia/Wiki/EcoGheatsynSapling)

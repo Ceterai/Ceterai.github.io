@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Tier 2 Pad icon" loading="lazy" width="auto" height="16px"> **Tier 2 Pad** is an uncommon loot item.
 
 Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="Alta Security Pod icon" loading="lazy" width="auto" height="16px"> [alta security pods](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod).  
-Similar to the [T1 crate](https://ceterai.github.io/MyEnternia/Wiki/T1crate), this one contains a compact arrangement of equipment, this time mainly security-related devices and information.
+Similar to the [T1 crate](https://ceterai.github.io/MyEnternia/Wiki/Tier1Pad), this one contains a compact arrangement of equipment, this time mainly security-related devices and information.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: If I'm lucky enough, I could become a full-on [varda](https://ceterai.github.io/MyEnternia/Wiki/varda) with this. At least visually.
+- Alta: If I'm lucky enough, I could become a full-on [varda](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet) with this. At least visually.
 
 Radiomessages on pickup:
 
@@ -26,7 +26,7 @@ When used:
   - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*1* (weight: 0.1)
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="Energy Cell icon" loading="lazy" width="auto" height="16px"> [Energy Cell](https://ceterai.github.io/MyEnternia/Wiki/EnergyCell) x*1* (weight: 0.1)
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" width="auto" height="16px"> [Security Drone](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone) x*1* (weight: 0.045)
-  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/security.png" alt="Security Android icon" loading="lazy" width="auto" height="16px"> [Security Android](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroid) x*1* (weight: 0.005)
+  - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/security.png" alt="Security Android Nade icon" loading="lazy" width="auto" height="16px"> [Security Android Nade](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroidNade) x*1* (weight: 0.005)
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_electric_stim.png" alt="Electric Stim Pack icon" loading="lazy" width="auto" height="16px"> [Electric Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ElectricStimPack) x*1* (weight: 0.05)
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/bench/icon.png" alt="Alta Bench icon" loading="lazy" width="auto" height="16px"> [Alta Bench](https://ceterai.github.io/MyEnternia/Wiki/AltaBench) x*1* (weight: 0.04)
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/crystal/icon.png" alt="Alta Crystal Bed icon" loading="lazy" width="auto" height="16px"> [Alta Crystal Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaCrystalBed) x*1* (weight: 0.04)

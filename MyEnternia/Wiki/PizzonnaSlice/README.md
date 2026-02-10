@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-pizzionna_slice.png" alt="Pizzonna Slice icon" loading="lazy" width="auto" height="16px"> **Pizzonna Slice** is a rare dish.
 
 This nia pizza slice will fill you with special pizzonnic energy. Remember that with great power comes great responsibility.  
-The pizza uses a tonna paste as a base layer, with a couple of nia fruits as main filling, with slight amounts of [nia jam](https://ceterai.github.io/MyEnternia/Wiki/niajam) as filling.
+The pizza uses a tonna paste as a base layer, with a couple of nia fruits as main filling, with slight amounts of nia jam as filling.
 
 ## Ingame
 

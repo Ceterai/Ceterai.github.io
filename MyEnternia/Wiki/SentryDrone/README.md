@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Sentry
 
-Will perform a long semi-auto attack consisting of 30 accelerated [Plasma Balls](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBalls). Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+Will perform a long semi-auto attack consisting of 30 accelerated Plasma Balls. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
 Extreme vigilance is primary to this mechanism's objectives.
 
 ### Shielded Drone

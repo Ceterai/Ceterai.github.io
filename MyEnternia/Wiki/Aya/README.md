@@ -3,10 +3,10 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> **Aya** is a common food item.
 
 A very juicy, sweet fruit, that can be boiled, baked, squished, powdered and even canned.  
-Widely used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) for all sorts of recipes.  
+Widely used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) for all sorts of recipes.  
 When turned into powder, can be used to filter energy from certain crystals.
 
-Ayas grow on trees called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka), and thus don't have seeds as a separate item.
+Ayas grow on trees called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka), and thus don't have seeds as a separate item.
 
 Known by non-alta species as an **Alta Peach** due to its taste and resemblance. Unlike [peaches](https://en.wikipedia.org/wiki/Peach), ayas have no seed, since ayakas have a different method of reproduction.
 
@@ -28,9 +28,10 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"> [Boiled Ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 17 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 20 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_fresh.png" alt="Aya Fresh icon" loading="lazy" width="auto" height="16px"> [Aya Fresh](https://ceterai.github.io/MyEnternia/Wiki/AyaFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_icecream.png" alt="Aya Ice Cream icon" loading="lazy" width="auto" height="16px"> [Aya Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/AyaIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
@@ -43,8 +44,10 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_icecream.png" alt="Crystal Ice Cream icon" loading="lazy" width="auto" height="16px"> [Crystal Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/CrystalIceCream)
 - `ct_food_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_fallen/icon.png" alt="Fallen Aya icon" loading="lazy" width="auto" height="16px"> [Fallen Aya](https://ceterai.github.io/MyEnternia/Wiki/FallenAya)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_garden_tree.png" alt="Garden Ayaka icon" loading="lazy" width="auto" height="16px"> [Garden Ayaka](https://ceterai.github.io/MyEnternia/Wiki/GardenAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png" alt="Runeva Ball icon" loading="lazy" width="auto" height="16px"> [Runeva Ball](https://ceterai.github.io/MyEnternia/Wiki/RunevaBall)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta1/icon.png" alt="Snowalta icon" loading="lazy" width="auto" height="16px"> [Snowalta](https://ceterai.github.io/MyEnternia/Wiki/Snowalta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"> [Tonnakada](https://ceterai.github.io/MyEnternia/Wiki/Tonnakada)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Cocktail icon" loading="lazy" width="auto" height="16px"> [Yuri Cocktail](https://ceterai.github.io/MyEnternia/Wiki/YuriCocktail)
 
@@ -74,6 +77,11 @@ Drops from big plants:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/sapling/icon.png" alt="Alta Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_garden_tree.png" alt="Garden Ayaka icon" loading="lazy" width="auto" height="16px"> [Garden Ayaka](https://ceterai.github.io/MyEnternia/Wiki/GardenAyaka)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_unona_tree.png" alt="Unona Ayaka icon" loading="lazy" width="auto" height="16px"> [Unona Ayaka](https://ceterai.github.io/MyEnternia/Wiki/UnonaAyaka)
+
+Drops from destroyed obstacles:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta1/icon.png" alt="Snowalta icon" loading="lazy" width="auto" height="16px"> [Snowalta](https://ceterai.github.io/MyEnternia/Wiki/Snowalta)
 
 Drops from destroyed obstacles:
 

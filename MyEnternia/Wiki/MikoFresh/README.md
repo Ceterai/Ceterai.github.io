@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_bio_fresh-miko.png" alt="Miko Fresh icon" loading="lazy" width="auto" height="16px"> **Miko Fresh** is a common drink.
 
-A direct extract from [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) petals. Active components in its fibres tend to positively impact inner workings of different organisms.  
+A direct extract from [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) petals. Active components in its fibres tend to positively impact inner workings of different organisms.  
 Aspiring [alta artists](https://ceterai.github.io/MyEnternia/Wiki/AltaArtist) often drink these in search of muse and inspiration, as miko flower dishes tend to have culturally positive connotations to them.
 
 ## Ingame

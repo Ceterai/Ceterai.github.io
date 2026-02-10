@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" width="auto" height="16px"> **Soniathrower** is a rare one-handed cryogenic unique weapon.
 
-This cooling tool is usually used for firefighting and supercharging specific environments. It's able to withstand all the cold due to its <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="icon" width="16" height="16"/> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) case.
+This cooling tool is usually used for firefighting and supercharging specific environments. It's able to withstand all the cold due to its <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) case.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" width="auto" height="16px"> [Sonia's Breath ★](https://ceterai.github.io/MyEnternia/Wiki/Sonia'sBreath) at the Weapon Upgrade Anvil.
 
@@ -23,16 +23,16 @@ Parameters:
 - Base Dps: 4.5
 - Energy Usage: 16
 - Fire Time: 0.065
-- Hold Type: `thrower`
+- Hold Cooldown:
 - Hold Params:
   - Type: `icethrower`
   - Params:
     - Animation Cycle: 0.45
     - Time To Live:  0.4,  0.55
   - Interval:
-- Hold Time Min:
 - Hold Time Max:
-- Hold Cooldown:
+- Hold Time Min:
+- Hold Type: `thrower`
 - Loop: `True`
 
 ## Sources

@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Unika Offices Initiative icon" loading="lazy" width="auto" height="16px"> **Unika Offices Initiative** is a rare codex entry.
 
-A promotional brochure promoting some sleek, stylish [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) furniture made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals.  
-A simple brochure made of a sturdy paper, with a few pictures of the furniture and a short description of the product. The paper is made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood, which is quite common for alta documents.
+A promotional brochure promoting some sleek, stylish [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) furniture made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals.  
+A simple brochure made of a sturdy paper, with a few pictures of the furniture and a short description of the product. The paper is made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood, which is quite common for alta documents.
 
 The brochure is made by a company called Unika, which specializes in alta furniture and office supplies.
 
@@ -15,15 +15,15 @@ Species descriptions:
 
 ### Contents
 
-< UNIKA ORD. >  
-Any busy office environment should stay clean, simple, effective and professional.  
-All of those styling requirements can be achieved with Unika Office Furniture - made from robust, easy to maintain materials, including beautiful refined [bishyn crystals](https://ceterai.github.io/MyEnternia/Wiki/bishyncrystals)!
+< UNIKA ORD. >
+Any busy office environment should stay clean, simple, effective and professional.
+All of those styling requirements can be achieved with Unika Office Furniture - made from robust, easy to maintain materials, including beautiful refined [bishyn crystals](https://ceterai.github.io/MyEnternia/Wiki/ShinyBishynCrystal)!
 
-If you're worried about getting any amount of [crystal poisoning](https://ceterai.github.io/MyEnternia/Wiki/crystalpoisoning) - don't!  
-The crystals are properly refined and desaturated, and contain safe levels of energy.  
+If you're worried about getting any amount of [crystal poisoning](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned) - don't!
+The crystals are properly refined and desaturated, and contain safe levels of energy.
 All extracted poison particles are used as a polish material for the surface parts, giving them pretty gloss and making them nice to the touch!
 
-Current set is accomplished in a modern-esque maxi-mini style called [seturna](https://ceterai.github.io/MyEnternia/Wiki/Bishyn#visual-style) and provides proper wholesome, finished look to a space of almost any size.
+Current set is accomplished in a modern-esque maxi-mini style called [Seturna](https://ceterai.github.io/MyEnternia/Wiki/Bishyn#visual-style) and provides proper wholesome, finished look to a space of almost any size.
 
 If you're interested or have any questions - contact us at ---undecodable code string---
 

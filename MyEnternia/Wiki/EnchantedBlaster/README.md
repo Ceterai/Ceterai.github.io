@@ -11,7 +11,7 @@ Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/
 
 Species descriptions:
 
-- Alta: Seems like this blaster spent a bit too much time in [vionia](https://ceterai.github.io/MyEnternia/Wiki/vionia). Oh well. Wobblies!!
+- Alta: Seems like this blaster spent a bit too much time in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="vionia icon" loading="lazy" width="auto" height="16px"> [vionia](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass). Oh well. Wobblies!!
 
 Radiomessages on pickup:
 
@@ -22,27 +22,27 @@ Radiomessages on pickup:
 ### Wobblenaut
 
 Weird enchanted innards make this weapon shoot bursts or <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [ice](https://starbounder.org/Ice) plasma on the button press, and launch weird wobbly <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [ice](https://starbounder.org/Ice) spheres on hold.  
-These spheres seem to contain a weird magnetic anomaly, very similar in its behaviour to common [miazmas](https://ceterai.github.io/MyEnternia/Wiki/miazmas).
+These spheres seem to contain a weird magnetic anomaly, very similar in its behaviour to common [miazmas](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins#miazma).
 
 Parameters:
 
 - Base Dps: 4
 - Energy Usage: 14
 - Fire Time: 0.2
-- Press Type: `semi`
-- Press Params:
-  - Type: `blueplasmabullet`
-  - Inaccuracy: 0.045
-  - Params:
-    - Damage Kind: `iceplasma`
-    - Speed: 60
-- Hold Type: `blast`
 - Hold Params:
   - Type: `miniwobbleshot`
   - Params:
     - Damage Kind: `iceplasma`
   - Inaccuracy: 0.01
 - Hold Time Max: 0.55
+- Hold Type: `blast`
+- Press Params:
+  - Type: `blueplasmabullet`
+  - Inaccuracy: 0.045
+  - Params:
+    - Damage Kind: `iceplasma`
+    - Speed: 60
+- Press Type: `semi`
 
 ## Sources
 

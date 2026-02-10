@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/elin.png" alt="Elin Drone ★ icon" loading="lazy" width="auto" height="16px"> **Elin Drone ★** is an uncommon electric throwable item.
 
-An armored drone originally created to patrol and protect [Elin Gardens](https://ceterai.github.io/MyEnternia/Wiki/ElinGardens). It has partially overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [yaara roots](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot).  
+An armored drone originally created to patrol and protect Elin Gardens. It has partially overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> [yaara roots](https://ceterai.github.io/MyEnternia/Wiki/YaaraRoot).  
 In its nature, this drone is a direct analogy of the security drone, with slight adjustments to better fit its new specific goals.
 
 ## Ingame

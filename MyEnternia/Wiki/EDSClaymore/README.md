@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore.png" alt="EDS Claymore icon" loading="lazy" width="auto" height="16px"> **EDS Claymore** is a rare two-handed broadsword.
 
 **WIP** A massive defensive tool created by [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds). Perfect for close combat.  
-This bastion of EDS defence is a basic combat tool usually carried by EDS mechs or by EDS [arkanas](https://ceterai.github.io/MyEnternia/Wiki/arkanas).
+This bastion of EDS defence is a basic combat tool usually carried by EDS mechs or by EDS [arkanas](https://ceterai.github.io/MyEnternia/Wiki/Plasmasword).
 
 _Elerune CDR_ is an integrated blast system, an inherent part of an EDS Claymore, and provides blaster-like abilities to the tool, making it addtionally effective in middle-range combat too.
 
@@ -21,32 +21,16 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Bastion Strike
 
-A sequence of _3_ heavy strikes. Hold to perform a [rising slash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Rising-Slash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).
+A sequence of _3_ heavy strikes. Hold to perform a [Rising Slash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Rising-Slash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).
 
 Parameters:
 
 - Base Dps: 12
-- Fire Time: 1.2
 - Energy Usage: 32
+- Fire Time: 1.2
 - Hold Params:
   - Cooldown Time: 0.2
   - Energy Factor: 1.0
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor:
-- Knockback: 20.0
-- Swoosh: `swoosh1`
-- Swoosh Offset:  0.75, ,  4.25,  5.0, 
-- Damage Factor: 0.6
-- Energy Factor:
-- Knockback: 15.0
-- Swoosh: `swoosh2`
-- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0, 
-- Damage Factor: 1.2
-- Energy Factor:
-- Knockback: 30.0
-- Swoosh: `swoosh3`
-- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
 
 ### Elerune CDR Blast
 
@@ -57,8 +41,6 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 1.2
-- Press Type: `none`
-- Hold Type: `blast`
 - Hold Params:
   - Type: `ct_ionic_large`
   - Params:
@@ -66,6 +48,8 @@ Parameters:
     - Time To Live: 5.0
   - Offset:  -0.45,  5.0
   - Count: 1
+- Hold Type: `blast`
+- Press Type: `none`
 
 ## Usage
 

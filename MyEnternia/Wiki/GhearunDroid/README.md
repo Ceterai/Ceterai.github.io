@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/ghearun.png" alt="Ghearun Droid ★★★ icon" loading="lazy" width="auto" height="16px"> **Ghearun Droid ★★★** is a legendary poisonous throwable item.
 
-A robotic giant that could take on an army. Runs on liquid crystal energy from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).  
+A robotic giant that could take on an army. Runs on liquid crystal energy from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).  
 Any and all tech and mechanisms equipped on this droid are initially meant for geological purposes, but leave room for creative use.
 
 ## Ingame

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-tonna_ice_cream.png" alt="Tonna Ice Cream ★ icon" loading="lazy" width="auto" height="16px"> **Tonna Ice Cream ★** is an uncommon dish.
 
 A well-made tonna ice cream with a soft tonna flavor and a special <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_iso_jam-cryo.png" alt="Cryo Jam icon" loading="lazy" width="auto" height="16px"> [cryo jam](https://ceterai.github.io/MyEnternia/Wiki/CryoJam) in the middle. This is refreshing and recharging.  
-If you reach the bottom, you can find a hardened tonna casing underneath the cone. This is frozen [tonna milk](https://ceterai.github.io/MyEnternia/Wiki/tonnamilk) thickened with powder.
+If you reach the bottom, you can find a hardened tonna casing underneath the cone. This is frozen [tonna milk](https://ceterai.github.io/MyEnternia/Wiki/Tonna#cooking) thickened with powder.
 
 ## Ingame
 

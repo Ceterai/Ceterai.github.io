@@ -27,15 +27,15 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.1
-- Press Type: `semi`
-- Press Params:
-  - Type: `neotommygunbullet`
-  - Inaccuracy: 0.02
-- Hold Type: `burst`
 - Hold Params:
   - Type: `neotommygunbullet`
   - Inaccuracy: 0.4
 - Hold Time Max: 0.55
+- Hold Type: `burst`
+- Press Params:
+  - Type: `neotommygunbullet`
+  - Inaccuracy: 0.02
+- Press Type: `semi`
 
 ## Sources
 

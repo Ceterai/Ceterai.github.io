@@ -17,17 +17,17 @@ Radiomessages on pickup:
 
 ### Contents
 
-Alta cities are relatively small but highly urbanized settlements that can occasionally be found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets. Despite their size and short buildings, such cities have fairly large populations.  
+Alta cities are relatively small but highly urbanized settlements that can occasionally be found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets. Despite their size and short buildings, such cities have fairly large populations.
 This is mainly due to the rather dense structure of such cities, where instead of wide road lanes, endless parking lots and large squares, preferences go to small parks, sunny alleys and small streets with tram lines.
 
 Autotrains are the main way to quickly travel around such cities. Not very fast, but incredibly convenient, free fruits of a well-thought-out public transport infrastructure, occasionally passing quietly from stop to stop, they hardly bother countless alta pedestrians.
 
 In such small cities there is usually a relaxed, homely atmosphere, and it is not so easy to find an alta in a hurry, because all the necessary places are always nearby.
 
-Order and protection in alta cities are maintained by special [alta guards](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard) and [alta metrocops](https://ceterai.github.io/MyEnternia/Wiki/AltaMetrocop), as well as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" width="auto" height="16px"> [security drones](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/security.png" alt="Security Android icon" loading="lazy" width="auto" height="16px"> [security androids](https://ceterai.github.io/MyEnternia/Wiki/SecurityAndroid).  
+Order and protection in alta cities are maintained by special [alta guards](https://ceterai.github.io/MyEnternia/Wiki/AltaGuard) and [alta metrocops](https://ceterai.github.io/MyEnternia/Wiki/AltaMetrocop), as well as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" width="auto" height="16px"> [security drones](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone) and [security androids](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityAndroid).
 Metrocops keep order, and guards and robots guard and protect the city.
 
-And to maintain cleanliness in the cities, regular cleaning events are carried out, to which [alta volunteers](https://ceterai.github.io/MyEnternia/Wiki/altavolunteers) and [alta social workers](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker) are invited.
+And to maintain cleanliness in the cities, regular cleaning events are carried out, to which alta volunteers and [alta social workers](https://ceterai.github.io/MyEnternia/Wiki/AltaSocialWorker) are invited.
 
 Altas live in small multi-story buildings, most often up to four above-ground and two underground floors.
 

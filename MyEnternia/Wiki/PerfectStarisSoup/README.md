@@ -13,6 +13,8 @@ Species descriptions:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_staris_soup.png" alt="Staris Soup icon" loading="lazy" width="auto" height="16px"> [Staris Soup](https://ceterai.github.io/MyEnternia/Wiki/StarisSoup).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_staris_soup-perfect.png" alt="Perfect Staris Soup ★ icon" loading="lazy" width="auto" height="16px"> Perfect Staris Soup ★ x*1*):

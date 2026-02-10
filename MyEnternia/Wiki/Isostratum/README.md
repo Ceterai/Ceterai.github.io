@@ -2,7 +2,7 @@
 
  **Isostratum** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
-These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) caves are drowning in slime. Slime is everythere here - slimy walls, slimy floor, slime drops from the ceiling, moves towards you and even tries to harm you.
+These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) caves are drowning in slime. Slime is everythere here - slimy walls, slimy floor, slime drops from the ceiling, moves towards you and even tries to harm you.
 
 ## Technical Information
 

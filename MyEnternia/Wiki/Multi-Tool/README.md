@@ -26,11 +26,11 @@ In full, the toolset includes a pick end, a chop end, a retractable switch end, 
 
 Parameters:
 
-- Fire Time: 0.625
 - Base Dps: 6
-- Tool Range: 3.5
 - Block Radius: 2
+- Fire Time: 0.625
 - Tile Damage: 1.8
+- Tool Range: 3.5
 
 ## Sources
 

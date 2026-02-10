@@ -23,21 +23,21 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 0.65
-- Press Type: `semi`
+- Hold Params:
+  - Type: `iceburster`
+- Hold Type: `nade`
 - Press Params:
   - Type: `iceplasma`
   - Inaccuracy: 0.04
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
-- Hold Type: `nade`
-- Hold Params:
-  - Type: `iceburster`
+- Press Type: `semi`
 
 ### Armored Crest
 
 Brontorous defences powered by [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse).
-Press - launches a [Proto-Pulsar](https://ceterai.github.io/MyEnternia/Wiki/Proto-Pulsar);
+Press - launches a Proto-Pulsar;
 Hold - a shotgun burst of Sticky Plasma.
 
 Parameters:
@@ -45,14 +45,14 @@ Parameters:
 - Base Dps: 10
 - Energy Usage: 40
 - Fire Time: 0.9
-- Press Type: `rocket`
-- Press Params:
-  - Type: `ct_impulse_large`
-- Hold Type: `burst`
 - Hold Params:
   - Type: `stickyplasma`
   - Inaccuracy: 0.01
   - Count: 3
+- Hold Type: `burst`
+- Press Params:
+  - Type: `ct_impulse_large`
+- Press Type: `rocket`
 
 ## Sources
 

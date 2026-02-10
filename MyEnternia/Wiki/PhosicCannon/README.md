@@ -14,47 +14,51 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Phosiblast
 
-Main ability of the item, activated with left mouse button.
+Creates bursts of Phosic Blasts.
+Press - burst with irradiated fireballs;
+Hold - burst with Phosic Blasts.
 
 Parameters:
 
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 0.9
-- Press Type: `burst`
+- Hold Params:
+  - Type: `firestickygrenade`
+  - Inaccuracy: 0.21
+  - Count: 3
+- Hold Type: `burst`
 - Press Params:
   - Type: `fireplasma`
   - Inaccuracy: 0.11
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
-- Hold Type: `burst`
-- Hold Params:
-  - Type: `firestickygrenade`
-  - Inaccuracy: 0.21
-  - Count: 3
+- Press Type: `burst`
 
-### Secondary Ability
+### Phosic Patronage
 
-Alternative ability of the item, activated with right mouse button.
+This weapon is packed with nades.
+Press - launch a Sticky Firenade;
+Hold - burst with Fire Mines.
 
 Parameters:
 
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.9
-- Press Type: `burst`
-- Press Params:
-  - Type: `firestickygrenade`
-  - Inaccuracy: 0.08
-  - Count: 1
-- Hold Type: `burst`
 - Hold Params:
   - Type: `fireproximitymine`
   - Inaccuracy: 0.21
   - Count: 3
+- Hold Type: `burst`
+- Press Params:
+  - Type: `firestickygrenade`
+  - Inaccuracy: 0.08
+  - Count: 1
+- Press Type: `burst`
 
 ## Sources
 

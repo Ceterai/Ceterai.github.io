@@ -1,12 +1,11 @@
 # Enchanted Tag
 
-The tag `enchanted` contains 9 total entries.
+The tag `enchanted` contains 8 total entries.
 
 ## Objects
 
 Following objects have this colony tag:
 
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-duck.png" alt="Little Quackie icon" loading="lazy" width="auto" height="16px"> [Little Quackie](https://ceterai.github.io/MyEnternia/Wiki/LittleQuackie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/vio_zych/icon.png" alt="Vio Zych icon" loading="lazy" width="auto" height="16px"> [Vio Zych](https://ceterai.github.io/MyEnternia/Wiki/VioZych)
 
 ## Tenants

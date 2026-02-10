@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster.png" alt="Isoblaster icon" loading="lazy" width="auto" height="16px"> **Isoblaster** is a rare one-handed pistol.
 
-A blaster meant to spread <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) everywhere. Holding LMB will charge up an [isoslime ball](https://ceterai.github.io/MyEnternia/Wiki/isoslimeball).
+A blaster meant to spread <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) everywhere. Holding LMB will charge up an [isoslime ball](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" width="auto" height="16px"> [Isoblaster Prime ★](https://ceterai.github.io/MyEnternia/Wiki/IsoblasterPrime) at the Weapon Upgrade Anvil.
 
@@ -16,22 +16,22 @@ Radiomessages on pickup:
 
 ### Slime Blast
 
-Press to squirt slime! Hold to charge up sizeable [isoslime balls](https://ceterai.github.io/MyEnternia/Wiki/isoslimeballs), but be careful - they're quite messy.
+Press to squirt slime! Hold to charge up sizeable [isoslime balls](https://ceterai.github.io/MyEnternia/Wiki/Isoslime), but be careful - they're quite messy.
 
 Parameters:
 
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.2
-- Press Type: `blast`
-- Press Params:
-  - Type: `ct_isoslime_squirt`
-  - Inaccuracy:
-- Hold Type: `blast`
 - Hold Params:
   - Type: `ct_isoslime_charge`
   - Inaccuracy: 0.01
 - Hold Time Max: 0.55
+- Hold Type: `blast`
+- Press Params:
+  - Type: `ct_isoslime_squirt`
+  - Inaccuracy:
+- Press Type: `blast`
 
 ## Sources
 

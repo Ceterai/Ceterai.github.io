@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_hevika_augment.png" alt="Hevika Augment ★ icon" loading="lazy" width="auto" height="16px"> **Hevika Augment ★** is a rare EPP augment.
 
-An EPP module that gives [Hevikai Status Immunity](https://ceterai.github.io/MyEnternia/Wiki/HevikaiStatusImmunity) and adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals).
+An EPP module that gives [Hevikai Status Immunity](https://ceterai.github.io/MyEnternia/Wiki/HevikaiBlock) and adds <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_crystals.png" alt="Overcharged Crystals icon" loading="lazy" width="auto" height="16px"> [Overcharged Crystals](https://ceterai.github.io/MyEnternia/Wiki/OverchargedCrystals).
 
 ## Ingame
 

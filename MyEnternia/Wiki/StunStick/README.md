@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" width="auto" height="16px"> **Stun Stick** is an uncommon one-handed electric shortsword.
 
 **WIP**. A hand-held halter used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security to prevent unauthorized activity.  
-Just like a lot of alta tools, including combat tools, this one is considered to be non-lethal by [alta security protocols](https://ceterai.github.io/MyEnternia/Wiki/altasecurityprotocols), since it doesn't provide an amount energy to be able to really harm an alta, as well as the vast majority of Io creatures. It's only meant to scare away the target, or stugger it. In worst case scenarios, it will paralize the target, but not kill it.  
+Just like a lot of alta tools, including combat tools, this one is considered to be non-lethal by [alta security protocols](https://ceterai.github.io/MyEnternia/Wiki/SecurityProtocolDatamass), since it doesn't provide an amount energy to be able to really harm an alta, as well as the vast majority of Io creatures. It's only meant to scare away the target, or stugger it. In worst case scenarios, it will paralize the target, but not kill it.  
 The exception to this rule are drones, that can take damage from the plasmic charges from the hits.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" width="auto" height="16px"> [Halter Compact ★](https://ceterai.github.io/MyEnternia/Wiki/HalterCompact) at the Weapon Upgrade Anvil.
@@ -23,11 +23,10 @@ Radiomessages on pickup:
 ### Plasmic Halter
 
 **WIP**. A sequence of 3 light stun strikes. Hold to perform a Halter Strike.  
-The retractable **springrope** holding the head of the stunstick 
+The retractable _springrope_ holding the head of the stunstick.
 
 Parameters:
 
-- Fire Time: 0.625
 - Base Dps: 6
 - Chain Dps: 1.0
 - Crack Dps: 7.2
@@ -35,6 +34,7 @@ Parameters:
   - Damage Source Kind: `electric`
   - Timeout Group: `primary`
   - Timeout: 0.3
+- Fire Time: 0.625
 - Projectile Type: `whipcrackelectric`
 
 ## Sources

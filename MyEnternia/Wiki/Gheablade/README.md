@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png" alt="Gheablade icon" loading="lazy" width="auto" height="16px"> **Gheablade** is a rare one-handed axe.
 
-**WIP**. The blade of this axe is made from layered <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn). There are electronic compensators on the handle made from the same crystals.  
+**WIP**. The blade of this axe is made from layered <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn). There are electronic compensators on the handle made from the same crystals.  
 These compensators, or gheafluxers, are meant to engage the energy from cimilar crystals nearby, creating a barely visible resonation, that ultimately accelerates <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"> [tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade_2.png" alt="Gheacleaver ★ icon" loading="lazy" width="auto" height="16px"> [Gheacleaver ★](https://ceterai.github.io/MyEnternia/Wiki/Gheacleaver) at the Weapon Upgrade Anvil.
@@ -27,7 +27,6 @@ Each piece of gheatsyn in proximity starts to slowly resonate with the blade of 
 
 Parameters:
 
-- Fire Time: 0.9
 - Base Dps: 6
 - Damage Config:
   - Knockback: 25
@@ -35,6 +34,7 @@ Parameters:
     - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
     - Damage Factor: 0.005
     - Max: 120
+- Fire Time: 0.9
 
 ## Sources
 

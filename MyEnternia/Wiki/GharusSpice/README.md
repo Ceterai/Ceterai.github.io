@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_gharus_spice.png" alt="Gharus Spice icon" loading="lazy" width="auto" height="16px"> **Gharus Spice** is an uncommon cooking ingredient.
 
-A pristine mix of various herbs and spices from different [alta cuisines](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine).  
+A pristine mix of various herbs and spices from different [alta cuisines](https://ceterai.github.io/MyEnternia/Wiki/Alta#food).  
 It adds a herb-like touch to the dish, with a light spice to add slight accent to it as well. These factors work together to really enhance the original flavor, but not overshadow it.
 
 ## Ingame

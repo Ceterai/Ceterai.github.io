@@ -15,37 +15,35 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Toxin Core
 
-Main ability of the item, activated with left mouse button.
+The poisonous generator of this cannon makes it spread toxic plasma on activation.
 
 Parameters:
 
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 0.1
-- Press Type: `blast`
+- Hold Time Max:
 - Press Params:
   - Type: `poisonplasma`
   - Inaccuracy: 0.11
   - Params:
     - Knockback: 5
     - Time To Live: 5.0
-- Hold Time Max:
+- Press Type: `blast`
 
-### Secondary Ability
+### Ex-Pollinator
 
-Alternative ability of the item, activated with right mouse button.
+This cannon is able to accumulate so much energy it can create toxin clouds.
+Press to release toxins around you;
+Hold to charge a slow powerful cloud.
 
 Parameters:
 
 - Base Dps: 8
 - Energy Usage: 40
 - Fire Time: 0.9
-- Press Type: `clouds`
-- Press Params:
-  - Type: `smallpoisoncloud`
-- Hold Type: `blast`
 - Hold Params:
   - Type: `largepoisoncloud`
   - Inaccuracy:
@@ -53,6 +51,10 @@ Parameters:
     - Knockback: 5
     - Time To Live: 8.0
     - Speed: 15.0
+- Hold Type: `blast`
+- Press Params:
+  - Type: `smallpoisoncloud`
+- Press Type: `clouds`
 
 ## Sources
 

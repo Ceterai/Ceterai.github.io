@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"> **Alter-Sphere** is a legendary crafting material.
 
 Source of natural energy, safe to use for generating pure electricity.  
-Spheres like this one often have uses other then an energy source. [Altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) use them as keys in energy locks, as energy concentrators and catalysts.
+Spheres like this one often have uses other then an energy source. [Altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) use them as keys in energy locks, as energy concentrators and catalysts.
 
 **Energy Locks** are special security contraptions that can be unlocked by certain energy sources with specific energy types.
 

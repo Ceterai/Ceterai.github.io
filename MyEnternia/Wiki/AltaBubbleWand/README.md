@@ -13,15 +13,15 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Time: 0.3
 - Base Dps:
 - Energy Usage:
+- Fire Time: 0.3
+- Fire Type: `auto`
 - Inaccuracy: 0.02
 - Projectile Count: 1
-- Fire Type: `auto`
-- Projectile Type: `friendlybubble`
 - Projectile Parameters:
   - Speed:  10,  30
+- Projectile Type: `friendlybubble`
 
 ## Sources
 

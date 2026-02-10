@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" width="auto" height="16px"> **Haven Storm** is a rare two-handed poisonous rocket launcher.
 
-A powerful launcher that forms [haven](https://ceterai.github.io/MyEnternia/Wiki/Tags/Haven) toxins into a poisonous energy ball.
+A powerful launcher that forms [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) toxins into a poisonous energy ball.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm_2.png" alt="Haven Chaos ★ icon" loading="lazy" width="auto" height="16px"> [Haven Chaos ★](https://ceterai.github.io/MyEnternia/Wiki/HavenChaos) at the Weapon Upgrade Anvil.
 
@@ -24,14 +24,14 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 0.1
-- Press Type: `blast`
+- Hold Time Max:
 - Press Params:
   - Type: `poisonplasma`
   - Inaccuracy: 0.11
   - Params:
     - Knockback: 5
     - Time To Live: 5.0
-- Hold Time Max:
+- Press Type: `blast`
 
 ### Ex-Pollinator
 
@@ -44,10 +44,6 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 40
 - Fire Time: 0.9
-- Press Type: `clouds`
-- Press Params:
-  - Type: `smallpoisoncloud`
-- Hold Type: `blast`
 - Hold Params:
   - Type: `largepoisoncloud`
   - Inaccuracy:
@@ -55,6 +51,10 @@ Parameters:
     - Knockback: 5
     - Time To Live: 8.0
     - Speed: 15.0
+- Hold Type: `blast`
+- Press Params:
+  - Type: `smallpoisoncloud`
+- Press Type: `clouds`
 
 ## Sources
 

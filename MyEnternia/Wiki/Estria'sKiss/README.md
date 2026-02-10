@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk_2.png" alt="Estria's Kiss ★ icon" loading="lazy" width="auto" height="16px"> **Estria's Kiss ★** is a legendary two-handed poisonous spear.
 
 This nivera spear gives off a strong scent of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) and unknown pheromones. Holding it somehow feels a little wrong...  
-It belongs to _Estria_, one of the [queens of thorns](https://ceterai.github.io/MyEnternia/Wiki/queensofthorns). She used this spear to lure in and capture unsuspecting altas, in order to try and make friends. The venom isn't meant to be harmful to altas, as much as restrict their movement, preventing them from running away easily.
+It belongs to _Estria_, one of the queens of thorns. She used this spear to lure in and capture unsuspecting altas, in order to try and make friends. The venom isn't meant to be harmful to altas, as much as restrict their movement, preventing them from running away easily.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk.png" alt="Niverisk icon" loading="lazy" width="auto" height="16px"> [Niverisk](https://ceterai.github.io/MyEnternia/Wiki/Niverisk).
 
@@ -29,16 +29,16 @@ Filled with Estria's pheromones and venom, these attacks present a lesser threat
 
 Parameters:
 
+- Base Dps: 12
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
+- Fire Time: 0.6
 - Hold Damage Config:
   - Timeout Group: `hold`
   - Timeout: 0.5
-- Base Dps: 12
-- Fire Time: 0.6
 - Hold Damage Multiplier: 0.1
 
 ### Circles Of Lust

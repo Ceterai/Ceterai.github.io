@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"> **Ceternia Core** is a rare crafting material.
 
-A powerful essence of living matter, full of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia). ...Somehow it feels important.  
+A powerful essence of living matter, full of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia). ...Somehow it feels important.  
 This ephemeral material can only exist for a limited period of time. As soon as chains of impulses in the air wear off, the only thing left will be a bunch of tiny crystal specs.
 
 ## Ingame

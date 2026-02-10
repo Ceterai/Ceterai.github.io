@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Ion Discharger
 
-Can fire a rapid semi-auto ion burst of 6 [Ions](https://ceterai.github.io/MyEnternia/Wiki/Ions). Periodically disperses [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) clouds around it. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
+Can fire a rapid semi-auto ion burst of 6 Ions. Periodically disperses [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) clouds around it. Will explode with [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) particles on destruction.  
 Ion discharges can be very dangerous to other types of machinery, since they jumble the elecricity in its wiring, but not for this one.
 
 ### Supercharged Drone

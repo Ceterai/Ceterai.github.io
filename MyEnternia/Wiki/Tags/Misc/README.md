@@ -1,18 +1,16 @@
 # Misc Tag
 
-The tag `misc` contains 32 total entries.
+The tag `misc` contains 30 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 30 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_blue_icon.png" alt="Alta Lab Capsule With Alcal icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Alcal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithAlcal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_red_icon.png" alt="Alta Lab Capsule With Mical icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Mical](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithMical)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_purple_icon.png" alt="Alta Lab Capsule With Yonnur icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Yonnur](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithYonnur)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/teleporter/icon.png" alt="Alta Lab Teleporter icon" loading="lazy" width="auto" height="16px"> [Alta Lab Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaLabTeleporter)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_bed.png" alt="Alta Scout Bed icon" loading="lazy" width="auto" height="16px"> [Alta Scout Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutBed)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-scout_chair.png" alt="Alta Scout Chair icon" loading="lazy" width="auto" height="16px"> [Alta Scout Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaScoutChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/stand/icon.png" alt="Alta Security Stand icon" loading="lazy" width="auto" height="16px"> [Alta Security Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityStand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/chair/icon.png" alt="Alta Ship Chair icon" loading="lazy" width="auto" height="16px"> [Alta Ship Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaShipChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/special/teleporter/icon.png" alt="Alta Ship Teleporter icon" loading="lazy" width="auto" height="16px"> [Alta Ship Teleporter](https://ceterai.github.io/MyEnternia/Wiki/AltaShipTeleporter)

@@ -13,26 +13,26 @@ Species descriptions:
 
 ### Contents
 
-Come to the Clubhouse "Ix-Contrix" for infinite, concentrated entertainment!  
-This multiplex contains any and all kinds of services you can think of!  
-While you're here, make sure to:  
-- - Check out the Arcades!
+Come to the Clubhouse "Ix-Contrix" for infinite, concentrated entertainment!
+This multiplex contains any and all kinds of services you can think of!
+While you're here, make sure to:
+`- - Check out the Arcades!
 
-  
+
 - Visit our Partybase! -
 
 
-
+  
 Crash the biggest Dancefloor in the city! - -
 
-- - - - - Have some snacks at the Bar to refill your energy...
+`- - - - - Have some snacks at the Bar to refill your energy...
 
-  
+
 Then go to the Cinema for an immersive show!
 
-- - And finally, have some fun at the Space Pit!
+`- - And finally, have some fun at the Space Pit!
 
-But that's not all...  
+But that's not all...
 Come during weekends to see a breathtaking Lazer Show on the roof!
 
 ---

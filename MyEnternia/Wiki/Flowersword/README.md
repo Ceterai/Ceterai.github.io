@@ -28,30 +28,11 @@ This sword's fibres are thriving with oxigen and ceternia energy, producing wave
 
 Parameters:
 
-- Fire Time: 0.625
 - Base Dps: 6
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor:
-- Knockback: 10.0
-- Swoosh: `swoosh_small1`
-- Swoosh Offset:  -1.0,  -0.25,  2.5,  2.0
-- Swoosh Sound: `primary_press`, 
-- Damage Factor: 0.6
-- Energy Factor:
-- Knockback: 20.0
-- Swoosh: `swoosh_small2`
-- Swoosh Offset: ,  -0.5,  2.5,  1.0
-- Swoosh Sound: `primary_press2`, 
-- Damage Factor: 1.4
-- Energy Factor:
-- Knockback: 10.0
-- Swoosh: `swoosh_small2`
-- Swoosh Offset: ,  -0.25,  2.5,  1.0
-- Swoosh Sound: `primary_press`
 - Damage Config:
   - Damage Source Kind: `shortsword`
   - Timeout: 0.5
+- Fire Time: 0.625
 
 ## Sources
 

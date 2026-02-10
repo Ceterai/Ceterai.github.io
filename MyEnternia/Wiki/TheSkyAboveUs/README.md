@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-The sky above <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) always sparkled with a mysterious starry glow.
+The sky above <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) always sparkled with a mysterious starry glow.
 
 No matter when you raise your head, it always seems as if above you, high in the sky, there is an endless, crystal-clear ocean, full of coral caramel reefs, beautiful clots of sugar foam and magical, distant dreams and wishes.
 

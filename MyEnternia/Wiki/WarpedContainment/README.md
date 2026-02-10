@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" width="auto" height="16px"> **Warped Containment** is an uncommon codex entry.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains information and instructions on how to (somewhat) contain or limit <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) growth. Judging by the look of the datamass, doesn't seem like it worked really well.  
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains information and instructions on how to (somewhat) contain or limit <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) growth. Judging by the look of the datamass, doesn't seem like it worked really well.  
 The datamass is partially covered in warped growth. This indicates that it was left out near such for a bit too long. Thankfully, the data inside seems to be intact.
 
 ## Ingame
@@ -20,7 +20,7 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 ### Contents
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) growth is an uncontrollable, constantly mutating and slowly expanding plant matter.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) growth is an uncontrollable, constantly mutating and slowly expanding plant matter.
 
 While mostly harmless by itself, the dangers of warped climate comes from both expansion and other warped-compatible life that appears in it.
 
@@ -30,15 +30,15 @@ Still, its containment is one of primary goals as of right now, since it endange
 
 The warped growth itself consists of <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" width="15px" height="14px"> [glow fibres](https://starbounder.org/Glow_Fibre) and [yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur).
 
-[yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur) is a bioluminescent liquid that is often used by altas for illumination, in things like an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_purple_icon.png" alt="Alta Lab Capsule With Yonnur icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Yonnur](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithYonnur).
+[Yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur) is a bioluminescent liquid that is often used by altas for illumination, in things like an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_purple_icon.png" alt="Alta Lab Capsule With Yonnur icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Yonnur](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithYonnur).
 
 In order to properly contain the growth, all glow fibre veins and bulbs containing yonnur need to be properly frozen or curdled.
 
-This can be done via specialized alta devices, or with cryogenic materials like <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" width="8px" height="16px"> [cryonic extracts](https://starbounder.org/Cryonic_Extract) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
+This can be done via specialized alta devices, or with cryogenic materials like <img src="https://starbounder.org/mediawiki/images/d/d0/Cryonic_Extract.png" alt="Cryonic Extract icon" loading="lazy" width="8px" height="16px"> [cryonic extracts](https://starbounder.org/Cryonic_Extract) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
 
-As for the warped-compatible life, it includes venomous plants like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="icon" width="16" height="16"/> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" width="auto" height="16px"> [warped hives](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive), [warped hive trees](https://ceterai.github.io/MyEnternia/Wiki/warpedhivetrees) and monsters like [warped flies](https://ceterai.github.io/MyEnternia/Wiki/warpedflies), [bruteflies](https://ceterai.github.io/MyEnternia/Wiki/bruteflies), [warped sporgus](https://ceterai.github.io/MyEnternia/Wiki/warpedsporgus), [warped anglures](https://ceterai.github.io/MyEnternia/Wiki/warpedanglures), but it can also contain mostly harmless plants, like [archulins](https://ceterai.github.io/MyEnternia/Wiki/archulins).
+As for the warped-compatible life, it includes venomous plants like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" width="auto" height="16px"> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="Warped Hive icon" loading="lazy" width="auto" height="16px"> [warped hives](https://ceterai.github.io/MyEnternia/Wiki/WarpedHive), warped hive trees and monsters like warped flies, bruteflies, warped sporgus, warped anglures, but it can also contain mostly harmless plants, like archulins.
 
-[Archulins](https://ceterai.github.io/MyEnternia/Wiki/Archulins) are bitter berries that can be used as cooking ingredients for simple alta dishes like [archilibites](https://ceterai.github.io/MyEnternia/Wiki/archilibites).
+Archulins are bitter berries that can be used as cooking ingredients for simple alta dishes like archilibites.
 
 ## Usage
 

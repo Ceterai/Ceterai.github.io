@@ -19,9 +19,9 @@ Press to disperse seeds! Hold to change seed type. Available: regular grass, flo
 Parameters:
 
 - Base Dps: 4
+- Default Fire Type: `grass`
 - Energy Usage: 16
 - Fire Time: 0.3
-- Default Fire Type: `grass`
 - Fire Types:
   - Grass:
     - Type: `blast`

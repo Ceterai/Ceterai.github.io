@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_winged_halberd.png" alt="Winged Halberd ★ icon" loading="lazy" width="auto" height="16px"> **Winged Halberd ★** is a legendary two-handed spear.
 
-**WIP**. An instrument used by legendary eva [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta).  
-Its "wing" is an aerodynamic blade made of stardust and a hardened [dianid](https://ceterai.github.io/MyEnternia/Wiki/dianid) compound.
+**WIP**. An instrument used by legendary eva [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta).  
+Its "wing" is an aerodynamic blade made of stardust and a hardened [dianid](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) compound.
 
 ## Ingame
 
@@ -25,17 +25,17 @@ This smooth flow of circular swings helps you stay in balance regardless of you 
 
 Parameters:
 
-- Fire Time: 0.6
 - Base Dps: 12
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
-- Hold Damage Multiplier: 0.1
+- Fire Time: 0.6
 - Hold Damage Config:
   - Timeout Group: `hold`
   - Timeout: 0.5
+- Hold Damage Multiplier: 0.1
 
 ### Aeroflux
 

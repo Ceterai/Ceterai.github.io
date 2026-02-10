@@ -17,7 +17,7 @@ We're leaving immediately. There's no point in taking everything, so I'll just t
 
 I won't turn off the EDS to protect what's left. And who knows, maybe someday we'll come back.
 
-Maya made sure that all 35's are missing the energy source, so no one could enter even if they get through the EDS.
+Maya made sure that all 35s are missing the energy source, so no one could enter even if they get through the EDS.
 
 I hope we still have a chance. - C.T.
 

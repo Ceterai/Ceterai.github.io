@@ -2,20 +2,20 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bench/icon1.png" alt="Alta Emergency Bench icon" loading="lazy" width="auto" height="16px"> **Alta Emergency Bench** is a common crafting station.
 
-Used to craft basic alta armor and upgrade to a beacon.
+Used to craft basic [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) emergency equipment when stranded. Upgradeable to an emergency station and beacon.
 
 ## Ingame
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: This station allows to upgrade equipment using gheatsyn shards.
-- Apex: A workbench, presumably for general works with titanium and crystal matters.
-- Avian: A crafting bench made of titanium.
-- Floran: Floran putsss a crystal in - getsss a shiny out.
-- Glitch: Impressed. Simple yet functional, contains unusual instruments.
-- Human: A crafting table out of a titanium. Do you need to have another workbench just to create this one?
-- Hylotl: The simplicity of its design compliments the simplicity of its functionality.
-- Novakid: Basic lookin' bench.
+- Alta: This basic bench saved my life when I was stranded! Just needs a few crystals and some bion to get started~
+- Apex: A simple alta emergency crafting bench. Basic but functional survival equipment.
+- Avian: An emergency workshop for stranded altas! Even in crisis, they maintain their craftsmanship.
+- Floran: Sssimple bench for ssstranded altass. Makesss survival thingsss.
+- Glitch: Resourceful. This basic station demonstrates alta ability to adapt in emergency situations.
+- Human: Emergency crafting bench. Looks like altas have a survival protocol for being stranded.
+- Hylotl: A humble station born of necessity. Even stripped of resources, altas create tools to endure.
+- Novakid: Emergency bench for when you're stuck somewhere. Smart to have a plan for that!
 
 </details>
 
@@ -37,5 +37,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `0`
 - Power: `0.5`
 - Rarity: `Common`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`gheatsyn`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gheatsyn)
 - File: [`/objects/alta/crafting/bench/ct_alta_emergency_bench.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/crafting/bench/ct_alta_emergency_bench.object)

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/combat/android_head/icon.png" alt="Combat Android Head ★ icon" loading="lazy" width="auto" height="16px"> **Combat Android Head ★** is a rare head armor piece.
 
-A head of an advanced android prototype for the [Combat Android Set](https://ceterai.github.io/MyEnternia/Wiki/CombatAndroidSet) series.
+A head of an advanced android prototype for the Combat Android Set series.
 
 ## Parameters
 

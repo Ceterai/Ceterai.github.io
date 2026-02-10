@@ -1,6 +1,6 @@
 # Upgradeable Weapon Tag
 
-The tag `upgradeableWeapon` contains 167 total entries.
+The tag `upgradeableWeapon` contains 166 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `upgradeableWeapon` contains 167 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 167 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 166 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" width="auto" height="16px"> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" width="auto" height="16px"> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX)
@@ -134,7 +134,6 @@ The tag `upgradeableWeapon` contains 167 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Plasmora icon" loading="lazy" width="auto" height="16px"> [Plasmora](https://ceterai.github.io/MyEnternia/Wiki/Plasmora)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon_upg.png" alt="Pollenizer M7 ★★ icon" loading="lazy" width="auto" height="16px"> [Pollenizer M7 ★★](https://ceterai.github.io/MyEnternia/Wiki/PollenizerM7)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-boomerang-upgrade.png" alt="Powerang ★ icon" loading="lazy" width="auto" height="16px"> [Powerang ★](https://ceterai.github.io/MyEnternia/Wiki/Powerang)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Spear ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sSpear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier3/scout/mask/icon.png" alt="Protomask icon" loading="lazy" width="auto" height="16px"> [Protomask](https://ceterai.github.io/MyEnternia/Wiki/Protomask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png" alt="Pulse Railgun ★ icon" loading="lazy" width="auto" height="16px"> [Pulse Railgun ★](https://ceterai.github.io/MyEnternia/Wiki/PulseRailgun)

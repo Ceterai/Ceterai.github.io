@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-miko_honey.png" alt="Miko Honey icon" loading="lazy" width="auto" height="16px"> **Miko Honey** is an uncommon dish.
 
-An incredibly sweet honey made from a [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) extract. It's bright pink and it was made with love! Too bad you don't know any recipes that use it...  
+An incredibly sweet honey made from a [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) extract. It's bright pink and it was made with love! Too bad you don't know any recipes that use it...  
 This herb-based honey can sweeten-up any dish, even if not intended, so be careful.
 
 ## Ingame

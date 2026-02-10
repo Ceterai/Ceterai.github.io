@@ -31,7 +31,7 @@ They began to get together and tell mom about the new flowers they found, and if
 
 Mom remembered all this, and then helped them come up with nicknames for themselves, to be like the little Orchid.
 
-When there were as many as twelve star-flowers, they got together and created their own small corner, a small flower bed for their flower friends - and decided to make the Orchid the main one in it.  
+When there were as many as twelve star-flowers, they got together and created their own small corner, a small flower bed for their flower friends - and decided to make the Orchid the main one in it.
 She didn't know how right it would be, but they asked very strongly and she agreed. This club for friends was called the Starflower Order.
 
 Each star in it began to do something to help equip their order-flower bed and make the life of the other stars a little better.
@@ -78,9 +78,9 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 
 ## Technical Information
 
-- In-game ID: `ct_tiana-codex`
+- In-game ID: `ct_orchid-codex`
 - Level: `7`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Tags: [`ceterai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`tiana`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tiana)
-- File: [`/codex/alta/ct_tiana.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_tiana.codex)
+- Tags: [`ceterai`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai), [`data_source`](https://ceterai.github.io/MyEnternia/Wiki/Tags/DataSource), [`ebook`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`orchid`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Orchid)
+- File: [`/codex/alta/ct_orchid.codex`](https://github.com/Ceterai/Enternia/blob/main/codex/alta/ct_orchid.codex)

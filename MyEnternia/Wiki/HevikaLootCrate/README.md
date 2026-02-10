@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="Hevika Loot Crate icon" loading="lazy" width="auto" height="16px"> **Hevika Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) biome chests.  
-Often used by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" width="16" height="16"/> [hevika ordis](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevika-ordis) for energy transportation, as well as containment of especially overcharged specimens.
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) biome chests.  
+Often used by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Hevika Ordis](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevika-ordis) for energy transportation, as well as containment of especially overcharged specimens.
 
 ## Ingame
 

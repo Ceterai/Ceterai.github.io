@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"> **Protospear** is an uncommon two-handed electric spear.
 
-**WIP**. A scouting tool used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) for travel. It doesn't have a sharp side, because the purpose of this instrument is not combat-related.  
+**WIP**. A scouting tool used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) for travel. It doesn't have a sharp side, because the purpose of this instrument is not combat-related.  
 Protospears are used to gather energy and covert it into kinetic force, allowing scouts to traverse the harshest terrain.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Spear ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sSpear) at the Weapon Upgrade Anvil.
@@ -26,8 +26,9 @@ This set of strikes was taught to most altas by Protea herself. It combines spee
 
 Parameters:
 
-- Fire Time: 0.6
 - Base Dps: 12
+- Fire Time: 0.6
+- Projectile Count:
 - Step Damage Config: 
 - Base Damage Factor: 1.35
 - Knockback: 5, 
@@ -39,7 +40,6 @@ Parameters:
 - Knockback: 15
 - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
 - Swoosh Offset Regions:   3.0,  -0.5,  4.5,  5.0,   1.5,  -1.0,  5.5,  1.0,   0.75, ,  6.25,  5.0
-- Projectile Count:
 
 ### Energy Seeker
 
@@ -48,10 +48,10 @@ Unlike most special abilities, this technique doesn't just simply consume energy
 
 Parameters:
 
-- Power: 4
-- Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
 - Damage Config:
 
+- Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
+- Power: 4
 
 ## Sources
 

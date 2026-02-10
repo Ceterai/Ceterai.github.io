@@ -2,21 +2,21 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bestiarium/icon.png" alt="Alta Bestiarium icon" loading="lazy" width="auto" height="16px"> **Alta Bestiarium** is a legendary crafting station.
 
-An alta sewing machine with additional functionality.  
-Can create folded seams and protects the operator from the needle.
+An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) xenobiology station for capturing creatures, crafting [collars](https://ceterai.github.io/MyEnternia/Wiki/Tags/Collar), and preserving monster trophies.  
+The Alta Bestiarium is a tier 6 comprehensive xenobiology workshop dedicated to the study and care of alien creatures. This station produces creature capture tools like [relocators](https://ceterai.github.io/MyEnternia/Wiki/Tags/Relocator) and containment pods, crafts advanced pet collars with AI mindframes, creates monster spawning equipment for research purposes, and prepares decorative [trophies](https://ceterai.github.io/MyEnternia/Wiki/Tags/Trophy) from defeated creatures. It represents alta dedication to understanding and preserving alien wildlife - whether as companions, research subjects, or memorable specimens. Essential for any alta xenobiologist or monster hunter.
 
 ## Ingame
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: I can make cloth and clothing here.
-- Apex: Some sort of an alta mainframe. Might contain useful information.
-- Avian: A giant electronic library!
-- Floran: Floran can make equipment for wiring thingsss.
-- Glitch: Pleased. A workstation for creating wiring related equipment. Very handy.
-- Human: Wiring related equipment can be crafted on this workstation. Neat!
-- Hylotl: For wiring tools and accessories, this is the go to workstation.
-- Novakid: A workstation for all things wirin' related.
+- Alta: My creature care station! I can make tools for catching monsters, collars for keeping pets, and even spawn eggs for research. Plus trophy displays for memorable encounters!~
+- Apex: Alta xenobiology and creature containment technology. Sophisticated capture and care systems.
+- Avian: A workshop for befriending and studying wild creatures! How wonderful to see such respect for life.
+- Floran: Catchesss beastsss, makesss them friendsss. Floran likesss thiss! Also makesss trophiesss from huntss.
+- Glitch: Impressed. This station balances creature preservation, research, and companionship admirably.
+- Human: Monster catching and pet care station! Capture pods, collars, spawn eggs, and trophy cases.
+- Hylotl: A harmonious approach to xenobiology. The alta seek to understand creatures, not merely exploit them.
+- Novakid: Critter catchin' station! For makin' wild beasties into friendly companions or study subjects.
 
 </details>
 
@@ -30,5 +30,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/objects/alta/crafting/bestiarium/ct_alta_bestiarium.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/crafting/bestiarium/ct_alta_bestiarium.object)

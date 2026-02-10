@@ -21,6 +21,8 @@ Unlocks blueprints for:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_zandarm_tart.png" alt="Zandarm Tart icon" loading="lazy" width="auto" height="16px"> [Zandarm Tart](https://ceterai.github.io/MyEnternia/Wiki/ZandarmTart).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_zandarm_tart-prime.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> Zandarm Prime ★ x*1*):

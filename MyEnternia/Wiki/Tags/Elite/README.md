@@ -15,7 +15,7 @@ Following objects have this colony tag:
 <details markdown="1"><summary>Following items have this item tag: (Expand 19 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/android_head/icon.png" alt="Elite Android Head ★ icon" loading="lazy" width="auto" height="16px"> [Elite Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroidHead)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/elite.png" alt="Elite Android ★ icon" loading="lazy" width="auto" height="16px"> [Elite Android ★](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/elite.png" alt="Elite Android Nade★ icon" loading="lazy" width="auto" height="16px"> [Elite Android Nade★](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroidNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_elite_augment.png" alt="Elite Augment ★★ icon" loading="lazy" width="auto" height="16px"> [Elite Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/EliteAugment)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/helmet/icon.png" alt="Elite Ceter-Helm icon" loading="lazy" width="auto" height="16px"> [Elite Ceter-Helm](https://ceterai.github.io/MyEnternia/Wiki/EliteCeter-Helm)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/elite.png" alt="Elite Droid icon" loading="lazy" width="auto" height="16px"> [Elite Droid](https://ceterai.github.io/MyEnternia/Wiki/EliteDroid)

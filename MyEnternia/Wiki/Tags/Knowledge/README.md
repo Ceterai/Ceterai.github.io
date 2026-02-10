@@ -1,13 +1,11 @@
 # Knowledge Tag
 
-The tag `knowledge` contains 12 total entries.
+The tag `knowledge` contains 10 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 6 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_bookcase.png" alt="Alta Lab Bookcase icon" loading="lazy" width="auto" height="16px"> [Alta Lab Bookcase](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBookcase)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_desk.png" alt="Alta Lab Desk icon" loading="lazy" width="auto" height="16px"> [Alta Lab Desk](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDesk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/laptop/icon.png" alt="Alta Laptop icon" loading="lazy" width="auto" height="16px"> [Alta Laptop](https://ceterai.github.io/MyEnternia/Wiki/AltaLaptop)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/monitor/icon.png" alt="Alta Monitor icon" loading="lazy" width="auto" height="16px"> [Alta Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaMonitor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/ship/monitor/icon.png" alt="Alta Ship Monitor icon" loading="lazy" width="auto" height="16px"> [Alta Ship Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaShipMonitor)

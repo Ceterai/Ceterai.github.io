@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> **Ionic Ferment** is a common cooking ingredient.
 
-This ferment acts as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_aya_pile/icon.png" alt="icon" width="16" height="16"/> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood sap and is what some fruits turn into when expire. Very sticky.  
-[Altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) use the ferment in many different ways, from a connective component when mixing materials or for outright glue mixtures, to a cooking ingredient, in cosmetics, gardening, medicine and energy filters.  
+This ferment acts as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood sap and is what some fruits turn into when expire. Very sticky.  
+[Altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) use the ferment in many different ways, from a connective component when mixing materials or for outright glue mixtures, to a cooking ingredient, in cosmetics, gardening, medicine and energy filters.  
 Read more about this: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/ayaka.png" alt="Ayaka Gardener's Notes icon" loading="lazy" width="auto" height="16px"> [Ayaka Gardener's Notes](https://ceterai.github.io/MyEnternia/Wiki/AyakaGardener'sNotes)
 
 ## Ingame
@@ -22,7 +22,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_ionic_fresh.png" alt="Ionic Fresh icon" loading="lazy" width="auto" height="16px"> [Ionic Fresh](https://ceterai.github.io/MyEnternia/Wiki/IonicFresh)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/other/ct_ionice_cube.png" alt="Ionice Cube icon" loading="lazy" width="auto" height="16px"> [Ionice Cube](https://ceterai.github.io/MyEnternia/Wiki/IoniceCube)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 65 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 67 items)</summary>
 
 - <img src="https://starbounder.org/mediawiki/images/9/95/Alien_Wood_Sap.png" alt="Alien Wood Sap icon" loading="lazy" width="10px" height="14px"> [Alien Wood Sap](https://starbounder.org/Alien_Wood_Sap)
 - `alienfruitjam`
@@ -40,8 +40,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
 - `beakseedjam`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/plant/ct_colorful_grass_seeds.png" alt="Colorful Grass Seeds icon" loading="lazy" width="auto" height="16px"> [Colorful Grass Seeds](https://ceterai.github.io/MyEnternia/Wiki/ColorfulGrassSeeds)
-- `congealedAcid`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
+- <img src="https://starbounder.org/mediawiki/images/1/1a/Cotton_Wool.png" alt="Cotton icon" loading="lazy" width="16px" height="15px"> [Cotton](https://starbounder.org/Cotton_Wool)
 - `ct_aid_mimic`
 - `ct_alta_crafting_station2`
 - `ct_food_mimic`
@@ -72,6 +72,7 @@ Unlocks blueprints for:
 - `pearlpeajam`
 - `pineapplejam`
 - <img src="https://starbounder.org/mediawiki/images/2/21/Pixel.png" alt="Pixel icon" loading="lazy" width="12px" height="16px"> [Pixel](https://starbounder.org/Pixel)
+- <img src="https://starbounder.org/mediawiki/images/0/05/Poison.png" alt="Poison icon" loading="lazy" width="16px" height="16px"> [Poison](https://starbounder.org/Poison)
 - <img src="https://starbounder.org/mediawiki/images/9/99/Purple_Dye.png" alt="Purple Dye icon" loading="lazy" width="8px" height="12px"> [Purple Dye](https://starbounder.org/Purple_Dye)
 - `pussplumjam`
 - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk)
@@ -85,6 +86,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/voda/icon.png" alt="Vodakoywa Seed icon" loading="lazy" width="auto" height="16px"> [Vodakoywa Seed](https://ceterai.github.io/MyEnternia/Wiki/VodakoywaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_warpball.png" alt="Warpball icon" loading="lazy" width="auto" height="16px"> [Warpball](https://ceterai.github.io/MyEnternia/Wiki/Warpball)
 - `wartweedjam`
+- <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"> [Woven Fabric](https://starbounder.org/Woven_Fabric)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/yaavi/seed/icon.png" alt="Yaara Eye Sprout icon" loading="lazy" width="auto" height="16px"> [Yaara Eye Sprout](https://ceterai.github.io/MyEnternia/Wiki/YaaraEyeSprout)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/icon.png" alt="Yaara Seed icon" loading="lazy" width="auto" height="16px"> [Yaara Seed](https://ceterai.github.io/MyEnternia/Wiki/YaaraSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_yaara_tea.png" alt="Yaara Tea icon" loading="lazy" width="auto" height="16px"> [Yaara Tea](https://ceterai.github.io/MyEnternia/Wiki/YaaraTea)
@@ -182,6 +184,7 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/jelly/boosted/icon.png" alt="Boosted Jelly Sapling icon" loading="lazy" width="auto" height="16px"> [Boosted Jelly Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedJellySapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/tonna/boosted/icon.png" alt="Boosted Tonna Sapling icon" loading="lazy" width="auto" height="16px"> [Boosted Tonna Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTonnaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/boosted/icon.png" alt="Boosted Tsay Sapling icon" loading="lazy" width="auto" height="16px"> [Boosted Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedTsaySapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Boosted Turanta Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedTurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/boosted/icon.png" alt="Boosted Verriskoywa Sapling icon" loading="lazy" width="auto" height="16px"> [Boosted Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVerriskoywaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/viona/boosted/icon.png" alt="Boosted Vionora Sapling icon" loading="lazy" width="auto" height="16px"> [Boosted Vionora Sapling](https://ceterai.github.io/MyEnternia/Wiki/BoostedVionoraSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/yaara/boosted/icon.png" alt="Boosted Yaara Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Yaara Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedYaaraSapling)
@@ -255,7 +258,6 @@ Drops from destroyed obstacles:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/icon.png" alt="Tsay Seed icon" loading="lazy" width="auto" height="16px"> [Tsay Seed](https://ceterai.github.io/MyEnternia/Wiki/TsaySeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/pod/icon.png" alt="Turanta Eco Pod icon" loading="lazy" width="auto" height="16px"> [Turanta Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/TurantaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/sapling/icon.png" alt="Turanta Sapling icon" loading="lazy" width="auto" height="16px"> [Turanta Sapling](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/icon.png" alt="Turanta Seed icon" loading="lazy" width="auto" height="16px"> [Turanta Seed](https://ceterai.github.io/MyEnternia/Wiki/TurantaSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/pod/icon.png" alt="Verriskoywa Eco Pod ★ icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Eco Pod ★](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/koywa/sapling/icon.png" alt="Verriskoywa Sapling icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Sapling](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaSapling)

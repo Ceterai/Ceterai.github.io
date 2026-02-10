@@ -23,6 +23,8 @@ Unlocks blueprints for:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/new_year/ct_round_salad.png" alt="Roundsalad icon" loading="lazy" width="auto" height="16px"> [Roundsalad](https://ceterai.github.io/MyEnternia/Wiki/Roundsalad).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_round_salad-banquet.png" alt="Round Banquet ★ icon" loading="lazy" width="auto" height="16px"> Round Banquet ★ x*1*):

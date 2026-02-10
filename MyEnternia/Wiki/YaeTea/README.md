@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_miko_tea-yae.png" alt="Yae Tea ★ icon" loading="lazy" width="auto" height="16px"> **Yae Tea ★** is an uncommon drink.
 
 A nice variation on the miko tea if you really want to show off for some reason. Good job I guess.  
-With additional spices and increased sweetness from [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/mikokoywa) extract, this drink will go well for someone in an already good mood.
+With additional spices and increased sweetness from [miko koywa](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaMikoFlower) extract, this drink will go well for someone in an already good mood.
 
 ## Ingame
 
@@ -20,6 +20,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_yuri_cocktail.png" alt="Yuri Cocktail icon" loading="lazy" width="auto" height="16px"> [Yuri Cocktail](https://ceterai.github.io/MyEnternia/Wiki/YuriCocktail)
 
 ## Sources
+
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" width="auto" height="16px"> [Miko Tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea).
 
 Can be crafted:
 

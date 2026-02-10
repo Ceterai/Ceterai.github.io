@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/long.png" alt="Tech Docs: Alternia Set icon" loading="lazy" width="auto" height="16px"> **Tech Docs: Alternia Set** is a common codex entry.
 
 A brief description of tier 6 [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) equipment worn by project [Ceterai](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceterai) researchers.  
-This document serves as a description of the [C.T. Alternia](https://ceterai.github.io/MyEnternia/Wiki/C.T.Alternia) set, which is designed for researchers of the [Ceterai project](https://ceterai.github.io/MyEnternia/Wiki/Ceteraiproject). It details the equipment's features, including the [visor](https://ceterai.github.io/MyEnternia/Wiki/visor), [suit](https://ceterai.github.io/MyEnternia/Wiki/suit), and [walkers](https://ceterai.github.io/MyEnternia/Wiki/walkers), and their enhancements for [energy usage](https://ceterai.github.io/MyEnternia/Wiki/energyusage) and [electric environments](https://ceterai.github.io/MyEnternia/Wiki/electricenvironments).
+This document serves as a description of the C.T. Alternia set, which is designed for researchers of the Ceterai project. It details the equipment's features, including the visor, suit, and walkers, and their enhancements for energy usage and electric environments.
 
 ## Ingame
 
@@ -13,15 +13,15 @@ Species descriptions:
 
 ### Contents
 
-Researchers of one of the most advanced [alta projects](https://ceterai.github.io/MyEnternia/Wiki/altaprojects) use special equipment that allows them to enhance their [energy usage](https://ceterai.github.io/MyEnternia/Wiki/energyusage) and use highly [electric environments](https://ceterai.github.io/MyEnternia/Wiki/electricenvironments) to their advantage.
+Researchers of one of the most advanced alta projects use special equipment that allows them to enhance their energy usage and use highly electric environments to their advantage.
 
-[C.T. Alternia](https://ceterai.github.io/MyEnternia/Wiki/C.T.Alternia) [Visor](https://ceterai.github.io/MyEnternia/Wiki/Visor) - A C.T. series helmet. Has a built-in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision) device. This is the first model in the helmet series.
+C.T. Alternia Visor - A C.T. series helmet. Has a built-in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision) device. This is the first model in the helmet series.
 
-[C.T. Alternia](https://ceterai.github.io/MyEnternia/Wiki/C.T.Alternia) [Suit](https://ceterai.github.io/MyEnternia/Wiki/Suit) - A high-capacity energy suit with advanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem) integrated into its front side.
+C.T. Alternia Suit - A high-capacity energy suit with advanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem) integrated into its front side.
 
-[C.T. Alternia](https://ceterai.github.io/MyEnternia/Wiki/C.T.Alternia) [Walkers](https://ceterai.github.io/MyEnternia/Wiki/Walkers) - Mechanical legwear with additional energy [capacitors](https://ceterai.github.io/MyEnternia/Wiki/capacitors) providing <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Max Energy Boost](https://starbounder.org/Status_Effects#Stat_Boosts).
+C.T. Alternia Walkers - Mechanical legwear with additional energy capacitors providing <img src="https://starbounder.org/mediawiki/images/thumb/5/57/Status_Energy_Boost.png/48px-Status_Energy_Boost.png" alt="Bonus Energy icon" loading="lazy" width="16px" height="16px"> [Max Energy Boost](https://starbounder.org/Status_Effects#Stat_Boosts).
 
-> [Note](https://ceterai.github.io/MyEnternia/Wiki/Note): be cautious, since effects like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem) can be blocked by [EMI attacks](https://ceterai.github.io/MyEnternia/Wiki/EMIattacks).
+> Note: be cautious, since effects like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_omniblue_light/ct_omniblue_vision.png" alt="Omniblue Vision icon" loading="lazy" width="auto" height="16px"> [Omniblue Vision](https://ceterai.github.io/MyEnternia/Wiki/OmniblueVision) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energy_support_system.png" alt="Energy Support System icon" loading="lazy" width="auto" height="16px"> [Energy Support System](https://ceterai.github.io/MyEnternia/Wiki/EnergySupportSystem) can be blocked by EMI attacks.
 
 ## Usage
 

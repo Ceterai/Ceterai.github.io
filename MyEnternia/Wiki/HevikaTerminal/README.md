@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/hevika/decorative/terminal/icon.png" alt="Hevika Terminal icon" loading="lazy" width="auto" height="16px"> **Hevika Terminal** is an uncommon wiring component.
 
 A crystal-powered terminal. Can be used to control stuff.  
-All <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" width="auto" height="16px"> [alta terminals](https://ceterai.github.io/MyEnternia/Wiki/AltaTerminal) have specialized interfaces, yet run on shared standardized software with [alta A.I.](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaAI) support. These are an alta developmnet to replace basic consoles - an interplanetary standard.
+All <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/terminal/icon.png" alt="Alta Terminal icon" loading="lazy" width="auto" height="16px"> [alta terminals](https://ceterai.github.io/MyEnternia/Wiki/AltaTerminal) have specialized interfaces, yet run on shared standardized software with [alta A.I.](https://ceterai.github.io/MyEnternia/Wiki/AltaBasicA.I.Chip) support. These are an alta developmnet to replace basic consoles - an interplanetary standard.
 
 ## Ingame
 

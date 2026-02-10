@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### ^#20f080;Elite^reset; Arsenal
 
-Can launch semi-auto bursts of 4 [Pulsings](https://ceterai.github.io/MyEnternia/Wiki/Pulsings) or charge up a powerful [Proto-Pulsar](https://ceterai.github.io/MyEnternia/Wiki/Proto-Pulsar). Will charge at enemy and explode on destruction.  
+Can launch semi-auto bursts of 4 Pulsings or charge up a powerful Proto-Pulsar. Will charge at enemy and explode on destruction.  
 Such arsenal was designed to work under most environmental conditions.
 
 ### ^#20f080;Elite^reset; Armor

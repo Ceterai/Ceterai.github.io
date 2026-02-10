@@ -21,7 +21,7 @@ Can periodically provide following items as rent:
 - for threat level **0+** (pool rounds: x*1* (weight: 0.9), x*2* (weight: 0.1)):
 - `redapple` x*1* (weight: 0.05)
 - `wheat` x*2* (weight: 0.05)
-- `rice` x*2* (weight: 0.05)
+- <img src="https://starbounder.org/mediawiki/images/d/da/Rice.png" alt="Rice icon" loading="lazy" width="16px" height="16px"> [Rice](https://starbounder.org/Rice) x*2* (weight: 0.05)
 - `afrowighead` x*1* (weight: 0.001)
 - `caphead` x*1* (weight: 0.001)
 - `coolfezhead` x*1* (weight: 0.001)

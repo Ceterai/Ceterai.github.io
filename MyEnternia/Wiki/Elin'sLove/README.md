@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_onitti_cake-love.png" alt="Elin's Love ★ icon" loading="lazy" width="auto" height="16px"> **Elin's Love ★** is a legendary dish.
 
-Multiple layers of pure love and care for all [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) in existence. It melts your heart with essence of love.  
+Multiple layers of pure love and care for all [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) in existence. It melts your heart with essence of love.  
 This advanced recipe makes sure you put a lot of effort in it to achieve perfection.
 
 ## Ingame
@@ -12,6 +12,8 @@ Species descriptions:
 - Alta: I've heard that this is momma Elin's own recipe. Very exciting!
 
 ## Sources
+
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" width="auto" height="16px"> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake).
 
 Can be crafted:
 

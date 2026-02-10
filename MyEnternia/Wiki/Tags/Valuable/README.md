@@ -1,10 +1,10 @@
 # Valuable Tag
 
-The tag `valuable` contains 71 total entries.
+The tag `valuable` contains 68 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 66 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 63 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_cake_af.png" alt="Alta Cake Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Alta Cake Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AltaCakeFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" alt="Alta Figurine icon" loading="lazy" width="auto" height="16px"> [Alta Figurine](https://ceterai.github.io/MyEnternia/Wiki/AltaFigurine)
@@ -25,9 +25,6 @@ The tag `valuable` contains 71 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_celestia_trophy.png" alt="Celestia's Trophy ★ icon" loading="lazy" width="auto" height="16px"> [Celestia's Trophy ★](https://ceterai.github.io/MyEnternia/Wiki/Celestia'sTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_ceterai_af.png" alt="Ceterai Figurine ★★★★ icon" loading="lazy" width="auto" height="16px"> [Ceterai Figurine ★★★★](https://ceterai.github.io/MyEnternia/Wiki/CeteraiFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/ceternia/icon.png" alt="Ceternia Sample ★★ icon" loading="lazy" width="auto" height="16px"> [Ceternia Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/CeterniaSample)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-collect_trophy1.png" alt="Collectioner's Prize ★ icon" loading="lazy" width="auto" height="16px"> [Collectioner's Prize ★](https://ceterai.github.io/MyEnternia/Wiki/Collectioner'sPrize)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-collect_trophy2.png" alt="Collectioner's Reward ★★ icon" loading="lazy" width="auto" height="16px"> [Collectioner's Reward ★★](https://ceterai.github.io/MyEnternia/Wiki/Collectioner'sReward)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-collect_trophy3.png" alt="Collectioner's Trophy ★★★ icon" loading="lazy" width="auto" height="16px"> [Collectioner's Trophy ★★★](https://ceterai.github.io/MyEnternia/Wiki/Collectioner'sTrophy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crippit.png" alt="Crippit Figurine icon" loading="lazy" width="auto" height="16px"> [Crippit Figurine](https://ceterai.github.io/MyEnternia/Wiki/CrippitFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_crippit_scab.png" alt="Crippit Scab ★ icon" loading="lazy" width="auto" height="16px"> [Crippit Scab ★](https://ceterai.github.io/MyEnternia/Wiki/CrippitScab)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_crystal_poptop.png" alt="Crystal Poptop Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Poptop Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalPoptopFigurine)

@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/tailor/icon.png" alt="Alta Tailor icon" loading="lazy" width="auto" height="16px"> **Alta Tailor** is an uncommon crafting station.
 
-An alta sewing machine with additional functionality.  
-Can create folded seams and protects the operator from the needle.
+An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) textile crafting station for sewing clothing, [dyes](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dye), and soft decorations.  
+The Alta Tailor is a tier 3 crafting station designed for textile work in the [Arcolar](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) fashion style. It features automated safety systems that protect operators from needle injuries while enabling precise sewing of <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [silk](https://starbounder.org/Silk), <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"> [fabric](https://starbounder.org/Woven_Fabric), and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound). Beyond clothing, the station can produce dyes from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) plants, decorative wall hangings, and even soft plushies. [Perizhad](https://ceterai.github.io/MyEnternia/Wiki/Alta#perizhad) fashion company recommends this model for both professional tailors and hobbyists.
 
 ## Ingame
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: I can make cloth and clothing here.
+- Alta: A sewing station! I can make all sorts of cute clothes, aya dyes, and even plushies here~ The safety features are really nice too!
 - Apex: Alta sewing technology. The automated safety systems are impressively designed.
 - Avian: A sewing machine that is extra safe!
 - Floran: Floran not underssstand cloth making. But machine looksss fancy!
@@ -30,5 +30,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`commerce`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Commerce), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/objects/alta/crafting/tailor/ct_alta_tailor.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/crafting/tailor/ct_alta_tailor.object)

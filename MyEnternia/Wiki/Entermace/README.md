@@ -9,7 +9,7 @@ Forged from [enterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ente
 
 Species descriptions:
 
-- Alta: I've never seen an enternia [niaton](https://ceterai.github.io/MyEnternia/Wiki/niaton) before, but I guess this is it. Seems to be much heavier than usual, but I guess this is because of materials.
+- Alta: I've never seen an enternia niaton before, but I guess this is it. Seems to be much heavier than usual, but I guess this is because of materials.
 
 Radiomessages on pickup:
 
@@ -25,10 +25,10 @@ Mysterious markings on the handle reference a unique combat system, or rather a 
 
 Parameters:
 
-- Fire Time: 0.9
 - Base Dps: 6
 - Damage Config:
   - Knockback: 25
+- Fire Time: 0.9
 
 ## Sources
 

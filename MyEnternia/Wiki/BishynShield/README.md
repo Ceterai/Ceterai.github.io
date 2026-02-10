@@ -42,6 +42,10 @@ Provides an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/st
 Inflicts <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_crystal_poison.png" alt="Crystal-Poisoned icon" loading="lazy" width="auto" height="16px"> [Crystal-Poisoned](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned) on hit.  
 Activate block fast enough (parry time) to perform a perfect block.
 
+### Energy Source
+
+Provides an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_energizer.png" alt="Energizer icon" loading="lazy" width="auto" height="16px"> [Energizer](https://ceterai.github.io/MyEnternia/Wiki/Energizer) status effect.
+
 ## Sources
 
 Found naturally in containers:

@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-calin_jam_dumplings.png" alt="Calin Jam Dumplings icon" loading="lazy" width="auto" height="16px"> **Calin Jam Dumplings** is a legendary dish.
 
-Very tasty <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" width="16" height="16"/> [koywa](https://ceterai.github.io/MyEnternia/Wiki/Koywa) dumplings with [calin jam](https://ceterai.github.io/MyEnternia/Wiki/calinjam) filling. While sweet, they're also very fulfilling and high on minerals and vitamins.  
-Prepared together with [chinid](https://ceterai.github.io/MyEnternia/Wiki/chinid) leaves and covered in spices, a simple serving of dumplings turns into a delicacy.
+Very tasty <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [koywa](https://ceterai.github.io/MyEnternia/Wiki/Koywa) dumplings with [calin jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam) filling. While sweet, they're also very fulfilling and high on minerals and vitamins.  
+Prepared together with chinid leaves and covered in spices, a simple serving of dumplings turns into a delicacy.
 
 ## Ingame
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_hevika_scab_egg.png" alt="Hevika Scab Egg icon" loading="lazy" width="auto" height="16px"> **Hevika Scab Egg** is a rare throwable item.
 
-Can be used to spawn a crab called [hevika scab](https://ceterai.github.io/MyEnternia/Wiki/hevikascab), a scab that hides in a [hevika crystal](https://ceterai.github.io/MyEnternia/Wiki/hevikacrystal).  
+Can be used to spawn a crab called hevika scab, a scab that hides in a hevika crystal.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/android_head/icon.png" alt="EDS Android Head ★ icon" loading="lazy" width="auto" height="16px"> **EDS Android Head ★** is a rare head armor piece.
 
-A head of an advanced android prototype for the [EDS Android Set](https://ceterai.github.io/MyEnternia/Wiki/EDSAndroidSet) series.
+A head of an advanced android prototype for the EDS Android Set series.
 
 ## Ingame
 

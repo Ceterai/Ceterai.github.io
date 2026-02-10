@@ -29,11 +29,11 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 12
 - Fire Time: 0.11
-- Press Type: `blast`
+- Hold Time Max:
+- Hold Time Min: 0.9
 - Press Params:
   - Type: `ct_plasma_small`
-- Hold Time Min: 0.9
-- Hold Time Max:
+- Press Type: `blast`
 
 ## Sources
 

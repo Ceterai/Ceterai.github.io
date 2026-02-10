@@ -8,10 +8,10 @@ The tag `ceternity` contains 17 total entries.
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/lights/icon.png" alt="Ceternity Lights icon" loading="lazy" width="auto" height="16px"> [Ceternity Lights](https://ceterai.github.io/MyEnternia/Wiki/CeternityLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_ceternity_poster.png" alt="Ceternity Poster icon" loading="lazy" width="auto" height="16px"> [Ceternity Poster](https://ceterai.github.io/MyEnternia/Wiki/CeternityPoster)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Jack O' Lantern icon" loading="lazy" width="auto" height="16px"> [Jack O' Lantern](https://ceterai.github.io/MyEnternia/Wiki/JackO'Lantern)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/miazmur/icon.png" alt="Miazmur icon" loading="lazy" width="auto" height="16px"> [Miazmur](https://ceterai.github.io/MyEnternia/Wiki/Miazmur)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Neonjack icon" loading="lazy" width="auto" height="16px"> [Neonjack](https://ceterai.github.io/MyEnternia/Wiki/Neonjack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/critters/warped_spider/icon.png" alt="Warped Spider icon" loading="lazy" width="auto" height="16px"> [Warped Spider](https://ceterai.github.io/MyEnternia/Wiki/WarpedSpider)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Yaajack icon" loading="lazy" width="auto" height="16px"> [Yaajack](https://ceterai.github.io/MyEnternia/Wiki/Yaajack)
 
 </details>
 

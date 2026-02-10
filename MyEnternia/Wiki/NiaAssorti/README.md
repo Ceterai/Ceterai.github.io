@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-nia_assorti.png" alt="Nia Assorti icon" loading="lazy" width="auto" height="16px"> **Nia Assorti** is an uncommon dish.
 
-A finely-cut and arranged assorti of nia fruit slices, alta pear rings and izo-balls, all covered a slight layer of [ion jam](https://ceterai.github.io/MyEnternia/Wiki/ionjam).  
+A finely-cut and arranged assorti of nia fruit slices, alta pear rings and izo-balls, all covered a slight layer of ion jam.  
 Every chef has a preference in arranging, as well as favourite cutting granularity, resulting in differing assortis from chef to chef.
 
 ## Ingame

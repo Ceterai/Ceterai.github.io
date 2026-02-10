@@ -2,21 +2,21 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/robocrafter/icon.png" alt="Alta Robocrafter icon" loading="lazy" width="auto" height="16px"> **Alta Robocrafter** is a legendary crafting station.
 
-An alta sewing machine with additional functionality.  
-Can create folded seams and protects the operator from the needle.
+An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) robotics assembly station for creating [drones](https://ceterai.github.io/MyEnternia/Wiki/Tags/Drone), [droids](https://ceterai.github.io/MyEnternia/Wiki/Tags/Droid), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/alta.png" alt="Android icon" loading="lazy" width="auto" height="16px"> [androids](https://ceterai.github.io/MyEnternia/Wiki/Android), and AI helpers.  
+The Alta Robocrafter is a tier 6 advanced robotics fabrication station specializing in artificial intelligence and mechanical companions. This sophisticated workshop creates everything from simple <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/security.png" alt="Security Drone icon" loading="lazy" width="auto" height="16px"> [security drones](https://ceterai.github.io/MyEnternia/Wiki/SecurityDrone) to complex android helpers. The station includes AI core programming suites, neural network calibration tools, and precision robotic assembly equipment. It's the heart of alta robotics research, producing the mechanical companions that assist altas in daily tasks, security, exploration, and companionship.
 
 ## Ingame
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: I can make cloth and clothing here.
-- Apex: Some sort of an alta mainframe. Might contain useful information.
-- Avian: A giant electronic library!
-- Floran: Floran can make equipment for wiring thingsss.
-- Glitch: Pleased. A workstation for creating wiring related equipment. Very handy.
-- Human: Wiring related equipment can be crafted on this workstation. Neat!
-- Hylotl: For wiring tools and accessories, this is the go to workstation.
-- Novakid: A workstation for all things wirin' related.
+- Alta: My robot workshop! I can build all kinds of helpful companions here - drones, droids, and even advanced androids with AI personalities!~
+- Apex: Alta robotics assembly station. Their AI technology is surprisingly sophisticated.
+- Avian: A workshop for building robot companions! The alta create such helpful machines.
+- Floran: Makesss metal friendsss. Floran not trussst them like plantss but they work good.
+- Glitch: Fascinated. As a robotic being myself, I find alta AI development methodology quite intriguing.
+- Human: Robot building station! From security drones to android buddies. Pretty cool tech.
+- Hylotl: An elegant synthesis of engineering and artificial consciousness. The alta honor their creations.
+- Novakid: Robot makin' station! All sorts of helpful mechanical critters and companions.
 
 </details>
 
@@ -30,5 +30,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/objects/alta/crafting/robocrafter/ct_alta_robocrafter.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/crafting/robocrafter/ct_alta_robocrafter.object)

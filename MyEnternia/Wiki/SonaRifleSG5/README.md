@@ -28,9 +28,9 @@ Letting it hold on the charge mode will produce a cryoplasma rocket and launch i
 Parameters:
 
 - Base Dps: 8
-- Fire Time: 0.15
-- Energy Usage: 32
 - Default Fire Type: `burst`
+- Energy Usage: 32
+- Fire Time: 0.15
 - Fire Types:
   - Auto:
     - Press Type: `blast`
@@ -65,11 +65,11 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.5
-- Press Type: `nade`
+- Fire Types:  `auto`,  `charge`,  `burst`
+- Hold Firemodes: `True`
 - Press Params:
   - Type: `icecloudgrenade`
-- Hold Firemodes: `True`
-- Fire Types:  `auto`,  `charge`,  `burst`
+- Press Type: `nade`
 
 ## Sources
 

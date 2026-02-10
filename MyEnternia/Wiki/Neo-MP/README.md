@@ -18,14 +18,14 @@ Rapid fire of elemental projectiles that leave a negative effect on the target.
 
 Parameters:
 
+- Base Dps: 6.5
 - Energy Usage: 20
+- Fire Time: 0.13
 - Fire Type: `auto`
 - Inaccuracy: 0.05
-- Base Dps: 6.5
 - Muzzle Flash Variants: 1
-- Fire Time: 0.13
-- Projectile Type: `neotommygunbullet`
 - Projectile Count: 1
+- Projectile Type: `neotommygunbullet`
 
 ## Sources
 

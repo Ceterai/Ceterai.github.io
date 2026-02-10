@@ -1,6 +1,6 @@
 # Plasma Tag
 
-The tag `plasma` contains 32 total entries.
+The tag `plasma` contains 31 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `plasma` contains 32 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 31 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_alistraza.png" alt="Alistraza icon" loading="lazy" width="auto" height="16px"> [Alistraza](https://ceterai.github.io/MyEnternia/Wiki/Alistraza)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/altersphere.png" alt="Alter-Sphere icon" loading="lazy" width="auto" height="16px"> [Alter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sphere)
@@ -40,7 +40,6 @@ The tag `plasma` contains 32 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword.png" alt="Plasmasword ★ icon" loading="lazy" width="auto" height="16px"> [Plasmasword ★](https://ceterai.github.io/MyEnternia/Wiki/Plasmasword)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Plasmora icon" loading="lazy" width="auto" height="16px"> [Plasmora](https://ceterai.github.io/MyEnternia/Wiki/Plasmora)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_plasmorbs.png" alt="Plasmorbs icon" loading="lazy" width="auto" height="16px"> [Plasmorbs](https://ceterai.github.io/MyEnternia/Wiki/Plasmorbs)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Spear ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sSpear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear.png" alt="Protospear icon" loading="lazy" width="auto" height="16px"> [Protospear](https://ceterai.github.io/MyEnternia/Wiki/Protospear)
 
 </details>

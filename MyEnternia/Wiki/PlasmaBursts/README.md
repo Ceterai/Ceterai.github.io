@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_mind.png" alt="Plasma Bursts icon" loading="lazy" width="auto" height="16px"> **Plasma Bursts** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
-Periodically burst with [pure plasma](https://ceterai.github.io/MyEnternia/Wiki/pureplasma).
+Periodically burst with pure plasma.
 
 ## Parameters
 

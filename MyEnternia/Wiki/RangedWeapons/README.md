@@ -4,7 +4,7 @@
 
 The mod adds a total of 69 ranged weapons:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/body.png:default.1" alt="Alta Firework Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Firework Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaFireworkCannon)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/cannon/icon.png" alt="Alta Firework Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Firework Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaFireworkCannon)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon.png" alt="Alta Harpooner icon" loading="lazy" width="auto" height="16px"> [Alta Harpooner](https://ceterai.github.io/MyEnternia/Wiki/AltaHarpooner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun_2.png" alt="Biowarper ★ icon" loading="lazy" width="auto" height="16px"> [Biowarper ★](https://ceterai.github.io/MyEnternia/Wiki/Biowarper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_bipolaris.png" alt="Bipolaris ★ icon" loading="lazy" width="auto" height="16px"> [Bipolaris ★](https://ceterai.github.io/MyEnternia/Wiki/Bipolaris)

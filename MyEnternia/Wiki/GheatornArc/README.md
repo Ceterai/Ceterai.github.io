@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/ct_gheatorn_arc/icon.png" alt="Gheatorn Arc icon" loading="lazy" width="auto" height="16px"> **Gheatorn Arc** is a common breakable object.
 
-A green glowing rock formation in a shape of an arc. It's a result of a slow <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal growth process. [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan for more.
+A green glowing rock formation in a shape of an arc. It's a result of a slow <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal growth process. [Alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)-scan for more.
 
 ## Ingame
 

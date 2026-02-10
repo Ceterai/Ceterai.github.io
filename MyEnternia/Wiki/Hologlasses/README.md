@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/hologlasses/icon.png" alt="Hologlasses icon" loading="lazy" width="auto" height="16px"> **Hologlasses** is a rare head cosmetic item.
 
-High-tech sunglasses created by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) researchers on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash).
+High-tech sunglasses created by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) researchers on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash).
 
 ## Usage
 

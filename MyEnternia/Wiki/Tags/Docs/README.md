@@ -1,6 +1,6 @@
 # Docs Tag
 
-The tag `docs` contains 26 total entries.
+The tag `docs` contains 27 total entries.
 
 ## Objects
 
@@ -8,7 +8,7 @@ The tag `docs` contains 26 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 26 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 27 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/calin.png" alt="Alta Clubhouse Brochure icon" loading="lazy" width="auto" height="16px"> [Alta Clubhouse Brochure](https://ceterai.github.io/MyEnternia/Wiki/AltaClubhouseBrochure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Alta Farmer's Notes icon" loading="lazy" width="auto" height="16px"> [Alta Farmer's Notes](https://ceterai.github.io/MyEnternia/Wiki/AltaFarmer'sNotes)
@@ -20,6 +20,7 @@ The tag `docs` contains 26 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/title.png" alt="CEN Referencing Guide icon" loading="lazy" width="auto" height="16px"> [CEN Referencing Guide](https://ceterai.github.io/MyEnternia/Wiki/CENReferencingGuide)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Colorful Poster icon" loading="lazy" width="auto" height="16px"> [Colorful Poster](https://ceterai.github.io/MyEnternia/Wiki/ColorfulPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/short.png" alt="Energy Mines icon" loading="lazy" width="auto" height="16px"> [Energy Mines](https://ceterai.github.io/MyEnternia/Wiki/EnergyMines)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Happy Ava Day! ❤ icon" loading="lazy" width="auto" height="16px"> [Happy Ava Day! ❤](https://ceterai.github.io/MyEnternia/Wiki/HappyAvaDay!)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/warped.png" alt="Nivera Cultivation icon" loading="lazy" width="auto" height="16px"> [Nivera Cultivation](https://ceterai.github.io/MyEnternia/Wiki/NiveraCultivation)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/koywa.png" alt="River Camping Brochure icon" loading="lazy" width="auto" height="16px"> [River Camping Brochure](https://ceterai.github.io/MyEnternia/Wiki/RiverCampingBrochure)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/sona.png" alt="Sona Soldier's Notes icon" loading="lazy" width="auto" height="16px"> [Sona Soldier's Notes](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier'sNotes)

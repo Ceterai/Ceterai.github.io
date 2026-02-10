@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phospholion_formation/icon.png" alt="Phospholion Formation icon" loading="lazy" width="auto" height="16px"> **Phospholion Formation** is a common decorative object.
 
-This natural metallic formation can be used in crafting to get the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) it's made of!
+This natural metallic formation can be used in crafting to get the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) it's made of!
 
 ## Ingame
 

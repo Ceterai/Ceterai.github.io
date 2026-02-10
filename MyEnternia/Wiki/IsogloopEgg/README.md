@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_isogloop_egg.png" alt="Isogloop Egg ★ icon" loading="lazy" width="auto" height="16px"> **Isogloop Egg ★** is an uncommon throwable item.
 
-Can be used to spawn a critter called [isogloop](https://ceterai.github.io/MyEnternia/Wiki/isogloop).  
+Can be used to spawn a critter called isogloop.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame

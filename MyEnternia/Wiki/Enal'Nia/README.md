@@ -27,14 +27,14 @@ Parameters:
 - Base Dps: 10
 - Energy Usage: 40
 - Fire Time: 0.8
-- Press Type: `burst`
-- Press Params:
-  - Type: `ct_plasma_medium`
-  - Count: 5
-- Hold Type: `semi`
 - Hold Params:
   - Type: `ct_ionic_medium`
   - Count: 5
+- Hold Type: `semi`
+- Press Params:
+  - Type: `ct_plasma_medium`
+  - Count: 5
+- Press Type: `burst`
 
 ### Nia Erea Desit
 
@@ -44,14 +44,14 @@ Hold - launch Electro-Cloud Nade.
 
 Parameters:
 
+- Attachments:  `none`,  `laser`,  `flashlight`
 - Base Dps: 10
 - Energy Usage: 44
 - Fire Time: 0.1
-- Hold Type: `nade`
 - Hold Params:
   - Type: `electriccloudgrenade`
+- Hold Type: `nade`
 - Press Attachments: `True`
-- Attachments:  `none`,  `laser`,  `flashlight`
 
 ## Sources
 

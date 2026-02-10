@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_mooplic_shady.png" alt="Mooplic Shroom icon" loading="lazy" width="auto" height="16px"> **Mooplic Shroom** is an uncommon tree sapling.
 
-A very suspicious-looking <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) shroom.
+A very suspicious-looking [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) shroom.
 
 ## Ingame
 

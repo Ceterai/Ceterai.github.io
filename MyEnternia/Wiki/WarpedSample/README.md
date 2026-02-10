@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/warped/icon.png" alt="Warped Sample icon" loading="lazy" width="auto" height="16px"> **Warped Sample** is a rare decorative object.
 
-A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) growth, preserved on a small titanium pedestal.
+A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) growth, preserved on a small titanium pedestal.
 
 ## Ingame
 

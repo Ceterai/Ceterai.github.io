@@ -21,12 +21,13 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/tsay/sapling/icon.png" alt="Tsay Sapling icon" loading="lazy" width="auto" height="16px"> [Tsay Sapling](https://ceterai.github.io/MyEnternia/Wiki/TsaySapling)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 10 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_assorti.png" alt="Assorti icon" loading="lazy" width="auto" height="16px"> [Assorti](https://ceterai.github.io/MyEnternia/Wiki/Assorti)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tsay_cooked.png" alt="Cooked Tsay icon" loading="lazy" width="auto" height="16px"> [Cooked Tsay](https://ceterai.github.io/MyEnternia/Wiki/CookedTsay)
 - `ct_food_mimic`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate)
 - <img src="https://starbounder.org/mediawiki/images/b/be/Green_Dye.png" alt="Green Dye icon" loading="lazy" width="8px" height="12px"> [Green Dye](https://starbounder.org/Green_Dye)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" width="auto" height="16px"> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/toys/ct_alta_toy_runeva_ball.png" alt="Runeva Ball icon" loading="lazy" width="auto" height="16px"> [Runeva Ball](https://ceterai.github.io/MyEnternia/Wiki/RunevaBall)

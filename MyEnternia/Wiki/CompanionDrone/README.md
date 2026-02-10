@@ -30,6 +30,10 @@ This set of functions is often attributed to scouting drones, as well as persona
 
 ## Sources
 
+Blueprint unlocked by obtaining:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="A Perfect Riverside Date icon" loading="lazy" width="auto" height="16px"> [A Perfect Riverside Date](https://ceterai.github.io/MyEnternia/Wiki/APerfectRiversideDate)
+
 Can be bought from merchants:
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)

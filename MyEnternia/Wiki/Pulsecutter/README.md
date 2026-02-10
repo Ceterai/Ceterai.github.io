@@ -16,22 +16,22 @@ Radiomessages on pickup:
 
 ### Minicharges
 
-Launches a series of small cutting [Pulsings](https://ceterai.github.io/MyEnternia/Wiki/Pulsings) on press and charges a proper long [Impulse Charge](https://ceterai.github.io/MyEnternia/Wiki/ImpulseCharge) on hold.
+Launches a series of small cutting Pulsings on press and charges a proper long Impulse Charge on hold.
 
 Parameters:
 
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.2
-- Press Type: `semi`
-- Press Params:
-  - Type: `ct_impulse_small`
-  - Inaccuracy: 0.01
-- Hold Type: `blast`
 - Hold Params:
   - Type: `ct_impulse_medium`
   - Inaccuracy: 0.01
 - Hold Time Max: 0.75
+- Hold Type: `blast`
+- Press Params:
+  - Type: `ct_impulse_small`
+  - Inaccuracy: 0.01
+- Press Type: `semi`
 
 ## Sources
 

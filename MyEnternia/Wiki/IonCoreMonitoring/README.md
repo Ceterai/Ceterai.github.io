@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/plasma.png" alt="Ion Core Monitoring icon" loading="lazy" width="auto" height="16px"> **Ion Core Monitoring** is a rare codex entry.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains gathered metrics from monitoring an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" width="16" height="16"/> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) environment.  
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains gathered metrics from monitoring an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) environment.  
 Seems like this is an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) report on the state of the core of one of the ionic planets.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" width="16" height="16"/> [arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) report on the stability of an ion core. The anomaly bit in the end makes me a little cautious.
+- Alta: An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" loading="lazy" width="auto" height="16px"> [Arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) report on the stability of an ion core. The anomaly bit in the end makes me a little cautious.
 
 Radiomessages on pickup:
 
@@ -20,7 +20,7 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 The core stability has regular fluctuations as usual, and the ion radiation seems to be still so far.
 
-All readings are stable, the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" width="16" height="16"/> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) energy will be at its peak in approx. 14 hours.
+All readings are stable, the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [ion core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#ion-core) energy will be at its peak in approx. 14 hours.
 
 Monitoring equipment:
 
@@ -31,11 +31,11 @@ Responsible team: A.R.C.O. RS-17 "Vera"
 
 Further report:
 
-An energy device found during scouting by an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" width="16" height="16"/> [arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) scout, codename <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" width="auto" height="16px"> ["Ion Fortress"](https://ceterai.github.io/MyEnternia/Wiki/IonFortress), as well as a deprecated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"> [plasma chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram).
+An energy device found during scouting by an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" loading="lazy" width="auto" height="16px"> [Arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) scout, codename <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_ioncore_shield.png" alt="Ion Fortress icon" loading="lazy" width="auto" height="16px"> ["Ion Fortress"](https://ceterai.github.io/MyEnternia/Wiki/IonFortress), as well as a deprecated <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"> [plasma chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram).
 
 All findings went to the coordination center.
 
-No anomalies detected during the scouting, as well as no [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) energy this time.
+No anomalies detected during the scouting, as well as no <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="viona icon" loading="lazy" width="auto" height="16px"> [viona](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) energy this time.
 
 Last time an enchanted item was found, along with a small-size anomaly, which could be a potential threat to the core's stability.
 

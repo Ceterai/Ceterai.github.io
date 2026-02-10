@@ -25,17 +25,17 @@ What tech drives this tool? Is this even technology to begin with? Are dreamers 
 
 Parameters:
 
-- Fire Time: 0.6
 - Base Dps: 12
 - Damage Config:
   - Damage Source Kind: `spear`
   - Knockback Mode: `aim`
   - Knockback: 10
   - Timeout Group: `primary`
-- Hold Damage Multiplier: 0.1
+- Fire Time: 0.6
 - Hold Damage Config:
   - Timeout Group: `hold`
   - Timeout: 0.5
+- Hold Damage Multiplier: 0.1
 
 ### Nightcharge
 

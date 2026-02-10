@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_sonaveil_popper.png" alt="Sonaveil Popper icon" loading="lazy" width="auto" height="16px"> **Sonaveil Popper** is an uncommon toy.
 
-A festive confetti popper to celebrate [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sona'sVeil). Pop it to shower the area with holiday cheer!  
+A festive confetti popper to celebrate Sona's Veil. Pop it to shower the area with holiday cheer!  
 This confetti popper is filled with red, yellow, and white confetti - the warm colors of the Sonaveil season. When popped, it releases a burst of festive confetti to celebrate the cold solstice holiday. Altas use these during Sonaveil gatherings to add excitement and joy to their celebrations.
 
 ## Ingame

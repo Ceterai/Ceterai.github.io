@@ -41,6 +41,7 @@ An artificial species of humanoids created to study the nature of . The main foc
       - [Enta (Entalta)](#enta-entalta)
       - [Voida (Voidalta)](#voida-voidalta)
       - [Heva (Hevalta)](#heva-hevalta)
+      - [Vionika (Vionalta)](#vionika-vionalta)
   - [History](#history)
     - [Origins](#origins)
   - [Culture](#culture)
@@ -91,7 +92,7 @@ An artificial species of humanoids created to study the nature of . The main foc
         - [Security Force](#security-force)
       - [Al'deron](#alderon)
     - [Militaristic Factions](#militaristic-factions)
-      - [EDS (Elite Defense Squad)](#eds-elite-defense-squad)
+      - [EDS](#eds)
       - [Faradea](#faradea)
     - [Science \& Research Foundations](#science--research-foundations)
       - [A.R.C.O](#arco)
@@ -244,7 +245,7 @@ The most common alta subspecies, comprising **99%** of the population. Created f
 
 ### Altari
 
-A taller subspecies specifically designed for guardian and protector roles. Altaris are physically stronger and more imposing than altayas, making them ideal for security positions. The capital city **Alliana** is named after **Allia**, the first altari alta.
+A taller subspecies specifically designed for guardian and protector roles. Altaris are physically stronger and more imposing than altayas, making them ideal for security positions. The capital city **Alliana** is named after the first altari alta.
 
 ### Alter
 
@@ -252,11 +253,11 @@ An experimental subspecies created through advanced genetic modifications. Alter
 
 ### Kaiter
 
-Originally designed for harsh, cold environments, kaiters possess enhanced resistance to low temperatures. However, they escaped alta control and became a separate, often hostile faction. The **Project Kaiter** that created them is considered one of alta civilization's major failures. (See **History** section)
+Originally meant to be alters, they escaped alta control and became a separate, mostly hostile faction. Designed for harsh, cold environments, kaiters possess enhanced resistance to low temperatures. The **Project Kaiter** that created them is considered one of alta civilization's major failures. (See **History** section)
 
 #### Kaitera
 
-Failed attempts to convert kaiters back into standard altas. These individuals exist in a transitional state, exhibiting characteristics of both kaiters and altayas but fully belonging to neither group.
+Failed kaiter attempts to convert altayas into "corrupted" altayas. These individuals exist in a transitional state, exhibiting some visual characteristics of kaiters but mentally still altayas.
 
 </details>
 
@@ -275,6 +276,10 @@ An alta whose emotions were captured by the void. These husks have lost their em
 #### Heva (Hevalta)
 
 An alta "zombie" who fell sick to **hevikai** and was overgrown with **hevika crystals**. These unfortunate altas are overtaken by crystalline growth, losing their original consciousness.
+
+#### Vionika (Vionalta)
+
+An alta affected by a viona anomaly, resulting in physical and (possibly) mental transformations. These "enchanted girls" are just trying to learn to live with their newly acquired features, like ears, or fluff, or tails, etc.
 
 </details>
 
@@ -818,7 +823,8 @@ Alta-1 features:
 
 #### Iceterion
 
-A former [cyclops yeti](https://ceterai.github.io/MyEnternia/Wiki/AltaRelations#cyclops-yeti) research station, now abandoned. This facility was dedicated to studying the cold-adapted megafauna, but has since been decommissioned. The reasons for its abandonment and current status remain unclear.
+An alterash prime planet that became the birth place of kaiters. Upon claiming the planet under their control, kaiters turned it into a snowy stronghold of theirs, becoming the center of interplanetary operations.  
+Notable places on Iceterion include a former [cyclops yeti](https://ceterai.github.io/MyEnternia/Wiki/AltaRelations#cyclops-yeti) research station, now abandoned. This facility was dedicated to studying the cold-adapted megafauna, but has since been decommissioned.
 
 #### Mita-3
 
@@ -888,7 +894,7 @@ Full list of decor: **Alta Ship Decorations**
 
 Altas are a relatively peaceful species, so most militaristic factions and combat-related organizations focus on either protection or helping other altas.
 
-#### EDS (Elite Defense Squad)
+#### EDS
 
 > Main page: **EDS**
 

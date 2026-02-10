@@ -19,22 +19,26 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Cryo-Blitz
 
-Main ability of the item, activated with left mouse button.
+Swiftly projects a burst of icy plasma charges onto the targets.
 
 Parameters:
 
-- Projectile Parameters:
-  - Knockback Range:  10,  40
+- Base Dps: 10
 - Energy Usage: 30
+- Fire Time: 0.8
 - Fire Type: `auto`
 - Inaccuracy: 0.13
-- Base Dps: 10
 - Muzzle Flash Variants: 1
-- Fire Time: 0.8
-- Projectile Type: `iceplasma`
 - Projectile Count: 5
+- Projectile Parameters:
+  - Knockback Range:  10,  40
+- Projectile Type: `iceplasma`
+
+### Secondary Ability
+
+Launches a shrapnel blast pack.
 
 ## Sources
 

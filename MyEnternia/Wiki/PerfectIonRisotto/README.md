@@ -13,6 +13,8 @@ Species descriptions:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Ion Risotto icon" loading="lazy" width="auto" height="16px"> [Ion Risotto](https://ceterai.github.io/MyEnternia/Wiki/IonRisotto).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ion_risotto-perfect.png" alt="Perfect Ion Risotto ★ icon" loading="lazy" width="auto" height="16px"> Perfect Ion Risotto ★ x*1*):

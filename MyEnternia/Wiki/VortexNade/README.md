@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" width="auto" height="16px"> **Vortex Nade ★** is a rare cryogenic throwable item.
 
 A grenade that creates a localised vortex field that slows and damages enemies. Covered with signature [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) stripes.  
-It utilizes particular types of [vionia](https://ceterai.github.io/MyEnternia/Wiki/vionia) to create a point of immediate energy conflict.
+It utilizes particular types of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="vionia icon" loading="lazy" width="auto" height="16px"> [vionia](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) to create a point of immediate energy conflict.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: A faradea frag. I think these are using [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) anomalies as a damage tactic. Very creative.
+- Alta: A faradea frag. I think these are using <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="viona icon" loading="lazy" width="auto" height="16px"> [viona](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) anomalies as a damage tactic. Very creative.
 
 ## Sources
 

@@ -13,6 +13,8 @@ Species descriptions:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" width="auto" height="16px"> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_haruplavu_venetto-prime.png" alt="Venetto Prime ★ icon" loading="lazy" width="auto" height="16px"> Venetto Prime ★ x*1*):

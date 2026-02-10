@@ -14,9 +14,9 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Sura-Strike
 
-Main ability of the item, activated with left mouse button.
+A set of attacks that burn through energetic fields with sura energy.
 
 Parameters:
 

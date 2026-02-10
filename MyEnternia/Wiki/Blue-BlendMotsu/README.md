@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-blue_blend_motsu.png" alt="Blue-Blend Motsu ★ icon" loading="lazy" width="auto" height="16px"> **Blue-Blend Motsu ★** is a rare dish.
 
-This motsu is usually made for altas in corfals, [elin gardens](https://ceterai.github.io/MyEnternia/Wiki/elingardens) and hospitals. It's a sweet motsu soup made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"> [boiled ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas) and <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [alta pears](https://ceterai.github.io/MyEnternia/Wiki/AltaPear).  
+This motsu is usually made for altas in corfals, elin gardens and hospitals. It's a sweet motsu soup made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_boiled.png" alt="Boiled Ayas icon" loading="lazy" width="auto" height="16px"> [boiled ayas](https://ceterai.github.io/MyEnternia/Wiki/BoiledAyas) and <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-alta_pear.png" alt="Alta Pear icon" loading="lazy" width="auto" height="16px"> [alta pears](https://ceterai.github.io/MyEnternia/Wiki/AltaPear).  
 Usually motsus are not supposed to be sweet, but this dish is an exclusion. Anything for well-behaving altas.
 
 ## Ingame

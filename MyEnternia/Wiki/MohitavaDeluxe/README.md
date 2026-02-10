@@ -13,6 +13,8 @@ Species descriptions:
 
 ## Sources
 
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" width="auto" height="16px"> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava).
+
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_mohitava_cocktail-deluxe.png" alt="Mohitava Deluxe ★ icon" loading="lazy" width="auto" height="16px"> Mohitava Deluxe ★ x*1*):

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_body_mimic-yaara_body_vine.png" alt="Yaara Body Vine ★ icon" loading="lazy" width="auto" height="16px"> **Yaara Body Vine ★** is a rare chest cosmetic item.
 
-A simple body belt made out of naturally grown <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) vines.  
+A simple body belt made out of naturally grown <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) vines.  
 While not very protective, it's quite sturdy and can hold quite a lot of things.
 
 ## Ingame

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_bishyn_nade.png" alt="Bishyn Nade icon" loading="lazy" width="auto" height="16px"> **Bishyn Nade** is an uncommon throwable item.
 
 A poison crystal shrapnel blast device. 2 in 1.  
-A powerful discharge forces the crystal core to erupt, launching in different directions. This pressure-based self-eruption, or [bishyn discharge](https://ceterai.github.io/MyEnternia/Wiki/bishyndischarge), is what makes this device so useful in more than just combat.
+A powerful discharge forces the crystal core to erupt, launching in different directions. This pressure-based self-eruption, or bishyn discharge, is what makes this device so useful in more than just combat.
 
 ## Ingame
 

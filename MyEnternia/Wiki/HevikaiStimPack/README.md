@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_stim.png" alt="Hevikai Stim Pack icon" loading="lazy" width="auto" height="16px"> **Hevikai Stim Pack** is a legendary medical item.
 
 Develops <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) inside of you. Why would you do that? Who knows. Make sure to have a complimenting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_hevikai_antidote.png" alt="Hevikai Antidote ★★ icon" loading="lazy" width="auto" height="16px"> [Hevikai Antidote](https://ceterai.github.io/MyEnternia/Wiki/HevikaiAntidote) with you.  
-Because of the energy-draining void atmosphere on [enterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime) planets, these enhancers have found a good use protecting [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) while there.
+Because of the energy-draining void atmosphere on [enterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/EnterashPrime) planets, these enhancers have found a good use protecting [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) while there.
 
 ## Ingame
 

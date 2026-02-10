@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/monsters/ct_stardust_crippit_egg.png" alt="Stardust Crippit Egg icon" loading="lazy" width="auto" height="16px"> **Stardust Crippit Egg** is a legendary one-handed throwable item.
 
-Can be used to spawn a creature called [stardust crippit](https://ceterai.github.io/MyEnternia/Wiki/stardustcrippit).  
+Can be used to spawn a creature called stardust crippit.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame

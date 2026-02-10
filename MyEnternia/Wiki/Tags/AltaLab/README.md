@@ -1,30 +1,25 @@
 # Alta Lab Tag
 
-The tag `alta_lab` contains 48 total entries.
+The tag `alta_lab` contains 43 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 30 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 25 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/tray/icon.png" alt="Alta Hydroponic Tray icon" loading="lazy" width="auto" height="16px"> [Alta Hydroponic Tray](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponicTray)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/amplifier/icon.png" alt="Alta Lab Amplifier icon" loading="lazy" width="auto" height="16px"> [Alta Lab Amplifier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAmplifier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/barrier/icon.png" alt="Alta Lab Barrier icon" loading="lazy" width="auto" height="16px"> [Alta Lab Barrier](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBarrier)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/bed/icon.png" alt="Alta Lab Bed icon" loading="lazy" width="auto" height="16px"> [Alta Lab Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBed)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_bookcase.png" alt="Alta Lab Bookcase icon" loading="lazy" width="auto" height="16px"> [Alta Lab Bookcase](https://ceterai.github.io/MyEnternia/Wiki/AltaLabBookcase)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_icon.png" alt="Alta Lab Capsule icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsule)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_blue_icon.png" alt="Alta Lab Capsule With Alcal icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Alcal](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithAlcal)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_red_icon.png" alt="Alta Lab Capsule With Mical icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Mical](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithMical)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/capsules/ct_capsule_purple_icon.png" alt="Alta Lab Capsule With Yonnur icon" loading="lazy" width="auto" height="16px"> [Alta Lab Capsule With Yonnur](https://ceterai.github.io/MyEnternia/Wiki/AltaLabCapsuleWithYonnur)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/chair/icon.png" alt="Alta Lab Chair icon" loading="lazy" width="auto" height="16px"> [Alta Lab Chair](https://ceterai.github.io/MyEnternia/Wiki/AltaLabChair)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/console/icon.png" alt="Alta Lab Console icon" loading="lazy" width="auto" height="16px"> [Alta Lab Console](https://ceterai.github.io/MyEnternia/Wiki/AltaLabConsole)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_datablock.png" alt="Alta Lab Datablock icon" loading="lazy" width="auto" height="16px"> [Alta Lab Datablock](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDatablock)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_desk.png" alt="Alta Lab Desk icon" loading="lazy" width="auto" height="16px"> [Alta Lab Desk](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDesk)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/door/icon.png" alt="Alta Lab Door icon" loading="lazy" width="auto" height="16px"> [Alta Lab Door](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDoor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/lab/icon.png" alt="Alta Lab Eco Pod icon" loading="lazy" width="auto" height="16px"> [Alta Lab Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/gateway/icon.png" alt="Alta Lab Gateway icon" loading="lazy" width="auto" height="16px"> [Alta Lab Gateway](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGateway)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/hatch/icon.png" alt="Alta Lab Hatch icon" loading="lazy" width="auto" height="16px"> [Alta Lab Hatch](https://ceterai.github.io/MyEnternia/Wiki/AltaLabHatch)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_microscope.png" alt="Alta Lab Microscope icon" loading="lazy" width="auto" height="16px"> [Alta Lab Microscope](https://ceterai.github.io/MyEnternia/Wiki/AltaLabMicroscope)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-lab_monitor.png" alt="Alta Lab Monitor icon" loading="lazy" width="auto" height="16px"> [Alta Lab Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaLabMonitor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="Alta Lab Pod icon" loading="lazy" width="auto" height="16px"> [Alta Lab Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/sapling/icon.png" alt="Alta Lab Sapling icon" loading="lazy" width="auto" height="16px"> [Alta Lab Sapling](https://ceterai.github.io/MyEnternia/Wiki/AltaLabSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/server/icon.png" alt="Alta Lab Server icon" loading="lazy" width="auto" height="16px"> [Alta Lab Server](https://ceterai.github.io/MyEnternia/Wiki/AltaLabServer)
@@ -52,7 +47,7 @@ Following tenants require this colony tag:
 
 <details markdown="1"><summary>Following items have this item tag: (Expand 14 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/lab.png" alt="Alta Lab Android icon" loading="lazy" width="auto" height="16px"> [Alta Lab Android](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAndroid)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/androids/lab.png" alt="Alta Lab Android Nade icon" loading="lazy" width="auto" height="16px"> [Alta Lab Android Nade](https://ceterai.github.io/MyEnternia/Wiki/AltaLabAndroidNade)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ionic_drone-lab.png" alt="Alta Lab Drone icon" loading="lazy" width="auto" height="16px"> [Alta Lab Drone](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDrone)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_elite_chest-lab.png" alt="Alta Lab Guard Armor icon" loading="lazy" width="auto" height="16px"> [Alta Lab Guard Armor](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuardArmor)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_pack-lab.png" alt="Alta Lab Guard Pack icon" loading="lazy" width="auto" height="16px"> [Alta Lab Guard Pack](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuardPack)

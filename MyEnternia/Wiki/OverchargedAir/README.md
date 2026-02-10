@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"> **Overcharged Air** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
 Quickly degrades your energy. Once out of energy, damages you repeatedly with [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) strikes.  
-Having <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Immunity](https://starbounder.org/Electric_Resistance) minimizes negative effects, while <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="icon" width="16" height="16"/> [plasma immunity](https://ceterai.github.io/MyEnternia/Wiki/Alternia#immunity) blocks the effect completely.
+Having <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Immunity](https://starbounder.org/Electric_Resistance) minimizes negative effects, while <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_block.png" alt="icon" loading="lazy" width="auto" height="16px"> [Plasma Immunity](https://ceterai.github.io/MyEnternia/Wiki/Alternia#immunity) blocks the effect completely.
 
 ## Parameters
 

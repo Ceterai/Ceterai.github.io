@@ -12,15 +12,15 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Layer: `foreground`
 - Activating Fire Mode: `primary`
 - Energy Usage: 5
+- Layer: `foreground`
+- On Leave Animation States:
+  - Blade: `deactivating`
 - Requisite Animation States:
   - Blade: `active`
 - Windup Animation States:
   - Blade: `activating`
-- On Leave Animation States:
-  - Blade: `deactivating`
 
 ### Secondary Ability
 
@@ -28,17 +28,17 @@ Alternative ability of the item, activated with right mouse button.
 
 Parameters:
 
-- Layer: `background`
 - Activating Fire Mode: `alt`
 - Energy Usage: 5
+- Inactive Animation States:
+  - Blade: `inactive`
+- Layer: `background`
+- On Leave Animation States:
+  - Blade: `deactivating`
 - Requisite Animation States:
   - Blade: `active`
 - Windup Animation States:
   - Blade: `activating`
-- On Leave Animation States:
-  - Blade: `deactivating`
-- Inactive Animation States:
-  - Blade: `inactive`
 
 ## Sources
 

@@ -22,9 +22,9 @@ Welcome to an Iora Gyera nature preservation site!
 Here you'll be able to spend some time on fresh air, relax and see rare specimens of iora, nature from different stardust planets.
 
 Places like this are one of biggest sources of ingredients for a lot of runeva  
-dishes, commonly found in the [Runeva Cuisine Cookbook](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineCookbook).
+dishes, commonly found in the Runeva Cuisine Cookbook.
 
-Here, you can also find rare flowers called [Versalia](https://ceterai.github.io/MyEnternia/Wiki/Versalia), as well as other rare species of beautiful flowers.
+Here, you can also find rare flowers called Versalia, as well as other rare species of beautiful flowers.
 
 ## Usage
 

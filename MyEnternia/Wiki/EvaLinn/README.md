@@ -14,22 +14,23 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Soneva Charge
 
-Main ability of the item, activated with left mouse button.
+Ice-cold blasts swipe through the air.
+Firemodes: single, semiauto.
 
 Parameters:
 
 - Base Dps: 9
 - Energy Usage: 32
 - Fire Time: 1.6
-- Press Type: `snipe`
-- Press Params:
-  - Type: `iceplasma`
-- Hold Type: `semi`
 - Hold Params:
   - Type: `iceplasma`
   - Count: 2
+- Hold Type: `semi`
+- Press Params:
+  - Type: `iceplasma`
+- Press Type: `snipe`
 
 ### Heaven's Gaze
 
@@ -39,14 +40,14 @@ Hold - launch an Icy Cloud Nade.
 
 Parameters:
 
+- Attachments:  `none`,  `laser`,  `stabilizer`
+- Base Dps: 9
+- Energy Usage: 32
+- Fire Time: 0.5
 - Hold Params:
   - Type: `icecloudgrenade`
-- Press Attachments: `True`
-- Energy Usage: 32
-- Attachments:  `none`,  `laser`,  `stabilizer`
 - Hold Type: `nade`
-- Base Dps: 9
-- Fire Time: 0.5
+- Press Attachments: `True`
 
 ## Sources
 

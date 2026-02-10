@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-stuffed_aya.png" alt="Stuffed Aya icon" loading="lazy" width="auto" height="16px"> **Stuffed Aya** is an uncommon dish.
 
 A properly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [baked aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya) stuffed with different runeva goodness. What will you get this time?  
-Its variations usually include either <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) filling or a [nia jam](https://ceterai.github.io/MyEnternia/Wiki/niajam) of your choice.
+Its variations usually include either <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) filling or a nia jam of your choice.
 
 ## Ingame
 

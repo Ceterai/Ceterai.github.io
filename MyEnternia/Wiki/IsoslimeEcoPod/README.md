@@ -36,7 +36,7 @@ Unlocks blueprints for:
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Boosted Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedIsoslimeSapling)
 
 Can be crafted:
 

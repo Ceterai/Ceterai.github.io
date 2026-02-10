@@ -19,9 +19,9 @@ Radiomessages on pickup:
 
 ## Parameters
 
-### Primary Ability
+### Cavegrace
 
-Main ability of the item, activated with left mouse button.
+The aerodynamic shape of the horn allows to make smooth, yet slow hits on the target.
 
 Parameters:
 
@@ -30,14 +30,14 @@ Parameters:
 
 ### Secondary Ability
 
-Alternative ability of the item, activated with right mouse button.
+Launches a poison wave, dealing damage to all targets in its path.
 
 Parameters:
 
-- Energy Usage: 80
-- Projectile Type: `webblast`
-- Projectile Offset:  4.5,  0.5
 - Base Damage: 1
+- Energy Usage: 80
+- Projectile Offset:  4.5,  0.5
+- Projectile Type: `webblast`
 
 ## Sources
 

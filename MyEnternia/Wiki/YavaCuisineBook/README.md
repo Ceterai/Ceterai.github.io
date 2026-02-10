@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-[yava cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#yava) is not as common among altas, used to crystals and pulps, compared to other cuisines.
+[Yava cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#yava) is not as common among altas, used to crystals and pulps, compared to other cuisines.
 
 As the name suggests, this is a herb-based cuisine filled with various vitamins and natural textures.
 

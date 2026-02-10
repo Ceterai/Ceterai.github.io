@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-red_archulins.png" alt="Red Archulins icon" loading="lazy" width="auto" height="16px"> **Red Archulins** is a common food item.
 
-A rare sort of [archulins](https://ceterai.github.io/MyEnternia/Wiki/archulins) that is much smaller than usual, and is perfectly safe to eat as it is. Enjoy!  
+A rare sort of archulins that is much smaller than usual, and is perfectly safe to eat as it is. Enjoy!  
 These often grow in bigger groups than basic archulins, but are pretty difficult to find due to strict reuirements to the environment.
 
 ## Ingame

@@ -1,6 +1,6 @@
 # Tools
 
-The mod adds a total of 102 tools.
+The mod adds a total of 103 tools.
 
 ## Scanners
 

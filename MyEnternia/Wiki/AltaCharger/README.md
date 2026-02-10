@@ -22,13 +22,13 @@ Parameters:
 - Base Dps: 2
 - Energy Usage: 12
 - Fire Time: 1.0
-- Press Type: `tazer`
+- Hold Time Max:
+- Hold Time Min: 0.9
 - Press Params:
   - Params:
     - Speed: 5
     - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
-- Hold Time Min: 0.9
-- Hold Time Max:
+- Press Type: `tazer`
 
 ## Sources
 

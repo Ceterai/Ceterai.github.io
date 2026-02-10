@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_sonaveil_pie-hug.png" alt="Sona's Embrace ★★ icon" loading="lazy" width="auto" height="16px"> **Sona's Embrace ★★** is a rare dish.
 
 An exceptionally prepared Sonaveil pie with perfect golden crust and magical warmth. _Can be used as substitute for Sonaveil Pie._  
-"Sona's Embrace" is what altas call the perfect Sonaveil pie - one where every element comes together in harmony. The koywa crust is delicately flaky yet sturdy, the gil and sonasweet filling perfectly balanced between sweet, savory and spiced, the tonna butter adds rich smoothness, and the whole pie radiates an almost magical warmth that lasts for hours. Made with extra love and holiday spirit, it embodies the true heart of [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sona'sVeil). These are typically made by master chefs like Miara, experienced caretakers from Elin Gardens, or loving sisters who pour genuine holiday spirit into every step. The warmth these pies generate isn't just physical - altas say you can taste the care and affection baked into them. Sharing this pie during Sonaveil is considered a deep expression of sisterly love and the season's true meaning: staying warm together when it's cold outside.
+"Sona's Embrace" is what altas call the perfect Sonaveil pie - one where every element comes together in harmony. The koywa crust is delicately flaky yet sturdy, the gil and sonasweet filling perfectly balanced between sweet, savory and spiced, the tonna butter adds rich smoothness, and the whole pie radiates an almost magical warmth that lasts for hours. Made with extra love and holiday spirit, it embodies the true heart of Sona's Veil. These are typically made by master chefs like Miara, experienced caretakers from Elin Gardens, or loving sisters who pour genuine holiday spirit into every step. The warmth these pies generate isn't just physical - altas say you can taste the care and affection baked into them. Sharing this pie during Sonaveil is considered a deep expression of sisterly love and the season's true meaning: staying warm together when it's cold outside.
 
 ## Ingame
 
@@ -21,6 +21,8 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sonaveil Pie ★ icon" loading="lazy" width="auto" height="16px"> [Sonaveil Pie ★](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPie)
 
 ## Sources
+
+Can be obtained with chance after getting <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sonaveil Pie ★ icon" loading="lazy" width="auto" height="16px"> [Sonaveil Pie ★](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPie).
 
 Can be crafted:
 

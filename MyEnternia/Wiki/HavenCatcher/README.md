@@ -12,13 +12,13 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Fire Time: 0.75
 - Base Dps: 0.01
 - Damage Config:
   - Damage Source Kind: `bugnet`
   - Knockback:
   - Knockback Mode: `facing`
   - Timeout Group: `primary`
+- Fire Time: 0.75
 
 ## Sources
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb_spots.png" alt="Spotful Akollic Shroom icon" loading="lazy" width="auto" height="16px"> **Spotful Akollic Shroom** is an uncommon tree sapling.
 
-An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" width="auto" height="16px"> [akollic shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom) covered in spots. That's it. Commonly found in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) environments.
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_akollic_bulb.png" alt="Akollic Shroom icon" loading="lazy" width="auto" height="16px"> [akollic shroom](https://ceterai.github.io/MyEnternia/Wiki/AkollicShroom) covered in spots. That's it. Commonly found in [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) environments.
 
 ## Ingame
 

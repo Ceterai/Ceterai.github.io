@@ -21,69 +21,33 @@ Radiomessages on pickup:
 
 ### Dual Resonation
 
-A sequence of 4 (+1) heavy strikes. Hold to perform a [blade charge](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Blade-Charge). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab)  
+A sequence of 4 (+1) heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Blade-Charge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab)  
 Full resonation engaged! A perfect viona anomaly to rule them all.
 
 Parameters:
 
-- Hold Params:
-  - Charge Border: `FF33FF88`
-  - Damage Config:
-    - Status Effects:  `frostslow`
-    - Damage Source Kind: `icebroadsword`
-    - Ranged:
-      - Type: `smallicecloud`
-      - Params:
-        - Speed: 15
-      - Inaccuracy: 1.57
-      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
-      - Count: 5
-      - Offset:  5.0,  -0.85
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor:
-- Knockback: 20.0
-- Swoosh: `swoosh1`
-- Swoosh Offset:  0.75, ,  4.25,  5.0
-- Element: `physical`, 
-- Damage Factor: 0.6
-- Energy Factor:
-- Knockback: 15.0
-- Swoosh: `swoosh2`
-- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
-- Element: `physical`, 
-- Damage Factor: 1.2
-- Energy Factor:
-- Knockback: 25.0
-- Swoosh: `swoosh3`
-- Swoosh Offset:  1.5,  -1.0,  5.5,  1.0
-- Damage Source Kind: `icebroadsword`
-- Status Effects:  `frostslow`, 
-- Damage Factor: 1.6
-- Energy Factor:
-- Knockback: 35.0
-- Swoosh: `swoosh1`
-- Swoosh Offset:  3.0,  -0.5,  6.5,  2.0
-- Damage Source Kind: `icebroadsword`
-- Status Effects:  `frostslow`
-- Swoosh Sound: `primary_hold`
-- Ranged:
-  - Type: `smallicecloud`
-  - Count: 3
-  - Params:
-    - Speed: 5
-  - Inaccuracy: 1.57
-  - Offset:  5.0,  -0.85
-  - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
-- Energy Usage: 32
+- Base Dps: 12
 - Damage Config:
   - Base Damage: 22.5
   - Knockback: 40
   - Damage Source Kind: `broadsword`
   - Knockback Mode: `facing`
   - Timeout: 0.5
-- Base Dps: 12
+- Energy Usage: 32
 - Fire Time: 0.93
+- Hold Params:
+  - Charge Border: `FF33FF88`
+  - Damage Config:
+    - Damage Source Kind: `icebroadsword`
+    - Status Effects:  `frostslow`
+    - Ranged:
+      - Type: `smallicecloud`
+      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
+      - Inaccuracy: 1.57
+      - Count: 5
+      - Offset:  5.0,  -0.85
+      - Params:
+        - Speed: 15
 
 ### Enchanted Resonation
 

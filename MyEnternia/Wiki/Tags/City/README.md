@@ -1,10 +1,10 @@
 # City Tag
 
-The tag `city` contains 46 total entries.
+The tag `city` contains 45 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 32 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 31 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/stand_agitate/icon.png" alt="Alta Agitational Stand icon" loading="lazy" width="auto" height="16px"> [Alta Agitational Stand](https://ceterai.github.io/MyEnternia/Wiki/AltaAgitationalStand)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/bench/icon.png" alt="Alta Bench icon" loading="lazy" width="auto" height="16px"> [Alta Bench](https://ceterai.github.io/MyEnternia/Wiki/AltaBench)
@@ -37,7 +37,6 @@ The tag `city` contains 46 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" width="auto" height="16px"> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/toxic/icon.png" alt="Potted Toxic Flower icon" loading="lazy" width="auto" height="16px"> [Potted Toxic Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedToxicFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/yaara/icon.png" alt="Potted Yaara Plant icon" loading="lazy" width="auto" height="16px"> [Potted Yaara Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraPlant)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-tea_cafe_sign.png" alt="Tea Cafe Sign icon" loading="lazy" width="auto" height="16px"> [Tea Cafe Sign](https://ceterai.github.io/MyEnternia/Wiki/TeaCafeSign)
 
 </details>
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-juni_porridge_w_galo.png" alt="Juni Porridge w/ Galo ★ icon" loading="lazy" width="auto" height="16px"> **Juni Porridge w/ Galo ★** is a rare dish.
 
-A salty porridge made from heated grinded junis - biocrystals called _junilin_, and a [chinid](https://ceterai.github.io/MyEnternia/Wiki/chinid) (a crystal plant) leaf on top.  
+A salty porridge made from heated grinded junis - biocrystals called _junilin_, and a chinid (a crystal plant) leaf on top.  
 Its ingredients also include different runeva spices and some small _koichi peas_ mixed in with the juni porridge.
 
 ## Ingame

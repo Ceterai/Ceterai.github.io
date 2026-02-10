@@ -9,7 +9,7 @@ Popular among spacedrifters, travelers and some mercs, this combat tool provides
 
 Species descriptions:
 
-- Alta: I can shower things with plasma without getting a G2 certification, like with [NG5s](https://ceterai.github.io/MyEnternia/Wiki/NG5s)!
+- Alta: I can shower things with plasma without getting a G2 certification, like with NG5s!
 
 Radiomessages on pickup:
 
@@ -26,14 +26,14 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.1
-- Press Type: `semi`
+- Hold Params:
+  - Type: `ct_plasma_large`
+- Hold Type: `rocket`
 - Press Params:
   - Type: `ct_plasma_small`
   - Inaccuracy: 0.02
   - Count: 4
-- Hold Type: `rocket`
-- Hold Params:
-  - Type: `ct_plasma_large`
+- Press Type: `semi`
 
 ## Sources
 

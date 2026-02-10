@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-aric_stew.png" alt="Aric Stew icon" loading="lazy" width="auto" height="16px"> **Aric Stew** is a rare dish.
 
-A mushroom stew that requires very high temperatures for cooking, which is why it's served in a [bionium](https://ceterai.github.io/MyEnternia/Wiki/bionium) bowl. Don't get burned!  
+A mushroom stew that requires very high temperatures for cooking, which is why it's served in a [bionium](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) bowl. Don't get burned!  
 If properly prepared, will result in a proper meaty-mushroomy stew. If not, then, well, the bowl will probably explode.
 
 ## Ingame

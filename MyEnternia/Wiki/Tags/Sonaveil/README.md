@@ -1,16 +1,22 @@
 # Sonaveil Tag
 
-The tag `sonaveil` contains 19 total entries.
+The tag `sonaveil` contains 23 total entries.
 
 ## Objects
 
-Following objects have this colony tag:
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_alta_scarf_wall.png" alt="Alta Wall Scarf icon" loading="lazy" width="auto" height="16px"> [Alta Wall Scarf](https://ceterai.github.io/MyEnternia/Wiki/AltaWallScarf)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta1/icon.png" alt="Snowalta icon" loading="lazy" width="auto" height="16px"> [Snowalta](https://ceterai.github.io/MyEnternia/Wiki/Snowalta)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sona_poster.png" alt="Sona Poster icon" loading="lazy" width="auto" height="16px"> [Sona Poster](https://ceterai.github.io/MyEnternia/Wiki/SonaPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowglobe1/icon.png" alt="Sonaglobe icon" loading="lazy" width="auto" height="16px"> [Sonaglobe](https://ceterai.github.io/MyEnternia/Wiki/Sonaglobe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/lights/icon.png" alt="Sonaveil Lights icon" loading="lazy" width="auto" height="16px"> [Sonaveil Lights](https://ceterai.github.io/MyEnternia/Wiki/SonaveilLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sonaveil_poster.png" alt="Sonaveil Poster icon" loading="lazy" width="auto" height="16px"> [Sonaveil Poster](https://ceterai.github.io/MyEnternia/Wiki/SonaveilPoster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowglobe2/icon.png" alt="Sonaveil Sonaglobe icon" loading="lazy" width="auto" height="16px"> [Sonaveil Sonaglobe](https://ceterai.github.io/MyEnternia/Wiki/SonaveilSonaglobe)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sonaveil_scarf_wall.png" alt="Sonaveil Wall Scarf icon" loading="lazy" width="auto" height="16px"> [Sonaveil Wall Scarf](https://ceterai.github.io/MyEnternia/Wiki/SonaveilWallScarf)
+
+</details>
 
 ## Tenants
 

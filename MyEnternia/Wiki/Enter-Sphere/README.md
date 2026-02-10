@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" width="auto" height="16px"> **Enter-Sphere** is a legendary crafting material.
 
-Provides powerful discarges of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) energy.  
+Provides powerful discarges of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" loading="lazy" width="auto" height="16px"> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) energy.  
 Unlike other [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) spheres, these can be quite chaotic in their nature and are often used for proto-overloads, rechargers and overlocks.
 
 **Proto-Overloads** are special alta fuze systems that are often used in alta combat tools and high-capacity facilities.

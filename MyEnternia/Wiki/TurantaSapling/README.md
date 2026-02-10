@@ -34,8 +34,8 @@ Unlocks blueprints for:
 
 Can be used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Boosted Turanta Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedTurantaSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/eco/icon.png" alt="Eco Turanta Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Eco Turanta Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoTurantaSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/turanta/boosted/icon.png" alt="Turanta Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Turanta Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/TurantaSapling)
 
 ## Sources
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/isoslime/icon.png" alt="Isoslime Sample ★ icon" loading="lazy" width="auto" height="16px"> **Isoslime Sample ★** is a rare decorative object.
 
-A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="icon" width="16" height="16"/> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime), preserved on a small titanium pedestal.
+A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime), preserved on a small titanium pedestal.
 
 ## Ingame
 

@@ -21,7 +21,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Transformer
 
-Will fire semi-auto bursts of 3 [ionic charges](https://ceterai.github.io/MyEnternia/Wiki/ioniccharges) when in range. Will transform into an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" width="auto" height="16px"> [EDS droid](https://ceterai.github.io/MyEnternia/Wiki/EDSDroid) on low health.  
+Will fire semi-auto bursts of 3 ionic charges when in range. Will transform into an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" width="auto" height="16px"> [EDS droid](https://ceterai.github.io/MyEnternia/Wiki/EDSDroid) on low health.  
 If one approach wasn't effective enough, it will try a different one...
 
 ### Basic Drone

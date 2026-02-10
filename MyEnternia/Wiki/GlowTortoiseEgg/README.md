@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/critters/ct_glow_tortoise_egg.png" alt="Glow Tortoise Egg icon" loading="lazy" width="auto" height="16px"> **Glow Tortoise Egg** is a rare throwable item.
 
-Can be used to spawn a critter called [glow tortoise](https://ceterai.github.io/MyEnternia/Wiki/glowtortoise).  
+Can be used to spawn a critter called glow tortoise.  
 These "eggs" are really just highly incubated versions of creatures, used by altas during research, often for simulation purposes, which is why they tend to be friendly to their owner.
 
 ## Ingame

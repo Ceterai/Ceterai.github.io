@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Astera Industries icon" loading="lazy" width="auto" height="16px"> **Astera Industries** is a legendary codex entry.
 
 A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) that contains information about <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"> [alta labs](https://ceterai.github.io/MyEnternia/Wiki/AltaLabs) and mines on [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera) asteroids.  
-There are relatively big asteroids floating around astera perfectly fit for big industrial compounds like these. Altas call them [moonrock space islands](https://ceterai.github.io/MyEnternia/Wiki/moonrockspaceislands).
+There are relatively big asteroids floating around astera perfectly fit for big industrial compounds like these. Altas call them [moonrock space islands](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
 ## Ingame
 
@@ -18,14 +18,14 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 ### Contents
 
-By astera, [altas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta) usually mean a cosmic area surrounding any [Io structs](https://ceterai.github.io/MyEnternia/Wiki/Iostructs), most commonly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets.
+By astera, [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) usually mean a cosmic area surrounding any Io structs, most commonly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets.
 
 More often than not such spaces are filled with asteroids rich on minerals, <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), and alien life forms.
 
 That's why it's not uncommon to find different alta industries scattered throughout astera.
 
-These industries include [alta space stations](https://ceterai.github.io/MyEnternia/Wiki/altaspacestations) for bypassing ships, mining facilities that gather the minerals and crystals from all around, and research labs where altas perform cosmos-related studies and experiments.  
-This is where a lot of stardust-related research comes from, as well as research about astera itself, the Io structs and the moon-like nature of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) and [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash) planets.
+These industries include alta space stations for bypassing ships, mining facilities that gather the minerals and crystals from all around, and research labs where altas perform cosmos-related studies and experiments.  
+This is where a lot of stardust-related research comes from, as well as research about astera itself, the Io structs and the moon-like nature of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) and [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash) planets.
 
 Since performing research and other work in such environments is not particularly easy, many astera-based organizations and teams have formed an alliance meant for sharing resources and providing technological help to each other.
 

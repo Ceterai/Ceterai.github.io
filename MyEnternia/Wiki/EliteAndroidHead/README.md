@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/elite/android_head/icon.png" alt="Elite Android Head ★ icon" loading="lazy" width="auto" height="16px"> **Elite Android Head ★** is a legendary head armor piece.
 
-A head of a heavy android prototype for the [Elite Android Set](https://ceterai.github.io/MyEnternia/Wiki/EliteAndroidSet) series.
+A head of a heavy android prototype for the Elite Android Set series.
 
 ## Ingame
 

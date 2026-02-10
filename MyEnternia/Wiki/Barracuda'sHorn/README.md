@@ -34,10 +34,10 @@ Launches a poison wave, dealing damage to all targets in its path.
 
 Parameters:
 
-- Energy Usage: 80
-- Projectile Type: `webblast`
-- Projectile Offset:  4.5,  0.5
 - Base Damage: 1
+- Energy Usage: 80
+- Projectile Offset:  4.5,  0.5
+- Projectile Type: `webblast`
 
 ## Sources
 

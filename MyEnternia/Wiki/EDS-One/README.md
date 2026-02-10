@@ -22,9 +22,9 @@ Firemodes: single, semiauto.
 Parameters:
 
 - Base Dps: 10
+- Default Fire Type: `single`
 - Energy Usage: 36
 - Fire Time: 1.2
-- Default Fire Type: `single`
 - Fire Types:
   - Single:
     - Press Type: `snipe`
@@ -49,8 +49,8 @@ Hold - change firemodes.
 
 Parameters:
 
-- Fire Types:  `single`,  `semi`
 - Attachments:  `none`,  `laser`,  `stabilizer`
+- Fire Types:  `single`,  `semi`
 
 ## Sources
 

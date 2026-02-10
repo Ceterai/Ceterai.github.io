@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/festive_station/icon.png" alt="Alta Festive Station icon" loading="lazy" width="auto" height="16px"> **Alta Festive Station** is a legendary crafting station.
 
 A festive crafting station for celebrating alta holidays throughout the planetary and interplanetary calendars.  
-The Alta Festive Station allows crafting of holiday-themed decorations, costumes, and special items for celebrating [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sona'sVeil), [Ava Day](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), and [Alta National Day](https://ceterai.github.io/MyEnternia/Wiki/AltaNationalDay). Each holiday brings its own unique crafts and traditions, from spooky costumes to warm winter decorations to gift-giving items to patriotic displays.
+The Alta Festive Station allows crafting of holiday-themed decorations, costumes, and special items for celebrating [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity), Sona's Veil, [Ava Day](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), and Alta National Day. Each holiday brings its own unique crafts and traditions, from spooky costumes to warm winter decorations to gift-giving items to patriotic displays.
 
 ## Ingame
 
@@ -20,7 +20,23 @@ The Alta Festive Station allows crafting of holiday-themed decorations, costumes
 
 </details>
 
+## Usage
+
+### Crafting
+
+Unlocks blueprints for:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Alta New Year - Lann 10 icon" loading="lazy" width="auto" height="16px"> [Alta New Year - Lann 10](https://ceterai.github.io/MyEnternia/Wiki/AltaNewYear-Lann10)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/enchanted.png" alt="Sonaveil Guide icon" loading="lazy" width="auto" height="16px"> [Sonaveil Guide](https://ceterai.github.io/MyEnternia/Wiki/SonaveilGuide)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="The Spooks of Ceternity icon" loading="lazy" width="auto" height="16px"> [The Spooks of Ceternity](https://ceterai.github.io/MyEnternia/Wiki/TheSpooksofCeternity)
+
 ## Sources
+
+Can be crafted:
+
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/crafting_station/icon2.png) [Alta Crafting Station](https://ceterai.github.io/MyEnternia/Wiki/AltaCraftingStation) (takes 0.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/festive_station/icon.png" alt="Alta Festive Station icon" loading="lazy" width="auto" height="16px"> Alta Festive Station x*1*):
+  - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*16*
+  - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" alt="Prism Shard icon" loading="lazy" width="10px" height="10px"> [Prism Shard](https://starbounder.org/Prism_Shard) x*16*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

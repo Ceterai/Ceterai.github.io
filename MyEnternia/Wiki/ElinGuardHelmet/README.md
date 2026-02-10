@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier4/elin/helmet/icon.png" alt="Elin Guard Helmet ★ icon" loading="lazy" width="auto" height="16px"> **Elin Guard Helmet ★** is an uncommon head armor piece.
 
-A helmet overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara). Worn by some Elin Garden guards.
+A helmet overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara). Worn by some Elin Garden guards.
 
 ## Parameters
 

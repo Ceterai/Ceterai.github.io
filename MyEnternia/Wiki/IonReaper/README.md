@@ -15,7 +15,7 @@ Radiomessages on pickup:
 ### Ionic Barrage
 
 Covers the target in [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) strikes.
-Press - a shotgun burst of Paired [Ionic Charges](https://ceterai.github.io/MyEnternia/Wiki/IonicCharges);
+Press - a shotgun burst of Paired Ionic Charges;
 Hold - charges an electric Ion Rocket.
 
 Parameters:
@@ -23,7 +23,9 @@ Parameters:
 - Base Dps: 9
 - Energy Usage: 36
 - Fire Time: 0.45
-- Press Type: `burst`
+- Hold Params:
+  - Type: `ct_ionic_large`
+- Hold Type: `rocket`
 - Press Params:
   - Type: `ct_ionic_medium`
   - Inaccuracy: 0.6
@@ -31,14 +33,12 @@ Parameters:
     - Knockback: 10
     - Time To Live: 5.0
   - Count: 2
-- Hold Type: `rocket`
-- Hold Params:
-  - Type: `ct_ionic_large`
+- Press Type: `burst`
 
 ### Ion Discharge
 
 Has an inbuilt ion discharger.
-Press - energy discarge in form of 3 [Ion Blasts](https://ceterai.github.io/MyEnternia/Wiki/IonBlasts);
+Press - energy discarge in form of 3 Ion Blasts;
 Hold - launch an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ionic_nade.png" alt="Ion Nade icon" loading="lazy" width="auto" height="16px"> [Ion Nade](https://ceterai.github.io/MyEnternia/Wiki/IonNade).
 
 Parameters:
@@ -46,13 +46,13 @@ Parameters:
 - Base Dps: 9
 - Energy Usage: 40
 - Fire Time: 0.9
-- Press Type: `discharge`
-- Press Params:
-  - Type: `ct_ionic_blast`
-- Hold Type: `nade`
 - Hold Params:
   - Type: `ct_ionic_nade_charge`
 - Hold Time Max: 0.55
+- Hold Type: `nade`
+- Press Params:
+  - Type: `ct_ionic_blast`
+- Press Type: `discharge`
 
 ## Sources
 

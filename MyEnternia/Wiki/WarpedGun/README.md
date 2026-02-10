@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" width="auto" height="16px"> **Warped Gun** is an uncommon two-handed poisonous shotgun.
 
-This cannon is overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) fibres. It has a special section filled with warped venom and luminous juices.
+This cannon is overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) fibres. It has a special section filled with warped venom and luminous juices.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun_2.png" alt="Biowarper ★ icon" loading="lazy" width="auto" height="16px"> [Biowarper ★](https://ceterai.github.io/MyEnternia/Wiki/Biowarper) at the Weapon Upgrade Anvil.
 
@@ -25,7 +25,10 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 0.9
-- Press Type: `burst`
+- Hold Params:
+  - Type: `poisonplasmarocket`
+  - Inaccuracy: 0.01
+- Hold Type: `blast`
 - Press Params:
   - Type: `acidsweep`
   - Inaccuracy: 0.21
@@ -33,10 +36,7 @@ Parameters:
     - Knockback: 5
     - Time To Live: 5.0
   - Count: 5
-- Hold Type: `blast`
-- Hold Params:
-  - Type: `poisonplasmarocket`
-  - Inaccuracy: 0.01
+- Press Type: `burst`
 
 ### Venomous Barrage
 
@@ -49,13 +49,13 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.9
-- Press Type: `nade`
-- Press Params:
-  - Type: `acidgrenade`
-- Hold Type: `nade`
 - Hold Params:
   - Type: `poisoncloudgrenade`
 - Hold Time Max: 0.55
+- Hold Type: `nade`
+- Press Params:
+  - Type: `acidgrenade`
+- Press Type: `nade`
 
 ## Sources
 

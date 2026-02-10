@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator.png" alt="Phospholiator icon" loading="lazy" width="auto" height="16px"> **Phospholiator** is a rare two-handed fiery grenade launcher.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="icon" width="16" height="16"/> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) cannon that forms small radioactive projectiles that deal severe [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage upon contact.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) cannon that forms small radioactive projectiles that deal severe [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage upon contact.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator_2.png" alt="Phosic Cannon ★ icon" loading="lazy" width="auto" height="16px"> [Phosic Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/PhosicCannon) at the Weapon Upgrade Anvil.
 
@@ -25,18 +25,18 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 32
 - Fire Time: 0.9
-- Press Type: `burst`
+- Hold Params:
+  - Type: `firestickygrenade`
+  - Inaccuracy: 0.21
+  - Count: 3
+- Hold Type: `burst`
 - Press Params:
   - Type: `fireplasma`
   - Inaccuracy: 0.11
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
-- Hold Type: `burst`
-- Hold Params:
-  - Type: `firestickygrenade`
-  - Inaccuracy: 0.21
-  - Count: 3
+- Press Type: `burst`
 
 ### Phosic Patronage
 
@@ -49,16 +49,16 @@ Parameters:
 - Base Dps: 8
 - Energy Usage: 36
 - Fire Time: 0.9
-- Press Type: `burst`
-- Press Params:
-  - Type: `firestickygrenade`
-  - Inaccuracy: 0.08
-  - Count: 1
-- Hold Type: `burst`
 - Hold Params:
   - Type: `fireproximitymine`
   - Inaccuracy: 0.21
   - Count: 3
+- Hold Type: `burst`
+- Press Params:
+  - Type: `firestickygrenade`
+  - Inaccuracy: 0.08
+  - Count: 1
+- Press Type: `burst`
 
 ## Sources
 

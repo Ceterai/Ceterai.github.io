@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_jam-bishyn.png" alt="Bishyn Jam icon" loading="lazy" width="auto" height="16px"> **Bishyn Jam** is an uncommon dish.
 
-Since <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals are not very edible, this isn't actually bishyn. It is, however, quite bitter and tingy, exactly what you would expect from it.  
+Since <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals are not very edible, this isn't actually bishyn. It is, however, quite bitter and tingy, exactly what you would expect from it.  
 Due to it being a crystal-based jam, it can easily be used as a substitute for other calin jams in almost any dish.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: This jam is actually very good in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" width="auto" height="16px"> [crystal cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies). Whenever someone makes [bishyn chip cookies](https://ceterai.github.io/MyEnternia/Wiki/bishynchipcookies), you know you'll be first to try them.
+- Alta: This jam is actually very good in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_crystal_cookies.png" alt="Crystal Cookies icon" loading="lazy" width="auto" height="16px"> [crystal cookies](https://ceterai.github.io/MyEnternia/Wiki/CrystalCookies). Whenever someone makes bishyn chip cookies, you know you'll be first to try them.
 
 ## Usage
 

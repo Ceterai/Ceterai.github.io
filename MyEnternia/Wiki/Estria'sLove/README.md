@@ -2,14 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-estria_love.png" alt="Estria's Love ★ icon" loading="lazy" width="auto" height="16px"> **Estria's Love ★** is a legendary dish.
 
-This cake was prepared following [Estria](https://ceterai.github.io/MyEnternia/Wiki/Estria)'s personal recipe. It's fuming with "love". Make sure not to eat too much, for your own sake.  
+This cake was prepared following [Estria](https://ceterai.github.io/MyEnternia/Wiki/Niverisk)'s personal recipe. It's fuming with "love". Make sure not to eat too much, for your own sake.  
 A perfect gift to a love partner. Make sure to eat a <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-sentia_crown_pie.png" alt="Sentia's Crown Pie ★ icon" loading="lazy" width="auto" height="16px"> ["sentia's crown" pie](https://ceterai.github.io/MyEnternia/Wiki/Sentia'sCrownPie) afterwards and wash it down with some <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_miko_tea.png" alt="Miko Tea icon" loading="lazy" width="auto" height="16px"> [miko tea](https://ceterai.github.io/MyEnternia/Wiki/MikoTea).
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: Oh nice, a cake of lust. You won't fool me, evil [sentia](https://ceterai.github.io/MyEnternia/Wiki/sentia)!
+- Alta: Oh nice, a cake of lust. You won't fool me, evil sentia!
 
 ## Parameters
 

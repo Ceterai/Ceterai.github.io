@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/sona.png" alt="On Tavriya Climate icon" loading="lazy" width="auto" height="16px"> **On Tavriya Climate** is a rare codex entry.
 
-This datamass describes a report on a rare phenomenon that occurs in [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya) areas on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.  
+This datamass describes a report on a rare phenomenon that occurs in [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya) areas on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.  
 The growth mentioned in the report is cryonic algae that forms deep underneath the surface, usually from remains of isoslime residue.
 
 ## Ingame

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime Loot Crate icon" loading="lazy" width="auto" height="16px"> **Crystalline Prime Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://starbounder.org/mediawiki/images/0/01/Crystal_Plant_Crop.png" alt="Crystalline Prime icon" width="15" height="14"/> [crystalline prime](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrime) biome chests.  
+Contains random loot from [crystalline prime](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrime) biome chests.  
 These are mostly crystals, as well as simple cal furniture and cosmetics.
 
 ## Ingame

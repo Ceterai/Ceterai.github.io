@@ -1,17 +1,15 @@
 # Party Tag
 
-The tag `party` contains 13 total entries.
+The tag `party` contains 11 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 10 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 8 items)</summary>
 
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-altolight.png" alt="Alta Altolight icon" loading="lazy" width="auto" height="16px"> [Alta Altolight](https://ceterai.github.io/MyEnternia/Wiki/AltaAltolight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/basic/icon.png" alt="Alta Dart Board icon" loading="lazy" width="auto" height="16px"> [Alta Dart Board](https://ceterai.github.io/MyEnternia/Wiki/AltaDartBoard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/hard/body.png" alt="Alta Dart Hardboard icon" loading="lazy" width="auto" height="16px"> [Alta Dart Hardboard](https://ceterai.github.io/MyEnternia/Wiki/AltaDartHardboard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/mega/body.png" alt="Alta Dart Megaboard icon" loading="lazy" width="auto" height="16px"> [Alta Dart Megaboard](https://ceterai.github.io/MyEnternia/Wiki/AltaDartMegaboard)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/boards/darts/super/body.png" alt="Alta Dart Superboard icon" loading="lazy" width="auto" height="16px"> [Alta Dart Superboard](https://ceterai.github.io/MyEnternia/Wiki/AltaDartSuperboard)
-- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_obj_mimic-mikolight.png" alt="Alta Mikolight icon" loading="lazy" width="auto" height="16px"> [Alta Mikolight](https://ceterai.github.io/MyEnternia/Wiki/AltaMikolight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/speaker/icon.png" alt="Alta Speaker icon" loading="lazy" width="auto" height="16px"> [Alta Speaker](https://ceterai.github.io/MyEnternia/Wiki/AltaSpeaker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/toymaker/icon.png" alt="Alta Toymaker icon" loading="lazy" width="auto" height="16px"> [Alta Toymaker](https://ceterai.github.io/MyEnternia/Wiki/AltaToymaker)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/calin/decorative/bed/icon.png" alt="Calin Bed icon" loading="lazy" width="auto" height="16px"> [Calin Bed](https://ceterai.github.io/MyEnternia/Wiki/CalinBed)

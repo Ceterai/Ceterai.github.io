@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="A Sentia's Crown icon" loading="lazy" width="auto" height="16px"> **A Sentia's Crown** is an uncommon codex entry.
 
-This ebook tells the story about a powerful [nivera sentia](https://ceterai.github.io/MyEnternia/Wiki/niverasentia), a mystical creature, trying to make friends to show them her little garden.  
+This ebook tells the story about a powerful nivera sentia, a mystical creature, trying to make friends to show them her little garden.  
 Sentias are alta-like arachnas, that use special paralyzing venom, tricks in form of love gifts and other secret ways to catch unsuspecting altas and force them to be their friend.  
 Sentias are usually used as a scary story to teach altas about caution and trust.
 

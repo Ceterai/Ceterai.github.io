@@ -2,21 +2,21 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/insectarium/icon.png" alt="Alta Insectarium icon" loading="lazy" width="auto" height="16px"> **Alta Insectarium** is a legendary crafting station.
 
-An alta sewing machine with additional functionality.  
-Can create folded seams and protects the operator from the needle.
+An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) station dedicated to the study and collection of insects, [bugs](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bug), and other small critters.  
+The Alta Insectarium is a tier 6 crafting station focused on arthropods and entomology research. It provides tools for capturing, studying, and preserving various bug species found across <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets - from [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) hive creatures to crystal snails and bioluminescent beetles. The station includes specialized nets, terrariums for bottled displays, and spawning equipment for recreating collected species.
 
 ## Ingame
 
 <details markdown="1"><summary>Species descriptions: (Expand 8 items)</summary>
 
-- Alta: I can make cloth and clothing here.
-- Apex: Some sort of an alta mainframe. Might contain useful information.
-- Avian: A giant electronic library!
-- Floran: Floran can make equipment for wiring thingsss.
-- Glitch: Pleased. A workstation for creating wiring related equipment. Very handy.
-- Human: Wiring related equipment can be crafted on this workstation. Neat!
-- Hylotl: For wiring tools and accessories, this is the go to workstation.
-- Novakid: A workstation for all things wirin' related.
+- Alta: My little bug collection station! I can craft nets, bottled displays, and even spawn eggs for all the cute critters I've studied~
+- Apex: Alta entomology station. The specimen preservation technology is remarkably advanced.
+- Avian: A station for studying tiny creatures! So many interesting bugs to discover!
+- Floran: Floran likesss catching bugsss! Thisss station helpsss with that!
+- Glitch: Fascinated. This workstation allows comprehensive study of arthropod specimens.
+- Human: Bug collecting station! Nets, terrariums, and all kinds of creepy crawlies to study.
+- Hylotl: A beautifully organized insectarium. The attention to specimen care reflects alta scientific values.
+- Novakid: Bug-catchin' station! All sorts of critters from them alterash planets!
 
 </details>
 
@@ -30,5 +30,4 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `6`
 - Power: `1.0`
 - Rarity: `Legendary`
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`crafting`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Crafting), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - File: [`/objects/alta/crafting/insectarium/ct_alta_insectarium.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/crafting/insectarium/ct_alta_insectarium.object)

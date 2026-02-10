@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Viona Miazma Monitoring icon" loading="lazy" width="auto" height="16px"> **Viona Miazma Monitoring** is an uncommon codex entry.
 
 A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) containing a report on the recent energy-related measurements in an anomalous area.  
-The data shows numerous energy anomalies, or [miazmas](https://ceterai.github.io/MyEnternia/Wiki/miazmas), in different so-called [viona](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona) areas, or ["enchanted" areas](https://ceterai.github.io/MyEnternia/Wiki/enchantedareas) of the planet.
+The data shows numerous energy anomalies, or [miazmas](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins#miazma), in different so-called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="viona icon" loading="lazy" width="auto" height="16px"> [viona](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) areas, or ["enchanted" areas](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadows) of the planet.
 
 ## Ingame
 
 Species descriptions:
 
-- Alta: An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" width="16" height="16"/> [arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) report about miazmas - very dangerous clashes of different types of energies. I heard they can result in explosions, and sometimes even climate micro disasters.
+- Alta: An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/arco.png" alt="icon" loading="lazy" width="auto" height="16px"> [Arco](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Research) report about miazmas - very dangerous clashes of different types of energies. I heard they can result in explosions, and sometimes even climate micro disasters.
 
 Radiomessages on pickup:
 
@@ -35,7 +35,7 @@ Responsible team: A.R.C.O. RS-68 "Santia"
 
 Further report:
 
-A [Neiteru](https://ceterai.github.io/MyEnternia/Wiki/Tags/Neiteru) research group got involved, and proceeded to collect samples for their recent ["Neviona"](https://ceterai.github.io/MyEnternia/Wiki/Neviona) project.
+A [Neiteru](https://ceterai.github.io/MyEnternia/Wiki/Tags/Neiteru) research group got involved, and proceeded to collect samples for their recent "Neviona" project.
 
 They have also provided help in finding proper samples for our cause, including capturing a live anomaly using their experimental equipment.
 

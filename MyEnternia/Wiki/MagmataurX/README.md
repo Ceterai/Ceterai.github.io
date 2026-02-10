@@ -21,13 +21,13 @@ Parameters:
 - Base Dps: 4
 - Energy Usage: 16
 - Fire Time: 0.8
-- Press Type: `rocket`
-- Press Params:
-  - Type: `fireguidedrocket`
-- Hold Type: `rocket`
 - Hold Params:
   - Type: `fireplasmarocket`
 - Hold Time Max: 0.9
+- Hold Type: `rocket`
+- Press Params:
+  - Type: `fireguidedrocket`
+- Press Type: `rocket`
 
 ## Sources
 

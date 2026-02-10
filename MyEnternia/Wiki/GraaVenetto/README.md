@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-graa_venetto.png" alt="Graa Venetto icon" loading="lazy" width="auto" height="16px"> **Graa Venetto** is a legendary dish.
 
-A pleasant dish with a layered cake-like mixture with [yukva](https://ceterai.github.io/MyEnternia/Wiki/yukva) cream and [koywa bread](https://ceterai.github.io/MyEnternia/Wiki/koywabread), with roasted [archulin](https://ceterai.github.io/MyEnternia/Wiki/archulin) paste base.  
+A pleasant dish with a layered cake-like mixture with yukva cream and koywa bread, with roasted archulin paste base.  
 This complicated dish smells similar to roasted vegetables. The cake part is meant to be eaten together with paste, dipped in it slightly.
 
 ## Ingame

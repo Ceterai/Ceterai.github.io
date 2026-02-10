@@ -34,8 +34,8 @@ Unlocks blueprints for:
 
 Can be used to craft:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Boosted Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Boosted Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/BoostedIsoslimeSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/eco/icon.png" alt="Eco Isoslime Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Eco Isoslime Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/EcoIsoslimeSapling)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/isoslime/boosted/icon.png" alt="Isoslime Sapling ★★ icon" loading="lazy" width="auto" height="16px"> [Isoslime Sapling ★★](https://ceterai.github.io/MyEnternia/Wiki/IsoslimeSapling)
 
 ## Sources
 

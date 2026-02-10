@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_vyralic_twisted.png" alt="Vyralic Shroom icon" loading="lazy" width="auto" height="16px"> **Vyralic Shroom** is an uncommon tree sapling.
 
-A willowy <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" width="16" height="16"/> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) shroom that grows lazily all over the place.
+A willowy [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) shroom that grows lazily all over the place.
 
 ## Ingame
 

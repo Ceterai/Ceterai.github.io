@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword_2.png" alt="Crystal Blade ★ icon" loading="lazy" width="auto" height="16px"> **Crystal Blade ★** is a legendary one-handed shortsword.
 
-A <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" width="10" height="14"/> [calin](https://ceterai.github.io/MyEnternia/Wiki/Calin) sword made out of refined crystals and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Seems like it's quickly gathering the energy around it...  
+A <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" loading="lazy" width="10px" height="14px"> [calin](https://ceterai.github.io/MyEnternia/Wiki/Calin) sword made out of refined crystals and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). Seems like it's quickly gathering the energy around it...  
 The now one-sided blade is structured to put all the force on the impacting side, including alternative indent patterns.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword.png" alt="Calin Sword icon" loading="lazy" width="auto" height="16px"> [Calin Sword](https://ceterai.github.io/MyEnternia/Wiki/CalinSword).
@@ -21,41 +21,16 @@ Radiomessages on pickup:
 
 ### Crystal Might
 
-A sequence of 4 (+1) light strikes. Hold to perform a [trail dash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Trail-Dash). Hold in air to [downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
+A sequence of 4 (+1) light strikes. Hold to perform a [Trail Dash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Trail-Dash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
 The new energy flow is able to concentrate faster, building up at the impact rim.
 
 Parameters:
 
-- Steps: 
-- Damage Factor: 1.0
-- Energy Factor:
-- Knockback: 10.0
-- Swoosh: `swoosh_small1`
-- Swoosh Offset:  -1.0,  -0.25,  2.5,  2.0
-- Swoosh Sound: `primary_press`, 
-- Damage Factor: 0.6
-- Energy Factor:
-- Knockback: 20.0
-- Swoosh: `swoosh_small2`
-- Swoosh Offset: ,  -0.5,  2.5,  1.0
-- Swoosh Sound: `primary_press2`, 
-- Damage Factor: 1.4
-- Energy Factor:
-- Knockback: 10.0
-- Swoosh: `swoosh_small2`
-- Swoosh Offset: ,  -0.25,  2.5,  1.0
-- Swoosh Sound: `primary_press`, 
-- Damage Factor: 1.3
-- Energy Factor:
-- Knockback: 25.0
-- Swoosh: `swoosh_small1`
-- Swoosh Offset:  -0.5,  -0.75,  2.0,  1.5
-- Swoosh Sound: `primary_press`
+- Base Dps: 6
 - Damage Config:
   - Damage Source Kind: `shortsword`
   - Timeout: 0.5
-- Base Dps: 6
 - Fire Time: 0.625
 
 ## Sources

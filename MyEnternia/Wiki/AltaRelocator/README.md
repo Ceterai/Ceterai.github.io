@@ -14,9 +14,6 @@ Main ability of the item, activated with left mouse button.
 
 Parameters:
 
-- Max Storage: 3
-- Max Range: 20
-- Cooldown Time: 0.5
 - Beam Return Time: 0.1
 - Chain:
   - Start Offset: 
@@ -30,6 +27,9 @@ Parameters:
     - Amplitude:
     - Movement:
   - Fullbright: `True`
+- Cooldown Time: 0.5
+- Max Range: 20
+- Max Storage: 3
 
 ## Sources
 

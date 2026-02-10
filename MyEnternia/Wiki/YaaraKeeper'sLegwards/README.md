@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_legs_mimic-yaara_keeper.png" alt="Yaara Keeper's Legwards ★ icon" loading="lazy" width="auto" height="16px"> **Yaara Keeper's Legwards ★** is a rare leg armor piece.
 
-A plant-based piece of armor fused with very sturdy materials, decorated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) leaves, petals and crystals.  
+A plant-based piece of armor fused with very sturdy materials, decorated with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) leaves, petals and crystals.  
 Mainly used by [yaara keeper](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper) hunters and protectors, it's looks are meant to defend, scare and disguise.
 
 ## Ingame
