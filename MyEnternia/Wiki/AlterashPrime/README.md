@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/alterash_prime.png" alt="Alterash Prime Banner" loading="lazy" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/alterash_prime.png" alt="Alterash Prime Banner" loading="lazy" width="100%" height="auto">
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> **Alterash Prime** is a subtype of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash). It can be found as a satellite near [frozen stars](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#Difficulty). Just like alterash, these planets have a highly ionized atmosphere, which majorly affects the nature of the planet and attracts nearby stardust.
 
@@ -19,7 +19,7 @@ The planet is under partial control of [EDS](https://ceterai.github.io/MyEnterni
 - **Threat levels:** [Extreme (Tier 5)](https://starbounder.org/Planets#Planet_Types)
 - **Star types:** <img src="https://starbounder.org/mediawiki/images/4/44/Frozen_Star.png" width="16" height="16"/> [Frozen](https://starbounder.org/Stars#Frozen)
 - [EPP](https://starbounder.org/Protection_Pack) **Required:** None
-- [EPP](https://starbounder.org/Protection_Pack) **Recommended:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP)
+- [EPP](https://starbounder.org/Protection_Pack) **Recommended:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/EnterEPP)
 - **Planetary effects:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionized_air.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ionized Air](https://ceterai.github.io/MyEnternia/Wiki/IonizedAir)
 - **Prominent damage types:** <img src="https://starbounder.org/mediawiki/images/1/15/Electric_%28Attack%29.png" width="16" height="16"/> [Electric](https://starbounder.org/Weapons#Elemental_Damage)
 - **Ores:** <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" width="12" height="16"/> <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" width="16" height="16"/> <img src="https://starbounder.org/mediawiki/images/d/d5/Durasteel_Ore.png" width="16" height="16"/> <img src="https://starbounder.org/mediawiki/images/7/78/Aegisalt_Ore.png" width="16" height="16"/> <img src="https://starbounder.org/mediawiki/images/b/b8/Ferozium_Ore.png" width="16" height="16"/> <img src="https://starbounder.org/mediawiki/images/3/3a/Violium_Ore.png" width="16" height="16"/> [(read more...)](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#resources)
@@ -103,7 +103,7 @@ This is a list of biomes that can be found on this planet. You can find them bel
 
 **Asteroid layer** contains following biomes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enternia Asteroids](https://ceterai.github.io/MyEnternia/Wiki/Enternia-Asteroids) (primary)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enternia Asteroids](https://ceterai.github.io/MyEnternia/Wiki/EnterniaAsteroids) (primary)
 
 #### Evarus Prime
 
@@ -121,15 +121,15 @@ This effect is absent near the Asteroid layer of the planet. Because of this, Ev
 
 Contains following biomes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Eva Prime](https://ceterai.github.io/MyEnternia/Wiki/Eva-Prime)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eva_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Eva Prime](https://ceterai.github.io/MyEnternia/Wiki/EvaPrime)
 
 #### Surface
 
 The **Surface layer** of the planet. Contains following biomes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Prime Gardens](https://ceterai.github.io/MyEnternia/Wiki/Alterash-Prime-Gardens) (primary)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Prime Labs](https://ceterai.github.io/MyEnternia/Wiki/Alta-Prime-Labs)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS Grounds](https://ceterai.github.io/MyEnternia/Wiki/EDS-Grounds)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Prime Gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrimeGardens) (primary)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Prime Labs](https://ceterai.github.io/MyEnternia/Wiki/AltaPrimeLabs)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS Grounds](https://ceterai.github.io/MyEnternia/Wiki/EDSGrounds)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya)
 
 #### Esetera Entrance
@@ -137,9 +137,9 @@ The **Surface layer** of the planet. Contains following biomes:
 A **Subsurface layer** biome that acts as a ceiling for the layer below. Contains following biomes:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Calocaves](https://ceterai.github.io/MyEnternia/Wiki/Calocaves) (primary)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Crystalline Prime](https://ceterai.github.io/MyEnternia/Wiki/Crystalline-Prime)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Isoslime Plasts](https://ceterai.github.io/MyEnternia/Wiki/Isoslime-Plasts)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Phospholion Mines](https://ceterai.github.io/MyEnternia/Wiki/Phospholion-Mines)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Crystalline Prime](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrime)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Isoslime Plasts](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePlasts)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Phospholion Mines](https://ceterai.github.io/MyEnternia/Wiki/PhospholionMines)
 
 #### Esetera
 
@@ -151,9 +151,9 @@ The **Shallow Underground layer**, or the main part of Esetera, consists of aste
 
 Contains following biomes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="icon" loading="lazy" width="auto" height="16px"> [Hidden Alta Labs](https://ceterai.github.io/MyEnternia/Wiki/Hidden-Alta-Labs) (primary)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="icon" loading="lazy" width="auto" height="16px"> [Hidden Alta Labs](https://ceterai.github.io/MyEnternia/Wiki/HiddenAltaLabs) (primary)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Gheatorn)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Tonnova Grove](https://ceterai.github.io/MyEnternia/Wiki/Tonnova-Grove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Tonnova Grove](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove)
 
 #### Esetera Depths
 
@@ -163,9 +163,9 @@ These caves, also known as [Esetera Caves](https://ceterai.github.io/MyEnternia/
 
 Ingame Esetera Depths are a generally traversable surface-like space with mostly unpleasant conditions, rich on ionic crystals. This is a **Mid Underground layer** that acts as flooring for the layer above. Has overcharged air. Contains following biomes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Lab Debris](https://ceterai.github.io/MyEnternia/Wiki/Alta-Lab-Debris) (primary)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Lab Debris](https://ceterai.github.io/MyEnternia/Wiki/AltaLabDebris) (primary)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Aric](https://ceterai.github.io/MyEnternia/Wiki/Aric)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Bishyn Halls](https://ceterai.github.io/MyEnternia/Wiki/Bishyn-Halls)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Bishyn Halls](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Hevikara](https://ceterai.github.io/MyEnternia/Wiki/Hevikara)
 
 #### Esetera Caves
@@ -178,8 +178,8 @@ This effect is absent near the Core layer of the planet.
 
 Contains following biomes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Hevika Tunnels](https://ceterai.github.io/MyEnternia/Wiki/Hevika-Tunnels) (primary)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ionic Hive](https://ceterai.github.io/MyEnternia/Wiki/Ionic-Hive)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_hevika_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Hevika Tunnels](https://ceterai.github.io/MyEnternia/Wiki/HevikaTunnels) (primary)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ionic Hive](https://ceterai.github.io/MyEnternia/Wiki/IonicHive)
 
 #### Ion Core
 
@@ -187,7 +187,7 @@ This is a mostly barren core layer with dense materials close to the ionic core 
 
 Contains following biomes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Barren Ion Core](https://ceterai.github.io/MyEnternia/Wiki/Barren-Ion-Core) (primary)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Barren Ion Core](https://ceterai.github.io/MyEnternia/Wiki/BarrenIonCore) (primary)
 
 ## [Weather](https://ceterai.github.io/MyEnternia/Wiki/Weather)
 

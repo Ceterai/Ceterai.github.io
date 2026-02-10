@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/alterash.png" alt="Alterash Banner" loading="lazy" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/alterash.png" alt="Alterash Banner" loading="lazy" width="100%" height="auto">
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> A moonlike [planet](https://ceterai.github.io/MyEnternia/Wiki/Planets) with temperate climate and slightly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionized_air.png" alt="icon" loading="lazy" width="auto" height="16px"> [ionized atmosphere](https://ceterai.github.io/MyEnternia/Wiki/IonizedAir), and a surface affected by constant <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="icon" loading="lazy" width="auto" height="16px"> [stardust fallouts](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
 
@@ -13,7 +13,7 @@ The planet territory is covered with different [alta](https://ceterai.github.io/
 - **Threat levels:** [Dangerous (Tier 4)](https://starbounder.org/Planets#Planet_Types)
 - **Star types:** <img src="https://starbounder.org/mediawiki/images/3/3a/Eccentric_Star.png" width="16" height="16"/> [Temperate](https://starbounder.org/Stars#Temperate)
 - [EPP](https://starbounder.org/Protection_Pack) **Required:** None
-- [EPP](https://starbounder.org/Protection_Pack) **Recommended:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP)
+- [EPP](https://starbounder.org/Protection_Pack) **Recommended:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/EnterEPP)
 - **Planetary effects:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionized_air.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ionized Air](https://ceterai.github.io/MyEnternia/Wiki/IonizedAir)
 - **Prominent damage types:** <img src="https://starbounder.org/mediawiki/images/1/15/Electric_%28Attack%29.png" width="16" height="16"/> [Electric](https://starbounder.org/Weapons#Elemental_Damage)
 - **Ores:** <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" width="12" height="12"/> <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" width="12" height="16"/> <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" width="16" height="16"/> <img src="https://starbounder.org/mediawiki/images/3/34/Titanium_Ore.png" width="16" height="16"/> [(read more...)](https://ceterai.github.io/MyEnternia/Wiki/Alterash#resources)
@@ -26,7 +26,7 @@ The water throughout the planet is electrified, meaning it will constantly deal 
 
 All monsters and critters on the planet have [full immunity](https://starbounder.org/Electric_Resistance) to <img src="https://starbounder.org/mediawiki/images/1/15/Electric_%28Attack%29.png" width="16" height="16"/> [electric](https://starbounder.org/Weapons#Elemental_Damage) status effects.
 
-Other prominent hazards may include: <img src="https://starbounder.org/mediawiki/images/a/a9/Bone_Spike.png" width="6" height="12"/> [Stone Spikes](https://starbounder.org/Bone_Spike), <img src="https://starbounder.org/mediawiki/images/b/bf/Tesla_Spike.png" width="12" height="12"/> [Tesla Spikes](https://starbounder.org/Tesla_Spike), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara Roots](https://ceterai.github.io/MyEnternia/Wiki/Yaara-Thorny-Roots), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Nivera Roots](https://ceterai.github.io/MyEnternia/Wiki/Nivera-Twisted-Thorns)
+Other prominent hazards may include: <img src="https://starbounder.org/mediawiki/images/a/a9/Bone_Spike.png" width="6" height="12"/> [Stone Spikes](https://starbounder.org/Bone_Spike), <img src="https://starbounder.org/mediawiki/images/b/bf/Tesla_Spike.png" width="12" height="12"/> [Tesla Spikes](https://starbounder.org/Tesla_Spike), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_thorns/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara Roots](https://ceterai.github.io/MyEnternia/Wiki/YaaraThornyRoots), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Nivera Roots](https://ceterai.github.io/MyEnternia/Wiki/NiveraTwistedThorns)
 
 ### Dungeons
 
@@ -113,13 +113,13 @@ The **Atmosphere layer** of the planet. Contains slightly ionized air with dense
 The **Surface layer** of the planet. Contains following biomes:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens) (primary)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enchanted Meadows](https://ceterai.github.io/MyEnternia/Wiki/Enchanted-Meadows)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ayaka Forest](https://ceterai.github.io/MyEnternia/Wiki/Ayaka-Forest)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Haven](https://ceterai.github.io/MyEnternia/Wiki/Alterash-Haven)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Iora Gyera Park](https://ceterai.github.io/MyEnternia/Wiki/Iora-Gyera-Park)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Riversides](https://ceterai.github.io/MyEnternia/Wiki/Alterash-Riversides)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Snowy Alterash Ridges](https://ceterai.github.io/MyEnternia/Wiki/Snowy-Alterash-Ridges)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="icon" loading="lazy" width="auto" height="16px"> [Poptop Valley](https://ceterai.github.io/MyEnternia/Wiki/Poptop-Valley)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enchanted Meadows](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadows)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ayaka Forest](https://ceterai.github.io/MyEnternia/Wiki/AyakaForest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Iora Gyera Park](https://ceterai.github.io/MyEnternia/Wiki/IoraGyeraPark)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Riversides](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Snowy Alterash Ridges](https://ceterai.github.io/MyEnternia/Wiki/SnowyAlterashRidges)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="icon" loading="lazy" width="auto" height="16px"> [Poptop Valley](https://ceterai.github.io/MyEnternia/Wiki/PoptopValley)
 
 #### Shallow Caves
 
@@ -132,15 +132,15 @@ A **Subsurface layer** biome that contains 1 biome:
 A **Shallow Underground layer** that contains following biomes:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Deep Caves](https://ceterai.github.io/MyEnternia/Wiki/AlterashDeepCaves) (primary)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Flooded Alterash Caves](https://ceterai.github.io/MyEnternia/Wiki/Flooded-Alterash-Caves)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara Grove](https://ceterai.github.io/MyEnternia/Wiki/Yaara-Grove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Flooded Alterash Caves](https://ceterai.github.io/MyEnternia/Wiki/FloodedAlterashCaves)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara Grove](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove)
 
 #### Antorash Ceiling
 
 A **Mid Underground layer** that acts as a ceiling for the layer below. Contains 2 biomes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Electric Crystal Caves](https://ceterai.github.io/MyEnternia/Wiki/Electric-Crystal-Caves) (primary)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara Grove](https://ceterai.github.io/MyEnternia/Wiki/Yaara-Grove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Electric Crystal Caves](https://ceterai.github.io/MyEnternia/Wiki/ElectricCrystalCaves) (primary)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara Grove](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove)
 
 #### Antorash
 
@@ -148,9 +148,9 @@ Antorash (eng. **Underworld**) is a surface-like place, located in the depths of
 
 Contains following biomes:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Antorash Plains](https://ceterai.github.io/MyEnternia/Wiki/Antorash-Plains) (primary)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Underworld Spikes](https://ceterai.github.io/MyEnternia/Wiki/Antorash-Plains)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped Forest](https://ceterai.github.io/MyEnternia/Wiki/Warped-Forest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Antorash Plains](https://ceterai.github.io/MyEnternia/Wiki/AntorashPlains) (primary)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Underworld Spikes](https://ceterai.github.io/MyEnternia/Wiki/AntorashPlains)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped Forest](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="icon" loading="lazy" width="auto" height="16px"> [Starforest](https://ceterai.github.io/MyEnternia/Wiki/Starforest)
 
 #### Core

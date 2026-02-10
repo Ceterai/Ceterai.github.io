@@ -12,9 +12,16 @@
         particle.style.animationDelay = Math.random() * 5 + 's';
         
         if (type === 'snow') {
-            particle.innerHTML = ['❄️', '❅', '❆'][Math.floor(Math.random() * 3)];
+            particle.innerHTML = ['❅', '❆'][Math.floor(Math.random() * 2)];
+            // Random blue/cyan shades for snow
+            const snowColors = ['#cce8ff', '#b0e0fc', '#a0d8fc', '#d0f0ff'];
+            particle.style.color = snowColors[Math.floor(Math.random() * snowColors.length)];
         } else if (type === 'stars') {
-            particle.innerHTML = ['⭐'][Math.floor(Math.random() * 1)];
+            particle.innerHTML = ['★'][Math.floor(Math.random() * 1)];
+            // Random colors: green, blue, purple
+            const starColors = ['#20f080', '#2080f0', '#8020f0'];
+            particle.style.color = starColors[Math.floor(Math.random() * starColors.length)];
+            particle.style.filter = `drop-shadow(0 0 5px ${particle.style.color})`;
         }
         
         document.body.appendChild(particle);

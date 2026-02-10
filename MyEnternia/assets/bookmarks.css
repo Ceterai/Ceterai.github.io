@@ -535,6 +535,8 @@ a.wiki-tool-btn {
     font-size: 1.2rem;
     z-index: 9999;
     animation: trail-fade 1s ease-out forwards;
+    color: var(--ct_3);
+    filter: drop-shadow(0 0 4px rgb(from var(--ct_4) r g b / 90%));
 }
 
 @keyframes trail-fade {
@@ -553,10 +555,12 @@ a.wiki-tool-btn {
 
 .particle-snow {
     animation: fall-snow linear forwards;
+    /* Color set inline with random variations */
 }
 
 .particle-stars {
     animation: fall-stars linear forwards;
+    /* Color and glow set inline with random variations */
 }
 
 @keyframes fall-snow {
