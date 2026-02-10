@@ -1,4 +1,4 @@
-<img src="images/alterash_prime.png" alt="Alterash Prime Banner" loading="lazy" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/alterash_prime.png" alt="Alterash Prime Banner" loading="lazy" width="auto" height="auto">
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> **Alterash Prime** is a subtype of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash). It can be found as a satellite near [frozen stars](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#Difficulty). Just like alterash, these planets have a highly ionized atmosphere, which majorly affects the nature of the planet and attracts nearby stardust.
 
@@ -44,27 +44,27 @@ These are valuable items, objects and materials, that can be found on the planet
 
 Note that this list is generalized and doesn't list **all** the things you can find, for such lists refer to individual biomes listed in the **biomes** section.
 
-<table> <tbody valign="top">
+<table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle"><th>
+<tr valign="middle" markdown="1"><th markdown="1">
 
 [Ores](https://starbounder.org/Ore)
 
-</th> <th>
+</th> <th markdown="1">
 
 [Liquids](https://starbounder.org/Liquid)
 
-</th> <th>
+</th> <th markdown="1">
 
 Wild [Crops](https://starbounder.org/Crops)
 
-</th> <th>
+</th> <th markdown="1">
 
 [Loot Items](https://ceterai.github.io/MyEnternia/Wiki/LootItems)
 
 </th> </tr>
 
-<tr><td>
+<tr markdown="1"><td markdown="1">
 
 - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" width="12" height="16"/> [Crystals](https://starbounder.org/Crystal)
 - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" width="16" height="16"/> [Diamonds](https://starbounder.org/Diamond)
@@ -73,18 +73,18 @@ Wild [Crops](https://starbounder.org/Crops)
 - <img src="https://starbounder.org/mediawiki/images/b/b8/Ferozium_Ore.png" width="16" height="16"/> [Ferozium](https://starbounder.org/Ferozium_Ore)
 - <img src="https://starbounder.org/mediawiki/images/3/3a/Violium_Ore.png" width="16" height="16"/> [Violium](https://starbounder.org/Violium_Ore)
 
-</td><td>
+</td><td markdown="1">
 
 - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" width="16" height="16"/> [Electrified Water](https://starbounder.org/Water)
 - <img src="https://starbounder.org/mediawiki/images/0/05/Poison.png" width="16" height="16"/> [Poison](https://starbounder.org/Poison)
 
-</td><td>
+</td><td markdown="1">
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="icon" loading="lazy" width="auto" height="16px"> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya)
 - <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" width="13" height="12"/> [Crystal Plant](https://starbounder.org/Crystal_Plant)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [Tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna)
 
-</td><td>
+</td><td markdown="1">
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Tier 2 Loot](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/pod/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Tier 3 Loot](https://ceterai.github.io/MyEnternia/Wiki/AltaLabPod)

@@ -14,7 +14,7 @@
         if (type === 'snow') {
             particle.innerHTML = ['❄️', '❅', '❆'][Math.floor(Math.random() * 3)];
         } else if (type === 'stars') {
-            particle.innerHTML = ['✨', '⭐', '🌟', '💫'][Math.floor(Math.random() * 4)];
+            particle.innerHTML = ['⭐'][Math.floor(Math.random() * 1)];
         }
         
         document.body.appendChild(particle);

@@ -37,6 +37,12 @@
     line-height: 1;
     min-width: 28px;
     height: 28px;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+a.wiki-tool-btn {
+    vertical-align: middle;
 }
 
 .wiki-tool-btn:hover {

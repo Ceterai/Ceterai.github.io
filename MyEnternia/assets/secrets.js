@@ -137,7 +137,7 @@
         particle.className = 'cursor-trail';
         particle.style.left = x + 'px';
         particle.style.top = y + 'px';
-        particle.innerHTML = ['✨', '⭐', '💫', '🌟'][Math.floor(Math.random() * 4)];
+        particle.innerHTML = ['★'][Math.floor(Math.random() * 1)];
         document.body.appendChild(particle);
         
         setTimeout(() => particle.remove(), 1000);

@@ -1,4 +1,4 @@
-<img src="images/alterash.png" alt="Alterash Banner" loading="lazy" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/alterash.png" alt="Alterash Banner" loading="lazy" width="auto" height="auto">
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> A moonlike [planet](https://ceterai.github.io/MyEnternia/Wiki/Planets) with temperate climate and slightly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionized_air.png" alt="icon" loading="lazy" width="auto" height="16px"> [ionized atmosphere](https://ceterai.github.io/MyEnternia/Wiki/IonizedAir), and a surface affected by constant <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="icon" loading="lazy" width="auto" height="16px"> [stardust fallouts](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
 
@@ -39,48 +39,48 @@ These are valuable items, objects and materials, that can be found on the planet
 
 Note that this list is generalized and doesn't list **all** the things you can find, for such lists refer to individual biomes listed in the **biomes** section.
 
-<table> <tbody valign="top">
+<table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle"><th>
+<tr valign="middle" markdown="1"><th markdown="1">
 
 [Ores](https://starbounder.org/Ore)
 
-</th> <th>
+</th> <th markdown="1">
 
 [Liquids](https://starbounder.org/Liquid)
 
-</th> <th>
+</th> <th markdown="1">
 
 Wild [Crops](https://starbounder.org/Crops)
 
-</th> <th>
+</th> <th markdown="1">
 
 [Loot Items](https://ceterai.github.io/MyEnternia/Wiki/LootItems)
 
 </th> </tr>
 
-<tr><td>
+<tr markdown="1"><td markdown="1">
 
 - <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" width="12" height="12"/> [Prism Shards](https://starbounder.org/Prism_Shard)
 - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" width="12" height="16"/> [Crystals](https://starbounder.org/Crystal)
 - <img src="https://starbounder.org/mediawiki/images/e/ea/Diamond.png" width="16" height="16"/> [Diamonds](https://starbounder.org/Diamond)
 - <img src="https://starbounder.org/mediawiki/images/3/34/Titanium_Ore.png" width="16" height="16"/> [Titanium](https://starbounder.org/Titanium_Ore)
 
-</td><td>
+</td><td markdown="1">
 
 - <img src="https://starbounder.org/mediawiki/images/0/05/Poison.png" width="16" height="16"/> [Poison](https://starbounder.org/Poison)
 - <img src="https://starbounder.org/mediawiki/images/4/41/Healing_Water.png" width="11" height="16"/> [Healing Water](https://starbounder.org/Healing_Water)
 - <img src="https://starbounder.org/mediawiki/images/9/9d/Water.png" width="16" height="16"/> [Electrified Water](https://starbounder.org/Water)
 - <img src="https://starbounder.org/mediawiki/images/5/55/Liquid_Erchius_Fuel.png" width="11" height="16"/> [Liquid Erchius Fuel](https://starbounder.org/Liquid_Erchius_Fuel)
 
-</td><td>
+</td><td markdown="1">
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="icon" loading="lazy" width="auto" height="16px"> [Aya](https://ceterai.github.io/MyEnternia/Wiki/Aya)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="icon" loading="lazy" width="auto" height="16px"> [Tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay)
 - <img src="https://starbounder.org/mediawiki/images/e/ec/Beakseed.png" width="16" height="16"/> [Beakseed](https://starbounder.org/Beakseed)
 
-</td><td>
+</td><td markdown="1">
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/city/pod/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Tier 1 Loot](https://ceterai.github.io/MyEnternia/Wiki/AltaPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/pod/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Tier 2 Loot](https://ceterai.github.io/MyEnternia/Wiki/AltaSecurityPod)
