@@ -1,3 +1,5 @@
+# Alterash Prime
+
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/alterash_prime.png" alt="Alterash Prime Banner" loading="lazy" width="100%" height="auto">
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> **Alterash Prime** is a subtype of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash). It can be found as a satellite near [frozen stars](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#Difficulty). Just like alterash, these planets have a highly ionized atmosphere, which majorly affects the nature of the planet and attracts nearby stardust.

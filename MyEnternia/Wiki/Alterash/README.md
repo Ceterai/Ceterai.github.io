@@ -1,3 +1,5 @@
+# Alterash
+
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/alterash.png" alt="Alterash Banner" loading="lazy" width="100%" height="auto">
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> A moonlike [planet](https://ceterai.github.io/MyEnternia/Wiki/Planets) with temperate climate and slightly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionized_air.png" alt="icon" loading="lazy" width="auto" height="16px"> [ionized atmosphere](https://ceterai.github.io/MyEnternia/Wiki/IonizedAir), and a surface affected by constant <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="icon" loading="lazy" width="auto" height="16px"> [stardust fallouts](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
