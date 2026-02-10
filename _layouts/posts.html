@@ -20,27 +20,35 @@
     <script>
     if ('IntersectionObserver' in window) {
       document.addEventListener("DOMContentLoaded", function() {
+        // Load .ct_bg background after brief delay to prioritize critical content
+        setTimeout(() => {
+          const bgElements = document.querySelectorAll('.ct_bg');
+          bgElements.forEach(element => {
+            const bg = window.getComputedStyle(element).getPropertyValue('--ct_bg');
+            if (bg) {
+              element.style.backgroundImage = bg;
+            }
+          });
+        }, 100);
     
+        // Lazy load .ct_card backgrounds
         function handleIntersection(entries) {
           entries.map((entry) => {
-            const bg = window.getComputedStyle(entry.target).getPropertyValue('--ct_bg');
             if (entry.isIntersecting) {
               if (entry.target.dataset.bgimage != null) {
                 entry.target.style.backgroundImage = "url('"+entry.target.dataset.bgimage+"')";
-              } else {
-                entry.target.style.backgroundImage = bg;
               }
               observer.unobserve(entry.target);
             }
           });
         }
     
-        const headers = document.querySelectorAll('.ct_card, .ct_bg');
+        const cards = document.querySelectorAll('.ct_card');
         const observer = new IntersectionObserver(
           handleIntersection,
           { rootMargin: "100px" }
         );
-        headers.forEach(header => observer.observe(header));
+        cards.forEach(card => observer.observe(card));
       });
     } else {
       const headers = document.querySelectorAll('.ct_card');

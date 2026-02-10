@@ -136,6 +136,7 @@
         const particle = document.createElement('div');
         particle.className = 'cursor-trail';
         // Offset to align with cursor tip (accounting for particle size)
+        // Use clientX/clientY for viewport-relative positioning with fixed positioning
         particle.style.left = (x - 6) + 'px';
         particle.style.top = (y - 6) + 'px';
         particle.innerHTML = ['★'][Math.floor(Math.random() * 1)];
@@ -157,7 +158,7 @@
     
     function handleTrailMove(e) {
         if (trailActive && Math.random() > 0.7) {
-            createTrailParticle(e.pageX, e.pageY);
+            createTrailParticle(e.clientX, e.clientY);
         }
     }
     
