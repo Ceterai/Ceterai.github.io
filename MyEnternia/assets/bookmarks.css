@@ -563,6 +563,11 @@ a.wiki-tool-btn {
     /* Color and glow set inline with random variations */
 }
 
+.particle-hearts {
+    animation: fall-hearts linear forwards;
+    /* Color and glow set inline with random variations */
+}
+
 @keyframes fall-snow {
     0% {
         top: -50px;
@@ -585,6 +590,22 @@ a.wiki-tool-btn {
         top: 100vh;
         opacity: 0;
         transform: scale(0.5) rotate(720deg) translateX(-30px);
+    }
+}
+
+@keyframes fall-hearts {
+    0% {
+        top: -50px;
+        opacity: 1;
+        transform: scale(1) rotate(-10deg);
+    }
+    50% {
+        transform: scale(1.1) rotate(10deg) translateX(20px);
+    }
+    100% {
+        top: 100vh;
+        opacity: 0;
+        transform: scale(0.8) rotate(-10deg) translateX(-20px);
     }
 }
 

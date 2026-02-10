@@ -22,6 +22,12 @@
             const starColors = ['#20f080', '#2080f0', '#8020f0'];
             particle.style.color = starColors[Math.floor(Math.random() * starColors.length)];
             particle.style.filter = `drop-shadow(0 0 5px ${particle.style.color})`;
+        } else if (type === 'hearts') {
+            particle.innerHTML = ['♥'][Math.floor(Math.random() * 1)];
+            // Random pink shades
+            const heartColors = ['#fcb0e0', '#fc60c0'];
+            particle.style.color = heartColors[Math.floor(Math.random() * heartColors.length)];
+            particle.style.filter = `drop-shadow(0 0 4px ${particle.style.color})`;
         }
         
         document.body.appendChild(particle);
@@ -48,6 +54,10 @@
             startParticleEffect('snow');
         } else if (path.includes('stardust')) {
             startParticleEffect('stars');
+        } else if (path.includes('estria') || path.includes('miko') || path.includes('yae') || 
+                   path.includes('ava') || path.includes('sunset') || path.includes('companion') || 
+                   path.includes('girlfriend') || path.includes('love')) {
+            startParticleEffect('hearts');
         }
     }
     
