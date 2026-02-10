@@ -135,8 +135,9 @@
     function createTrailParticle(x, y) {
         const particle = document.createElement('div');
         particle.className = 'cursor-trail';
-        particle.style.left = x + 'px';
-        particle.style.top = y + 'px';
+        // Offset to align with cursor tip (accounting for particle size)
+        particle.style.left = (x - 6) + 'px';
+        particle.style.top = (y - 6) + 'px';
         particle.innerHTML = ['★'][Math.floor(Math.random() * 1)];
         document.body.appendChild(particle);
         

@@ -30,14 +30,14 @@
         setTimeout(() => particle.remove(), 8000);
     }
     
-    function startParticleEffect(type, count = 15) {
+    function startParticleEffect(type, count = 20) {
         // Create initial particles
         for (let i = 0; i < count; i++) {
             setTimeout(() => createParticle(type), i * 300);
         }
         
         // Keep creating new particles
-        setInterval(() => createParticle(type), 2000);
+        setInterval(() => createParticle(type), 500);
     }
     
     // Check page URL for keywords
