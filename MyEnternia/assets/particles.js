@@ -56,7 +56,7 @@
             startParticleEffect('stars');
         } else if (path.includes('estria') || path.includes('miko') || path.includes('yae') || 
                    path.includes('ava') || path.includes('sunset') || path.includes('companion') || 
-                   path.includes('girlfriend') || path.includes('love')) {
+                   path.includes('girlfriend') || path.includes('love') || path.includes('estra')) {
             startParticleEffect('hearts');
         }
     }

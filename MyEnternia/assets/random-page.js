@@ -182,11 +182,10 @@
     
     // Initialize random page button
     async function initRandomPageButton() {
-        // Only initialize on Wiki pages or search page
+        // Only initialize on Wiki pages
         const isWikiPage = window.location.pathname.includes('/MyEnternia/Wiki/');
-        const isSearchPage = window.location.pathname.includes('/MyEnternia/search');
         
-        if (!isWikiPage && !isSearchPage) {
+        if (!isWikiPage) {
             return;
         }
         
