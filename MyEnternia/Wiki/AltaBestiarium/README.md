@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/bestiarium/icon.png" alt="Alta Bestiarium icon" loading="lazy" width="auto" height="16px"> **Alta Bestiarium** is a legendary crafting station.
 
-An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) xenobiology station for capturing creatures, crafting [collars](https://ceterai.github.io/MyEnternia/Wiki/Tags/Collar), and preserving monster trophies.  
-The Alta Bestiarium is a tier 6 comprehensive xenobiology workshop dedicated to the study and care of alien creatures. This station produces creature capture tools like [relocators](https://ceterai.github.io/MyEnternia/Wiki/Tags/Relocator) and containment pods, crafts advanced pet collars with AI mindframes, creates monster spawning equipment for research purposes, and prepares decorative [trophies](https://ceterai.github.io/MyEnternia/Wiki/Tags/Trophy) from defeated creatures. It represents alta dedication to understanding and preserving alien wildlife - whether as companions, research subjects, or memorable specimens. Essential for any alta xenobiologist or monster hunter.
+An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) xenobiology station for capturing creatures, crafting [collars](https://ceterai.github.io/MyEnternia/Wiki/Collars), and preserving monster trophies.  
+The Alta Bestiarium is a tier 6 comprehensive xenobiology workshop dedicated to the study and care of alien creatures. This station produces creature capture tools like [relocators](https://ceterai.github.io/MyEnternia/Wiki/Relocators) and containment pods, crafts advanced pet collars with AI mindframes, creates monster spawning equipment for research purposes, and prepares decorative [trophies](https://ceterai.github.io/MyEnternia/Wiki/Trophies) from defeated creatures. It represents alta dedication to understanding and preserving alien wildlife - whether as companions, research subjects, or memorable specimens. Essential for any alta xenobiologist or monster hunter.
 
 ## Ingame
 

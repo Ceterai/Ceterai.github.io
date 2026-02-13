@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> **Calin Cuisine Book** is an uncommon codex entry.
 
 An ebook containing various crystal-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) recipes and their history. (Unlocks some calin recipes)  
-[Alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) revolves heavily around crystals and their utilization. This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different calin recipes and the culture around them.
+[Alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) revolves heavily around crystals and their utilization. This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Ebooks) describes different calin recipes and the culture around them.
 
 ## Ingame
 

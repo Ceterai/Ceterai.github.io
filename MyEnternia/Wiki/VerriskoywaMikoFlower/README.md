@@ -30,7 +30,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/miko/icon.png" alt="Potted Miko Koywa Flower icon" loading="lazy" width="auto" height="16px"> [Potted Miko Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedMikoKoywaFlower)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 22 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 23 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_alliana_cake.png" alt="Alliana Cake icon" loading="lazy" width="auto" height="16px"> [Alliana Cake](https://ceterai.github.io/MyEnternia/Wiki/AllianaCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/beds/flower/icon.png" alt="Alta Flower Bed icon" loading="lazy" width="auto" height="16px"> [Alta Flower Bed](https://ceterai.github.io/MyEnternia/Wiki/AltaFlowerBed)
@@ -41,6 +41,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" width="auto" height="16px"> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/misc/companion/helmet/icon.png" alt="Companion Helmet icon" loading="lazy" width="auto" height="16px"> [Companion Helmet](https://ceterai.github.io/MyEnternia/Wiki/CompanionHelmet)
 - `ct_food_mimic`
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/helmet/icon.png" alt="Dreamer's Mask icon" loading="lazy" width="auto" height="16px"> [Dreamer's Mask](https://ceterai.github.io/MyEnternia/Wiki/Dreamer'sMask)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_heecho_punch.png" alt="Heecho Punch icon" loading="lazy" width="auto" height="16px"> [Heecho Punch](https://ceterai.github.io/MyEnternia/Wiki/HeechoPunch)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_cake.png" alt="Ion Cake icon" loading="lazy" width="auto" height="16px"> [Ion Cake](https://ceterai.github.io/MyEnternia/Wiki/IonCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_maito_tea.png" alt="Maito Tea icon" loading="lazy" width="auto" height="16px"> [Maito Tea](https://ceterai.github.io/MyEnternia/Wiki/MaitoTea)

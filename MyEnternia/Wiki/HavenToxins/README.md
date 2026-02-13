@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Haven Toxins icon" loading="lazy" width="auto" height="16px"> **Haven Toxins** is an uncommon codex entry.
 
-The information in this [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) contains descriptions of [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) plants and their toxic nature.  
+The information in this [ebook](https://ceterai.github.io/MyEnternia/Wiki/Ebooks) contains descriptions of [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) plants and their toxic nature.  
 According to this data, the nature on stardust planets appears to be on a toxicity spectrum, with regular nature being at the lowest, and haven nature being somewhere in the middle.
 
 ## Ingame

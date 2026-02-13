@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"> **Yava Cuisine Book** is an uncommon codex entry.
 
 An ebook containing various herb-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) recipes and their history. (Unlocks some yava recipes)  
-This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different yava recipes and the culture around them.
+This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Ebooks) describes different yava recipes and the culture around them.
 
 ## Ingame
 

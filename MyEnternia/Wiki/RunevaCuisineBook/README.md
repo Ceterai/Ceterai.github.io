@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> **Runeva Cuisine Book** is an uncommon codex entry.
 
 An ebook containing various fruit-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) recipes and their history. (Unlocks some runeva recipes)  
-This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) describes different runeva recipes and the [alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) around them. Good to have one if you're stuck on an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planet.
+This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Ebooks) describes different runeva recipes and the [alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) around them. Good to have one if you're stuck on an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planet.
 
 Though some of the mentioned dishes are not included in this issue, it provides a brief description on each of them.
 

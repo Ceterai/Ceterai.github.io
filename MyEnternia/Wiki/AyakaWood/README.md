@@ -22,7 +22,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment)
 - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 132 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 133 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="A Perfect Riverside Date icon" loading="lazy" width="auto" height="16px"> [A Perfect Riverside Date](https://ceterai.github.io/MyEnternia/Wiki/APerfectRiversideDate)
@@ -61,6 +61,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/laptop/icon.png" alt="Alta Laptop icon" loading="lazy" width="auto" height="16px"> [Alta Laptop](https://ceterai.github.io/MyEnternia/Wiki/AltaLaptop)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"> [Alta LED](https://ceterai.github.io/MyEnternia/Wiki/AltaLED)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/light_switch/icon.png" alt="Alta Light Switch icon" loading="lazy" width="auto" height="16px"> [Alta Light Switch](https://ceterai.github.io/MyEnternia/Wiki/AltaLightSwitch)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_alta_love_poster.png" alt="Alta Love Poster icon" loading="lazy" width="auto" height="16px"> [Alta Love Poster](https://ceterai.github.io/MyEnternia/Wiki/AltaLovePoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/table_mini/icon.png" alt="Alta Minitable icon" loading="lazy" width="auto" height="16px"> [Alta Minitable](https://ceterai.github.io/MyEnternia/Wiki/AltaMinitable)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/monitor/icon.png" alt="Alta Monitor icon" loading="lazy" width="auto" height="16px"> [Alta Monitor](https://ceterai.github.io/MyEnternia/Wiki/AltaMonitor)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Alta New Year - Lann 10 icon" loading="lazy" width="auto" height="16px"> [Alta New Year - Lann 10](https://ceterai.github.io/MyEnternia/Wiki/AltaNewYear-Lann10)

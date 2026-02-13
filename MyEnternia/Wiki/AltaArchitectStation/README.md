@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/architect_station/icon.png" alt="Alta Architect Station icon" loading="lazy" width="auto" height="16px"> **Alta Architect Station** is a legendary crafting station.
 
 An [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) heavy engineering station for constructing vehicles, mechs, and large-scale machinery.  
-The Alta Architect Station is a tier 6 advanced heavy engineering workshop designed for fabricating extra-large devices and machinery. This massive station produces vehicles like hovercrafts and exploratory rovers, mechs for combat and construction, terraformers for planetary modification, and microformers for biome manipulation. It features heavy-duty assembly equipment, large-scale welding systems, and advanced CAD holographic design interfaces. The station represents the pinnacle of alta industrial engineering, capable of producing machinery far too large for standard crafting stations.
+The Alta Architect Station is a tier 6 advanced heavy engineering workshop designed for fabricating extra-large devices and machinery. This massive station produces vehicles like hovercrafts and exploratory rovers, mechs for combat and construction, [terraformers](https://ceterai.github.io/MyEnternia/Wiki/Terraformers) for planetary modification, and microformers for biome manipulation. It features heavy-duty assembly equipment, large-scale welding systems, and advanced CAD holographic design interfaces. The station represents the pinnacle of alta industrial engineering, capable of producing machinery far too large for standard crafting stations.
 
 ## Ingame
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> **Alta Chef's Guide** is a rare codex entry.
 
-An extensive culinary [ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook) that goes in-depth into alta cooking culture and its meaning to altas in general, as well as provides advanced recipes as examples. (Unlocks tier 3 recipes)  
+An extensive culinary [ebook](https://ceterai.github.io/MyEnternia/Wiki/Ebooks) that goes in-depth into alta cooking culture and its meaning to altas in general, as well as provides advanced recipes as examples. (Unlocks tier 3 recipes)  
 This ebook was written by a grand alta chef named Miara, a very caring alta looking forward to educating less experienced altas how to cook!
 
 ## Ingame
@@ -21,7 +21,7 @@ Hi again, fellow [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)! My name
 
 In this ebook, I want to go in-depth on more advanced recipes that you can learn to become a great cook!
 
-Food is an important part of [alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) and often represents similar concepts and reflects its peculiarities.
+[Food](https://ceterai.github.io/MyEnternia/Wiki/Food) is an important part of [alta culture](https://ceterai.github.io/MyEnternia/Wiki/Alta#culture) and often represents similar concepts and reflects its peculiarities.
 
 Thus, the ingredients you can find in different cuisines, and even cuisines themself, might remind you of certain basic alta concepts.
 

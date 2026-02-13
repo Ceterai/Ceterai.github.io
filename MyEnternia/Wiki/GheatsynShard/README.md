@@ -19,9 +19,10 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_crystal_jam.png" alt="Crystal Jam icon" loading="lazy" width="auto" height="16px"> [Crystal Jam](https://ceterai.github.io/MyEnternia/Wiki/CrystalJam)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 55 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 56 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_accumulator_collar.png" alt="Accumulator Collar icon" loading="lazy" width="auto" height="16px"> [Accumulator Collar](https://ceterai.github.io/MyEnternia/Wiki/AccumulatorCollar)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_alta_love_poster.png" alt="Alta Love Poster icon" loading="lazy" width="auto" height="16px"> [Alta Love Poster](https://ceterai.github.io/MyEnternia/Wiki/AltaLovePoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_poster.png" alt="Ava Day Poster icon" loading="lazy" width="auto" height="16px"> [Ava Day Poster](https://ceterai.github.io/MyEnternia/Wiki/AvaDayPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ceterai/android_head/icon.png" alt="C.T. Android Head ★ icon" loading="lazy" width="auto" height="16px"> [C.T. Android Head ★](https://ceterai.github.io/MyEnternia/Wiki/C.T.AndroidHead)

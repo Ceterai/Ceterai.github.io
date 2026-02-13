@@ -31,9 +31,10 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" width="auto" height="16px"> [Potted Koywa](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywa)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa_tall/icon.png" alt="Potted Koywa Bush icon" loading="lazy" width="auto" height="16px"> [Potted Koywa Bush](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywaBush)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 13 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 14 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/fertilize/ct_alta_fertilizer.png" alt="Alta Fertilizer icon" loading="lazy" width="auto" height="16px"> [Alta Fertilizer](https://ceterai.github.io/MyEnternia/Wiki/AltaFertilizer)
+- `ct_legs_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm.png" alt="Haven Storm icon" loading="lazy" width="auto" height="16px"> [Haven Storm](https://ceterai.github.io/MyEnternia/Wiki/HavenStorm)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Koywa Loot Crate icon" loading="lazy" width="auto" height="16px"> [Koywa Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/KoywaLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/bushes/koywa/icon.png" alt="Potted Koywa icon" loading="lazy" width="auto" height="16px"> [Potted Koywa](https://ceterai.github.io/MyEnternia/Wiki/PottedKoywa)

@@ -8,7 +8,7 @@
 
 **Dressing up** - Altas enthusiastically embrace costume culture, often going for elegant clothing in spooky color schemes, from dark dresses to witch robes.
 
-**Jack O' Lanterns** - Altas carve traditional jack o' lanterns from local produce: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Neonjacks](https://ceterai.github.io/MyEnternia/Wiki/Neonjack) (carved from neonmelons with teal-green glow) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaajacks](https://ceterai.github.io/MyEnternia/Wiki/Yaajack) (carved from yaara melons with orange glow). Both feature internal natural light sources that glow eerily in the dark, creating the perfect spooky atmosphere.
+**Jack O' Lanterns** - Altas carve traditional jack o' lanterns from local produce: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/neonjack/icon.png" alt="Neonjack icon" loading="lazy" width="auto" height="16px"> [Neonjacks](https://ceterai.github.io/MyEnternia/Wiki/Neonjack) (carved from neonmelons with teal-green glow) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Yaajack icon" loading="lazy" width="auto" height="16px"> [Yaajacks](https://ceterai.github.io/MyEnternia/Wiki/Yaajack) (carved from yaara melons with orange glow). Both feature internal natural light sources that glow eerily in the dark, creating the perfect spooky atmosphere.
 
 **Decorative posters** - Featuring Ceternity's abstract face, along with traditional Halloween and Harrowing-themed designs. These posters serve as both decoration and cultural acknowledgment of similar holidays celebrated by other species.
 
@@ -18,14 +18,14 @@
 
 Ceternity-themed **candies** are the signature treats of the holiday, distributed during celebrations. Each candy provides swimming or running boost effects and features decorative wrappers designed to keep Ceternity and Orchid (another spooky character) away from your precious treats. Varieties include:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_ceternity_candy.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ceternity Candy](https://ceterai.github.io/MyEnternia/Wiki/CeternityCandy) - The classic holiday candy!
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="icon" loading="lazy" width="auto" height="16px"> [Orchid Candy](https://ceterai.github.io/MyEnternia/Wiki/OrchidCandy) - [Stardust Orchid](https://ceterai.github.io/MyEnternia/Wiki/StardustOrchid)-themed variant
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_pumpkin_candy.png" alt="icon" loading="lazy" width="auto" height="16px"> [Orchid Pumpkin Candy](https://ceterai.github.io/MyEnternia/Wiki/Orchid'sPumpkinCandy) - Combines the Orchid and traditional pumpkin themes
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_neonjack_candy.png" alt="icon" loading="lazy" width="auto" height="16px"> [Neonjack Candy](https://ceterai.github.io/MyEnternia/Wiki/NeonjackCandy) - Neonmelon-themed wrapper
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_yaajack_candy.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaajack Candy](https://ceterai.github.io/MyEnternia/Wiki/YaajackCandy) - Yaara melon-themed wrapper
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_candy.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped Candy](https://ceterai.github.io/MyEnternia/Wiki/WarpyCandy) - Dark warped-themed variant
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_spider_candy.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped Spider Candy](https://ceterai.github.io/MyEnternia/Wiki/SpidyCandy) - Spider design for extra spookiness
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_miazma_candy.png" alt="icon" loading="lazy" width="auto" height="16px"> [Miazma Candy](https://ceterai.github.io/MyEnternia/Wiki/MiazmaCandy) - Purple miazma-themed treat
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_ceternity_candy.png" alt="Ceternity Candy icon" loading="lazy" width="auto" height="16px"> [Ceternity Candy](https://ceterai.github.io/MyEnternia/Wiki/CeternityCandy) - The classic holiday candy!
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_candy.png" alt="Orchid Candy icon" loading="lazy" width="auto" height="16px"> [Orchid Candy](https://ceterai.github.io/MyEnternia/Wiki/OrchidCandy) - Stardust Orchid-themed variant
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_orchid_pumpkin_candy.png" alt="Orchid's Pumpkin Candy icon" loading="lazy" width="auto" height="16px"> [Orchid's Pumpkin Candy](https://ceterai.github.io/MyEnternia/Wiki/Orchid'sPumpkinCandy) - Combines the Orchid and traditional pumpkin themes
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_neonjack_candy.png" alt="Neonjack Candy icon" loading="lazy" width="auto" height="16px"> [Neonjack Candy](https://ceterai.github.io/MyEnternia/Wiki/NeonjackCandy) - Neonmelon-themed wrapper
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_yaajack_candy.png" alt="Yaajack Candy icon" loading="lazy" width="auto" height="16px"> [Yaajack Candy](https://ceterai.github.io/MyEnternia/Wiki/YaajackCandy) - Yaara melon-themed wrapper
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_candy.png" alt="Warpy Candy icon" loading="lazy" width="auto" height="16px"> [Warpy Candy](https://ceterai.github.io/MyEnternia/Wiki/WarpyCandy) - Dark warped-themed variant
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_warped_spider_candy.png" alt="Spidy Candy icon" loading="lazy" width="auto" height="16px"> [Spidy Candy](https://ceterai.github.io/MyEnternia/Wiki/SpidyCandy) - Spider design for extra spookiness
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_miazma_candy.png" alt="Miazma Candy icon" loading="lazy" width="auto" height="16px"> [Miazma Candy](https://ceterai.github.io/MyEnternia/Wiki/MiazmaCandy) - Purple miazma-themed treat
 
 ## Celebrants
 
@@ -48,7 +48,7 @@ A special merchant who sells Ceternity-themed goods during the season! Dressed i
 
 This merchant is more difficult to attract but provides access to the complete Ceternity candy collection through their shop inventory.
 
-### [Shadow Guests](https://ceterai.github.io/MyEnternia/Wiki/AltaRelations#shadows)
+### Shadow Guests
 
 During Ceternity, altas often invite [shadows](https://starbounder.org/Shadow) to join them celebrating - considering their ghostly nature, it's a very fitting place for a sudden spook!
 

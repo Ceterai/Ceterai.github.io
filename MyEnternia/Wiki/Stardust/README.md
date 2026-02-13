@@ -20,7 +20,7 @@ Unlocks blueprints for:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/stardust/icon.png" alt="Potted Stardust Plant icon" loading="lazy" width="auto" height="16px"> [Potted Stardust Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedStardustPlant)
 
-<details markdown="1"><summary>Can be used to craft: (Expand 157 items)</summary>
+<details markdown="1"><summary>Can be used to craft: (Expand 159 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" width="auto" height="16px"> [A.R.C.O. Emblem](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Emblem)
@@ -72,7 +72,9 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/poptop/ct_crystal_poptop.png" alt="Crystal Poptop Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Poptop Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalPoptopFigurine)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/crippit/ct_crystalline_crippit.png" alt="Crystalline Crippit Figurine icon" loading="lazy" width="auto" height="16px"> [Crystalline Crippit Figurine](https://ceterai.github.io/MyEnternia/Wiki/CrystallineCrippitFigurine)
 - `ct_alta_constructor5`
+- `ct_back_mimic`
 - `ct_cetereye`
+- `ct_head_mimic`
 - `ct_starfire`
 - `ct_starmatter`
 - `ct_starsteel`

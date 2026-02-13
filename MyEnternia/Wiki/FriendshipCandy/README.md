@@ -11,6 +11,14 @@ Species descriptions:
 
 - Alta: I wonder if I should save this for a friend or eat it myself... Decisions, decisions!
 
+## Usage
+
+### Crafting
+
+Can be used to craft:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/ava_day.png" alt="Ava Day Gift icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGift)
+
 ## Sources
 
 Blueprint unlocked by obtaining:
