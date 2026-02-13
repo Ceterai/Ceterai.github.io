@@ -9,12 +9,12 @@ Damages nearby enemies with electricity and gives you 20% electric resistance.
 Default Duration: 12.0s  
 Effect parameters:
 
-- Electric Resistance Modifier: 0.2
-- Bolt Interval: 0.5
-- Jump Distance: 10
-- Health Damage Factor: 0.05
-- Damage Clamp Range:  5,  15
 - Animate Aura: `True`
+- Bolt Interval: 0.5
+- Damage Clamp Range:  5,  15
+- Electric Resistance Modifier: 0.2
+- Health Damage Factor: 0.05
+- Jump Distance: 10
 
 ## Technical Information
 

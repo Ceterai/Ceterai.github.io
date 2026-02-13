@@ -22,7 +22,7 @@ It is still unclear how to properly categorize bion as a material because of its
 
 On one hand, it shows strong metal qualities, while having a crystallic molecular structure, and reacts to electricity in a similar way to a lot of specific crystal families.
 
-On the other hand, bion molecules often form in otherwise organic lifeforms, the best example being natural biocrystals - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova) plants.
+On the other hand, bion molecules often form in otherwise organic lifeforms, the best example being natural biocrystals - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove) plants.
 
 Tonnovas themselves are quite interesting in their biology too, as biocrystals and biocrystallic connections are incredibly rare in nature and are mostly found in cold highly-ionized environments, like on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
 

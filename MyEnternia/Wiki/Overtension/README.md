@@ -8,13 +8,13 @@ Blocking Stat: `ionicStatusImmunity`
 Default Duration: 5s  
 Effect parameters:
 
+- Charge Decay: 2
+- Charge Per Hit: 3
+- Damage Interval: 0.5
+- Emission Rate Factor: 0.75
+- Fade Factor: 0.03
 - Initial Charge: 12
 - Max Charge: 50
-- Charge Per Hit: 3
-- Charge Decay: 2
-- Damage Interval: 0.5
-- Fade Factor: 0.03
-- Emission Rate Factor: 0.75
 
 ## Technical Information
 

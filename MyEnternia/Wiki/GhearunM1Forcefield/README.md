@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/ghearun/back/icon.png" alt="Ghearun M1 Forcefield icon" loading="lazy" width="auto" height="16px"> **Ghearun M1 Forcefield** is a legendary enviro protection pack.
 
-Automatically applies a rechargable shield. Provides enviro protection. Has an augment slot. Runs on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).
+Automatically applies a rechargable shield. Provides enviro protection. Has an augment slot. Runs on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard).
 
 ## Ingame
 

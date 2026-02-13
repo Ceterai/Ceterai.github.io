@@ -18,9 +18,9 @@ Default Duration: 10s
 Effect parameters:
 
 - Effect Config:
+  - Duration: 16
   - Name: `Static Shield`
   - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" width="auto" height="16px"> [Static Shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield)
-  - Duration: 16
 - Energy Usage: 20
 
 ## Technical Information

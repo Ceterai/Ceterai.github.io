@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"> **Hevikai** is a neutral [effect](https://ceterai.github.io/MyEnternia/Wiki/Effects).
 
-A disease-like immunity issue found in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) areas, that can cause various creatures to start slowly produce plasma in their body. To most organisms this process could be lethal.  
+A disease-like immunity issue found in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [hevika](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal) areas, that can cause various creatures to start slowly produce plasma in their body. To most organisms this process could be lethal.  
 To some this might lead to an increase in energy and power in exchange for sanity, however, the end is usually the same as always.  
 Read more about the disease: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/hevika.png" alt="icon" loading="lazy" width="auto" height="16px"> [Hevikai Incident](https://ceterai.github.io/MyEnternia/Wiki/Hevika#hevikai-incident)
 
@@ -28,10 +28,10 @@ Effect parameters:
 
 - Animation:
   - Particles:  `ember`
-- Semi Immunity: `plasmaStatusImmunity`
-- Radio Message: `ct_hevikai_msg`
 - Electric Resistance: -0.2
+- Radio Message: `ct_hevikai_msg`
 - Remove Electric Status Immunity: `True`
+- Semi Immunity: `plasmaStatusImmunity`
 
 ## Technical Information
 

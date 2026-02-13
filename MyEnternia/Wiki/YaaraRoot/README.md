@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="Yaara Root icon" loading="lazy" width="auto" height="16px"> **Yaara Root** is an uncommon cooking ingredient.
 
-A living thriving piece of evolved plant matter called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara). Can be used for cooking and crafting.  
+A living thriving piece of evolved plant matter called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove). Can be used for cooking and crafting.  
 Its fibres are filled with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) energy, but not enough to extract a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ceternia_core.png" alt="Ceternia Core icon" loading="lazy" width="auto" height="16px"> [ceternia core](https://ceterai.github.io/MyEnternia/Wiki/CeterniaCore) from it.
 
 ## Ingame

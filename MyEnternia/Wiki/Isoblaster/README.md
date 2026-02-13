@@ -24,13 +24,13 @@ Parameters:
 - Energy Usage: 16
 - Fire Time: 0.2
 - Hold Params:
-  - Type: `ct_isoslime_charge`
   - Inaccuracy: 0.01
+  - Type: `ct_isoslime_charge`
 - Hold Time Max: 0.55
 - Hold Type: `blast`
 - Press Params:
-  - Type: `ct_isoslime_squirt`
   - Inaccuracy:
+  - Type: `ct_isoslime_squirt`
 - Press Type: `blast`
 
 ## Sources

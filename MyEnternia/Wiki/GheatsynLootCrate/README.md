@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatsyn Loot Crate icon" loading="lazy" width="auto" height="16px"> **Gheatsyn Loot Crate** is an uncommon loot item.
 
-Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) biome chests.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) biome chests.  
 This supply crate is utilized by the [ghearun researchers](https://ceterai.github.io/MyEnternia/Wiki/GhearunResearcher) as a spare part delivery method for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/ghearun.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn guardians](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#guardians). Can contain other loot as well.
 
 ## Ingame

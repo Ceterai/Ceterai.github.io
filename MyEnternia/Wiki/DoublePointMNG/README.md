@@ -29,8 +29,8 @@ Parameters:
 - Hold Time Min: 0.9
 - Press Params:
   - Count: 2
-  - Type: `ct_ionic_small`
   - Inaccuracy: 0.06
+  - Type: `ct_ionic_small`
 - Press Type: `blast`
 
 ## Sources

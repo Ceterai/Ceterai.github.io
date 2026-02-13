@@ -33,25 +33,25 @@ Parameters:
 - Fire Time: 0.15
 - Fire Types:
   - Auto:
-    - Press Type: `blast`
-    - Press Params:
-      - Type: `iceplasma`
     - Hold Time Max:
-  - Charge:
-    - Press Type: `blast`
     - Press Params:
       - Type: `iceplasma`
-    - Hold Type: `rocket`
+    - Press Type: `blast`
+  - Burst:
+    - Hold Time Max:
+    - Press Params:
+      - Count: 3
+      - Fire Time: 0.65
+      - Sound: `primary_hold`
+      - Type: `iceplasma`
+    - Press Type: `burst`
+  - Charge:
     - Hold Params:
       - Type: `iceplasmarocket`
-  - Burst:
-    - Press Type: `burst`
+    - Hold Type: `rocket`
     - Press Params:
       - Type: `iceplasma`
-      - Count: 3
-      - Sound: `primary_hold`
-      - Fire Time: 0.65
-    - Hold Time Max:
+    - Press Type: `blast`
 
 ### Tactical Cryonics
 

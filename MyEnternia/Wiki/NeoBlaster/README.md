@@ -28,13 +28,13 @@ Parameters:
 - Energy Usage: 16
 - Fire Time: 0.1
 - Hold Params:
-  - Type: `neotommygunbullet`
   - Inaccuracy: 0.4
+  - Type: `neotommygunbullet`
 - Hold Time Max: 0.55
 - Hold Type: `burst`
 - Press Params:
-  - Type: `neotommygunbullet`
   - Inaccuracy: 0.02
+  - Type: `neotommygunbullet`
 - Press Type: `semi`
 
 ## Sources

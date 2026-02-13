@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> **Gheatsyn Shard** is a common poisonous throwable item.
 
-A liquid <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) crystal shard that can be used as a throwable poisonous charge or as a crafting material.  
+A liquid <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) crystal shard that can be used as a throwable poisonous charge or as a crafting material.  
 It can also be used in cooking after proper preparation, according to the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> [calin cuisine book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook).
 
 ## Ingame

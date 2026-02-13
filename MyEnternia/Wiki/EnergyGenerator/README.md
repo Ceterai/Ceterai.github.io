@@ -22,8 +22,8 @@ Blocking Stat: `emiJam`
 Default Duration: 1s  
 Effect parameters:
 
-- Heal Stat: `energy`
 - Heal Base: 0.005
+- Heal Stat: `energy`
 - Heal Time: 0.25
 
 ## Technical Information

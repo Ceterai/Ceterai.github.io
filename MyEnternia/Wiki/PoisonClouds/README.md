@@ -13,10 +13,10 @@ Applied by following items:
 Default Duration: 60s  
 Effect parameters:
 
+- Cooldown: 3.0
+- Damage Multiplier: 1
 - Range: 3
 - Type: `smallpoisoncloud`
-- Damage Multiplier: 1
-- Cooldown: 3.0
 
 ## Technical Information
 

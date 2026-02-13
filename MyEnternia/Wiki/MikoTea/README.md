@@ -51,6 +51,7 @@ Can be crafted:
 Can be bought from merchants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+- [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
 
 <details markdown="1"><summary>Given as rent by tenants: (Expand 6 items)</summary>
 

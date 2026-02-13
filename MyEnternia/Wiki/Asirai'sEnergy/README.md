@@ -10,9 +10,9 @@ Default Duration: 0.8s
 Effect parameters:
 
 - Bolt Interval: 0.5
-- Jump Distance: 10
-- Health Damage Factor: 0.1
 - Damage Clamp Range:  5,  15
+- Health Damage Factor: 0.1
+- Jump Distance: 10
 
 ## Technical Information
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/yaara/icon.png" alt="Yaara Sample icon" loading="lazy" width="auto" height="16px"> **Yaara Sample** is a rare decorative object.
 
-A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) growth, preserved on a small titanium pedestal.
+A perfect sample of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove) growth, preserved on a small titanium pedestal.
 
 ## Ingame
 

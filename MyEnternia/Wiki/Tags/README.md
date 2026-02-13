@@ -1,6 +1,6 @@
 # Tags
 
-The mod adds a total of 396 tags:
+The mod adds a total of 394 tags:
 
 - [Agaranic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Agaranic)
 - [Aid](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid)
@@ -42,7 +42,6 @@ The mod adds a total of 396 tags:
 - [Avianairship](https://ceterai.github.io/MyEnternia/Wiki/Tags/Avianairship)
 - [Axe](https://ceterai.github.io/MyEnternia/Wiki/Tags/Axe)
 - [Ayaka](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka)
-- [Baked](https://ceterai.github.io/MyEnternia/Wiki/Tags/Baked)
 - [Bakery](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bakery)
 - [Barracuda](https://ceterai.github.io/MyEnternia/Wiki/Tags/Barracuda)
 - [Bathroom](https://ceterai.github.io/MyEnternia/Wiki/Tags/Bathroom)
@@ -80,7 +79,6 @@ The mod adds a total of 396 tags:
 - [Ceternia](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternia)
 - [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity)
 - [Chakram](https://ceterai.github.io/MyEnternia/Wiki/Tags/Chakram)
-- [Chocolate](https://ceterai.github.io/MyEnternia/Wiki/Tags/Chocolate)
 - [Christmas](https://ceterai.github.io/MyEnternia/Wiki/Tags/Christmas)
 - [Citadel](https://ceterai.github.io/MyEnternia/Wiki/Tags/Citadel)
 - [City](https://ceterai.github.io/MyEnternia/Wiki/Tags/City)

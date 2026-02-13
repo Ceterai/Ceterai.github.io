@@ -31,28 +31,28 @@ Parameters:
 - Fire Time: 0.8
 - Fire Types:
   - Charge:
-    - Press Type: `blast`
-    - Press Params:
-      - Type: `ct_impulse_medium`
-      - Inaccuracy: 0.005
-    - Hold Type: `blast`
     - Hold Params:
+      - Inaccuracy: 0.005
       - Type: `ct_impulse_large`
-      - Inaccuracy: 0.005
-  - Semi:
-    - Press Type: `semi`
+    - Hold Type: `blast`
     - Press Params:
-      - Type: `ct_impulse_medium`
-      - Count: 3
-      - Interval: 0.1
       - Inaccuracy: 0.005
-    - Hold Time Max:
-  - Single:
+      - Type: `ct_impulse_medium`
     - Press Type: `blast`
-    - Press Params:
-      - Type: `ct_impulse_medium`
-      - Inaccuracy: 0.005
+  - Semi:
     - Hold Time Max:
+    - Press Params:
+      - Count: 3
+      - Inaccuracy: 0.005
+      - Interval: 0.1
+      - Type: `ct_impulse_medium`
+    - Press Type: `semi`
+  - Single:
+    - Hold Time Max:
+    - Press Params:
+      - Inaccuracy: 0.005
+      - Type: `ct_impulse_medium`
+    - Press Type: `blast`
 
 ### Security Switch Mk2
 

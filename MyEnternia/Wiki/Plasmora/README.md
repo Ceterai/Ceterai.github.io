@@ -30,9 +30,9 @@ Parameters:
   - Type: `ct_plasma_large`
 - Hold Type: `rocket`
 - Press Params:
-  - Type: `ct_plasma_small`
-  - Inaccuracy: 0.02
   - Count: 4
+  - Inaccuracy: 0.02
+  - Type: `ct_plasma_small`
 - Press Type: `semi`
 
 ## Sources

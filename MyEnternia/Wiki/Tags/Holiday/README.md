@@ -1,6 +1,6 @@
 # Holiday Tag
 
-The tag `holiday` contains 61 total entries.
+The tag `holiday` contains 63 total entries.
 
 ## Objects
 
@@ -12,9 +12,10 @@ Following objects have this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 60 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 62 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/fireworks/ct_alta_firework.png" alt="Alta Firework icon" loading="lazy" width="auto" height="16px"> [Alta Firework](https://ceterai.github.io/MyEnternia/Wiki/AltaFirework)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_alta_love_poster.png" alt="Alta Love Poster icon" loading="lazy" width="auto" height="16px"> [Alta Love Poster](https://ceterai.github.io/MyEnternia/Wiki/AltaLovePoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Alta New Year - Lann 10 icon" loading="lazy" width="auto" height="16px"> [Alta New Year - Lann 10](https://ceterai.github.io/MyEnternia/Wiki/AltaNewYear-Lann10)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_popper.png" alt="Alta Popper icon" loading="lazy" width="auto" height="16px"> [Alta Popper](https://ceterai.github.io/MyEnternia/Wiki/AltaPopper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_alta_basic_popper.png" alt="Alta Popper Base icon" loading="lazy" width="auto" height="16px"> [Alta Popper Base](https://ceterai.github.io/MyEnternia/Wiki/AltaPopperBase)
@@ -22,8 +23,9 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/national_day/lights/icon.png" alt="Alta String Lights icon" loading="lazy" width="auto" height="16px"> [Alta String Lights](https://ceterai.github.io/MyEnternia/Wiki/AltaStringLights)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_alta_scarf_wall.png" alt="Alta Wall Scarf icon" loading="lazy" width="auto" height="16px"> [Alta Wall Scarf](https://ceterai.github.io/MyEnternia/Wiki/AltaWallScarf)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/ava_day.png" alt="Ava Day Gift icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGift)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox1.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox2.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_poster.png" alt="Ava Day Poster icon" loading="lazy" width="auto" height="16px"> [Ava Day Poster](https://ceterai.github.io/MyEnternia/Wiki/AvaDayPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/confetti/poppers/ct_calline_popper.png" alt="Calline Popper icon" loading="lazy" width="auto" height="16px"> [Calline Popper](https://ceterai.github.io/MyEnternia/Wiki/CallinePopper)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ceternity/ct_ceternity_candy.png" alt="Ceternity Candy icon" loading="lazy" width="auto" height="16px"> [Ceternity Candy](https://ceterai.github.io/MyEnternia/Wiki/CeternityCandy)
@@ -32,7 +34,7 @@ Following objects have this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_christmas_poster.png" alt="Christmas Poster icon" loading="lazy" width="auto" height="16px"> [Christmas Poster](https://ceterai.github.io/MyEnternia/Wiki/ChristmasPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bows/love/icon.png" alt="Estria's Bow icon" loading="lazy" width="auto" height="16px"> [Estria's Bow](https://ceterai.github.io/MyEnternia/Wiki/Estria'sBow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/snowalta2/icon.png" alt="Fancy Snowalta icon" loading="lazy" width="auto" height="16px"> [Fancy Snowalta](https://ceterai.github.io/MyEnternia/Wiki/FancySnowalta)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_candy.png" alt="Friendship Candy icon" loading="lazy" width="auto" height="16px"> [Friendship Candy](https://ceterai.github.io/MyEnternia/Wiki/FriendshipCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_halloween_poster.png" alt="Halloween Poster icon" loading="lazy" width="auto" height="16px"> [Halloween Poster](https://ceterai.github.io/MyEnternia/Wiki/HalloweenPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Happy Ava Day! ❤ icon" loading="lazy" width="auto" height="16px"> [Happy Ava Day! ❤](https://ceterai.github.io/MyEnternia/Wiki/HappyAvaDay!)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/ct_harrowing_poster.png" alt="Harrowing Poster icon" loading="lazy" width="auto" height="16px"> [Harrowing Poster](https://ceterai.github.io/MyEnternia/Wiki/HarrowingPoster)

@@ -29,7 +29,7 @@ The process of primification can also lead to the development of new crystalline
 
 This phenomenon can occur naturally on terraformed moonlike planets, or on similar Io structs like alterash prime planets.
 
-More information is available in the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Altas & Crystals icon" loading="lazy" width="auto" height="16px"> [Altas & Crystals](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) database, since crystalline is a <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" loading="lazy" width="10px" height="14px"> [calin](https://ceterai.github.io/MyEnternia/Wiki/Calin) subtype.
+More information is available in the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Altas & Crystals icon" loading="lazy" width="auto" height="16px"> [Altas & Crystals](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) database, since crystalline is a <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" loading="lazy" width="10px" height="14px"> [calin](https://ceterai.github.io/MyEnternia/Wiki/Calocaves) subtype.
 
 ...The ebook ends with a large list of references to various crystalline prime-related topics, including the properties of different types of crystals, their uses in technology and energy production, and their role in the ecosystem of crystalline prime environments.
 

@@ -26,8 +26,8 @@ Parameters:
 - Power Projectile Time:  0.9,  1.1
 - Power Projectile Type: `chargedharpoon`
 - Projectile Parameters:
-  - Speed: 80
   - Power: 6.5
+  - Speed: 80
 - Projectile Type: `harpoon`
 - Walk While Firing: `True`
 

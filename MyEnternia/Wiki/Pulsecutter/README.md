@@ -24,13 +24,13 @@ Parameters:
 - Energy Usage: 16
 - Fire Time: 0.2
 - Hold Params:
-  - Type: `ct_impulse_medium`
   - Inaccuracy: 0.01
+  - Type: `ct_impulse_medium`
 - Hold Time Max: 0.75
 - Hold Type: `blast`
 - Press Params:
-  - Type: `ct_impulse_small`
   - Inaccuracy: 0.01
+  - Type: `ct_impulse_small`
 - Press Type: `semi`
 
 ## Sources

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_tonnakada.png" alt="Tonnakada icon" loading="lazy" width="auto" height="16px"> **Tonnakada** is a common dish.
 
-A properly cooked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) fresh from a fully grown <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova)!  
+A properly cooked <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) fresh from a fully grown <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove)!  
 Like many kadas, this one takes advantage of each part of a tonna separately to make a dish that tastes completely different.
 
 ## Ingame

@@ -25,8 +25,8 @@ Parameters:
 - Energy Usage: 32
 - Fire Time: 1.6
 - Hold Params:
-  - Type: `iceplasma`
   - Count: 2
+  - Type: `iceplasma`
 - Hold Type: `semi`
 - Press Params:
   - Type: `iceplasma`

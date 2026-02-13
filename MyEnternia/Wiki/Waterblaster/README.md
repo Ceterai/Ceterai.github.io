@@ -16,14 +16,14 @@ Parameters:
 - Energy Usage: 16
 - Fire Time: 0.1
 - Hold Params:
-  - Type: `waterballoon`
   - Inaccuracy: 0.01
+  - Type: `waterballoon`
 - Hold Time Max: 0.55
 - Hold Type: `blast`
 - Press Params:
-  - Type: `squirt`
-  - Inaccuracy: 0.04
   - Count: 3
+  - Inaccuracy: 0.04
+  - Type: `squirt`
 - Press Type: `burst`
 
 ## Sources

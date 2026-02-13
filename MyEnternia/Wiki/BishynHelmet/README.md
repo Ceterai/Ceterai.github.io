@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/misc/bishyn/helmet/icon.png" alt="Bishyn Helmet ★ icon" loading="lazy" width="auto" height="16px"> **Bishyn Helmet ★** is a rare head armor piece.
 
-A helmet powered by poisonous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals.
+A helmet powered by poisonous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls) crystals.
 
 ## Parameters
 

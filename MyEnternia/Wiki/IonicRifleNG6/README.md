@@ -28,12 +28,12 @@ Parameters:
 - Energy Usage: 32
 - Fire Time: 0.65
 - Hold Params:
-  - Type: `ct_ionic_medium`
   - Count: 6
+  - Type: `ct_ionic_medium`
 - Hold Type: `semi`
 - Press Params:
-  - Type: `ct_ionic_medium`
   - Count: 5
+  - Type: `ct_ionic_medium`
 - Press Type: `burst`
 
 ### Tactical Ambush

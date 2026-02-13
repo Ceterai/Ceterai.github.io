@@ -19,8 +19,11 @@ Can be configured with <img src="https://steamuserimages-a.akamaihd.net/ugc/9203
 Can periodically provide following items as rent:
 
 - for threat level **0+**:
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate) x*2* (weight: 0.5)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie) x*2* (weight: 0.5)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_candy.png" alt="Friendship Candy icon" loading="lazy" width="auto" height="16px"> [Friendship Candy](https://ceterai.github.io/MyEnternia/Wiki/FriendshipCandy) x*4* (weight: 0.6)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie) x*3* (weight: 0.2)
+- `ct_ava_cookie-4` x*2* (weight: 0.1)
+- `ct_ava_cookie-5` x*2* (weight: 0.05)
+- `ct_ava_cookie-2` x*4* (weight: 0.05)
 
 ## Technical Information
 

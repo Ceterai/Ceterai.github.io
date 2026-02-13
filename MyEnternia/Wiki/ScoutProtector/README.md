@@ -33,8 +33,8 @@ Parameters:
 - Fire Time: 1.2
 - Hold Params:
   - Count: 2
-  - Type: `ct_emergencer_charge`
   - Interval: 0.1
+  - Type: `ct_emergencer_charge`
 - Hold Time Max: 0.55
 - Hold Type: `rocket`
 - Press Params:

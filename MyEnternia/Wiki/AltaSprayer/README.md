@@ -20,10 +20,10 @@ Parameters:
 - Muzzle Flash Variants: 1
 - Projectile Count: 1
 - Projectile Parameters:
-  - Speed: 13
-  - Power:
-  - Time To Live: 5
   - Color:  10,  255
+  - Power:
+  - Speed: 13
+  - Time To Live: 5
 - Projectile Type: `watersprinkledroplet`
 
 ## Sources

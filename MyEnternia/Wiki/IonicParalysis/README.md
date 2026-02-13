@@ -11,8 +11,8 @@ Default Duration: 2.75s
 Effect parameters:
 
 - Animation:
-  - Particles:  `sparks`,  `ember`
   - Lights:  `min`
+  - Particles:  `sparks`,  `ember`
 - Emi: `True`
 - Mini Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
 - Vulnerability: `hevikai`

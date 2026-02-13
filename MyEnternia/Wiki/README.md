@@ -53,7 +53,7 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
    <ul>
     <li>
      <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" width="auto"/>
-     <a href="https://ceterai.github.io/MyEnternia/Wiki/Planets">
+     <a href="https://ceterai.github.io/MyEnternia/Wiki/Biomes">
       Planets
      </a>
      <ul>
@@ -97,25 +97,25 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
      <ul>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/Monsters#Robotic-Monsters">
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Monsters#robotic-monsters">
         Robotic
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/Monsters#organic-Monsters">
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Monsters#organic-monsters">
         Organic
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/Monsters#Critters">
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Monsters#critters">
         Critters
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/scout.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/Monsters#Persistent-Creatures">
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Monsters#persistent-creatures">
         Toys/Ship Pets
        </a>
       </li>
@@ -129,92 +129,92 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
      <ul>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/drone_spawner/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/breakables">
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Breakables">
         Breakables
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/traps">
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Traps">
         Traps
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/warped_hive/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/farmables">
-        Farmables
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/FarmingObjects">
+        Farming Objects
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/security/aid/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/others">
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Others">
         Others
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/cabinet/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/storage-objects">
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/StorageObjects">
         Storage Objects
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/minifridge/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/fridges">
-        Fridges
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/PottedNature">
+        Potted Nature
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/laptop/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/decorative-objects">
-        Decorative Objects
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Furniture%26Decorations">
+        Furniture &amp; Decorations
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/bed/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/furniture-objects">
-        Furniture Objects
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Terraformers">
+        Terraformers
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/door/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/doors">
-        Doors
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Emblems">
+        Emblems
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/scout/energy_source/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/wired-objects">
-        Wired Objects
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/WiringComponents">
+        Wiring Components
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/lamp/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/lights">
-        Lights
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/LightSources">
+        Light Sources
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon1.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/crafting-objects">
-        Crafting Objects
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/CraftingStations">
+        Crafting Stations
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/teleporter/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/teleporters">
-        Teleporters
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/TeleportationDevices">
+        Teleportation Devices
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/flag/icon.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/teleportation-markers">
-        Teleportation Markers
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Paintings">
+        Paintings
        </a>
       </li>
       <li>
        <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/other/ct_alta_af.png" width="auto"/>
-       <a href="https://ceterai.github.io/MyEnternia/Wiki/action-figures">
-        Action Figures
+       <a href="https://ceterai.github.io/MyEnternia/Wiki/Collectibles">
+        Collectibles
        </a>
       </li>
      </ul>
@@ -510,7 +510,7 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
        </li>
        <li>
         <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" width="auto"/>
-        <a href="https://ceterai.github.io/MyEnternia/Wiki/Koywa">
+        <a href="https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass">
          Koywa
         </a>
        </li>
@@ -522,19 +522,19 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
        </li>
        <li>
         <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" width="auto"/>
-        <a href="https://ceterai.github.io/MyEnternia/Wiki/Tonnova">
+        <a href="https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove">
          Tonnova
         </a>
        </li>
        <li>
         <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" width="auto"/>
-        <a href="https://ceterai.github.io/MyEnternia/Wiki/Warped">
+        <a href="https://ceterai.github.io/MyEnternia/Wiki/WarpedForest">
          Warped
         </a>
        </li>
        <li>
         <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" width="auto"/>
-        <a href="https://ceterai.github.io/MyEnternia/Wiki/Yaara">
+        <a href="https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove">
          Yaara
         </a>
        </li>
@@ -568,13 +568,13 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
     <ul>
      <li>
       <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" width="auto"/>
-      <a href="https://ceterai.github.io/MyEnternia/Wiki/Bishyn">
+      <a href="https://ceterai.github.io/MyEnternia/Wiki/BishynHalls">
        Bishyn
       </a>
      </li>
      <li>
       <img alt="icon" height="16px" loading="lazy" src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" width="auto"/>
-      <a href="https://ceterai.github.io/MyEnternia/Wiki/Calin">
+      <a href="https://ceterai.github.io/MyEnternia/Wiki/Calocaves">
        Calin
       </a>
      </li>
@@ -586,13 +586,13 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
      </li>
      <li>
       <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" width="auto"/>
-      <a href="https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn">
+      <a href="https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard">
        Gheatsyn
       </a>
      </li>
      <li>
       <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" width="auto"/>
-      <a href="https://ceterai.github.io/MyEnternia/Wiki/Hevika">
+      <a href="https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal">
        Hevika
       </a>
      </li>

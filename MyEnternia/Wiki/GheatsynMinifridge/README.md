@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/gheatsyn/decorative/minifridge/icon.png" alt="Gheatsyn Minifridge icon" loading="lazy" width="auto" height="16px"> **Gheatsyn Minifridge** is a rare refrigerated storage unit.
 
-A minifridge that seems to be running on crystal energy from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).
+A minifridge that seems to be running on crystal energy from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard).
 
 ## Ingame
 

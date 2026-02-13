@@ -27,11 +27,11 @@ Parameters:
   - Type: `iceburster`
 - Hold Type: `nade`
 - Press Params:
-  - Type: `iceplasma`
   - Inaccuracy: 0.04
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
+  - Type: `iceplasma`
 - Press Type: `semi`
 
 ### Armored Crest
@@ -46,9 +46,9 @@ Parameters:
 - Energy Usage: 40
 - Fire Time: 0.9
 - Hold Params:
-  - Type: `stickyplasma`
-  - Inaccuracy: 0.01
   - Count: 3
+  - Inaccuracy: 0.01
+  - Type: `stickyplasma`
 - Hold Type: `burst`
 - Press Params:
   - Type: `ct_impulse_large`

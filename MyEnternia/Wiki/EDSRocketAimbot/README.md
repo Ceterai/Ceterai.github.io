@@ -13,12 +13,12 @@ Applied by following items:
 Default Duration:  
 Effect parameters:
 
-- Play Sound:
 - Bolt Interval: 4.0
+- Damage Base: 64
 - Jump Distance: 30
+- Play Sound:
 - Projectile: `homingrocket`
 - Speed: 40
-- Damage Base: 64
 
 ## Technical Information
 

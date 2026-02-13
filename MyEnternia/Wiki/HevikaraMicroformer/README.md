@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/hevika/icon.png" alt="Hevikara Microformer ★★★ icon" loading="lazy" width="auto" height="16px"> **Hevikara Microformer ★★★** is a legendary terraformer.
 
 Transforms an area of a planet into a hevika hall. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Hevikara](https://ceterai.github.io/MyEnternia/Wiki/Hevikara) is a <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystal](https://starbounder.org/Crystal) biome full of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika) crystals and, well, electricity they produce. Watch out.
+[Hevikara](https://ceterai.github.io/MyEnternia/Wiki/Hevikara) is a <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystal](https://starbounder.org/Crystal) biome full of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [hevika](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal) crystals and, well, electricity they produce. Watch out.
 
 ## Ingame
 

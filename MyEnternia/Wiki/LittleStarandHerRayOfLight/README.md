@@ -87,14 +87,16 @@ I'm sorry that I won't be able to travel with you, but I promise to forever ligh
 
 ### Crafting
 
-<details markdown="1"><summary>Unlocks blueprints for: (Expand 7 items)</summary>
+<details markdown="1"><summary>Unlocks blueprints for: (Expand 9 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="A Perfect Riverside Date icon" loading="lazy" width="auto" height="16px"> [A Perfect Riverside Date](https://ceterai.github.io/MyEnternia/Wiki/APerfectRiversideDate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_alta_love_poster.png" alt="Alta Love Poster icon" loading="lazy" width="auto" height="16px"> [Alta Love Poster](https://ceterai.github.io/MyEnternia/Wiki/AltaLovePoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/ava_day.png" alt="Ava Day Gift icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGift)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox1.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox2.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_poster.png" alt="Ava Day Poster icon" loading="lazy" width="auto" height="16px"> [Ava Day Poster](https://ceterai.github.io/MyEnternia/Wiki/AvaDayPoster)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_candy.png" alt="Friendship Candy icon" loading="lazy" width="auto" height="16px"> [Friendship Candy](https://ceterai.github.io/MyEnternia/Wiki/FriendshipCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
 
 </details>

@@ -24,9 +24,9 @@ Parameters:
 - Energy Usage: 16
 - Fire Time: 0.6
 - Params:
-  - Knockback:
-  - Ignore Terrain:
   - Control Force: 30
+  - Ignore Terrain:
+  - Knockback:
   - Pickup Distance: 1.0
   - Snap Distance: 2.0
 - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"> [Ararang](https://ceterai.github.io/MyEnternia/Wiki/Ararang)

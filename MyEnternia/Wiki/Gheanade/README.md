@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/shop/drinks/ct_gheanade.png" alt="Gheanade icon" loading="lazy" width="auto" height="16px"> **Gheanade** is a common drink.
 
 Some say it was made from liquid crystals! As if that's possible.  
-In reality it's made based of off a popular alta cooking ingredient with described capabilities - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn).
+In reality it's made based of off a popular alta cooking ingredient with described capabilities - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard).
 
 ## Ingame
 

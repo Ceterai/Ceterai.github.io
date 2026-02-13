@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/koywa.png" alt="River Camping Brochure icon" loading="lazy" width="auto" height="16px"> **River Camping Brochure** is an uncommon codex entry.
 
-A presentable invitation to an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) party, styled after the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [koywa](https://ceterai.github.io/MyEnternia/Wiki/Koywa) plants.  
+A presentable invitation to an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) party, styled after the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [koywa](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass) plants.  
 This invitation is to a riverside resort called _Auroza_. Seems like it's the grand opening and they're throwing a party! The paper is covered in heart and bikini stickers, with refreshing cocktails and other beach party attire drawn on the card.
 
 ## Ingame

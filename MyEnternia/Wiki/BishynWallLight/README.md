@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/light/icon.png" alt="Bishyn Wall Light icon" loading="lazy" width="auto" height="16px"> **Bishyn Wall Light** is an uncommon light source.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) light.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls) light.
 
 ## Ingame
 

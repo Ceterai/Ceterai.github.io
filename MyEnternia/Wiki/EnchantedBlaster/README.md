@@ -30,18 +30,18 @@ Parameters:
 - Energy Usage: 14
 - Fire Time: 0.2
 - Hold Params:
-  - Type: `miniwobbleshot`
+  - Inaccuracy: 0.01
   - Params:
     - Damage Kind: `iceplasma`
-  - Inaccuracy: 0.01
+  - Type: `miniwobbleshot`
 - Hold Time Max: 0.55
 - Hold Type: `blast`
 - Press Params:
-  - Type: `blueplasmabullet`
   - Inaccuracy: 0.045
   - Params:
     - Damage Kind: `iceplasma`
     - Speed: 60
+  - Type: `blueplasmabullet`
 - Press Type: `semi`
 
 ## Sources

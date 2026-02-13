@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/hatch/icon.png" alt="Bishyn Hatch icon" loading="lazy" width="auto" height="16px"> **Bishyn Hatch** is an uncommon door.
 
-A smooth <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) hatch.
+A smooth <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls) hatch.
 
 ## Ingame
 

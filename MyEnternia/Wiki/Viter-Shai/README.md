@@ -27,8 +27,8 @@ Parameters:
   - Type: `dragonfirelarge`
 - Hold Type: `rocket`
 - Press Params:
-  - Type: `dragonfiresmall`
   - Inaccuracy: 0.11
+  - Type: `dragonfiresmall`
 - Press Type: `burst`
 
 ### Aina Veritas
@@ -41,9 +41,9 @@ Parameters:
 - Energy Usage: 40
 - Fire Time: 2.2
 - Hold Params:
-  - Type: `remotestickygrenade`
-  - Inaccuracy: 0.26
   - Count: 3
+  - Inaccuracy: 0.26
+  - Type: `remotestickygrenade`
 - Hold Time Max: 0.55
 - Hold Type: `burst`
 - Press Params:

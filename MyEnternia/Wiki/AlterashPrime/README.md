@@ -8,7 +8,7 @@ Unfortunately, due to extremely cold surroundings, the athmosphere here is super
 
 One of these environments is <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_eva_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Evarus Prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#EvarusPrime), which protects the planet from freezing by interacting with excessive cryo energy.
 
-Evarus Prime also prevents stardust from fully crystalizing, allowing it to form energy-rich [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/Hevika) instead.
+Evarus Prime also prevents stardust from fully crystalizing, allowing it to form energy-rich [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal) instead.
 
 Below the surface of an Alterash Prime planet is a semi-empty space called [Esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#Esetera) - a natural formation, the result of the planet's unstable conditions. Below Esetera is another supercharged area of the planet, giving its [core](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#core) additional protection from cold.
 
@@ -33,7 +33,7 @@ The water throughout the planet is electrified, meaning it will constantly deal 
 
 All monsters and critters on the planet have [full immunity](https://starbounder.org/Electric_Resistance) to <img src="https://starbounder.org/mediawiki/images/1/15/Electric_%28Attack%29.png" width="16" height="16"/> [electric](https://starbounder.org/Weapons#Elemental_Damage) status effects.
 
-Other prominent hazards may include: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/ct_eds_haulter/icon.png" alt="icon" loading="lazy" width="auto" height="16px">  [EDS Haulters](https://ceterai.github.io/MyEnternia/Wiki/EDSHaulter), <img src="https://starbounder.org/mediawiki/images/b/bf/Tesla_Spike.png" width="12" height="12"/> [Tesla Spikes](https://starbounder.org/Tesla_Spike), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Bishyn Crystals](https://ceterai.github.io/MyEnternia/Wiki/ShinyBishynCrystal), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alternia Crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_spawner/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Isospawners](https://ceterai.github.io/MyEnternia/Wiki/Isospawner), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phosphobulbs/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Phosphobulbs](https://ceterai.github.io/MyEnternia/Wiki/IrradiatedPhosphobulb)
+Other prominent hazards may include: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/ct_eds_haulter/icon.png" alt="icon" loading="lazy" width="auto" height="16px">  [EDS Halters](https://ceterai.github.io/MyEnternia/Wiki/EDSHalter), <img src="https://starbounder.org/mediawiki/images/b/bf/Tesla_Spike.png" width="12" height="12"/> [Tesla Spikes](https://starbounder.org/Tesla_Spike), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Bishyn Crystals](https://ceterai.github.io/MyEnternia/Wiki/ShinyBishynCrystal), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alternia Crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/isoslime/ct_isoslime_spawner/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Isospawners](https://ceterai.github.io/MyEnternia/Wiki/Isospawner), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/phospholion/ct_phosphobulbs/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Phosphobulbs](https://ceterai.github.io/MyEnternia/Wiki/IrradiatedPhosphobulb)
 
 ### Dungeons
 
@@ -111,13 +111,13 @@ This is a list of biomes that can be found on this planet. You can find them bel
 
 Evarus Prime (eng. "Air Force" Prime) is an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) classification for the highly-ionized atmosphere of Alterash Prime. The closer to the ozon layer of the planet, the less stable the air is, filled with alternia energy and acting as a sort of "energy shield" of the planet.
 
-This field is also the reason for the almost complete abscense of any [stardust crystals](https://ceterai.github.io/MyEnternia/Wiki/Stardust) on the surface of the planet - Evarus Prime simply doesn't allow any falling stardust to properly crystallize, turning it into [alternia-charged crystals](https://ceterai.github.io/MyEnternia/Wiki/alterniacrystal). These high-capacity crystals are later used as long-lasting energy
+This field is also the reason for the almost complete abscense of any [stardust crystals](https://ceterai.github.io/MyEnternia/Wiki/Stardust) on the surface of the planet - Evarus Prime simply doesn't allow any falling stardust to properly crystallize, turning it into [alternia-charged crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal). These high-capacity crystals are later used as long-lasting energy
 
 sources by altas.
 
 Ingame Evarus Prime occupies whole **Atmosphere layer** of the planet. This area is mostly empty, inhabitated mostly by ethereal flying creatures.
 
-Additionally, the air here is supercharged, meaning that without special protection, the player will constantly experience an [ionic stroke](https://ceterai.github.io/MyEnternia/Wiki/ionicstroke).
+Additionally, the air here is supercharged, meaning that without special protection, the player will constantly experience an [ionic stroke](https://ceterai.github.io/MyEnternia/Wiki/IonicStroke).
 
 This effect is absent near the Asteroid layer of the planet. Because of this, Evarus Prime acts as an obstacle for the player trying to get to the [Asteroid layer](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#asteroids) of the planet in search for [enternia-enhanced moonrock clumps](https://ceterai.github.io/MyEnternia/Wiki/EnhancedMoonrock).
 
@@ -140,7 +140,7 @@ A **Subsurface layer** biome that acts as a ceiling for the layer below. Contain
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Calocaves](https://ceterai.github.io/MyEnternia/Wiki/Calocaves) (primary)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Crystalline Prime](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrime)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Isoslime Plasts](https://ceterai.github.io/MyEnternia/Wiki/IsoslimePlasts)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_isoslime_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Isoslime Plasts](https://ceterai.github.io/MyEnternia/Wiki/Isostratum)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_phospholion_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Phospholion Mines](https://ceterai.github.io/MyEnternia/Wiki/PhospholionMines)
 
 #### Esetera
@@ -159,7 +159,7 @@ Contains following biomes:
 
 #### Esetera Depths
 
-The bottom of [Esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera), and its actual "surface". Apart from ubiquitous dangers, the surface is strewn with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/alterniacrystal), as well as numerous deep caves that sometimes can lead right to the core of the planet.
+The bottom of [Esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera), and its actual "surface". Apart from ubiquitous dangers, the surface is strewn with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal), as well as numerous deep caves that sometimes can lead right to the core of the planet.
 
 These caves, also known as [Esetera Caves](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-caves), act as a natural shield, protecting the core of the planet from high ionization.
 
@@ -219,11 +219,11 @@ These are all [weather configs](https://ceterai.github.io/MyEnternia/Wiki/Weathe
 
 - The planet is partially covered in snow. Plasts of crystals and prisms can be found here, buried in the ground.
 - Scanners show this planet is covered in grass plains and snowy canyons. Detected strong [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) impulses throughout the atmosphere. Be careful.
-- It seems like this planet is teeming with crystals. Scanners detect [alternia](https://ceterai.github.io/MyEnternia/Wiki/alternia) in the atmosphere, as well as high levels of electric charges.
+- It seems like this planet is teeming with crystals. Scanners detect [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) in the atmosphere, as well as high levels of electric charges.
 - Planet is covered in snow and crystals. Additionally, the data suggests it is best to not land there at night or during bad weather.
-- High sources of [alternia](https://ceterai.github.io/MyEnternia/Wiki/alternia) energy detected. Pieces of blue crystals are scattered among plasts of moonstone and moonrocks.
-- A [stardust](https://ceterai.github.io/MyEnternia/Wiki/stardust)-compatible planet. Be cautious of high electricity levels in the air. Geoanalysis detects rare plasts of [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/gheatsyn) underground.
-- This planet is inhabited by lifeforms compatible with or immune to [alternia](https://ceterai.github.io/MyEnternia/Wiki/alternia) effects. The flora consists of rare crops and plants.
+- High sources of [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) energy detected. Pieces of blue crystals are scattered among plasts of moonstone and moonrocks.
+- A [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)-compatible planet. Be cautious of high electricity levels in the air. Geoanalysis detects rare plasts of [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) underground.
+- This planet is inhabited by lifeforms compatible with or immune to [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) effects. The flora consists of rare crops and plants.
 
 ### Planet Lore
 

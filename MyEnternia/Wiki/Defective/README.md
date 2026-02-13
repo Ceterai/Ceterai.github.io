@@ -12,10 +12,10 @@ Effect parameters:
 - Animation:
   - Particles:  `sparks`
 - Bolt Interval: 1.0
-- Jump Distance: 2
+- Damage Clamp: `True`
 - Damage From Max Health: `True`
 - Damage From Max Health Percent: 0.05
-- Damage Clamp: `True`
+- Jump Distance: 2
 
 ## Technical Information
 

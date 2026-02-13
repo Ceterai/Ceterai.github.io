@@ -16,9 +16,9 @@ Default Duration: 5s
 Effect parameters:
 
 - Electric Resistance: 0.2
-- Plasma Status Immunity: `True`
 - Electric Status Immunity: `True`
 - Pf Mild Biome Lightning Immunity: `True`
+- Plasma Status Immunity: `True`
 
 ## Technical Information
 

@@ -24,11 +24,11 @@ Parameters:
 - Hold Time Max:
 - Hold Time Min: 0.9
 - Press Params:
-  - Type: `ct_impulse_medium`
   - Inaccuracy: 0.04
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
+  - Type: `ct_impulse_medium`
 - Press Type: `semi`
 
 ### Twin Pulse
@@ -43,9 +43,9 @@ Parameters:
 - Energy Usage: 40
 - Fire Time: 0.9
 - Hold Params:
-  - Type: `ct_impulse_large`
-  - Inaccuracy: 0.21
   - Count: 3
+  - Inaccuracy: 0.21
+  - Type: `ct_impulse_large`
 - Hold Type: `burst`
 - Press Params:
   - Type: `ct_impulse_large`

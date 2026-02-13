@@ -26,11 +26,11 @@ Parameters:
 - Fire Time: 0.1
 - Hold Time Max:
 - Press Params:
-  - Type: `poisonplasma`
   - Inaccuracy: 0.11
   - Params:
     - Knockback: 5
     - Time To Live: 5.0
+  - Type: `poisonplasma`
 - Press Type: `blast`
 
 ### Ex-Pollinator
@@ -45,12 +45,12 @@ Parameters:
 - Energy Usage: 40
 - Fire Time: 0.9
 - Hold Params:
-  - Type: `largepoisoncloud`
   - Inaccuracy:
   - Params:
     - Knockback: 5
-    - Time To Live: 8.0
     - Speed: 15.0
+    - Time To Live: 8.0
+  - Type: `largepoisoncloud`
 - Hold Type: `blast`
 - Press Params:
   - Type: `smallpoisoncloud`

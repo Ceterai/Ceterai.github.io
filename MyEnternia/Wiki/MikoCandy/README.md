@@ -21,6 +21,7 @@ Can be crafted:
 
 Can be bought from merchants:
 
+- [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 - [Alta Servicer](https://ceterai.github.io/MyEnternia/Wiki/AltaServicer)
 

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Antorash Tour Guide icon" loading="lazy" width="auto" height="16px"> **Antorash Tour Guide** is an uncommon codex entry.
 
 A small tour ebook that guides you through the hollow areas deep underneath <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets.  
-There's an encrypted note at the end with exact coordinates that don't work, and a signature that says ["C.T."](https://ceterai.github.io/MyEnternia/Wiki/Project-Ceterai).
+There's an encrypted note at the end with exact coordinates that don't work, and a signature that says ["C.T."](https://ceterai.github.io/MyEnternia/Wiki/ProjectCeterai).
 
 ## Ingame
 

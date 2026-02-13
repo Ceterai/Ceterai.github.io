@@ -42,12 +42,12 @@ Parameters:
 - Energy Usage: 32
 - Fire Time: 1.2
 - Hold Params:
-  - Type: `ct_ionic_large`
+  - Count: 1
+  - Offset:  -0.45,  5.0
   - Params:
     - Knockback: 15
     - Time To Live: 5.0
-  - Offset:  -0.45,  5.0
-  - Count: 1
+  - Type: `ct_ionic_large`
 - Hold Type: `blast`
 - Press Type: `none`
 

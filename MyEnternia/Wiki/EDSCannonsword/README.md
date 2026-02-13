@@ -43,19 +43,19 @@ Parameters:
 - Fire Time: 1.2
 - Hold Params:
   - Count: 3
-  - Type: `ct_ionic_large`
   - Interval: 0.1
   - Offset:  -0.75,  5.0
   - Params:
     - Knockback: 15
     - Time To Live: 5.0
+  - Type: `ct_ionic_large`
 - Hold Type: `blast`
 - Press Params:
-  - Type: `ct_ionic_large`
   - Inaccuracy:
+  - Offset:  -0.45,  5.0
   - Params:
     - Time To Live: 5.0
-  - Offset:  -0.45,  5.0
+  - Type: `ct_ionic_large`
 - Press Type: `blast`
 
 ## Sources

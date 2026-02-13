@@ -1,6 +1,6 @@
 # Furniture & Decorations
 
-The mod adds a total of 266 furnitures & decorations:
+The mod adds a total of 267 furnitures & decorations:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arco/body.png" alt="A.R.C.O. Emblem icon" loading="lazy" width="auto" height="16px"> [A.R.C.O. Emblem](https://ceterai.github.io/MyEnternia/Wiki/A.R.C.O.Emblem)
@@ -50,6 +50,7 @@ The mod adds a total of 266 furnitures & decorations:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/lab/lifechamber/icon.png" alt="Alta Lifechamber icon" loading="lazy" width="auto" height="16px"> [Alta Lifechamber](https://ceterai.github.io/MyEnternia/Wiki/AltaLifechamber)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light/icon.png" alt="Alta Light icon" loading="lazy" width="auto" height="16px"> [Alta Light](https://ceterai.github.io/MyEnternia/Wiki/AltaLight)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/light_bar/icon.png" alt="Alta Light Bar icon" loading="lazy" width="auto" height="16px"> [Alta Light Bar](https://ceterai.github.io/MyEnternia/Wiki/AltaLightBar)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_alta_love_poster.png" alt="Alta Love Poster icon" loading="lazy" width="auto" height="16px"> [Alta Love Poster](https://ceterai.github.io/MyEnternia/Wiki/AltaLovePoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" width="auto" height="16px"> [Alta Marine Display](https://ceterai.github.io/MyEnternia/Wiki/AltaMarineDisplay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" width="auto" height="16px"> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/table_mini/icon.png" alt="Alta Minitable icon" loading="lazy" width="auto" height="16px"> [Alta Minitable](https://ceterai.github.io/MyEnternia/Wiki/AltaMinitable)
@@ -100,8 +101,8 @@ The mod adds a total of 266 furnitures & decorations:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_yaara_art.png" alt="Among The Grove icon" loading="lazy" width="auto" height="16px"> [Among The Grove](https://ceterai.github.io/MyEnternia/Wiki/AmongTheGrove)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/trophies/ct_anglure_lamp.png" alt="Anglure's Lamp ★ icon" loading="lazy" width="auto" height="16px"> [Anglure's Lamp ★](https://ceterai.github.io/MyEnternia/Wiki/Anglure'sLamp)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/arknight/body.png" alt="Arknight Emblem icon" loading="lazy" width="auto" height="16px"> [Arknight Emblem](https://ceterai.github.io/MyEnternia/Wiki/ArknightEmblem)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox1.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox2.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_poster.png" alt="Ava Day Poster icon" loading="lazy" width="auto" height="16px"> [Ava Day Poster](https://ceterai.github.io/MyEnternia/Wiki/AvaDayPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bion/icon.png" alt="Bion Sample ★★ icon" loading="lazy" width="auto" height="16px"> [Bion Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/BionSample)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/samples/bionid/icon.png" alt="Bionid Sample ★★ icon" loading="lazy" width="auto" height="16px"> [Bionid Sample ★★](https://ceterai.github.io/MyEnternia/Wiki/BionidSample)

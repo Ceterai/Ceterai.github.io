@@ -1,8 +1,12 @@
 # Valentines Tag
 
-The tag `valentines` contains 1 total entries.
+The tag `valentines` contains 2 total entries.
 
 ## Objects
+
+Following objects have this colony tag:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_alta_love_poster.png" alt="Alta Love Poster icon" loading="lazy" width="auto" height="16px"> [Alta Love Poster](https://ceterai.github.io/MyEnternia/Wiki/AltaLovePoster)
 
 ### Vanilla Objects
 

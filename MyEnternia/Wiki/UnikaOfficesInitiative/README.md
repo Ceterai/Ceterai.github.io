@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Unika Offices Initiative icon" loading="lazy" width="auto" height="16px"> **Unika Offices Initiative** is a rare codex entry.
 
-A promotional brochure promoting some sleek, stylish [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) furniture made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals.  
+A promotional brochure promoting some sleek, stylish [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) furniture made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls) crystals.  
 A simple brochure made of a sturdy paper, with a few pictures of the furniture and a short description of the product. The paper is made from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) wood, which is quite common for alta documents.
 
 The brochure is made by a company called Unika, which specializes in alta furniture and office supplies.

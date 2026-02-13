@@ -21,11 +21,11 @@ Blocking Stat: `emiJam`
 Default Duration: 10s  
 Effect parameters:
 
+- Cooldown: 60
 - Effect Config:
+  - Duration: 2
   - Name: `Emergency Heal`
   - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_heal/ct_life_support.png" alt="Emergency Heal icon" loading="lazy" width="auto" height="16px"> [Emergency Heal](https://ceterai.github.io/MyEnternia/Wiki/EmergencyHeal)
-  - Duration: 2
-- Cooldown: 60
 - Energy Usage: 40
 
 ## Technical Information

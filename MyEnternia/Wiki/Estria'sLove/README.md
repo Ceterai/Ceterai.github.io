@@ -34,6 +34,7 @@ Can be crafted:
 Can be bought from merchants:
 
 - [Alta Chef](https://ceterai.github.io/MyEnternia/Wiki/AltaChef)
+- [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
 
 Drops from destroyed obstacles:
 

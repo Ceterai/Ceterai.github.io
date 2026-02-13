@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> **Tonna** is a common throwable item.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova) fruit. Feels lighter than a coconut. You can throw it at someone or cook it!  
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove) fruit. Feels lighter than a coconut. You can throw it at someone or cook it!  
 Botanically speaking, this fruit is a nut. It has an outer semi-hard shell and a detached, soft white inside pulp, full of tonnova milk and nutrients.  
 The pulp has a soft, slightly sweet taste that turns into a porrige-like taste during cooking. This is why **tonna porriges** are a thing and are quite popular in the [nia cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#nia).
 

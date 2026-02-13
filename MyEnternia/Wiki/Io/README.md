@@ -13,16 +13,16 @@ The content of the pages is mainly lore-related.
 
 ## Organic
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" width="16" height="16"/> [koywa](https://ceterai.github.io/MyEnternia/Wiki/Koywa)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" width="16" height="16"/> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" width="16" height="16"/> [koywa](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" width="16" height="16"/> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" width="16" height="16"/> [warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" width="16" height="16"/> [yaara](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove)
 
 ## Metallic
 
 ## Crystallic
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" width="10" height="14"/> [calin](https://ceterai.github.io/MyEnternia/Wiki/Calin)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/Hevika)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" width="16" height="16"/> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" width="10" height="14"/> [calin](https://ceterai.github.io/MyEnternia/Wiki/Calocaves)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" width="16" height="16"/> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_alternia_shard.png" alt="icon" width="16" height="16"/> [hevika](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)

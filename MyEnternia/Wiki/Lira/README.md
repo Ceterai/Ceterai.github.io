@@ -27,13 +27,13 @@ Parameters:
 - Base Dps: 12
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
-  - Knockback Mode: `aim`
   - Knockback: 10
+  - Knockback Mode: `aim`
   - Timeout Group: `primary`
 - Fire Time: 0.6
 - Hold Damage Config:
-  - Timeout Group: `hold`
   - Timeout: 0.5
+  - Timeout Group: `hold`
 - Hold Damage Multiplier: 0.1
 
 ### Melody Of The Stars
@@ -46,19 +46,19 @@ Parameters:
 - Base Dps: 11
 - Beam Length: 50
 - Chain:
-  - Start Offset: 
-  - Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
   - End Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
-  - Segment Size: 1.0
-  - Overdraw Length:
-  - Taper:
-  - Jitter: 0.125
-  - Waveform:
-    - Frequency: 1.0
-    - Amplitude: 0.25
-    - Movement:
   - Fullbright: `True`
+  - Jitter: 0.125
   - Light:  249,  21,  207
+  - Overdraw Length:
+  - Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
+  - Segment Size: 1.0
+  - Start Offset: 
+  - Taper:
+  - Waveform:
+    - Amplitude: 0.25
+    - Frequency: 1.0
+    - Movement:
 - Damage Config:
   - Damage Source Kind: `plasma`
   - Knockback: 2

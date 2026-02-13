@@ -24,12 +24,12 @@ Parameters:
 - Energy Usage: 20
 - Fire Time: 0.48
 - Hold Params:
-  - Type: `chargedbustershot`
   - Inaccuracy:
+  - Type: `chargedbustershot`
 - Hold Type: `rocket`
 - Press Params:
-  - Type: `ct_staris_small`
   - Inaccuracy: 0.26
+  - Type: `ct_staris_small`
 - Press Type: `burst`
 
 ## Sources

@@ -16,10 +16,10 @@ Blocking Stat: `emiJam`
 Default Duration: 60s  
 Effect parameters:
 
-- Range: 3
-- Damage Projectile Type: `ct_impulse_wave_blast`
-- Damage Multiplier: 1
 - Cooldown: 1
+- Damage Multiplier: 1
+- Damage Projectile Type: `ct_impulse_wave_blast`
+- Range: 3
 
 ## Technical Information
 

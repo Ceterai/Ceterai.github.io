@@ -16,7 +16,7 @@ Radiomessages on pickup:
 
 ### Bishyn Barrage
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) crystals are poisonous - they deal physical damage while applying special effects. Press to burst with shards, hold for a shard discharge.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Bishyn](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls) crystals are poisonous - they deal physical damage while applying special effects. Press to burst with shards, hold for a shard discharge.
 
 Parameters:
 
@@ -24,16 +24,16 @@ Parameters:
 - Energy Usage: 32
 - Fire Time: 0.9
 - Hold Params:
-  - Type: `ct_bishyn_shard`
-  - Inaccuracy: 1.81
   - Count: 12
+  - Inaccuracy: 1.81
+  - Type: `ct_bishyn_shard`
 - Hold Type: `clouds`
 - Press Params:
-  - Type: `ct_bishyn_shard`
   - Inaccuracy: 0.18
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
+  - Type: `ct_bishyn_shard`
 - Press Type: `burst`
 
 ### Bishyn Discharge
@@ -46,16 +46,16 @@ Parameters:
 - Energy Usage: 36
 - Fire Time: 0.9
 - Hold Params:
-  - Type: `poisonproximitymine`
   - Inaccuracy: 0.01
+  - Type: `poisonproximitymine`
 - Hold Type: `blast`
 - Press Params:
-  - Type: `acidsweep`
+  - Count: 3
   - Inaccuracy: 0.11
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
-  - Count: 3
+  - Type: `acidsweep`
 - Press Type: `burst`
 
 ## Sources

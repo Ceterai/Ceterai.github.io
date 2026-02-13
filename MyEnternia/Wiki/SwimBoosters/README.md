@@ -15,8 +15,8 @@ Default Duration: 5s
 Effect parameters:
 
 - Movement Parameters:
-  - Liquid Impedance: 0.1
   - Liquid Force: 150
+  - Liquid Impedance: 0.1
   - Liquid Jump Profile:
     - Jump Speed: 150.0
 

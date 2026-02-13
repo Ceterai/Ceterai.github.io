@@ -15,8 +15,8 @@ Default Duration: 5s
 Effect parameters:
 
 - Electric Resistance: 0.25
-- Impulse Status Immunity: `True`
 - Electric Status Immunity: `True`
+- Impulse Status Immunity: `True`
 
 ## Technical Information
 

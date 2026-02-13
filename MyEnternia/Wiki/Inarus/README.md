@@ -25,10 +25,10 @@ Parameters:
 - Energy Usage: 16
 - Fire Time: 0.6
 - Params:
-  - Hover Max Distance: 18
   - Damage Repeat Timeout: 0.2
-  - Pickup Distance: 1.0
+  - Hover Max Distance: 18
   - Hover Time: 1.0
+  - Pickup Distance: 1.0
   - Return On Hit:
 - Type: `ct_inarus`
 

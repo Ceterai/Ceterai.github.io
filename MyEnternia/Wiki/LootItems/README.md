@@ -1,12 +1,13 @@
 # Loot Items
 
-The mod adds a total of 49 loot items.
+The mod adds a total of 50 loot items.
 
 ## Loot Crates
 
-The mod adds a total of 30 loot crates:
+The mod adds a total of 31 loot crates:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera Loot Crate icon" loading="lazy" width="auto" height="16px"> [Astera Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AsteraLootCrate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/ava_day.png" alt="Ava Day Gift icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGift)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Loot Crate icon" loading="lazy" width="auto" height="16px"> [Ayaka Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/AyakaLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Bionid Loot Crate icon" loading="lazy" width="auto" height="16px"> [Bionid Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BionidLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bishyn_loot.png" alt="Bishyn Loot Crate icon" loading="lazy" width="auto" height="16px"> [Bishyn Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/BishynLootCrate)

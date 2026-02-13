@@ -26,16 +26,16 @@ Parameters:
 - Energy Usage: 32
 - Fire Time: 0.9
 - Hold Params:
-  - Type: `firestickygrenade`
-  - Inaccuracy: 0.21
   - Count: 3
+  - Inaccuracy: 0.21
+  - Type: `firestickygrenade`
 - Hold Type: `burst`
 - Press Params:
-  - Type: `fireplasma`
   - Inaccuracy: 0.11
   - Params:
     - Knockback: 20
     - Time To Live: 5.0
+  - Type: `fireplasma`
 - Press Type: `burst`
 
 ### Phosic Patronage
@@ -50,14 +50,14 @@ Parameters:
 - Energy Usage: 36
 - Fire Time: 0.9
 - Hold Params:
-  - Type: `fireproximitymine`
-  - Inaccuracy: 0.21
   - Count: 3
+  - Inaccuracy: 0.21
+  - Type: `fireproximitymine`
 - Hold Type: `burst`
 - Press Params:
-  - Type: `firestickygrenade`
-  - Inaccuracy: 0.08
   - Count: 1
+  - Inaccuracy: 0.08
+  - Type: `firestickygrenade`
 - Press Type: `burst`
 
 ## Sources

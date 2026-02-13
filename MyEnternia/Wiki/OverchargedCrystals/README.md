@@ -12,10 +12,10 @@ Effect parameters:
 - Animation:
   - Particles:  `sparks`
 - Bolt Interval: 1.0
-- Jump Distance: 2
-- Projectile: `ct_impulse_small`
 - Damage Base: 10
 - Damage Clamp: `True`
+- Jump Distance: 2
+- Projectile: `ct_impulse_small`
 
 ## Technical Information
 

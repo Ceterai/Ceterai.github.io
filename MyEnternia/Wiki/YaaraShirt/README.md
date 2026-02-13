@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_body_mimic-yaara.png" alt="Yaara Shirt icon" loading="lazy" width="auto" height="16px"> **Yaara Shirt** is a rare chest cosmetic item.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) chest makes me feel like a plant.  
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove) chest makes me feel like a plant.  
 Worth noting that the wooden texture of this peace of costume doesn't reflect it's protective capabilities.
 
 ## Ingame

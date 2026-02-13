@@ -22,8 +22,8 @@ Increases jump height and decreases fall damage by 50%.
 Default Duration: 5s  
 Effect parameters:
 
-- Fall Damage Multiplier: 0.5
 - Add Jump: 0.5
+- Fall Damage Multiplier: 0.5
 
 ## Technical Information
 

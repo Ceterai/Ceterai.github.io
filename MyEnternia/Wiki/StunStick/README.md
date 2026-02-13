@@ -32,8 +32,8 @@ Parameters:
 - Crack Dps: 7.2
 - Damage Config:
   - Damage Source Kind: `electric`
-  - Timeout Group: `primary`
   - Timeout: 0.3
+  - Timeout Group: `primary`
 - Fire Time: 0.625
 - Projectile Type: `whipcrackelectric`
 

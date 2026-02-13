@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun.png" alt="Warped Gun icon" loading="lazy" width="auto" height="16px"> **Warped Gun** is an uncommon two-handed poisonous shotgun.
 
-This cannon is overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) fibres. It has a special section filled with warped venom and luminous juices.
+This cannon is overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest) fibres. It has a special section filled with warped venom and luminous juices.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun_2.png" alt="Biowarper ★ icon" loading="lazy" width="auto" height="16px"> [Biowarper ★](https://ceterai.github.io/MyEnternia/Wiki/Biowarper) at the Weapon Upgrade Anvil.
 
@@ -26,16 +26,16 @@ Parameters:
 - Energy Usage: 32
 - Fire Time: 0.9
 - Hold Params:
-  - Type: `poisonplasmarocket`
   - Inaccuracy: 0.01
+  - Type: `poisonplasmarocket`
 - Hold Type: `blast`
 - Press Params:
-  - Type: `acidsweep`
+  - Count: 5
   - Inaccuracy: 0.21
   - Params:
     - Knockback: 5
     - Time To Live: 5.0
-  - Count: 5
+  - Type: `acidsweep`
 - Press Type: `burst`
 
 ### Venomous Barrage

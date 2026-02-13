@@ -1,6 +1,6 @@
 # Ava Day Gift Package
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> **Ava Day Gift Package** is a common decorative object.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox2.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> **Ava Day Gift Package** is an uncommon decorative object.
 
 A warmly colored gift package ready for [Ava Day](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay) gifting!  
 This style of gift wrapping is popular during Ava Day, featuring warm colors that represent friendship and connection. The package might contain anything from homemade treats to small gadgets or meaningful trinkets. The joy is as much in the presentation as it is in the gift itself.
@@ -30,20 +30,26 @@ Blueprint unlocked by obtaining:
 
 Can be crafted:
 
-- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> Ava Day Gift Package x*1*):
+- Tier 2 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon2.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox2.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> Ava Day Gift Package x*1*):
   - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper) x*3*
   - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*2*
   - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*2*
   - `pinkdye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/c/c1/Red_Dye.png" alt="Red Dye icon" loading="lazy" width="8px" height="12px"> [Red Dye](https://starbounder.org/Red_Dye) x*1*
+  - <img src="https://starbounder.org/mediawiki/images/9/91/White_Dye.png" alt="White Dye icon" loading="lazy" width="8px" height="12px"> [White Dye](https://starbounder.org/White_Dye) x*1*
+
+Can be bought from merchants:
+
+- [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 
 - In-game ID: `ct_ava_day_giftbox2`
-- Level: `2`
-- Power: `1.5`
-- Rarity: `Common`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday)
-- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ava_day`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty)
+- Level: `3`
+- Power: `2.0`
+- Rarity: `Uncommon`
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Colony tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ava_day`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), [`pretty`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pretty), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/objects/alta/special/events/ava_day/ct_ava_day_giftbox2.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox2.object)

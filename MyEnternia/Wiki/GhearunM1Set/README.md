@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/sets/ghearun.png" alt="Ghearun M1 Set icon" loading="lazy" width="auto" height="16px"> **Ghearun M1 Set** is a legendary loot item.
 
-Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) researcher from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn) labs, including a lore codex of this set.
+Contains full equipment set of an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) researcher from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) labs, including a lore codex of this set.
 Is cheaper to craft this way than separately.  
 **Ghearun Researchers** are generally geologists, operating mostly around gheatsyn environments. This set is meant to provide relative poison protection, while increasing wearer's strength.
 

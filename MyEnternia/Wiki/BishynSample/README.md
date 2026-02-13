@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/decorative/sample/icon.png" alt="Bishyn Sample icon" loading="lazy" width="auto" height="16px"> **Bishyn Sample** is a rare decorative object.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/Bishyn) sample. The stand is powered by the crystal itself. An exhibit of prosperity.
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls) sample. The stand is powered by the crystal itself. An exhibit of prosperity.
 
 ## Ingame
 

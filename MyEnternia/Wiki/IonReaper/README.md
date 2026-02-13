@@ -27,12 +27,12 @@ Parameters:
   - Type: `ct_ionic_large`
 - Hold Type: `rocket`
 - Press Params:
-  - Type: `ct_ionic_medium`
+  - Count: 2
   - Inaccuracy: 0.6
   - Params:
     - Knockback: 10
     - Time To Live: 5.0
-  - Count: 2
+  - Type: `ct_ionic_medium`
 - Press Type: `burst`
 
 ### Ion Discharge

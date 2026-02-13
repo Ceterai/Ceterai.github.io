@@ -32,26 +32,26 @@ Parameters:
 - Fire Time: 0.8
 - Fire Types:
   - Charge:
-    - Press Type: `blast`
-    - Press Params:
-      - Type: `ct_impulse_medium`
-      - Sound: `primary_press`
-      - Inaccuracy: 0.005
-    - Hold Type: `blast`
-    - Hold Params:
-      - Type: `ct_impulse_large`
-      - Sound: `primary_hold`
-      - Inaccuracy: 0.005
-    - Hold Start: `charge`
     - Hold Loop: `charging`
-  - Semi:
-    - Press Type: `semi`
-    - Press Params:
-      - Type: `ct_impulse_medium`
-      - Count: 2
-      - Interval: 0.1
+    - Hold Params:
       - Inaccuracy: 0.005
+      - Sound: `primary_hold`
+      - Type: `ct_impulse_large`
+    - Hold Start: `charge`
+    - Hold Type: `blast`
+    - Press Params:
+      - Inaccuracy: 0.005
+      - Sound: `primary_press`
+      - Type: `ct_impulse_medium`
+    - Press Type: `blast`
+  - Semi:
     - Hold Time Max:
+    - Press Params:
+      - Count: 2
+      - Inaccuracy: 0.005
+      - Interval: 0.1
+      - Type: `ct_impulse_medium`
+    - Press Type: `semi`
 
 ### Security Switch
 

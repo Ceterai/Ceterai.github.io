@@ -33,16 +33,16 @@ Parameters:
 - Base Dps: 13
 - Damage Config:
   - Base Damage: 22.5
-  - Knockback: 40
   - Damage Source Kind: `electricbroadsword`
+  - Knockback: 40
   - Knockback Mode: `facing`
   - Timeout: 0.5
 - Energy Usage: 36
 - Fire Time: 1.1
 - Hold Params:
-  - Cooldown Time: 0.8
-  - Charge Time: 0.85
   - Charge Border: `60c0fc88`
+  - Charge Time: 0.85
+  - Cooldown Time: 0.8
 
 ### Energy Aura
 

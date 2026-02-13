@@ -24,10 +24,10 @@ Parameters:
 - Energy Usage: 16
 - Fire Time: 0.33
 - Params:
-  - Return On Hit: `True`
-  - Ignore Terrain:
   - Control Force: 140
+  - Ignore Terrain:
   - Pickup Distance: 1.5
+  - Return On Hit: `True`
   - Snap Distance: 4.0
 - Shield Knockback: 10
 - Type: `ct_plasmorb`

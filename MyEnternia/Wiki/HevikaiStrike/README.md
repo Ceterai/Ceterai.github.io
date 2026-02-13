@@ -13,9 +13,9 @@ Effect parameters:
 
 - Decease Effect: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"> [Hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai)
 - Decease Stat: `hevikaiStrike`
-- Radio Message: `ct_hevikai_strike_msg`
 - Electric Resistance: -0.2
 - Poison Resistance: -0.2
+- Radio Message: `ct_hevikai_strike_msg`
 - Remove Electric Status Immunity: `True`
 
 ## Technical Information

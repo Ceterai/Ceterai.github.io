@@ -24,10 +24,10 @@ Parameters:
 
 - Base Dps: 6.0
 - Chain:
-  - Taper: 0.5
-  - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
   - End Segment Image: `/items/active/weapons/other/tentaclegun/wormend.png`
+  - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
   - Segment Size: 1.0
+  - Taper: 0.5
 - Energy Usage: 40
 - Fire Time: 0.2
 - Guide Projectiles: `True`
@@ -48,10 +48,10 @@ Parameters:
 
 - Base Dps: 8.0
 - Chain:
-  - Taper: 0.5
-  - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
   - End Segment Image: `/items/active/weapons/other/tentaclegun/wormend.png`
+  - Segment Image: `/items/active/weapons/other/tentaclegun/wormsegment.png`
   - Segment Size: 1.0
+  - Taper: 0.5
 - Energy Usage: 28
 - Fire Sound: `altFire`
 - Fire Time: 2.0
@@ -60,13 +60,13 @@ Parameters:
 - Max Projectiles: 20
 - Projectile Count: 20
 - Projectile Parameters:
+  - Bounces: 4
+  - Ignore Terrain:
   - Knockback: 40
   - Knockback Directional: `True`
-  - Speed: 20
-  - Ignore Terrain:
-  - Bounces: 4
-  - Time To Live: 10
   - Min Velocity: 10
+  - Speed: 20
+  - Time To Live: 10
 - Projectile Tracks User: `True`
 - Projectile Type: `invisibletentaclefistnosound`
 

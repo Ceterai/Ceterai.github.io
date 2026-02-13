@@ -31,22 +31,22 @@ Parameters:
 - Base Dps: 12
 - Damage Config:
   - Base Damage: 22.5
-  - Knockback: 40
   - Damage Source Kind: `broadsword`
+  - Knockback: 40
   - Knockback Mode: `facing`
   - Timeout: 0.5
 - Downstab Params:
-  - Cooldown Time: 0.5
-  - Energy Factor: 0.2
-  - Hold AIr Control: 60
-  - Stab Velocity: -5
   - Bounce Y Velocity: 35
+  - Cooldown Time: 0.5
   - Damage Config:
     - Damage Factor: 0.5
     - Damage Source Kind: `spear`
     - Knockback: ,  -35
     - Timeout: 0.2
     - Timeout Group: `primary`
+  - Energy Factor: 0.2
+  - Hold AIr Control: 60
+  - Stab Velocity: -5
 - Energy Usage: 32
 - Fire Time: 0.9
 - Hold Params:
@@ -54,11 +54,11 @@ Parameters:
   - Energy Factor: 1.0
 - Hold Time Max: 0.35
 - Press Params:
-  - Flash:
-    - Time: 0.15
-    - Directives: `fade=FFFFFFFF=0.15`
   - Combo Speed Factor: 0.7
   - Edge Trigger Grace: 0.25
+  - Flash:
+    - Directives: `fade=FFFFFFFF=0.15`
+    - Time: 0.15
 
 ### Finspin
 

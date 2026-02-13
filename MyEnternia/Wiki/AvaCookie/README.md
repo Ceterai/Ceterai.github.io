@@ -27,19 +27,27 @@ Can be crafted:
   - `sugar` x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*1*
 
+Can be bought from merchants:
+
+- [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
+
 Given as rent by tenants:
 
 - [Alta Cupid](https://ceterai.github.io/MyEnternia/Wiki/AltaCupid)
 - [Alta Girlfriend](https://ceterai.github.io/MyEnternia/Wiki/AltaGirlfriend)
 - [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
 
+Can be obtained from special items:
+
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/ava_day.png" alt="Ava Day Gift icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGift)
+
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 
 ## Technical Information
 
 - In-game ID: `ct_ava_cookie`
-- Level: `4`
+- Level: `3`
 - Power: `1.0`
 - Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`ava_day`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), [`baked`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Baked), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`ava_day`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay), [`cookies`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Cookies), [`dessert`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dessert), [`holiday`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Holiday), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/events/ava_day/ct_ava_cookie.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/events/ava_day/ct_ava_cookie.consumable)

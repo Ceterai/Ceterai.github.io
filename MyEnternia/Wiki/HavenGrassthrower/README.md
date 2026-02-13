@@ -24,22 +24,22 @@ Parameters:
 - Energy Usage: 16
 - Fire Time: 0.05
 - Fire Types:
-  - Grass:
-    - Type: `blast`
-    - Params:
-      - Type: `ct_omni_grass_spray`
   - Flowery:
-    - Type: `blast`
     - Params:
       - Type: `ct_omni_flowery_grass_spray`
-  - Lush:
     - Type: `blast`
+  - Grass:
+    - Params:
+      - Type: `ct_omni_grass_spray`
+    - Type: `blast`
+  - Lush:
     - Params:
       - Type: `ct_omni_lush_grass_spray`
-  - Thick:
     - Type: `blast`
+  - Thick:
     - Params:
       - Type: `ct_omni_thick_grass_spray`
+    - Type: `blast`
 
 ## Sources
 

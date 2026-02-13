@@ -22,8 +22,8 @@ Parameters:
 - Power Projectile Type: `pollenpumpgasspray`
 - Projectile Parameters:
   - Damage Kind: `bugnet`
-  - Speed: 5
   - Power: 6.5
+  - Speed: 5
 - Projectile Type: `pollenpumpgas`
 
 ## Sources

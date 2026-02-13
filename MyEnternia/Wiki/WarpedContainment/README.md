@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/warped.png" alt="Warped Containment icon" loading="lazy" width="auto" height="16px"> **Warped Containment** is an uncommon codex entry.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains information and instructions on how to (somewhat) contain or limit <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) growth. Judging by the look of the datamass, doesn't seem like it worked really well.  
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) contains information and instructions on how to (somewhat) contain or limit <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest) growth. Judging by the look of the datamass, doesn't seem like it worked really well.  
 The datamass is partially covered in warped growth. This indicates that it was left out near such for a bit too long. Thankfully, the data inside seems to be intact.
 
 ## Ingame
@@ -20,7 +20,7 @@ Warped things can be bioluminescent, but they also tend to be quite venomous too
 
 ### Contents
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) growth is an uncontrollable, constantly mutating and slowly expanding plant matter.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest) growth is an uncontrollable, constantly mutating and slowly expanding plant matter.
 
 While mostly harmless by itself, the dangers of warped climate comes from both expansion and other warped-compatible life that appears in it.
 

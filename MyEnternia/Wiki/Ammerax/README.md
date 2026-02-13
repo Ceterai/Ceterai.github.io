@@ -63,8 +63,8 @@ Parameters:
 - Lightning Charge Levels:   0.8, ,  0.02,   32,  128,  240,  75,   0.9, ,  0.04,   32,  128,  240,  100,   1.0, ,  0.06,   32,  128,  240,  125,   1.1, ,  0.08,   32,  128,  240,  150,   1.2, ,  0.1,   80,  240,  175
 - Power: 4
 - Projectile Parameters:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
   - Knockback: 25
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/asirai/ct_overtension/ct_overtension.png" alt="Overtension icon" loading="lazy" width="auto" height="16px"> [Overtension](https://ceterai.github.io/MyEnternia/Wiki/Overtension)
   - Time To Live: 2.5
 
 ## Sources

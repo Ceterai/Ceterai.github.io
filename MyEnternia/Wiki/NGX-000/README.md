@@ -22,20 +22,20 @@ Parameters:
 - Energy Usage: 40
 - Fire Time: 2.0
 - Hold Params:
-  - Type: `railgunlightning`
   - Params:
-    - Time To Live: 5
     - Knockback: 40
     - Speed: 200
     - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+    - Time To Live: 5
+  - Type: `railgunlightning`
 - Hold Type: `snipe`
 - Press Params:
-  - Type: `railgunlightning`
   - Params:
-    - Time To Live: 5
     - Knockback: 20
     - Speed: 160
     - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock),  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
+    - Time To Live: 5
+  - Type: `railgunlightning`
 - Press Type: `snipe`
 
 ### Nata's Havoc
@@ -54,11 +54,11 @@ Parameters:
   - Type: `shockbomb`
 - Hold Type: `nade`
 - Lazer Params:
-  - Offset:  3.375, 
+  - Angle:
   - Color:  255, ,  128
   - Length: 64
+  - Offset:  3.375, 
   - Segments: 8
-  - Angle:
 - Press Attachments: `True`
 
 ## Sources

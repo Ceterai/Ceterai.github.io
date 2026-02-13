@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/ct_nivera_thorns/icon.png" alt="Nivera Coral Thorns icon" loading="lazy" width="auto" height="16px"> **Nivera Coral Thorns** is an uncommon poisonous trap.
 
 A nivera bush that reminds of a coral with its shape and overall hardness.  
-These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped), thorny <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" width="auto" height="16px"> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera) sprouts are not very picky when it comes to existence.
+These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest), thorny <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_nivera_tree.png" alt="Nivera icon" loading="lazy" width="auto" height="16px"> [nivera](https://ceterai.github.io/MyEnternia/Wiki/Nivera) sprouts are not very picky when it comes to existence.
 
 ## Ingame
 

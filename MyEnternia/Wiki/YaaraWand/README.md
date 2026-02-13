@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"> **Yaara Wand ★★** is a legendary one-handed tool.
 
-This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) growth can spread seeds of different kinds to grow beautiful things!
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove) growth can spread seeds of different kinds to grow beautiful things!
 
 ## Ingame
 
@@ -23,36 +23,36 @@ Parameters:
 - Energy Usage: 16
 - Fire Time: 0.4
 - Fire Types:
-  - Grass:
-    - Type: `blast`
-    - Params:
-      - Type: `ct_omni_grass_spray`
-    - Hold Time Max: 0.75
-  - Flowery:
-    - Type: `blast`
-    - Params:
-      - Type: `ct_omni_flowery_grass_spray`
-    - Hold Time Max: 0.75
-  - Crimson:
-    - Type: `blast`
-    - Params:
-      - Type: `ct_omni_crimson_grass_spray`
-    - Hold Time Max: 0.75
   - Colorful:
-    - Type: `blast`
+    - Hold Time Max: 0.75
     - Params:
       - Type: `ct_omni_colorful_grass_spray`
-    - Hold Time Max: 0.75
-  - Lush:
     - Type: `blast`
+  - Crimson:
+    - Hold Time Max: 0.75
+    - Params:
+      - Type: `ct_omni_crimson_grass_spray`
+    - Type: `blast`
+  - Flowery:
+    - Hold Time Max: 0.75
+    - Params:
+      - Type: `ct_omni_flowery_grass_spray`
+    - Type: `blast`
+  - Grass:
+    - Hold Time Max: 0.75
+    - Params:
+      - Type: `ct_omni_grass_spray`
+    - Type: `blast`
+  - Lush:
+    - Hold Time Max: 0.75
     - Params:
       - Type: `ct_omni_lush_grass_spray`
-    - Hold Time Max: 0.75
-  - Thick:
     - Type: `blast`
+  - Thick:
+    - Hold Time Max: 0.75
     - Params:
       - Type: `ct_omni_thick_grass_spray`
-    - Hold Time Max: 0.75
+    - Type: `blast`
 
 ## Sources
 

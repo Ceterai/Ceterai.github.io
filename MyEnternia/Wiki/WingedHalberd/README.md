@@ -28,13 +28,13 @@ Parameters:
 - Base Dps: 12
 - Damage Config:
   - Damage Source Kind: `<elementalType>spear`
-  - Knockback Mode: `aim`
   - Knockback: 10
+  - Knockback Mode: `aim`
   - Timeout Group: `primary`
 - Fire Time: 0.6
 - Hold Damage Config:
-  - Timeout Group: `hold`
   - Timeout: 0.5
+  - Timeout Group: `hold`
 - Hold Damage Multiplier: 0.1
 
 ### Aeroflux

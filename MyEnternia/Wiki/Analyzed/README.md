@@ -9,9 +9,9 @@ Decreases your defense by 3.
 Default Duration: 10s  
 Effect parameters:
 
-- Protection: -3
 - Animation:
   - States:  `shield`
+- Protection: -3
 
 ## Technical Information
 

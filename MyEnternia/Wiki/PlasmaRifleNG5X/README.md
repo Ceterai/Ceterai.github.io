@@ -35,25 +35,25 @@ Parameters:
 - Fire Time: 0.1
 - Fire Types:
   - Auto:
-    - Press Type: `blast`
-    - Press Params:
-      - Type: `ct_plasma_medium`
-      - Sound: `auto`
     - Hold Time Max:
-  - Semi:
-    - Press Type: `semi`
     - Press Params:
+      - Sound: `auto`
       - Type: `ct_plasma_medium`
+    - Press Type: `blast`
+  - Semi:
+    - Hold Time Max:
+    - Press Params:
       - Count: 3
       - Interval: 0.1
-    - Hold Time Max:
-  - Single:
-    - Press Type: `blast`
-    - Press Params:
       - Type: `ct_plasma_medium`
+    - Press Type: `semi`
+  - Single:
+    - Hold Time Max:
+    - Press Params:
       - Fire Time: 0.45
       - Inaccuracy: 0.02
-    - Hold Time Max:
+      - Type: `ct_plasma_medium`
+    - Press Type: `blast`
 
 ### Combat Switch
 

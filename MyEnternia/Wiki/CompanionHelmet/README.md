@@ -24,7 +24,7 @@ Can be dyed with any clothing <img src="https://starbounder.org/mediawiki/images
 
 Blueprint unlocked by obtaining:
 
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="A Perfect Riverside Date icon" loading="lazy" width="auto" height="16px"> [A Perfect Riverside Date](https://ceterai.github.io/MyEnternia/Wiki/APerfectRiversideDate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Happy Ava Day! ❤ icon" loading="lazy" width="auto" height="16px"> [Happy Ava Day! ❤](https://ceterai.github.io/MyEnternia/Wiki/HappyAvaDay!)
 
 Found naturally in containers:
 
@@ -34,6 +34,7 @@ Found naturally in containers:
 Can be bought from merchants:
 
 - [Alta Agent](https://ceterai.github.io/MyEnternia/Wiki/AltaAgent)
+- [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
 - [Alta Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaMerchant)
 
 Drops from defeated creatures:

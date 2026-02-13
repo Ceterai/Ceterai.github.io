@@ -26,11 +26,11 @@ Parameters:
 
 - Base Dps: 14
 - Damage Config:
-  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
   - Item Bonus:
-    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
     - Damage Factor: 0.005
     - Max: 120
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
+  - Status Effects:  <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis)
 - Energy Usage: 40
 - Fire Time: 1.2
 

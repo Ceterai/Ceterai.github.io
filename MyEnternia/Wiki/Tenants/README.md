@@ -1896,7 +1896,7 @@ Description </th></tr>
 
 Type: **Alta Cupid**
 
-Tags: `alta` (4), `ava_day` (12), `pretty` (8)
+Tags: `alta` (4), `valentines` (12)
 
 A cheerful alta dressed as Cupid for Ava Day! She spreads friendship and joy with heart arrows~ (ෆ˙ᵕ˙ෆ)♡
 
@@ -1910,7 +1910,7 @@ Type: **Alta Girlfriend**
 
 Tags: `alta` (4), `ava_day` (10)
 
-A romantic alta celebrating Ava Day! She's here to spread love and warmth~ < 3
+A romantic alta celebrating Ava Day! She's here to spread love and warmth~ <3
 
 </td></tr>
 

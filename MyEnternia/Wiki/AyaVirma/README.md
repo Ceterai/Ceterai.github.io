@@ -22,10 +22,10 @@ Parameters:
 
 - Base Dps: 4
 - Chain:
-  - Taper: 0.5
-  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_aya_virma_s.png`
   - End Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_aya_virma_e.png`
+  - Segment Image: `/items/active/weapons/ranged/alta/abils/tentacles/ct_aya_virma_s.png`
   - Segment Size: 1.0
+  - Taper: 0.5
 - Energy Usage: 16
 - Fire Time: 0.2
 - Guide Projectiles: `True`

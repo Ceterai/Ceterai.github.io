@@ -7,18 +7,18 @@
 Default Duration: 60s  
 Effect parameters:
 
-- Min Range: 0.5
-- Visual Projectile Count: 8
-- Visual Projectile Type: `armornova`
-- Visual Projectile Speed: 6.66
-- Visual Projectile Time: 0.75
-- Visual Duration:
 - Border: `1;FF550099;00000000`
+- Cooldown: 1
 - Damage Multiplier:
 - Damage Projectile Type: `novadamage`
-- Cooldown: 1
+- Min Range: 0.5
 - Min Trigger Damage: -1
 - Remove In Water: `True`
+- Visual Duration:
+- Visual Projectile Count: 8
+- Visual Projectile Speed: 6.66
+- Visual Projectile Time: 0.75
+- Visual Projectile Type: `armornova`
 
 ## Technical Information
 

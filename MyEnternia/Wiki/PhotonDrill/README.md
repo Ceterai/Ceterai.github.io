@@ -14,18 +14,18 @@ Parameters:
 
 - Beam Length: 20
 - Chain:
-  - Start Offset: 
-  - Segment Image: `/items/active/unsorted/laserminer/beam/beam.png`
   - End Segment Image: `/items/active/unsorted/laserminer/beam/beamend.png`
-  - Segment Size: 0.48
-  - Overdraw Length: 0.2
-  - Taper:
-  - Waveform:
-    - Frequency: 1.0
-    - Amplitude: 0.125
-    - Movement: 80.0
   - Fullbright: `True`
   - Light:  135,  91,  84
+  - Overdraw Length: 0.2
+  - Segment Image: `/items/active/unsorted/laserminer/beam/beam.png`
+  - Segment Size: 0.48
+  - Start Offset: 
+  - Taper:
+  - Waveform:
+    - Amplitude: 0.125
+    - Frequency: 1.0
+    - Movement: 80.0
 - Cooldown Time: 0.5
 - Damage Interval: 0.1
 - Energy Usage: 20.0

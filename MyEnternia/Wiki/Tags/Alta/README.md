@@ -1,10 +1,10 @@
 # Alta Tag
 
-The tag `alta` contains 1486 total entries.
+The tag `alta` contains 1489 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 455 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 456 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/garden/icon.png" alt="A-Prime Gardens Microformer ★ icon" loading="lazy" width="auto" height="16px"> [A-Prime Gardens Microformer ★](https://ceterai.github.io/MyEnternia/Wiki/A-PrimeGardensMicroformer)
@@ -112,6 +112,7 @@ The tag `alta` contains 1486 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/or_tiled.png" alt="Alta Logic - OR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - OR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-OR)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/timer_tiled.png" alt="Alta Logic - Timer icon" loading="lazy" width="auto" height="16px"> [Alta Logic - Timer](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-Timer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/logic/xor_tiled.png" alt="Alta Logic - XOR icon" loading="lazy" width="auto" height="16px"> [Alta Logic - XOR](https://ceterai.github.io/MyEnternia/Wiki/AltaLogic-XOR)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_alta_love_poster.png" alt="Alta Love Poster icon" loading="lazy" width="auto" height="16px"> [Alta Love Poster](https://ceterai.github.io/MyEnternia/Wiki/AltaLovePoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/displays/marine/icon.png" alt="Alta Marine Display icon" loading="lazy" width="auto" height="16px"> [Alta Marine Display](https://ceterai.github.io/MyEnternia/Wiki/AltaMarineDisplay)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/food/meal/icon.png" alt="Alta Meal Serving icon" loading="lazy" width="auto" height="16px"> [Alta Meal Serving](https://ceterai.github.io/MyEnternia/Wiki/AltaMealServing)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/microwave/icon.png" alt="Alta Microwave Oven icon" loading="lazy" width="auto" height="16px"> [Alta Microwave Oven](https://ceterai.github.io/MyEnternia/Wiki/AltaMicrowaveOven)
@@ -212,8 +213,8 @@ The tag `alta` contains 1486 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/arknight/pod/icon.png" alt="Arknight Pod ★ icon" loading="lazy" width="auto" height="16px"> [Arknight Pod ★](https://ceterai.github.io/MyEnternia/Wiki/ArknightPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash/astera/icon.png" alt="Astera Microformer ★★ icon" loading="lazy" width="auto" height="16px"> [Astera Microformer ★★](https://ceterai.github.io/MyEnternia/Wiki/AsteraMicroformer)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/figurines/narfin/ct_astral_narfin.png" alt="Astral Narfin Figurine ★ icon" loading="lazy" width="auto" height="16px"> [Astral Narfin Figurine ★](https://ceterai.github.io/MyEnternia/Wiki/AstralNarfinFigurine)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox1.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox2.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_poster.png" alt="Ava Day Poster icon" loading="lazy" width="auto" height="16px"> [Ava Day Poster](https://ceterai.github.io/MyEnternia/Wiki/AvaDayPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/main/aya/pod/icon.png" alt="Aya Eco Pod icon" loading="lazy" width="auto" height="16px"> [Aya Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AyaEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plushies/ct_aya_virma_plush.png" alt="Aya Virma Plushie icon" loading="lazy" width="auto" height="16px"> [Aya Virma Plushie](https://ceterai.github.io/MyEnternia/Wiki/AyaVirmaPlushie)
@@ -624,7 +625,7 @@ The tag `alta` contains 1486 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 880 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 882 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/paintings/ct_bionid_art.png" alt="A Friendly Glow icon" loading="lazy" width="auto" height="16px"> [A Friendly Glow](https://ceterai.github.io/MyEnternia/Wiki/AFriendlyGlow)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" width="auto" height="16px"> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX)
@@ -688,6 +689,7 @@ The tag `alta` contains 1486 total entries.
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_arco_legwear-lab.png" alt="Alta Lab Guard Pads icon" loading="lazy" width="auto" height="16px"> [Alta Lab Guard Pads](https://ceterai.github.io/MyEnternia/Wiki/AltaLabGuardPads)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_researcher_coat-lab.png" alt="Alta Lab Researcher Coat icon" loading="lazy" width="auto" height="16px"> [Alta Lab Researcher Coat](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcherCoat)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_researcher_skirt-lab.png" alt="Alta Lab Researcher Skirt icon" loading="lazy" width="auto" height="16px"> [Alta Lab Researcher Skirt](https://ceterai.github.io/MyEnternia/Wiki/AltaLabResearcherSkirt)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_alta_love_poster.png" alt="Alta Love Poster icon" loading="lazy" width="auto" height="16px"> [Alta Love Poster](https://ceterai.github.io/MyEnternia/Wiki/AltaLovePoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon.png" alt="Alta Lumber Cutter icon" loading="lazy" width="auto" height="16px"> [Alta Lumber Cutter](https://ceterai.github.io/MyEnternia/Wiki/AltaLumberCutter)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/mining_drone/icon.png" alt="Alta Mining Drone icon" loading="lazy" width="auto" height="16px"> [Alta Mining Drone](https://ceterai.github.io/MyEnternia/Wiki/AltaMiningDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/bubble/wands/neon/icon.png" alt="Alta Neon Bubble Wand icon" loading="lazy" width="auto" height="16px"> [Alta Neon Bubble Wand](https://ceterai.github.io/MyEnternia/Wiki/AltaNeonBubbleWand)
@@ -752,8 +754,9 @@ The tag `alta` contains 1486 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_astera_tear.png" alt="Astera's Tear icon" loading="lazy" width="auto" height="16px"> [Astera's Tear](https://ceterai.github.io/MyEnternia/Wiki/Astera'sTear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_astralis.png" alt="Astralis ★★ icon" loading="lazy" width="auto" height="16px"> [Astralis ★★](https://ceterai.github.io/MyEnternia/Wiki/Astralis)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_cookie.png" alt="Ava Cookie icon" loading="lazy" width="auto" height="16px"> [Ava Cookie](https://ceterai.github.io/MyEnternia/Wiki/AvaCookie)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/icon.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/events/ava_day.png" alt="Ava Day Gift icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGift)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox1.png" alt="Ava Day Gift Box icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Box](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftBox)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_giftbox2.png" alt="Ava Day Gift Package icon" loading="lazy" width="auto" height="16px"> [Ava Day Gift Package](https://ceterai.github.io/MyEnternia/Wiki/AvaDayGiftPackage)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ava_day/ct_ava_day_poster.png" alt="Ava Day Poster icon" loading="lazy" width="auto" height="16px"> [Ava Day Poster](https://ceterai.github.io/MyEnternia/Wiki/AvaDayPoster)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" width="auto" height="16px"> [Aya Candy](https://ceterai.github.io/MyEnternia/Wiki/AyaCandy)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_fresh-essence.png" alt="Aya Essence icon" loading="lazy" width="auto" height="16px"> [Aya Essence](https://ceterai.github.io/MyEnternia/Wiki/AyaEssence)
@@ -1042,7 +1045,7 @@ The tag `alta` contains 1486 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_force_shielder.png" alt="Force Shielder icon" loading="lazy" width="auto" height="16px"> [Force Shielder](https://ceterai.github.io/MyEnternia/Wiki/ForceShielder)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/brushes/fossil_cleaner/icon.png" alt="Fossil Cleaner icon" loading="lazy" width="auto" height="16px"> [Fossil Cleaner](https://ceterai.github.io/MyEnternia/Wiki/FossilCleaner)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-fresh_cocktail.png" alt="Fresh Cocktail icon" loading="lazy" width="auto" height="16px"> [Fresh Cocktail](https://ceterai.github.io/MyEnternia/Wiki/FreshCocktail)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_chocolate.png" alt="Friendship Chocolate icon" loading="lazy" width="auto" height="16px"> [Friendship Chocolate](https://ceterai.github.io/MyEnternia/Wiki/FriendshipChocolate)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_candy.png" alt="Friendship Candy icon" loading="lazy" width="auto" height="16px"> [Friendship Candy](https://ceterai.github.io/MyEnternia/Wiki/FriendshipCandy)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_gil_tsay_stew-gharus.png" alt="Gharus Stew ★ icon" loading="lazy" width="auto" height="16px"> [Gharus Stew ★](https://ceterai.github.io/MyEnternia/Wiki/GharusStew)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_candy-gheatsyn.png" alt="Ghea Candy icon" loading="lazy" width="auto" height="16px"> [Ghea Candy](https://ceterai.github.io/MyEnternia/Wiki/GheaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade.png" alt="Gheablade icon" loading="lazy" width="auto" height="16px"> [Gheablade](https://ceterai.github.io/MyEnternia/Wiki/Gheablade)

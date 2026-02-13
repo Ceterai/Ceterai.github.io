@@ -27,19 +27,19 @@ Parameters:
 - Base Dps: 12
 - Beam Length: 50
 - Chain:
-  - Start Offset: 
-  - Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
   - End Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
-  - Segment Size: 1.0
-  - Overdraw Length:
-  - Taper:
-  - Jitter: 0.125
-  - Waveform:
-    - Frequency: 1.0
-    - Amplitude: 0.25
-    - Movement:
   - Fullbright: `True`
+  - Jitter: 0.125
   - Light:  249,  21,  207
+  - Overdraw Length:
+  - Segment Image: `/items/active/weapons/ranged/unrand/neolaserlauncher/beam.png`
+  - Segment Size: 1.0
+  - Start Offset: 
+  - Taper:
+  - Waveform:
+    - Amplitude: 0.25
+    - Frequency: 1.0
+    - Movement:
 - Damage Config:
   - Damage Source Kind: `plasma`
   - Knockback: 2
@@ -57,21 +57,21 @@ Parameters:
 - Energy Usage: 48
 - Fire Time: 0.9
 - Hold Params:
-  - Type: `chargeshotlarge`
-  - Inaccuracy:
   - Count: 1
+  - Inaccuracy:
   - Params:
-    - Speed: 10
     - Knockback:
+    - Speed: 10
     - Time To Live: 5.0
+  - Type: `chargeshotlarge`
 - Hold Type: `clouds`
 - Press Params:
-  - Type: `chargeshotsmall`
   - Inaccuracy:
   - Params:
-    - Speed: 20
     - Knockback:
+    - Speed: 20
     - Time To Live: 5.0
+  - Type: `chargeshotsmall`
 - Press Type: `blast`
 
 ## Sources

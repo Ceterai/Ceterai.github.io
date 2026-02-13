@@ -22,19 +22,19 @@ Parameters:
 - Energy Usage: 36
 - Fire Time: 1.2
 - Hold Params:
-  - Type: `ct_ionic_large`
+  - Count: 2
   - Inaccuracy: 0.02
+  - Interval: 0.1
   - Params:
     - Knockback: 15
     - Time To Live: 5.0
-  - Count: 2
-  - Interval: 0.1
+  - Type: `ct_ionic_large`
 - Hold Type: `blast`
 - Press Params:
-  - Type: `ct_ionic_large`
   - Inaccuracy:
   - Params:
     - Time To Live: 5.0
+  - Type: `ct_ionic_large`
 - Press Type: `blast`
 
 ### Secondary Ability

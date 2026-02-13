@@ -33,6 +33,7 @@ Can be crafted:
 Can be bought from merchants:
 
 - [Alta Bartender](https://ceterai.github.io/MyEnternia/Wiki/AltaBartender)
+- [Alta Love Merchant](https://ceterai.github.io/MyEnternia/Wiki/AltaLoveMerchant)
 
 Drops from destroyed obstacles:
 

@@ -29,18 +29,18 @@ Parameters:
 - Energy Usage: 36
 - Fire Time: 0.1
 - Fire Types:
-  - Plasma:
-    - Press Type: `blast`
-    - Press Params:
-      - Type: `ct_plasma_medium`
-      - Sound: `plasma`
-    - Hold Time Max:
   - Ionic:
-    - Press Type: `blast`
-    - Press Params:
-      - Type: `ct_ionic_medium`
-      - Sound: `ionic`
     - Hold Time Max:
+    - Press Params:
+      - Sound: `ionic`
+      - Type: `ct_ionic_medium`
+    - Press Type: `blast`
+  - Plasma:
+    - Hold Time Max:
+    - Press Params:
+      - Sound: `plasma`
+      - Type: `ct_plasma_medium`
+    - Press Type: `blast`
 
 ### Intertwined
 

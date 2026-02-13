@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" width="auto" height="16px"> **Tonnova Tree** is a rare tree sapling.
 
-A twisted <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/Tonnova) spike of growth full of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid).
+A twisted <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove) spike of growth full of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid).
 
 ## Ingame
 

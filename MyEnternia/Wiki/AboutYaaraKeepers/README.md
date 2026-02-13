@@ -18,11 +18,11 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 ### Contents
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara) megaplants grow to sizes so big, they tend to develop their own small ecosystem with its own flora and fauna.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove) megaplants grow to sizes so big, they tend to develop their own small ecosystem with its own flora and fauna.
 
 This way, some yaara groves tend to get inhabited by what altas call Yaara Keepers - primitive and aggressive humanoid plant creatures making the grove their home and protecting it from threats.
 
-The two biggest threats here being [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped).
+The two biggest threats here being [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest).
 
 Yaara keepers consider altas a threat because altas try to utilize and "invade" [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove), sometimes saturating them with "blue fire" - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia).
 

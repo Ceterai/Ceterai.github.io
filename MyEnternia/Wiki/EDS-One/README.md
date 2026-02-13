@@ -26,20 +26,20 @@ Parameters:
 - Energy Usage: 36
 - Fire Time: 1.2
 - Fire Types:
-  - Single:
-    - Press Type: `snipe`
-    - Press Params:
-      - Type: `ct_ionic_medium`
-      - Inaccuracy:
-    - Hold Time Max:
   - Semi:
-    - Press Type: `semi`
-    - Press Params:
-      - Type: `ct_ionic_medium`
-      - Count: 3
-      - Interval: 0.1
-      - Inaccuracy: 0.005
     - Hold Time Max:
+    - Press Params:
+      - Count: 3
+      - Inaccuracy: 0.005
+      - Interval: 0.1
+      - Type: `ct_ionic_medium`
+    - Press Type: `semi`
+  - Single:
+    - Hold Time Max:
+    - Press Params:
+      - Inaccuracy:
+      - Type: `ct_ionic_medium`
+    - Press Type: `snipe`
 
 ### Elerune Tactics
 

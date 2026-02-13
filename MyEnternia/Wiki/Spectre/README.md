@@ -27,9 +27,9 @@ Parameters:
 - Base Dps: 12
 - Damage Config:
   - Item Bonus:
-    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
     - Damage Factor: 0.005
     - Max: 120
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust)
 - Energy Usage: 32
 - Fire Time: 1.2
 

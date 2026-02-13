@@ -29,8 +29,8 @@ Parameters:
 - Base Dps: 12
 - Damage Config:
   - Base Damage: 22.5
-  - Knockback: 40
   - Damage Source Kind: `broadsword`
+  - Knockback: 40
   - Knockback Mode: `facing`
   - Timeout: 0.5
 - Energy Usage: 32
@@ -39,15 +39,15 @@ Parameters:
   - Charge Border: `FF33FF88`
   - Damage Config:
     - Damage Source Kind: `icebroadsword`
-    - Status Effects:  `frostslow`
     - Ranged:
-      - Type: `smallicecloud`
-      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
-      - Inaccuracy: 1.57
       - Count: 5
+      - Inaccuracy: 1.57
       - Offset:  5.0,  -0.85
       - Params:
         - Speed: 15
+      - Sound: <img src="https://starbounder.org/mediawiki/images/7/77/Ice.png" alt="Ice icon" loading="lazy" width="10px" height="10px"> [Ice](https://starbounder.org/Ice)
+      - Type: `smallicecloud`
+    - Status Effects:  `frostslow`
 
 ### Enchanted Resonation
 

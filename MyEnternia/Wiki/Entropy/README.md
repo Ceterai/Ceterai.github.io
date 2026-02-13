@@ -28,8 +28,8 @@ Parameters:
 - Fire Time: 0.5
 - Hold Time Max:
 - Press Params:
-  - Type: `ct_impulse_medium`
   - Count: 5
+  - Type: `ct_impulse_medium`
 - Press Type: `burst`
 
 ### Troposwitch

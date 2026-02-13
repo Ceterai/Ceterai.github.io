@@ -19,8 +19,8 @@ Parameters:
 - Inaccuracy: 0.02
 - Projectile Count: 1
 - Projectile Parameters:
-  - Speed: 60
   - Knockback: 10
+  - Speed: 60
 - Projectile Type: `snowball`
 
 ## Sources

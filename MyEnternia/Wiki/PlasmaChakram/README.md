@@ -25,10 +25,10 @@ Parameters:
 - Fire Time: 0.6
 - Params:
   - Damage Repeat Timeout: 0.2
-  - Return On Hit:
-  - Pickup Distance: 1.0
   - Hover Max Distance: 15
   - Hover Time: 0.8
+  - Pickup Distance: 1.0
+  - Return On Hit:
 - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram.png" alt="Plasma Chakram icon" loading="lazy" width="auto" height="16px"> [Plasma Chakram](https://ceterai.github.io/MyEnternia/Wiki/PlasmaChakram)
 
 ## Sources

@@ -14,17 +14,17 @@ Effect parameters:
 - Animation:
   - Directives: `fade=5000c0=0.25`
   - Particles:  `sparks`,  `ember`
-- Movement Modifiers:
-  - Speed Modifier: 0.6
-  - Air Jump Modifier: 0.6
 - Cooldown: 2.0
-- Energy Cost: 40
 - Damage: 80
-- Semi Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
+- Electric Resistance: -0.2
+- Energy Cost: 40
+- Movement Modifiers:
+  - Air Jump Modifier: 0.6
+  - Speed Modifier: 0.6
+- Poison Resistance: -0.1
 - Radio Message: `ct_overcharged_air_msg`
 - Radio Message Immune: `ct_overcharged_air_immune_msg`
-- Poison Resistance: -0.1
-- Electric Resistance: -0.2
+- Semi Immunity: <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Status Immunity icon" loading="lazy" width="16px" height="16px"> [Electric Status Immunity](https://starbounder.org/Electric_Resistance)
 
 ## Technical Information
 

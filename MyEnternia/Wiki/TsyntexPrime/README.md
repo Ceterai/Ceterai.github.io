@@ -31,18 +31,18 @@ Parameters:
 - Fire Time: 0.1
 - Hold Params:
   - Count: 2
+  - Inaccuracy: 0.01
   - Item Bonus:
-    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
     - Damage Factor: 0.002
     - Max: 300
+    - Type: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard)
   - Type: `ct_gheatsyn_charge`
-  - Inaccuracy: 0.01
 - Hold Time Max: 0.45
 - Hold Type: `semi`
 - Press Params:
   - Count: 4
-  - Type: `ct_impulse_small`
   - Inaccuracy: 0.04
+  - Type: `ct_impulse_small`
 - Press Type: `semi`
 
 ## Sources

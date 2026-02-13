@@ -74,10 +74,10 @@ Altas are an artificial humanoid species that can commonly be found around <img 
 [Io](https://ceterai.github.io/MyEnternia/Wiki/Io)  
 Io is a type of celestial environments high on electric charges and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). This is where planets like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) are usually forming. Altas consider Io to be a its own being, rather than a vague area in space.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara](https://ceterai.github.io/MyEnternia/Wiki/Yaara)  
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [Yaara](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove)  
 Yaara Groves are huge underground megaplants, that spread into large distances and form their own microclimate with different plants and creatures inside.
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped](https://ceterai.github.io/MyEnternia/Wiki/Warped)  
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [Warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest)  
 A constantly spreading plant-like matter, that "warps" the surroundings it contaminates. Can often be quite poisonous, and, in some cases, bioluminescent.
 
 [Enchanted](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadows)  

@@ -17,11 +17,11 @@ Parameters:
 - Fire Time: 0.065
 - Hold Cooldown:
 - Hold Params:
-  - Type: `icethrower`
+  - Interval:
   - Params:
     - Animation Cycle: 0.45
     - Time To Live:  0.4,  0.55
-  - Interval:
+  - Type: `icethrower`
 - Hold Time Max:
 - Hold Time Min:
 - Hold Type: `thrower`

@@ -28,12 +28,12 @@ Parameters:
 - Energy Usage: 40
 - Fire Time: 0.8
 - Hold Params:
-  - Type: `ct_ionic_medium`
   - Count: 5
+  - Type: `ct_ionic_medium`
 - Hold Type: `semi`
 - Press Params:
-  - Type: `ct_plasma_medium`
   - Count: 5
+  - Type: `ct_plasma_medium`
 - Press Type: `burst`
 
 ### Nia Erea Desit

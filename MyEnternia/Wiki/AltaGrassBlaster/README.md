@@ -25,9 +25,9 @@ Parameters:
 - Fire Types:
   - Grass:
     - Hold Time Max:
-    - Type: `blast`
     - Params:
       - Type: `ct_omni_grass_spray`
+    - Type: `blast`
 
 ## Sources
 

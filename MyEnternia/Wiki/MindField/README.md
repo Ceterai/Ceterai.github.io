@@ -18,13 +18,13 @@ Effect parameters:
 - Animation:
   - Particles:  `sparks`
 - Bolt Interval: 0.5
+- Damage Clamp: `True`
+- Damage Clamp Range:  1,  15
+- Damage From Max Energy: `True`
+- Damage From Max Energy Percent: 0.05
 - Jump Distance: 8
 - Projectile: `ct_ionic_small`
 - Status Effects:  `frostslow`
-- Damage From Max Energy: `True`
-- Damage From Max Energy Percent: 0.05
-- Damage Clamp: `True`
-- Damage Clamp Range:  1,  15
 
 ## Technical Information
 

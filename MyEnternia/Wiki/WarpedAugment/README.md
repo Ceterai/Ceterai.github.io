@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_warped_augment.png" alt="Warped Augment ★ icon" loading="lazy" width="auto" height="16px"> **Warped Augment ★** is an uncommon EPP augment.
 
-This mutated EPP module gives you [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection and makes you burst with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds).
+This mutated EPP module gives you [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection and makes you burst with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest) <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds).
 
 ## Ingame
 

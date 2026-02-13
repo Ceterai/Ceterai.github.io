@@ -16,17 +16,17 @@ Parameters:
 
 - Beam Return Time: 0.1
 - Chain:
-  - Start Offset: 
-  - Segment Image: `/items/active/unsorted/relocator/beam/beam.png`
   - End Segment Image: `/items/active/unsorted/relocator/beam/beamend.png`
-  - Segment Size: 0.48
+  - Fullbright: `True`
   - Overdraw Length: 0.2
+  - Segment Image: `/items/active/unsorted/relocator/beam/beam.png`
+  - Segment Size: 0.48
+  - Start Offset: 
   - Taper:
   - Waveform:
-    - Frequency: 2.0
     - Amplitude:
+    - Frequency: 2.0
     - Movement:
-  - Fullbright: `True`
 - Cooldown Time: 0.5
 - Max Range: 20
 - Max Storage: 3
