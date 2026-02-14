@@ -25,7 +25,7 @@ Most of these structures can be found nearly halfway down to the bottom, almost 
 
 This is due to the fact that Esetera Depths possesses even more danger due to its instability and numerous hazards.
 
-The bottom of Esetera, or its actual "surface", is called [Esetera Depths](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-depths). Apart from ubiquitous dangers, the surface is strewn with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal), as well as numerous deep caves that sometimes can lead right to the core of the planet.
+The bottom of Esetera, or its actual "surface", is called Esetera Depths. Apart from ubiquitous dangers, the surface is strewn with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"> [alternia crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal), as well as numerous deep caves that sometimes can lead right to the core of the planet.
 
 These caves, also known as Esetera Caves, act as a natural shield, protecting the core of the planet from high ionization.
 

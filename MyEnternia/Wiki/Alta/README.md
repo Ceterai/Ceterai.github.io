@@ -285,7 +285,7 @@ An alta affected by a viona anomaly, resulting in physical and (possibly) mental
 
 ## History
 
-Altas share their lore and history mainly through [codex entries](https://ceterai.github.io/MyEnternia/Wiki/CodexEntries) and enhanced item descriptions accessible via the [Alta Scanner](#alta-scanner).
+Altas share their lore and history mainly through <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="icon" loading="lazy" width="auto" height="16px"> [codex entries](https://ceterai.github.io/MyEnternia/Wiki/CodexEntries) and enhanced item descriptions accessible via the [Alta Scanner](#alta-scanner).
 
 For a brief retelling of how altas came to be, check out the **Alta History** series of codexes:
 

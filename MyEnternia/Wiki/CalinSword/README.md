@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 ### Crystal Powers
 
-**WIP**. A sequence of 3 light strikes. Hold to perform a [Trail Dash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Trail-Dash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
+**WIP**. A sequence of 3 light strikes. Hold to perform a [Trail Dash](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Trail-Dash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Downstab).  
 Enters a charged state every 10 seconds, making next 4 hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
 The indent patterns on the blade help directing the impulses in the right direction during the swing.
 

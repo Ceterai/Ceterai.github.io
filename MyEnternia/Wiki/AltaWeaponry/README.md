@@ -1,4 +1,4 @@
-> Main page: [Alta Weapons](https://ceterai.github.io/MyEnternia/Wiki/Weapons)
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Weapons](https://ceterai.github.io/MyEnternia/Wiki/Weapons)
 
 # Alta Weaponry
 

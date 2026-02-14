@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Crystalline Primification icon" loading="lazy" width="auto" height="16px"> **Crystalline Primification** is a rare codex entry.
 
-A compact [ebook](https://ceterai.github.io/MyEnternia/Wiki/Ebooks) that contains several pages describing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime icon" loading="lazy" width="auto" height="16px"> [crystalline prime](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrime) and the "prime" phenomenon as a whole.  
+A compact <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="icon" loading="lazy" width="auto" height="16px"> [ebook](https://ceterai.github.io/MyEnternia/Wiki/Ebooks) that contains several pages describing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_crystalline_prime_loot.png" alt="Crystalline Prime icon" loading="lazy" width="auto" height="16px"> [crystalline prime](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrime) and the "prime" phenomenon as a whole.  
 The ebook goes over the concept of primification, which is the process of amplifying the energy or power within an entity by releasing its capabilities. It also describes crystalline prime as a charged crystalline environment.
 
 ## Ingame

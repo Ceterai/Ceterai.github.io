@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 ### Dual Resonation
 
-A sequence of 4 (+1) heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Blade-Charge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab)  
+A sequence of 4 (+1) heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Blade-Charge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Downstab)  
 Full resonation engaged! A perfect viona anomaly to rule them all.
 
 Parameters:

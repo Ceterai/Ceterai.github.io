@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/alterash.png" alt="Alterash Banner" loading="lazy" width="100%" height="auto">
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> A moonlike [planet](https://ceterai.github.io/MyEnternia/Wiki/Biomes) with temperate climate and slightly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionized_air.png" alt="Ionized Air icon" loading="lazy" width="auto" height="16px"> [ionized atmosphere](https://ceterai.github.io/MyEnternia/Wiki/IonizedAir), and a surface affected by constant <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust fallouts](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> A moonlike <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [planet](https://ceterai.github.io/MyEnternia/Wiki/Biomes) with temperate climate and slightly <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionized_air.png" alt="Ionized Air icon" loading="lazy" width="auto" height="16px"> [ionized atmosphere](https://ceterai.github.io/MyEnternia/Wiki/IonizedAir), and a surface affected by constant <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust fallouts](https://ceterai.github.io/MyEnternia/Wiki/Stardust).
 
 The high level of ions in the air is what makes this planet's atmosphere a magnet for all that stardust. However, it also causes it to crystallize, resulting in beautiful <img src="https://starbounder.org/mediawiki/images/c/c0/Prism_Shard.png" width="10" height="10"/> [prisms](https://starbounder.org/Prism_Shard).
 
@@ -57,7 +57,7 @@ Wild [Crops](https://starbounder.org/Crops)
 
 </th> <th markdown="1">
 
-[Loot Items](https://ceterai.github.io/MyEnternia/Wiki/LootItems)
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="icon" loading="lazy" width="auto" height="16px"> [Loot Items](https://ceterai.github.io/MyEnternia/Wiki/LootItems)
 
 </th> </tr>
 
@@ -95,7 +95,7 @@ Wild [Crops](https://starbounder.org/Crops)
 
 This is a list of biomes that can be found on this planet. You can find them below, sorted by the [layer](https://starbounder.org/Layer) they appear on.
 
-### [Biomes](https://ceterai.github.io/MyEnternia/Wiki/Biomes)
+### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Biomes](https://ceterai.github.io/MyEnternia/Wiki/Biomes)
 
 #### Asteroids
 
@@ -166,7 +166,7 @@ Contains following biomes:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Starfields icon" loading="lazy" width="auto" height="16px"> [Starfields](https://ceterai.github.io/MyEnternia/Wiki/Starfields)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_haven_loot.png" alt="Alterash Haven Depths icon" loading="lazy" width="auto" height="16px"> [Alterash Haven Depths](https://ceterai.github.io/MyEnternia/Wiki/AlterashHavenDepths)
 
-## [Weather](https://ceterai.github.io/MyEnternia/Wiki/Weather)
+## <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_ionic_rain.png" alt="icon" loading="lazy" width="auto" height="16px"> [Weather](https://ceterai.github.io/MyEnternia/Wiki/Weather)
 
 - <img src="https://starbounder.org/mediawiki/images/6/62/Clear.png" width="16" height="16"/> [Clear](https://starbounder.org/Weather#Clear)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_ionic_rain.png" alt="Ionic Rain icon" loading="lazy" width="auto" height="16px"> [Ionic Rain](https://ceterai.github.io/MyEnternia/Wiki/IonicRain)

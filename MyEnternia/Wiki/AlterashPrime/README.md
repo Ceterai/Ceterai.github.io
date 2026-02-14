@@ -38,7 +38,7 @@ Other prominent hazards may include: <img src="https://raw.githubusercontent.com
 ### Dungeons
 
 - **Surface (1-2):** [Miniknog Test Facility](https://starbounder.org/Apex_Test_Facility), [Miniknog Base](https://starbounder.org/Apex_Miniknog_Base)
-- [Esetera Depths](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-depths) **(3-4):** [Wreck](https://starbounder.org/Wreck), [Cultist Lair](https://starbounder.org/Cultist_Lair)
+- Esetera Depths **(3-4):** [Wreck](https://starbounder.org/Wreck), [Cultist Lair](https://starbounder.org/Cultist_Lair)
 
 ## Resources
 
@@ -62,7 +62,7 @@ Wild [Crops](https://starbounder.org/Crops)
 
 </th> <th markdown="1">
 
-[Loot Items](https://ceterai.github.io/MyEnternia/Wiki/LootItems)
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="icon" loading="lazy" width="auto" height="16px"> [Loot Items](https://ceterai.github.io/MyEnternia/Wiki/LootItems)
 
 </th> </tr>
 
@@ -99,7 +99,7 @@ Wild [Crops](https://starbounder.org/Crops)
 
 This is a list of biomes that can be found on this planet. You can find them below, sorted by the [layer](https://starbounder.org/Layer) they appear on.
 
-### [Biomes](https://ceterai.github.io/MyEnternia/Wiki/Biomes)
+### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gyera_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Biomes](https://ceterai.github.io/MyEnternia/Wiki/Biomes)
 
 #### Asteroids
 
@@ -145,7 +145,7 @@ A **Subsurface layer** biome that acts as a ceiling for the layer below. Contain
 
 #### Esetera
 
-Esetera (eng. "Empty Place") is an underground abyss on Alterash Prime. A gargantuan space, formed by the unstable ionized nature of the planet. [Altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) generally use this space to hide their laboratories and facilities from [kaiter](https://ceterai.github.io/MyEnternia/Wiki/Alta#kaiter) scouting groups and military squads. Most of these structures can be found nearly halfway down to the bottom, almost engraved into the massive natural pillars that literally "hold" the surface of the planet. This is due to the fact that [Esetera Depths](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-depths) - the bottom of Esetera, and its actual "surface" - posseses even more danger due to its instability and numerous hazards. Read more about it here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="What Is Esetera icon" loading="lazy" width="auto" height="16px"> [What Is Esetera](https://ceterai.github.io/MyEnternia/Wiki/WhatIsEsetera)
+Esetera (eng. "Empty Place") is an underground abyss on Alterash Prime. A gargantuan space, formed by the unstable ionized nature of the planet. [Altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) generally use this space to hide their laboratories and facilities from [kaiter](https://ceterai.github.io/MyEnternia/Wiki/Alta#kaiter) scouting groups and military squads. Most of these structures can be found nearly halfway down to the bottom, almost engraved into the massive natural pillars that literally "hold" the surface of the planet. This is due to the fact that Esetera Depths - the bottom of Esetera, and its actual "surface" - posseses even more danger due to its instability and numerous hazards. Read more about it here: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="What Is Esetera icon" loading="lazy" width="auto" height="16px"> [What Is Esetera](https://ceterai.github.io/MyEnternia/Wiki/WhatIsEsetera)
 
 Ingame Esetera occupies almost half of [Subsurface](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-entrance), whole Shallow Underground and [Mid Underground](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera-depths) layers of the planet.
 
@@ -191,7 +191,7 @@ Contains following biomes:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ion_core_loot.png" alt="Barren Ion Core icon" loading="lazy" width="auto" height="16px"> [Barren Ion Core](https://ceterai.github.io/MyEnternia/Wiki/BarrenIonCore) (primary)
 
-## [Weather](https://ceterai.github.io/MyEnternia/Wiki/Weather)
+## <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/cockpit/weather/ct_ionic_rain.png" alt="icon" loading="lazy" width="auto" height="16px"> [Weather](https://ceterai.github.io/MyEnternia/Wiki/Weather)
 
 - <img src="https://starbounder.org/mediawiki/images/6/62/Clear.png" width="16" height="16"/> [Clear](https://starbounder.org/Weather#Clear)
 - <img src="https://starbounder.org/mediawiki/images/f/f6/Snow1.png" width="16" height="16"/> [Snow](https://starbounder.org/Weather#Snow)

@@ -9,7 +9,7 @@ In the most extreme cases this kind of energy can break the boundaries of usual 
 ## Damage
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" loading="lazy" width="auto" height="16px"> **Ionic** is the main damage type produced by enternia. It's a subtype of <img src="https://starbounder.org/mediawiki/images/1/15/Electric_%28Attack%29.png" alt="Electric icon" loading="lazy" width="16px" height="16px"> [Electric](https://starbounder.org/Weapons#Elemental_Damage) damage and is affected by <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [Electric Resistance](https://starbounder.org/Electric_Resistance), but unlike its base type, it doesn't apply <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified).  
-Instead, it applies different [ionic effects](https://ceterai.github.io/MyEnternia/Wiki/Effects), like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock).
+Instead, it applies different <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_enviro_protection.png" alt="icon" loading="lazy" width="auto" height="16px"> [ionic effects](https://ceterai.github.io/MyEnternia/Wiki/Effects), like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock).
 
 Plasma projectiles often have **high speed** and can **ricoshet** off of surfaces.
 
@@ -43,13 +43,13 @@ Enternia is part of <img src="https://raw.githubusercontent.com/Ceterai/Enternia
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enterite_sample/icon.png" alt="Enterite Sample icon" loading="lazy" width="auto" height="16px"> [Enterite Sample](https://ceterai.github.io/MyEnternia/Wiki/EnteriteSample)
 
-### [Items](https://ceterai.github.io/MyEnternia/Wiki/Items)
+### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="icon" loading="lazy" width="auto" height="16px"> [Items](https://ceterai.github.io/MyEnternia/Wiki/Items)
 
 #### Clothing
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/enternia/epp/icon.png" alt="Enter-EPP icon" loading="lazy" width="auto" height="16px"> [Enter-EPP](https://ceterai.github.io/MyEnternia/Wiki/Enter-EPP)
 
-#### [Weapons](https://ceterai.github.io/MyEnternia/Wiki/Weapons)
+#### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="icon" loading="lazy" width="auto" height="16px"> [Weapons](https://ceterai.github.io/MyEnternia/Wiki/Weapons)
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_ionic_rifle.png" alt="Ionic Rifle NG6 icon" loading="lazy" width="auto" height="16px"> [Ionic Rifle NG6](https://ceterai.github.io/MyEnternia/Wiki/IonicRifleNG6)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.png" alt="Ion Reaper ★ icon" loading="lazy" width="auto" height="16px"> [Ion Reaper ★](https://ceterai.github.io/MyEnternia/Wiki/IonReaper)
@@ -58,17 +58,17 @@ Enternia is part of <img src="https://raw.githubusercontent.com/Ceterai/Enternia
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_ionic_stim.png" alt="Ionic Stim Pack icon" loading="lazy" width="auto" height="16px"> [Ionic Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/IonicStimPack)
 
-#### [Throwable Items](https://ceterai.github.io/MyEnternia/Wiki/ThrowableItems)
+#### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="icon" loading="lazy" width="auto" height="16px"> [Throwable Items](https://ceterai.github.io/MyEnternia/Wiki/ThrowableItems)
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" width="auto" height="16px"> [Ionic Glowstick](https://ceterai.github.io/MyEnternia/Wiki/IonicGlowstick)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ionic_nade.png" alt="Ion Nade icon" loading="lazy" width="auto" height="16px"> [Ion Nade](https://ceterai.github.io/MyEnternia/Wiki/IonNade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_ion_javelin.png" alt="Ion Javelin ★ icon" loading="lazy" width="auto" height="16px"> [Ion Javelin ★](https://ceterai.github.io/MyEnternia/Wiki/IonJavelin)
 
-#### [Materials](https://ceterai.github.io/MyEnternia/Wiki/CraftingMaterials)
+#### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="icon" loading="lazy" width="auto" height="16px"> [Materials](https://ceterai.github.io/MyEnternia/Wiki/CraftingMaterials)
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_enterite.png" alt="Enterite icon" loading="lazy" width="auto" height="16px"> [Enterite](https://ceterai.github.io/MyEnternia/Wiki/Enterite)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="Enter-Sphere icon" loading="lazy" width="auto" height="16px"> [Enter-Sphere](https://ceterai.github.io/MyEnternia/Wiki/Enter-Sphere)
 
-#### [Enhancement Items](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enhancement)
+#### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_eds_augment.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enhancement Items](https://ceterai.github.io/MyEnternia/Wiki/Enhancements)
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/back/ct_enternia_augment.png" alt="Enternia Augment ★★ icon" loading="lazy" width="auto" height="16px"> [Enternia Augment ★★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaAugment)

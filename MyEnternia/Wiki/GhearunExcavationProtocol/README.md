@@ -26,7 +26,7 @@ Please refer to an according coordinator in case of any questions.
 CAUTIONARY SECTION
 
 Be aware that the [gheatsyn environment](https://ceterai.github.io/MyEnternia/Wiki/GheatsynNature) you're exposed to is highly unstable.  
-This includes potential dangers relating to ground movement and natural gheatsyn behavior - [tsyntex process](https://ceterai.github.io/MyEnternia/Wiki/Gheatsyn#crystals),
+This includes potential dangers relating to ground movement and natural gheatsyn behavior - tsyntex process,
 
 Due to a constant, although arguably unlikely threat of avalanches, collapses, or coming in contact with liquid gheatsyn, be sure to always wear designated protective equipment, even when operating inside a mech.
 

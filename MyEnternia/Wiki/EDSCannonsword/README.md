@@ -21,7 +21,7 @@ Unfortunately, it seems like EDS's automated defence system went out of control 
 
 ### Bastion Stand
 
-A sequence of 4 _(+1)_ heavy strikes. Hold to perform a [Rising Slash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Rising-Slash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).
+A sequence of 4 _(+1)_ heavy strikes. Hold to perform a [Rising Slash](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Rising-Slash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Downstab).
 
 Parameters:
 

@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> **Datamass** is a common crafting material.
 
 A compact encrypted data storage that can be used for storing blueprints, codex info and other data. Right now it's empty.  
-A very popular mini-device among [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta). Apart from being used as data storage, it can also be used as automated databases for other [alta technology](https://ceterai.github.io/MyEnternia/Wiki/Alta#technology), like AI for [alta robotics](https://ceterai.github.io/MyEnternia/Wiki/Alta#robotics).
+A very popular mini-device among [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta). Apart from being used as data storage, it can also be used as automated databases for other [alta technology](https://ceterai.github.io/MyEnternia/Wiki/Alta#technology), like AI for [alta robotics](https://ceterai.github.io/MyEnternia/Wiki/AltaRobotics).
 
 Looks and works similarly to human USB Drives, except with integrated data protection measures, like encryption, and small shape differences - datamasses are cylindrical, so you don't have to worry about what side to insert it with, and have unified size regulations to be able to fit in most alta devices.
 

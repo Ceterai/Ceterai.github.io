@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Celestial Strike
 
-**WIP**. A combo of 6 strikes. Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+**WIP**. A combo of 6 strikes. Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 It feels its connection to the sword, as it feels its connection to Io herself. This is a celestial level of power.
 
 Parameters:

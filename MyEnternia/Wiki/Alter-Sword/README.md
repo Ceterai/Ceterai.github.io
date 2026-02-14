@@ -23,7 +23,7 @@ Radiomessages on pickup:
 
 ### Plasmic Overlock
 
-Can provide up to 5 (+1) combo hits, with 3rd & 4th applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), and the last one - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"> [Overcharged Air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
+Can provide up to 5 (+1) combo hits, with 3rd & 4th applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn), and the last one - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_overcharged_air.png" alt="Overcharged Air icon" loading="lazy" width="auto" height="16px"> [Overcharged Air](https://ceterai.github.io/MyEnternia/Wiki/OverchargedAir). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Downstab).  
 The combo itself is very familiar to any alta soldier as it follows standard [combat protocols](https://ceterai.github.io/MyEnternia/Wiki/CombatProtocolDatamass).
 
 Parameters:

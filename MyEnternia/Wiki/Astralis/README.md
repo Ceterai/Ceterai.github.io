@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Astral Impact
 
-A sequence of 5 heavy strikes. Hold to create a Great Wave. Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
+A sequence of 5 heavy strikes. Hold to create a Great Wave. Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Downstab). Each hit is more powerful with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) in your inventory (+0.5%/speck, 120 (+60%) max).  
 This is extra-effective due to a powerful function that lets Astralis charge up momentum for a powerful ground strike.
 
 Parameters:

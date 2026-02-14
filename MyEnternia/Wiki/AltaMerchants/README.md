@@ -1,6 +1,6 @@
 # True Power Of Alta Tenant Merchants
 
-If you go through the original auto-generated My Enternia [Alta Tenant Guide](https://ceterai.github.io/MyEnternia/Wiki/Tenants), you'll see that multiple large sections of it are either dedicated to merchant NPCs, or at least have a lot of them in the list.  
+If you go through the original auto-generated My Enternia <img src="https://starbounder.org/mediawiki/images/9/93/Colony_Deed.gif" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Tenant Guide](https://ceterai.github.io/MyEnternia/Wiki/Tenants), you'll see that multiple large sections of it are either dedicated to merchant NPCs, or at least have a lot of them in the list.  
 This is because almost every group of alta tenants have their own themed merchant, resulting in **32** different merchants as of **2.4.0**.  
 This includes **5** biome merchants, **1** themed merchant and **10** science merchants - providing a wide range of items of all categories and themes.
 

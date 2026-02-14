@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 ### Crystal Might
 
-A sequence of 4 (+1) light strikes. Hold to perform a [Trail Dash](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Trail-Dash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
+A sequence of 4 (+1) light strikes. Hold to perform a [Trail Dash](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Trail-Dash). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Downstab).  
 Enters a charged state every 5 (-5) seconds, making next 5 (+1) hits deal bonus [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) damage.  
 The new energy flow is able to concentrate faster, building up at the impact rim.
 

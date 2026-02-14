@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 ### Viona Resonation
 
-A sequence of 3 heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Blade-Charge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/Weapons#Downstab).  
+A sequence of 3 heavy strikes. Hold to perform a [Blade Charge](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Blade-Charge). Hold in air to [Downstab](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#Downstab).  
 The special resonation creates slight energy vibrations between the twins, providing additional power to each hit.
 
 Parameters:

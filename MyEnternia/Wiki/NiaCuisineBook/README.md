@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"> **Nia Cuisine Book** is an uncommon codex entry.
 
 An ebook containing various energy-based [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) recipes and their history. (Unlocks some nia recipes)  
-This [ebook](https://ceterai.github.io/MyEnternia/Wiki/Ebooks) describes different nia recipes and the culture around them.
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" alt="icon" loading="lazy" width="auto" height="16px"> [ebook](https://ceterai.github.io/MyEnternia/Wiki/Ebooks) describes different nia recipes and the culture around them.
 
 ## Ingame
 
