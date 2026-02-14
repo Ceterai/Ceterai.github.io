@@ -37,7 +37,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_aya_candy.png" alt="Aya Candy icon" loading="lazy" width="auto" height="16px"> [Aya Candy](https://ceterai.github.io/MyEnternia/Wiki/AyaCandy)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_jam.png" alt="Aya Jam icon" loading="lazy" width="auto" height="16px"> [Aya Jam](https://ceterai.github.io/MyEnternia/Wiki/AyaJam)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_bio_fresh.png" alt="Bio Fresh icon" loading="lazy" width="auto" height="16px"> [Bio Fresh](https://ceterai.github.io/MyEnternia/Wiki/BioFresh)
-- `browndye`
+- <img src="https://starbounder.org/mediawiki/images/0/07/Brown_Dye.png" alt="Brown Dye icon" loading="lazy" width="8px" height="12px"> [Brown Dye](https://starbounder.org/Brown_Dye)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="Companion Drone ★★ icon" loading="lazy" width="auto" height="16px"> [Companion Drone ★★](https://ceterai.github.io/MyEnternia/Wiki/CompanionDrone)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/misc/companion/helmet/icon.png" alt="Companion Helmet icon" loading="lazy" width="auto" height="16px"> [Companion Helmet](https://ceterai.github.io/MyEnternia/Wiki/CompanionHelmet)
 - `ct_food_mimic`
@@ -49,7 +49,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_nia_cocktail.png" alt="Nia Cocktail icon" loading="lazy" width="auto" height="16px"> [Nia Cocktail](https://ceterai.github.io/MyEnternia/Wiki/NiaCocktail)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_onitti_cake.png" alt="Onitti Cake icon" loading="lazy" width="auto" height="16px"> [Onitti Cake](https://ceterai.github.io/MyEnternia/Wiki/OnittiCake)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_pavolda_cake.png" alt="Pavolda Cake icon" loading="lazy" width="auto" height="16px"> [Pavolda Cake](https://ceterai.github.io/MyEnternia/Wiki/PavoldaCake)
-- `pinkdye`
+- <img src="https://starbounder.org/mediawiki/images/6/6a/Pink_Dye.png" alt="Pink Dye icon" loading="lazy" width="8px" height="12px"> [Pink Dye](https://starbounder.org/Pink_Dye)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/miko/icon.png" alt="Potted Miko Koywa Flower icon" loading="lazy" width="auto" height="16px"> [Potted Miko Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedMikoKoywaFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" width="auto" height="16px"> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_tonna_shake.png" alt="Tonna Shake icon" loading="lazy" width="auto" height="16px"> [Tonna Shake](https://ceterai.github.io/MyEnternia/Wiki/TonnaShake)

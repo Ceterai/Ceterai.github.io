@@ -100,7 +100,7 @@ After a long process and numerous adventures, she was able to connect and unite 
 
 From here, Ceterai presented Orchi with a new purpose in life - to help her realize her plans, with the first mission being to raise two more Ceterai sisters for herself.
 
-#### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/asirai.png" alt="Asirai ★★ icon" loading="lazy" width="auto" height="16px"> [Asirai](https://ceterai.github.io/MyEnternia/Wiki/Asirai)
+#### [Asirai](https://ceterai.github.io/MyEnternia/Wiki/Asirai)
 
 To help reborn Orchid in her adventures, Celestia gifts her a new friend - Asirai - which she accepts with gratitude, finally having someone to talk to.
 

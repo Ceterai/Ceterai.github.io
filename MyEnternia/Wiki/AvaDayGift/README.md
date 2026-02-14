@@ -40,7 +40,7 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper) x*3*
   - <img src="https://starbounder.org/mediawiki/images/d/db/Woven_Fabric.png" alt="Woven Fabric icon" loading="lazy" width="14px" height="12px"> [Woven Fabric](https://starbounder.org/Woven_Fabric) x*2*
   - <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Crystal](https://starbounder.org/Crystal) x*2*
-  - `pinkdye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/6/6a/Pink_Dye.png" alt="Pink Dye icon" loading="lazy" width="8px" height="12px"> [Pink Dye](https://starbounder.org/Pink_Dye) x*1*
   - <img src="https://starbounder.org/mediawiki/images/c/c1/Red_Dye.png" alt="Red Dye icon" loading="lazy" width="8px" height="12px"> [Red Dye](https://starbounder.org/Red_Dye) x*1*
   - <img src="https://starbounder.org/mediawiki/images/9/91/White_Dye.png" alt="White Dye icon" loading="lazy" width="8px" height="12px"> [White Dye](https://starbounder.org/White_Dye) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/ava_day/ct_ava_candy.png" alt="Friendship Candy icon" loading="lazy" width="auto" height="16px"> [Friendship Candy](https://ceterai.github.io/MyEnternia/Wiki/FriendshipCandy) x*4*

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_pie.png" alt="Sonaveil Pie ★ icon" loading="lazy" width="auto" height="16px"> **Sonaveil Pie ★** is a rare dish.
 
-A warm holiday pie filled with sweet and savory fruits and spices. The perfect treat to share during Sona's Veil!  
+A warm holiday pie filled with sweet and savory fruits and spices. The perfect treat to share during [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sonaveil)!  
 This festive pie combines [cooked gils](https://ceterai.github.io/MyEnternia/Wiki/Gillikada), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonasweet.png" alt="Sonasweet icon" loading="lazy" width="auto" height="16px"> [sonasweets](https://ceterai.github.io/MyEnternia/Wiki/Sonasweet), koywa dough, warming spices, and tonna milk butter into the quintessential Sonaveil dish. The pie keeps its warmth remarkably longer than ordinary pies - some say it requires a touch of holiday spirit to bake properly. Altas share these during the cold solstice, gathering with their sisters under warm blankets, surrounded by hanging scarfs and strip lights, drinking hot tonna yaavi milk. The recipe varies between alta cities, corfals and colonies, each adding their own cherished touches.
 
 ## Ingame

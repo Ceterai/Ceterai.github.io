@@ -32,7 +32,7 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/b/be/Green_Dye.png" alt="Green Dye icon" loading="lazy" width="8px" height="12px"> [Green Dye](https://starbounder.org/Green_Dye) x*1*
   - <img src="https://starbounder.org/mediawiki/images/c/c9/Blue_Dye.png" alt="Blue Dye icon" loading="lazy" width="8px" height="12px"> [Blue Dye](https://starbounder.org/Blue_Dye) x*1*
   - <img src="https://starbounder.org/mediawiki/images/9/99/Purple_Dye.png" alt="Purple Dye icon" loading="lazy" width="8px" height="12px"> [Purple Dye](https://starbounder.org/Purple_Dye) x*1*
-  - `pinkdye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/6/6a/Pink_Dye.png" alt="Pink Dye icon" loading="lazy" width="8px" height="12px"> [Pink Dye](https://starbounder.org/Pink_Dye) x*1*
 
 Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Starbound-SpawnableItemPack/master/interface/sip/iconSmall.png" alt="Spawnable Item Pack icon" width="18" height="14"/> [Spawnable Item Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=733665104) or <img src="https://steamuserimages-a.akamaihd.net/ugc/263843960696222713/3EC9A7C005541F7D577EBCB8C5736B4EFC9973D6/" alt="icon" width="8" height="12"/> [Tabula Rasa](https://community.playstarbound.com/resources/the-tabula-rasa.3222/) (if you have any of them installed).
 

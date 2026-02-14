@@ -19,7 +19,7 @@ Species descriptions:
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/tools/pods/ship/icon.png" alt="Alta Ship Eco Pod icon" loading="lazy" width="auto" height="16px"> [Alta Ship Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AltaShipEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_astera_tear.png" alt="Astera's Tear icon" loading="lazy" width="auto" height="16px"> [Astera's Tear](https://ceterai.github.io/MyEnternia/Wiki/Astera'sTear)
-- `blackdye`
+- <img src="https://starbounder.org/mediawiki/images/4/4c/Black_Dye.png" alt="Black Dye icon" loading="lazy" width="8px" height="12px"> [Black Dye](https://starbounder.org/Black_Dye)
 - `ct_starmatter`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/status_pods/defense_pod/icon.png" alt="EDS Defense Pod icon" loading="lazy" width="auto" height="16px"> [EDS Defense Pod](https://ceterai.github.io/MyEnternia/Wiki/EDSDefensePod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/lifechamber/icon.png" alt="EDS Lifechamber icon" loading="lazy" width="auto" height="16px"> [EDS Lifechamber](https://ceterai.github.io/MyEnternia/Wiki/EDSLifechamber)

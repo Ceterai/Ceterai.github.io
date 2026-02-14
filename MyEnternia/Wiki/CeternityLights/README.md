@@ -25,7 +25,7 @@ Can be crafted:
 - Tier 3 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/constructor/icon3.png) [Alta Constructor](https://ceterai.github.io/MyEnternia/Wiki/AltaConstructor) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/lights/icon.png" alt="Ceternity Lights icon" loading="lazy" width="auto" height="16px"> Ceternity Lights x*4*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [Bion Compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/wired/led/icon.png" alt="Alta LED icon" loading="lazy" width="auto" height="16px"> [Alta LED](https://ceterai.github.io/MyEnternia/Wiki/AltaLED) x*4*
-  - `yellowdye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/4/46/Yellow_Dye.png" alt="Yellow Dye icon" loading="lazy" width="8px" height="12px"> [Yellow Dye](https://starbounder.org/Yellow_Dye) x*1*
   - <img src="https://starbounder.org/mediawiki/images/b/be/Green_Dye.png" alt="Green Dye icon" loading="lazy" width="8px" height="12px"> [Green Dye](https://starbounder.org/Green_Dye) x*1*
 
 Can be bought from merchants:

@@ -33,7 +33,7 @@ Unlocks blueprints for:
 <details markdown="1"><summary>Can be used to craft: (Expand 12 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_aya_baked.png" alt="Baked Aya icon" loading="lazy" width="auto" height="16px"> [Baked Aya](https://ceterai.github.io/MyEnternia/Wiki/BakedAya)
-- `browndye`
+- <img src="https://starbounder.org/mediawiki/images/0/07/Brown_Dye.png" alt="Brown Dye icon" loading="lazy" width="8px" height="12px"> [Brown Dye](https://starbounder.org/Brown_Dye)
 - `ct_food_mimic`
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/faradea/pod/icon.png" alt="Faradea Pod ★ icon" loading="lazy" width="auto" height="16px"> [Faradea Pod ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeaPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_koywa_tea.png" alt="Koywa Tea icon" loading="lazy" width="auto" height="16px"> [Koywa Tea](https://ceterai.github.io/MyEnternia/Wiki/KoywaTea)
@@ -43,7 +43,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/faro/icon.png" alt="Potted Faro Koywa Flower icon" loading="lazy" width="auto" height="16px"> [Potted Faro Koywa Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedFaroKoywaFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_rimar_motsu.png" alt="Rimar Motsu Soup icon" loading="lazy" width="auto" height="16px"> [Rimar Motsu Soup](https://ceterai.github.io/MyEnternia/Wiki/RimarMotsuSoup)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/flowers/faro_twin/icon.png" alt="Verriskoywa Twin Faro Flower icon" loading="lazy" width="auto" height="16px"> [Verriskoywa Twin Faro Flower](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaTwinFaroFlower)
-- `yellowdye`
+- <img src="https://starbounder.org/mediawiki/images/4/46/Yellow_Dye.png" alt="Yellow Dye icon" loading="lazy" width="8px" height="12px"> [Yellow Dye](https://starbounder.org/Yellow_Dye)
 
 </details>
 

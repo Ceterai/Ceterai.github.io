@@ -34,7 +34,7 @@ Can be crafted:
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*3*
   - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [Gheatsyn Shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) x*2*
-  - `pinkdye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/6/6a/Pink_Dye.png" alt="Pink Dye icon" loading="lazy" width="8px" height="12px"> [Pink Dye](https://starbounder.org/Pink_Dye) x*1*
 
 Can be bought from merchants:
 

@@ -27,7 +27,7 @@ Unlocks blueprints for:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/other/ct_impulse_stim.png" alt="Impulse Stim Pack icon" loading="lazy" width="auto" height="16px"> [Impulse Stim Pack](https://ceterai.github.io/MyEnternia/Wiki/ImpulseStimPack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_lifespring.png" alt="Lifespring icon" loading="lazy" width="auto" height="16px"> [Lifespring](https://ceterai.github.io/MyEnternia/Wiki/Lifespring)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_mohitava_cocktail.png" alt="Mohitava icon" loading="lazy" width="auto" height="16px"> [Mohitava](https://ceterai.github.io/MyEnternia/Wiki/Mohitava)
-- `orangedye`
+- <img src="https://starbounder.org/mediawiki/images/3/3a/Orange_Dye.png" alt="Orange Dye icon" loading="lazy" width="8px" height="12px"> [Orange Dye](https://starbounder.org/Orange_Dye)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/flowers/yaara_bulb/icon.png" alt="Potted Yaara Flower icon" loading="lazy" width="auto" height="16px"> [Potted Yaara Flower](https://ceterai.github.io/MyEnternia/Wiki/PottedYaaraFlower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/ceternity/yaajack/icon.png" alt="Yaajack icon" loading="lazy" width="auto" height="16px"> [Yaajack](https://ceterai.github.io/MyEnternia/Wiki/Yaajack)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/other/ct_yaara_wand.png" alt="Yaara Wand ★★ icon" loading="lazy" width="auto" height="16px"> [Yaara Wand ★★](https://ceterai.github.io/MyEnternia/Wiki/YaaraWand)

@@ -15,7 +15,7 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*4*
   - <img src="https://starbounder.org/mediawiki/images/a/a0/String.png" alt="String icon" loading="lazy" width="11px" height="10px"> [String](https://starbounder.org/String) x*2*
   - <img src="https://starbounder.org/mediawiki/images/c/c1/Red_Dye.png" alt="Red Dye icon" loading="lazy" width="8px" height="12px"> [Red Dye](https://starbounder.org/Red_Dye) x*1*
-  - `yellowdye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/4/46/Yellow_Dye.png" alt="Yellow Dye icon" loading="lazy" width="8px" height="12px"> [Yellow Dye](https://starbounder.org/Yellow_Dye) x*1*
 
 Can be bought from merchants:
 

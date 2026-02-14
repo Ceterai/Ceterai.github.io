@@ -196,9 +196,9 @@ Never looking for a fight, most altas would never see a threat in a mostly passi
 
 Though seen as scary ghosts at first, altas found these void creatures to be quite peaceful and uneventful. Though any possible civilization of shadows remains a mystery to altas, their relationship seems to be mostly positive, especially when all encounters are happening expectedly.
 
-#### [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity)
+#### [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Ceternity)
 
-During this spooky alta holiday, altas often invite shadows to join them celebrating the night of  [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity) - a very fitting place for a sudden spook.
+During this spooky alta holiday, altas often invite shadows to join them celebrating the night of [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Ceternity) - a very fitting place for a sudden spook.
 
 ### [Creeplings](https://starbounder.org/Creepling_Set)
 

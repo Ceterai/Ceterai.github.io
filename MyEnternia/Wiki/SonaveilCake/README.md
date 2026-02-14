@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/events/sonaveil/ct_sonaveil_cake.png" alt="Sonaveil Cake icon" loading="lazy" width="auto" height="16px"> **Sonaveil Cake** is a legendary dish.
 
-A simple festive [Sonaveil](https://ceterai.github.io/MyEnternia/Wiki/Tags/Sonaveil) with pleasant thin layer of pink frosting. Happy holidays!  
+A simple festive [Sonaveil](https://ceterai.github.io/MyEnternia/Wiki/Sonaveil) with pleasant thin layer of pink frosting. Happy holidays!  
 This traditional Sonaveil dessert combines unsweetened cake layers with some jam filling.
 
 ## Ingame

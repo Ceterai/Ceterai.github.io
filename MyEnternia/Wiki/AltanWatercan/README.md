@@ -34,7 +34,7 @@ Can be crafted:
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/dendrarium/icon.png) [Alta Dendrarium](https://ceterai.github.io/MyEnternia/Wiki/AltaDendrarium) (takes 5s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon.png" alt="Altan Watercan icon" loading="lazy" width="auto" height="16px"> Altan Watercan x*1*):
   - <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [Titanium Bar](https://starbounder.org/Titanium_Bar) x*4*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*2*
-  - `greydye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/5/58/Grey_Dye.png" alt="Grey Dye icon" loading="lazy" width="8px" height="12px"> [Grey Dye](https://starbounder.org/Grey_Dye) x*1*
 
 Can be bought from merchants:
 

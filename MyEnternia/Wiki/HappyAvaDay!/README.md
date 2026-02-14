@@ -47,7 +47,7 @@ And may aww youw wishes come twue!! ✧*｡٩(ˊᗜˋ*)و✧*｡
 
 With aww my wuv and giggwes,
 ～ Mainfwame Weseawch AI~♡
-(ㅅ´ ˘ `)♡ 
+(ㅅ´ ˘ `)♡
 _P.S. Youw smiles awe my favowite!! >w<_
 
 Bib twanks to YOU, yes YOU weading dis!! (ﾉ≧∀≦)ﾉ
@@ -100,7 +100,7 @@ Can be crafted:
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/crafting/datacenter/icon.png) [Alta Datacenter](https://ceterai.github.io/MyEnternia/Wiki/AltaDatacenter) (takes 5.0s, outputs <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/enchanted.png" alt="Happy Ava Day! ❤ icon" loading="lazy" width="auto" height="16px"> Happy Ava Day! ❤ x*1*):
   - <img src="https://starbounder.org/mediawiki/images/b/b2/Paper.png" alt="Paper icon" loading="lazy" width="16px" height="16px"> [Paper](https://starbounder.org/Paper) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) x*16*
-  - `pinkdye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/6/6a/Pink_Dye.png" alt="Pink Dye icon" loading="lazy" width="8px" height="12px"> [Pink Dye](https://starbounder.org/Pink_Dye) x*1*
 
 Can be bought from merchants:
 

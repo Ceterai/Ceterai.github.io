@@ -17,7 +17,7 @@ Species descriptions:
 
 <details markdown="1"><summary>Can be used to craft: (Expand 22 items)</summary>
 
-- `greydye`
+- <img src="https://starbounder.org/mediawiki/images/5/58/Grey_Dye.png" alt="Grey Dye icon" loading="lazy" width="8px" height="12px"> [Grey Dye](https://starbounder.org/Grey_Dye)
 - <img src="https://starbounder.org/mediawiki/images/3/35/Hive_Bed.png" alt="Hive Bed icon" loading="lazy" width="18.5px" height="5.5px"> [Hive Bed](https://starbounder.org/Hive_Bed)
 - <img src="https://starbounder.org/mediawiki/images/2/2d/Hive_Chair.png" alt="Hive Chair icon" loading="lazy" width="11.25px" height="7.5px"> [Hive Chair](https://starbounder.org/Hive_Chair)
 - <img src="https://starbounder.org/mediawiki/images/f/f0/Hive_Door.png" alt="Hive Door icon" loading="lazy" width="4.5px" height="15px"> [Hive Door](https://starbounder.org/Hive_Door)

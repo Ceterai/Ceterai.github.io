@@ -34,7 +34,7 @@ Can be crafted:
   - <img src="https://starbounder.org/mediawiki/images/8/83/Silk.png" alt="Silk icon" loading="lazy" width="14px" height="14px"> [Silk](https://starbounder.org/Silk) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*4*
   - <img src="https://starbounder.org/mediawiki/images/0/06/Oil.png" alt="Oil icon" loading="lazy" width="16px" height="16px"> [Oil](https://starbounder.org/Oil) x*8*
-  - `orangedye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/3/3a/Orange_Dye.png" alt="Orange Dye icon" loading="lazy" width="8px" height="12px"> [Orange Dye](https://starbounder.org/Orange_Dye) x*1*
 
 Can be bought from merchants:
 

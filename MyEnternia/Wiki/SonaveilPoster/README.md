@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/events/sonaveil/ct_sonaveil_poster.png" alt="Sonaveil Poster icon" loading="lazy" width="auto" height="16px"> **Sonaveil Poster** is a common decorative object.
 
-A cheerful poster celebrating Sona's Veil - the alta cold solstice holiday of warmth and togetherness.  
+A cheerful poster celebrating [Sona's Veil](https://ceterai.github.io/MyEnternia/Wiki/Sonaveil) - the alta cold solstice holiday of warmth and togetherness.  
 The poster features traditional sona imagery, like snowflakes and string lights, and warm colors, reminding altas of the holiday atmosphere. These posters are commonly displayed in public spaces, squares, and outposts during the holiday season.
 
 ## Ingame
@@ -33,7 +33,7 @@ Can be crafted:
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [Ayaka Wood](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood) x*4*
   - <img src="https://starbounder.org/mediawiki/images/a/a3/Holiday_Spirit.png" alt="Holiday Spirit icon" loading="lazy" width="14px" height="15px"> [Holiday Spirit](https://starbounder.org/Holiday_Spirit) x*8*
   - <img src="https://starbounder.org/mediawiki/images/c/c1/Red_Dye.png" alt="Red Dye icon" loading="lazy" width="8px" height="12px"> [Red Dye](https://starbounder.org/Red_Dye) x*1*
-  - `yellowdye` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/4/46/Yellow_Dye.png" alt="Yellow Dye icon" loading="lazy" width="8px" height="12px"> [Yellow Dye](https://starbounder.org/Yellow_Dye) x*1*
 
 Can be bought from merchants:
 

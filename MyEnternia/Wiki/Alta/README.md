@@ -11,12 +11,12 @@ left: 10%
 
 > **Nature:** Bionicas (Artificial Bion-Based Humanoids)  
 > **Homeworld:** Alta-1 (Alliana)  
-> **Primary Planets:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime)  
+> **Primary Planets:** <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime)  
 > **Main Focus:** Research, Exploration, Entertainment
 
 # Alta
 
-An artificial species of humanoids created to study the nature of . The main focus of their decentralized society is research and exploration with the purpose of technological advancement, as well as entertainment and quality of life improvement.
+An artificial species of humanoids created to study the nature of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust). The main focus of their decentralized society is research and exploration with the purpose of technological advancement, as well as entertainment and quality of life improvement.
 
 <details><summary>Navigation (Expand)</summary>
 
@@ -113,11 +113,11 @@ An artificial species of humanoids created to study the nature of . The main foc
 
 ## Description
 
-Altas are primarily found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets and their [subtypes](https://ceterai.github.io/MyEnternia/Wiki/Alterash#difficulty). Due to their partial [resistance to electricity](#in-game-stats), altas mainly reside on planets with highly ionized atmospheres - this allows them to avoid unwanted conflicts with other species and conduct their research in peace and privacy.
+Altas are primarily found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets and their [subtypes](https://ceterai.github.io/MyEnternia/Wiki/Alterash#difficulty). Due to their partial [resistance to electricity](#in-game-stats), altas mainly reside on planets with highly ionized atmospheres - this allows them to avoid unwanted conflicts with other species and conduct their research in peace and privacy.
 
-Unfortunately, a failed series of experiments that led to the creation of [kaiters](#kaiter) and other threats caused altas to invest in the development of combat and security technology. In some cases, this led to relocating numerous laboratories and entire facilities away from planetary surfaces, often into underground <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) spaces.
+Unfortunately, a failed series of experiments that led to the creation of [kaiters](#kaiter) and other threats caused altas to invest in the development of combat and security technology. In some cases, this led to relocating numerous laboratories and entire facilities away from planetary surfaces, often into underground <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) spaces.
 
-Most alta research is based on studying  and the types of energy it provides - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" width="16" height="16"/> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) (thoughts), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" width="16" height="16"/> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) (memories), and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" width="16" height="16"/> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) (dreams). Alternia is the most common energy source on alterash planets and the most balanced in terms of power and safety. Altas often use alternia energy as their main source of electricity and power (see [Alta Technology](#technology)).
+Most alta research is based on studying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) and the types of energy it provides - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) (thoughts), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) (memories), and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" loading="lazy" width="auto" height="16px"> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) (dreams). Alternia is the most common energy source on alterash planets and the most balanced in terms of power and safety. Altas often use alternia energy as their main source of electricity and power (see [Alta Technology](#technology)).
 
 ### In-Game Stats
 
@@ -227,7 +227,7 @@ Altas are herbivores (plant-based diet) and also eat some crystals and insects:
 - Mushrooms
 - Seaweed
 - Crystals (certain edible types)
-- Milk (plant-based alternatives, like [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) or [cocola](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed), human variants like almond or oat milk are also edible though unusual)
+- Milk (plant-based alternatives, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) or [cocola](https://ceterai.github.io/MyEnternia/Wiki/CocolaSeed), human variants like almond or oat milk are also edible though unusual)
 
 </details>
 
@@ -275,7 +275,7 @@ An alta whose emotions were captured by the void. These husks have lost their em
 
 #### Heva (Hevalta)
 
-An alta "zombie" who fell sick to **hevikai** and was overgrown with **hevika crystals**. These unfortunate altas are overtaken by crystalline growth, losing their original consciousness.
+An alta "zombie" who fell sick to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_hevikai.png" alt="Hevikai icon" loading="lazy" width="auto" height="16px"> [hevikai](https://ceterai.github.io/MyEnternia/Wiki/Hevikai) and was overgrown with [hevika crystals](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal). These unfortunate altas are overtaken by crystalline growth, losing their original consciousness.
 
 #### Vionika (Vionalta)
 
@@ -313,7 +313,7 @@ The lives of altas revolve heavily around <img src="https://starbounder.org/medi
 - Altas were created with help of stardust, an inherently crystallic material
 - Crystals are abundant resources available in all shapes and sizes on alterash planets
 
-There's a codex entry describing this connection in depth: [Altas & Crystals](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals)
+There's a codex entry describing this connection in depth: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Altas & Crystals icon" loading="lazy" width="auto" height="16px"> [Altas & Crystals](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals)
 
 **Important Crystal Types:**
 
@@ -322,7 +322,7 @@ There's a codex entry describing this connection in depth: [Altas & Crystals](ht
 - **Hevika (Blue Crystal)** - Advanced research and marine applications
 - **Bishyn (Cyan Crystal)** - Decorative and office design, when refined from poison
 
-Alta technology heavily utilizes crystals for energy conduction, data storage (**datamasses**), and structural components. The term **calotronics** refers to crystal-based electronics - the alta equivalent of silicon technology (see **Technology** section below).
+Alta technology heavily utilizes crystals for energy conduction, data storage (<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamasses](https://ceterai.github.io/MyEnternia/Wiki/Datamass)), and structural components. The term <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/calotronics.png" alt="Calotronics icon" loading="lazy" width="auto" height="16px"> [calotronics](https://ceterai.github.io/MyEnternia/Wiki/Calotronics) refers to crystal-based electronics - the alta equivalent of silicon technology (see **Technology** section below).
 
 <p align="center">
 
@@ -356,7 +356,7 @@ Due to the FHC (First Human Contact) operation, many "Earth fans" among altas we
 
 **Materials:**
 
-Alta clothing often incorporates various [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) as protective materials. These sturdy materials can be used for both casual clothing and protective armor plating. See the [Materials](#materials) section for details on bion compounds.
+Alta clothing often incorporates various <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) as protective materials. These sturdy materials can be used for both casual clothing and protective armor plating. See the [Materials](#materials) section for details on bion compounds.
 
 **Design Philosophy:**
 
@@ -365,7 +365,7 @@ The Arcolar style prioritizes:
 - Simplicity and clean lines
 - Functionality over ornamentation
 - Light, breathable materials
-- Integration with technology (pockets for [datamasses](https://ceterai.github.io/MyEnternia/Wiki/Datamass), energy cell charging)
+- Integration with technology (pockets for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamasses](https://ceterai.github.io/MyEnternia/Wiki/Datamass), energy cell charging)
 - Adaptability to ionized atmospheres
 
 </details>
@@ -399,11 +399,11 @@ Alta cuisine consists of mostly plant-based meals made from fruits, crops, cryst
 
 <details markdown="1"><summary>Notable Characters (Click to expand)</summary>
 
-- **Miara** - Grand chef at one of [Alta-1](https://ceterai.github.io/MyEnternia/Wiki/Alta-1) biggest restaurants.
+- **Miara** - Grand chef at one of Alta-1 biggest restaurants.
 
 </details>
 
-Check out the ultimate [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide) for cooking culture information, and the [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide) for advanced recipes and cooking history.
+Check out the ultimate <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Culinary Guide icon" loading="lazy" width="auto" height="16px"> [Alta Culinary Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaCulinaryGuide) for cooking culture information, and the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Chef's Guide icon" loading="lazy" width="auto" height="16px"> [Alta Chef's Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaChef'sGuide) for advanced recipes and cooking history.
 
 There are four main **cuisines** that are prominent among altas.  
 Mostly dependant on the choice of ingredients, dishes of the same cuisine often have similar effects.  
@@ -413,33 +413,33 @@ In game, alta food has a wider and more granular range of ferment time descripti
 
 #### Runeva Cuisine
 
-> Main page: [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Runeva Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Runeva Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/RunevaCuisineBook)
 
-A cuisine based on three abundant alterash ingredients: **aya**, **gil**, and **tsay**.
+A cuisine based on three abundant alterash ingredients: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [aya](https://ceterai.github.io/MyEnternia/Wiki/Aya), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [gil](https://ceterai.github.io/MyEnternia/Wiki/Gil), and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_tsay.png" alt="Tsay icon" loading="lazy" width="auto" height="16px"> [tsay](https://ceterai.github.io/MyEnternia/Wiki/Tsay).
 
 **Effects:** Improved **movement and stamina** and related parameters.
 
 #### Calin Cuisine
 
-> Main page: [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Calin Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Calin Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook)
 
-A crystal-based cuisine consisting primarily of **gheatsyn** crystals and rare edible <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" width="13" height="12"/> [crystal plants](https://starbounder.org/Crystal_Plant).
+A crystal-based cuisine consisting primarily of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) crystals and rare edible <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="Crystal Plant icon" loading="lazy" width="13px" height="12px"> [crystal plants](https://starbounder.org/Crystal_Plant).
 
-**Effects:** Slight **luminescence and thorns**, but can cause brief **crystal poison** if underprepared.
+**Effects:** Slight **luminescence and thorns**, but can cause brief [crystal poison](https://ceterai.github.io/MyEnternia/Wiki/Crystal-Poisoned) if underprepared.
 
 #### Nia Cuisine
 
-> Main page: [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Nia Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Nia Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/NiaCuisineBook)
 
-Produce full of ionic energy makes up most nia cuisine ingredients, like **tonna** and **ionic ferment**.
+Produce full of ionic energy makes up most nia cuisine ingredients, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> [tonna](https://ceterai.github.io/MyEnternia/Wiki/Tonna) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [ionic ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment).
 
 **Effects:** Increased **energy and energy regen** and related parameters.
 
 #### Yava Cuisine
 
-> Main page: [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Yava Cuisine Book icon" loading="lazy" width="auto" height="16px"> [Yava Cuisine Book](https://ceterai.github.io/MyEnternia/Wiki/YavaCuisineBook)
 
-A purely herb-based cuisine utilizing numerous vitamin-rich plants from alterash planets, like **yaara** and **koywa**.
+A purely herb-based cuisine utilizing numerous vitamin-rich plants from alterash planets, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [yaara](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/koywa/grass/bushy/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [koywa](https://ceterai.github.io/MyEnternia/Wiki/VerriskoywaPrimeGrass).
 
 **Effects:** **Health improvement and regeneration**.
 
@@ -451,7 +451,7 @@ A purely herb-based cuisine utilizing numerous vitamin-rich plants from alterash
 
 #### [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
 
-> Main page: [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking)
 
 Most alta food (usually level 4+) has a chance to be prepared perfectly, increasing its parameters slightly and giving it a new name. This chance can descrease if you make the same dish in quick succession.
 
@@ -461,7 +461,7 @@ Alta society's primary focus is research and exploration for technological advan
 
 #### Botanics
 
-> Main page: [Alta Botanics Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" width="auto" height="16px"> [Alta Botanics Guide](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide)
 
 Alta botanics covers the study of plant life on Io and alterash worlds. The field is extensive and highly developed, with specialized techniques and categories.
 
@@ -480,12 +480,12 @@ Alta botanics covers the study of plant life on Io and alterash worlds. The fiel
 
 <details markdown="1"><summary>Cultivation Techniques (Altaponic Methods) (Click to expand)</summary>
 
-- [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics) - General science of cultivation
-- [Terraponics](https://ceterai.github.io/MyEnternia/Wiki/AltaTerraponics) - Earth-based growing
-- [Hydroponics](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics) - Water-based growing
-- [Ecoponics](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics) - Ecosystem-integrated growing
-- [Thermoponics](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics) - Temperature-controlled growing
-- [Omniponics](https://ceterai.github.io/MyEnternia/Wiki/AltaOmniponics) - Universal adaptable growing
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Altaponics icon" loading="lazy" width="auto" height="16px"> [Altaponics](https://ceterai.github.io/MyEnternia/Wiki/Altaponics) - General science of cultivation
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/arknight.png" alt="Alta Terraponics ★ icon" loading="lazy" width="auto" height="16px"> [Terraponics](https://ceterai.github.io/MyEnternia/Wiki/AltaTerraponics) - Earth-based growing
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Alta Hydroponics ★★ icon" loading="lazy" width="auto" height="16px"> [Hydroponics](https://ceterai.github.io/MyEnternia/Wiki/AltaHydroponics) - Water-based growing
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Alta Ecoponics ★★★ icon" loading="lazy" width="auto" height="16px"> [Ecoponics](https://ceterai.github.io/MyEnternia/Wiki/AltaEcoponics) - Ecosystem-integrated growing
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/stardust.png" alt="Alta Thermoponics ★★★★ icon" loading="lazy" width="auto" height="16px"> [Thermoponics](https://ceterai.github.io/MyEnternia/Wiki/AltaThermoponics) - Temperature-controlled growing
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/void.png" alt="Alta Omniponics icon" loading="lazy" width="auto" height="16px"> [Omniponics](https://ceterai.github.io/MyEnternia/Wiki/AltaOmniponics) - Universal adaptable growing
 
 </details>
 
@@ -537,7 +537,7 @@ The study of insect-like creatures, particularly hive-dwelling species.
 
 **Major Research Areas:**
 
-- [Ionic hives](https://ceterai.github.io/MyEnternia/Wiki/IonicHive) in alterash prime planet depths
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Ionic Hive icon" loading="lazy" width="auto" height="16px"> [Ionic hives](https://ceterai.github.io/MyEnternia/Wiki/IonicHive) in alterash prime planet depths
 - Midnight hive ecosystem parallels
 - Sentient larvling co-research programs
 - Hive structure and social organization
@@ -550,8 +550,8 @@ Various research organizations focus on genetic modification and species develop
 
 **Controversial Projects:**
 
-- [Arigarans](https://ceterai.github.io/MyEnternia/Wiki/AltaRelations#arigarans) - Aric-adapted agarans created by Mita-3V Ordis
-- [Arilings](https://ceterai.github.io/MyEnternia/Wiki/Ariling) - Resulted from arigaran introduction to aric forests
+- [Arigarans](https://ceterai.github.io/MyEnternia/Wiki/Arigaran) - Aric-adapted agarans created by Mita-3V Ordis
+- Arilings - Resulted from arigaran introduction to aric forests
 - **Advanced Alta FEA** - Floral Enhancement Appliances with unpredictable results
 
 **Ethical Concerns:** Arigaran settlements remain protected from their creators by Alliana forces due to ethical complications.
@@ -562,28 +562,28 @@ The core of alta research focuses on three types of stardust energy.
 
 <details markdown="1"><summary>Stardust Energy Types (Click to expand)</summary>
 
-[Ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) (Thoughts):
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [Ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) (Thoughts):
 
 - Represented by teal/cyan colors
 - Associated with yaara plants
 - Impulse-type electricity
 - Light energy applications
 
-[Alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) (Memories):
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) (Memories):
 
 - Represented by blue colors
 - Most common on alterash planets
 - Plasma-type energy
 - Primary power source
 
-[Enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) (Dreams):
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" loading="lazy" width="auto" height="16px"> [Enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia) (Dreams):
 
 - Represented by ionic/purple colors
 - Found on enterash planets
 - Ionic electricity
 - Experimental applications
 
-[Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) (Life):
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [Stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) (Life):
 
 - Combination of all three energies
 - Represents life force
@@ -594,17 +594,17 @@ The core of alta research focuses on three types of stardust energy.
 
 <details markdown="1"><summary>Other Energy Types (Click to expand)</summary>
 
-[Vionia](https://ceterai.github.io/MyEnternia/Wiki/Vionia) - anomalous fusion of ceternia and enternia energies
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_enchanted_loot.png" alt="vionia icon" loading="lazy" width="auto" height="16px"> [Vionia](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass) - anomalous fusion of ceternia and enternia energies
 
-[Void](https://ceterai.github.io/MyEnternia/Wiki/Void) - corrupted energy opposing stardust, presumed to be the dark matter of the universe
+[Void](https://ceterai.github.io/MyEnternia/Wiki/Tags/Void) - corrupted energy opposing stardust, presumed to be the dark matter of the universe
 
-[Radiation](https://ceterai.github.io/MyEnternia/Wiki/Radiation) - unstable energy from stellar sources
+[Radiation](https://ceterai.github.io/MyEnternia/Wiki/Tags/Radiation) - unstable energy from stellar sources
 
-[Vortex](https://ceterai.github.io/MyEnternia/Wiki/Vortex) - chaotic energy from spatial anomalies
+[Vortex](https://ceterai.github.io/MyEnternia/Wiki/Tags/Vortex) - chaotic energy from spatial anomalies
 
-[Singularity](https://ceterai.github.io/MyEnternia/Wiki/Singularity) - gravitational energy from collapsed stars
+Singularity - gravitational energy from collapsed stars
 
-[Thermia](https://ceterai.github.io/MyEnternia/Wiki/Thermia) - thermal energy of any heat source
+Thermia - thermal energy of any heat source
 
 </details>
 
@@ -735,17 +735,17 @@ This is a small interplanetary holiday where altas choose a day of complete rela
 
 #### New Year
 
-An interplanetary holiday marking the beginning of a new alecta quarter. Altas celebrate with fireworks, parties, and reflections on the past quarter while looking forward to new opportunities and adventures in the quarter ahead. Read more: [Alta New Year](https://ceterai.github.io/MyEnternia/Wiki/AltaNewYear-Lann10)
+An interplanetary holiday marking the beginning of a new alecta quarter. Altas celebrate with fireworks, parties, and reflections on the past quarter while looking forward to new opportunities and adventures in the quarter ahead. Read more: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/bishyn.png" alt="Alta New Year - Lann 10 icon" loading="lazy" width="auto" height="16px"> [Alta New Year](https://ceterai.github.io/MyEnternia/Wiki/AltaNewYear-Lann10)
 
-#### [Ava Day](https://ceterai.github.io/MyEnternia/Wiki/AvaDay)
+#### [Ava Day](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay)
 
-> Main page: [Ava Day](https://ceterai.github.io/MyEnternia/Wiki/AvaDay)
+> Main page: [Ava Day](https://ceterai.github.io/MyEnternia/Wiki/Tags/AvaDay)
 
 Ava Day is the alta gift-giving holiday, analogous to Earth's Valentine's Day but with broader cultural significance. While Earth's Valentine's Day focuses primarily on romantic love, Ava Day encompasses gift-giving across all relationship types - friends, caretakers, colleagues, and romantic partners.
 
-#### [Alta Day](https://ceterai.github.io/MyEnternia/Wiki/AltaDay)
+#### Alta Day
 
-> Main page: [Alta National Day](https://ceterai.github.io/MyEnternia/Wiki/AltaDay)
+> Main page: Alta National Day
 
 Alta Day is the species-wide interplanetary celebration commemorating alta identity, culture, and achievements. It's the most patriotic of alta holidays, featuring displays of alta symbols, visits to cultural sites, and community celebrations that reinforce species-shared pride.
 
@@ -755,7 +755,7 @@ Since the planetary calendars are usually misaligned to the interplanetary one, 
 
 ## Settlements
 
-Alta civilization is spread across numerous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" width="16" height="16"/> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets, with settlements ranging from small research colonies to massive metropolitan capitals. The structure and purpose of these settlements vary greatly depending on their location, population, and strategic importance.
+Alta civilization is spread across numerous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets, with settlements ranging from small research colonies to massive metropolitan capitals. The structure and purpose of these settlements vary greatly depending on their location, population, and strategic importance.
 
 ### Settlement Types
 
@@ -765,7 +765,7 @@ Alta civilization is spread across numerous <img src="https://raw.githubusercont
 
 Small outposts build for altas with shared interests, such as research teams or specialized workers. These colonies are often located in remote areas of alterash planets, serving as bases for scientific exploration and resource gathering.
 
-Many colonies have been relocated underground into <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" width="16" height="16"/> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) spaces following the kaiter incidents, providing additional natural protection from external threats.
+Many colonies have been relocated underground into <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) spaces following the kaiter incidents, providing additional natural protection from external threats.
 
 #### Cities
 
@@ -986,7 +986,7 @@ Organizations focused on nature, agriculture, and ecosystem management.
 
 #### Elin Gardens
 
-> Main page: [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/elin.png" alt="Elin's Invite icon" loading="lazy" width="auto" height="16px"> [Elin's Invite](https://ceterai.github.io/MyEnternia/Wiki/Elin'sInvite)
 
 ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_elin_loot.png) Tier 2 - Growth Facilities
 
