@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" width="auto" height="16px"> **Sonia's Breath ★** is a legendary one-handed cryogenic unique weapon.
 
-A recreation of a mysterious <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) device that could combine [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) energy and sona cold into a stream of superelectricity.
+A recreation of a mysterious <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) device that could combine [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) energy and sona cold into a stream of superelectricity.
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" width="auto" height="16px"> [Soniathrower](https://ceterai.github.io/MyEnternia/Wiki/Soniathrower).
 

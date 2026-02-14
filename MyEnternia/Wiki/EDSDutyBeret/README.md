@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_beret/icon.png" alt="EDS Duty Beret icon" loading="lazy" width="auto" height="16px"> **EDS Duty Beret** is an uncommon head cosmetic item.
 
-Decorative on-duty [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) headwear.
+Decorative on-duty [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) headwear.
 
 ## Ingame
 

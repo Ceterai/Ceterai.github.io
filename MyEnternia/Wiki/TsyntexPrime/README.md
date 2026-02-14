@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 ### Ultimate Gheablast
 
-Semiauto [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) bursts on press (+1 blast per burst), or 2x gheatsyn charges on hold (40% faster charge). The hold damage increases by 0.2% for every <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [gheatsyn shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) in inventory (max 300 or 60%).  
+Semiauto [impulse](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#damage) bursts on press (+1 blast per burst), or 2x gheatsyn charges on hold (40% faster charge). The hold damage increases by 0.2% for every <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="Gheatsyn Shard icon" loading="lazy" width="auto" height="16px"> [gheatsyn shard](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) in inventory (max 300 or 60%).  
 Now packing a special accelerator module ran on stardust, it speeds up tsyntex significantly, improving overall performace of this tool.
 
 Parameters:

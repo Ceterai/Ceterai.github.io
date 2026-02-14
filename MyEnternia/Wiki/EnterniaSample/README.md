@@ -8,7 +8,7 @@ A perfect sample of an <img src="https://raw.githubusercontent.com/Ceterai/Enter
 
 Species descriptions:
 
-- Alta: Finding a material with safely contained enternia was a pretty big discovery. And look at us now - [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) can't stop shoving it in every piece of technology they have, and dreamers are hunting the empty barrens of [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash)...
+- Alta: Finding a material with safely contained enternia was a pretty big discovery. And look at us now - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) can't stop shoving it in every piece of technology they have, and dreamers are hunting the empty barrens of [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash)...
 
 ## Sources
 

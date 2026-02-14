@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/astera.png" alt="Astera Industries icon" loading="lazy" width="auto" height="16px"> **Astera Industries** is a legendary codex entry.
 
-A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) that contains information about <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"> [alta labs](https://ceterai.github.io/MyEnternia/Wiki/AltaLabs) and mines on [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera) asteroids.  
+A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/datamass.png" alt="Datamass icon" loading="lazy" width="auto" height="16px"> [datamass](https://ceterai.github.io/MyEnternia/Wiki/Datamass) that contains information about <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/lab.png" alt="Alta Labs icon" loading="lazy" width="auto" height="16px"> [alta labs](https://ceterai.github.io/MyEnternia/Wiki/AltaLabs) and mines on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera icon" loading="lazy" width="auto" height="16px"> [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera) asteroids.  
 There are relatively big asteroids floating around astera perfectly fit for big industrial compounds like these. Altas call them [moonrock space islands](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
 ## Ingame

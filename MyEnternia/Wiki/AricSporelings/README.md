@@ -13,7 +13,7 @@ Species descriptions:
 
 ### Contents
 
-This doc describes ways to distinguish edible, safe, toxic and poisonous [arics](https://ceterai.github.io/MyEnternia/Wiki/Aric).
+This doc describes ways to distinguish edible, safe, toxic and poisonous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [arics](https://ceterai.github.io/MyEnternia/Wiki/Aric).
 
 As aric shrooms don't have a standardized genome due to extensive rate and size of mutations, it can be hard to know whether or not a particular aric is safe to eat or even be around.
 

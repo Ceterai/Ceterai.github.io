@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_wide_tree.png" alt="Wide Tonnova icon" loading="lazy" width="auto" height="16px"> **Wide Tonnova** is a rare tree sapling.
 
-A pretty wide <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" width="auto" height="16px"> [tonnova tree](https://ceterai.github.io/MyEnternia/Wiki/TonnovaTree) variation found in [tonnova groves](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove).
+A pretty wide <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bionid/ct_tonnova_tree.png" alt="Tonnova Tree icon" loading="lazy" width="auto" height="16px"> [tonnova tree](https://ceterai.github.io/MyEnternia/Wiki/TonnovaTree) variation found in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Tonnova Grove icon" loading="lazy" width="auto" height="16px"> [tonnova groves](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove).
 
 ## Ingame
 

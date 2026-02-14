@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/glowsticks/ionic.png" alt="Ionic Glowstick icon" loading="lazy" width="auto" height="16px"> **Ionic Glowstick** is an uncommon throwable item.
 
-Creates an [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) bioluminescent glow when thrown. Is made from rare crystallic materials.  
+Creates an [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) bioluminescent glow when thrown. Is made from rare crystallic materials.  
 While being a simple light, its energy saturation makes its contents a good filler for the alta sphere energy sources.
 
 ## Ingame

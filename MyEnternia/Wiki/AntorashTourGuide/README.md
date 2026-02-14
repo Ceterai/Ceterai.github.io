@@ -20,11 +20,11 @@ Radiomessages on pickup:
 Welcome to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Antorash](https://ceterai.github.io/MyEnternia/Wiki/Alterash#antorash)!  
 Also called The Underworld, this is a surface-like place, located in the depths of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets, lit up mostly by crystals and other natural underground light sources.
 
-Enjoy your time traversing [antorash plains](https://ceterai.github.io/MyEnternia/Wiki/AntorashPlains), or relaxing among the crystals of [starforests](https://ceterai.github.io/MyEnternia/Wiki/Starforest).
+Enjoy your time traversing <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Antorash Plains icon" loading="lazy" width="auto" height="16px"> [antorash plains](https://ceterai.github.io/MyEnternia/Wiki/AntorashPlains), or relaxing among the crystals of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Starforest icon" loading="lazy" width="auto" height="16px"> [starforests](https://ceterai.github.io/MyEnternia/Wiki/Starforest).
 
 If you stumble upon an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"> [alta city](https://ceterai.github.io/MyEnternia/Wiki/AltaCities), be sure to check in with a [security guard](https://ceterai.github.io/MyEnternia/Wiki/SecuritySet) to register your visit.
 
-Also, stay away from [warped forests](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest). These places have been proven to be somewhat dangerous to [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta).
+Also, stay away from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Forest icon" loading="lazy" width="auto" height="16px"> [warped forests](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest). These places have been proven to be somewhat dangerous to [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta).
 
 ## Usage
 

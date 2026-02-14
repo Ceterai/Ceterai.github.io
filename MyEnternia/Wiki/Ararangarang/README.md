@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang_2.png" alt="Ararangarang ★ icon" loading="lazy" width="auto" height="16px"> **Ararangarang ★** is a legendary one-handed poisonous boomerang.
 
-Fueled by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), this thing is now blooming with [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) lifeforms. So pretty!
+Fueled by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), this thing is now blooming with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) lifeforms. So pretty!
 
 The shards now also inflict poison.
 

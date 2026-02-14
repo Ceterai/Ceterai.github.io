@@ -2,14 +2,14 @@
 
 # Enternia
 
-<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="icon" loading="lazy" width="auto" height="16px"> **Enternia** is a type of [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy) commonly found in form of essence, static and in [rocks or asteroids](https://ceterai.github.io/MyEnternia/Wiki/Astera). This is the most common type of energy on [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash) planets and is considered to be the most powerful and hard to contain compared to other types - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/entersphere.png" alt="icon" loading="lazy" width="auto" height="16px"> **Enternia** is a type of [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy) commonly found in form of essence, static and in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera icon" loading="lazy" width="auto" height="16px"> [rocks or asteroids](https://ceterai.github.io/MyEnternia/Wiki/Astera). This is the most common type of energy on [enterash](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enterash) planets and is considered to be the most powerful and hard to contain compared to other types - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> [ceternia](https://ceterai.github.io/MyEnternia/Wiki/Ceternia) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia).
 
 In the most extreme cases this kind of energy can break the boundaries of usual energy spectrum, creating an anomaly called the Void Energy. Areas with such snomalies are referred to as [Void](https://ceterai.github.io/MyEnternia/Wiki/Tags/Void).
 
 ## Damage
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" loading="lazy" width="auto" height="16px"> **Ionic** is the main damage type produced by enternia. It's a subtype of <img src="https://starbounder.org/mediawiki/images/1/15/Electric_%28Attack%29.png" alt="Electric icon" loading="lazy" width="16px" height="16px"> [Electric](https://starbounder.org/Weapons#Elemental_Damage) damage and is affected by <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [Electric Resistance](https://starbounder.org/Electric_Resistance), but unlike its base type, it doesn't apply <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified).  
-Instead, it applies different ionic effects, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock).
+Instead, it applies different [ionic effects](https://ceterai.github.io/MyEnternia/Wiki/Effects), like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock).
 
 Plasma projectiles often have **high speed** and can **ricoshet** off of surfaces.
 
@@ -43,7 +43,7 @@ Enternia is part of <img src="https://raw.githubusercontent.com/Ceterai/Enternia
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/enterash/rocks/ct_enterite_sample/icon.png" alt="Enterite Sample icon" loading="lazy" width="auto" height="16px"> [Enterite Sample](https://ceterai.github.io/MyEnternia/Wiki/EnteriteSample)
 
-### Items
+### [Items](https://ceterai.github.io/MyEnternia/Wiki/Items)
 
 #### Clothing
 

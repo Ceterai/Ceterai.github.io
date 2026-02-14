@@ -19,7 +19,7 @@ Species descriptions:
 
 When it comes to the difference between cultivated and wild ayakas, it's significantly hard to cultivate rare ayaka species, as most of them require very specific conditions to exist.
 
-This is also true when it comes to fruitfulness. <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [Ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya), the fruit of ayaka, are very hard to cultivate, thus [Ayaka Forests](https://ceterai.github.io/MyEnternia/Wiki/AyakaForest) and [Alterash Gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens) remain the main sources.
+This is also true when it comes to fruitfulness. <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [Ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya), the fruit of ayaka, are very hard to cultivate, thus <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Forest icon" loading="lazy" width="auto" height="16px"> [Ayaka Forests](https://ceterai.github.io/MyEnternia/Wiki/AyakaForest) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Alterash Gardens icon" loading="lazy" width="auto" height="16px"> [Alterash Gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens) remain the main sources.
 
 The most common species, or the common ayaka tree, however, is pretty cultivation-friendly and can grow almost anywhere.
 

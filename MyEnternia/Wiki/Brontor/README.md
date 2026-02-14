@@ -36,7 +36,7 @@ Parameters:
 
 ### Armored Crest
 
-Brontorous defences powered by [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse).
+Brontorous defences powered by [impulses](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#damage).
 Press - launches a Proto-Pulsar;
 Hold - a shotgun burst of Sticky Plasma.
 

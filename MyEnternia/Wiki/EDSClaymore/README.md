@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore.png" alt="EDS Claymore icon" loading="lazy" width="auto" height="16px"> **EDS Claymore** is a rare two-handed broadsword.
 
-**WIP** A massive defensive tool created by [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds). Perfect for close combat.  
+**WIP** A massive defensive tool created by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS). Perfect for close combat.  
 This bastion of EDS defence is a basic combat tool usually carried by EDS mechs or by EDS [arkanas](https://ceterai.github.io/MyEnternia/Wiki/Plasmasword).
 
 _Elerune CDR_ is an integrated blast system, an inherent part of an EDS Claymore, and provides blaster-like abilities to the tool, making it addtionally effective in middle-range combat too.

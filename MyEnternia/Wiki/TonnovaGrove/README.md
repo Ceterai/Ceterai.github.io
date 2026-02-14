@@ -1,6 +1,6 @@
 # Tonnova Grove
 
- **Tonnova Grove** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_bionid_loot.png" alt="Tonnova Grove icon" loading="lazy" width="auto" height="16px"> **Tonnova Grove** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
 This land is lit by all the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="icon" loading="lazy" width="auto" height="16px"> [tonnova](https://ceterai.github.io/MyEnternia/Wiki/TonnovaGrove) springs and trees. Watch out for falling <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_tonna.png" alt="Tonna icon" loading="lazy" width="auto" height="16px"> [tonnas](https://ceterai.github.io/MyEnternia/Wiki/Tonna)!
 

@@ -18,7 +18,7 @@ These can either be crafted or found in random alta pods on alterash planets.
 
 ### Contents
 
-The following protocol is designed to help with and regulate any excavation processes in [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Gheatorn) areas, but is also applicable to some extent for areas with similar ground density and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/Io#crystallic) climate, like gheaprism surfaces and certain [mical](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical) areas.
+The following protocol is designed to help with and regulate any excavation processes in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatorn icon" loading="lazy" width="auto" height="16px"> [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Gheatorn) areas, but is also applicable to some extent for areas with similar ground density and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/Io#crystallic) climate, like gheaprism surfaces and certain [mical](https://ceterai.github.io/MyEnternia/Wiki/Tags/Mical) areas.
 
 For the sake of navigation, the protocol is divided into cautionary, informational and directive articles.  
 Please refer to an according coordinator in case of any questions.

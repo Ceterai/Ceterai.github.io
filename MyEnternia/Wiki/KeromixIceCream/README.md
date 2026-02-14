@@ -24,7 +24,7 @@ Unlocks blueprints for:
 Can be crafted:
 
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_biomix_icecream-red.png" alt="Keromix Ice Cream icon" loading="lazy" width="auto" height="16px"> Keromix Ice Cream x*1*):
-  - `beakseed` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/e/ec/Beakseed.png" alt="Beakseed icon" loading="lazy" width="16px" height="16px"> [Beakseed](https://starbounder.org/Beakseed) x*1*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_gil.png" alt="Gil icon" loading="lazy" width="auto" height="16px"> [Gil](https://ceterai.github.io/MyEnternia/Wiki/Gil) x*1*
   - `snowball` x*1*
   - <img src="https://starbounder.org/mediawiki/images/9/92/Milk.png" alt="Milk icon" loading="lazy" width="8px" height="15px"> [Milk](https://starbounder.org/Milk) x*1*

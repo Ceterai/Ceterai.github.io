@@ -20,7 +20,7 @@ Radiomessages on pickup:
 ### Dual Blast
 
 Able to switch resulting energy from plasma balls to accelerated ions.
-Firemodes: [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma), [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic).
+Firemodes: [plasma](https://ceterai.github.io/MyEnternia/Wiki/Alternia#damage), [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage).
 
 Parameters:
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_pulsar.png" alt="Pulsar icon" loading="lazy" width="auto" height="16px"> **Pulsar** is a legendary two-handed electric shotgun.
 
-An [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) cannon made for heavy defensive combat. Covers the area in pulse blasts or charges up an Impulse Bomb.
+An [impulse](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#damage) cannon made for heavy defensive combat. Covers the area in pulse blasts or charges up an Impulse Bomb.
 
 ## Ingame
 

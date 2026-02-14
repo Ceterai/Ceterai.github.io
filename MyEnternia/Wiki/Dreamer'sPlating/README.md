@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier6/dreamer/chest/icon.png" alt="Dreamer's Plating icon" loading="lazy" width="auto" height="16px"> **Dreamer's Plating** is a legendary chest armor piece.
 
-Will protect you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) bursts whenever you receive damage.
+Will protect you with [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) bursts whenever you receive damage.
 
 ## Parameters
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang.png" alt="Ararang icon" loading="lazy" width="auto" height="16px"> **Ararang** is a rare one-handed poisonous boomerang.
 
-Made out of [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) tissue, it glows dimly in the dark. Watch out for spores!
+Made out of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) tissue, it glows dimly in the dark. Watch out for spores!
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang_2.png" alt="Ararangarang ★ icon" loading="lazy" width="auto" height="16px"> [Ararangarang ★](https://ceterai.github.io/MyEnternia/Wiki/Ararangarang) at the Weapon Upgrade Anvil.
 

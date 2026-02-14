@@ -25,8 +25,8 @@ Currently, alta researchers have discovered a pretty long list of species and su
 
 The list below contains the main superspecies discovered so far:
 
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Ionic icon" loading="lazy" width="12px" height="16px"> [Cal](Calin) (Crystals, Common)
-- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" loading="lazy" width="10px" height="14px"> [Calin](https://ceterai.github.io/MyEnternia/Wiki/Calocaves) (Crystal Caves or [Calocaves](https://ceterai.github.io/MyEnternia/Wiki/Calocaves))
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [Cal](https://starbounder.org/Crystal) (Crystals, Common)
+- <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Calin icon" loading="lazy" width="10px" height="14px"> [Calin](https://ceterai.github.io/MyEnternia/Wiki/Calocaves) (Crystal Caves or <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_calin_loot.png" alt="Calocaves icon" loading="lazy" width="auto" height="16px"> [Calocaves](https://ceterai.github.io/MyEnternia/Wiki/Calocaves))
 - <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="icon" loading="lazy" width="13px" height="12px"> [Calline Prime](https://ceterai.github.io/MyEnternia/Wiki/CrystallinePrime) (Crystalline, Prime)
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [Gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard) (Liquid Crystals)

@@ -19,7 +19,7 @@ Radiomessages on pickup:
 
 ### Pulsive Halter
 
-Provides full auto cannon bursts of high-velocity [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) that are able to pierce through targets.
+Provides full auto cannon bursts of high-velocity [impulses](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#damage) that are able to pierce through targets.
 
 Parameters:
 

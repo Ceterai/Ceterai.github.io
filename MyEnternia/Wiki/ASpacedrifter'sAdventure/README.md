@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/astera.png" alt="A Spacedrifter's Adventure icon" loading="lazy" width="auto" height="16px"> **A Spacedrifter's Adventure** is a legendary codex entry.
 
 An alta storybook about a [spacedrifter](https://ceterai.github.io/MyEnternia/Wiki/Spacedrifter) who went on a space adventure.  
-It describes what lies beyond [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera), and what challenges alta adventurers face in open space (and on moons).
+It describes what lies beyond <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera icon" loading="lazy" width="auto" height="16px"> [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera), and what challenges alta adventurers face in open space (and on moons).
 
 ## Ingame
 

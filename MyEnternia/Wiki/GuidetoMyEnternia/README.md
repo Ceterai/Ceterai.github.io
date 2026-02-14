@@ -83,13 +83,13 @@ A constantly spreading plant-like matter, that "warps" the surroundings it conta
 [Enchanted](https://ceterai.github.io/MyEnternia/Wiki/EnchantedMeadows)  
 Also known as Viona, enchanted areas are anomalous places where different types of energy merge and combine, creating a highly unstable environment.
 
-[EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)  
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS)  
 A militaristic alta faction centered around protecting altas against various threats. Lately, something went wrong with their command centers, leading to defensive technology going rogue.
 
-[Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea)  
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea)  
 A freedom-loving faction of mercenaries, rarely found in the wild. Unlike most altas, faradea mercs' lifestyle revolves around roaming the planet, scavenging for treasure.
 
-[Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera)  
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera icon" loading="lazy" width="auto" height="16px"> [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera)  
 The rare asteroids beyond the stardust eva sky, that hide rare, yet powerful treasure.
 
 Since altas are a very research-centered species, you will find many scientific alta factions along the way. For example:

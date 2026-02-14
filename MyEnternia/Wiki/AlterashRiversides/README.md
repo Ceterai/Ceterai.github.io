@@ -1,6 +1,6 @@
 # Alterash Riversides
 
- **Alterash Riversides** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Alterash Riversides icon" loading="lazy" width="auto" height="16px"> **Alterash Riversides** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
 This steppe area is riddled with rivers and underground waters and thus has rich vegetation that you would commonly find in places like these, like thickets of reeds and willow-like trees. [Altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) use this coastal zone for resorts and camping, using the reeds as crafting materials for tents and deck chairs. Underneath the ground you can find many different semi-flooded caves with crystal-clear water and interesting rock formations.
 

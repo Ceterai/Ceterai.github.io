@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_ion_reaper.png" alt="Ion Reaper ★ icon" loading="lazy" width="auto" height="16px"> **Ion Reaper ★** is a legendary two-handed electric shotgun.
 
-A true dreamer's weapon, a creation of chaos. A powerful electric blaster that launches double ricocheting [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) projectiles.
+A true dreamer's weapon, a creation of chaos. A powerful electric blaster that launches double ricocheting [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) projectiles.
 
 ## Ingame
 
@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 ### Ionic Barrage
 
-Covers the target in [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) strikes.
+Covers the target in [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) strikes.
 Press - a shotgun burst of Paired Ionic Charges;
 Hold - charges an electric Ion Rocket.
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Plasmora icon" loading="lazy" width="auto" height="16px"> **Plasmora** is a legendary one-handed electric machine gun.
 
-A small yet powerful [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) blaster made from bionix - an advanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [bion compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound).  
+A small yet powerful [plasma](https://ceterai.github.io/MyEnternia/Wiki/Alternia#damage) blaster made from bionix - an advanced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [bion compound](https://ceterai.github.io/MyEnternia/Wiki/BionCompound).  
 Popular among spacedrifters, travelers and some mercs, this combat tool provides significant power output while being relatively small.
 
 ## Ingame

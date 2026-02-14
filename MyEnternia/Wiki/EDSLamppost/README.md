@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/lamppost/icon.png" alt="EDS Lamppost icon" loading="lazy" width="auto" height="16px"> **EDS Lamppost** is an uncommon light source.
 
-An advanced reinforced [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) lamppost. Designed to be seen from long distances in dark and foggy environments.
+An advanced reinforced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) lamppost. Designed to be seen from long distances in dark and foggy environments.
 
 ## Ingame
 

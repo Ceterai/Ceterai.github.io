@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/hatch/icon.png" alt="EDS Hatch icon" loading="lazy" width="auto" height="16px"> **EDS Hatch** is an uncommon door.
 
-A reinforced [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) blast hatch. Be careful when standing on top of it!
+A reinforced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) blast hatch. Be careful when standing on top of it!
 
 ## Ingame
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/containers/icon.png" alt="EDS Containers icon" loading="lazy" width="auto" height="16px"> **EDS Containers** is a rare storage unit.
 
-An [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) crate containing cargo. What cargo? Who knows.
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) crate containing cargo. What cargo? Who knows.
 
 ## Ingame
 

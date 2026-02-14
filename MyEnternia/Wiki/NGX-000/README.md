@@ -14,7 +14,7 @@ Radiomessages on pickup:
 
 ### Nata's Impulse
 
-Blasts accelerated [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) enhanced with plasma. Hold to charge up power, speed and knockback.
+Blasts accelerated [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) [impulses](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#damage) enhanced with plasma. Hold to charge up power, speed and knockback.
 
 Parameters:
 

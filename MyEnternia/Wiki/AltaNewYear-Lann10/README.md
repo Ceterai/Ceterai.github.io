@@ -24,7 +24,7 @@ To all my beloved sisters across the stars,
 
 As Alecta 10 begins its first cycle, I write to you with warmth in my heart and hope for our shared future.
 
-Whether you find yourself beneath <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) skies, deep in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) labs, or aboard ships beneath [astera](https://ceterai.github.io/MyEnternia/Wiki/Astera), this moment connects us all.
+Whether you find yourself beneath <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) skies, deep in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [esetera](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime#esetera) labs, or aboard ships beneath <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera icon" loading="lazy" width="auto" height="16px"> [astera](https://ceterai.github.io/MyEnternia/Wiki/Astera), this moment connects us all.
 
 The new year arrives not with routines and deadlines - but with universal <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) light in our hearts.
 
@@ -50,9 +50,9 @@ Words from the Heart
 
 My dearest sisters,
 
-This past year brought challenges and triumphs. From [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) protecting borders, to [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) exploring frontiers, to every researcher pursuing knowledge - you contributed to our shared story.
+This past year brought challenges and triumphs. From <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) protecting borders, to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea) exploring frontiers, to every researcher pursuing knowledge - you contributed to our shared story.
 
-To gardeners tending [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove), scientists unraveling mysteries, guards keeping us safe, and every alta living her best life - thank you.
+To gardeners tending <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Grove icon" loading="lazy" width="auto" height="16px"> [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove), scientists unraveling mysteries, guards keeping us safe, and every alta living her best life - thank you.
 
 You are why our civilization thrives.
 

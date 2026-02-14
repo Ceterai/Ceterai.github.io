@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/proto_helmet/icon.png" alt="EDS Proto Helmet ★ icon" loading="lazy" width="auto" height="16px"> **EDS Proto Helmet ★** is a rare head armor piece.
 
-A heavy [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) headwear with enhanced power, protection and breath protection in exchange for energy.
+A heavy <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) headwear with enhanced power, protection and breath protection in exchange for energy.
 
 ## Ingame
 

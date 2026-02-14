@@ -1,6 +1,6 @@
 # Alterash Caves
 
- **Alterash Caves** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Alterash Caves icon" loading="lazy" width="auto" height="16px"> **Alterash Caves** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
 Lush shallow caves full of growth and prisms.
 

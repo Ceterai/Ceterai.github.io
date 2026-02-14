@@ -44,17 +44,17 @@ Alta tenants who are especially fond of avians will often gift you avian-made po
 
 ## [Floran](https://starbounder.org/Floran)
 
-Due to several instances of typical floran behaviour, they are listed in [alta botanics](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide) classification under the same category as venus flytraps, despite having a humanoid appearance and a superior level of intellect.
+Due to several instances of typical floran behaviour, they are listed in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Alta Botanics Guide ★ icon" loading="lazy" width="auto" height="16px"> [alta botanics](https://ceterai.github.io/MyEnternia/Wiki/AltaBotanicsGuide) classification under the same category as venus flytraps, despite having a humanoid appearance and a superior level of intellect.
 
 This was partially also done because Vessti, the lead floran co-researcher of florans, really liked these plants - "becaussse of their outlookss on life".
 
 Alta tenants who are especially fond of florans will often gift you plants bug-based food as rent.
 
-### [Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/AboutYaaraKeepers)
+### [Yaara Keepers](https://ceterai.github.io/MyEnternia/Wiki/YaaraKeeper)
 
 Altas have a special history with a subset of florans coming from yaara groves on some of the alterash planets. These fighters are born in yaara and always protect it from various threats - mainly from the warped infestation, and, well... altas, who are usually using yaara for various purposes, including creating energy, food, crystals, furniture, and much more.
 
-#### [Elin Gardens](https://ceterai.github.io/MyEnternia/Wiki/ElinGardens)
+#### Elin Gardens
 
 One of alta creations that heavily utilizes yaara groves are elin gardens - big underground artificial gardens, where altas grow more of themselves. Due to this vital dependency on yaara, altas are trying to make peace with yaara keepers where possible.
 
@@ -74,13 +74,13 @@ These wooden creatures are native to alterash starforests, even though quite rar
 
 Also fairly frequent guests at the **Gharmatai**, even more frequent than [floran hunters](https://starbounder.org/Floran_Hunting_Grounds#Tenant). Though not really florans, alta researchers put them in the same kingdom and humanoid class.
 
-Surprisingly, so far there didn't seem to be an [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) version of agarans to be discovered by altas, instead only being able to find them in mushroom patches on alien planets.
+Surprisingly, so far there didn't seem to be an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) version of agarans to be discovered by altas, instead only being able to find them in mushroom patches on alien planets.
 
 #### Arigarans
 
-That said, considering their compatibility with [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric), a biology-crazed alta research organization **Mita-3V Ordis** couldn't stay away and not develop an aric agaran - arigaran. A small settlement of these still resides on Mita-3, protected from their own "creators" by Alliana forces.
+That said, considering their compatibility with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric), a biology-crazed alta research organization **Mita-3V Ordis** couldn't stay away and not develop an aric agaran - arigaran. A small settlement of these still resides on Mita-3, protected from their own "creators" by Alliana forces.
 
-It's thanks to arigarans that a lot of aric forests are now inhabited by [arilings](https://ceterai.github.io/MyEnternia/Wiki/Ariling).
+It's thanks to arigarans that a lot of aric forests are now inhabited by arilings.
 
 ## [Glitch](https://starbounder.org/Glitch)
 
@@ -168,13 +168,13 @@ Big frog-like creatures that have more frog than a regular frog. Most of the tim
 
 #### Yaafroggs
 
-On some alterash planets, altas have created genetic hybrids between froggs and small native [yaafrogs](https://ceterai.github.io/MyEnternia/Wiki/Yaafrog) living inside [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove). These **yaafroggs** combine the size and intelligence of froggs with the distinctive orange-green coloration and yaara-adapted biology of their smaller cousins.
+On some alterash planets, altas have created genetic hybrids between froggs and small native yaafrogs living inside <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Grove icon" loading="lazy" width="auto" height="16px"> [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove). These **yaafroggs** combine the size and intelligence of froggs with the distinctive orange-green coloration and yaara-adapted biology of their smaller cousins.
 
 Alta researchers find yaafroggs particularly endearing, per Veta's note: 'A cute little frog that won't try to eat your breakfast. I think.' The genetic combination proved successful, resulting in friendly creatures that have become popular subjects for alta biological studies and companionship.
 
 #### Barafroggs
 
-Similar to yaafroggs, **barafroggs** are genetic hybrids between froggs and small riverside critters called [baratoads](https://ceterai.github.io/MyEnternia/Wiki/Baratoad). These hybrids inherited the prominent fins on their backs from baratoads, giving them superior swimming capabilities while maintaining the larger size and merchant tendencies of froggs.
+Similar to yaafroggs, **barafroggs** are genetic hybrids between froggs and small riverside critters called baratoads. These hybrids inherited the prominent fins on their backs from baratoads, giving them superior swimming capabilities while maintaining the larger size and merchant tendencies of froggs.
 
 The combination of frogg intelligence with baratoad aquatic adaptations makes barafroggs particularly well-suited for trading in coastal and aquatic settlements.
 
@@ -196,9 +196,9 @@ Never looking for a fight, most altas would never see a threat in a mostly passi
 
 Though seen as scary ghosts at first, altas found these void creatures to be quite peaceful and uneventful. Though any possible civilization of shadows remains a mystery to altas, their relationship seems to be mostly positive, especially when all encounters are happening expectedly.
 
-#### [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Ceternity)
+#### [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity)
 
-During this spooky alta holiday, altas often invite shadows to join them celebrating the night of  [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Ceternity) - a very fitting place for a sudden spook.
+During this spooky alta holiday, altas often invite shadows to join them celebrating the night of  [Ceternity](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ceternity) - a very fitting place for a sudden spook.
 
 ### [Creeplings](https://starbounder.org/Creepling_Set)
 
@@ -206,15 +206,15 @@ While not generally very visually appealing, altas find creeplings exceptionally
 
 #### Mutation & Infestation
 
-Studying creeplings helped understand hybrid patterns of [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped) mutation, the way it spread to a new object and adapts to its structure and biology.
+Studying creeplings helped understand hybrid patterns of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest) mutation, the way it spread to a new object and adapts to its structure and biology.
 
 ### [Larvlings](https://starbounder.org/Larva_Set)
 
-The [midnight hive](https://starbounder.org/Hive) ecosystem is fairly familiar to altas, with many [ionic hives](https://github.com/Ceterai/Enternia/wiki/Ionic-Hive) residing in depths of alterash prime planets.
+The [midnight hive](https://starbounder.org/Hive) ecosystem is fairly familiar to altas, with many <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Ionic Hive icon" loading="lazy" width="auto" height="16px"> [ionic hives](https://ceterai.github.io/MyEnternia/Wiki/IonicHive) residing in depths of alterash prime planets.
 
 That said, due to the shy nature of larva, or the **maggot folk**, altas have no problem finding common ground with big larvlings, with the main caveat being that altas... eat bugs.
 
-#### [Ionic Hive](https://github.com/Ceterai/Enternia/wiki/Ionic-Hive)
+#### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier3.png" alt="Ionic Hive icon" loading="lazy" width="auto" height="16px"> [Ionic Hive](https://ceterai.github.io/MyEnternia/Wiki/IonicHive)
 
 The world of ionic hives is covered extensively by **alta insectology**, and sentient larvlings are not only known, but also accepted as co-researchers of their own nature.
 

@@ -26,7 +26,7 @@ While mostly harmless by itself, the dangers of warped climate comes from both e
 
 It's very hard to control the warped expansion, but it can be contained with certain precautions.
 
-Still, its containment is one of primary goals as of right now, since it endangers [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove) it expands on.
+Still, its containment is one of primary goals as of right now, since it endangers <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Grove icon" loading="lazy" width="auto" height="16px"> [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove) it expands on.
 
 The warped growth itself consists of <img src="https://starbounder.org/mediawiki/images/f/f8/Glow_Fibre.png" alt="Glow Fibre icon" loading="lazy" width="15px" height="14px"> [glow fibres](https://starbounder.org/Glow_Fibre) and [yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur).
 

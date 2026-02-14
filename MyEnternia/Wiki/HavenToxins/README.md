@@ -22,7 +22,7 @@ While [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) nature lo
 
 That's the main reason why haven growth is never mentioned in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/gyera.png" alt="Gyera Park Guide icon" loading="lazy" width="auto" height="16px"> [Gyera Park Guides](https://ceterai.github.io/MyEnternia/Wiki/GyeraParkGuide) - it is simply incompatible with the usual contents.
 
-It needs to be mentioned that haven toxins are far less powerful or harmful compared to [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) toxins, even when compared to edible <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"> [aric sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings).
+It needs to be mentioned that haven toxins are far less powerful or harmful compared to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) toxins, even when compared to edible <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/aric.png" alt="Aric Sporelings icon" loading="lazy" width="auto" height="16px"> [aric sporelings](https://ceterai.github.io/MyEnternia/Wiki/AricSporelings).
 
 ## Usage
 

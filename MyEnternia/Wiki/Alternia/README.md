@@ -9,7 +9,7 @@ Crystals with an overflowing amount of saturated alternia can be dangerous, as t
 ## Damage
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> **Plasma** is the main damage type produced by alternia. It's a subtype of <img src="https://starbounder.org/mediawiki/images/1/15/Electric_%28Attack%29.png" alt="Electric icon" loading="lazy" width="16px" height="16px"> [Electric](https://starbounder.org/Weapons#Elemental_Damage) damage and is affected by <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [Electric Resistance](https://starbounder.org/Electric_Resistance), but unlike its base type, it doesn't apply <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified).  
-Instead, it applies different plasma effects, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn).
+Instead, it applies different [plasma effects](https://ceterai.github.io/MyEnternia/Wiki/Effects), like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_plasma_burn.png" alt="Plasma Burn icon" loading="lazy" width="auto" height="16px"> [Plasma Burn](https://ceterai.github.io/MyEnternia/Wiki/PlasmaBurn).
 
 Plasma projectiles often have **medium speed** and behave similar to **fire-based projectiles**.
 
@@ -39,7 +39,7 @@ Alternia is part of <img src="https://raw.githubusercontent.com/Ceterai/Enternia
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_alternia_crystal/icon.png" alt="Alternia Crystal icon" loading="lazy" width="auto" height="16px"> [Alternia Crystal](https://ceterai.github.io/MyEnternia/Wiki/AlterniaCrystal)
 
-### Items
+### [Items](https://ceterai.github.io/MyEnternia/Wiki/Items)
 
 #### Clothing
 

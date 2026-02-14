@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"> **Faradeus Prime ★** is a legendary one-handed electric machine gun.
 
-These [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) weapons were enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, increasing their potential to the maximum.  
+These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea) weapons were enhanced with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) energy, increasing their potential to the maximum.  
 A find like this is pretty rare even among the mercs, but can sometimes be seen being wielded by some [faradea legends](https://ceterai.github.io/MyEnternia/Wiki/FaradeaLegend).
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" width="auto" height="16px"> [Faradeus](https://ceterai.github.io/MyEnternia/Wiki/Faradeus).
@@ -22,7 +22,7 @@ Radiomessages on pickup:
 
 ### Mission Impossible
 
-Instructions are simple - just hold the trigger until mission is clear! Your [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) blasts can now bounce from surfaces, too.
+Instructions are simple - just hold the trigger until mission is clear! Your [plasma](https://ceterai.github.io/MyEnternia/Wiki/Alternia#damage) blasts can now bounce from surfaces, too.
 
 Parameters:
 

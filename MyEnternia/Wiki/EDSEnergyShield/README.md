@@ -4,7 +4,7 @@
 
 An energy shield that will expire once broken or overtime.  
 This variation of a <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_energy_shield/ct_static_shield.png" alt="Static Shield icon" loading="lazy" width="auto" height="16px"> [static shield](https://ceterai.github.io/MyEnternia/Wiki/StaticShield) was produced using mical crystals, giving it a dark crimson tint.  
-Alta: A static shield that looks like it came from [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) technology.
+Alta: A static shield that looks like it came from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) technology.
 
 Applied by following items:
 

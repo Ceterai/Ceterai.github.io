@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 ### Plasma Blast
 
-A standard [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) discharger.
+A standard [plasma](https://ceterai.github.io/MyEnternia/Wiki/Alternia#damage) discharger.
 Firemodes: auto, semiauto, single.
 
 Parameters:

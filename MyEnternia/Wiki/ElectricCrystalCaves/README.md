@@ -1,6 +1,6 @@
 # Electric Crystal Caves
 
- **Electric Crystal Caves** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Electric Crystal Caves icon" loading="lazy" width="auto" height="16px"> **Electric Crystal Caves** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
 Well-lit crystallic caves full of hidden <img src="https://starbounder.org/mediawiki/images/b/bf/Tesla_Spike.png" alt="Tesla Spike icon" loading="lazy" width="12px" height="12px"> [tesla spikes](https://starbounder.org/Tesla_Spike) and other hidden [electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric) [traps](https://ceterai.github.io/MyEnternia/Wiki/Traps).
 

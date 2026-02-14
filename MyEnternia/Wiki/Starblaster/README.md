@@ -16,7 +16,7 @@ Radiomessages on pickup:
 
 ### Meteoblast
 
-Launches powerful meteorite shards called [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera)'s Shards.
+Launches powerful meteorite shards called <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera icon" loading="lazy" width="auto" height="16px"> [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera)'s Shards.
 
 Parameters:
 

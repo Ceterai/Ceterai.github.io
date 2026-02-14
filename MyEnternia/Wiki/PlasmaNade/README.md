@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_plasma_nade.png" alt="Plasma Nade icon" loading="lazy" width="auto" height="16px"> **Plasma Nade** is a rare electric throwable item.
 
-A blast device that bursts with [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) on impact. Provides lasting damage from blobs of plasma.
+A blast device that bursts with [plasma](https://ceterai.github.io/MyEnternia/Wiki/Alternia#damage) on impact. Provides lasting damage from blobs of plasma.
 
 ## Usage
 

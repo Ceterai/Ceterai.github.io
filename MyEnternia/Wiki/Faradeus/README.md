@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus.png" alt="Faradeus icon" loading="lazy" width="auto" height="16px"> **Faradeus** is a rare one-handed electric machine gun.
 
-A part of a usually dual combo - these machine blasters are often used by [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) crews.  
+A part of a usually dual combo - these machine blasters are often used by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea) crews.  
 Compact yet effective - they are able to rapidly generate small plasmic charges without big reload times.
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"> [Faradeus Prime ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeusPrime) at the Weapon Upgrade Anvil.
@@ -22,7 +22,7 @@ Radiomessages on pickup:
 
 ### Mission Clear
 
-Instructions are simple - just hold the trigger until mission is clear! For an experienced [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) merc this is the only outcome.
+Instructions are simple - just hold the trigger until mission is clear! For an experienced <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea) merc this is the only outcome.
 
 Parameters:
 

@@ -9,7 +9,7 @@ An alta pad with heat-preserving casing for usage in below-zero environments. Us
 
 Species descriptions:
 
-- Alta: These pads preserve heat and contain warm clothes inside. I think they're usually used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) in [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).
+- Alta: These pads preserve heat and contain warm clothes inside. I think they're usually used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Tavriya icon" loading="lazy" width="auto" height="16px"> [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).
 
 Radiomessages on pickup:
 

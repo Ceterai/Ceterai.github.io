@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_perolic_glow.png" alt="Perolic Shroom icon" loading="lazy" width="auto" height="16px"> **Perolic Shroom** is an uncommon tree sapling.
 
-This [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) shroom has a bunch of weird spikes on its cap.
+This <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) shroom has a bunch of weird spikes on its cap.
 
 ## Ingame
 

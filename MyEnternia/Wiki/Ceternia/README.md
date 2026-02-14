@@ -4,12 +4,12 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/cetersphere.png" alt="icon" loading="lazy" width="auto" height="16px"> **Ceternia** is a type of [energy](https://ceterai.github.io/MyEnternia/Wiki/Io#energy) commonly found in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_yaara_root.png" alt="icon" loading="lazy" width="auto" height="16px"> [plants](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove). This is the most common type of energy on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets and is considered to be the most safe and harmless compared to other types - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_ionic.png" alt="icon" loading="lazy" width="auto" height="16px"> [enternia](https://ceterai.github.io/MyEnternia/Wiki/Enternia).
 
-While most plants have pure ceternia energy flowing through them, due to [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) influence a lot of plants got overly saturated with a more prominent type of energy - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia). Plants with such saturation can be commonly found in [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove).
+While most plants have pure ceternia energy flowing through them, due to [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) influence a lot of plants got overly saturated with a more prominent type of energy - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_plasma.png" alt="icon" loading="lazy" width="auto" height="16px"> [alternia](https://ceterai.github.io/MyEnternia/Wiki/Alternia). Plants with such saturation can be commonly found in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_yaara_loot.png" alt="Yaara Grove icon" loading="lazy" width="auto" height="16px"> [yaara groves](https://ceterai.github.io/MyEnternia/Wiki/YaaraGrove).
 
 ## Damage
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/damage/ct_impulse.png" alt="icon" loading="lazy" width="auto" height="16px"> **Impulse** is the main damage type produced by ceternia. It's a subtype of <img src="https://starbounder.org/mediawiki/images/1/15/Electric_%28Attack%29.png" alt="Electric icon" loading="lazy" width="16px" height="16px"> [Electric](https://starbounder.org/Weapons#Elemental_Damage) damage and is affected by <img src="https://starbounder.org/mediawiki/images/4/42/Status_Electric_Resistance.png" alt="Electric Resistance icon" loading="lazy" width="16px" height="16px"> [Electric Resistance](https://starbounder.org/Electric_Resistance), but unlike its base type, it doesn't apply <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified).  
-Instead, it applies different impulse effects, like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis).
+Instead, it applies different [impulse effects](https://ceterai.github.io/MyEnternia/Wiki/Effects), like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_pulse_paralysis.png" alt="Pulse Paralysis icon" loading="lazy" width="auto" height="16px"> [Pulse Paralysis](https://ceterai.github.io/MyEnternia/Wiki/PulseParalysis).
 
 Impulse projectiles often have **super high speed** and behave similar to **laser projectiles**. They usually can also **pierce** through their targets.
 
@@ -39,7 +39,7 @@ Ceternia is part of <img src="https://raw.githubusercontent.com/Ceterai/Enternia
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/yaara/ct_yaara_heart/icon.png" alt="Yaara Heart icon" loading="lazy" width="auto" height="16px"> [Yaara Heart](https://ceterai.github.io/MyEnternia/Wiki/YaaraHeart)
 
-### Items
+### [Items](https://ceterai.github.io/MyEnternia/Wiki/Items)
 
 #### Clothing
 

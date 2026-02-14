@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_faradea_scavenger.png" alt="FD Scavenger ★ icon" loading="lazy" width="auto" height="16px"> **FD Scavenger ★** is a legendary two-handed electric sniper rifle.
 
-A heavy [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) sniper rifle that accelerates its projectiles with electric impulses. Often carried by heavy [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) mercs.
+A heavy [plasma](https://ceterai.github.io/MyEnternia/Wiki/Alternia#damage) sniper rifle that accelerates its projectiles with electric impulses. Often carried by heavy <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea) mercs.
 
 ## Ingame
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_wires/icon.png" alt="EDS Halter Wires icon" loading="lazy" width="auto" height="16px"> **EDS Halter Wires** is an uncommon electric trap.
 
-Wires from an [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) G3 Halter. <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified).  
+Wires from an <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) G3 Halter. <img src="https://starbounder.org/mediawiki/images/3/34/Status_Electrified.png" alt="Electrified icon" loading="lazy" width="16px" height="16px"> [Electrified](https://starbounder.org/Electrified).  
 These were created to trap small creatures in place, as well as rogue or hostile machinery.
 
 ## Ingame

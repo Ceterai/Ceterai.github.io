@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/chest/icon.png" alt="EDS Body Armor icon" loading="lazy" width="auto" height="16px"> **EDS Body Armor** is a rare chest armor piece.
 
-An [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) armor upgrade for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security units. Now has Life Support module integrated, although half as powerful as the Security Pack.  
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) armor upgrade for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security units. Now has Life Support module integrated, although half as powerful as the Security Pack.  
 It compensates lesser effect with mobility and protection, as well as a freen back slot.
 
 ## Ingame

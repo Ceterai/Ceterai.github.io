@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/pod/icon.png" alt="EDS Pod ★★ icon" loading="lazy" width="auto" height="16px"> **EDS Pod ★★** is a rare storage unit.
 
-An armored pod with red markings all over it. Can be used as a storage unit. Belongs to [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds).  
+An armored pod with red markings all over it. Can be used as a storage unit. Belongs to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS).  
 Portable alta containers, or alta pods for short, are a standardized way of transporting equipment in a safe, airtight environment.
 
 ## Ingame

@@ -1,6 +1,6 @@
 # Ayaka Forest
 
- **Ayaka Forest** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_ayaka_loot.png" alt="Ayaka Forest icon" loading="lazy" width="auto" height="16px"> **Ayaka Forest** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
 A piece of land overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/ayaka/ct_ayaka_tree.png" alt="Ayaka icon" loading="lazy" width="auto" height="16px"> [ayaka](https://ceterai.github.io/MyEnternia/Wiki/Ayaka) trees. The ground is strewn with long ripe <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_aya.png" alt="Aya icon" loading="lazy" width="auto" height="16px"> [ayas](https://ceterai.github.io/MyEnternia/Wiki/Aya), and the dense caves are drowning in roots with [ayaka sap](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) soaking from every corner.
 

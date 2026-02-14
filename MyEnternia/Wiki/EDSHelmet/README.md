@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/helmet/icon.png" alt="EDS Helmet icon" loading="lazy" width="auto" height="16px"> **EDS Helmet** is a rare head armor piece.
 
-An advanced headwear upgrade for [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) security units.  
+An advanced headwear upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) security units.  
 This cap-like metal headwear is supplied with a standardized <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/other/eds_visor/icon.png" alt="EDS Visor icon" loading="lazy" width="auto" height="16px"> [EDS visor](https://ceterai.github.io/MyEnternia/Wiki/EDSVisor) module in place.
 
 ## Ingame

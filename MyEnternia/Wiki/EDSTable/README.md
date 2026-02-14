@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/table/icon.png" alt="EDS Table icon" loading="lazy" width="auto" height="16px"> **EDS Table** is an uncommon piece of furniture.
 
-A dark armored metal table with a red label on the back. It says '[EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)'.
+A dark armored metal table with a red label on the back. It says '<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS)'.
 
 ## Ingame
 

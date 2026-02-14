@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/emblems/eds/body.png" alt="EDS Emblem icon" loading="lazy" width="auto" height="16px"> **EDS Emblem** is a common decorative object.
 
-An emblem marking [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) territory or facility. Everything is most likely highly protected.
+An emblem marking <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) territory or facility. Everything is most likely highly protected.
 
 ## Ingame
 

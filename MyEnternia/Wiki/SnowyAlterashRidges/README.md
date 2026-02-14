@@ -1,6 +1,6 @@
 # Snowy Alterash Ridges
 
- **Snowy Alterash Ridges** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Snowy Alterash Ridges icon" loading="lazy" width="auto" height="16px"> **Snowy Alterash Ridges** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
 Cool ridgy surfaces semi-covered with snow.
 

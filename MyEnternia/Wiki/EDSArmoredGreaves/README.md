@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/tier5/eds/legwear/icon.png" alt="EDS Armored Greaves icon" loading="lazy" width="auto" height="16px"> **EDS Armored Greaves** is a rare leg armor piece.
 
-An advanced legwear upgrade for [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) security units with added leg protection.  
+An advanced legwear upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) security units with added leg protection.  
 Its full focus goes to reinforcing critical parts of the leg - feet and knees. This creates a good weight-defence balance.
 
 ## Ingame

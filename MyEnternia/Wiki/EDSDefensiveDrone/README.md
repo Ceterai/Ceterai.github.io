@@ -27,7 +27,7 @@ Mical concentrators are a good at accumulating lost of energy into a single char
 ### EDS Drone
 
 Has status effects: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_sensitive_electronics.png" alt="Sensitive Electronics icon" loading="lazy" width="auto" height="16px"> [Sensitive Electronics](https://ceterai.github.io/MyEnternia/Wiki/SensitiveElectronics) and <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_autoeffect/ct_autoshielder_eds.png" alt="EDS Autoshielder icon" loading="lazy" width="auto" height="16px"> [EDS Autoshielder](https://ceterai.github.io/MyEnternia/Wiki/EDSAutoshielder).
-Deals [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) damage on touch, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock).  
+Deals [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) damage on touch, applying <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_ionic_shock.png" alt="Ionic Shock icon" loading="lazy" width="auto" height="16px"> [Ionic Shock](https://ceterai.github.io/MyEnternia/Wiki/IonicShock).  
 Its heavy armored structure was designed and manufactured by EDS.
 
 ## Sources

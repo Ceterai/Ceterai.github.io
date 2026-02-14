@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_impulse_nade.png" alt="Impulse Nade icon" loading="lazy" width="auto" height="16px"> **Impulse Nade** is a rare electric throwable item.
 
-A condensed electric [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) blast that will be released on impact or after 4 seconds of flight.
+A condensed electric [impulse](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#damage) blast that will be released on impact or after 4 seconds of flight.
 
 ## Usage
 

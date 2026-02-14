@@ -31,7 +31,7 @@ This is one of the reasons why most alta drilling and mining tools apply a stabl
 
 Sometimes such tools have settings that allow you to increase the current, but these should be used with extreme caution.
 
-Gheatsyn grows differently in different conditions. For example, in [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Gheatorn), it is mixed with cave rocks, sometimes becoming noticeably more difficult to extract.
+Gheatsyn grows differently in different conditions. For example, in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_gheatsyn_loot.png" alt="Gheatorn icon" loading="lazy" width="auto" height="16px"> [gheatorn](https://ceterai.github.io/MyEnternia/Wiki/Gheatorn), it is mixed with cave rocks, sometimes becoming noticeably more difficult to extract.
 
 At the same time, gheatsyn growing in gheaprisms is quite fragile, but is very difficult to handle with electricity, since it grows in a rather specific atmosphere, which creates a fairly high resistance to any current.
 

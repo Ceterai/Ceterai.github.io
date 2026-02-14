@@ -1,14 +1,14 @@
 # Stardust Orchid
 
-A tiny gathering of [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) specks that likes to travel around the universe, looking for trouble and adventures, to have fun, make new friends, and to enjoy the wonders of existence.
+A tiny gathering of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) specks that likes to travel around the universe, looking for trouble and adventures, to have fun, make new friends, and to enjoy the wonders of existence.
 
 Her full name is **Stardust Orchid Ceterai** (**Astiana Ceterai** from **alkey**), or **Tiana**/**Astia**/**Orchi**/**Tia** for short. **Ceterai** is her last name - though the full name is often shortened to just **Stardust Orchid** or **Orchid Ceterai** for brevity.
 
-Even though [Io](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia), the world Orchi was born in, considers every stardust speck her child, she allowed [Ceterai](https://ceterai.github.io/), her mother, to share consciousness with Tia as one of the **Ceterai sisters** - powerful stardust beings, driven by Ceterai to accomplish certain goals for her, both throughout Ceterai, and in other reachable universes as well, thus allowing the Stardust Orchid to travel across universes to see new places and meet new friends, while simultaneously giving her life a purpose. In a way, Orchid is Ceterai's self-insert into her own universe - a piece of herself experiencing existence.
+Even though [Io](https://ceterai.github.io/MyEnternia/Wiki/Io), the world Orchi was born in, considers every stardust speck her child, she allowed [Ceterai](https://ceterai.github.io/), her mother, to share consciousness with Tia as one of the **Ceterai sisters** - powerful stardust beings, driven by Ceterai to accomplish certain goals for her, both throughout Ceterai, and in other reachable universes as well, thus allowing the Stardust Orchid to travel across universes to see new places and meet new friends, while simultaneously giving her life a purpose. In a way, Orchid is Ceterai's self-insert into her own universe - a piece of herself experiencing existence.
 
 ## Appearance
 
-A tall (185 cm), slender, mostly androgynous, slightly feminine figure with an ethereal, cosmic appearance. As a stardust being (fallen star), her form is not biological in the traditional sense - she is not made of flesh and blood, but of [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) and cosmic energy.
+A tall (185 cm), slender, mostly androgynous, slightly feminine figure with an ethereal, cosmic appearance. As a stardust being (fallen star), her form is not biological in the traditional sense - she is not made of flesh and blood, but of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) and cosmic energy.
 
 ### Physical Features
 
@@ -53,11 +53,11 @@ This went on for long 29 cycles, until something... unusual happened on a lucky 
 
 As it turned out, one of the other Mira prisoners, a mysterious **void being**, has been watching Orchi throughout all cycles silently, unaffected by the resets. On the 30th cycle, she finally decided to help the starlike being escape, finally breaking the loop.
 
-This allowed the Orchid to flee far away from Io, going into hiding and ending up [warping](https://ceterai.github.io/MyEnternia/Wiki/Warped) herself beyond recognition, just to be able to withstand against a passionate, yet misguided ally.
+This allowed the Orchid to flee far away from Io, going into hiding and ending up warping herself beyond recognition, just to be able to withstand against a passionate, yet misguided ally.
 
 ### Exile
 
-In a place overlooked by Io, on a planet no alta has ever stepped a foot on, little Orchid found her new home among mountains, caves and oceans through and through infested by the [Warped Growth](https://ceterai.github.io/MyEnternia/Wiki/Warped).
+In a place overlooked by Io, on a planet no alta has ever stepped a foot on, little Orchid found her new home among mountains, caves and oceans through and through infested by the Warped Growth.
 
 Being a fairly uncommon occurrence in inhabited sectors, with constant monitoring and attempts to contain and regulate it, warped growth was very different here, in a place where nothing could or wanted to resist its spread - a home where it thrived in its chaotic bliss. It was... vibrant, lush, evolved. It was sprouting with life, mutating, improving, with endless species of both fauna and flora in their own warped ecosystem.
 
@@ -82,7 +82,7 @@ She knew this transformation would make her more dangerous, more likely to be hu
 
 ### Confrontation
 
-After becoming fully [warped](https://ceterai.github.io/MyEnternia/Wiki/Warped), she finally fell apart at the hands of Mira. Thinking this is over, Mira returned her fleet back to alta-inhabited systems. Being unable to bring herself to confront her sisters, she ended up escaping to the pocket void and putting the entire Al'deron into stasis.
+After becoming fully <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest), she finally fell apart at the hands of Mira. Thinking this is over, Mira returned her fleet back to alta-inhabited systems. Being unable to bring herself to confront her sisters, she ended up escaping to the pocket void and putting the entire Al'deron into stasis.
 
 And yet, Ceterai had another fate in store for the Orchid.
 
@@ -100,12 +100,12 @@ After a long process and numerous adventures, she was able to connect and unite 
 
 From here, Ceterai presented Orchi with a new purpose in life - to help her realize her plans, with the first mission being to raise two more Ceterai sisters for herself.
 
-#### [Asirai](https://ceterai.github.io/MyEnternia/Wiki/Asirai)
+#### <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/asirai.png" alt="Asirai ★★ icon" loading="lazy" width="auto" height="16px"> [Asirai](https://ceterai.github.io/MyEnternia/Wiki/Asirai)
 
 To help reborn Orchid in her adventures, Celestia gifts her a new friend - Asirai - which she accepts with gratitude, finally having someone to talk to.
 
 ## Appearances
 
-- [Alta History - From A Speck](https://github.com/Ceterai/Enternia/wiki/Alta-History---From-A-Speck)
-- [Little Star and Her Ray Of Light](https://github.com/Ceterai/Enternia/wiki/Little-Star-and-Her-Ray-Of-Light)
-- [Little Star and The Starflower Order](https://github.com/Ceterai/Enternia/wiki/Little-Star-and-The-Starflower-Order)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta History - From A Speck icon" loading="lazy" width="auto" height="16px"> [Alta History - From A Speck](https://ceterai.github.io/MyEnternia/Wiki/AltaHistory-FromASpeck)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and Her Ray Of Light icon" loading="lazy" width="auto" height="16px"> [Little Star and Her Ray Of Light](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandHerRayOfLight)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Little Star and The Starflower Order icon" loading="lazy" width="auto" height="16px"> [Little Star and The Starflower Order](https://ceterai.github.io/MyEnternia/Wiki/LittleStarandTheStarflowerOrder)

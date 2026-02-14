@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/lifechamber/icon.png" alt="EDS Lifechamber icon" loading="lazy" width="auto" height="16px"> **EDS Lifechamber** is a legendary object.
 
-A special [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) healing station. Provides healing and protective effects.
+A special <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) healing station. Provides healing and protective effects.
 
 ## Ingame
 

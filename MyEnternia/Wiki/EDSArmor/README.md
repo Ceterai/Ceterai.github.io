@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/eds.png" alt="EDS Armor icon" loading="lazy" width="auto" height="16px"> **EDS Armor** is a rare crafting material.
 
-Dark metal compound plate made out of multiple layers of deffirent materials. [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)-approved.  
+Dark metal compound plate made out of multiple layers of deffirent materials. <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS)-approved.  
 Unlike <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/bion.png" alt="Bion Compound icon" loading="lazy" width="auto" height="16px"> [bion compounds](https://ceterai.github.io/MyEnternia/Wiki/BionCompound), the EDS Armor Unit is a composite compound mostly made from different metals. It has a similar shine to it, but is much harder then any <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/bionid.png" alt="Bionics icon" loading="lazy" width="auto" height="16px"> [bionic](https://ceterai.github.io/MyEnternia/Wiki/Bionics).  
 Due to its excellent armor capabilities, this compound is used outside of just EDS technology.
 

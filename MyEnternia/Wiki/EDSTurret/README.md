@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/turret/icon.png" alt="EDS Turret icon" loading="lazy" width="auto" height="16px"> **EDS Turret** is a rare electric wiring component.
 
-An armored automated security turret. Seems like anyone could become its target. Mark on the back says '[EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)'.
+An armored automated security turret. Seems like anyone could become its target. Mark on the back says '<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS)'.
 
 ## Ingame
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/aichips/ct_eds_ai_chip.png" alt="EDS A.I. Chip ★ icon" loading="lazy" width="auto" height="16px"> **EDS A.I. Chip ★** is a rare AI chip.
 
-An [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) command center interface chip. _With Customizable A.I.: Can be installed on S.A.I.L.'s terminal. Highly overwritive._  
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) command center interface chip. _With Customizable A.I.: Can be installed on S.A.I.L.'s terminal. Highly overwritive._  
 This A.I. chip is constructed by interplanetary standards, though its software is purely alta-native, meaning it performs similar to a datamass.
 
 ## Ingame

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_broken/icon.png" alt="Broken EDS Halter icon" loading="lazy" width="auto" height="16px"> **Broken EDS Halter** is an uncommon trap.
 
-A defensive [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. This one is broken.  
+A defensive <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. This one is broken.  
 These were created to trap small creatures in place, as well as rogue or hostile machinery.
 
 ## Ingame

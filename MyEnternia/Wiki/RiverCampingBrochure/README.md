@@ -15,7 +15,7 @@ Species descriptions:
 
 This season we're hosting a special event at our party camp!
 
-Here, in the middle of [alterash riversides](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides), one biggest thing to have is... swimming attire! Especially now that an official beach resort "Auroza" is finally open!!!
+Here, in the middle of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Alterash Riversides icon" loading="lazy" width="auto" height="16px"> [alterash riversides](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides), one biggest thing to have is... swimming attire! Especially now that an official beach resort "Auroza" is finally open!!!
 
 Come to the grand opening and receive gifts for participating in the party events!
 

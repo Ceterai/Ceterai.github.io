@@ -21,7 +21,7 @@ The sky above <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/
 
 No matter when you raise your head, it always seems as if above you, high in the sky, there is an endless, crystal-clear ocean, full of coral caramel reefs, beautiful clots of sugar foam and magical, distant dreams and wishes.
 
-Many altas are familiar with the desire to get out into the quiet [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens), lie down in the grass covered with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), and, carefree looking at the sky, dream about anything at all.
+Many altas are familiar with the desire to get out into the quiet <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Alterash Gardens icon" loading="lazy" width="auto" height="16px"> [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens), lie down in the grass covered with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust), and, carefree looking at the sky, dream about anything at all.
 
 After all, somewhere up there, in the distance, brave heavenly guardians fly behind the clouds and protect sisters in trouble!
 

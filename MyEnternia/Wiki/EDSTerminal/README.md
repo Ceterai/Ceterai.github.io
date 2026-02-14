@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/terminal/icon.png" alt="EDS Terminal icon" loading="lazy" width="auto" height="16px"> **EDS Terminal** is a common wiring component.
 
-A militaristic protected terminal owned by [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds). Seems like it'll keep working under any conditions.
+A militaristic protected terminal owned by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS). Seems like it'll keep working under any conditions.
 
 ## Ingame
 

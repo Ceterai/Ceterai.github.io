@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_thermomix_nade-diy.png" alt="Handmade Thermomix icon" loading="lazy" width="auto" height="16px"> **Handmade Thermomix** is a common fiery throwable item.
 
-A piece of craftsmanship made by an aspiring [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) merc. Not as efficient as a manufactured version, but still quite good.  
+A piece of craftsmanship made by an aspiring <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea) merc. Not as efficient as a manufactured version, but still quite good.  
 No markings, a handmade casing and an amature mix of volatile ingredients that somehow resulted in something useful.
 
 ## Ingame

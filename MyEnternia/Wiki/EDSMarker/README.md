@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/haulters/haulter_marker/icon.png" alt="EDS Marker icon" loading="lazy" width="auto" height="16px"> **EDS Marker** is an uncommon object.
 
-A defensive [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. This one was repurposed to mark a nearby threat.  
+A defensive <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS) structure called 'Size-3 Grounded Halter', or a G3 Halter, for short. This one was repurposed to mark a nearby threat.  
 Initially, these were created to trap small creatures in place, as well as rogue or hostile machinery.
 
 ## Ingame

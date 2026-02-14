@@ -37,7 +37,7 @@ Parameters:
 
 ### Protos Hevikai
 
-A set of [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) blast modes in one.
+A set of [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) blast modes in one.
 Press - burst with Ionic Charges;
 Hold - discharge clouds of Ion Trails.
 

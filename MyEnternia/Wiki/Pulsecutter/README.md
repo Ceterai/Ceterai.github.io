@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter.png" alt="Pulsecutter icon" loading="lazy" width="auto" height="16px"> **Pulsecutter** is a rare one-handed electric pistol.
 
-This environmental tool is usually used to cut hard materials with rapid and long targeted [impulses](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse).
+This environmental tool is usually used to cut hard materials with rapid and long targeted [impulses](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#damage).
 
 Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" width="auto" height="16px"> [Hyperblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Hyperblaster) at the Weapon Upgrade Anvil.
 

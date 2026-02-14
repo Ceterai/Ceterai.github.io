@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/sona.png" alt="Sona Soldier's Notes icon" loading="lazy" width="auto" height="16px"> **Sona Soldier's Notes** is a rare codex entry.
 
-A snow-white paper with notes made by an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) [sona soldier](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) about the icy climate of [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).  
+A snow-white paper with notes made by an [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) [sona soldier](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) about the icy climate of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Tavriya icon" loading="lazy" width="auto" height="16px"> [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).  
 The paper also depicts further plans for an exploration task for building a bridge over a canyon - a common occurrence for places like tavriya.
 
 ## Ingame
@@ -13,13 +13,13 @@ Species descriptions:
 
 ### Contents
 
-This chill breeze is quite bearable compared to the cosmic coldness of the dark side of [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
+This chill breeze is quite bearable compared to the cosmic coldness of the dark side of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera icon" loading="lazy" width="auto" height="16px"> [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
 Yet the climate is still cold enough for the blue algae to show up, as well as small tonnova springs here and there.
 
-I've also seen peculiar round sculptures lying around - according to my coordinator, those are frozen [plasma](https://ceterai.github.io/MyEnternia/Wiki/Tags/Plasma) charges, fallen from the sky.
+I've also seen peculiar round sculptures lying around - according to my coordinator, those are frozen [plasma](https://ceterai.github.io/MyEnternia/Wiki/Alternia#damage) charges, fallen from the sky.
 
-These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"> [Frozen Energy Balls](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) can be found all over [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).
+These <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/ionic/ct_frozen_energy_ball/icon.png" alt="Frozen Energy Ball icon" loading="lazy" width="auto" height="16px"> [Frozen Energy Balls](https://ceterai.github.io/MyEnternia/Wiki/FrozenEnergyBall) can be found all over <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Tavriya icon" loading="lazy" width="auto" height="16px"> [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).
 
 Fascinating.
 

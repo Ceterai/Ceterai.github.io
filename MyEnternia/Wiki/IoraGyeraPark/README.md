@@ -1,6 +1,6 @@
 # Iora Gyera Park
 
- **Iora Gyera Park** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier1.png" alt="Iora Gyera Park icon" loading="lazy" width="auto" height="16px"> **Iora Gyera Park** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
 Welcome to our little reserve! Here you can find some rare species of trees and plants, and I assure you that you will remember these magnificent landscapes for a long time.
 

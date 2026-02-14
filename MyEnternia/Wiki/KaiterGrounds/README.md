@@ -1,6 +1,6 @@
 # Kaiter Grounds
 
- **Kaiter Grounds** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Kaiter Grounds icon" loading="lazy" width="auto" height="16px"> **Kaiter Grounds** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
 ## Technical Information
 

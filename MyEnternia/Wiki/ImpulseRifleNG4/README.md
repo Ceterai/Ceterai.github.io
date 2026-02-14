@@ -21,7 +21,7 @@ Radiomessages on pickup:
 
 ### Impulse Blast
 
-A standard [impulse](https://ceterai.github.io/MyEnternia/Wiki/Tags/Impulse) blast with high precision.
+A standard [impulse](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#damage) blast with high precision.
 Firemodes: charge, semiauto.
 
 Parameters:

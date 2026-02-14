@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/droids/eds.png" alt="EDS Droid ★ icon" loading="lazy" width="auto" height="16px"> **EDS Droid ★** is a rare electric throwable item.
 
-An advanced armored droid operated by [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds). Has additional armor layers.  
+An advanced armored droid operated by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS). Has additional armor layers.  
 Its defensive mechanisms include ionic generators with a mical energy concentrator.
 
 ## Ingame

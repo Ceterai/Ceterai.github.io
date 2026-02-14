@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/eds/decorative/gateway/icon.png" alt="EDS Gateway icon" loading="lazy" width="auto" height="16px"> **EDS Gateway** is an uncommon door.
 
-A reinforced vertical hatch with dark red lines all over it. A powerful blast door made by [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds).
+A reinforced vertical hatch with dark red lines all over it. A powerful blast door made by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS).
 
 ## Ingame
 

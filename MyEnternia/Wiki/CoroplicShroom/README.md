@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_coroplic_mutant.png" alt="Coroplic Shroom icon" loading="lazy" width="auto" height="16px"> **Coroplic Shroom** is an uncommon tree sapling.
 
-An enormous [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) shroom with bright bulbs under its cap.
+An enormous <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) shroom with bright bulbs under its cap.
 
 ## Ingame
 

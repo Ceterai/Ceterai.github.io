@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/terraformers/biome/alterash_prime/garden/icon.png" alt="A-Prime Gardens Microformer ★ icon" loading="lazy" width="auto" height="16px"> **A-Prime Gardens Microformer ★** is a legendary terraformer.
 
 Transforms an area of a planet into an alterash prime garden. An alta attempt at creating smaller-scale terraformers. Is much more resource consuming and bigger in size than ancient analogs.  
-[Alterash Prime Gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrimeGardens) is a prime version of [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens) found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Alterash Prime Gardens icon" loading="lazy" width="auto" height="16px"> [Alterash Prime Gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrimeGardens) is a prime version of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier0.png" alt="Alterash Gardens icon" loading="lazy" width="auto" height="16px"> [alterash gardens](https://ceterai.github.io/MyEnternia/Wiki/AlterashGardens) found on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime) planets.
 
 ## Ingame
 

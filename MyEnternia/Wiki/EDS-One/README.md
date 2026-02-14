@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_eds_one.png" alt="EDS-One ★ icon" loading="lazy" width="auto" height="16px"> **EDS-One ★** is a legendary two-handed electric sniper rifle.
 
-A reinforced [ionic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ionic) sniper rifle designed to eliminate large targets on relatively long distances. A proud achievement of [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds).
+A reinforced [ionic](https://ceterai.github.io/MyEnternia/Wiki/Enternia#damage) sniper rifle designed to eliminate large targets on relatively long distances. A proud achievement of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS).
 
 ## Ingame
 

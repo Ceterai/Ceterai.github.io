@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="Faradea Loot Crate icon" loading="lazy" width="auto" height="16px"> **Faradea Loot Crate** is an uncommon loot item.
 
-Contains random loot from [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea) pods.  
+Contains random loot from <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea) pods.  
 Bits of mercenary life in a tiny box. It's full of freedom, anarchy, adventures and determination. A wonderful gift to a rebellious friend.
 
 ## Ingame

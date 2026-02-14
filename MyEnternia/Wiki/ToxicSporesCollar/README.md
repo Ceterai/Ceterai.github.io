@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/augments/pet/ct_aric_collar.png" alt="Toxic Spores Collar ★★ icon" loading="lazy" width="auto" height="16px"> **Toxic Spores Collar ★★** is a rare collar.
 
-An [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) collar that causes your pet to periodically spray <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) around it and gives it [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection.
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) collar that causes your pet to periodically spray <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/stats/effects/ct_poisoncloud.png" alt="Poison Clouds icon" loading="lazy" width="auto" height="16px"> [Poison Clouds](https://ceterai.github.io/MyEnternia/Wiki/PoisonClouds) around it and gives it [poison](https://ceterai.github.io/MyEnternia/Wiki/Tags/Poison) protection.
 
 ## Ingame
 

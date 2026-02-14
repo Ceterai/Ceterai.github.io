@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/warped.png" alt="Glowing Kingdom icon" loading="lazy" width="auto" height="16px"> **Glowing Kingdom** is an uncommon codex entry.
 
-A storybook about the bright-colored patches of [warped forests](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest). A more technical translation from alkey would be "Bioluminescent Capital".  
+A storybook about the bright-colored patches of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_warped_loot.png" alt="Warped Forest icon" loading="lazy" width="auto" height="16px"> [warped forests](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest). A more technical translation from alkey would be "Bioluminescent Capital".  
 The book refers to warped plants filled with [yonnur](https://ceterai.github.io/MyEnternia/Wiki/Warped#yonnur) - a bioluminescent liquid that comes in different colors and can be found in special bulbs in things like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/warped/decorative/light/icon.png" alt="Warped Light icon" loading="lazy" width="auto" height="16px"> [warped lights](https://ceterai.github.io/MyEnternia/Wiki/WarpedLight).
 
 ## Ingame

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/eds.png" alt="EDS Drone ★ icon" loading="lazy" width="auto" height="16px"> **EDS Drone ★** is a rare electric throwable item.
 
-An advanced armored drone operated by [EDS](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds). Has additional armor layers.  
+An advanced armored drone operated by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_eds_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [EDS](https://ceterai.github.io/MyEnternia/Wiki/EDS). Has additional armor layers.  
 This is the most common EDS robot model, as it is versatile enough to be used in most types of operations.
 
 ## Ingame

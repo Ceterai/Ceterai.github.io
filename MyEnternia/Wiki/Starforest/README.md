@@ -1,6 +1,6 @@
 # Starforest
 
- **Starforest** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/tier2.png" alt="Starforest icon" loading="lazy" width="auto" height="16px"> **Starforest** is a planetary [biome](https://ceterai.github.io/MyEnternia/Wiki/Biomes).
 
 A colourful forest filled with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) crystals. So much so that even all the ayakas growing here are shining with different colors...
 

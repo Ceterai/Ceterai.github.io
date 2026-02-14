@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/paper/faradea.png" alt="Brawl Of Legends Poster icon" loading="lazy" width="auto" height="16px"> **Brawl Of Legends Poster** is a rare codex entry.
 
 A poster covered in yellow markings. It's about a fighting contest.
-The bottom line says "[Faradea](https://ceterai.github.io/MyEnternia/Wiki/Tags/Faradea)" in capital letters.  
+The bottom line says "<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea)" in capital letters.  
 This poster advertises a popular fighting tournament held on Faradea, a well-known hub for mercenaries and adventurers.
 
 ## Ingame

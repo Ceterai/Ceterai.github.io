@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance_2.png" alt="Eva Linn ★ icon" loading="lazy" width="auto" height="16px"> **Eva Linn ★** is a legendary two-handed cryogenic sniper rifle.
 
-An advanced [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight) tool designed to withstand the cold and pressure in the skyes of Eva & [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
+An advanced [arknight](https://ceterai.github.io/MyEnternia/Wiki/Arknight) tool designed to withstand the cold and pressure in the skyes of Eva & <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera icon" loading="lazy" width="auto" height="16px"> [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
 An upgrade for <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance.png" alt="Sky Lance icon" loading="lazy" width="auto" height="16px"> [Sky Lance](https://ceterai.github.io/MyEnternia/Wiki/SkyLance).
 

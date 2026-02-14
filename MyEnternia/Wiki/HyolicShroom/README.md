@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/shrooms/ct_hyolic_growth.png" alt="Hyolic Shroom icon" loading="lazy" width="auto" height="16px"> **Hyolic Shroom** is an uncommon tree sapling.
 
-An [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) sprout that grows into a hyolic.
+An <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) sprout that grows into a hyolic.
 
 ## Ingame
 

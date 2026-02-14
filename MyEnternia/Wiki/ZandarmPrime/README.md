@@ -28,7 +28,7 @@ Can be crafted:
 - ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/cooking/cookdecks/icon.png) [Alta Cookdecks](https://ceterai.github.io/MyEnternia/Wiki/AltaCookdecks) (takes 0.25s, outputs <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_zandarm_tart-prime.png" alt="Zandarm Prime ★ icon" loading="lazy" width="auto" height="16px"> Zandarm Prime ★ x*1*):
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/produce/ct_ionic_sap.png" alt="Ionic Ferment icon" loading="lazy" width="auto" height="16px"> [Ionic Ferment](https://ceterai.github.io/MyEnternia/Wiki/IonicFerment) x*2*
   - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier1/ct_iso_jam.png" alt="Izo Jam icon" loading="lazy" width="auto" height="16px"> [Izo Jam](https://ceterai.github.io/MyEnternia/Wiki/IzoJam) x*1*
-  - `beakseed` x*1*
+  - <img src="https://starbounder.org/mediawiki/images/e/ec/Beakseed.png" alt="Beakseed icon" loading="lazy" width="16px" height="16px"> [Beakseed](https://starbounder.org/Beakseed) x*1*
 
 Can be bought from merchants:
 
