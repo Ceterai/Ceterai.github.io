@@ -8,14 +8,22 @@ This mod adds a total of 186 tenants.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/casual1.png)
+
 </td><td markdown="1">
 
 Type: **Alta NPC**
@@ -24,8 +32,7 @@ Tags: `alta` (6)
 
 Regular alta dressed up in casual attire - simple, easy to put on and maintain clothes, made according to latest protocols. These clothes don't restrict movement and are quite comfortable to wear.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/casual1.png)
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/casual2.png)
@@ -49,6 +56,7 @@ Regular alta dressed up in casual attire - simple, easy to put on and maintain c
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+
 </td><td markdown="1">
 
 Type: **Alta in a Calin Dress**
@@ -57,8 +65,7 @@ Tags: `alta` (6), `calin` (8)
 
 An alta in a beautiful calin-themed dress.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
@@ -73,6 +80,7 @@ An alta in a beautiful calin-themed dress.
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/capital1.png)
+
 </td><td markdown="1">
 
 Type: **Alta from a Capital**
@@ -86,6 +94,7 @@ Regular alta dressed up in casual attire in alta capital-themed colors.
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/dancer2.png)
+
 </td><td markdown="1">
 
 Type: **Alta Dancer**
@@ -94,8 +103,7 @@ Tags: `alta` (8), `musical` (8)
 
 A professional alta dancer. Can be often seen in clubs and dancing events. Likes clothing that doesn't restrict her movement.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/dancer1.png)
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/dancer5.png)
@@ -109,6 +117,7 @@ A professional alta dancer. Can be often seen in clubs and dancing events. Likes
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/gamer2.png)
+
 </td><td markdown="1">
 
 Type: **Alta Gamer**
@@ -117,8 +126,7 @@ Tags: `alta` (8), `party` (8)
 
 This alta is a heavy fan of gaming and various types of entertainment.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/gamer1.png)
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/gamer2.png)
@@ -278,10 +286,17 @@ This alta likes to party a lot, and also help others organize their own parties 
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -361,10 +376,17 @@ A security official responsible for organizing operations from their command cen
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -441,6 +463,7 @@ A service worker that can provide you with neat essentials.
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/social1.png)
+
 </td><td markdown="1">
 
 Type: **Alta Social Worker**
@@ -449,8 +472,7 @@ Tags: `alta` (8), `patriotic` (8)
 
 Altas who volunteer to clean public spaces and help people in need.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/social1.png)
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/social2.png)
@@ -468,10 +490,17 @@ Altas who volunteer to clean public spaces and help people in need.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -527,10 +556,17 @@ An alta in an easily recognizable high-vis resque uniform. In her free time, she
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -574,10 +610,17 @@ This alta researcher is performing her independent research in order to advance 
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -633,10 +676,17 @@ This alta researcher is part of Arc Ordis, focusing on environmental studies and
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -668,10 +718,17 @@ This alta researcher is part of EDS, focusing on protective technology and high-
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -703,10 +760,17 @@ This alta researcher is part of Hevika Ordis, focusing on ionic energy research 
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -750,10 +814,17 @@ This alta researcher is part of Ghearun, focusing on geological research and min
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -797,10 +868,17 @@ This alta researcher is part of the Ceterai Project, focusing on studying stardu
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -832,10 +910,17 @@ This alta researcher is part of Neiteru, most likely Neiteru-1, focusing on high
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -879,10 +964,17 @@ This alta researcher is part of general alta research labs, focusing on general 
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -914,10 +1006,17 @@ This alta researcher is part of Tserera, focusing on common alta tech.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -1021,10 +1120,17 @@ This alta researcher is most interested in studying toxic environments - poisons
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -1176,10 +1282,17 @@ An alta cosplaying a monster from human history. Allegedly.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -1211,10 +1324,17 @@ A regular alta traveller on a regular camping trip.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -1246,10 +1366,17 @@ This alta was one of the students back at protectorate. While the uniform is not
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -1353,10 +1480,17 @@ This alta is wearing an apex specialist uniform to infiltrate Miniknog. While th
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -1421,6 +1555,7 @@ An alta working with papers. While the uniform is not native to altas, she wears
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/peace1.png)
+
 </td><td markdown="1">
 
 Type: **Alta from the Outpost**
@@ -1429,8 +1564,7 @@ Tags: `alta` (8), `outpost` (18)
 
 An alta that frequents various outposts. Often has protectorate-related insignias and clothes usually seen on other species.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/outpost1.png)
 
@@ -1456,10 +1590,17 @@ An alta designated to look after humans. While the uniform is not native to alta
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -1671,10 +1812,17 @@ An undescribable being created by viona. Can it see you?..
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -1730,10 +1878,17 @@ An alta in a vibrant neon suit about to dance a vibrant neon dance.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -1762,6 +1917,7 @@ An alta dancer who grew liking to certain parts of human culture, especially hul
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+
 </td><td markdown="1">
 
 Type: **Alta Festival Girl**
@@ -1770,8 +1926,7 @@ Tags: `alta` (6), `island` (18)
 
 A festival visitor with a festive spirit and a pretty robe to go along with it.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
@@ -1786,6 +1941,7 @@ A festival visitor with a festive spirit and a pretty robe to go along with it.
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+
 </td><td markdown="1">
 
 Type: **Alta Koywa Dancer**
@@ -1794,8 +1950,7 @@ Tags: `koywa` (12)
 
 A professional koywa dancer in a koywa skirt, likely performing a koywa dance.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
@@ -1810,6 +1965,7 @@ A professional koywa dancer in a koywa skirt, likely performing a koywa dance.
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+
 </td><td markdown="1">
 
 Type: **Alta Swimmer**
@@ -1818,8 +1974,7 @@ Tags: `alta` (6), `oasis` (18)
 
 Just an alta at the beach - swimsuits, snorkels, party stuff.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
@@ -1846,6 +2001,7 @@ Yaara keepers have captured an alta and are holding her in their prison. She see
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/sprites/raw/npcs/calin1.png)
+
 </td><td markdown="1">
 
 Type: **Alta Resort Girl**
@@ -1854,8 +2010,7 @@ Tags: `alta` (6), `sea` (18)
 
 An alta visiting a riverside resort. Often in sunglasses or a beautiful sunny hat.
 
-<details markdown="1">
-<summary>Examples: (Expand)</summary>
+<details markdown="1"><summary>Examples: (Expand)</summary>
 
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin1.png)
 ![ ](https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/tenants/calin2.png)
@@ -1885,10 +2040,17 @@ An alta on a sleepover! Why isn't she sleeping?
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -2040,10 +2202,17 @@ A Sonaveil alta ready to provide you with means to celebrate the Sone's Veil!
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -2075,10 +2244,17 @@ This alta is part of a special interspecies team of space explorers. While the u
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -2218,10 +2394,17 @@ An alta protecta in diamond armor.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -2265,10 +2448,17 @@ A generic protector alta. Has different equipment based on threat level.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -2312,10 +2502,17 @@ A highly versatile scouting unit able to traverse difficult landscape with excep
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -2371,10 +2568,17 @@ A special camo unit meant to make the overgrown places on alta planets more habi
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -2442,10 +2646,17 @@ An alta soldier prepared for cold environments.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -2525,10 +2736,17 @@ A highly experienced faradea merc, used to field combat and difficult adventures
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 
@@ -2586,10 +2804,17 @@ WIP. A true alta protector, following the call of stardust.
 
 <table markdown="1"> <tbody valign="top" markdown="1">
 
-<tr valign="middle" markdown="1"><th markdown="1">
+<tr valign="middle" markdown="1">
+<th markdown="1">
+
 Sprite
-</th> <th markdown="1">
-Description </th></tr>
+
+</th><th markdown="1">
+
+Description
+
+</th>
+</tr>
 
 <tr markdown="1"><td valign="middle" align="middle" markdown="1">
 

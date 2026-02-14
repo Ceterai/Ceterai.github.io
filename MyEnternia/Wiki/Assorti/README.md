@@ -95,5 +95,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `4`
 - Power: `1.0`
 - Rarity: `Uncommon`
-- Tags: [`Salad`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Salad), [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`ayaka`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ayaka), [`fruit`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fruit), [`runeva_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/RunevaCuisine), [`salad`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Salad), [`tsay`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tsay), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/generic/food/tier2/ct_assorti.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/tier2/ct_assorti.consumable)
