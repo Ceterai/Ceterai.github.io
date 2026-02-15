@@ -6,7 +6,8 @@
     const GLITCH_KEYWORDS = [
         { pattern: /\bC\.T\.\b/g, text: 'C.T.' },
         { pattern: /\bc\.t\.\b/g, text: 'c.t.' },
-        { pattern: /\bmiazma\b/gi, text: 'miazma' }
+        { pattern: /\bmiazma\b/gi, text: 'miazma' },
+        { pattern: /\bceterai\b/gi, text: 'ceterai' }
     ];
     
     // Check if page path suggests glitchy content
