@@ -250,13 +250,13 @@
         
         // Setup Alt+U shortcut for UwU mode
         document.addEventListener('keydown', (e) => {
-            if (e.altKey && e.key === 'u' && !e.ctrlKey && !e.shiftKey) {
+            if (e.altKey && (e.key === 'u' || e.key === 'U') && !e.ctrlKey && !e.shiftKey) {
                 e.preventDefault();
                 toggleUwuMode();
             }
             
             // Setup Alt+T shortcut for cursor trail
-            if (e.altKey && e.key === 't' && !e.ctrlKey && !e.shiftKey) {
+            if (e.altKey && (e.key === 't' || e.key === 'T') && !e.ctrlKey && !e.shiftKey) {
                 e.preventDefault();
                 toggleCursorTrail();
             }

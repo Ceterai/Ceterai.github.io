@@ -65,7 +65,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 
 ## Trivia
 
-- This spear is an alternate version of ^#2080f0;Alternia Spear^reset;
+- This spear is an alternate version of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/alternia_spear.png" alt="Alternia Spear icon" loading="lazy" width="auto" height="16px"> [Alternia Spear](https://ceterai.github.io/MyEnternia/Wiki/AlterniaSpear)
 - Both items mentioned are unobtainable through normal gameplay
 - This is the earliest melee weapon of the mod, and funtions via its own dedicated scripts as opposed to the ones used by the rest
 

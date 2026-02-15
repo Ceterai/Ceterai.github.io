@@ -115,7 +115,7 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - 'Dai' means 'connection'!! We'we aww connected~!
 - Mua = wuv!! Muai = kiss!! >\/\/<
 - Reading dis unwocks aww da cwafts!! uωu
-- ^#20f080;1337^reset; altas wead dis!! You're one!! ≥ω≤
+- 1337 altas wead dis!! You're one!! ≥ω≤
 - If you eat the card you still get the recipes! Magic!! ✨
 - Pressing Alt+U on wiki pages might do something special... òωó
 
