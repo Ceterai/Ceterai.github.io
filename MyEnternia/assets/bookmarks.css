@@ -782,7 +782,7 @@ a.wiki-tool-btn {
     margin: 1rem 0;
     padding: 1rem;
     background: rgb(from var(--ct_6) r g b / 30%);
-    border-left: 4px solid var(--ct_7);
+    border-left: 4px solid var(--ct_5);
     border-radius: 8px;
     animation: fadeInQuote 0.5s ease-in;
 }
@@ -822,6 +822,7 @@ a.wiki-tool-btn {
 }
 
 .quote-refresh {
+    color: var(--ct_3);
     background: rgb(from var(--ct_5) r g b / 50%);
     border: 1px solid var(--ct_5);
     border-radius: 50%;
@@ -843,7 +844,7 @@ a.wiki-tool-btn {
     margin: 1rem 0;
     padding: 1rem;
     background: rgb(from var(--ct_6) r g b / 30%);
-    border-left: 4px solid var(--ct_6);
+    border-left: 4px solid var(--ct_5);
     border-radius: 8px;
     animation: fadeInQuote 0.5s ease-in;
 }
