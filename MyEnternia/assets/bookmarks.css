@@ -679,6 +679,48 @@ a.wiki-tool-btn {
     transform: translateY(0);
 }
 
+/* Back to Top Button */
+.back-to-top-badge {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 9999;
+    opacity: 0;
+    transform: translateY(100px);
+    transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    pointer-events: none;
+}
+
+.back-to-top-badge.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: all;
+}
+
+.back-to-top-btn {
+    background: linear-gradient(135deg, rgb(from var(--ct_7) r g b / 95%) 0%, rgb(from var(--ct_6) r g b / 95%) 100%);
+    border: 2px solid var(--ct_7);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    color: var(--ct_1);
+    font-family: var(--ct_font);
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.back-to-top-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+    background: linear-gradient(135deg, rgb(from var(--ct_7) r g b / 100%) 0%, rgb(from var(--ct_6) r g b / 100%) 100%);
+}
+
 .support-popup-inline {
     bottom: auto;
     top: calc(100% + 10px);
@@ -774,6 +816,17 @@ a.wiki-tool-btn {
     
     .support-badge:hover .support-popup {
         transform: translateX(-50%) translateY(0);
+    }
+    
+    .back-to-top-badge {
+        bottom: 15px;
+        left: 15px;
+    }
+    
+    .back-to-top-btn {
+        width: 45px;
+        height: 45px;
+        font-size: 1.3rem;
     }
 }
 
