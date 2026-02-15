@@ -2,8 +2,12 @@
 (function() {
     'use strict';
     
-    // Keywords that should glitch
-    const GLITCH_KEYWORDS = ['C.T.', 'miazma', 'ct_', 'c.t.', 'miazma', 'corrupted', 'glitch', 'error'];
+    // Keywords that should glitch (with exact matching)
+    const GLITCH_KEYWORDS = [
+        { pattern: /\bC\.T\.\b/g, text: 'C.T.' },
+        { pattern: /\bc\.t\.\b/g, text: 'c.t.' },
+        { pattern: /\bmiazma\b/gi, text: 'miazma' }
+    ];
     
     // Check if page path suggests glitchy content
     function isGlitchyPage() {
@@ -25,7 +29,12 @@
                     if (!parent || 
                         parent.tagName === 'SCRIPT' || 
                         parent.tagName === 'STYLE' ||
-                        parent.classList.contains('glitch-text')) {
+                        parent.classList.contains('glitch-text') ||
+                        parent.classList.contains('glitching') ||
+                        parent.closest('.breadcrumb-bar') ||
+                        parent.closest('nav') ||
+                        parent.closest('.breadcrumb-left') ||
+                        parent.closest('.breadcrumb-right')) {
                         return NodeFilter.FILTER_REJECT;
                     }
                     return NodeFilter.FILTER_ACCEPT;
@@ -43,12 +52,15 @@
             let modified = false;
             let html = textNode.textContent;
             
-            // Check each keyword
-            GLITCH_KEYWORDS.forEach(keyword => {
-                const regex = new RegExp(`(${keyword})`, 'gi');
-                if (regex.test(html)) {
-                    html = html.replace(regex, '<span class="glitch-text" data-text="$1">$1</span>');
-                    modified = true;
+            // Check each keyword with proper word boundaries
+            GLITCH_KEYWORDS.forEach(({ pattern, text }) => {
+                if (pattern.test(html)) {
+                    // Reset pattern index for next use
+                    pattern.lastIndex = 0;
+                    html = html.replace(pattern, (match) => {
+                        modified = true;
+                        return `<span class="glitch-text" data-text="${match}">${match}</span>`;
+                    });
                 }
             });
             
@@ -74,6 +86,13 @@
     // Initialize on wiki pages
     if (window.location.pathname.includes('/MyEnternia/')) {
         // Wait for content to load
+        const content = document.querySelector('main') || 
+                            document.querySelector('article') || 
+                            document.querySelector('.markdown-body');
+            
+        if (content) {
+            applyGlitchEffect(content);
+        }
         setTimeout(() => {
             const content = document.querySelector('main') || document.body;
             applyGlitchEffect(content);

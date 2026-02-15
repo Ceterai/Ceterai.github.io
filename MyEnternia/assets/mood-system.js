@@ -36,15 +36,16 @@
     };
     
     function detectMood() {
-        const path = window.location.pathname.toLowerCase();
-        const title = document.title.toLowerCase();
-        const content = document.body.innerText.toLowerCase();
-        const fullText = path + ' ' + title + ' ' + content;
+        // Only check the h1 header
+        const h1 = document.querySelector('h1');
+        if (!h1) return null;
+        
+        const h1Text = h1.innerText.toLowerCase();
         
         // Check each mood
         for (const [moodName, moodData] of Object.entries(moods)) {
             for (const keyword of moodData.keywords) {
-                if (fullText.includes(keyword.toLowerCase())) {
+                if (h1Text.includes(keyword.toLowerCase())) {
                     return { name: moodName, data: moodData };
                 }
             }
