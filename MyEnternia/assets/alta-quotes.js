@@ -31,6 +31,17 @@
             const jsonText = text.replace(/\/\/.*$/gm, '');
             const data = JSON.parse(jsonText);
             altaPhrases = data.converse.alta.generic;
+            altaPhrases = altaPhrases.concat(
+                data.dancer.alta.alta,
+                data.dancer.alta.generic,
+                data.official.alta.alta,
+                data.science.alta.alta,
+                data.science.alta.generic,
+                data.social.alta.generic,
+                data.merc.alta.generic,
+                data.botanist.alta.generic,
+                data.botanist.alta.alta,
+            );
         } catch (e) {
             console.warn('Could not load Alta phrases:', e);
             altaPhrases = [
