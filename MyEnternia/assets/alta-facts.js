@@ -30,7 +30,7 @@
         { text: "There are 102 codex entries documenting alta civilization — and they come in three formats: Datamasses (digital), Ebooks (electronic readers), and Paper (yes, altas still use paper sometimes).", icon: "📖", category: "Codex" },
 
         // Objects
-        { text: "The mod adds 846 placeable objects to the game — from alta crafting stations to decorative furniture. That's more objects than some entire mods have files.", icon: "🏗️", category: "Objects" },
+        { text: "The mod adds 846 placeable objects to the game — from alta crafting stations to decorative furniture.", icon: "🏗️", category: "Objects" },
 
         // Alkey Language
         { text: "In the Alkey language, the word 'corgi' means 'literature.' No relation to the dog. Probably. 📚🐕", icon: "🗣️", category: "Alkey" },
