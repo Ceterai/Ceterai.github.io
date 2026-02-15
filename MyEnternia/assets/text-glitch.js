@@ -7,18 +7,9 @@
         { pattern: /C\.T\./g, text: 'C.T.' },
         { pattern: /c\.t\./g, text: 'c.t.' },
         { pattern: /\bmiazma\b/gi, text: 'miazma' },
-        { pattern: /\bceterai\b/gi, text: 'ceterai' }
+        { pattern: /\bceterai\b/gi, text: 'ceterai' },
+        { pattern: /\benchanted\b/gi, text: 'enchanted' }
     ];
-    
-    // Check if page path suggests glitchy content
-    function isGlitchyPage() {
-        const path = window.location.pathname.toLowerCase();
-        return path.includes('c.t.') || 
-               path.includes('C.T.') || 
-               path.includes('miazma') || 
-               path.includes('ceterai') || 
-               document.body.innerText.toLowerCase().includes('miazma');
-    }
     
     // Wrap text nodes with glitch effect
     function applyGlitchEffect(element) {

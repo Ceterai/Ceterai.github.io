@@ -338,11 +338,11 @@ Alta fashion mainly uses the **arcolar** style - light, simple, and functional d
 
 **Common Clothing Categories:**
 
-- [Alta Artist](https://ceterai.github.io/MyEnternia/Wiki/ArtisticCrop-Top) - Casual creative wear for artistic and entertainment pursuits
-- [Alta Official](https://ceterai.github.io/MyEnternia/Wiki/OfficialJacket) - Governmental and formal attire for official functions
-- [Alta Casual](https://ceterai.github.io/MyEnternia/Wiki/LightShirt) - Everyday comfortable wear for daily activities
-- [Alta Service](https://ceterai.github.io/MyEnternia/Wiki/ServiceJacket) - Professional uniforms for commercial and service roles
-- [Alta Social](https://ceterai.github.io/MyEnternia/Wiki/SocialWorkerTop) - Simple outfits for social work
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/artist_croptop/icon.png" alt="Artistic Crop-Top icon" loading="lazy" width="auto" height="16px"> [Alta Artist](https://ceterai.github.io/MyEnternia/Wiki/ArtisticCrop-Top) - Casual creative wear for artistic and entertainment pursuits
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/official_jacket/icon.png" alt="Official Jacket icon" loading="lazy" width="auto" height="16px"> [Alta Official](https://ceterai.github.io/MyEnternia/Wiki/OfficialJacket) - Governmental and formal attire for official functions
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/light_shirt/icon.png" alt="Light Shirt icon" loading="lazy" width="auto" height="16px"> [Alta Casual](https://ceterai.github.io/MyEnternia/Wiki/LightShirt) - Everyday comfortable wear for daily activities
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/service_jacket/icon.png" alt="Service Jacket icon" loading="lazy" width="auto" height="16px"> [Alta Service](https://ceterai.github.io/MyEnternia/Wiki/ServiceJacket) - Professional uniforms for commercial and service roles
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/armors/alta/clothing/social_top/icon.png" alt="Social Worker Top icon" loading="lazy" width="auto" height="16px"> [Alta Social](https://ceterai.github.io/MyEnternia/Wiki/SocialWorkerTop) - Simple outfits for social work
 
 **Fashion Industry:**
 
@@ -761,7 +761,7 @@ Alta civilization is spread across numerous <img src="https://raw.githubusercont
 
 #### Colonies
 
-> See also: [Alta Tenants](https://ceterai.github.io/MyEnternia/Wiki/Tenants), [Colonies, Tenants & the Colony Deed](https://starbounder.org/Colony_Deed)
+> See also: <img src="https://starbounder.org/mediawiki/images/9/93/Colony_Deed.gif" alt="icon" loading="lazy" width="auto" height="16px"> [Alta Tenants](https://ceterai.github.io/MyEnternia/Wiki/Tenants), [Colonies, Tenants & the Colony Deed](https://starbounder.org/Colony_Deed)
 
 Small outposts build for altas with shared interests, such as research teams or specialized workers. These colonies are often located in remote areas of alterash planets, serving as bases for scientific exploration and resource gathering.
 
@@ -769,7 +769,7 @@ Many colonies have been relocated underground into <img src="https://raw.githubu
 
 #### Cities
 
-> See also: [Alta Cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities)
+> See also: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/security.png" alt="Alta Cities icon" loading="lazy" width="auto" height="16px"> [Alta Cities](https://ceterai.github.io/MyEnternia/Wiki/AltaCities)
 
 Alta cities are relatively small but highly urbanized settlements found on alterash planets. Despite their compact size and short buildings, they maintain fairly large populations through dense, efficient infrastructure design.
 
@@ -787,13 +787,13 @@ Key characteristics of alta cities include:
 
 #### Capitals
 
-> See also: [Alta Capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals)
+> See also: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/stardust.png" alt="Alta Capitals icon" loading="lazy" width="auto" height="16px"> [Alta Capitals](https://ceterai.github.io/MyEnternia/Wiki/AltaCapitals)
 
 Capital cities are massive metropolises that serve as administrative and cultural centers. These fortress-like cities feature multiple defensive layers and are the most heavily protected settlements in alta civilization.
 
 Capital city features:
 
-- Tall [alta citadel](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels) as administrative center
+- Tall <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/ship.png" alt="Alta Citadels ★★ icon" loading="lazy" width="auto" height="16px"> [alta citadel](https://ceterai.github.io/MyEnternia/Wiki/AltaCitadels) as administrative center
 - Octagonal ring structure with multiple defensive walls ("lines of defense")
 - **Elite guards**, **elite drones**, and **elite androids** protecting each layer
 - **Imperial generators** enhancing defender effectiveness
@@ -834,9 +834,9 @@ A controversial facility operated by [Mita-3V Ordis](#mita-3v-ordis) that develo
 
 The arigaran settlements created by Mita-3V Ordis are now protected from their creators by Alliana security forces, ensuring the autonomous agarans can develop their own society without interference.
 
-## [Philosophy](https://ceterai.github.io/MyEnternia/Wiki/AltaPhilosophy)
+## Philosophy
 
-> Main page: [Alta Philosophy](https://ceterai.github.io/MyEnternia/Wiki/AltaPhilosophy)
+> Main page: Alta Philosophy
 
 Alta beliefs often center around their origins as artificial beings created by the **fallen** (starborn entities) and their relationship with cosmic forces. While altas are generally pragmatic and science-focused, they maintain deep connections to their creation narrative.
 
@@ -844,7 +844,7 @@ There are no formal religious practices among altas, aside from promotion of gen
 
 ## Factions
 
-> Main page: **Factions**
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/flag/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Factions](https://ceterai.github.io/MyEnternia/Wiki/Alta#factions)
 
 Alta society is organized into various factions, each serving different purposes within their decentralized civilization.
 

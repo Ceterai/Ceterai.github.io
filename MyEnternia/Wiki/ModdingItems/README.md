@@ -1,6 +1,6 @@
-> Main page: [Modding](Modding)
+> Main page: <img src="https://starbounder.org/mediawiki/images/8/81/Tool_Nav_Icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Modding](https://ceterai.github.io/MyEnternia/Wiki/Modding)
 
-This page contains modding information about [items](items) added by this mod, including item builders, item scripts, weapon abilities, etc.
+This page contains modding information about <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/alta/energy_cell.png" alt="icon" loading="lazy" width="auto" height="16px"> [items](https://ceterai.github.io/MyEnternia/Wiki/Items) added by this mod, including item builders, item scripts, weapon abilities, etc.
 - Items
 -   - Item Builder Parameters
 - Weapons
@@ -102,7 +102,7 @@ All listed parameters are optional.
 
 <tr><td>`passiveAbility.description`</td><td>`""`</td><td>Passive ability description for tooltips. Will replace Special if set.</td></tr>
 
-<tr><td>`upgradeParameters`</td><td>`nil`</td><td>For upgrades: [Weapons: Upgrades](Weapons#upgrades).</td></tr>
+<tr><td>`upgradeParameters`</td><td>`nil`</td><td>For upgrades: [Weapons: Upgrades](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#upgrades).</td></tr>
 
 <tr><td>`upgradeParameters.shortdescription`</td><td>`nil`</td><td>Upgrade name for tooltips.</td></tr>
 
@@ -110,15 +110,15 @@ All listed parameters are optional.
 
 ## Weapons
 
-> Main page: [Weapons](Weapons)
+> Main page: <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="icon" loading="lazy" width="auto" height="16px"> [Weapons](https://ceterai.github.io/MyEnternia/Wiki/Weapons)
 
-Most [weapons and shields](Weapons) in this mod use a custom item builder, custom logic and custom abilities.
+Most <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster.png" alt="icon" loading="lazy" width="auto" height="16px"> [weapons and shields](https://ceterai.github.io/MyEnternia/Wiki/Weapons) in this mod use a custom item builder, custom logic and custom abilities.
 
 The builder used is the same mentioned in the previous section.
 
 ### Weapon Builder Parameters
 
-Weapons and shields support the same parameters as in [Supported Item Parameters](ModdingItems#supported-item-parameters).
+Weapons and shields support the same parameters as in [Supported Item Parameters](#supported-item-parameters).
 
 ### Abilities
 
@@ -137,11 +137,11 @@ Special Ranged Abilities:
 - [`/items/active/weapons/ranged/alta/abils/chakram/chakram.lua`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/abils/chakram/chakram.lua)
 - [`/items/active/weapons/ranged/alta/abils/grapple/grapple.lua`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/abils/grapple/grapple.lua)
 - [`/items/active/weapons/ranged/alta/abils/orbs/orbs.lua`](https://github.com/Ceterai/Enternia/blob/main/items/active/weapons/ranged/alta/abils/orbs/orbs.lua)
-Read more about supported weapon abilities: [Weapon Mechanics](Weapons#mechanics)
+Read more about supported weapon abilities: [Weapon Mechanics](https://ceterai.github.io/MyEnternia/Wiki/AltaWeaponry#mechanics)
 
 ## Objects
 
-Most [objects](objects) in this mod use a custom item builder. It enhances the item builder mantioned above.
+Most objects in this mod use a custom item builder. It enhances the item builder mantioned above.
 
 The builder is located here: [`/items/buildscripts/alta/object.lua`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/alta/object.lua)
 
@@ -229,11 +229,11 @@ All listed parameters are optional.
 
 Consumable items that have a `variants` parameter set and use an aging scripted called [`/items/generic/food/ct_food_aging.lua`](https://github.com/Ceterai/Enternia/blob/main/items/generic/food/ct_food_aging.lua) have a chance to turn into one of the variants shortly after crafting.
 
-This is mainly used for the [Perfect Cooking](PerfectCooking) mechanic.
+This is mainly used for the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/crystalline_prime.png" alt="Perfect Cooking icon" loading="lazy" width="auto" height="16px"> [Perfect Cooking](https://ceterai.github.io/MyEnternia/Wiki/PerfectCooking) mechanic.
 
 ## Monster Spawners
 
-[Monster Spawners](ThrowableItems#spawners) in this mod use a custom item builder.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/spawners/drones/companion.png" alt="icon" loading="lazy" width="auto" height="16px"> [Monster Spawners](https://ceterai.github.io/MyEnternia/Wiki/Spawners) in this mod use a custom item builder.
 
 The builder is located here: [`/items/buildscripts/alta/spawner.lua`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/alta/spawner.lua)
 

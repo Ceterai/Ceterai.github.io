@@ -1,8 +1,8 @@
-> Main pages: [Alta](Alta), [Factions](Factions)
+> Main pages: [Alta](https://ceterai.github.io/MyEnternia/Wiki/Alta), <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/basic/flag/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [Factions](https://ceterai.github.io/MyEnternia/Wiki/Alta#factions)
 
 <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/ct_eds_loot.png" alt="" loading="lazy" width="autopx" height="16pxpx"> **Elerune Defensive System** is a "Security and Defences" project that formed as a reaction to a serious spike in danger caused by exploration of new worlds, discoveries of unstable energy sources and the creation of kaiters.
 
-EDS manufactures protective and destructive equipment, as well as security devices such as [combat drones](EDS#robots) and [stationary turrets](EDS Turret).
+EDS manufactures protective and destructive equipment, as well as security devices such as [combat drones](https://ceterai.github.io/MyEnternia/Wiki/EDS#robots) and [stationary turrets](https://ceterai.github.io/MyEnternia/Wiki/EDS#turrets).
 
 All of the mentioned devices, as well as multiple defensive protocols and alta security systems, are controlled by EDS's decentralized multifunctional AI.
 
