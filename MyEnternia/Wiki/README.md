@@ -16,20 +16,76 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
 
 ## Introduction
 
-- [Where to start](https://ceterai.github.io/MyEnternia#where-to-start)
-- [Guide to My Enternia](https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia)
-
-### Helpful Resources
-
-- [Alta Relationships With Other Species](https://www.nexusmods.com/starbound/articles/270)
-- [True Power Of Alta Tenant Merchants](https://www.nexusmods.com/starbound/articles/265)
-- [Getting Level 5-6 Materials](https://www.nexusmods.com/starbound/articles/263)
-
-### Popular Pages
-
-- [Alta](https://ceterai.github.io/MyEnternia/Wiki/Alta)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash)
-- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime)
+<table style="width: 90%; margin: 0 auto;">
+ <tr>
+  <th>
+   Guides
+  </th>
+  <th>
+   Helpful Resources
+  </th>
+  <th>
+   Popular Pages
+  </th>
+ </tr>
+ <tr>
+  <td style="vertical-align: top;">
+   <ul>
+    <li>
+     <a href="https://ceterai.github.io/MyEnternia#where-to-start">
+      Where to start
+     </a>
+    </li>
+    <li>
+     <img alt="Guide to My Enternia icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/ebook/basic.png" width="auto"/>
+     <a href="https://ceterai.github.io/MyEnternia/Wiki/GuidetoMyEnternia">
+      Guide to My Enternia
+     </a>
+    </li>
+   </ul>
+  </td>
+  <td style="vertical-align: top;">
+   <ul>
+    <li>
+     <a href="https://www.nexusmods.com/starbound/articles/270">
+      Alta Relationships With Other Species
+     </a>
+    </li>
+    <li>
+     <a href="https://www.nexusmods.com/starbound/articles/265">
+      True Power Of Alta Tenant Merchants
+     </a>
+    </li>
+    <li>
+     <a href="https://www.nexusmods.com/starbound/articles/263">
+      Getting Level 5-6 Materials
+     </a>
+    </li>
+   </ul>
+  </td>
+  <td style="vertical-align: top;">
+   <ul>
+    <li>
+     <a href="https://ceterai.github.io/MyEnternia/Wiki/Alta">
+      Alta
+     </a>
+    </li>
+    <li>
+     <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" width="auto"/>
+     <a href="https://ceterai.github.io/MyEnternia/Wiki/Alterash">
+      Alterash
+     </a>
+    </li>
+    <li>
+     <img alt="icon" height="16px" loading="lazy" src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" width="auto"/>
+     <a href="https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime">
+      Alterash Prime
+     </a>
+    </li>
+   </ul>
+  </td>
+ </tr>
+</table>
 
 <!-- alta quote -->
 
@@ -37,7 +93,7 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
 
 ## Navigation
 
-<table>
+<table style="width: 90%; margin: 0 auto;">
  <tr>
   <th>
    Environment
