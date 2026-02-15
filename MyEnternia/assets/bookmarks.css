@@ -837,3 +837,60 @@ a.wiki-tool-btn {
     background: rgb(from var(--ct_6) r g b / 70%);
     transform: rotate(180deg);
 }
+
+/* Alta Fact Box */
+.alta-fact-box {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: rgb(from var(--ct_6) r g b / 30%);
+    border-left: 4px solid var(--ct_7);
+    border-radius: 8px;
+    animation: fadeInQuote 0.5s ease-in;
+}
+
+.fact-content {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.fact-icon {
+    font-size: 1.8rem;
+    flex-shrink: 0;
+}
+
+.fact-body {
+    flex: 1;
+}
+
+.fact-category {
+    color: var(--ct_7);
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.3rem;
+}
+
+.fact-text {
+    color: var(--ct_2);
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.fact-refresh {
+    background: rgb(from var(--ct_5) r g b / 50%);
+    border: 1px solid var(--ct_5);
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    flex-shrink: 0;
+}
+
+.fact-refresh:hover {
+    background: rgb(from var(--ct_6) r g b / 70%);
+    transform: rotate(180deg);
+}

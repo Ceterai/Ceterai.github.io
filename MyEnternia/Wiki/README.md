@@ -31,6 +31,10 @@ Welcome to the mod wiki! Here you can find all information and lore related to i
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_prime_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [Alterash Prime](https://ceterai.github.io/MyEnternia/Wiki/AlterashPrime)
 
+<!-- alta quote -->
+
+<!-- alta fact -->
+
 ## Navigation
 
 <table>
