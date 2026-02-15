@@ -12,8 +12,10 @@
     // Check if page path suggests glitchy content
     function isGlitchyPage() {
         const path = window.location.pathname.toLowerCase();
-        return path.includes('ct_') || 
+        return path.includes('c.t.') || 
+               path.includes('C.T.') || 
                path.includes('miazma') || 
+               path.includes('ceterai') || 
                document.body.innerText.toLowerCase().includes('miazma');
     }
     
