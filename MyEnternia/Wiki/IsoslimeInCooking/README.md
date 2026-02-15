@@ -17,7 +17,7 @@ Radiomessages on pickup:
 
 ### Contents
 
-[Izopoi](https://ceterai.github.io/MyEnternia/Wiki/Tags/Izopoi), or isoslime, is a generally inedible material that, with proper preparation, can become a great cooking ingredient.
+<img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [Izopoi](https://ceterai.github.io/MyEnternia/Wiki/Isoslime), or isoslime, is a generally inedible material that, with proper preparation, can become a great cooking ingredient.
 
 To be clear, even unprepared, izopoi is not inedible in its true sense; instead, it just passes the system with no damage to it whatsoever, but doesn't get properly digested either.
 

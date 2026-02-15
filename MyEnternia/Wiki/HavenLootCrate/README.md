@@ -9,7 +9,7 @@ The casings has Low Toxicity markings all over it, and an additional safety swit
 
 Species descriptions:
 
-- Alta: I better not touch this without permissions. I know these are not as toxic as aric pads, but better be safe than sorry.
+- Alta: I better not touch this without permissions. I know these are not as toxic as <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Shroomic Loot Crate icon" loading="lazy" width="auto" height="16px"> [aric pads](https://ceterai.github.io/MyEnternia/Wiki/ShroomicLootCrate), but better be safe than sorry.
 
 Radiomessages on pickup:
 

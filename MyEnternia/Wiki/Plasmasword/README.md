@@ -15,7 +15,7 @@ Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/
 
 Species descriptions:
 
-- Alta: Now this is an energy tool to all energy tools! It cuts through <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) and weaker metals easily, and I'm not even talking about light stuff like ayakut!
+- Alta: Now this is an energy tool to all energy tools! It cuts through <img src="https://starbounder.org/mediawiki/images/9/94/Titanium_Bar.png" alt="Titanium Bar icon" loading="lazy" width="14px" height="13px"> [titanium](https://starbounder.org/Titanium_Bar) and weaker metals easily, and I'm not even talking about light stuff like <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_ayaka_wood.png" alt="Ayaka Wood icon" loading="lazy" width="auto" height="16px"> [ayakut](https://ceterai.github.io/MyEnternia/Wiki/AyakaWood)!
 
 Radiomessages on pickup:
 

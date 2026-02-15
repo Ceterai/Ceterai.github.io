@@ -9,7 +9,7 @@ Forged from [enterash prime](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ente
 
 Species descriptions:
 
-- Alta: I've never seen an enternia niaton before, but I guess this is it. Seems to be much heavier than usual, but I guess this is because of materials.
+- Alta: I've never seen an enternia <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick.png" alt="Stun Stick icon" loading="lazy" width="auto" height="16px"> [niaton](https://ceterai.github.io/MyEnternia/Wiki/StunStick) before, but I guess this is it. Seems to be much heavier than usual, but I guess this is because of materials.
 
 Radiomessages on pickup:
 
