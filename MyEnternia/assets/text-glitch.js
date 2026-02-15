@@ -86,16 +86,15 @@
     // Initialize on wiki pages
     if (window.location.pathname.includes('/MyEnternia/')) {
         // Wait for content to load
-        const content = document.querySelector('main') || 
+        setTimeout(() => {
+            // Only apply to main content, avoid navigation/breadcrumbs
+            const content = document.querySelector('main') || 
                             document.querySelector('article') || 
                             document.querySelector('.markdown-body');
             
-        if (content) {
-            applyGlitchEffect(content);
-        }
-        setTimeout(() => {
-            const content = document.querySelector('main') || document.body;
-            applyGlitchEffect(content);
+            if (content) {
+                applyGlitchEffect(content);
+            }
             
             // Add CSS if not present
             if (!document.getElementById('glitch-styles')) {
