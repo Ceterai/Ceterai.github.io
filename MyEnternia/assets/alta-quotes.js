@@ -66,7 +66,7 @@
                             <div class="quote-text">"${quote.phrase}"</div>
                             <div class="quote-author">— ${quote.name}</div>
                         </div>
-                        <button class="quote-refresh" title="New quote" onclick="window.refreshAltaQuote()">🔄</button>
+                        <button class="quote-refresh" title="New quote" onclick="window.refreshAltaQuote()">⟳</button>
                     </div>
                 </div>
             `;

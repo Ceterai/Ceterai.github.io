@@ -85,7 +85,7 @@
                             <div class="fact-category">${fact.category}</div>
                             <div class="fact-text">${fact.text}</div>
                         </div>
-                        <button class="fact-refresh" title="New fact" onclick="window.refreshAltaFact()">🔄</button>
+                        <button class="fact-refresh" title="New fact" onclick="window.refreshAltaFact()">⟳</button>
                     </div>
                 </div>
             `;
