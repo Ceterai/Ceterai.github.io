@@ -4,8 +4,8 @@
     
     // Keywords that should glitch (with exact matching)
     const GLITCH_KEYWORDS = [
-        { pattern: /\bC\.T\.\b/g, text: 'C.T.' },
-        { pattern: /\bc\.t\.\b/g, text: 'c.t.' },
+        { pattern: /C\.T\./g, text: 'C.T.' },
+        { pattern: /c\.t\./g, text: 'c.t.' },
         { pattern: /\bmiazma\b/gi, text: 'miazma' },
         { pattern: /\bceterai\b/gi, text: 'ceterai' }
     ];
@@ -108,7 +108,7 @@
                         position: relative;
                         display: inline-block;
                         color: #00ffff;
-                        text-shadow: 0 0 5px rgba(0, 255, 255, 0.5);
+                        text-shadow: 0 0 5px rgba(0, 225, 255, 0.5);
                         animation: glitch-subtle 3s infinite;
                     }
                     
@@ -118,12 +118,12 @@
                     
                     @keyframes glitch-subtle {
                         0%, 100% { 
-                            text-shadow: 0 0 5px rgba(0, 255, 255, 0.5);
+                            text-shadow: 0 0 5px rgba(0, 225, 255, 0.5);
                         }
                         50% { 
                             text-shadow: 
                                 -1px 0 2px rgba(255, 0, 255, 0.5),
-                                1px 0 2px rgba(0, 255, 255, 0.5);
+                                1px 0 2px rgba(0, 225, 255, 0.5);
                         }
                     }
                     
@@ -132,7 +132,7 @@
                             transform: translate(0);
                             text-shadow: 
                                 -2px 0 5px rgba(255, 0, 0, 0.8),
-                                2px 0 5px rgba(0, 255, 255, 0.8);
+                                2px 0 5px rgba(0, 225, 255, 0.8);
                         }
                         20% {
                             transform: translate(-2px, 1px);
@@ -143,7 +143,7 @@
                         40% {
                             transform: translate(-2px, -1px);
                             text-shadow: 
-                                -2px 0 5px rgba(0, 255, 255, 0.8),
+                                -2px 0 5px rgba(0, 225, 255, 0.8),
                                 2px 0 5px rgba(255, 255, 0, 0.8);
                         }
                         60% {
@@ -156,13 +156,13 @@
                             transform: translate(1px, -1px);
                             text-shadow: 
                                 -2px 0 5px rgba(255, 0, 255, 0.8),
-                                2px 0 5px rgba(0, 255, 255, 0.8);
+                                2px 0 5px rgba(0, 225, 255, 0.8);
                         }
                         100% {
                             transform: translate(0);
                             text-shadow: 
                                 -2px 0 5px rgba(255, 0, 0, 0.8),
-                                2px 0 5px rgba(0, 255, 255, 0.8);
+                                2px 0 5px rgba(0, 225, 255, 0.8);
                         }
                     }
                 `;
@@ -170,7 +170,7 @@
             }
             
             // Start random glitch animations
-            setInterval(animateGlitches, 2000);
-        }, 500);
+            setInterval(animateGlitches, 800);
+        }, 200);
     }
 })();
