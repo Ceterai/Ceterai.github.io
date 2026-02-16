@@ -198,31 +198,10 @@
         randomButton.addEventListener('click', goToRandomPage);
         
         // Insert into the wiki-tools bar
-        // Wait for element to be available (handle race conditions)
-        const insertButton = () => {
-            const toolsBar = document.getElementById('wiki-tools');
-            if (toolsBar) {
-                console.log('Adding random page button to wiki-tools');
-                toolsBar.appendChild(randomButton);
-                return true;
-            } else {
-                console.warn('wiki-tools element not found for random button');
-            }
-            return false;
-        };
-        
-        // Try inserting with multiple retry attempts
-        let attempts = 0;
-        const tryInsert = () => {
-            if (insertButton()) {
-                return; // Success!
-            }
-            attempts++;
-            if (attempts < 5) {
-                setTimeout(tryInsert, attempts * 50); // Increasing delay
-            }
-        };
-        tryInsert();
+        const toolsBar = document.getElementById('wiki-tools');
+        if (toolsBar) {
+            toolsBar.appendChild(randomButton);
+        }
         
         // Setup keyboard shortcut
         setupKeyboardShortcut();
@@ -235,7 +214,6 @@
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', initRandomPageButton);
     } else {
-        // Delay slightly to ensure DOM is fully settled
-        setTimeout(initRandomPageButton, 0);
+        initRandomPageButton();
     }
 })();

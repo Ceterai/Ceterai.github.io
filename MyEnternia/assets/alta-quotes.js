@@ -67,21 +67,43 @@
     
     // Replace <!-- alta quote --> placeholder
     function replaceQuotePlaceholder(quote) {
-        const placeholder = document.body.innerHTML;
-        if (placeholder.includes('<!-- alta quote -->')) {
-            const quoteHTML = `
-                <div class="alta-quote-box">
-                    <div class="quote-content">
-                        <div class="quote-icon">💬</div>
-                        <div class="quote-body">
-                            <div class="quote-text">"${quote.phrase}"</div>
-                            <div class="quote-author">— ${quote.name}</div>
-                        </div>
-                        <button class="quote-refresh" title="New quote" onclick="window.refreshAltaQuote()">⟳</button>
+        // Find the comment node instead of replacing entire body HTML
+        const walker = document.createTreeWalker(
+            document.body,
+            NodeFilter.SHOW_COMMENT,
+            null,
+            false
+        );
+        
+        let commentNode;
+        while (walker.nextNode()) {
+            if (walker.currentNode.nodeValue.trim() === 'alta quote') {
+                commentNode = walker.currentNode;
+                break;
+            }
+        }
+        
+        if (commentNode) {
+            const quoteBox = document.createElement('div');
+            quoteBox.className = 'alta-quote-box';
+            quoteBox.innerHTML = `
+                <div class="quote-content">
+                    <div class="quote-icon">💬</div>
+                    <div class="quote-body">
+                        <div class="quote-text">"${quote.phrase}"</div>
+                        <div class="quote-author">— ${quote.name}</div>
                     </div>
+                    <button class="quote-refresh" title="New quote">⟳</button>
                 </div>
             `;
-            document.body.innerHTML = placeholder.replace('<!-- alta quote -->', quoteHTML);
+            
+            // Attach event listener properly
+            const refreshBtn = quoteBox.querySelector('.quote-refresh');
+            if (refreshBtn) {
+                refreshBtn.addEventListener('click', window.refreshAltaQuote);
+            }
+            
+            commentNode.parentNode.replaceChild(quoteBox, commentNode);
         }
     }
     

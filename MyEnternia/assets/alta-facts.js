@@ -75,21 +75,43 @@
 
     // Replace <!-- alta fact --> placeholder
     function replaceFactPlaceholder(fact) {
-        const placeholder = document.body.innerHTML;
-        if (placeholder.includes('<!-- alta fact -->')) {
-            const factHTML = `
-                <div class="alta-fact-box">
-                    <div class="fact-content">
-                        <div class="fact-icon">${fact.icon}</div>
-                        <div class="fact-body">
-                            <div class="fact-category">${fact.category}</div>
-                            <div class="fact-text">${fact.text}</div>
-                        </div>
-                        <button class="fact-refresh" title="New fact" onclick="window.refreshAltaFact()">⟳</button>
+        // Find the comment node instead of replacing entire body HTML
+        const walker = document.createTreeWalker(
+            document.body,
+            NodeFilter.SHOW_COMMENT,
+            null,
+            false
+        );
+        
+        let commentNode;
+        while (walker.nextNode()) {
+            if (walker.currentNode.nodeValue.trim() === 'alta fact') {
+                commentNode = walker.currentNode;
+                break;
+            }
+        }
+        
+        if (commentNode) {
+            const factBox = document.createElement('div');
+            factBox.className = 'alta-fact-box';
+            factBox.innerHTML = `
+                <div class="fact-content">
+                    <div class="fact-icon">${fact.icon}</div>
+                    <div class="fact-body">
+                        <div class="fact-category">${fact.category}</div>
+                        <div class="fact-text">${fact.text}</div>
                     </div>
+                    <button class="fact-refresh" title="New fact">⟳</button>
                 </div>
             `;
-            document.body.innerHTML = placeholder.replace('<!-- alta fact -->', factHTML);
+            
+            // Attach event listener properly
+            const refreshBtn = factBox.querySelector('.fact-refresh');
+            if (refreshBtn) {
+                refreshBtn.addEventListener('click', window.refreshAltaFact);
+            }
+            
+            commentNode.parentNode.replaceChild(factBox, commentNode);
         }
     }
 

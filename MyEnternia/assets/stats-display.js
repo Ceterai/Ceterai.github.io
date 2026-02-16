@@ -113,46 +113,14 @@
     function initStatsDisplay() {
         if (!(window.location.pathname + '/').includes('/MyEnternia/Wiki/')) return;
         
-        const tryInit = () => {
-            // Wait for myEnterniaStats to be available
-            if (!window.myEnterniaStats) {
-                console.warn('myEnterniaStats not available yet');
-                return false;
-            }
-            
-            const toolsBar = document.getElementById('wiki-tools');
-            if (!toolsBar) {
-                console.warn('wiki-tools element not found');
-                return false;
-            }
-            
-            console.log('Initializing stats display');
-            const counter = createViewCounterBadge();
-            const statsDropdown = createStatsDropdown();
-            
-            if (counter) {
-                toolsBar.appendChild(counter);
-                console.log('View counter badge added');
-            }
-            if (statsDropdown) {
-                toolsBar.appendChild(statsDropdown);
-                console.log('Stats dropdown added');
-            }
-            return true;
-        };
+        const toolsBar = document.getElementById('wiki-tools');
+        if (!toolsBar) return;
         
-        // Try initializing with multiple retry attempts
-        let attempts = 0;
-        const tryMultipleTimes = () => {
-            if (tryInit()) {
-                return; // Success!
-            }
-            attempts++;
-            if (attempts < 10) {
-                setTimeout(tryMultipleTimes, attempts * 50); // Increasing delay
-            }
-        };
-        tryMultipleTimes();
+        const counter = createViewCounterBadge();
+        const statsDropdown = createStatsDropdown();
+        
+        if (counter) toolsBar.appendChild(counter);
+        if (statsDropdown) toolsBar.appendChild(statsDropdown);
     }
     
     // Expose update method for other scripts (like secrets)
@@ -163,7 +131,6 @@
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', initStatsDisplay);
     } else {
-        // Delay slightly to ensure view-counter.js has executed
-        setTimeout(initStatsDisplay, 0);
+        initStatsDisplay();
     }
 })();

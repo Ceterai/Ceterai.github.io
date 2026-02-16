@@ -119,7 +119,6 @@
     function initViewCounter() {
         if (!(window.location.pathname + '/').includes('/MyEnternia/Wiki/')) return;
         
-        console.log('Initializing view counter for', window.location.pathname);
         const url = window.location.pathname;
         markAsPersonallyViewed(url);
         
@@ -130,7 +129,6 @@
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', initViewCounter);
     } else {
-        // Delay slightly to ensure DOM is fully settled
-        setTimeout(initViewCounter, 0);
+        initViewCounter();
     }
 })();

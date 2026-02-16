@@ -94,7 +94,6 @@
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', init);
     } else {
-        // Delay slightly to ensure DOM is fully settled
-        setTimeout(init, 0);
+        init();
     }
 })();
