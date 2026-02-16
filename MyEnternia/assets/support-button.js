@@ -81,7 +81,9 @@
     
     // Initialize
     function init() {
-        if (!window.location.pathname.includes('/MyEnternia/')) return;
+        const path = window.location.pathname;
+        // Show on all pages except the root page
+        if (path === '/' || path === '/index.html') return;
         
         createFloatingBadge();
         

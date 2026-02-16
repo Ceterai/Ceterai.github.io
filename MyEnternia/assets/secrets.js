@@ -48,8 +48,8 @@
         saveFoundSecrets(secrets);
         
         // Update stats if tracking is available
-        if (window.myEnterniaStats) {
-            window.myEnterniaStats.updateSecretCount();
+        if (window.myEnterniaStatsDisplay) {
+            window.myEnterniaStatsDisplay.updateSecretCount();
         }
         
         // Show notification
@@ -235,8 +235,8 @@
         getTotalCount: () => TOTAL_SECRETS,
         reset: () => {
             localStorage.removeItem(SECRETS_KEY);
-            if (window.myEnterniaStats) {
-                window.myEnterniaStats.updateSecretCount();
+            if (window.myEnterniaStatsDisplay) {
+                window.myEnterniaStatsDisplay.updateSecretCount();
             }
         }
     };
