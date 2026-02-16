@@ -126,11 +126,7 @@
     }
     
     // Initialize when DOM is ready
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initCopyToClipboard);
-    } else {
-        initCopyToClipboard();
-    }
+    window.MyEnterniaUtils.onDOMReady(initCopyToClipboard);
     
     // Re-initialize if content is dynamically added
     // (useful for single-page applications)

@@ -1,5 +1,15 @@
-// View Counter & Stats Tracking for Wiki Pages
-// Tracks your personal exploration of the wiki using localStorage
+/**
+ * View Counter & Stats Tracking for Wiki Pages
+ * 
+ * Tracks user's personal exploration of the wiki using localStorage:
+ * - Page view counts per URL
+ * - Total visits and unique pages explored
+ * - Link clicks, random page uses
+ * - Integration with bookmarks and secrets systems
+ * 
+ * Dependencies: utils.js
+ * Provides: window.myEnterniaStats API
+ */
 (function() {
     'use strict';
     
@@ -7,44 +17,18 @@
     const EXTRA_STATS_KEY = 'myEnterniaExtraStats';
     
     // Get personal view tracking (localStorage)
-    function getPersonalViews() {
-        try {
-            return JSON.parse(localStorage.getItem(PERSONAL_VIEWS_KEY) || '{}');
-        } catch (e) {
-            return {};
-        }
-    }
+    const getPersonalViews = () => window.MyEnterniaUtils.getFromStorage(PERSONAL_VIEWS_KEY, {});
     
     // Save personal views
-    function savePersonalViews(views) {
-        try {
-            localStorage.setItem(PERSONAL_VIEWS_KEY, JSON.stringify(views));
-        } catch (e) {}
-    }
+    const savePersonalViews = (views) => window.MyEnterniaUtils.saveToStorage(PERSONAL_VIEWS_KEY, views);
     
     // Get/set extra stats (link clicks, random uses, easter eggs)
-    function getExtraStats() {
-        try {
-            return JSON.parse(localStorage.getItem(EXTRA_STATS_KEY) || '{"linksClicked":0,"randomUsed":0,"easterEggs":0}');
-        } catch (e) {
-            return { linksClicked: 0, randomUsed: 0, easterEggs: 0 };
-        }
-    }
+    const getExtraStats = () => window.MyEnterniaUtils.getFromStorage(EXTRA_STATS_KEY, {linksClicked: 0, randomUsed: 0, easterEggs: 0});
     
-    function saveExtraStats(stats) {
-        try {
-            localStorage.setItem(EXTRA_STATS_KEY, JSON.stringify(stats));
-        } catch (e) {}
-    }
+    const saveExtraStats = (stats) => window.MyEnterniaUtils.saveToStorage(EXTRA_STATS_KEY, stats);
     
     // Get bookmark count from bookmarks localStorage
-    function getBookmarkCount() {
-        try {
-            return JSON.parse(localStorage.getItem('myEnterniaBookmarks') || '[]').length;
-        } catch (e) {
-            return 0;
-        }
-    }
+    const getBookmarkCount = () => window.MyEnterniaUtils.getFromStorage('myEnterniaBookmarks', []).length;
     
     // Check if this is user's first time viewing this page
     function checkFirstView(url) {
@@ -117,7 +101,7 @@
     
     // Initialize view counter (track current page)
     function initViewCounter() {
-        if (!(window.location.pathname + '/').includes('/MyEnternia/Wiki/')) return;
+        if (!window.MyEnterniaUtils.isWikiPage()) return;
         
         const url = window.location.pathname;
         markAsPersonallyViewed(url);
@@ -126,9 +110,5 @@
         setupLinkTracking();
     }
     
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initViewCounter);
-    } else {
-        initViewCounter();
-    }
+    window.MyEnterniaUtils.onDOMReady(initViewCounter);
 })();

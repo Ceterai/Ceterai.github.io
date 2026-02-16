@@ -1,5 +1,14 @@
-// Stats Display UI
-// Shows exploration stats in the wiki toolbar
+/**
+ * Stats Display UI
+ * 
+ * Shows exploration stats in the wiki toolbar:
+ * - View counter badge
+ * - Stats dropdown menu with detailed statistics
+ * - Integration with view-counter, bookmarks, and secrets
+ * 
+ * Dependencies: utils.js, view-counter.js
+ * Provides: window.myEnterniaStatsDisplay API
+ */
 (function() {
     'use strict';
     
@@ -111,7 +120,7 @@
     
     // Initialize stats display
     function initStatsDisplay() {
-        if (!(window.location.pathname + '/').includes('/MyEnternia/Wiki/')) return;
+        if (!window.MyEnterniaUtils.isWikiPage()) return;
         
         const toolsBar = document.getElementById('wiki-tools');
         if (!toolsBar) return;
@@ -128,9 +137,5 @@
         updateSecretCount: updateStatsDropdown
     };
     
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initStatsDisplay);
-    } else {
-        initStatsDisplay();
-    }
+    window.MyEnterniaUtils.onDOMReady(initStatsDisplay);
 })();

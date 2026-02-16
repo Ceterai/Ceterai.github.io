@@ -1,4 +1,14 @@
-// Random Page Button for Wiki
+/**
+ * Random Page Navigation for Wiki
+ * 
+ * Features:
+ * - Random page button in toolbar
+ * - Keyboard shortcut (R key)
+ * - Multiple page fetching strategies (sitemap → pagefind → DOM)
+ * - Excludes current page from random selection
+ * 
+ * Dependencies: utils.js
+ */
 (function() {
     'use strict';
     
@@ -183,7 +193,7 @@
     // Initialize random page button
     async function initRandomPageButton() {
         // Only initialize on Wiki pages
-        const isWikiPage = (window.location.pathname + '/').includes('/MyEnternia/Wiki/');
+        const isWikiPage = window.MyEnterniaUtils.isWikiPage();
         
         if (!isWikiPage) {
             return;
@@ -211,9 +221,5 @@
     }
     
     // Initialize when DOM is ready
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initRandomPageButton);
-    } else {
-        initRandomPageButton();
-    }
+    window.MyEnterniaUtils.onDOMReady(initRandomPageButton);
 })();

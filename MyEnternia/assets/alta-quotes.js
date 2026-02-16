@@ -1,4 +1,11 @@
-// Random Alta Quote Generator
+/**
+ * Random Alta Quote Generator
+ * 
+ * Dynamically generates random Alta quotes on pages with <!-- alta quote --> comment.
+ * Fetches names and dialog phrases from GitHub repository.
+ * 
+ * Dependencies: utils.js
+ */
 (function() {
     'use strict';
     
@@ -67,44 +74,27 @@
     
     // Replace <!-- alta quote --> placeholder
     function replaceQuotePlaceholder(quote) {
-        // Find the comment node instead of replacing entire body HTML
-        const walker = document.createTreeWalker(
-            document.body,
-            NodeFilter.SHOW_COMMENT,
-            null,
-            false
-        );
-        
-        let commentNode;
-        while (walker.nextNode()) {
-            if (walker.currentNode.nodeValue.trim() === 'alta quote') {
-                commentNode = walker.currentNode;
-                break;
-            }
-        }
-        
-        if (commentNode) {
-            const quoteBox = document.createElement('div');
-            quoteBox.className = 'alta-quote-box';
-            quoteBox.innerHTML = `
-                <div class="quote-content">
-                    <div class="quote-icon">💬</div>
-                    <div class="quote-body">
-                        <div class="quote-text">"${quote.phrase}"</div>
-                        <div class="quote-author">— ${quote.name}</div>
-                    </div>
-                    <button class="quote-refresh" title="New quote">⟳</button>
+        const quoteBox = document.createElement('div');
+        quoteBox.className = 'alta-quote-box';
+        quoteBox.innerHTML = `
+            <div class="quote-content">
+                <div class="quote-icon">💬</div>
+                <div class="quote-body">
+                    <div class="quote-text">"${quote.phrase}"</div>
+                    <div class="quote-author">— ${quote.name}</div>
                 </div>
-            `;
-            
-            // Attach event listener properly
-            const refreshBtn = quoteBox.querySelector('.quote-refresh');
-            if (refreshBtn) {
-                refreshBtn.addEventListener('click', window.refreshAltaQuote);
-            }
-            
-            commentNode.parentNode.replaceChild(quoteBox, commentNode);
+                <button class="quote-refresh" title="New quote">⟳</button>
+            </div>
+        `;
+        
+        // Attach event listener
+        const refreshBtn = quoteBox.querySelector('.quote-refresh');
+        if (refreshBtn) {
+            refreshBtn.addEventListener('click', window.refreshAltaQuote);
         }
+        
+        // Replace comment with element
+        window.MyEnterniaUtils.replaceComment('alta quote', quoteBox);
     }
     
     // Refresh quote function
@@ -121,7 +111,7 @@
     // Initialize
     async function init() {
         // Check if placeholder exists
-        if (!document.body.innerHTML.includes('<!-- alta quote -->')) return;
+        if (!window.MyEnterniaUtils.findCommentNode('alta quote')) return;
         
         await Promise.all([fetchAltaNames(), fetchAltaPhrases()]);
         
@@ -129,9 +119,5 @@
         replaceQuotePlaceholder(quote);
     }
     
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', init);
-    } else {
-        init();
-    }
+    window.MyEnterniaUtils.onDOMReady(init);
 })();

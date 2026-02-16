@@ -91,9 +91,5 @@
         setTimeout(addToStatsDropdown, 1000);
     }
     
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', init);
-    } else {
-        init();
-    }
+    window.MyEnterniaUtils.onDOMReady(init);
 })();

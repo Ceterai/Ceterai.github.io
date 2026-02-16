@@ -1,4 +1,11 @@
-// Random Alta Fact Generator
+/**
+ * Random Alta Fact Generator
+ * 
+ * Displays random fun facts about the My Enternia mod on pages with <!-- alta fact --> comment.
+ * Contains curated list of interesting trivia about Alta species and mod features.
+ * 
+ * Dependencies: utils.js
+ */
 (function() {
     'use strict';
 
@@ -75,44 +82,27 @@
 
     // Replace <!-- alta fact --> placeholder
     function replaceFactPlaceholder(fact) {
-        // Find the comment node instead of replacing entire body HTML
-        const walker = document.createTreeWalker(
-            document.body,
-            NodeFilter.SHOW_COMMENT,
-            null,
-            false
-        );
-        
-        let commentNode;
-        while (walker.nextNode()) {
-            if (walker.currentNode.nodeValue.trim() === 'alta fact') {
-                commentNode = walker.currentNode;
-                break;
-            }
-        }
-        
-        if (commentNode) {
-            const factBox = document.createElement('div');
-            factBox.className = 'alta-fact-box';
-            factBox.innerHTML = `
-                <div class="fact-content">
-                    <div class="fact-icon">${fact.icon}</div>
-                    <div class="fact-body">
-                        <div class="fact-category">${fact.category}</div>
-                        <div class="fact-text">${fact.text}</div>
-                    </div>
-                    <button class="fact-refresh" title="New fact">⟳</button>
+        const factBox = document.createElement('div');
+        factBox.className = 'alta-fact-box';
+        factBox.innerHTML = `
+            <div class="fact-content">
+                <div class="fact-icon">${fact.icon}</div>
+                <div class="fact-body">
+                    <div class="fact-category">${fact.category}</div>
+                    <div class="fact-text">${fact.text}</div>
                 </div>
-            `;
-            
-            // Attach event listener properly
-            const refreshBtn = factBox.querySelector('.fact-refresh');
-            if (refreshBtn) {
-                refreshBtn.addEventListener('click', window.refreshAltaFact);
-            }
-            
-            commentNode.parentNode.replaceChild(factBox, commentNode);
+                <button class="fact-refresh" title="New fact">⟳</button>
+            </div>
+        `;
+        
+        // Attach event listener
+        const refreshBtn = factBox.querySelector('.fact-refresh');
+        if (refreshBtn) {
+            refreshBtn.addEventListener('click', window.refreshAltaFact);
         }
+        
+        // Replace comment with element
+        window.MyEnterniaUtils.replaceComment('alta fact', factBox);
     }
 
     // Refresh fact function
@@ -130,15 +120,11 @@
 
     // Initialize
     function init() {
-        if (!document.body.innerHTML.includes('<!-- alta fact -->')) return;
+        if (!window.MyEnterniaUtils.findCommentNode('alta fact')) return;
 
         const fact = generateFact();
         replaceFactPlaceholder(fact);
     }
 
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', init);
-    } else {
-        init();
-    }
+    window.MyEnterniaUtils.onDOMReady(init);
 })();

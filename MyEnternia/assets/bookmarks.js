@@ -1,28 +1,24 @@
-// Bookmark/Favorites System for Wiki Pages
+/**
+ * Bookmark/Favorites System for Wiki Pages
+ * 
+ * Features:
+ * - Add/remove bookmarks with star button
+ * - View and manage bookmarks in dropdown menu
+ * - Persistent storage using localStorage
+ * - Search button for wiki
+ * 
+ * Dependencies: utils.js
+ */
 (function() {
     'use strict';
     
     const STORAGE_KEY = 'myEnterniaBookmarks';
     
     // Get all bookmarks from localStorage
-    function getBookmarks() {
-        try {
-            const bookmarks = localStorage.getItem(STORAGE_KEY);
-            return bookmarks ? JSON.parse(bookmarks) : [];
-        } catch (e) {
-            console.error('Error reading bookmarks:', e);
-            return [];
-        }
-    }
+    const getBookmarks = () => window.MyEnterniaUtils.getFromStorage(STORAGE_KEY, []);
     
     // Save bookmarks to localStorage
-    function saveBookmarks(bookmarks) {
-        try {
-            localStorage.setItem(STORAGE_KEY, JSON.stringify(bookmarks));
-        } catch (e) {
-            console.error('Error saving bookmarks:', e);
-        }
-    }
+    const saveBookmarks = (bookmarks) => window.MyEnterniaUtils.saveToStorage(STORAGE_KEY, bookmarks);
     
     // Check if current page is bookmarked
     function isBookmarked(url) {
@@ -84,21 +80,7 @@
     
     // Show notification
     function showNotification(message) {
-        const notification = document.createElement('div');
-        notification.className = 'bookmark-notification';
-        notification.textContent = message;
-        document.body.appendChild(notification);
-        
-        setTimeout(() => {
-            notification.classList.add('show');
-        }, 10);
-        
-        setTimeout(() => {
-            notification.classList.remove('show');
-            setTimeout(() => {
-                notification.remove();
-            }, 300);
-        }, 2000);
+        window.MyEnterniaUtils.showNotification(message, 2000, 'bookmark-notification');
     }
     
     // Update bookmarks list in menu
@@ -150,9 +132,7 @@
     // Initialize bookmark system
     function initBookmarkSystem() {
         // Only initialize on Wiki pages
-        if (!(window.location.pathname + '/').includes('/MyEnternia/Wiki/')) {
-            return;
-        }
+        if (!window.MyEnterniaUtils.isWikiPage()) return;
         
         // Create bookmark buttons as a fragment
         const container = document.createDocumentFragment();
@@ -226,9 +206,5 @@
     }
     
     // Initialize when DOM is ready
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initBookmarkSystem);
-    } else {
-        initBookmarkSystem();
-    }
+    window.MyEnterniaUtils.onDOMReady(initBookmarkSystem);
 })();

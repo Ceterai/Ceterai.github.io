@@ -1,4 +1,15 @@
-// Secret Easter Eggs System
+/**
+ * Easter Eggs & Secrets System
+ * 
+ * Hidden features for users to discover:
+ * - UwU mode (type 'uwu')
+ * - Cursor trail (type 'trail')
+ * - Mystery box (1% spawn chance on wiki pages)
+ * - Special page secrets (Alliana, Celestia, Mira, Elin, Yuki)
+ * 
+ * Dependencies: utils.js
+ * Provides: window.myEnterniaSecrets API
+ */
 (function() {
     'use strict';
     
@@ -60,6 +71,7 @@
     
     // Show secret discovery notification
     function showSecretNotification(message) {
+        // Use simplified utility for now, can be customized later if needed
         const notification = document.createElement('div');
         notification.className = 'secret-notification';
         notification.innerHTML = `
@@ -266,14 +278,10 @@
         document.addEventListener('keypress', handleTyping);
         
         // Spawn mystery box (1% chance)
-        if ((window.location.pathname + '/').includes('/MyEnternia/Wiki/')) {
+        if (window.MyEnterniaUtils.isWikiPage()) {
             spawnMysteryBox();
         }
     }
     
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', init);
-    } else {
-        init();
-    }
+    window.MyEnterniaUtils.onDOMReady(init);
 })();
