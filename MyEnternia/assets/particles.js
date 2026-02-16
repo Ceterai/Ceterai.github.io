@@ -61,7 +61,7 @@
         }
     }
     
-    if (window.location.pathname.includes('/MyEnternia/Wiki/')) {
+    if ((window.location.pathname + '/').includes('/MyEnternia/Wiki/')) {
         checkForParticles();
     }
 })();

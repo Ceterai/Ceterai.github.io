@@ -266,7 +266,7 @@
         document.addEventListener('keypress', handleTyping);
         
         // Spawn mystery box (1% chance)
-        if (window.location.pathname.includes('/MyEnternia/Wiki/')) {
+        if ((window.location.pathname + '/').includes('/MyEnternia/Wiki/')) {
             spawnMysteryBox();
         }
     }

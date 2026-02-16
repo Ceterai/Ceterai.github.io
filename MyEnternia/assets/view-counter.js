@@ -117,7 +117,7 @@
     
     // Initialize view counter (track current page)
     function initViewCounter() {
-        if (!window.location.pathname.includes('/MyEnternia/Wiki/')) return;
+        if (!(window.location.pathname + '/').includes('/MyEnternia/Wiki/')) return;
         
         const url = window.location.pathname;
         markAsPersonallyViewed(url);

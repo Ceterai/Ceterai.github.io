@@ -45,7 +45,7 @@
     // Initialize
     function init() {
         const path = window.location.pathname;
-        // Show on all pages except the root page
+        // Show on all pages except the site root page
         if (path === '/' || path === '/index.html') return;
         
         createBackToTopButton();

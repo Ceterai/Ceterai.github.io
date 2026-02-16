@@ -183,7 +183,7 @@
     // Initialize random page button
     async function initRandomPageButton() {
         // Only initialize on Wiki pages
-        const isWikiPage = window.location.pathname.includes('/MyEnternia/Wiki/');
+        const isWikiPage = (window.location.pathname + '/').includes('/MyEnternia/Wiki/');
         
         if (!isWikiPage) {
             return;
@@ -198,9 +198,19 @@
         randomButton.addEventListener('click', goToRandomPage);
         
         // Insert into the wiki-tools bar
-        const toolsBar = document.getElementById('wiki-tools');
-        if (toolsBar) {
-            toolsBar.appendChild(randomButton);
+        // Wait for element to be available (handle race conditions)
+        const insertButton = () => {
+            const toolsBar = document.getElementById('wiki-tools');
+            if (toolsBar) {
+                toolsBar.appendChild(randomButton);
+                return true;
+            }
+            return false;
+        };
+        
+        if (!insertButton()) {
+            // Retry after a brief delay
+            setTimeout(insertButton, 100);
         }
         
         // Setup keyboard shortcut

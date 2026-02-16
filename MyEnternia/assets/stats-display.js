@@ -111,16 +111,24 @@
     
     // Initialize stats display
     function initStatsDisplay() {
-        if (!window.location.pathname.includes('/MyEnternia/Wiki/')) return;
+        if (!(window.location.pathname + '/').includes('/MyEnternia/Wiki/')) return;
         
-        const toolsBar = document.getElementById('wiki-tools');
-        if (!toolsBar) return;
+        const tryInit = () => {
+            const toolsBar = document.getElementById('wiki-tools');
+            if (!toolsBar) return false;
+            
+            const counter = createViewCounterBadge();
+            const statsDropdown = createStatsDropdown();
+            
+            if (counter) toolsBar.appendChild(counter);
+            if (statsDropdown) toolsBar.appendChild(statsDropdown);
+            return true;
+        };
         
-        const counter = createViewCounterBadge();
-        const statsDropdown = createStatsDropdown();
-        
-        if (counter) toolsBar.appendChild(counter);
-        if (statsDropdown) toolsBar.appendChild(statsDropdown);
+        if (!tryInit()) {
+            // Retry after a brief delay
+            setTimeout(tryInit, 100);
+        }
     }
     
     // Expose update method for other scripts (like secrets)
