@@ -154,8 +154,11 @@
             return;
         }
         
-        // Create bookmark buttons as a fragment
-        const container = document.createDocumentFragment();
+        // Create bookmark buttons container
+        const container = document.createElement('div');
+        container.className = 'bookmark-tools-container';
+        container.style.display = 'inline-flex';
+        container.style.gap = '0.5rem';
         
         const bookmarkBtn = document.createElement('button');
         bookmarkBtn.id = 'bookmark-button';
@@ -191,60 +194,81 @@
         // Insert into the wiki-tools bar in the breadcrumbs
         // Wait for element to be available (handle race conditions)
         const setupEventListeners = () => {
-            // Set initial button state
-            const url = window.location.pathname;
-            updateBookmarkButton(isBookmarked(url));
-            updateBookmarksList();
-            
-            // Add event listeners
-            const bookmarkBtn = document.getElementById('bookmark-button');
-            if (bookmarkBtn) {
-                bookmarkBtn.addEventListener('click', toggleBookmark);
-            }
-            
-            const menuBtn = document.getElementById('bookmarks-menu-button');
-            if (menuBtn) {
-                menuBtn.addEventListener('click', toggleBookmarksMenu);
-            }
-            
-            const closeBtn = menuWrapper.querySelector('.close-menu');
-            if (closeBtn) {
-                closeBtn.addEventListener('click', () => {
-                    const menu = document.getElementById('bookmarks-menu');
-                    if (menu) menu.classList.remove('show');
-                });
-            }
-            
-            // Close menu when clicking outside
-            document.addEventListener('click', (e) => {
-                const menu = document.getElementById('bookmarks-menu');
-                const menuBtn = document.getElementById('bookmarks-menu-button');
-                if (menu && !menu.contains(e.target) && !menuBtn.contains(e.target)) {
-                    menu.classList.remove('show');
+            // Use requestAnimationFrame to ensure DOM is fully rendered
+            requestAnimationFrame(() => {
+                // Set initial button state
+                const url = window.location.pathname;
+                updateBookmarkButton(isBookmarked(url));
+                updateBookmarksList();
+                
+                // Add event listeners
+                const bookmarkBtn = document.getElementById('bookmark-button');
+                if (bookmarkBtn) {
+                    bookmarkBtn.addEventListener('click', toggleBookmark);
+                    console.log('Bookmark button listener attached');
+                } else {
+                    console.warn('Bookmark button not found for event listener');
                 }
+                
+                const menuBtn = document.getElementById('bookmarks-menu-button');
+                if (menuBtn) {
+                    menuBtn.addEventListener('click', toggleBookmarksMenu);
+                    console.log('Bookmarks menu button listener attached');
+                } else {
+                    console.warn('Bookmarks menu button not found');
+                }
+                
+                const closeBtn = menuWrapper.querySelector('.close-menu');
+                if (closeBtn) {
+                    closeBtn.addEventListener('click', () => {
+                        const menu = document.getElementById('bookmarks-menu');
+                        if (menu) menu.classList.remove('show');
+                    });
+                }
+                
+                // Close menu when clicking outside
+                document.addEventListener('click', (e) => {
+                    const menu = document.getElementById('bookmarks-menu');
+                    const menuBtn = document.getElementById('bookmarks-menu-button');
+                    if (menu && !menu.contains(e.target) && !menuBtn.contains(e.target)) {
+                        menu.classList.remove('show');
+                    }
+                });
             });
         };
         
         const insertIntoToolbar = () => {
             const toolsBar = document.getElementById('wiki-tools');
             if (toolsBar) {
+                console.log('Wiki-tools element found, inserting bookmarks');
                 toolsBar.appendChild(container);
                 setupEventListeners();
                 return true;
+            } else {
+                console.warn('Wiki-tools element not found');
             }
             return false;
         };
         
-        if (!insertIntoToolbar()) {
-            // Retry after a brief delay
-            setTimeout(insertIntoToolbar, 100);
-        }
+        // Try inserting with multiple retry attempts
+        let attempts = 0;
+        const tryInsert = () => {
+            if (insertIntoToolbar()) {
+                return; // Success!
+            }
+            attempts++;
+            if (attempts < 5) {
+                setTimeout(tryInsert, attempts * 50); // Increasing delay: 50, 100, 150, 200ms
+            }
+        };
+        tryInsert();
     }
     
     // Initialize when DOM is ready
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', initBookmarkSystem);
     } else {
-        initBookmarkSystem();
+        // Delay slightly to ensure DOM is fully settled
+        setTimeout(initBookmarkSystem, 0);
     }
 })();
