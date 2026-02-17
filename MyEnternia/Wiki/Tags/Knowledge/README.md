@@ -15,6 +15,10 @@ The tag `knowledge` contains 10 total entries.
 
 </details>
 
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Knowledge](https://starbounder.org/Tag:Knowledge)
+
 ## Tenants
 
 Following tenants require this colony tag:

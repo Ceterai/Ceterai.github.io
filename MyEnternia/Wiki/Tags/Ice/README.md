@@ -4,6 +4,10 @@ The tag `ice` contains 41 total entries.
 
 ## Objects
 
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Ice](https://starbounder.org/Tag:Ice)
+
 ## Tenants
 
 Following tenants require this colony tag:

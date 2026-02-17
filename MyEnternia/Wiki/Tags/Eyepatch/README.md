@@ -4,6 +4,10 @@ The tag `eyepatch` contains 2 total entries.
 
 ## Objects
 
+### Vanilla Objects
+
+Following vanilla objects have this colony tag: [Starbounder: Tags: Eyepatch](https://starbounder.org/Tag:Eyepatch)
+
 ## Tenants
 
 ## Items
