@@ -19,13 +19,13 @@ Radiomessages on pickup:
 
 [Calin cuisine](https://ceterai.github.io/MyEnternia/Wiki/Alta#calin), as the name suggests, is based on edible <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Crystal icon" loading="lazy" width="12px" height="16px"> [crystals](https://starbounder.org/Crystal) and [crystallic](https://ceterai.github.io/MyEnternia/Wiki/Io#crystallic) ingredients.
 
-Most common produce like <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="icon" loading="lazy" width="13px" height="12px"> [carels](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) figure in almost every calin dish out there.
+Most common produce like <img src="https://starbounder.org/mediawiki/images/f/f2/Crystal_Plant.png" alt="Carel icon" loading="lazy" width="13px" height="12px"> [carels](https://ceterai.github.io/MyEnternia/Wiki/Altas&Crystals) figure in almost every calin dish out there.
 
 But due to the sheer variety of crystals in [Io](https://ceterai.github.io/MyEnternia/Wiki/Io), some dishes can use very rare finds in their recipes.
 
-As an example, [Jinighat](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook) is an advanced alta dish that uses very rare crystals in its recipe, called <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="icon" loading="lazy" width="12px" height="16px"> [cojils](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook).
+As an example, [Jinighat](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook) is an advanced alta dish that uses very rare crystals in its recipe, called <img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Cojil icon" loading="lazy" width="12px" height="16px"> [cojils](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook).
 
-<img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="icon" loading="lazy" width="12px" height="16px"> [Cojil](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook) is a soury-hot crystal that can be found in volcanic underwater environments.
+<img src="https://starbounder.org/mediawiki/images/3/31/Crystal.png" alt="Cojil icon" loading="lazy" width="12px" height="16px"> [Cojil](https://ceterai.github.io/MyEnternia/Wiki/CalinCuisineBook) is a soury-hot crystal that can be found in volcanic underwater environments.
 
 ## Usage
 
