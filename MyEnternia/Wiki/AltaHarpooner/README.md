@@ -4,7 +4,7 @@
 
 A special squid capturing device with electric neutralizers - to defeat, but not over-defeat.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon_upg.png" alt="Harp-M ★ icon" loading="lazy" width="auto" height="16px"> [Harp-M ★](https://ceterai.github.io/MyEnternia/Wiki/Harp-M) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/harpooner/icon_upg.png" alt="Harp-M ★ icon" loading="lazy" width="auto" height="16px"> [Harp-M ★](https://ceterai.github.io/MyEnternia/Wiki/Harp-M) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

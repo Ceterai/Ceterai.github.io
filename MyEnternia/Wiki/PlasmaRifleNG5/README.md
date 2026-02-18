@@ -5,7 +5,7 @@
 A rifled alternia [plasma](https://ceterai.github.io/MyEnternia/Wiki/Alternia#damage) blaster, mostly used by combat and elite [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) forces.  
 Its heavy casing contains a lot of isolation and enough space for a proper _rapid plasma generator_.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Plasma Rifle NG5X ★ icon" loading="lazy" width="auto" height="16px"> [Plasma Rifle NG5X ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5X) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_plasma_rifle_2.png" alt="Plasma Rifle NG5X ★ icon" loading="lazy" width="auto" height="16px"> [Plasma Rifle NG5X ★](https://ceterai.github.io/MyEnternia/Wiki/PlasmaRifleNG5X) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

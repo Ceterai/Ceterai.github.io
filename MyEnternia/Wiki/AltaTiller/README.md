@@ -4,7 +4,7 @@
 
 An advanced tool to till soil. RMB for more accurate tilling.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon_upg.png" alt="Startiller ★ icon" loading="lazy" width="auto" height="16px"> [Startiller ★](https://ceterai.github.io/MyEnternia/Wiki/Startiller) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/tiller/icon_upg.png" alt="Startiller ★ icon" loading="lazy" width="auto" height="16px"> [Startiller ★](https://ceterai.github.io/MyEnternia/Wiki/Startiller) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Usage
 

@@ -6,7 +6,7 @@
 Just like a lot of alta tools, including combat tools, this one is considered to be non-lethal by [alta security protocols](https://ceterai.github.io/MyEnternia/Wiki/SecurityProtocolDatamass), since it doesn't provide an amount energy to be able to really harm an alta, as well as the vast majority of Io creatures. It's only meant to scare away the target, or stugger it. In worst case scenarios, it will paralize the target, but not kill it.  
 The exception to this rule are drones, that can take damage from the plasmic charges from the hits.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" width="auto" height="16px"> [Halter Compact ★](https://ceterai.github.io/MyEnternia/Wiki/HalterCompact) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_stun_stick_2.png" alt="Halter Compact ★ icon" loading="lazy" width="auto" height="16px"> [Halter Compact ★](https://ceterai.github.io/MyEnternia/Wiki/HalterCompact) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

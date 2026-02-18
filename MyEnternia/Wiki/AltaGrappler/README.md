@@ -4,7 +4,7 @@
 
 Oh my god, whee! This is so fun!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon_upg.png" alt="Energy Grappler ★ icon" loading="lazy" width="auto" height="16px"> [Energy Grappler ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyGrappler) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/grappler/icon_upg.png" alt="Energy Grappler ★ icon" loading="lazy" width="auto" height="16px"> [Energy Grappler ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyGrappler) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Sources
 

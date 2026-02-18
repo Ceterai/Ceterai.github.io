@@ -5,7 +5,7 @@
 A simple alta toy with powerful thrusters. You won't use it for hurting anyone, right?  
 Its simple shape and common alta colors make it a staple in alta culture and a common item at <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_koywa_loot.png" alt="Alterash Riversides icon" loading="lazy" width="auto" height="16px"> [alterash riverside](https://ceterai.github.io/MyEnternia/Wiki/AlterashRiversides) resorts.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-boomerang-upgrade.png" alt="Powerang ★ icon" loading="lazy" width="auto" height="16px"> [Powerang ★](https://ceterai.github.io/MyEnternia/Wiki/Powerang) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-boomerang-upgrade.png" alt="Powerang ★ icon" loading="lazy" width="auto" height="16px"> [Powerang ★](https://ceterai.github.io/MyEnternia/Wiki/Powerang) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

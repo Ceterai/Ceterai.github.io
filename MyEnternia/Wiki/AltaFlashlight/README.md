@@ -4,7 +4,7 @@
 
 A handy flashlight!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon_upg.png" alt="Enhanced Flashlight ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Flashlight ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedFlashlight) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/lights/flashlight/icon_upg.png" alt="Enhanced Flashlight ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Flashlight ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedFlashlight) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Sources
 

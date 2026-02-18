@@ -4,7 +4,7 @@
 
 A tool of many [arknights](https://ceterai.github.io/MyEnternia/Wiki/Arknight) - the peacekeeping watchers of the <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_stardust.png" alt="Stardust icon" loading="lazy" width="auto" height="16px"> [stardust](https://ceterai.github.io/MyEnternia/Wiki/Stardust) sky, eager to keep other [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) safe from dangers and injustice.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance_2.png" alt="Eva Linn ★ icon" loading="lazy" width="auto" height="16px"> [Eva Linn ★](https://ceterai.github.io/MyEnternia/Wiki/EvaLinn) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance_2.png" alt="Eva Linn ★ icon" loading="lazy" width="auto" height="16px"> [Eva Linn ★](https://ceterai.github.io/MyEnternia/Wiki/EvaLinn) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

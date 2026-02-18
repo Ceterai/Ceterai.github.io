@@ -4,7 +4,7 @@
 
 An energy-based alta lumber cutter.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon_upg.png" alt="Enternia Cutter ★ icon" loading="lazy" width="auto" height="16px"> [Enternia Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCutter) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/ionic_cutter/icon_upg.png" alt="Enternia Cutter ★ icon" loading="lazy" width="auto" height="16px"> [Enternia Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaCutter) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Sources
 

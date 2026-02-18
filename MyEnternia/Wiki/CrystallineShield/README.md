@@ -5,7 +5,7 @@
 A hardened crystal shield. Wearing it makes your energy flow faster, increasing your energy regen slightly.  
 It's not entirely known whether these crystal shields are forming naturally, but so far there has been no evidence of alta assistance in the process.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-upgrade.png" alt="Cave Keeper ★ icon" loading="lazy" width="auto" height="16px"> [Cave Keeper ★](https://ceterai.github.io/MyEnternia/Wiki/CaveKeeper) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystalline_shield-upgrade.png" alt="Cave Keeper ★ icon" loading="lazy" width="auto" height="16px"> [Cave Keeper ★](https://ceterai.github.io/MyEnternia/Wiki/CaveKeeper) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

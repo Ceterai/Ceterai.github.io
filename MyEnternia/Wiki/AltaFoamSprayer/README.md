@@ -4,7 +4,7 @@
 
 Spray a sticky foam that slows down enemies!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon_upg.png" alt="Super-Foamer ★ icon" loading="lazy" width="auto" height="16px"> [Super-Foamer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Foamer) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/foam_sprayer/icon_upg.png" alt="Super-Foamer ★ icon" loading="lazy" width="auto" height="16px"> [Super-Foamer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Foamer) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

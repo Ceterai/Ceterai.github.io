@@ -5,7 +5,7 @@
 This literal energy tool is meant to be used for diffusing enchanted traps and reacting to miazmas.  
 Generally used by scientific alta groups, its design is secondary to its function.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-baton-upgrade.png" alt="Pulse Rejector ★★ icon" loading="lazy" width="auto" height="16px"> [Pulse Rejector ★★](https://ceterai.github.io/MyEnternia/Wiki/PulseRejector) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-baton-upgrade.png" alt="Pulse Rejector ★★ icon" loading="lazy" width="auto" height="16px"> [Pulse Rejector ★★](https://ceterai.github.io/MyEnternia/Wiki/PulseRejector) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

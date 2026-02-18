@@ -5,7 +5,7 @@
 **WIP**. A scouting tool used by [altas](https://ceterai.github.io/MyEnternia/Wiki/Alta) for travel. It doesn't have a sharp side, because the purpose of this instrument is not combat-related.  
 Protospears are used to gather energy and covert it into kinetic force, allowing scouts to traverse the harshest terrain.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Spear ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sSpear) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_protospear_2.png" alt="Protea's Spear ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Spear ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sSpear) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

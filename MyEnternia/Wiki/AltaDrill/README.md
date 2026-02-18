@@ -4,7 +4,7 @@
 
 Drills fast but breaks quickly. A temporary alternative to the matter manipulator.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon_upg.png" alt="Superdrill ★ icon" loading="lazy" width="auto" height="16px"> [Superdrill ★](https://ceterai.github.io/MyEnternia/Wiki/Superdrill) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/drill/icon_upg.png" alt="Superdrill ★ icon" loading="lazy" width="auto" height="16px"> [Superdrill ★](https://ceterai.github.io/MyEnternia/Wiki/Superdrill) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Sources
 

@@ -9,7 +9,7 @@ This **energy tool** is considered a visit card of **alta gladiators**, and is o
 
 **Arkanas**, or alta gladiators, are berserk-type combat units, enhanced with a powerful **arkana exoskeleton**, allowing them to move at great speeds and jump much higher that usual, as well as put significatnly more power into each hit of their weapon.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" width="auto" height="16px"> [Alter-Sword ★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sword) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_plasmasword_2.png" alt="Alter-Sword ★★ icon" loading="lazy" width="auto" height="16px"> [Alter-Sword ★★](https://ceterai.github.io/MyEnternia/Wiki/Alter-Sword) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

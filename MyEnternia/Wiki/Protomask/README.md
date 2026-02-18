@@ -5,7 +5,7 @@
 Regular protective wear of [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) scouts on <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png" alt="icon" loading="lazy" width="auto" height="16px"> [alterash](https://ceterai.github.io/MyEnternia/Wiki/Alterash) planets.  
 This mask enhances the wearer's energy by connecting to the body suit's protogear system. The recepticles on the back are meant to gather that energy from the ionized air around.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_mask-upgrade.png" alt="Protea's Mask ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Mask ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sMask) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_mask-upgrade.png" alt="Protea's Mask ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Mask ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sMask) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

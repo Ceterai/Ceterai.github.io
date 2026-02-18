@@ -4,7 +4,7 @@
 
 Water your crops with this fashionable watering can.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" width="auto" height="16px"> [Astan Dew ★](https://ceterai.github.io/MyEnternia/Wiki/AstanDew) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/altan_can/icon_upg.png" alt="Astan Dew ★ icon" loading="lazy" width="auto" height="16px"> [Astan Dew ★](https://ceterai.github.io/MyEnternia/Wiki/AstanDew) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

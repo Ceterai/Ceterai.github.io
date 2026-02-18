@@ -5,7 +5,7 @@
 This armored cannon containing a powerful phosic energen can generate multiple accelerated blasts at once.  
 All the armor hide a complex cooling system needed to contain and redirect all the energy from the phosicores inside.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy-upgrade.png" alt="Vermillion ★★★ icon" loading="lazy" width="auto" height="16px"> [Vermillion ★★★](https://ceterai.github.io/MyEnternia/Wiki/Vermillion) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-eds_heavy-upgrade.png" alt="Vermillion ★★★ icon" loading="lazy" width="auto" height="16px"> [Vermillion ★★★](https://ceterai.github.io/MyEnternia/Wiki/Vermillion) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

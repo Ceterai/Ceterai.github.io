@@ -4,7 +4,7 @@
 
 Spray a sticky foam that slows down enemies!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon_upg.png" alt="Super-Slimer ★ icon" loading="lazy" width="auto" height="16px"> [Super-Slimer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Slimer) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_sprayer/icon_upg.png" alt="Super-Slimer ★ icon" loading="lazy" width="auto" height="16px"> [Super-Slimer ★](https://ceterai.github.io/MyEnternia/Wiki/Super-Slimer) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

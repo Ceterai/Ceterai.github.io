@@ -4,7 +4,7 @@
 
 Its core was constructed from enternia-enhanced moonrock meteorites of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_astera_loot.png" alt="Astera icon" loading="lazy" width="auto" height="16px"> [Astera](https://ceterai.github.io/MyEnternia/Wiki/Astera).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png" alt="Starblaster ★ icon" loading="lazy" width="auto" height="16px"> [Starblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Starblaster) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_meteoblaster_2.png" alt="Starblaster ★ icon" loading="lazy" width="auto" height="16px"> [Starblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Starblaster) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

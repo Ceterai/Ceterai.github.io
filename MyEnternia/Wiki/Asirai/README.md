@@ -5,7 +5,7 @@
 This belongs to Ceterai. How did you get it?  
 This mysterious weapon-looking item is actually an energy tool, similar to alta protospears. Ceterai uses it to manipulate energy and help herself travel on long distances.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/ammerax.png" alt="Ammerax ★★★ icon" loading="lazy" width="auto" height="16px"> [Ammerax ★★★](https://ceterai.github.io/MyEnternia/Wiki/Ammerax) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/ammerax.png" alt="Ammerax ★★★ icon" loading="lazy" width="auto" height="16px"> [Ammerax ★★★](https://ceterai.github.io/MyEnternia/Wiki/Ammerax) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

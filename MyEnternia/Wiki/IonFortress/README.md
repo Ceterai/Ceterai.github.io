@@ -5,7 +5,7 @@
 An impenetrable stand made out of the hardest minerals and stones that can be found in ion planet cores.  
 This shield is considered an artifact, but its origins are not entirely known. Although the front decoration gives some clues.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ioncore_shield-upgrade.png" alt="Ioncore Tower ★ icon" loading="lazy" width="auto" height="16px"> [Ioncore Tower ★](https://ceterai.github.io/MyEnternia/Wiki/IoncoreTower) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ioncore_shield-upgrade.png" alt="Ioncore Tower ★ icon" loading="lazy" width="auto" height="16px"> [Ioncore Tower ★](https://ceterai.github.io/MyEnternia/Wiki/IoncoreTower) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

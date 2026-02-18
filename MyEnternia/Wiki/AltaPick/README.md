@@ -4,7 +4,7 @@
 
 This tool won't last long, but I'll be able to dig pretty fast with it.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon_upg.png" alt="Starpick ★ icon" loading="lazy" width="auto" height="16px"> [Starpick ★](https://ceterai.github.io/MyEnternia/Wiki/Starpick) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/mine/pick/icon_upg.png" alt="Starpick ★ icon" loading="lazy" width="auto" height="16px"> [Starpick ★](https://ceterai.github.io/MyEnternia/Wiki/Starpick) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Sources
 

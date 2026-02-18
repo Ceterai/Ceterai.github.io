@@ -5,7 +5,7 @@
 **WIP**. Be careful - the blade of this spear is made out of poisonous crystals.  
 In the hands of a professional, it can become both very useful and quite versatile. Made by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash_prime/bishyn/ct_poison_crystal1/icon.png" alt="icon" loading="lazy" width="auto" height="16px"> [bishyn](https://ceterai.github.io/MyEnternia/Wiki/BishynHalls) enthusiasts, it has a couple of unfinished features that could unravel its true potential.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" width="auto" height="16px"> [Razhus Az'Ar ★](https://ceterai.github.io/MyEnternia/Wiki/RazhusAz'Ar) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_bishyn_spear_2.png" alt="Razhus Az'Ar ★ icon" loading="lazy" width="auto" height="16px"> [Razhus Az'Ar ★](https://ceterai.github.io/MyEnternia/Wiki/RazhusAz'Ar) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

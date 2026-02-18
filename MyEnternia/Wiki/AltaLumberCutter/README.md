@@ -4,7 +4,7 @@
 
 Great for chopping down trees.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon_upg.png" alt="Ultrafast Cutter ★ icon" loading="lazy" width="auto" height="16px"> [Ultrafast Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/UltrafastCutter) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/cut/lumber_cutter/icon_upg.png" alt="Ultrafast Cutter ★ icon" loading="lazy" width="auto" height="16px"> [Ultrafast Cutter ★](https://ceterai.github.io/MyEnternia/Wiki/UltrafastCutter) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Usage
 

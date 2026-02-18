@@ -5,7 +5,7 @@
 Intended for sending instects to sleep. Can be used instead of a bug net.
 Charge: 20 pumps.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" width="auto" height="16px"> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollen_pump/icon_upg.png" alt="A-Zych RX ★ icon" loading="lazy" width="auto" height="16px"> [A-Zych RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-ZychRX) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

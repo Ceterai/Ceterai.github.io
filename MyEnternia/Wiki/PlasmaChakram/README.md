@@ -4,7 +4,7 @@
 
 It's very rare to find a chakram used as a weapon nowadays. This one is a little damaged, but seems to still work somehow.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram_2.png" alt="Inarus ★ icon" loading="lazy" width="auto" height="16px"> [Inarus ★](https://ceterai.github.io/MyEnternia/Wiki/Inarus) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_plasma_chakram_2.png" alt="Inarus ★ icon" loading="lazy" width="auto" height="16px"> [Inarus ★](https://ceterai.github.io/MyEnternia/Wiki/Inarus) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

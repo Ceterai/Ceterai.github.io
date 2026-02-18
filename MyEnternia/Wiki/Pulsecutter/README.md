@@ -4,7 +4,7 @@
 
 This environmental tool is usually used to cut hard materials with rapid and long targeted [impulses](https://ceterai.github.io/MyEnternia/Wiki/Ceternia#damage).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" width="auto" height="16px"> [Hyperblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Hyperblaster) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_pulsecutter_2.png" alt="Hyperblaster ★ icon" loading="lazy" width="auto" height="16px"> [Hyperblaster ★](https://ceterai.github.io/MyEnternia/Wiki/Hyperblaster) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

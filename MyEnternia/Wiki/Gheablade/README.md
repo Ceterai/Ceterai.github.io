@@ -5,7 +5,7 @@
 **WIP**. The blade of this axe is made from layered <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_gheatsyn_shard.png" alt="icon" loading="lazy" width="auto" height="16px"> [gheatsyn](https://ceterai.github.io/MyEnternia/Wiki/GheatsynShard). There are electronic compensators on the handle made from the same crystals.  
 These compensators, or gheafluxers, are meant to engage the energy from cimilar crystals nearby, creating a barely visible resonation, that ultimately accelerates <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_tsyntex.png" alt="Tsyntex icon" loading="lazy" width="auto" height="16px"> [tsyntex](https://ceterai.github.io/MyEnternia/Wiki/Tsyntex).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade_2.png" alt="Gheacleaver ★ icon" loading="lazy" width="auto" height="16px"> [Gheacleaver ★](https://ceterai.github.io/MyEnternia/Wiki/Gheacleaver) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_gheablade_2.png" alt="Gheacleaver ★ icon" loading="lazy" width="auto" height="16px"> [Gheacleaver ★](https://ceterai.github.io/MyEnternia/Wiki/Gheacleaver) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

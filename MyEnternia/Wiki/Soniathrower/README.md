@@ -4,7 +4,7 @@
 
 This cooling tool is usually used for firefighting and supercharging specific environments. It's able to withstand all the cold due to its <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_bionid.png" alt="Bionid icon" loading="lazy" width="auto" height="16px"> [bionid](https://ceterai.github.io/MyEnternia/Wiki/Bionid) case.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" width="auto" height="16px"> [Sonia's Breath ★](https://ceterai.github.io/MyEnternia/Wiki/Sonia'sBreath) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower_2.png" alt="Sonia's Breath ★ icon" loading="lazy" width="auto" height="16px"> [Sonia's Breath ★](https://ceterai.github.io/MyEnternia/Wiki/Sonia'sBreath) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

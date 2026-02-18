@@ -5,7 +5,7 @@
 A compact non-standard energy tool for producing cryonic energy bursts. Very easy to pack in an alta pad.  
 Popular among sona soldiers and aspiring faradea legends, as well as kaiter raiders.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-cryo-upgrade.png" alt="S'urysk ★★ icon" loading="lazy" width="auto" height="16px"> [S'urysk ★★](https://ceterai.github.io/MyEnternia/Wiki/S'urysk) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-cryo-upgrade.png" alt="S'urysk ★★ icon" loading="lazy" width="auto" height="16px"> [S'urysk ★★](https://ceterai.github.io/MyEnternia/Wiki/S'urysk) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

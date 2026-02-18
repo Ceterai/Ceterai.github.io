@@ -5,7 +5,7 @@
 **WIP**. A nice colorful weapon of mass destruction!  
 The origins of this are as unclear as what it actually is. Is it a plant? An alta-made tool? An amalgamation of both?
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword_2.png" alt="Haven Clover ★ icon" loading="lazy" width="auto" height="16px"> [Haven Clover ★](https://ceterai.github.io/MyEnternia/Wiki/HavenClover) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_flowersword_2.png" alt="Haven Clover ★ icon" loading="lazy" width="auto" height="16px"> [Haven Clover ★](https://ceterai.github.io/MyEnternia/Wiki/HavenClover) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

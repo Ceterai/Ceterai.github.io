@@ -5,7 +5,7 @@
 A rifled cryo energy blaster, mostly used by [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) operating in <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_sona_loot.png" alt="Tavriya icon" loading="lazy" width="auto" height="16px"> [tavriya](https://ceterai.github.io/MyEnternia/Wiki/Tavriya).  
 Its compact cryogenic core is able to produce energy blasts at different rates, allowing for multiple firemodes.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle_2.png" alt="Sona Rifle SG5X ★ icon" loading="lazy" width="auto" height="16px"> [Sona Rifle SG5X ★](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5X) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_sona_rifle_2.png" alt="Sona Rifle SG5X ★ icon" loading="lazy" width="auto" height="16px"> [Sona Rifle SG5X ★](https://ceterai.github.io/MyEnternia/Wiki/SonaRifleSG5X) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

@@ -4,7 +4,7 @@
 
 Spreades a harmless solution that turns residue slime into foam on contact.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" width="auto" height="16px"> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/slime_cleaner/icon_upg.png" alt="A-Poi RX ★ icon" loading="lazy" width="auto" height="16px"> [A-Poi RX ★](https://ceterai.github.io/MyEnternia/Wiki/A-PoiRX) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

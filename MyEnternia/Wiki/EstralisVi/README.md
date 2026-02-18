@@ -4,7 +4,7 @@
 
 A unique wrist device lost in the midst of nowhere. How did it get here? Is it... looking at you?
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estria's Vyurm ★ icon" loading="lazy" width="auto" height="16px"> [Estria's Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sVyurm) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_estralis_vi_2.png" alt="Estria's Vyurm ★ icon" loading="lazy" width="auto" height="16px"> [Estria's Vyurm ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sVyurm) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

@@ -4,7 +4,7 @@
 
 Crackling with destructive energy.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-neo_orbit-upgrade.png" alt="Energo-Aperture ★★ icon" loading="lazy" width="auto" height="16px"> [Energo-Aperture ★★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Aperture) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-neo_orbit-upgrade.png" alt="Energo-Aperture ★★ icon" loading="lazy" width="auto" height="16px"> [Energo-Aperture ★★](https://ceterai.github.io/MyEnternia/Wiki/Energo-Aperture) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

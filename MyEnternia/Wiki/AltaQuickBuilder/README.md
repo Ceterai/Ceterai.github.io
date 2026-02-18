@@ -5,7 +5,7 @@
 Intended for sending instects to sleep. Can be used instead of a bug net.
 Charge: 200 blocks.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/quick_builder/icon_upg.png" alt="Enhanced Builder ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Builder ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedBuilder) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/climb/quick_builder/icon_upg.png" alt="Enhanced Builder ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Builder ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedBuilder) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

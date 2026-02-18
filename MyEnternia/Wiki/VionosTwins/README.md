@@ -5,7 +5,7 @@
 Someone did the seemingly impossible - used anomaly energy to create a tool. You can sense slight magnetic pulls coming from it.  
 This dangerous yet powerful combo doesn't seem to go well with usual alta safety protocols. Still, it might be pretty enticing to some.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" width="auto" height="16px"> [Bi-Blade ★](https://ceterai.github.io/MyEnternia/Wiki/Bi-Blade) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" width="auto" height="16px"> [Bi-Blade ★](https://ceterai.github.io/MyEnternia/Wiki/Bi-Blade) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

@@ -4,7 +4,7 @@
 
 A <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/crafting/ct_phospholion.png" alt="Phospholion icon" loading="lazy" width="auto" height="16px"> [phospholion](https://ceterai.github.io/MyEnternia/Wiki/Phospholion) cannon that forms small radioactive projectiles that deal severe [fire](https://ceterai.github.io/MyEnternia/Wiki/Tags/Fire) damage upon contact.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator_2.png" alt="Phosic Cannon ★ icon" loading="lazy" width="auto" height="16px"> [Phosic Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/PhosicCannon) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_phospholiator_2.png" alt="Phosic Cannon ★ icon" loading="lazy" width="auto" height="16px"> [Phosic Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/PhosicCannon) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

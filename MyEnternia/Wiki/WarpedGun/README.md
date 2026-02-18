@@ -4,7 +4,7 @@
 
 This cannon is overgrown with <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_warped_hive.png" alt="icon" loading="lazy" width="auto" height="16px"> [warped](https://ceterai.github.io/MyEnternia/Wiki/WarpedForest) fibres. It has a special section filled with warped venom and luminous juices.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun_2.png" alt="Biowarper ★ icon" loading="lazy" width="auto" height="16px"> [Biowarper ★](https://ceterai.github.io/MyEnternia/Wiki/Biowarper) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_warped_gun_2.png" alt="Biowarper ★ icon" loading="lazy" width="auto" height="16px"> [Biowarper ★](https://ceterai.github.io/MyEnternia/Wiki/Biowarper) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

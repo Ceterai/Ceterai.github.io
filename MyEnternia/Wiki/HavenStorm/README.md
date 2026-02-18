@@ -4,7 +4,7 @@
 
 A powerful launcher that forms [haven](https://ceterai.github.io/MyEnternia/Wiki/AlterashHaven) toxins into a poisonous energy ball.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm_2.png" alt="Haven Chaos ★ icon" loading="lazy" width="auto" height="16px"> [Haven Chaos ★](https://ceterai.github.io/MyEnternia/Wiki/HavenChaos) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_haven_storm_2.png" alt="Haven Chaos ★ icon" loading="lazy" width="auto" height="16px"> [Haven Chaos ★](https://ceterai.github.io/MyEnternia/Wiki/HavenChaos) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

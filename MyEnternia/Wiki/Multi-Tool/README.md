@@ -5,7 +5,7 @@
 **WIP**. A fancy hatchet-like tool used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) scouts for traversing certain types of terrain.  
 Because it packs so many useful funtions, its considered an essential survival tool and is usually given out to almost any alta preparing for travel or outgoing task.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" width="auto" height="16px"> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_alta_multi_tool_2.png" alt="Ultimate Tool ★ icon" loading="lazy" width="auto" height="16px"> [Ultimate Tool ★](https://ceterai.github.io/MyEnternia/Wiki/UltimateTool) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

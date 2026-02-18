@@ -5,7 +5,7 @@
 A part of a usually dual combo - these machine blasters are often used by <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_faradea_loot.png" alt="icon" loading="lazy" width="auto" height="16px"> [Faradea](https://ceterai.github.io/MyEnternia/Wiki/Faradea) crews.  
 Compact yet effective - they are able to rapidly generate small plasmic charges without big reload times.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"> [Faradeus Prime ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeusPrime) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_faradeus_2.png" alt="Faradeus Prime ★ icon" loading="lazy" width="auto" height="16px"> [Faradeus Prime ★](https://ceterai.github.io/MyEnternia/Wiki/FaradeusPrime) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

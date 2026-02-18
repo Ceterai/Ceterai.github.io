@@ -5,7 +5,7 @@
 This blaster can launch special charges of enchanted energy. Holding LMB will produce even weirder results.  
 Judging by its casing and colors, this might have actually been just a regular toy before its "enchantment". Now instead of soft pellets it blasts out energy charges.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Pulser ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedPulser) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Pulser ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedPulser) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

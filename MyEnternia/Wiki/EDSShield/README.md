@@ -5,7 +5,7 @@
 A hand-held bastion that will protect you against all unknown threats awaiting in the dark.  
 It's sliding plates allow it to stay relatively combat when unused, while expanding in area when necessary.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-upgrade.png" alt="EDS Protector ★ icon" loading="lazy" width="auto" height="16px"> [EDS Protector ★](https://ceterai.github.io/MyEnternia/Wiki/EDSProtector) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_eds_shield-upgrade.png" alt="EDS Protector ★ icon" loading="lazy" width="auto" height="16px"> [EDS Protector ★](https://ceterai.github.io/MyEnternia/Wiki/EDSProtector) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

@@ -4,7 +4,7 @@
 
 This energy saber produces a very special type of plasma of unknown polarity - sura-plasma. Similar to enternia, you can feel the air around you go static...
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-suria-upgrade.png" alt="Solus Katana ★ icon" loading="lazy" width="auto" height="16px"> [Solus Katana ★](https://ceterai.github.io/MyEnternia/Wiki/SolusKatana) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-suria-upgrade.png" alt="Solus Katana ★ icon" loading="lazy" width="auto" height="16px"> [Solus Katana ★](https://ceterai.github.io/MyEnternia/Wiki/SolusKatana) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

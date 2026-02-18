@@ -7,7 +7,7 @@ All what's left from a mysterious beast. If it's this big, who knows what a gian
 
 Barracudas' fins are pretty powerful and surprisingly easy to swing, and the sturdy bone spikes are hard enough to dent some metals.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Cry ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sCry) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_barracuda_fin_2.png" alt="Barracuda's Cry ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Cry ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sCry) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

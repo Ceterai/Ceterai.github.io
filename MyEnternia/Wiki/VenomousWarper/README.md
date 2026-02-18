@@ -4,7 +4,7 @@
 
 A full on creature that you can wear on your hand. Be careful - its tentacles are pretty venomous...
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-warper-upgrade.png" alt="Toxiwarper ★ icon" loading="lazy" width="auto" height="16px"> [Toxiwarper ★](https://ceterai.github.io/MyEnternia/Wiki/Toxiwarper) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-warper-upgrade.png" alt="Toxiwarper ★ icon" loading="lazy" width="auto" height="16px"> [Toxiwarper ★](https://ceterai.github.io/MyEnternia/Wiki/Toxiwarper) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

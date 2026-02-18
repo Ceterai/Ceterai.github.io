@@ -5,7 +5,7 @@
 A powerful cannon that utilizes <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) both as coolant and as missile component.  
 This heavy energy tool has outside origins and was simply altered in a Neiteru alta lab.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power-upgrade.png" alt="R-Powercannon ★★★ icon" loading="lazy" width="auto" height="16px"> [R-Powercannon ★★★](https://ceterai.github.io/MyEnternia/Wiki/R-Powercannon) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-r_power-upgrade.png" alt="R-Powercannon ★★★ icon" loading="lazy" width="auto" height="16px"> [R-Powercannon ★★★](https://ceterai.github.io/MyEnternia/Wiki/R-Powercannon) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

@@ -5,7 +5,7 @@
 An upgraded model of the NG4 rifle, with a new set of fire modes and a stabilizer as a mod option.  
 This model introduces rail technology with an accelerator is meant to increase the speed and power of every charge.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png" alt="Pulse Railgun ★ icon" loading="lazy" width="auto" height="16px"> [Pulse Railgun ★](https://ceterai.github.io/MyEnternia/Wiki/PulseRailgun) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_mk2_2.png" alt="Pulse Railgun ★ icon" loading="lazy" width="auto" height="16px"> [Pulse Railgun ★](https://ceterai.github.io/MyEnternia/Wiki/PulseRailgun) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

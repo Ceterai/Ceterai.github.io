@@ -4,7 +4,7 @@
 
 An improved tool for safely gathering glow fibres and cell matter from jellies. Do not use on anything else.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon_upg.png" alt="Enhanced Harpooner ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Harpooner ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedHarpooner) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_harpooner/icon_upg.png" alt="Enhanced Harpooner ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Harpooner ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedHarpooner) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

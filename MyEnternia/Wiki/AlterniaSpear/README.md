@@ -4,7 +4,7 @@
 
 Made of pure starsteel, it bursts with electricity.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/enternia_halberd.png" alt="Enternia Halberd ★ icon" loading="lazy" width="auto" height="16px"> [Enternia Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaHalberd) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/other/asirai/enternia_halberd.png" alt="Enternia Halberd ★ icon" loading="lazy" width="auto" height="16px"> [Enternia Halberd ★](https://ceterai.github.io/MyEnternia/Wiki/EnterniaHalberd) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

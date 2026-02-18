@@ -5,7 +5,7 @@
 A rifled ceternia impulse blaster, mostly used by [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security to suppress threats. Relatively harmless.  
 This long-range high-precision energy instrument can generate long-lasting impulses, able to travel without losing height.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_2.png" alt="Impulse Rifle NG4X ★ icon" loading="lazy" width="auto" height="16px"> [Impulse Rifle NG4X ★](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4X) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/rifle/ct_alta_impulse_rifle_2.png" alt="Impulse Rifle NG4X ★ icon" loading="lazy" width="auto" height="16px"> [Impulse Rifle NG4X ★](https://ceterai.github.io/MyEnternia/Wiki/ImpulseRifleNG4X) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

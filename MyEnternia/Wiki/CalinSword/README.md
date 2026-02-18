@@ -5,7 +5,7 @@
 **WIP**. A sword made out of pure crystals. Seems like it's slowly gathering the energy around it...  
 This sword was hand-made by an alta enthusiast who found a way to harden calin crystals in a way that would allow them to stay sharp and in one piece, while keeping their energy conduction capability.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword_2.png" alt="Crystal Blade ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Blade ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalBlade) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/light/ct_calin_sword_2.png" alt="Crystal Blade ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Blade ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalBlade) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

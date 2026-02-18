@@ -4,7 +4,7 @@
 
 A blaster meant to spread <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_isoslime_ball.png" alt="Isoslime icon" loading="lazy" width="auto" height="16px"> [isoslime](https://ceterai.github.io/MyEnternia/Wiki/Isoslime) everywhere. Holding LMB will charge up an [isoslime ball](https://ceterai.github.io/MyEnternia/Wiki/Isoslime).
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" width="auto" height="16px"> [Isoblaster Prime ★](https://ceterai.github.io/MyEnternia/Wiki/IsoblasterPrime) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_isoblaster_2.png" alt="Isoblaster Prime ★ icon" loading="lazy" width="auto" height="16px"> [Isoblaster Prime ★](https://ceterai.github.io/MyEnternia/Wiki/IsoblasterPrime) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

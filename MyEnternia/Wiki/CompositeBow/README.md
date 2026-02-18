@@ -4,7 +4,7 @@
 
 A sports tool that increases your chances of getting a trophy when defeating an opponent!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon_upg.png" alt="Enhanced Bow ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Bow ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedBow) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/hunt/composite_bow/icon_upg.png" alt="Enhanced Bow ★ icon" loading="lazy" width="auto" height="16px"> [Enhanced Bow ★](https://ceterai.github.io/MyEnternia/Wiki/EnhancedBow) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

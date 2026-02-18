@@ -5,7 +5,7 @@
 **WIP**. A venomous spear made of nivera thorns. Strange scars on its bone handle look similar to a signature.  
 It's unknown who's bone exactly this is, or if it's even a bone to begin with. If you examine it real closely, you might sense a slight pleasant smell of parfumes.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk_2.png" alt="Estria's Kiss ★ icon" loading="lazy" width="auto" height="16px"> [Estria's Kiss ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sKiss) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/spear/ct_niverisk_2.png" alt="Estria's Kiss ★ icon" loading="lazy" width="auto" height="16px"> [Estria's Kiss ★](https://ceterai.github.io/MyEnternia/Wiki/Estria'sKiss) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

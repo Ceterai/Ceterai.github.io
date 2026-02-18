@@ -5,7 +5,7 @@
 A rare amethyst crystal formation with good protective capabilities. Quite pretty as well.  
 This variation of a regular gemstone is much more resistant than usual, however, not nearly as resistant as some other crystals.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calin_shield-amethyst-upgrade.png" alt="Crystallite Prime ★ icon" loading="lazy" width="auto" height="16px"> [Crystallite Prime ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallitePrime) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_calin_shield-amethyst-upgrade.png" alt="Crystallite Prime ★ icon" loading="lazy" width="auto" height="16px"> [Crystallite Prime ★](https://ceterai.github.io/MyEnternia/Wiki/CrystallitePrime) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

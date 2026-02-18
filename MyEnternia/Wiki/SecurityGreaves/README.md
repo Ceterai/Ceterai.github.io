@@ -4,7 +4,7 @@
 
 A standard protocol armour-plated legwear for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security units.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_legwear-upgrade.png" alt="GR Stands ★ icon" loading="lazy" width="auto" height="16px"> [GR Stands ★](https://ceterai.github.io/MyEnternia/Wiki/GRStands) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_legwear-upgrade.png" alt="GR Stands ★ icon" loading="lazy" width="auto" height="16px"> [GR Stands ★](https://ceterai.github.io/MyEnternia/Wiki/GRStands) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

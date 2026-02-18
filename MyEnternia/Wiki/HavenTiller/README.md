@@ -4,7 +4,7 @@
 
 An advanced tool to till soil. The tilled soil can then be used to grow all sorts of crops!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon_upg.png" alt="Earthcatcher ★ icon" loading="lazy" width="auto" height="16px"> [Earthcatcher ★](https://ceterai.github.io/MyEnternia/Wiki/Earthcatcher) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/till/haven_tiller/icon_upg.png" alt="Earthcatcher ★ icon" loading="lazy" width="auto" height="16px"> [Earthcatcher ★](https://ceterai.github.io/MyEnternia/Wiki/Earthcatcher) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

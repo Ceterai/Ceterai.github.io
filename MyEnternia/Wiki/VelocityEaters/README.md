@@ -5,7 +5,7 @@
 These trousers boost your jump and disperse your velocity when landing, reducing fall damage. Perfect for scouting missions.  
 They are powered by the special protosystem that replaces usual energy cells with an energy circulation mechanic that flows troughout the whole costume.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_velocity_eaters-upgrade.png" alt="Protea's Vectors ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Vectors ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sVectors) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_scout_velocity_eaters-upgrade.png" alt="Protea's Vectors ★ icon" loading="lazy" width="auto" height="16px"> [Protea's Vectors ★](https://ceterai.github.io/MyEnternia/Wiki/Protea'sVectors) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

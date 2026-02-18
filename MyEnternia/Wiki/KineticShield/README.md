@@ -5,7 +5,7 @@
 This directional energy shield multiplies the impact and returns it to your enemies, launching them into the air.  
 It's powered by and projected from a special tiny wrist device that connects to your armor.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_kinetic_shield-upgrade.png" alt="Energy Blockade ★ icon" loading="lazy" width="auto" height="16px"> [Energy Blockade ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyBlockade) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_kinetic_shield-upgrade.png" alt="Energy Blockade ★ icon" loading="lazy" width="auto" height="16px"> [Energy Blockade ★](https://ceterai.github.io/MyEnternia/Wiki/EnergyBlockade) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

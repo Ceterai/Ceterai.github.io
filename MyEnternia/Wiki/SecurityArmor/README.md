@@ -4,7 +4,7 @@
 
 A standard protocol armor piece for [alta](https://ceterai.github.io/MyEnternia/Wiki/Alta) security units.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_chest-upgrade.png" alt="GR Guard ★ icon" loading="lazy" width="auto" height="16px"> [GR Guard ★](https://ceterai.github.io/MyEnternia/Wiki/GRGuard) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_security_chest-upgrade.png" alt="GR Guard ★ icon" loading="lazy" width="auto" height="16px"> [GR Guard ★](https://ceterai.github.io/MyEnternia/Wiki/GRGuard) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

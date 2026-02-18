@@ -5,7 +5,7 @@
 An emergency tool used for self defence. LMB stuns enemies in front of you, holding it launches a signal rocket.  
 Produced as a neseccary survival tool, it is often used by [alta scouts](https://ceterai.github.io/MyEnternia/Wiki/AltaScout), [sona soldiers](https://ceterai.github.io/MyEnternia/Wiki/SonaSoldier) and independent adventurers.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Scout Protector ★ icon" loading="lazy" width="auto" height="16px"> [Scout Protector ★](https://ceterai.github.io/MyEnternia/Wiki/ScoutProtector) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_alta_scout_blaster_2.png" alt="Scout Protector ★ icon" loading="lazy" width="auto" height="16px"> [Scout Protector ★](https://ceterai.github.io/MyEnternia/Wiki/ScoutProtector) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

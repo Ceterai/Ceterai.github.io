@@ -5,7 +5,7 @@
 The blade of this sword is made out of crystalline cave crystals. A bit rough around the edges, but still quite powerful.  
 With no alta markings on it's [bionix](https://ceterai.github.io/MyEnternia/Wiki/BionCompound) handle, its electro-crystallic conduction capabilities are very much Io-like.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Razor ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalRazor) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_crystalline_sword_2.png" alt="Crystal Razor ★ icon" loading="lazy" width="auto" height="16px"> [Crystal Razor ★](https://ceterai.github.io/MyEnternia/Wiki/CrystalRazor) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

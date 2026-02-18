@@ -7,7 +7,7 @@ This bastion of EDS defence is a basic combat tool usually carried by EDS mechs 
 
 _Elerune CDR_ is an integrated blast system, an inherent part of an EDS Claymore, and provides blaster-like abilities to the tool, making it addtionally effective in middle-range combat too.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore_2.png" alt="EDS Cannonsword ★ icon" loading="lazy" width="auto" height="16px"> [EDS Cannonsword ★](https://ceterai.github.io/MyEnternia/Wiki/EDSCannonsword) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_eds_claymore_2.png" alt="EDS Cannonsword ★ icon" loading="lazy" width="auto" height="16px"> [EDS Cannonsword ★](https://ceterai.github.io/MyEnternia/Wiki/EDSCannonsword) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

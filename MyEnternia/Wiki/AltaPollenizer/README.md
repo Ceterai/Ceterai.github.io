@@ -4,7 +4,7 @@
 
 An advanced rechargeable pump intended for sending instects to sleep. Can be used instead of a bug net.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon_upg.png" alt="Pollenizer M7 ★★ icon" loading="lazy" width="auto" height="16px"> [Pollenizer M7 ★★](https://ceterai.github.io/MyEnternia/Wiki/PollenizerM7) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/clean/pollenizer/icon_upg.png" alt="Pollenizer M7 ★★ icon" loading="lazy" width="auto" height="16px"> [Pollenizer M7 ★★](https://ceterai.github.io/MyEnternia/Wiki/PollenizerM7) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

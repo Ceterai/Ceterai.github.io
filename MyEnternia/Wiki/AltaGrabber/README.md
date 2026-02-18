@@ -4,7 +4,7 @@
 
 Holds a friendly creature in stasis in order to safely relocate it.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/grabber/icon_upg.png" alt="Multigrabber ★ icon" loading="lazy" width="auto" height="16px"> [Multigrabber ★](https://ceterai.github.io/MyEnternia/Wiki/Multigrabber) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/grab/grabber/icon_upg.png" alt="Multigrabber ★ icon" loading="lazy" width="auto" height="16px"> [Multigrabber ★](https://ceterai.github.io/MyEnternia/Wiki/Multigrabber) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

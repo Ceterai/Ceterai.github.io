@@ -4,7 +4,7 @@
 
 A multishot crystal blaster filled with poisonous shards.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun_2.png" alt="Bishyn Cannon ★ icon" loading="lazy" width="auto" height="16px"> [Bishyn Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/BishynCannon) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/cannon/ct_bishyn_gun_2.png" alt="Bishyn Cannon ★ icon" loading="lazy" width="auto" height="16px"> [Bishyn Cannon ★](https://ceterai.github.io/MyEnternia/Wiki/BishynCannon) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

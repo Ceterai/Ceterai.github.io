@@ -5,7 +5,7 @@
 A shield wielded by many protectors of the sky realm.  
 Its compact yet tall structure makes it very convenient during air combat, and its energy receptors allow it to slowly recharge its duration.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_arknight_shield-upgrade.png" alt="Eva Protos ★ icon" loading="lazy" width="auto" height="16px"> [Eva Protos ★](https://ceterai.github.io/MyEnternia/Wiki/EvaProtos) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_arknight_shield-upgrade.png" alt="Eva Protos ★ icon" loading="lazy" width="auto" height="16px"> [Eva Protos ★](https://ceterai.github.io/MyEnternia/Wiki/EvaProtos) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

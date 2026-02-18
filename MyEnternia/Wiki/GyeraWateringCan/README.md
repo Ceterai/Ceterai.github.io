@@ -4,7 +4,7 @@
 
 Water your crops with this fashionable watering can.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon_upg.png" alt="Iora Rincer ★ icon" loading="lazy" width="auto" height="16px"> [Iora Rincer ★](https://ceterai.github.io/MyEnternia/Wiki/IoraRincer) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/tools/water/gyera_can/icon_upg.png" alt="Iora Rincer ★ icon" loading="lazy" width="auto" height="16px"> [Iora Rincer ★](https://ceterai.github.io/MyEnternia/Wiki/IoraRincer) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Parameters
 

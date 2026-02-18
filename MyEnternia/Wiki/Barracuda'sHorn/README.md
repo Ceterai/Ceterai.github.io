@@ -5,7 +5,7 @@
 A horn from an especially massive cuda lurking in the flooded alterash caves.  
 It looks polished due to special cover that can be found on some appendages of rare cudas.
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-horn-upgrade.png" alt="Barracuda's Wing ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Wing ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sWing) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-horn-upgrade.png" alt="Barracuda's Wing ★ icon" loading="lazy" width="auto" height="16px"> [Barracuda's Wing ★](https://ceterai.github.io/MyEnternia/Wiki/Barracuda'sWing) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 

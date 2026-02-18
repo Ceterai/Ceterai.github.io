@@ -4,7 +4,7 @@
 
 Made out of <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_shroomic_loot.png" alt="Aric icon" loading="lazy" width="auto" height="16px"> [aric](https://ceterai.github.io/MyEnternia/Wiki/Aric) tissue, it glows dimly in the dark. Watch out for spores!
 
-Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang_2.png" alt="Ararangarang ★ icon" loading="lazy" width="auto" height="16px"> [Ararangarang ★](https://ceterai.github.io/MyEnternia/Wiki/Ararangarang) at the Weapon Upgrade Anvil.
+Can be upgraded to <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/unique/ct_ararang_2.png" alt="Ararangarang ★ icon" loading="lazy" width="auto" height="16px"> [Ararangarang ★](https://ceterai.github.io/MyEnternia/Wiki/Ararangarang) at the <img src="https://starbounder.org/mediawiki/images/3/38/Weapon_Upgrade_Anvil.png" alt="Weapon Upgrade Anvil icon" loading="lazy" width="auto" height="16px"> [Weapon Upgrade Anvil](https://starbounder.org/Weapon_Upgrade_Anvil).
 
 ## Ingame
 
