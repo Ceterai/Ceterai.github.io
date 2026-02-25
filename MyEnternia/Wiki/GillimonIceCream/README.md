@@ -43,5 +43,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - Level: `4`
 - Power: `2.75`
 - Rarity: `Uncommon`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`slime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Slime), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`alta_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/AltaCuisine), [`gil`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Gil), [`ice`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ice), [`slime`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Slime), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/items/buildscripts/ct_mimics/food.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/food.consumable)

@@ -1,21 +1,23 @@
 # Enchanted Tag
 
-The tag `enchanted` contains 8 total entries.
+The tag `enchanted` contains 10 total entries.
 
 ## Objects
 
 Following objects have this colony tag:
 
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/biome/alterash/viona/chest/icon.png" alt="Enchanted Chest icon" loading="lazy" width="auto" height="16px"> [Enchanted Chest](https://ceterai.github.io/MyEnternia/Wiki/EnchantedChest)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/bugs/vio_zych/icon.png" alt="Vio Zych icon" loading="lazy" width="auto" height="16px"> [Vio Zych](https://ceterai.github.io/MyEnternia/Wiki/VioZych)
 
 ## Tenants
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 7 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins_2.png" alt="Bi-Blade ★ icon" loading="lazy" width="auto" height="16px"> [Bi-Blade ★](https://ceterai.github.io/MyEnternia/Wiki/Bi-Blade)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster.png" alt="Enchanted Blaster icon" loading="lazy" width="auto" height="16px"> [Enchanted Blaster](https://ceterai.github.io/MyEnternia/Wiki/EnchantedBlaster)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/codex/alta/datamass/enchanted.png" alt="Enchanted Datamass icon" loading="lazy" width="auto" height="16px"> [Enchanted Datamass](https://ceterai.github.io/MyEnternia/Wiki/EnchantedDatamass)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/loot/biome/ct_enchanted_loot.png" alt="Enchanted Loot Crate icon" loading="lazy" width="auto" height="16px"> [Enchanted Loot Crate](https://ceterai.github.io/MyEnternia/Wiki/EnchantedLootCrate)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Pulser ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedPulser)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-viona_shield.png" alt="Enchanted Shield ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Shield ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedShield)

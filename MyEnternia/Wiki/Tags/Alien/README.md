@@ -1,10 +1,10 @@
 # Alien Tag
 
-The tag `alien` contains 22 total entries.
+The tag `alien` contains 23 total entries.
 
 ## Objects
 
-<details markdown="1"><summary>Following objects have this colony tag: (Expand 18 items)</summary>
+<details markdown="1"><summary>Following objects have this colony tag: (Expand 19 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/produce/alien_fruit/pod/icon.png" alt="Alien Fruit Eco Pod icon" loading="lazy" width="auto" height="16px"> [Alien Fruit Eco Pod](https://ceterai.github.io/MyEnternia/Wiki/AlienFruitEcoPod)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_azura_tree.png" alt="Azura icon" loading="lazy" width="auto" height="16px"> [Azura](https://ceterai.github.io/MyEnternia/Wiki/Azura)
@@ -21,6 +21,7 @@ The tag `alien` contains 22 total entries.
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ionic/sapling/icon.png" alt="Ionic Sapling ★ icon" loading="lazy" width="auto" height="16px"> [Ionic Sapling ★](https://ceterai.github.io/MyEnternia/Wiki/IonicSapling)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_livira_tree.png" alt="Livira icon" loading="lazy" width="auto" height="16px"> [Livira](https://ceterai.github.io/MyEnternia/Wiki/Livira)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pods/alien/icon.png" alt="Potted Alien Plant icon" loading="lazy" width="auto" height="16px"> [Potted Alien Plant](https://ceterai.github.io/MyEnternia/Wiki/PottedAlienPlant)
+- <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/pots/crops/ela/icon.png" alt="Potted Ela icon" loading="lazy" width="auto" height="16px"> [Potted Ela](https://ceterai.github.io/MyEnternia/Wiki/PottedEla)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/alta/special/plants/trees/ct_sofara_tree.png" alt="Sofara icon" loading="lazy" width="auto" height="16px"> [Sofara](https://ceterai.github.io/MyEnternia/Wiki/Sofara)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/ground/azura/icon.png" alt="Wild Azura Seed icon" loading="lazy" width="auto" height="16px"> [Wild Azura Seed](https://ceterai.github.io/MyEnternia/Wiki/WildAzuraSeed)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/objects/farmables/alta/liquid/ela/icon.png" alt="Wild Ela Sprout icon" loading="lazy" width="auto" height="16px"> [Wild Ela Sprout](https://ceterai.github.io/MyEnternia/Wiki/WildElaSprout)

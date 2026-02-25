@@ -61,5 +61,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - Level: `6`
 - Power: `3.5`
 - Rarity: `Legendary`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`koywa`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa), [`legendary`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary), [`meal`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Meal), [`warped`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Warped), [`yava_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/YavaCuisine)
 - File: [`/items/buildscripts/ct_mimics/food.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/food.consumable)

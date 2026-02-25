@@ -1,6 +1,6 @@
 # Meal Tag
 
-The tag `meal` contains 8 total entries.
+The tag `meal` contains 11 total entries.
 
 ## Objects
 
@@ -8,12 +8,15 @@ The tag `meal` contains 8 total entries.
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 8 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 11 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_palopias-blooming.png" alt="Blooming Palopias ★ icon" loading="lazy" width="auto" height="16px"> [Blooming Palopias ★](https://ceterai.github.io/MyEnternia/Wiki/BloomingPalopias)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-calin_jam_dumplings.png" alt="Calin Jam Dumplings icon" loading="lazy" width="auto" height="16px"> [Calin Jam Dumplings](https://ceterai.github.io/MyEnternia/Wiki/CalinJamDumplings)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_alta_dinner-caretaker.png" alt="Caretaker's Love icon" loading="lazy" width="auto" height="16px"> [Caretaker's Love](https://ceterai.github.io/MyEnternia/Wiki/Caretaker'sLove)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-graa_venetto.png" alt="Graa Venetto icon" loading="lazy" width="auto" height="16px"> [Graa Venetto](https://ceterai.github.io/MyEnternia/Wiki/GraaVenetto)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_haruplavu_venetto.png" alt="Haruplavu Venetto icon" loading="lazy" width="auto" height="16px"> [Haruplavu Venetto](https://ceterai.github.io/MyEnternia/Wiki/HaruplavuVenetto)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_ion_risotto.png" alt="Ion Risotto icon" loading="lazy" width="auto" height="16px"> [Ion Risotto](https://ceterai.github.io/MyEnternia/Wiki/IonRisotto)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-juni_porridge_w_galo.png" alt="Juni Porridge w/ Galo ★ icon" loading="lazy" width="auto" height="16px"> [Juni Porridge w/ Galo ★](https://ceterai.github.io/MyEnternia/Wiki/JuniPorridgewByGalo)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier4/ct_palopias.png" alt="Palopias icon" loading="lazy" width="auto" height="16px"> [Palopias](https://ceterai.github.io/MyEnternia/Wiki/Palopias)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_ion_risotto-perfect.png" alt="Perfect Ion Risotto ★ icon" loading="lazy" width="auto" height="16px"> [Perfect Ion Risotto ★](https://ceterai.github.io/MyEnternia/Wiki/PerfectIonRisotto)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier3/ct_alta_dinner.png" alt="Proper Alta Dinner icon" loading="lazy" width="auto" height="16px"> [Proper Alta Dinner](https://ceterai.github.io/MyEnternia/Wiki/ProperAltaDinner)

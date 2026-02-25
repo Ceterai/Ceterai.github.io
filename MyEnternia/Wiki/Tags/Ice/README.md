@@ -1,6 +1,6 @@
 # Ice Tag
 
-The tag `ice` contains 41 total entries.
+The tag `ice` contains 44 total entries.
 
 ## Objects
 
@@ -18,7 +18,7 @@ Following tenants require this colony tag:
 
 ## Items
 
-<details markdown="1"><summary>Following items have this item tag: (Expand 38 items)</summary>
+<details markdown="1"><summary>Following items have this item tag: (Expand 41 items)</summary>
 
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/thrower/body.png" alt="Alta Coldthrower icon" loading="lazy" width="auto" height="16px"> [Alta Coldthrower](https://ceterai.github.io/MyEnternia/Wiki/AltaColdthrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/alta/toys/snow/cannon/ct_alta_snow_cannon.png" alt="Alta Snow Cannon icon" loading="lazy" width="auto" height="16px"> [Alta Snow Cannon](https://ceterai.github.io/MyEnternia/Wiki/AltaSnowCannon)
@@ -39,6 +39,7 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/blaster/ct_enchanted_blaster_2.png" alt="Enchanted Pulser ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Pulser ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedPulser)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tool_mimic-viona_shield.png" alt="Enchanted Shield ★ icon" loading="lazy" width="auto" height="16px"> [Enchanted Shield ★](https://ceterai.github.io/MyEnternia/Wiki/EnchantedShield)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/heavy/ct_sky_lance_2.png" alt="Eva Linn ★ icon" loading="lazy" width="auto" height="16px"> [Eva Linn ★](https://ceterai.github.io/MyEnternia/Wiki/EvaLinn)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-gillimon_ice_cream.png" alt="Gillimon Ice Cream ★ icon" loading="lazy" width="auto" height="16px"> [Gillimon Ice Cream ★](https://ceterai.github.io/MyEnternia/Wiki/GillimonIceCream)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_aya_icecream-dessert.png" alt="Iced Aya Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Iced Aya Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedAyaDessert)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_icecream-dessert.png" alt="Iced Crystal Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Iced Crystal Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedCrystalDessert)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_icecream-dessert.png" alt="Iced Tsay Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Iced Tsay Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/IcedTsayDessert)
@@ -53,10 +54,12 @@ Following tenants require this colony tag:
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/ranged/alta/wrist/ct_soniathrower.png" alt="Soniathrower icon" loading="lazy" width="auto" height="16px"> [Soniathrower](https://ceterai.github.io/MyEnternia/Wiki/Soniathrower)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/shields/ct_spacedrifter_shield.png" alt="Spacedrifter Shield icon" loading="lazy" width="auto" height="16px"> [Spacedrifter Shield](https://ceterai.github.io/MyEnternia/Wiki/SpacedrifterShield)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_tsay_icecream-alien.png" alt="Strish Ice Cream icon" loading="lazy" width="auto" height="16px"> [Strish Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/StrishIceCream)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-tonna_ice_cream.png" alt="Tonna Ice Cream ★ icon" loading="lazy" width="auto" height="16px"> [Tonna Ice Cream ★](https://ceterai.github.io/MyEnternia/Wiki/TonnaIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/generic/food/tier2/ct_tsay_icecream.png" alt="Tsay Ice Cream icon" loading="lazy" width="auto" height="16px"> [Tsay Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/TsayIceCream)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/active/weapons/melee/alta/heavy/ct_enchanted_twins.png" alt="Vionos Twins icon" loading="lazy" width="auto" height="16px"> [Vionos Twins](https://ceterai.github.io/MyEnternia/Wiki/VionosTwins)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_biomix_icecream-virma.png" alt="Virmix Dessert ★ icon" loading="lazy" width="auto" height="16px"> [Virmix Dessert ★](https://ceterai.github.io/MyEnternia/Wiki/VirmixDessert)
 - <img src="https://raw.githubusercontent.com/Ceterai/Enternia/main/items/throwables/ct_vortex_nade.png" alt="Vortex Nade ★ icon" loading="lazy" width="auto" height="16px"> [Vortex Nade ★](https://ceterai.github.io/MyEnternia/Wiki/VortexNade)
 - <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_crystal_icecream-waffle.png" alt="Waffle Chip Ice Cream icon" loading="lazy" width="auto" height="16px"> [Waffle Chip Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/WaffleChipIceCream)
+- <img src="https://raw.githubusercontent.com/wiki/Ceterai/Enternia/images/icons/ct_food_mimic-yaavi_ice_cream.png" alt="Yaavi Ice Cream icon" loading="lazy" width="auto" height="16px"> [Yaavi Ice Cream](https://ceterai.github.io/MyEnternia/Wiki/YaaviIceCream)
 
 </details>

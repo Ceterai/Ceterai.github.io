@@ -1,6 +1,6 @@
 # Tags
 
-The mod adds a total of 393 tags:
+The mod adds a total of 390 tags:
 
 - [Agaranic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Agaranic)
 - [Aid](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aid)
@@ -32,7 +32,6 @@ The mod adds a total of 393 tags:
 - [Arco](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arco)
 - [Aric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Aric)
 - [Arknight](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arknight)
-- [Arknights](https://ceterai.github.io/MyEnternia/Wiki/Tags/Arknights)
 - [Armor](https://ceterai.github.io/MyEnternia/Wiki/Tags/Armor)
 - [Assaultrifle](https://ceterai.github.io/MyEnternia/Wiki/Tags/Assaultrifle)
 - [Astera](https://ceterai.github.io/MyEnternia/Wiki/Tags/Astera)
@@ -124,7 +123,6 @@ The mod adds a total of 393 tags:
 - [Dye](https://ceterai.github.io/MyEnternia/Wiki/Tags/Dye)
 - [Ebook](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ebook)
 - [Eds](https://ceterai.github.io/MyEnternia/Wiki/Tags/Eds)
-- [Ela](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ela)
 - [Electric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electric)
 - [Electronic](https://ceterai.github.io/MyEnternia/Wiki/Tags/Electronic)
 - [Elin](https://ceterai.github.io/MyEnternia/Wiki/Tags/Elin)
@@ -207,7 +205,6 @@ The mod adds a total of 393 tags:
 - [Knowledge](https://ceterai.github.io/MyEnternia/Wiki/Tags/Knowledge)
 - [Kodorric](https://ceterai.github.io/MyEnternia/Wiki/Tags/Kodorric)
 - [Koywa](https://ceterai.github.io/MyEnternia/Wiki/Tags/Koywa)
-- [Lava](https://ceterai.github.io/MyEnternia/Wiki/Tags/Lava)
 - [Legendary](https://ceterai.github.io/MyEnternia/Wiki/Tags/Legendary)
 - [Lenn](https://ceterai.github.io/MyEnternia/Wiki/Tags/Lenn)
 - [Light](https://ceterai.github.io/MyEnternia/Wiki/Tags/Light)

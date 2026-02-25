@@ -80,5 +80,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `3`
 - Power: `2.0`
 - Rarity: `Uncommon`
-- Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`colourful`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Colourful), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`colourful`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Colourful), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon), [`viona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona)
 - File: [`/objects/alta/special/plants/trees/ct_viona_tree.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plants/trees/ct_viona_tree.object)

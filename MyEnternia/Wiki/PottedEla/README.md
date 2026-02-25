@@ -44,5 +44,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `4`
 - Power: `2.5`
 - Rarity: `Uncommon`
-- Colony tags: [`ela`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Ela), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`potted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Potted), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
+- Colony tags: [`alien`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alien), [`garden`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Garden), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`potted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Potted), [`uncommon`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Uncommon)
 - File: [`/objects/alta/special/plants/pots/crops/ela/af.object`](https://github.com/Ceterai/Enternia/blob/main/objects/alta/special/plants/pots/crops/ela/af.object)

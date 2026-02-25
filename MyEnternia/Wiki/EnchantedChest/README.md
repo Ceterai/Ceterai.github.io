@@ -91,5 +91,5 @@ Can be obtained via <img src="https://raw.githubusercontent.com/Silverfeelin/Sta
 - Level: `2`
 - Power: `1.5`
 - Rarity: `Common`
-- Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage), [`viona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona)
+- Colony tags: [`alterash`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alterash), [`common`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Common), [`enchanted`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Enchanted), [`generic`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Generic), [`nature`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Nature), [`storage`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Storage), [`viona`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Viona)
 - File: [`/objects/biome/alterash/viona/chest/ct_enchanted_chest.object`](https://github.com/Ceterai/Enternia/blob/main/objects/biome/alterash/viona/chest/ct_enchanted_chest.object)

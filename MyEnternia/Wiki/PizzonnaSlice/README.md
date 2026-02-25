@@ -41,5 +41,5 @@ Can be obtained via <img src="https://steamuserimages-a.akamaihd.net/ugc/2638439
 - Level: `5`
 - Power: `3.0`
 - Rarity: `Rare`
-- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`tonnova`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova)
+- Tags: [`alta`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Alta), [`nia_cuisine`](https://ceterai.github.io/MyEnternia/Wiki/Tags/NiaCuisine), [`pizza`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Pizza), [`rare`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Rare), [`tonnova`](https://ceterai.github.io/MyEnternia/Wiki/Tags/Tonnova)
 - File: [`/items/buildscripts/ct_mimics/food.consumable`](https://github.com/Ceterai/Enternia/blob/main/items/buildscripts/ct_mimics/food.consumable)
